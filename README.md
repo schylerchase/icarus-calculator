@@ -87,8 +87,10 @@ Wait - Weekly scraper will sync changes
 
 Game: ICARUS by RocketWerkz
 Data: ICARUS Fandom Wiki Community
-Calculator: Community Tool
+Calculator: Community Tool, Developed by Schyler
 
-License
+## License
+
 This is a fan-made tool. ICARUS and related content are property of RocketWerkz.
+
 Calculator code: MIT License
