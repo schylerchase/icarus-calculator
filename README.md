@@ -2,9 +2,7 @@
 
 A comprehensive web-based crafting calculator for ICARUS, featuring all items from the game with intelligent resource availability checking across all three maps.
 
-**[Launch Calculator](https://yourusername.github.io/icarus-calculator/)**
-
-> Replace `yourusername` above with your actual GitHub username
+**[Launch Calculator](https://schylerchase.github.io/icarus-calculator/)**
 
 ## Features
 
