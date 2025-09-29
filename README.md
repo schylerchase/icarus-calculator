@@ -61,7 +61,7 @@ python RecipeScraping.py full
 
 # New JSON files saved to icarus_data/
 
-Technical Stack
+# Technical Stack
 
 Frontend: React (CDN) + Vanilla JavaScript
 Styling: Custom CSS (dark theme)
@@ -69,21 +69,21 @@ Data: JSON (21 category files)
 Hosting: GitHub Pages
 Updates: Python scraper with BeautifulSoup
 
-Known Limitations
+## Known Limitations
 
 Ingredient variations - Some items use "Stick" vs "Sticks" inconsistently
 Workshop items - Exotic crafting not included
 Special recipes - Some event/DLC items may be missing
 Wiki accuracy - Data quality depends on community wiki updates
 
-Contributing
+### Contributing
 Found incorrect data?
 
 Report issue - Open GitHub issue with details
 Fix wiki - Update ICARUS Fandom Wiki
 Wait - Weekly scraper will sync changes
 
-Credits
+## Credits
 
 Game: ICARUS by RocketWerkz
 Data: ICARUS Fandom Wiki Community
