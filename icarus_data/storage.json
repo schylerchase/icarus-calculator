@@ -1,0 +1,89 @@
+{
+  "category": "Storage",
+  "count": 8,
+  "items": [
+    {
+      "name": "Larkwell Martinez Heated Canteen",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "storage",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Heated_Canteen",
+      "weight": "1.0 kg"
+    },
+    {
+      "name": "Larkwell Martinez Oxygen Tank",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "storage",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Oxygen_Tank",
+      "weight": "0.2 kg"
+    },
+    {
+      "name": "MXC Crate",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "storage",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/MXC_Crate",
+      "weight": "2.0 kg"
+    },
+    {
+      "name": "Marble Kitchen Storage",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "storage",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Marble_Kitchen_Storage",
+      "weight": "20.0 kg",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Refrigerator",
+      "ingredients": {
+        "Aluminium Ingot": 40,
+        "Electronics": 20,
+        "Carbon Fiber": 8,
+        "Steel Screw": 12
+      },
+      "crafted_at": "Fabricator",
+      "category": "storage",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Refrigerator",
+      "weight": "20.0 kg",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Shengong \"Hulu\" Canteen",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "storage",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Shengong_%22Hulu%22_Canteen",
+      "weight": "1.0 kg"
+    },
+    {
+      "name": "Shengong 'Hulu' Canteen",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "storage",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Shengong_%27Hulu%27_Canteen",
+      "weight": "1.0 kg"
+    },
+    {
+      "name": "Shengong 'Liwei' O2 Tank",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "storage",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Shengong_%27Liwei%27_O2_Tank",
+      "weight": "0.1 kg"
+    }
+  ]
+}

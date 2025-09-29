@@ -1,0 +1,101 @@
+{
+  "category": "Farming",
+  "count": 8,
+  "items": [
+    {
+      "name": "Aeroponic Crop Plot",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "farming",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Aeroponic_Crop_Plot",
+      "weight": "2.0 kg"
+    },
+    {
+      "name": "Berry & Seed Bar",
+      "ingredients": {
+        "Any Seed": 10,
+        "Wild Berry": 10
+      },
+      "crafted_at": "Character Crafting",
+      "category": "farming",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Berry_%26_Seed_Bar",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Bramble Bush",
+      "ingredients": {
+        "BrambleSeeds": 1
+      },
+      "crafted_at": "Any crop plot or dirt mound.",
+      "category": "farming",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Bramble_Bush",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Any crop plot or dirt mound."
+      ]
+    },
+    {
+      "name": "Cocoa Seed",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "farming",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cocoa_Seed"
+    },
+    {
+      "name": "Hydroponic Crop Plot",
+      "ingredients": {
+        "Composites": 20,
+        "Steel Ingot": 25,
+        "Steel Screw": 10,
+        "Electronics": 10,
+        "Copper Wire": 20,
+        "Dirt": 20
+      },
+      "crafted_at": "Fabricator",
+      "category": "farming",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Hydroponic_Crop_Plot",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Seed Pouch",
+      "ingredients": {
+        "Fiber": 20,
+        "Leather": 10
+      },
+      "crafted_at": "Character Crafting",
+      "category": "farming",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Seed_Pouch",
+      "weight": "0.5 kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Seeds",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "farming",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Seeds"
+    },
+    {
+      "name": "Volatile Exotic Seed",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "farming",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Volatile_Exotic_Seed"
+    }
+  ]
+}

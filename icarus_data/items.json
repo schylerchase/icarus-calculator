@@ -1,0 +1,1527 @@
+[
+  {
+    "pageid": 2135,
+    "ns": 0,
+    "title": "AdLift Module"
+  },
+  {
+    "pageid": 3351,
+    "ns": 0,
+    "title": "Advanced Deep Mining Ore Scanner"
+  },
+  {
+    "pageid": 4885,
+    "ns": 0,
+    "title": "Advanced Iron Lure"
+  },
+  {
+    "pageid": 3640,
+    "ns": 0,
+    "title": "Advanced Storm Visor Attachment"
+  },
+  {
+    "pageid": 3605,
+    "ns": 0,
+    "title": "Advanced Supplemental Respiration Attachment"
+  },
+  {
+    "pageid": 5155,
+    "ns": 0,
+    "title": "Advanced Tool Attachment Pack"
+  },
+  {
+    "pageid": 3475,
+    "ns": 0,
+    "title": "Aerodynamic Attachment"
+  },
+  {
+    "pageid": 3304,
+    "ns": 0,
+    "title": "Animal Healthbar Module"
+  },
+  {
+    "pageid": 3305,
+    "ns": 0,
+    "title": "Animal Highlighting Module"
+  },
+  {
+    "pageid": 884,
+    "ns": 0,
+    "title": "Anti-Parasitic Paste"
+  },
+  {
+    "pageid": 1994,
+    "ns": 0,
+    "title": "Anti-Parasitic Tonic"
+  },
+  {
+    "pageid": 825,
+    "ns": 0,
+    "title": "Anti-Poison Paste"
+  },
+  {
+    "pageid": 2179,
+    "ns": 0,
+    "title": "Anti-Poison Tonic"
+  },
+  {
+    "pageid": 826,
+    "ns": 0,
+    "title": "Antibiotic Paste"
+  },
+  {
+    "pageid": 1993,
+    "ns": 0,
+    "title": "Antibiotic Tonic"
+  },
+  {
+    "pageid": 3160,
+    "ns": 0,
+    "title": "Archer's Backpack"
+  },
+  {
+    "pageid": 3472,
+    "ns": 0,
+    "title": "Armor Attachment Pack"
+  },
+  {
+    "pageid": 3499,
+    "ns": 0,
+    "title": "Attack Speed Attachment"
+  },
+  {
+    "pageid": 4898,
+    "ns": 0,
+    "title": "Bark Lure"
+  },
+  {
+    "pageid": 326,
+    "ns": 0,
+    "title": "Basic Fishing Rod"
+  },
+  {
+    "pageid": 3506,
+    "ns": 0,
+    "title": "Basic Scope Attachment"
+  },
+  {
+    "pageid": 6742,
+    "ns": 0,
+    "title": "Battery Powered Lantern"
+  },
+  {
+    "pageid": 4269,
+    "ns": 0,
+    "title": "BEAST"
+  },
+  {
+    "pageid": 2103,
+    "ns": 0,
+    "title": "Binoculars"
+  },
+  {
+    "pageid": 2001,
+    "ns": 0,
+    "title": "Biofuel Can"
+  },
+  {
+    "pageid": 3424,
+    "ns": 0,
+    "title": "Biofuel Extractor"
+  },
+  {
+    "pageid": 1542,
+    "ns": 0,
+    "title": "Biofuel Lamp"
+  },
+  {
+    "pageid": 3426,
+    "ns": 0,
+    "title": "Biofuel Radar"
+  },
+  {
+    "pageid": 4624,
+    "ns": 0,
+    "title": "Biomore Backpack"
+  },
+  {
+    "pageid": 3545,
+    "ns": 0,
+    "title": "Black Wolf Knife"
+  },
+  {
+    "pageid": 4900,
+    "ns": 0,
+    "title": "Black Wolf Lure"
+  },
+  {
+    "pageid": 891,
+    "ns": 0,
+    "title": "Blood Thinning Paste"
+  },
+  {
+    "pageid": 2178,
+    "ns": 0,
+    "title": "Blood Thinning Tonic"
+  },
+  {
+    "pageid": 4886,
+    "ns": 0,
+    "title": "Blue Reed Lure"
+  },
+  {
+    "pageid": 307,
+    "ns": 0,
+    "title": "Bone Knife"
+  },
+  {
+    "pageid": 4896,
+    "ns": 0,
+    "title": "Bone Lure"
+  },
+  {
+    "pageid": 4204,
+    "ns": 0,
+    "title": "Bone Shield"
+  },
+  {
+    "pageid": 1876,
+    "ns": 0,
+    "title": "Bone Sickle"
+  },
+  {
+    "pageid": 1897,
+    "ns": 0,
+    "title": "Building Upgrade Tool"
+  },
+  {
+    "pageid": 6448,
+    "ns": 0,
+    "title": "C0NT4CT Radio"
+  },
+  {
+    "pageid": 3477,
+    "ns": 0,
+    "title": "Calibrated Grip Attachment"
+  },
+  {
+    "pageid": 1903,
+    "ns": 0,
+    "title": "Canteen"
+  },
+  {
+    "pageid": 4422,
+    "ns": 0,
+    "title": "Carbon Fibre Round Shield"
+  },
+  {
+    "pageid": 3497,
+    "ns": 0,
+    "title": "Carcass Harvesting Attachment"
+  },
+  {
+    "pageid": 3349,
+    "ns": 0,
+    "title": "Cave Scanner"
+  },
+  {
+    "pageid": 3318,
+    "ns": 0,
+    "title": "Caveworm Knife"
+  },
+  {
+    "pageid": 4370,
+    "ns": 0,
+    "title": "Clay"
+  },
+  {
+    "pageid": 4411,
+    "ns": 0,
+    "title": "Cold Steel Axe"
+  },
+  {
+    "pageid": 7101,
+    "ns": 0,
+    "title": "Cold Steel Knife"
+  },
+  {
+    "pageid": 6092,
+    "ns": 0,
+    "title": "Cold Steel Pickaxe"
+  },
+  {
+    "pageid": 7102,
+    "ns": 0,
+    "title": "Cold Steel Sickle"
+  },
+  {
+    "pageid": 6482,
+    "ns": 0,
+    "title": "Cold Steel Sledgehammer"
+  },
+  {
+    "pageid": 898,
+    "ns": 0,
+    "title": "Combat Knife"
+  },
+  {
+    "pageid": 4423,
+    "ns": 0,
+    "title": "Composite Tactical Shield"
+  },
+  {
+    "pageid": 3528,
+    "ns": 0,
+    "title": "Copper Attachment"
+  },
+  {
+    "pageid": 7108,
+    "ns": 0,
+    "title": "Culinex Backpack"
+  },
+  {
+    "pageid": 4888,
+    "ns": 0,
+    "title": "Cured Leather Lure"
+  },
+  {
+    "pageid": 3350,
+    "ns": 0,
+    "title": "Deep Mining Ore Scanner"
+  },
+  {
+    "pageid": 2141,
+    "ns": 0,
+    "title": "Detoxifier Module"
+  },
+  {
+    "pageid": 4891,
+    "ns": 0,
+    "title": "Dogtags Lure"
+  },
+  {
+    "pageid": 2139,
+    "ns": 0,
+    "title": "DoseUp Module"
+  },
+  {
+    "pageid": 3508,
+    "ns": 0,
+    "title": "Economic Attachment"
+  },
+  {
+    "pageid": 2660,
+    "ns": 0,
+    "title": "Electric Extractor"
+  },
+  {
+    "pageid": 2102,
+    "ns": 0,
+    "title": "Electric Radar"
+  },
+  {
+    "pageid": 2733,
+    "ns": 0,
+    "title": "Electricity Tool"
+  },
+  {
+    "pageid": 4453,
+    "ns": 0,
+    "title": "Encrypted Satellite Upgrade"
+  },
+  {
+    "pageid": 3921,
+    "ns": 0,
+    "title": "F.I.S.H."
+  },
+  {
+    "pageid": 6723,
+    "ns": 0,
+    "title": "Farmers Satchel"
+  },
+  {
+    "pageid": 4880,
+    "ns": 0,
+    "title": "Fiber Lure"
+  },
+  {
+    "pageid": 1901,
+    "ns": 0,
+    "title": "Fire Extinguisher"
+  },
+  {
+    "pageid": 300,
+    "ns": 0,
+    "title": "Fire Whacker"
+  },
+  {
+    "pageid": 4264,
+    "ns": 0,
+    "title": "Fisher's Module"
+  },
+  {
+    "pageid": 1544,
+    "ns": 0,
+    "title": "Flashlight"
+  },
+  {
+    "pageid": 3510,
+    "ns": 0,
+    "title": "Flexible Frame Attachment"
+  },
+  {
+    "pageid": 3159,
+    "ns": 0,
+    "title": "Gatherer's Backpack"
+  },
+  {
+    "pageid": 3530,
+    "ns": 0,
+    "title": "Gold Attachment"
+  },
+  {
+    "pageid": 4903,
+    "ns": 0,
+    "title": "Gold Ore Lure"
+  },
+  {
+    "pageid": 4889,
+    "ns": 0,
+    "title": "Gorse Flower Lure"
+  },
+  {
+    "pageid": 3512,
+    "ns": 0,
+    "title": "Handcannon Attachment"
+  },
+  {
+    "pageid": 3418,
+    "ns": 0,
+    "title": "Healing Boost Module"
+  },
+  {
+    "pageid": 6236,
+    "ns": 0,
+    "title": "Health Recovery Concoction"
+  },
+  {
+    "pageid": 3611,
+    "ns": 0,
+    "title": "Health Recovery Tonic"
+  },
+  {
+    "pageid": 3593,
+    "ns": 0,
+    "title": "IC-001 Extractor"
+  },
+  {
+    "pageid": 3582,
+    "ns": 0,
+    "title": "IC-001 Prototype Power Source"
+  },
+  {
+    "pageid": 3588,
+    "ns": 0,
+    "title": "IC-001 Radar"
+  },
+  {
+    "pageid": 4282,
+    "ns": 0,
+    "title": "Inaris \"Cerulean\" Knife"
+  },
+  {
+    "pageid": 4277,
+    "ns": 0,
+    "title": "Inaris \"Claret\" Pickaxe"
+  },
+  {
+    "pageid": 4281,
+    "ns": 0,
+    "title": "Inaris \"Crimson\" Knife"
+  },
+  {
+    "pageid": 4274,
+    "ns": 0,
+    "title": "Inaris \"Dawn\" Axe"
+  },
+  {
+    "pageid": 3274,
+    "ns": 0,
+    "title": "Inaris \"Dias\" Axe"
+  },
+  {
+    "pageid": 4272,
+    "ns": 0,
+    "title": "Inaris \"Ersa\" Axe"
+  },
+  {
+    "pageid": 3275,
+    "ns": 0,
+    "title": "Inaris \"Neves\" Pickaxe"
+  },
+  {
+    "pageid": 4276,
+    "ns": 0,
+    "title": "Inaris \"Night\" Pickaxe"
+  },
+  {
+    "pageid": 7041,
+    "ns": 0,
+    "title": "Inaris \"Reaper\" Sickle"
+  },
+  {
+    "pageid": 4273,
+    "ns": 0,
+    "title": "Inaris \"Sali\" Axe"
+  },
+  {
+    "pageid": 4280,
+    "ns": 0,
+    "title": "Inaris \"Shade\" Knife"
+  },
+  {
+    "pageid": 3276,
+    "ns": 0,
+    "title": "Inaris \"Ventura\" Knife"
+  },
+  {
+    "pageid": 4278,
+    "ns": 0,
+    "title": "Inaris \"Viridian\" Pickaxe"
+  },
+  {
+    "pageid": 4452,
+    "ns": 0,
+    "title": "Infrasonic Relay Upgrade"
+  },
+  {
+    "pageid": 4599,
+    "ns": 0,
+    "title": "Ion Backpack"
+  },
+  {
+    "pageid": 390,
+    "ns": 0,
+    "title": "Iron Axe"
+  },
+  {
+    "pageid": 1898,
+    "ns": 0,
+    "title": "Iron Hammer"
+  },
+  {
+    "pageid": 393,
+    "ns": 0,
+    "title": "Iron Knife"
+  },
+  {
+    "pageid": 4884,
+    "ns": 0,
+    "title": "Iron Lure"
+  },
+  {
+    "pageid": 388,
+    "ns": 0,
+    "title": "Iron Pickaxe"
+  },
+  {
+    "pageid": 6273,
+    "ns": 0,
+    "title": "Iron Shears"
+  },
+  {
+    "pageid": 323,
+    "ns": 0,
+    "title": "Iron Sickle"
+  },
+  {
+    "pageid": 6480,
+    "ns": 0,
+    "title": "Iron Sledgehammer"
+  },
+  {
+    "pageid": 2136,
+    "ns": 0,
+    "title": "KickFall Module"
+  },
+  {
+    "pageid": 325,
+    "ns": 0,
+    "title": "Lantern"
+  },
+  {
+    "pageid": 3298,
+    "ns": 0,
+    "title": "Larkwell Martinez Axe"
+  },
+  {
+    "pageid": 3297,
+    "ns": 0,
+    "title": "Larkwell Martinez Hammer"
+  },
+  {
+    "pageid": 4271,
+    "ns": 0,
+    "title": "Larkwell Martinez Heated Canteen"
+  },
+  {
+    "pageid": 3301,
+    "ns": 0,
+    "title": "Larkwell Martinez Knife"
+  },
+  {
+    "pageid": 3415,
+    "ns": 0,
+    "title": "Larkwell Martinez Mercenary Backpack"
+  },
+  {
+    "pageid": 4270,
+    "ns": 0,
+    "title": "Larkwell Martinez Oxygen Tank"
+  },
+  {
+    "pageid": 3299,
+    "ns": 0,
+    "title": "Larkwell Martinez Pickaxe"
+  },
+  {
+    "pageid": 3303,
+    "ns": 0,
+    "title": "Larkwell Martinez Sickle"
+  },
+  {
+    "pageid": 3416,
+    "ns": 0,
+    "title": "Larkwell Martinez Tactical Backpack"
+  },
+  {
+    "pageid": 3526,
+    "ns": 0,
+    "title": "Leather Attachment"
+  },
+  {
+    "pageid": 2106,
+    "ns": 0,
+    "title": "Leather Backpack"
+  },
+  {
+    "pageid": 3514,
+    "ns": 0,
+    "title": "Lightweight Frame Attachment"
+  },
+  {
+    "pageid": 828,
+    "ns": 0,
+    "title": "Lily"
+  },
+  {
+    "pageid": 2140,
+    "ns": 0,
+    "title": "Lowburn Module"
+  },
+  {
+    "pageid": 2104,
+    "ns": 0,
+    "title": "Machete"
+  },
+  {
+    "pageid": 2010,
+    "ns": 0,
+    "title": "Mass Dampener Module"
+  },
+  {
+    "pageid": 6237,
+    "ns": 0,
+    "title": "Medical Satchel"
+  },
+  {
+    "pageid": 3491,
+    "ns": 0,
+    "title": "Melee Damage Attachment"
+  },
+  {
+    "pageid": 6301,
+    "ns": 0,
+    "title": "Miasmic Axe"
+  },
+  {
+    "pageid": 6303,
+    "ns": 0,
+    "title": "Miasmic Knife"
+  },
+  {
+    "pageid": 6300,
+    "ns": 0,
+    "title": "Miasmic Pickaxe"
+  },
+  {
+    "pageid": 6801,
+    "ns": 0,
+    "title": "Miasmic Sickle"
+  },
+  {
+    "pageid": 6302,
+    "ns": 0,
+    "title": "Miasmic Sledgehammer"
+  },
+  {
+    "pageid": 4265,
+    "ns": 0,
+    "title": "Miner's Module"
+  },
+  {
+    "pageid": 7476,
+    "ns": 0,
+    "title": "Mining Armature"
+  },
+  {
+    "pageid": 2098,
+    "ns": 0,
+    "title": "MXC Axe"
+  },
+  {
+    "pageid": 2182,
+    "ns": 0,
+    "title": "MXC Firewhacker"
+  },
+  {
+    "pageid": 3766,
+    "ns": 0,
+    "title": "MXC Fuel Canister"
+  },
+  {
+    "pageid": 2181,
+    "ns": 0,
+    "title": "MXC Hammer"
+  },
+  {
+    "pageid": 6484,
+    "ns": 0,
+    "title": "MXC Hydrazine Canister"
+  },
+  {
+    "pageid": 2092,
+    "ns": 0,
+    "title": "MXC Knife"
+  },
+  {
+    "pageid": 2180,
+    "ns": 0,
+    "title": "MXC Pickaxe"
+  },
+  {
+    "pageid": 3302,
+    "ns": 0,
+    "title": "MXC Sickle"
+  },
+  {
+    "pageid": 3516,
+    "ns": 0,
+    "title": "Narrow Barrel Attachment"
+  },
+  {
+    "pageid": 3479,
+    "ns": 0,
+    "title": "Noise Suppression Attachment"
+  },
+  {
+    "pageid": 7513,
+    "ns": 0,
+    "title": "Norex Boss Tracker Upgrade"
+  },
+  {
+    "pageid": 4372,
+    "ns": 0,
+    "title": "Obsidian"
+  },
+  {
+    "pageid": 6481,
+    "ns": 0,
+    "title": "Obsidian Sledgehammer"
+  },
+  {
+    "pageid": 329,
+    "ns": 0,
+    "title": "Oxygen Bladder"
+  },
+  {
+    "pageid": 1905,
+    "ns": 0,
+    "title": "Oxygen Tank"
+  },
+  {
+    "pageid": 2137,
+    "ns": 0,
+    "title": "Patcher I Module"
+  },
+  {
+    "pageid": 2138,
+    "ns": 0,
+    "title": "Patcher II Module"
+  },
+  {
+    "pageid": 4267,
+    "ns": 0,
+    "title": "Pheromone Module"
+  },
+  {
+    "pageid": 3502,
+    "ns": 0,
+    "title": "Plating Attachment"
+  },
+  {
+    "pageid": 3487,
+    "ns": 0,
+    "title": "Platinum Attachment"
+  },
+  {
+    "pageid": 1953,
+    "ns": 0,
+    "title": "Platinum Axe"
+  },
+  {
+    "pageid": 1956,
+    "ns": 0,
+    "title": "Platinum Hammer"
+  },
+  {
+    "pageid": 1954,
+    "ns": 0,
+    "title": "Platinum Knife"
+  },
+  {
+    "pageid": 1842,
+    "ns": 0,
+    "title": "Platinum Pickaxe"
+  },
+  {
+    "pageid": 6459,
+    "ns": 0,
+    "title": "Platinum Shield"
+  },
+  {
+    "pageid": 6787,
+    "ns": 0,
+    "title": "Platinum Shovel"
+  },
+  {
+    "pageid": 1955,
+    "ns": 0,
+    "title": "Platinum Sickle"
+  },
+  {
+    "pageid": 3450,
+    "ns": 0,
+    "title": "Platinum Weave"
+  },
+  {
+    "pageid": 2009,
+    "ns": 0,
+    "title": "Player Tracker Module"
+  },
+  {
+    "pageid": 3504,
+    "ns": 0,
+    "title": "Pockets Attachment"
+  },
+  {
+    "pageid": 4893,
+    "ns": 0,
+    "title": "Poison Sack Lure"
+  },
+  {
+    "pageid": 6317,
+    "ns": 0,
+    "title": "Portable Icebox Backpack"
+  },
+  {
+    "pageid": 4377,
+    "ns": 0,
+    "title": "Potato"
+  },
+  {
+    "pageid": 3532,
+    "ns": 0,
+    "title": "Prime Meat Attachment"
+  },
+  {
+    "pageid": 4268,
+    "ns": 0,
+    "title": "Protection Module"
+  },
+  {
+    "pageid": 7100,
+    "ns": 0,
+    "title": "Prototype Trail Beacon Tool"
+  },
+  {
+    "pageid": 3500,
+    "ns": 0,
+    "title": "Ranged Attachment Pack"
+  },
+  {
+    "pageid": 3493,
+    "ns": 0,
+    "title": "Reaping Attachment"
+  },
+  {
+    "pageid": 890,
+    "ns": 0,
+    "title": "Reed Flower"
+  },
+  {
+    "pageid": 4887,
+    "ns": 0,
+    "title": "Reed Flower Lure"
+  },
+  {
+    "pageid": 3915,
+    "ns": 0,
+    "title": "Refined Wood Fishing Rod"
+  },
+  {
+    "pageid": 4883,
+    "ns": 0,
+    "title": "Refined Wood Lure"
+  },
+  {
+    "pageid": 3495,
+    "ns": 0,
+    "title": "Repair Speed Attachment"
+  },
+  {
+    "pageid": 4882,
+    "ns": 0,
+    "title": "Rotten Meat Lure"
+  },
+  {
+    "pageid": 4892,
+    "ns": 0,
+    "title": "Rubber Lure"
+  },
+  {
+    "pageid": 3481,
+    "ns": 0,
+    "title": "Rubberized Attachment"
+  },
+  {
+    "pageid": 3319,
+    "ns": 0,
+    "title": "Sandworm Knife"
+  },
+  {
+    "pageid": 4374,
+    "ns": 0,
+    "title": "Scoria"
+  },
+  {
+    "pageid": 4902,
+    "ns": 0,
+    "title": "Scorpion Tail Lure"
+  },
+  {
+    "pageid": 4525,
+    "ns": 0,
+    "title": "Seed Pouch"
+  },
+  {
+    "pageid": 2296,
+    "ns": 0,
+    "title": "Shengong \"Akira\" Hammer"
+  },
+  {
+    "pageid": 2292,
+    "ns": 0,
+    "title": "Shengong \"Daokou\" Knife"
+  },
+  {
+    "pageid": 2286,
+    "ns": 0,
+    "title": "Shengong \"Dong\" Pickaxe"
+  },
+  {
+    "pageid": 2289,
+    "ns": 0,
+    "title": "Shengong \"Heike\" Axe"
+  },
+  {
+    "pageid": 2302,
+    "ns": 0,
+    "title": "Shengong \"Hulu\" Canteen"
+  },
+  {
+    "pageid": 2288,
+    "ns": 0,
+    "title": "Shengong \"Jushi\" Pickaxe"
+  },
+  {
+    "pageid": 2005,
+    "ns": 0,
+    "title": "Shengong \"Kuang\" Pickaxe"
+  },
+  {
+    "pageid": 2291,
+    "ns": 0,
+    "title": "Shengong 'Lie' Axe"
+  },
+  {
+    "pageid": 2301,
+    "ns": 0,
+    "title": "Shengong 'Liwei' O2 Tank"
+  },
+  {
+    "pageid": 2006,
+    "ns": 0,
+    "title": "Shengong 'Qie' Knife"
+  },
+  {
+    "pageid": 2290,
+    "ns": 0,
+    "title": "Shengong 'Sen' Axe"
+  },
+  {
+    "pageid": 2293,
+    "ns": 0,
+    "title": "Shengong 'Shui' Knife"
+  },
+  {
+    "pageid": 2294,
+    "ns": 0,
+    "title": "Shengong 'Sichou' Knife"
+  },
+  {
+    "pageid": 2287,
+    "ns": 0,
+    "title": "Shengong 'Sui Shi' Pickaxe"
+  },
+  {
+    "pageid": 2295,
+    "ns": 0,
+    "title": "Shengong 'Tetsuo' Hammer"
+  },
+  {
+    "pageid": 4275,
+    "ns": 0,
+    "title": "Shengong CY7 Axe"
+  },
+  {
+    "pageid": 4283,
+    "ns": 0,
+    "title": "Shengong DL7 Knife"
+  },
+  {
+    "pageid": 4279,
+    "ns": 0,
+    "title": "Shengong UT5 Pickaxe"
+  },
+  {
+    "pageid": 328,
+    "ns": 0,
+    "title": "Shovel"
+  },
+  {
+    "pageid": 3518,
+    "ns": 0,
+    "title": "Silencer Attachment"
+  },
+  {
+    "pageid": 3636,
+    "ns": 0,
+    "title": "Sinotai Dropship Recall Beacon"
+  },
+  {
+    "pageid": 7170,
+    "ns": 0,
+    "title": "Small Blue Pouch"
+  },
+  {
+    "pageid": 7169,
+    "ns": 0,
+    "title": "Small Green Pouch"
+  },
+  {
+    "pageid": 7167,
+    "ns": 0,
+    "title": "Small Pouch"
+  },
+  {
+    "pageid": 7168,
+    "ns": 0,
+    "title": "Small Red Pouch"
+  },
+  {
+    "pageid": 3520,
+    "ns": 0,
+    "title": "Sniper Scope Attachment"
+  },
+  {
+    "pageid": 3613,
+    "ns": 0,
+    "title": "Stamina Enhancement Tonic"
+  },
+  {
+    "pageid": 888,
+    "ns": 0,
+    "title": "Steel Axe"
+  },
+  {
+    "pageid": 1899,
+    "ns": 0,
+    "title": "Steel Hammer"
+  },
+  {
+    "pageid": 4205,
+    "ns": 0,
+    "title": "Steel Heater Shield"
+  },
+  {
+    "pageid": 896,
+    "ns": 0,
+    "title": "Steel Knife"
+  },
+  {
+    "pageid": 446,
+    "ns": 0,
+    "title": "Steel Pickaxe"
+  },
+  {
+    "pageid": 302,
+    "ns": 0,
+    "title": "Stone Axe"
+  },
+  {
+    "pageid": 306,
+    "ns": 0,
+    "title": "Stone Knife"
+  },
+  {
+    "pageid": 303,
+    "ns": 0,
+    "title": "Stone Pickaxe"
+  },
+  {
+    "pageid": 3483,
+    "ns": 0,
+    "title": "Storm Visor Attachment"
+  },
+  {
+    "pageid": 3417,
+    "ns": 0,
+    "title": "Strength Boost Module"
+  },
+  {
+    "pageid": 3617,
+    "ns": 0,
+    "title": "Strength Enhancement Tonic"
+  },
+  {
+    "pageid": 3522,
+    "ns": 0,
+    "title": "Strengthened Strings Attachment"
+  },
+  {
+    "pageid": 4263,
+    "ns": 0,
+    "title": "Suit Conditioning Module"
+  },
+  {
+    "pageid": 3485,
+    "ns": 0,
+    "title": "Supplemental Filtration Attachment"
+  },
+  {
+    "pageid": 3471,
+    "ns": 0,
+    "title": "Supplemental Respiration Attachment"
+  },
+  {
+    "pageid": 3161,
+    "ns": 0,
+    "title": "Survival Backpack"
+  },
+  {
+    "pageid": 4266,
+    "ns": 0,
+    "title": "Survival Module"
+  },
+  {
+    "pageid": 3615,
+    "ns": 0,
+    "title": "Sustenance Enhancement Tonic"
+  },
+  {
+    "pageid": 899,
+    "ns": 0,
+    "title": "Taxidermy Knife"
+  },
+  {
+    "pageid": 6754,
+    "ns": 0,
+    "title": "The Excavator"
+  },
+  {
+    "pageid": 1904,
+    "ns": 0,
+    "title": "Thermos"
+  },
+  {
+    "pageid": 3489,
+    "ns": 0,
+    "title": "Titanium Attachment"
+  },
+  {
+    "pageid": 883,
+    "ns": 0,
+    "title": "Titanium Axe"
+  },
+  {
+    "pageid": 3348,
+    "ns": 0,
+    "title": "Titanium Hammer"
+  },
+  {
+    "pageid": 897,
+    "ns": 0,
+    "title": "Titanium Knife"
+  },
+  {
+    "pageid": 761,
+    "ns": 0,
+    "title": "Titanium Pickaxe"
+  },
+  {
+    "pageid": 6789,
+    "ns": 0,
+    "title": "Titanium Shovel"
+  },
+  {
+    "pageid": 1900,
+    "ns": 0,
+    "title": "Titanium Sickle"
+  },
+  {
+    "pageid": 4593,
+    "ns": 0,
+    "title": "Titanium Tower Shield"
+  },
+  {
+    "pageid": 3524,
+    "ns": 0,
+    "title": "Trajectory Module Attachment"
+  },
+  {
+    "pageid": 3894,
+    "ns": 0,
+    "title": "Water Bomb"
+  },
+  {
+    "pageid": 3232,
+    "ns": 0,
+    "title": "Water Pipe Tool"
+  },
+  {
+    "pageid": 4222,
+    "ns": 0,
+    "title": "Watering Can"
+  },
+  {
+    "pageid": 1410,
+    "ns": 0,
+    "title": "Wheat"
+  },
+  {
+    "pageid": 4894,
+    "ns": 0,
+    "title": "White Jelly Lure"
+  },
+  {
+    "pageid": 4897,
+    "ns": 0,
+    "title": "Wolf Lure"
+  },
+  {
+    "pageid": 483,
+    "ns": 0,
+    "title": "Wood Hammer"
+  },
+  {
+    "pageid": 298,
+    "ns": 0,
+    "title": "Wood Rag Torch"
+  },
+  {
+    "pageid": 3892,
+    "ns": 0,
+    "title": "Wood Shield"
+  },
+  {
+    "pageid": 525,
+    "ns": 0,
+    "title": "Wood Torch"
+  },
+  {
+    "pageid": 3914,
+    "ns": 0,
+    "title": "Wooden Fishing Rod"
+  },
+  {
+    "pageid": 4972,
+    "ns": 0,
+    "title": "Wooden Lure"
+  },
+  {
+    "pageid": 4223,
+    "ns": 0,
+    "title": "Wooden Shovel"
+  },
+  {
+    "pageid": 3419,
+    "ns": 0,
+    "title": "Workshop Repair Kit Bundle"
+  },
+  {
+    "pageid": 3655,
+    "ns": 0,
+    "title": "World Boss Module"
+  },
+  {
+    "pageid": 4634,
+    "ns": 0,
+    "title": "Xenon Backpack"
+  },
+  {
+    "pageid": 291,
+    "ns": 0,
+    "title": "Yeast"
+  },
+  {
+    "pageid": 4890,
+    "ns": 0,
+    "title": "Yeast Lure"
+  },
+  {
+    "pageid": 3602,
+    "ns": 14,
+    "title": "Category:Advanced Armor Attachment Pack"
+  },
+  {
+    "pageid": 1463,
+    "ns": 14,
+    "title": "Category:Ammo"
+  },
+  {
+    "pageid": 1203,
+    "ns": 14,
+    "title": "Category:Arctic Armor"
+  },
+  {
+    "pageid": 2133,
+    "ns": 14,
+    "title": "Category:Armors"
+  },
+  {
+    "pageid": 3468,
+    "ns": 14,
+    "title": "Category:Attachment Packs"
+  },
+  {
+    "pageid": 881,
+    "ns": 14,
+    "title": "Category:Axes"
+  },
+  {
+    "pageid": 4752,
+    "ns": 14,
+    "title": "Category:Bone Armor"
+  },
+  {
+    "pageid": 1457,
+    "ns": 14,
+    "title": "Category:Bows"
+  },
+  {
+    "pageid": 5034,
+    "ns": 14,
+    "title": "Category:Brown Bear Armor"
+  },
+  {
+    "pageid": 1454,
+    "ns": 14,
+    "title": "Category:Building Pieces"
+  },
+  {
+    "pageid": 1124,
+    "ns": 14,
+    "title": "Category:Cloth Armor"
+  },
+  {
+    "pageid": 1853,
+    "ns": 14,
+    "title": "Category:Composite Armor"
+  },
+  {
+    "pageid": 1421,
+    "ns": 14,
+    "title": "Category:Consumables"
+  },
+  {
+    "pageid": 1474,
+    "ns": 14,
+    "title": "Category:Crafted Resources"
+  },
+  {
+    "pageid": 1458,
+    "ns": 14,
+    "title": "Category:Crossbows"
+  },
+  {
+    "pageid": 3438,
+    "ns": 14,
+    "title": "Category:Cured Leather Armor"
+  },
+  {
+    "pageid": 3403,
+    "ns": 14,
+    "title": "Category:CX-400 Armor"
+  },
+  {
+    "pageid": 901,
+    "ns": 14,
+    "title": "Category:Deployables"
+  },
+  {
+    "pageid": 1465,
+    "ns": 14,
+    "title": "Category:Drinks"
+  },
+  {
+    "pageid": 1461,
+    "ns": 14,
+    "title": "Category:Firearms"
+  },
+  {
+    "pageid": 2767,
+    "ns": 14,
+    "title": "Category:Fishing Equipment"
+  },
+  {
+    "pageid": 5676,
+    "ns": 14,
+    "title": "Category:Fishing Rod"
+  },
+  {
+    "pageid": 1135,
+    "ns": 14,
+    "title": "Category:Fur Armor"
+  },
+  {
+    "pageid": 1191,
+    "ns": 14,
+    "title": "Category:Ghillie Armor"
+  },
+  {
+    "pageid": 5044,
+    "ns": 14,
+    "title": "Category:Heavy Obsidian Armor"
+  },
+  {
+    "pageid": 2090,
+    "ns": 14,
+    "title": "Category:Hunter Armor"
+  },
+  {
+    "pageid": 3696,
+    "ns": 14,
+    "title": "Category:Javelins"
+  },
+  {
+    "pageid": 879,
+    "ns": 14,
+    "title": "Category:Knives"
+  },
+  {
+    "pageid": 4609,
+    "ns": 14,
+    "title": "Category:Larkwell Martinez Tachyon Armor"
+  },
+  {
+    "pageid": 1129,
+    "ns": 14,
+    "title": "Category:Leather Armor"
+  },
+  {
+    "pageid": 4879,
+    "ns": 14,
+    "title": "Category:Lures"
+  },
+  {
+    "pageid": 1507,
+    "ns": 14,
+    "title": "Category:Medicine"
+  },
+  {
+    "pageid": 1849,
+    "ns": 14,
+    "title": "Category:Minerals"
+  },
+  {
+    "pageid": 2142,
+    "ns": 14,
+    "title": "Category:Modules"
+  },
+  {
+    "pageid": 2134,
+    "ns": 14,
+    "title": "Category:Naneo Armor"
+  },
+  {
+    "pageid": 4481,
+    "ns": 14,
+    "title": "Category:Obsidian Armor"
+  },
+  {
+    "pageid": 206,
+    "ns": 14,
+    "title": "Category:Resources"
+  },
+  {
+    "pageid": 6283,
+    "ns": 14,
+    "title": "Category:Saddles"
+  },
+  {
+    "pageid": 3546,
+    "ns": 14,
+    "title": "Category:Scorpion Armor"
+  },
+  {
+    "pageid": 1460,
+    "ns": 14,
+    "title": "Category:Spears"
+  },
+  {
+    "pageid": 3402,
+    "ns": 14,
+    "title": "Category:ST-700 Armor"
+  },
+  {
+    "pageid": 3673,
+    "ns": 14,
+    "title": "Category:Throwing Knives"
+  },
+  {
+    "pageid": 1985,
+    "ns": 14,
+    "title": "Category:Tools"
+  },
+  {
+    "pageid": 3451,
+    "ns": 14,
+    "title": "Category:Wayfarer Armor"
+  },
+  {
+    "pageid": 271,
+    "ns": 14,
+    "title": "Category:Weapons"
+  }
+]
