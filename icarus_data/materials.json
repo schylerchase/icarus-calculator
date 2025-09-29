@@ -162,6 +162,16 @@
       "tier": 1,
       "url": "https://icarus.fandom.com/wiki/Platinum_Ingot"
     },
+       {
+      "name": "Platinum Sheath",
+      "ingredients": {
+        "Platinum Ingot": 1
+      },
+      "crafted_at": "Character",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Platinum_Sheath"
+    },
     {
       "name": "Poison Paste",
       "ingredients": {
