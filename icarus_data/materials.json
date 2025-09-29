@@ -1,0 +1,257 @@
+{
+  "category": "Materials",
+  "count": 22,
+  "items": [
+    {
+      "name": "Aluminium Ingot",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Aluminium_Ingot"
+    },
+    {
+      "name": "Animal Healthbar Module",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Animal_Healthbar_Module"
+    },
+    {
+      "name": "Anti-Parasitic Paste",
+      "ingredients": {},
+      "crafted_at": "Character Crafting",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Paste",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Anti-Poison Paste",
+      "ingredients": {},
+      "crafted_at": "Character Crafting",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Anti-Poison_Paste",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Antibiotic Paste",
+      "ingredients": {},
+      "crafted_at": "Character Crafting",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Antibiotic_Paste",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Blood Thinning Paste",
+      "ingredients": {},
+      "crafted_at": "Character Crafting",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Paste",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Composite Dropship Recall Beacon",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Composite_Dropship_Recall_Beacon",
+      "weight": "0.5 kg"
+    },
+    {
+      "name": "Composite Javelin",
+      "ingredients": {
+        "Iron Ingot": 4,
+        "Aluminium Ingot": 4,
+        "Composites": 20
+      },
+      "crafted_at": "Foundry",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Composite_Javelin",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Foundry"
+      ]
+    },
+    {
+      "name": "Composite Spear",
+      "ingredients": {
+        "Iron Ingot": 4,
+        "Aluminium Ingot": 4,
+        "Composites": 24
+      },
+      "crafted_at": "Foundry",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Composite_Spear",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Foundry"
+      ]
+    },
+    {
+      "name": "Composite Tactical Shield",
+      "ingredients": {
+        "Composites": 14,
+        "Platinum Weave": 4,
+        "Steel Screw": 20,
+        "Epoxy": 4,
+        "Titanium Plate": 2
+      },
+      "crafted_at": "Foundry",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Composite_Tactical_Shield",
+      "weight": "1.5 kg",
+      "crafting_stations": [
+        "Foundry"
+      ]
+    },
+    {
+      "name": "Energy Bar",
+      "ingredients": {},
+      "crafted_at": "Character Crafting",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Energy_Bar",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Honeycomb Bar",
+      "ingredients": {
+        "Any Seed": 10,
+        "Honeycomb": 2
+      },
+      "crafted_at": "Character Crafting",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Honeycomb_Bar",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Infected Bark",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Infected_Bark"
+    },
+    {
+      "name": "Platinum Ingot",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Platinum_Ingot"
+    },
+    {
+      "name": "Poison Paste",
+      "ingredients": {
+        "Spoiled Meat": 2,
+        "Sulfur": 1
+      },
+      "crafted_at": "Mortar and Pestle",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Poison_Paste",
+      "crafting_stations": [
+        "Mortar and Pestle"
+      ]
+    },
+    {
+      "name": "Rhubarb",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Rhubarb"
+    },
+    {
+      "name": "Rhubarb Farming Packet",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Rhubarb_Farming_Packet"
+    },
+    {
+      "name": "Sauteed Rhubarb",
+      "ingredients": {
+        "Rhubarb": 1
+      },
+      "crafted_at": "Campfire",
+      "category": "materials",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Sauteed_Rhubarb",
+      "crafting_stations": [
+        "Campfire"
+      ]
+    },
+    {
+      "name": "Small Composite Sign",
+      "ingredients": {
+        "Composites": 2,
+        "Epoxy": 2,
+        "Aluminium Ingot": 4
+      },
+      "crafted_at": "Fabricator",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Small_Composite_Sign",
+      "weight": "1.0 Kg",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Steel Bloom",
+      "ingredients": {
+        "Iron Ore": 6,
+        "Coal Ore": 1,
+        "Iron Ingot": 3,
+        "Charcoal": 20
+      },
+      "crafted_at": "Mortar and Pestle",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Steel_Bloom",
+      "crafting_stations": [
+        "Mortar and Pestle"
+      ]
+    },
+    {
+      "name": "Steel Ingot",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Steel_Ingot"
+    },
+    {
+      "name": "Titanium Ingot",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Titanium_Ingot"
+    }
+  ]
+}
