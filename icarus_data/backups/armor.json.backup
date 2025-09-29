@@ -1,0 +1,2311 @@
+{
+  "category": "Armor",
+  "count": 178,
+  "items": [
+    {
+      "name": "Advanced Storm Visor Attachment",
+      "ingredients": {
+        "Carbon Fiber": 1,
+        "Electronics": 1,
+        "Leather": 10,
+        "Storm VisorAttachment": 1
+      },
+      "crafted_at": "Advanced Alteration Bench",
+      "category": "armor",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Advanced_Storm_Visor_Attachment",
+      "weight": "1.0 Kg",
+      "crafting_stations": [
+        "Advanced Alteration Bench"
+      ]
+    },
+    {
+      "name": "Advanced Supplemental Respiration Attachment",
+      "ingredients": {
+        "Carbon Fiber": 1,
+        "Electronics": 1,
+        "Charcoal": 50,
+        "SupplementalRespiration Attachment": 1
+      },
+      "crafted_at": "Advanced Alteration Bench",
+      "category": "armor",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Advanced_Supplemental_Respiration_Attachment",
+      "weight": "1.0 Kg",
+      "crafting_stations": [
+        "Advanced Alteration Bench"
+      ]
+    },
+    {
+      "name": "Alpha Wolf Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Alpha_Wolf_Vestige"
+    },
+    {
+      "name": "Antelope Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Antelope_Vestige"
+    },
+    {
+      "name": "Arctic Arm Armor",
+      "ingredients": {
+        "Cured Leather": 3,
+        "Arctic Pelt": 4,
+        "Fur": 8,
+        "Rope": 2
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Arctic_Arm_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Arctic Chest Armor",
+      "ingredients": {
+        "Cured Leather": 5,
+        "Arctic Pelt": 8,
+        "Fur": 20,
+        "Rope": 6
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Arctic_Chest_Armor",
+      "weight": "4.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Arctic Feet Armor",
+      "ingredients": {
+        "Cured Leather": 3,
+        "Arctic Pelt": 2,
+        "Fur": 8,
+        "Rope": 2
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Arctic_Feet_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Arctic Head Armor",
+      "ingredients": {
+        "Cured Leather": 3,
+        "Fur": 10,
+        "Rope": 4,
+        "Polar Bear Vestige": 1
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Arctic_Head_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Arctic Leg Armor",
+      "ingredients": {
+        "Cured Leather": 4,
+        "Arctic Pelt": 6,
+        "Fur": 16,
+        "Rope": 6
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Arctic_Leg_Armor",
+      "weight": "4.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Arctic Scorpion Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Arctic_Scorpion_Vestige"
+    },
+    {
+      "name": "Arctic Vesper Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Arctic_Vesper_Vestige"
+    },
+    {
+      "name": "Arid Striker Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Arid_Striker_Vestige"
+    },
+    {
+      "name": "Armor Attachment Pack",
+      "ingredients": {},
+      "crafted_at": "Alteration Bench, Advanced Alteration Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Armor_Attachment_Pack",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Alteration Bench",
+        "Advanced Alteration Bench"
+      ]
+    },
+    {
+      "name": "Armored Saddle",
+      "ingredients": {
+        "Iron Ingot": 10,
+        "Fur": 6,
+        "Rope": 2
+      },
+      "crafted_at": "Ranching Station",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Armored_Saddle",
+      "weight": "1.5 Kg",
+      "crafting_stations": [
+        "Ranching Station"
+      ]
+    },
+    {
+      "name": "Ashen Drake Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Ashen_Drake_Vestige"
+    },
+    {
+      "name": "Bear Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Bear_Vestige"
+    },
+    {
+      "name": "Black Jaguar Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Black_Jaguar_Vestige"
+    },
+    {
+      "name": "Blueback Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Blueback_Vestige"
+    },
+    {
+      "name": "Bone Arm Armor",
+      "ingredients": {
+        "Bone": 15,
+        "Leather": 8
+      },
+      "crafted_at": "Character Crafting",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Bone_Arm_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Bone Chest Armor",
+      "ingredients": {
+        "Bone": 60,
+        "Leather": 15
+      },
+      "crafted_at": "Character Crafting",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Bone_Chest_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Bone Feet Armor",
+      "ingredients": {
+        "Bone": 15,
+        "Leather": 8
+      },
+      "crafted_at": "Character Crafting",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Bone_Feet_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Bone Head Armor",
+      "ingredients": {
+        "Bone": 20,
+        "Leather": 5
+      },
+      "crafted_at": "Character Crafting",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Bone_Head_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Bone Leg Armor",
+      "ingredients": {
+        "Bone": 40,
+        "Leather": 12
+      },
+      "crafted_at": "Character Crafting",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Bone_Leg_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Brown Bear Arm Armor",
+      "ingredients": {
+        "Leather": 3,
+        "Fur": 15,
+        "Rope": 2
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Brown_Bear_Arm_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Brown Bear Chest Armor",
+      "ingredients": {
+        "Leather": 5,
+        "Fur": 20,
+        "Rope": 6
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Brown_Bear_Chest_Armor",
+      "weight": "4.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Brown Bear Feet Armor",
+      "ingredients": {
+        "Leather": 3,
+        "Fur": 15,
+        "Rope": 2
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Brown_Bear_Feet_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Brown Bear Head Armor",
+      "ingredients": {
+        "Leather": 3,
+        "Fur": 10,
+        "Rope": 4,
+        "Bear Vestige": 1
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Brown_Bear_Head_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Brown Bear Leg Armor",
+      "ingredients": {
+        "Leather": 4,
+        "Fur": 16,
+        "Rope": 6
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Brown_Bear_Leg_Armor",
+      "weight": "4.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Buffalo Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Buffalo_Vestige"
+    },
+    {
+      "name": "CX-400 Arms Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/CX-400_Arms_Armor",
+      "weight": "0.5 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "CX-400 Chest Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/CX-400_Chest_Armor",
+      "weight": "1.5 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "CX-400 Feet Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/CX-400_Feet_Armor",
+      "weight": "0.5 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "CX-400 Head Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/CX-400_Head_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "CX-400 Legs Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/CX-400_Legs_Armor",
+      "weight": "1.5 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "Carcass Harvesting Attachment",
+      "ingredients": {},
+      "crafted_at": "Alteration Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Carcass_Harvesting_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": [
+        "Alteration Bench"
+      ]
+    },
+    {
+      "name": "Caveworm Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Caveworm_Vestige"
+    },
+    {
+      "name": "Chala Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Chala_Vestige"
+    },
+    {
+      "name": "Chamois Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Chamois_Vestige"
+    },
+    {
+      "name": "Cloth Arms Armor",
+      "ingredients": {
+        "Fiber": 80
+      },
+      "crafted_at": "Character Crafting",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cloth_Arms_Armor",
+      "weight": "0.5 kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Cloth Chest Armor",
+      "ingredients": {
+        "Fiber": 120
+      },
+      "crafted_at": "Character Crafting",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cloth_Chest_Armor",
+      "weight": "0.75 kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Cloth Feet Armor",
+      "ingredients": {
+        "Fiber": 40
+      },
+      "crafted_at": "Character Crafting",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cloth_Feet_Armor",
+      "weight": "0.5 kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Cloth Head Armor",
+      "ingredients": {
+        "Fiber": 80
+      },
+      "crafted_at": "Character Crafting",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cloth_Head_Armor",
+      "weight": "0.5 kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Cloth Legs Armor",
+      "ingredients": {
+        "Fiber": 120
+      },
+      "crafted_at": "Character Crafting",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cloth_Legs_Armor",
+      "weight": "0.75 kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Composite Arms Armor",
+      "ingredients": {
+        "Aluminium Ingot": 2,
+        "Composites": 8,
+        "Steel Screw": 6,
+        "Carbon Fiber": 2
+      },
+      "crafted_at": "Electric Textiles Bench",
+      "category": "armor",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Composite_Arms_Armor",
+      "weight": "0.75 kg",
+      "crafting_stations": [
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Composite Chest Armor",
+      "ingredients": {
+        "Aluminium Ingot": 6,
+        "Composites": 24,
+        "Steel Screw": 12,
+        "Carbon Fiber": 2
+      },
+      "crafted_at": "Electric Textiles Bench",
+      "category": "armor",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Composite_Chest_Armor",
+      "weight": "2.5 kg",
+      "crafting_stations": [
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Composite Feet Armor",
+      "ingredients": {
+        "Aluminium Ingot": 4,
+        "Composites": 12,
+        "Steel Screw": 6,
+        "Carbon Fiber": 2
+      },
+      "crafted_at": "Electric Textiles Bench",
+      "category": "armor",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Composite_Feet_Armor",
+      "weight": "0.75 kg",
+      "crafting_stations": [
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Composite Head Armor",
+      "ingredients": {
+        "Aluminium Ingot": 4,
+        "Composites": 12,
+        "Steel Screw": 6,
+        "Carbon Fiber": 2
+      },
+      "crafted_at": "Electric Textiles Bench",
+      "category": "armor",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Composite_Head_Armor",
+      "weight": "1.5 kg",
+      "crafting_stations": [
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Composite Legs Armor",
+      "ingredients": {
+        "Aluminium Ingot": 6,
+        "Composites": 18,
+        "Steel Screw": 8,
+        "Carbon Fiber": 2
+      },
+      "crafted_at": "Electric Textiles Bench",
+      "category": "armor",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Composite_Legs_Armor",
+      "weight": "2.5 kg",
+      "crafting_stations": [
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Cougar Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Cougar_Vestige"
+    },
+    {
+      "name": "Crocodile Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Crocodile_Vestige"
+    },
+    {
+      "name": "Cured Leather Arms Armor",
+      "ingredients": {
+        "Platinum Weave": 1,
+        "Cured Leather": 7
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Cured_Leather_Arms_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Cured Leather Chest Armor",
+      "ingredients": {
+        "Platinum Weave": 3,
+        "Cured Leather": 13
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Cured_Leather_Chest_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Cured Leather Feet Armor",
+      "ingredients": {
+        "Platinum Weave": 1,
+        "Cured Leather": 4
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Cured_Leather_Feet_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Cured Leather Head Armor",
+      "ingredients": {
+        "Platinum Weave": 1,
+        "Cured Leather": 6
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Cured_Leather_Head_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Cured Leather Leg Armor",
+      "ingredients": {
+        "Platinum Weave": 2,
+        "Cured Leather": 10
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Cured_Leather_Leg_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Deer Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Deer_Vestige"
+    },
+    {
+      "name": "Drac Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Drac_Vestige"
+    },
+    {
+      "name": "Dreadwing Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Dreadwing_Vestige"
+    },
+    {
+      "name": "Elephant Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Elephant_Vestige"
+    },
+    {
+      "name": "Equix Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Equix_Vestige"
+    },
+    {
+      "name": "Exotic Harvester",
+      "ingredients": {
+        "Platinum Ingot": 10,
+        "Electronics": 3,
+        "Copper Wire": 50,
+        "Composites": 3,
+        "Platinum Sheath": 30
+      },
+      "crafted_at": "Fabricator",
+      "category": "armor",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Exotic_Harvester",
+      "weight": "3.0 kg",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "First Cohort Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/First_Cohort_Envirosuit"
+    },
+    {
+      "name": "Fur Arms Armor",
+      "ingredients": {
+        "Leather": 4,
+        "Fur": 6,
+        "Rope": 1
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Fur_Arms_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Fur Chest Armor",
+      "ingredients": {
+        "Leather": 8,
+        "Fur": 24,
+        "Rope": 4
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Fur_Chest_Armor",
+      "weight": "4.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Fur Feet Armor",
+      "ingredients": {
+        "Leather": 6,
+        "Fur": 12,
+        "Rope": 2
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Fur_Feet_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Fur Head Armor",
+      "ingredients": {
+        "Leather": 4,
+        "Fur": 12,
+        "Rope": 2
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Fur_Head_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Fur Legs Armor",
+      "ingredients": {
+        "Leather": 8,
+        "Fur": 18,
+        "Rope": 3
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Fur_Legs_Armor",
+      "weight": "4.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Ghillie Arms Armor",
+      "ingredients": {
+        "Fiber": 120,
+        "Stick": 4,
+        "Rope": 1
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Ghillie_Arms_Armor",
+      "weight": "0.25 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Ghillie Chest Armor",
+      "ingredients": {
+        "Fiber": 160,
+        "Stick": 8,
+        "Rope": 4
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Ghillie_Chest_Armor",
+      "weight": "0.75 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Ghillie Feet Armor",
+      "ingredients": {
+        "Fiber": 80,
+        "Stick": 6,
+        "Rope": 2
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Ghillie_Feet_Armor",
+      "weight": "0.25 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Ghillie Head Armor",
+      "ingredients": {
+        "Fiber": 120,
+        "Stick": 2,
+        "Rope": 2
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Ghillie_Head_Armor",
+      "weight": "0.5 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Ghillie Legs Armor",
+      "ingredients": {
+        "Fiber": 160,
+        "Stick": 8,
+        "Rope": 3
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Ghillie_Legs_Armor",
+      "weight": "0.75 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Glaci Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Glaci_Vestige"
+    },
+    {
+      "name": "Heavy Obsidian Arm Armor",
+      "ingredients": {
+        "Leather": 2,
+        "Obsidian": 2,
+        "Rope": 2
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Arm_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Heavy Obsidian Chest Armor",
+      "ingredients": {
+        "Leather": 4,
+        "Obsidian": 12,
+        "Rope": 4
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Chest_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Heavy Obsidian Feet Armor",
+      "ingredients": {
+        "Leather": 2,
+        "Obsidian": 1,
+        "Rope": 4
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Feet_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Heavy Obsidian Head Armor",
+      "ingredients": {
+        "Leather": 4,
+        "Obsidian": 3,
+        "Rope": 4
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Head_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Heavy Obsidian Leg Armor",
+      "ingredients": {
+        "Leather": 2,
+        "Obsidian": 2,
+        "Rope": 2
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Leg_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Hunter Arms Armor",
+      "ingredients": {
+        "Platinum Weave": 2,
+        "Cured Leather": 4,
+        "Epoxy": 4
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Hunter_Arms_Armor",
+      "weight": "0.38 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Hunter Chest Armor",
+      "ingredients": {
+        "Platinum Weave": 5,
+        "Cured Leather": 6,
+        "Rope": 6,
+        "Epoxy": 16
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Hunter_Chest_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Hunter Feet Armor",
+      "ingredients": {
+        "Platinum Weave": 1,
+        "Cured Leather": 2,
+        "Rope": 4,
+        "Epoxy": 4
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Hunter_Feet_Armor",
+      "weight": "0.38 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Hunter Head Armor",
+      "ingredients": {
+        "Platinum Weave": 2,
+        "Cured Leather": 3,
+        "Rope": 4,
+        "Epoxy": 8
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Hunter_Head_Armor",
+      "weight": "0.75 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Hunter Legs Armor",
+      "ingredients": {
+        "Platinum Weave": 4,
+        "Cured Leather": 4,
+        "Rope": 6,
+        "Epoxy": 8
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Hunter_Legs_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Hyena Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Hyena_Vestige"
+    },
+    {
+      "name": "Ignari Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Ignari_Vestige"
+    },
+    {
+      "name": "Inaris \"Lua\" Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Inaris_%22Lua%22_Envirosuit",
+      "weight": "0.5 kg"
+    },
+    {
+      "name": "Jaguar Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Jaguar_Vestige"
+    },
+    {
+      "name": "Kea Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Kea_Vestige"
+    },
+    {
+      "name": "Komodo Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Komodo_Vestige"
+    },
+    {
+      "name": "LM Beastmaster Arm Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/LM_Beastmaster_Arm_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "LM Beastmaster Chest Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/LM_Beastmaster_Chest_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "LM Beastmaster Feet Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/LM_Beastmaster_Feet_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "LM Beastmaster Head Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/LM_Beastmaster_Head_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "LM Beastmaster Leg Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/LM_Beastmaster_Leg_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "Larkwell \"Bulwark\" Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Larkwell_%22Bulwark%22_Envirosuit",
+      "weight": "0.1 kg"
+    },
+    {
+      "name": "Larkwell \"Haulier\" Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Larkwell_%22Haulier%22_Envirosuit",
+      "weight": "0.1 kg"
+    },
+    {
+      "name": "Larkwell Martinez Tachyon Arm Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tachyon_Arm_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "Larkwell Martinez Tachyon Chest Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tachyon_Chest_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "Larkwell Martinez Tachyon Feet Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tachyon_Feet_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "Larkwell Martinez Tachyon Head Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tachyon_Head_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "Larkwell Martinez Tachyon Legs Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tachyon_Legs_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "Lava Broodling Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Lava_Broodling_Vestige"
+    },
+    {
+      "name": "Leather Arms Armor",
+      "ingredients": {
+        "Fiber": 40,
+        "Leather": 8
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Leather_Arms_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Leather Chest Armor",
+      "ingredients": {
+        "Fiber": 60,
+        "Leather": 24
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Leather_Chest_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Leather Feet Armor",
+      "ingredients": {
+        "Fiber": 20,
+        "Leather": 12
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Leather_Feet_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Leather Head Armor",
+      "ingredients": {
+        "Fiber": 40,
+        "Leather": 12
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Leather_Head_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Leather Legs Armor",
+      "ingredients": {
+        "Fiber": 60,
+        "Leather": 18
+      },
+      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Leather_Legs_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Moa Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Moa_Vestige"
+    },
+    {
+      "name": "Naneo Arms Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Naneo_Arms_Armor",
+      "weight": "0.5 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "Naneo Chest Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Naneo_Chest_Armor",
+      "weight": "1.5 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "Naneo Feet Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Naneo_Feet_Armor",
+      "weight": "0.5 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "Naneo Head Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Naneo_Head_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "Naneo Legs Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Naneo_Legs_Armor",
+      "weight": "1.5 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "Needler Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Needler_Vestige"
+    },
+    {
+      "name": "Obsidian Arm Armor",
+      "ingredients": {
+        "Platinum Weave": 5,
+        "Composites": 3,
+        "Steel Screw": 2,
+        "Shaped Obsidian": 5
+      },
+      "crafted_at": "Electric Textiles Bench",
+      "category": "armor",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Obsidian_Arm_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Obsidian Chest Armor",
+      "ingredients": {
+        "Platinum Weave": 15,
+        "Composites": 8,
+        "Steel Screw": 6,
+        "Shaped Obsidian": 15
+      },
+      "crafted_at": "Electric Textiles Bench",
+      "category": "armor",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Obsidian_Chest_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Obsidian Feet Armor",
+      "ingredients": {
+        "Platinum Weave": 3,
+        "Composites": 2,
+        "Steel Screw": 3,
+        "Shaped Obsidian": 5
+      },
+      "crafted_at": "Electric Textiles Bench",
+      "category": "armor",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Obsidian_Feet_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Obsidian Head Armor",
+      "ingredients": {
+        "Platinum Weave": 10,
+        "Composites": 5,
+        "Steel Screw": 5,
+        "Shaped Obsidian": 5
+      },
+      "crafted_at": "Electric Textiles Bench",
+      "category": "armor",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Obsidian_Head_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Obsidian Leg Armor",
+      "ingredients": {
+        "Platinum Weave": 12,
+        "Composites": 2,
+        "Steel Screw": 3,
+        "Shaped Obsidian": 12
+      },
+      "crafted_at": "Electric Textiles Bench",
+      "category": "armor",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Obsidian_Leg_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Polar Bear Arms Armor",
+      "ingredients": {
+        "Cured Leather": 3,
+        "Arctic Pelt": 4,
+        "Fur": 8,
+        "Rope": 2
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Polar_Bear_Arms_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Polar Bear Chest Armor",
+      "ingredients": {
+        "Cured Leather": 5,
+        "Arctic Pelt": 8,
+        "Fur": 20,
+        "Rope": 6
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Polar_Bear_Chest_Armor",
+      "weight": "4.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Polar Bear Feet Armor",
+      "ingredients": {
+        "Cured Leather": 3,
+        "Arctic Pelt": 2,
+        "Fur": 8,
+        "Rope": 2
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Polar_Bear_Feet_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Polar Bear Head Armor",
+      "ingredients": {
+        "Cured Leather": 3,
+        "Fur": 10,
+        "Rope": 4,
+        "Polar Bear Vestige": 1
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Polar_Bear_Head_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Polar Bear Legs Armor",
+      "ingredients": {
+        "Cured Leather": 4,
+        "Arctic Pelt": 6,
+        "Fur": 16,
+        "Rope": 6
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Polar_Bear_Legs_Armor",
+      "weight": "4.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Polar Bear Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Polar_Bear_Vestige"
+    },
+    {
+      "name": "Pronghorn Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Pronghorn_Vestige"
+    },
+    {
+      "name": "Pygmy Lop Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Pygmy_Lop_Vestige"
+    },
+    {
+      "name": "Rabbit Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Rabbit_Vestige"
+    },
+    {
+      "name": "Redback Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Redback_Vestige"
+    },
+    {
+      "name": "Roat Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Roat_Vestige"
+    },
+    {
+      "name": "ST-700 Arms Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/ST-700_Arms_Armor",
+      "weight": "0.5 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "ST-700 Chest Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/ST-700_Chest_Armor",
+      "weight": "1.5 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "ST-700 Feet Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/ST-700_Feet_Armor",
+      "weight": "0.5 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "ST-700 Head Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/ST-700_Head_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "ST-700 Legs Armor",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "category": "armor",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/ST-700_Legs_Armor",
+      "weight": "1.5 kg",
+      "crafting_stations": [
+        "Workshop"
+      ]
+    },
+    {
+      "name": "Sandworm Arms Armor",
+      "ingredients": {
+        "Fiber": 40,
+        "Leather": 4,
+        "Sandworm Scale": 6
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Sandworm_Arms_Armor",
+      "weight": "0.38 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Sandworm Chest Armor",
+      "ingredients": {
+        "Fiber": 60,
+        "Leather": 12,
+        "Sandworm Scale": 20
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Sandworm_Chest_Armor",
+      "weight": "1.00 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Sandworm Feet Armor",
+      "ingredients": {
+        "Fiber": 20,
+        "Leather": 6,
+        "Sandworm Scale": 6
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Sandworm_Feet_Armor",
+      "weight": "0.38 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Sandworm Head Armor",
+      "ingredients": {
+        "Fiber": 40,
+        "Leather": 10,
+        "Sandworm Scale": 10
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Sandworm_Head_Armor",
+      "weight": "0.75 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Sandworm Leg Armor",
+      "ingredients": {
+        "Fiber": 60,
+        "Leather": 9,
+        "Sandworm Scale": 10
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Sandworm_Leg_Armor",
+      "weight": "1.00 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Scorpion Arms Armor",
+      "ingredients": {
+        "Fiber": 40,
+        "Leather": 8,
+        "Scorpion Carapace": 6
+      },
+      "crafted_at": "Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Scorpion_Arms_Armor",
+      "weight": "0.9 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Scorpion Chest Armor",
+      "ingredients": {
+        "Fiber": 50,
+        "Leather": 18,
+        "Scorpion Carapace": 20
+      },
+      "crafted_at": "Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Scorpion_Chest_Armor",
+      "weight": "1.2 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Scorpion Feet Armor",
+      "ingredients": {
+        "Fiber": 35,
+        "Leather": 15,
+        "Scorpion Carapace": 4
+      },
+      "crafted_at": "Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Scorpion_Feet_Armor",
+      "weight": "0.9 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Scorpion Head Armor",
+      "ingredients": {
+        "Fiber": 40,
+        "Leather": 15,
+        "Scorpion Carapace": 10
+      },
+      "crafted_at": "Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Scorpion_Head_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Scorpion Legs Armor",
+      "ingredients": {
+        "Fiber": 60,
+        "Leather": 12,
+        "Scorpion Carapace": 10
+      },
+      "crafted_at": "Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Scorpion_Legs_Armor",
+      "weight": "1.2 kg",
+      "crafting_stations": [
+        "Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Scorpion Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Scorpion_Vestige"
+    },
+    {
+      "name": "Seed Harvesting Attachment",
+      "ingredients": {
+        "Steel Ingot": 12,
+        "Epoxy": 4,
+        "Rope": 8,
+        "Refined Wood": 18
+      },
+      "crafted_at": "Ranching Station",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Seed_Harvesting_Attachment",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Ranching Station"
+      ]
+    },
+    {
+      "name": "Shaggy Zebra Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Shaggy_Zebra_Vestige"
+    },
+    {
+      "name": "Shengong \"Bihu\" Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Shengong_%22Bihu%22_Envirosuit"
+    },
+    {
+      "name": "Shengong \"Dongtian\" Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Shengong_%22Dongtian%22_Envirosuit"
+    },
+    {
+      "name": "Snow Leopard Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Snow_Leopard_Vestige"
+    },
+    {
+      "name": "Snow Rabbit Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Snow_Rabbit_Vestige"
+    },
+    {
+      "name": "Snow Stalker Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Snow_Stalker_Vestige"
+    },
+    {
+      "name": "Snow Wolf Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Snow_Wolf_Vestige"
+    },
+    {
+      "name": "Stonejaw Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Stonejaw_Vestige"
+    },
+    {
+      "name": "Stryder Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Stryder_Vestige"
+    },
+    {
+      "name": "Suit Conditioning Module",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Suit_Conditioning_Module"
+    },
+    {
+      "name": "Teenage Caveworm Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Teenage_Caveworm_Vestige"
+    },
+    {
+      "name": "Terrenus Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Terrenus_Vestige"
+    },
+    {
+      "name": "Tusker Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Tusker_Vestige"
+    },
+    {
+      "name": "Ubis Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Ubis_Vestige"
+    },
+    {
+      "name": "Viscid Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Viscid_Vestige"
+    },
+    {
+      "name": "Wayfarer Arms Armor",
+      "ingredients": {
+        "Platinum Weave": 4
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Wayfarer_Arms_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Wayfarer Chest Armor",
+      "ingredients": {
+        "Platinum Weave": 10
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Wayfarer_Chest_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Wayfarer Feet Armor",
+      "ingredients": {
+        "Platinum Weave": 2
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Wayfarer_Feet_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Wayfarer Head Armor",
+      "ingredients": {
+        "Platinum Weave": 4
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Wayfarer_Head_Armor",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Wayfarer Leg Armor",
+      "ingredients": {
+        "Platinum Weave": 8
+      },
+      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Wayfarer_Leg_Armor",
+      "weight": "2.0 kg",
+      "crafting_stations": [
+        "Advanced Textiles Bench",
+        "Electric Textiles Bench"
+      ]
+    },
+    {
+      "name": "Wild Boar Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Wild_Boar_Vestige"
+    },
+    {
+      "name": "Wolf Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Wolf_Vestige"
+    },
+    {
+      "name": "Wooden Armor Stand",
+      "ingredients": {
+        "Refined Wood": 50,
+        "Copper Nail": 15,
+        "Vegetable Oil": 1
+      },
+      "crafted_at": "Carpentry Bench, Electric Carpentry Bench",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Wooden_Armor_Stand",
+      "weight": "15 Kg",
+      "crafting_stations": [
+        "Carpentry Bench",
+        "Electric Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Xigo \"Duo\" S5 Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Xigo_%22Duo%22_S5_Envirosuit"
+    },
+    {
+      "name": "Xigo \"Fermi\" S5 Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Xigo_%22Fermi%22_S5_Envirosuit"
+    },
+    {
+      "name": "Xigo \"Gustav\" S5 Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Xigo_%22Gustav%22_S5_Envirosuit"
+    },
+    {
+      "name": "Xigo \"Hark\" S5 Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Xigo_%22Hark%22_S5_Envirosuit"
+    },
+    {
+      "name": "Xigo S5 Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Xigo_S5_Envirosuit"
+    },
+    {
+      "name": "Xigo S5-II Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Xigo_S5-II_Envirosuit"
+    },
+    {
+      "name": "Xigo S5-X Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Xigo_S5-X_Envirosuit"
+    },
+    {
+      "name": "Zebra Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "armor",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Zebra_Vestige"
+    }
+  ]
+}

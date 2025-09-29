@@ -1,0 +1,136 @@
+{
+  "category": "Furniture",
+  "count": 10,
+  "items": [
+    {
+      "name": "Bedroll",
+      "ingredients": {
+        "Fiber": 20,
+        "Stick": 10,
+        "Fur": 20,
+        "Leather": 10
+      },
+      "crafted_at": "Character Crafting",
+      "category": "furniture",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Bedroll",
+      "weight": "1.0 Kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Crumbed Saltwater Fillet",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Crumbed_Saltwater_Fillet",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Fried Chunky Vegetables",
+      "ingredients": {},
+      "crafted_at": "Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Fried_Chunky_Vegetables",
+      "crafting_stations": [
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "MXC Cot",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "furniture",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/MXC_Cot",
+      "weight": "7.5 Kg"
+    },
+    {
+      "name": "Plumbed Sink",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Plumbed_Sink",
+      "weight": "20.0 kg",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Portable Biofuel Tank",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Portable_Biofuel_Tank",
+      "weight": "150.0 Kg",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Portable Icebox Backpack",
+      "ingredients": {
+        "Aluminium Ingot": 25,
+        "Electronics": 10,
+        "Carbon Fiber": 5,
+        "Steel Screw": 10
+      },
+      "crafted_at": "Fabricator",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Portable_Icebox_Backpack",
+      "weight": "0.5 Kg",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Portable Water Tank",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Portable_Water_Tank",
+      "weight": "150.0 Kg",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Roast Vegetables",
+      "ingredients": {
+        "Pumpkin": 1,
+        "Carrot": 1,
+        "Squash": 1
+      },
+      "crafted_at": "Potbelly Stove",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Roast_Vegetables",
+      "crafting_stations": [
+        "Potbelly Stove"
+      ]
+    },
+    {
+      "name": "Vegetable Roll",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Vegetable_Roll",
+      "crafting_stations": [
+        "Biofuel Stove"
+      ]
+    }
+  ]
+}

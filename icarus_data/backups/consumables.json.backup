@@ -1,0 +1,17 @@
+{
+  "category": "Consumables",
+  "count": 1,
+  "items": [
+    {
+      "name": "Waterskin",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Waterskin",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    }
+  ]
+}

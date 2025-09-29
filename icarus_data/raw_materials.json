@@ -1,6 +1,6 @@
 {
   "category": "Raw Materials",
-  "count": 229,
+  "count": 233,
   "items": [
     {
       "name": "Acidic Glands",
@@ -2525,6 +2525,44 @@
       "category": "raw_materials",
       "tier": 1,
       "url": "https://icarus.fandom.com/wiki/Stealth"
+    },
+    {
+      "name": "Ammo Casing",
+      "ingredients": {
+        "Iron Ingot": 1
+      },
+      "crafted_at": "Machining Bench, Fabricator",
+      "category": "raw materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Ammo_Casing",
+      "crafting_stations": [
+        "Machining Bench",
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Columbian Mammoth Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "raw materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Columbian_Mammoth_Vestige"
+    },
+    {
+      "name": "Mammoth Tusk",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "raw materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Mammoth_Tusk"
+    },
+    {
+      "name": "Woolly Mammoth Vestige",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "raw materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Woolly_Mammoth_Vestige"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "category": "Ammunition",
-  "count": 118,
+  "count": 103,
   "items": [
     {
       "name": "12-Gauge Buckshot Shell",
@@ -469,20 +469,6 @@
       ]
     },
     {
-      "name": "Ammo Casing",
-      "ingredients": {
-        "Iron Ingot": 1
-      },
-      "crafted_at": "Machining Bench, Fabricator",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Ammo_Casing",
-      "crafting_stations": [
-        "Machining Bench",
-        "Fabricator"
-      ]
-    },
-    {
       "name": "Armor Piercing Rifle Round",
       "ingredients": {
         "7.62mm Round": 1,
@@ -495,21 +481,6 @@
       "weight": "0.01 kg",
       "crafting_stations": [
         "Machining Bench"
-      ]
-    },
-    {
-      "name": "Art Deco Round Table",
-      "ingredients": {
-        "Refined Gold": 4,
-        "Stone": 40
-      },
-      "crafted_at": "Decoration Bench",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Art_Deco_Round_Table",
-      "weight": "10 Kg",
-      "crafting_stations": [
-        "Decoration Bench"
       ]
     },
     {
@@ -527,24 +498,6 @@
       "crafting_stations": [
         "Forge",
         "Foundry"
-      ]
-    },
-    {
-      "name": "Bolt Action Rifle",
-      "ingredients": {
-        "Refined Wood": 12,
-        "Cured Leather": 1,
-        "Steel Ingot": 40,
-        "Epoxy": 4,
-        "Steel Screw": 10
-      },
-      "crafted_at": "Machining Bench",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Bolt_Action_Rifle",
-      "weight": "4.0 kg",
-      "crafting_stations": [
-        "Machining Bench"
       ]
     },
     {
@@ -578,54 +531,6 @@
       "crafting_stations": [
         "Forge",
         "Foundry"
-      ]
-    },
-    {
-      "name": "Carbon Fibre Round Shield",
-      "ingredients": {
-        "Carbon Fiber": 14,
-        "Platinum Sheath": 8,
-        "Steel Screw": 20,
-        "Epoxy": 4
-      },
-      "crafted_at": "Forge, Foundry",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Carbon_Fibre_Round_Shield",
-      "weight": "1.5 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
-    },
-    {
-      "name": "Carved Wood Narrow Wardrobe",
-      "ingredients": {
-        "Refined Wood": 75,
-        "Copper Nail": 15
-      },
-      "crafted_at": "Carpentry Bench",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Narrow_Wardrobe",
-      "weight": "1.0 Kg",
-      "crafting_stations": [
-        "Carpentry Bench"
-      ]
-    },
-    {
-      "name": "Carved Wood Round Table",
-      "ingredients": {
-        "Refined Wood": 50,
-        "Copper Nail": 15
-      },
-      "crafted_at": "Carpentry Bench",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Round_Table",
-      "weight": "1 Kg",
-      "crafting_stations": [
-        "Carpentry Bench"
       ]
     },
     {
@@ -716,29 +621,6 @@
       ]
     },
     {
-      "name": "Columbian Mammoth Trophy",
-      "ingredients": {
-        "Refined Wood": 30,
-        "Columbian Mammoth Vestige": 1
-      },
-      "crafted_at": "Trophy Bench",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Columbian_Mammoth_Trophy",
-      "weight": "2.0 Kg",
-      "crafting_stations": [
-        "Trophy Bench"
-      ]
-    },
-    {
-      "name": "Columbian Mammoth Vestige",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Columbian_Mammoth_Vestige"
-    },
-    {
       "name": "Composite Arrow",
       "ingredients": {
         "Composites": 1,
@@ -785,22 +667,6 @@
         "Crafting Bench",
         "Machining Bench",
         "Fabricator"
-      ]
-    },
-    {
-      "name": "Decorative Shell",
-      "ingredients": {
-        "Clay": 10,
-        "Organic Resin": 5,
-        "Scoria": 20
-      },
-      "crafted_at": "Masonry Bench",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Decorative_Shell",
-      "weight": "1 Kg",
-      "crafting_stations": [
-        "Masonry Bench"
       ]
     },
     {
@@ -964,21 +830,6 @@
       "weight": "0.01 kg",
       "crafting_stations": [
         "Machining Bench"
-      ]
-    },
-    {
-      "name": "Industrial Round Table",
-      "ingredients": {
-        "Iron Ingot": 40,
-        "Steel Screw": 10
-      },
-      "crafted_at": "Decoration Bench",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Industrial_Round_Table",
-      "weight": "10 Kg",
-      "crafting_stations": [
-        "Decoration Bench"
       ]
     },
     {
@@ -1197,29 +1048,6 @@
       "weight": "0.1 kg"
     },
     {
-      "name": "Mammoth Trophy",
-      "ingredients": {
-        "Refined Wood": 30,
-        "Woolly Mammoth Vestige": 1
-      },
-      "crafted_at": "Trophy Bench",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Mammoth_Trophy",
-      "weight": "2.0 Kg",
-      "crafting_stations": [
-        "Trophy Bench"
-      ]
-    },
-    {
-      "name": "Mammoth Tusk",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "ammunition",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Mammoth_Tusk"
-    },
-    {
       "name": "Miasmic Arrow",
       "ingredients": {
         "Carbon Fiber": 1,
@@ -1385,53 +1213,6 @@
       ]
     },
     {
-      "name": "Round Rustic Sign",
-      "ingredients": {
-        "Wood": 10,
-        "Stick": 5,
-        "Fiber": 15
-      },
-      "crafted_at": "Character Crafting",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Round_Rustic_Sign",
-      "weight": "0.5 Kg",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
-    },
-    {
-      "name": "Rustic Narrow Wardrobe",
-      "ingredients": {
-        "Wood": 30,
-        "Iron Nail": 15
-      },
-      "crafted_at": "Decoration Bench",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Rustic_Narrow_Wardrobe",
-      "weight": "10 Kg",
-      "crafting_stations": [
-        "Decoration Bench"
-      ]
-    },
-    {
-      "name": "Rustic Round Table",
-      "ingredients": {
-        "Wood": 20,
-        "Stick": 20,
-        "Iron Nail": 10
-      },
-      "crafted_at": "Decoration Bench",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Rustic_Round_Table",
-      "weight": "10 Kg",
-      "crafting_stations": [
-        "Decoration Bench"
-      ]
-    },
-    {
       "name": "Sandworm Arrow",
       "ingredients": {
         "Stick": 1,
@@ -1548,27 +1329,34 @@
       ]
     },
     {
-      "name": "Woolly Mammoth Trophy",
+      "name": "Pistol Round",
       "ingredients": {
-        "Refined Wood": 30,
-        "Woolly Mammoth Vestige": 1
+        "Ammo Casing": 2,
+        "Gunpowder": 2
       },
-      "crafted_at": "Trophy Bench",
+      "crafted_at": "Machining Bench",
       "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Woolly_Mammoth_Trophy",
-      "weight": "2.0 Kg",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Pistol_Round",
+      "weight": "0.01 kg",
       "crafting_stations": [
-        "Trophy Bench"
+        "Machining Bench"
       ]
     },
     {
-      "name": "Woolly Mammoth Vestige",
-      "ingredients": {},
-      "crafted_at": "Character",
+      "name": "12-Gauge Casing",
+      "ingredients": {
+        "Iron Ingot": 1
+      },
+      "crafted_at": "Machining Bench, Fabricator",
       "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Woolly_Mammoth_Vestige"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/12-Gauge_Casing",
+      "weight": "0.01 kg",
+      "crafting_stations": [
+        "Machining Bench",
+        "Fabricator"
+      ]
     }
   ]
 }

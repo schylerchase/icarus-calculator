@@ -1,0 +1,308 @@
+{
+  "category": "Medicine",
+  "count": 32,
+  "items": [
+    {
+      "name": "Anti-Parasitic Vaccine I",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Vaccine_I"
+    },
+    {
+      "name": "Anti-Parasitic Vaccine II",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Vaccine_II"
+    },
+    {
+      "name": "Anti-Parasitic Vaccine III",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Vaccine_III"
+    },
+    {
+      "name": "Anti-Poison Vaccine I",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Anti-Poison_Vaccine_I"
+    },
+    {
+      "name": "Anti-Poison Vaccine II",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Anti-Poison_Vaccine_II"
+    },
+    {
+      "name": "Anti-Poison Vaccine III",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Anti-Poison_Vaccine_III"
+    },
+    {
+      "name": "Anti-materiel Rifle",
+      "ingredients": {
+        "Legendary Licence": 1
+      },
+      "crafted_at": "Bio-lab",
+      "category": "medicine",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Anti-materiel_Rifle",
+      "weight": "10.0 Kg",
+      "crafting_stations": [
+        "Bio-lab"
+      ]
+    },
+    {
+      "name": "Bacterial Vaccine I",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Bacterial_Vaccine_I"
+    },
+    {
+      "name": "Bacterial Vaccine II",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Bacterial_Vaccine_II"
+    },
+    {
+      "name": "Bacterial Vaccine III",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Bacterial_Vaccine_III"
+    },
+    {
+      "name": "Basic Bandage",
+      "ingredients": {
+        "Fiber": 40,
+        "Wool": 40
+      },
+      "crafted_at": "Character Crafting",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Basic_Bandage",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Blood Thinning Vaccine I",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Vaccine_I"
+    },
+    {
+      "name": "Blood Thinning Vaccine II",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Vaccine_II"
+    },
+    {
+      "name": "Blood Thinning Vaccine III",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Vaccine_III"
+    },
+    {
+      "name": "Cave Survival Inhaler",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cave_Survival_Inhaler"
+    },
+    {
+      "name": "Cold Survival Inhaler",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cold_Survival_Inhaler"
+    },
+    {
+      "name": "Cooling Bandage",
+      "ingredients": {
+        "Fiber": 40,
+        "Oxite": 4,
+        "Charcoal": 10,
+        "Wool": 40
+      },
+      "crafted_at": "Character Crafting",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cooling_Bandage",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Defensive Combat Inhaler",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Defensive_Combat_Inhaler"
+    },
+    {
+      "name": "Health Recovery Concoction",
+      "ingredients": {},
+      "crafted_at": "Character Crafting",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Health_Recovery_Concoction",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Heat Bandage",
+      "ingredients": {
+        "Fiber": 40,
+        "Oxite": 4,
+        "Charcoal": 10,
+        "Wool": 40
+      },
+      "crafted_at": "Character Crafting",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Heat_Bandage",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Heat Survival Inhaler",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Heat_Survival_Inhaler"
+    },
+    {
+      "name": "Lava Survival Inhaler",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Lava_Survival_Inhaler"
+    },
+    {
+      "name": "Noxious Logging Inhaler",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Noxious_Logging_Inhaler"
+    },
+    {
+      "name": "Noxious Mining Inhaler",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Noxious_Mining_Inhaler"
+    },
+    {
+      "name": "Regenerative Combat Inhaler",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Regenerative_Combat_Inhaler"
+    },
+    {
+      "name": "Shengong \"Yeying\" Bandage",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Shengong_%22Yeying%22_Bandage"
+    },
+    {
+      "name": "Shengong 'Yeying' Bandage",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Shengong_%27Yeying%27_Bandage"
+    },
+    {
+      "name": "Splint",
+      "ingredients": {
+        "Wood": 2,
+        "Stick": 8,
+        "Rope": 6
+      },
+      "crafted_at": "Character Crafting",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Splint",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Suture Kit",
+      "ingredients": {
+        "Fiber": 10,
+        "Bone": 5,
+        "Leather": 2,
+        "Wool": 10
+      },
+      "crafted_at": "Character Crafting",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Suture_Kit",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Xigo Puri-tab",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Xigo_Puri-tab"
+    },
+    {
+      "name": "Xigo Quick-Fix Kit",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Xigo_Quick-Fix_Kit"
+    },
+    {
+      "name": "Xigo SplintX",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Xigo_SplintX"
+    }
+  ]
+}

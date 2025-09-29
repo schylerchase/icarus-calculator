@@ -1,6 +1,6 @@
 {
   "category": "Armor",
-  "count": 178,
+  "count": 179,
   "items": [
     {
       "name": "Advanced Storm Visor Attachment",
@@ -2306,6 +2306,24 @@
       "category": "armor",
       "tier": 2,
       "url": "https://icarus.fandom.com/wiki/Zebra_Vestige"
+    },
+    {
+      "name": "Carbon Fibre Round Shield",
+      "ingredients": {
+        "Carbon Fiber": 14,
+        "Platinum Sheath": 8,
+        "Steel Screw": 20,
+        "Epoxy": 4
+      },
+      "crafted_at": "Forge, Foundry",
+      "category": "armor",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Carbon_Fibre_Round_Shield",
+      "weight": "1.5 kg",
+      "crafting_stations": [
+        "Forge",
+        "Foundry"
+      ]
     }
   ]
 }

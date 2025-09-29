@@ -1,6 +1,6 @@
 {
   "category": "Furniture",
-  "count": 10,
+  "count": 16,
   "items": [
     {
       "name": "Bedroll",
@@ -130,6 +130,97 @@
       "url": "https://icarus.fandom.com/wiki/Vegetable_Roll",
       "crafting_stations": [
         "Biofuel Stove"
+      ]
+    },
+    {
+      "name": "Art Deco Round Table",
+      "ingredients": {
+        "Refined Gold": 4,
+        "Stone": 40
+      },
+      "crafted_at": "Decoration Bench",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Art_Deco_Round_Table",
+      "weight": "10 Kg",
+      "crafting_stations": [
+        "Decoration Bench"
+      ]
+    },
+    {
+      "name": "Carved Wood Narrow Wardrobe",
+      "ingredients": {
+        "Refined Wood": 75,
+        "Copper Nail": 15
+      },
+      "crafted_at": "Carpentry Bench",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Narrow_Wardrobe",
+      "weight": "1.0 Kg",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Carved Wood Round Table",
+      "ingredients": {
+        "Refined Wood": 50,
+        "Copper Nail": 15
+      },
+      "crafted_at": "Carpentry Bench",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Round_Table",
+      "weight": "1 Kg",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Industrial Round Table",
+      "ingredients": {
+        "Iron Ingot": 40,
+        "Steel Screw": 10
+      },
+      "crafted_at": "Decoration Bench",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Industrial_Round_Table",
+      "weight": "10 Kg",
+      "crafting_stations": [
+        "Decoration Bench"
+      ]
+    },
+    {
+      "name": "Rustic Narrow Wardrobe",
+      "ingredients": {
+        "Wood": 30,
+        "Iron Nail": 15
+      },
+      "crafted_at": "Decoration Bench",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Rustic_Narrow_Wardrobe",
+      "weight": "10 Kg",
+      "crafting_stations": [
+        "Decoration Bench"
+      ]
+    },
+    {
+      "name": "Rustic Round Table",
+      "ingredients": {
+        "Wood": 20,
+        "Stick": 20,
+        "Iron Nail": 10
+      },
+      "crafted_at": "Decoration Bench",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Rustic_Round_Table",
+      "weight": "10 Kg",
+      "crafting_stations": [
+        "Decoration Bench"
       ]
     }
   ]

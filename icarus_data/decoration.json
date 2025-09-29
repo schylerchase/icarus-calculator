@@ -1,6 +1,6 @@
 {
   "category": "Decoration",
-  "count": 70,
+  "count": 75,
   "items": [
     {
       "name": "Alpha Wolf Trophy",
@@ -1102,6 +1102,83 @@
       "category": "decoration",
       "tier": 2,
       "url": "https://icarus.fandom.com/wiki/Zebra_Trophy",
+      "weight": "2.0 Kg",
+      "crafting_stations": [
+        "Trophy Bench"
+      ]
+    },
+    {
+      "name": "Decorative Shell",
+      "ingredients": {
+        "Clay": 10,
+        "Organic Resin": 5,
+        "Scoria": 20
+      },
+      "crafted_at": "Masonry Bench",
+      "category": "decoration",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Decorative_Shell",
+      "weight": "1 Kg",
+      "crafting_stations": [
+        "Masonry Bench"
+      ]
+    },
+    {
+      "name": "Round Rustic Sign",
+      "ingredients": {
+        "Wood": 10,
+        "Stick": 5,
+        "Fiber": 15
+      },
+      "crafted_at": "Character Crafting",
+      "category": "decoration",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Round_Rustic_Sign",
+      "weight": "0.5 Kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Columbian Mammoth Trophy",
+      "ingredients": {
+        "Refined Wood": 30,
+        "Columbian Mammoth Vestige": 1
+      },
+      "crafted_at": "Trophy Bench",
+      "category": "decoration",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Columbian_Mammoth_Trophy",
+      "weight": "2.0 Kg",
+      "crafting_stations": [
+        "Trophy Bench"
+      ]
+    },
+    {
+      "name": "Mammoth Trophy",
+      "ingredients": {
+        "Refined Wood": 30,
+        "Woolly Mammoth Vestige": 1
+      },
+      "crafted_at": "Trophy Bench",
+      "category": "decoration",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Mammoth_Trophy",
+      "weight": "2.0 Kg",
+      "crafting_stations": [
+        "Trophy Bench"
+      ]
+    },
+    {
+      "name": "Woolly Mammoth Trophy",
+      "ingredients": {
+        "Refined Wood": 30,
+        "Woolly Mammoth Vestige": 1
+      },
+      "crafted_at": "Trophy Bench",
+      "category": "decoration",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Woolly_Mammoth_Trophy",
       "weight": "2.0 Kg",
       "crafting_stations": [
         "Trophy Bench"

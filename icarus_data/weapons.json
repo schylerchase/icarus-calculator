@@ -600,18 +600,6 @@
       ]
     },
     {
-      "name": "Tomato & Egg Bowl",
-      "ingredients": {},
-      "crafted_at": "Biofuel Stove, Electric Stove",
-      "category": "weapons",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Tomato_%26_Egg_Bowl",
-      "crafting_stations": [
-        "Biofuel Stove",
-        "Electric Stove"
-      ]
-    },
-    {
       "name": "Trench Shotgun",
       "ingredients": {
         "Refined Wood": 20,
@@ -627,6 +615,24 @@
       "weight": "4.5 kg",
       "crafting_stations": [
         "Fabricator"
+      ]
+    },
+    {
+      "name": "Bolt Action Rifle",
+      "ingredients": {
+        "Refined Wood": 12,
+        "Cured Leather": 1,
+        "Steel Ingot": 40,
+        "Epoxy": 4,
+        "Steel Screw": 10
+      },
+      "crafted_at": "Machining Bench",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Bolt_Action_Rifle",
+      "weight": "4.0 kg",
+      "crafting_stations": [
+        "Machining Bench"
       ]
     }
   ]

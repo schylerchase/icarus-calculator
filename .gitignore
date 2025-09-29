@@ -9,6 +9,7 @@ __pycache__/
 .Python
 *.py[cod]
 *$py.class
+FixCategories.py
 
 # VS Code
 .vscode/
