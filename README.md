@@ -57,7 +57,7 @@ Recipe database updates weekly to capture game changes.
 pip install requests beautifulsoup4 lxml
 
 # Run scraper
-python RecipeScraping_Claude.py full
+python RecipeScraping.py full
 
 # New JSON files saved to icarus_data/
 
