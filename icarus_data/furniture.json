@@ -1,227 +1,1004 @@
 {
   "category": "Furniture",
-  "count": 16,
+  "count": 99,
   "items": [
     {
-      "name": "Bedroll",
-      "ingredients": {
-        "Fiber": 20,
-        "Stick": 10,
-        "Fur": 20,
-        "Leather": 10
-      },
-      "crafted_at": "Character Crafting",
+      "name": "Alpha Wolf Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "furniture",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Bedroll",
-      "weight": "1.0 Kg",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Alpha_Wolf_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Crumbed Saltwater Fillet",
+      "name": "Antelope Trophy",
       "ingredients": {},
-      "crafted_at": "Biofuel Stove, Electric Stove",
+      "crafted_at": "Unknown",
       "category": "furniture",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Crumbed_Saltwater_Fillet",
-      "crafting_stations": [
-        "Biofuel Stove",
-        "Electric Stove"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Antelope_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Fried Chunky Vegetables",
+      "name": "Arctic Scorpion Trophy",
       "ingredients": {},
-      "crafted_at": "Potbelly Stove, Biofuel Stove, Electric Stove",
+      "crafted_at": "Unknown",
       "category": "furniture",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Fried_Chunky_Vegetables",
-      "crafting_stations": [
-        "Potbelly Stove",
-        "Biofuel Stove",
-        "Electric Stove"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Arctic_Scorpion_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "MXC Cot",
+      "name": "Arctic Vesper Trophy",
       "ingredients": {},
-      "crafted_at": "Character",
-      "category": "furniture",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/MXC_Cot",
-      "weight": "7.5 Kg"
-    },
-    {
-      "name": "Plumbed Sink",
-      "ingredients": {},
-      "crafted_at": "Fabricator",
-      "category": "furniture",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Plumbed_Sink",
-      "weight": "20.0 kg",
-      "crafting_stations": [
-        "Fabricator"
-      ]
-    },
-    {
-      "name": "Portable Biofuel Tank",
-      "ingredients": {},
-      "crafted_at": "Fabricator",
-      "category": "furniture",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Portable_Biofuel_Tank",
-      "weight": "150.0 Kg",
-      "crafting_stations": [
-        "Fabricator"
-      ]
-    },
-    {
-      "name": "Portable Icebox Backpack",
-      "ingredients": {
-        "Aluminium Ingot": 25,
-        "Electronics": 10,
-        "Carbon Fiber": 5,
-        "Steel Screw": 10
-      },
-      "crafted_at": "Fabricator",
-      "category": "furniture",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Portable_Icebox_Backpack",
-      "weight": "0.5 Kg",
-      "crafting_stations": [
-        "Fabricator"
-      ]
-    },
-    {
-      "name": "Portable Water Tank",
-      "ingredients": {},
-      "crafted_at": "Fabricator",
-      "category": "furniture",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Portable_Water_Tank",
-      "weight": "150.0 Kg",
-      "crafting_stations": [
-        "Fabricator"
-      ]
-    },
-    {
-      "name": "Roast Vegetables",
-      "ingredients": {
-        "Pumpkin": 1,
-        "Carrot": 1,
-        "Squash": 1
-      },
-      "crafted_at": "Potbelly Stove",
-      "category": "furniture",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Roast_Vegetables",
-      "crafting_stations": [
-        "Potbelly Stove"
-      ]
-    },
-    {
-      "name": "Vegetable Roll",
-      "ingredients": {},
-      "crafted_at": "Biofuel Stove",
+      "crafted_at": "Unknown",
       "category": "furniture",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Vegetable_Roll",
+      "url": "https://icarus.fandom.com/en/wiki/Arctic_Vesper_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Arid Striker Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Arid_Striker_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Art Deco Fireplace",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Art_Deco_Fireplace",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Art Deco Fireplace Cap",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Art_Deco_Fireplace_Cap",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Art Deco Fireplace Extension",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Art_Deco_Fireplace_Extension",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ashen Drake Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Ashen_Drake_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bear Rug",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Bear_Rug",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bear Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bear_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Black Jaguar Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Black_Jaguar_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Blueback Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Blueback_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist 10-Seater Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_10-Seater_Table",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist 2-Seater Couch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_2-Seater_Couch",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist 3-Seater Couch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_3-Seater_Couch",
+      "weight": "2 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist 6-Seater Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_6-Seater_Table",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Bed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Bed",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Bookshelf",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Bookshelf",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Candlestick",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Candlestick",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Coffee Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Coffee_Table",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Dining Chair",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Dining_Chair",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Display Cabinet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Display_Cabinet",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Dresser",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Dresser",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Lounge Chair",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Lounge_Chair",
+      "weight": "7 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Nightstand",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Nightstand",
+      "weight": "7 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Octagonal Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Octagonal_Table",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Sitting Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Sitting_Bench",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Square Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Square_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Stool",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Stool",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Wall Shelf",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Wall_Shelf",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Wardrobe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Wardrobe",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Buffalo Rug",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Buffalo_Rug",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Buffalo Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Buffalo_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carpentry Bench",
+      "ingredients": {},
+      "crafted_at": "[",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carpentry_Bench",
+      "weight": "0 kg",
       "crafting_stations": [
-        "Biofuel Stove"
+        "["
       ]
     },
     {
-      "name": "Art Deco Round Table",
-      "ingredients": {
-        "Refined Gold": 4,
-        "Stone": 40
-      },
-      "crafted_at": "Decoration Bench",
+      "name": "Caveworm Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Caveworm_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chala Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "furniture",
       "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Art_Deco_Round_Table",
-      "weight": "10 Kg",
+      "url": "https://icarus.fandom.com/en/wiki/Chala_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chamois Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Chamois_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.5.117759 - Week 102",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.5.117759_-_Week_102",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Columbian Mammoth Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Columbian_Mammoth_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cougar Rug",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Cougar_Rug",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cougar Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Cougar_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crocodile Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Crocodile_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Decoration Bench",
+      "ingredients": {},
+      "crafted_at": "Tech Tree",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Decoration_Bench",
+      "weight": "0 kg",
       "crafting_stations": [
-        "Decoration Bench"
+        "Tech Tree"
       ]
     },
     {
-      "name": "Carved Wood Narrow Wardrobe",
-      "ingredients": {
-        "Refined Wood": 75,
-        "Copper Nail": 15
-      },
-      "crafted_at": "Carpentry Bench",
+      "name": "Deer Rug",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "furniture",
       "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Narrow_Wardrobe",
-      "weight": "1.0 Kg",
+      "url": "https://icarus.fandom.com/en/wiki/Deer_Rug",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Deer Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Deer_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Drac Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Drac_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dreadwing Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Dreadwing_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Carpentry Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Carpentry_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Elephant Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Elephant_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Equix Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Equix_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Full Sandworm Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Full_Sandworm_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glaci Trophy",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Glaci_Trophy",
+      "weight": "0 Kg",
       "crafting_stations": [
-        "Carpentry Bench"
+        "with the following resources:"
       ]
     },
     {
-      "name": "Carved Wood Round Table",
-      "ingredients": {
-        "Refined Wood": 50,
-        "Copper Nail": 15
-      },
-      "crafted_at": "Carpentry Bench",
+      "name": "Hyena Rug",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "furniture",
       "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Round_Table",
+      "url": "https://icarus.fandom.com/en/wiki/Hyena_Rug",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Hyena Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Hyena_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ignari Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Ignari_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Industrial 2-Seater Couch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Industrial_2-Seater_Couch",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Industrial Bookshelf",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Industrial_Bookshelf",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Industrial Candlestick",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Industrial_Candlestick",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Jaguar Rug",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Jaguar_Rug",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Jaguar Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Jaguar_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Kea Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Kea_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Komodo Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Komodo_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Lava Broodling Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Lava_Broodling_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Moa Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Moa_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Needler Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Needler_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Weave",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Weave",
       "weight": "1 Kg",
       "crafting_stations": [
-        "Carpentry Bench"
+        "with the following resources:"
       ]
     },
     {
-      "name": "Industrial Round Table",
-      "ingredients": {
-        "Iron Ingot": 40,
-        "Steel Screw": 10
-      },
-      "crafted_at": "Decoration Bench",
+      "name": "Polar Bear Rug",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "furniture",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Industrial_Round_Table",
-      "weight": "10 Kg",
-      "crafting_stations": [
-        "Decoration Bench"
-      ]
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Polar_Bear_Rug",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Rustic Narrow Wardrobe",
-      "ingredients": {
-        "Wood": 30,
-        "Iron Nail": 15
-      },
-      "crafted_at": "Decoration Bench",
+      "name": "Polar Bear Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "furniture",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Rustic_Narrow_Wardrobe",
-      "weight": "10 Kg",
-      "crafting_stations": [
-        "Decoration Bench"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Polar_Bear_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Rustic Round Table",
-      "ingredients": {
-        "Wood": 20,
-        "Stick": 20,
-        "Iron Nail": 10
-      },
-      "crafted_at": "Decoration Bench",
+      "name": "Pronghorn Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "furniture",
       "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Rustic_Round_Table",
-      "weight": "10 Kg",
-      "crafting_stations": [
-        "Decoration Bench"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Pronghorn_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Pygmy Lop Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Pygmy_Lop_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rabbit Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Rabbit_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Redback Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Redback_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Roat Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Roat_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sandworm Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sandworm_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scorpion Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shaggy Zebra Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Shaggy_Zebra_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snow Leopard Rug",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Snow_Leopard_Rug",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snow Leopard Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Snow_Leopard_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snow Rabbit Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Snow_Rabbit_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snow Stalker Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Snow_Stalker_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snow Wolf Rug",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Snow_Wolf_Rug",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snow Wolf Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Snow_Wolf_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stonejaw Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Stonejaw_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stryder Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Stryder_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Teenage Caveworm Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Teenage_Caveworm_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Terrenus Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Terrenus_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thick Woven Rug",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Thick_Woven_Rug",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thin Woven Rug",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Thin_Woven_Rug",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Tusker Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Tusker_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ubis Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Ubis_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Viscid Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Viscid_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wild Boar Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Wild_Boar_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wolf Rug",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Wolf_Rug",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wolf Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wolf_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wooden Chair",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Wooden_Chair",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Woolly Mammoth Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Woolly_Mammoth_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Zebra Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "furniture",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Zebra_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
     }
   ]
 }

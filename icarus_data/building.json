@@ -1,633 +1,268 @@
 {
   "category": "Building",
-  "count": 181,
+  "count": 61,
   "items": [
     {
-      "name": "Aluminium Beam",
+      "name": "Building Upgrade Tool",
       "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Beam",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Aluminium Door",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Door",
-      "weight": "1.0KG"
-    },
-    {
-      "name": "Aluminium Floor",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Floor",
-      "weight": "0.2KG"
-    },
-    {
-      "name": "Aluminium Floor Trapdoor",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Floor_Trapdoor",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Aluminium Halfpieces",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Halfpieces",
-      "weight": "<unknown>"
-    },
-    {
-      "name": "Aluminium Halfpitches",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Halfpitches",
-      "weight": "<unknown>"
-    },
-    {
-      "name": "Aluminium Ladder",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Ladder",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Aluminium Railing",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Railing",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Aluminium Ramp",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Ramp",
-      "weight": "0.1KG"
-    },
-    {
-      "name": "Aluminium Roof",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Roof",
-      "weight": "<unknown>"
-    },
-    {
-      "name": "Aluminium Roof Corner",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Roof_Corner",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Aluminium Stairs",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Stairs",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Aluminium Trapdoor",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Trapdoor",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Aluminium Wall",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Wall",
-      "weight": "0.8 KG"
-    },
-    {
-      "name": "Aluminium Wall Angled",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Wall_Angled",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Aluminium Window",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Window",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Art Deco Floor Lamp",
-      "ingredients": {
-        "Refined Gold": 6,
-        "Stone": 10,
-        "Glass": 4,
-        "Gold Wire": 4
-      },
-      "crafted_at": "Decoration Bench",
-      "category": "building",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Art_Deco_Floor_Lamp",
-      "weight": "10 Kg",
-      "crafting_stations": [
-        "Decoration Bench"
-      ]
-    },
-    {
-      "name": "Art Deco Wall Light",
-      "ingredients": {
-        "Refined Gold": 2,
-        "Glass": 2,
-        "Gold Wire": 4,
-        "Stone": 4
-      },
-      "crafted_at": "Decoration Bench",
-      "category": "building",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Art_Deco_Wall_Light",
-      "weight": "10 Kg",
-      "crafting_stations": [
-        "Decoration Bench"
-      ]
-    },
-    {
-      "name": "Art Deco Wall Shelf",
-      "ingredients": {
-        "Refined Gold": 4,
-        "Stone": 20,
-        "Steel Screw": 6
-      },
-      "crafted_at": "Decoration Bench",
-      "category": "building",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Art_Deco_Wall_Shelf",
-      "weight": "10 Kg",
-      "crafting_stations": [
-        "Decoration Bench"
-      ]
-    },
-    {
-      "name": "Art Deco Wall Sign",
-      "ingredients": {
-        "Refined Gold": 2,
-        "Stone": 16
-      },
-      "crafted_at": "Decoration Bench",
-      "category": "building",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Art_Deco_Wall_Sign",
-      "weight": "5.0 Kg",
-      "crafting_stations": [
-        "Decoration Bench"
-      ]
-    },
-    {
-      "name": "Basic Wall Light",
-      "ingredients": {
-        "Iron Ingot": 15,
-        "Glass": 6,
-        "Copper Wire": 40
-      },
-      "crafted_at": "Fabricator",
+      "crafted_at": "Unknown",
       "category": "building",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Basic_Wall_Light",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Fabricator"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Building_Upgrade_Tool",
+      "weight": "",
+      "crafting_stations": []
     },
     {
-      "name": "Beeswax Wood Floor",
-      "ingredients": {
-        "Fiber": 4,
-        "Wood": 15,
-        "Beeswax": 10
-      },
+      "name": "CONT4CT Device",
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Floor",
-      "weight": "0.5 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/CONT4CT_Device",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Beeswax Wood Floor Trapdoor",
-      "ingredients": {
-        "Fiber": 4,
-        "Wood": 15,
-        "Beeswax": 10
-      },
-      "crafted_at": "Unknown",
+      "name": "Campfire",
+      "ingredients": {},
+      "crafted_at": "",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Floor_Trapdoor",
-      "weight": "0.5 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Campfire",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Beeswax Wood Halfpieces",
-      "ingredients": {
-        "Fiber": 12,
-        "Wood": 20,
-        "Beeswax": 10
-      },
+      "name": "Changelog v1.2.42.108807 - Week 67",
+      "ingredients": {},
       "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Halfpieces",
-      "weight": "0.5 kg"
-    },
-    {
-      "name": "Beeswax Wood Halfpitches",
-      "ingredients": {
-        "Fiber": 12,
-        "Wood": 20,
-        "Beeswax": 10
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Halfpitches",
-      "weight": "0.5 kg"
-    },
-    {
-      "name": "Beeswax Wood Ramp",
-      "ingredients": {
-        "Fiber": 4,
-        "Wood": 15,
-        "Beeswax": 10
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Ramp",
-      "weight": "0.5 kg"
-    },
-    {
-      "name": "Beeswax Wood Roof",
-      "ingredients": {
-        "Fiber": 4,
-        "Wood": 15,
-        "Beeswax": 10
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Roof",
-      "weight": "0.5 kg"
-    },
-    {
-      "name": "Beeswax Wood Roof Corner",
-      "ingredients": {
-        "Fiber": 6,
-        "Wood": 10,
-        "Beeswax": 10
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Roof_Corner",
-      "weight": "0.5 Kg"
-    },
-    {
-      "name": "Beeswax Wood Roof Peak",
-      "ingredients": {
-        "Fiber": 4,
-        "Wood": 15,
-        "Beeswax": 10
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Roof_Peak",
-      "weight": "0.5 kg"
-    },
-    {
-      "name": "Beeswax Wood Wall",
-      "ingredients": {
-        "Fiber": 4,
-        "Wood": 15,
-        "Beeswax": 10
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Wall",
-      "weight": "0.5 Kg"
-    },
-    {
-      "name": "Beeswax Wood Wall Angled",
-      "ingredients": {
-        "Fiber": 2,
-        "Wood": 8,
-        "Beeswax": 10
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Wall_Angled",
-      "weight": "0.5 kg"
-    },
-    {
-      "name": "Brutalist Wall Shelf",
-      "ingredients": {
-        "Concrete Mix": 3
-      },
-      "crafted_at": "Decoration Bench",
       "category": "building",
       "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Brutalist_Wall_Shelf",
-      "weight": "5 Kg",
-      "crafting_stations": [
-        "Decoration Bench"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.42.108807_-_Week_67",
+      "weight": "",
+      "crafting_stations": []
     },
     {
-      "name": "Carved Wood Wall Shelf",
-      "ingredients": {
-        "Refined Wood": 25,
-        "Copper Nail": 15
-      },
-      "crafted_at": "Carpentry Bench",
+      "name": "Changelog v2.1.14.118795 - Week 111",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "building",
       "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Wall_Shelf",
-      "weight": "1 Kg",
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.14.118795_-_Week_111",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.22.127885 - Week 147",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "building",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.22.127885_-_Week_147",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.56.137509 - Week 181",
+      "ingredients": {},
+      "crafted_at": "Coming Soon: Great Hunts in the PC Gamer Show",
+      "category": "building",
+      "tier": 8,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.56.137509_-_Week_181",
+      "weight": "",
       "crafting_stations": [
-        "Carpentry Bench"
+        "Coming Soon: Great Hunts in the PC Gamer Show"
       ]
     },
     {
-      "name": "Clay Brick Beam",
-      "ingredients": {
-        "Clay Brick": 25,
-        "Tree Sap": 5
-      },
+      "name": "Changelog v2.2.62.139704 - Week 187",
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Clay_Brick_Beam",
-      "weight": "2.5 Kg"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.62.139704_-_Week_187",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
-      "name": "Clay Brick Floor",
-      "ingredients": {
-        "Clay Brick": 30,
-        "Tree Sap": 5
-      },
+      "name": "Changelog v2.3.10.142613 - Week 199",
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Clay_Brick_Floor",
-      "weight": "2.5 Kg"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.10.142613_-_Week_199",
+      "weight": "",
+      "crafting_stations": []
     },
     {
-      "name": "Clay Brick Halfpieces",
-      "ingredients": {
-        "Clay Brick": 10,
-        "Tree Sap": 2
-      },
+      "name": "Changelog v2.3.7.141824 - Week 196",
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Clay_Brick_Halfpieces",
-      "weight": "2.5 Kg"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.7.141824_-_Week_196",
+      "weight": "",
+      "crafting_stations": []
     },
     {
-      "name": "Clay Brick Halfpitches",
-      "ingredients": {
-        "Clay Brick": 15,
-        "Tree Sap": 3
-      },
+      "name": "Changelog v2.3.9.142406 - Week 198",
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Clay_Brick_Halfpitches",
-      "weight": "2.5 Kg"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.9.142406_-_Week_198",
+      "weight": "",
+      "crafting_stations": []
     },
     {
-      "name": "Clay Brick Ramp",
-      "ingredients": {
-        "Clay Brick": 30,
-        "Tree Sap": 5
-      },
+      "name": "Clay Brick",
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Clay_Brick_Ramp",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Clay Brick Roof Corner",
-      "ingredients": {
-        "Clay Brick": 15,
-        "Tree Sap": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Clay_Brick_Roof_Corner",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Clay Brick Wall",
-      "ingredients": {
-        "Clay Brick": 30,
-        "Tree Sap": 5
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Clay_Brick_Wall",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Clay Brick Wall Angle",
-      "ingredients": {
-        "Clay Brick": 20,
-        "Tree Sap": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Clay_Brick_Wall_Angle",
-      "weight": "2.5 Kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Clay_Brick",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Concrete Beam",
-      "ingredients": {
-        "Steel Rebar": 8,
-        "Concrete Mix": 2,
-        "Steel Screw": 2
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Concrete_Beam",
-      "weight": "7 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Beam",
+      "weight": "7 kg",
+      "crafting_stations": []
     },
     {
       "name": "Concrete Floor",
-      "ingredients": {
-        "Steel Rebar": 10,
-        "Concrete Mix": 4,
-        "Steel Screw": 4
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Concrete_Floor",
-      "weight": "7 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Floor",
+      "weight": "7 kg",
+      "crafting_stations": []
     },
     {
       "name": "Concrete Floor Trapdoor",
-      "ingredients": {
-        "Steel Rebar": 10,
-        "Concrete Mix": 4,
-        "Steel Screw": 4
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Concrete_Floor_Trapdoor"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Floor_Trapdoor",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Frame",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "building",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Frame",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Concrete Halfpieces",
-      "ingredients": {
-        "Steel Rebar": 10,
-        "Concrete Mix": 4,
-        "Steel Screw": 4
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Concrete_Halfpieces"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Halfpieces",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Concrete Halfpitches",
-      "ingredients": {
-        "Steel Rebar": 10,
-        "Concrete Mix": 4,
-        "Steel Screw": 4
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Concrete_Halfpitches"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Halfpitches",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Concrete Railing",
-      "ingredients": {
-        "Aluminium Ore": 2,
-        "Wood": 2,
-        "Steel Screw": 6
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Concrete_Railing"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Railing",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Concrete Ramp",
-      "ingredients": {
-        "Steel Rebar": 12,
-        "Concrete Mix": 4,
-        "Steel Screw": 4
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Concrete_Ramp"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Ramp",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Concrete Roof",
-      "ingredients": {
-        "Steel Rebar": 12,
-        "Concrete Mix": 4,
-        "Steel Screw": 4
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Concrete_Roof"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Roof",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Concrete Roof Corner",
-      "ingredients": {
-        "Steel Rebar": 8,
-        "Concrete Mix": 4,
-        "Steel Screw": 4
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Concrete_Roof_Corner"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Roof_Corner",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Concrete Stairs",
-      "ingredients": {
-        "Steel Rebar": 12,
-        "Concrete Mix": 4,
-        "Steel Screw": 4
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Concrete_Stairs"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Stairs",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Concrete Wall",
-      "ingredients": {
-        "Steel Rebar": 10,
-        "Concrete Mix": 4,
-        "Steel Screw": 4
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Concrete_Wall",
-      "weight": "3.5 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Wall",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Concrete Wall Angled",
-      "ingredients": {
-        "Steel Rebar": 8,
-        "Concrete Mix": 4,
-        "Steel Screw": 4
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Concrete_Wall_Angled"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Wall_Angled",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crafting Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "building",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Crafting_Bench",
+      "weight": "0kg",
+      "crafting_stations": []
     },
     {
       "name": "Dirt Foundation",
@@ -636,1510 +271,359 @@
       },
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Dirt_Foundation",
-      "weight": "2.5 Kg"
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Dirt_Foundation",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Dirt Ramp",
-      "ingredients": {
-        "Dirt": 10
-      },
+      "name": "Elephant",
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Dirt_Ramp",
-      "weight": "2.5 Kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Elephant",
+      "weight": "",
+      "crafting_stations": []
     },
     {
-      "name": "Elegant Curtain Door",
-      "ingredients": {
-        "Platinum Weave": 2,
-        "Iron Ingot": 6,
-        "Fiber": 45,
-        "Gold Wire": 20
-      },
-      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
-      "category": "building",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Elegant_Curtain_Door",
-      "weight": "1.0 Kg",
-      "crafting_stations": [
-        "Advanced Textiles Bench",
-        "Electric Textiles Bench"
-      ]
-    },
-    {
-      "name": "Elegant Curtain Window",
-      "ingredients": {
-        "Platinum Weave": 2,
-        "Iron Ingot": 6,
-        "Fiber": 35,
-        "Gold Wire": 20
-      },
-      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
-      "category": "building",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Elegant_Curtain_Window",
-      "weight": "1.0 Kg",
-      "crafting_stations": [
-        "Advanced Textiles Bench",
-        "Electric Textiles Bench"
-      ]
-    },
-    {
-      "name": "Floor Torch",
+      "name": "Fire Whacker",
       "ingredients": {},
-      "crafted_at": "Character Crafting",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Floor_Torch",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
-    },
-    {
-      "name": "Fur Curtain Door",
-      "ingredients": {
-        "Fur": 25,
-        "Wood": 5,
-        "Fiber": 15
-      },
-      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
-      "category": "building",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Fur_Curtain_Door",
-      "weight": "1.0 Kg",
-      "crafting_stations": [
-        "Textiles Bench",
-        "Advanced Textiles Bench",
-        "Electric Textiles Bench"
-      ]
-    },
-    {
-      "name": "Fur Curtain Window",
-      "ingredients": {
-        "Fur": 20,
-        "Wood": 5,
-        "Fiber": 10
-      },
-      "crafted_at": "Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
-      "category": "building",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Fur_Curtain_Window",
-      "weight": "1.0 Kg",
-      "crafting_stations": [
-        "Textiles Bench",
-        "Advanced Textiles Bench",
-        "Electric Textiles Bench"
-      ]
-    },
-    {
-      "name": "Glass Beam",
-      "ingredients": {
-        "Iron Ingot": 6,
-        "Epoxy": 12
-      },
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Glass_Beam",
-      "weight": "<unknown>"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fire_Whacker",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Glass Door",
-      "ingredients": {
-        "Iron Ingot": 6,
-        "Glass": 20,
-        "Epoxy": 12
-      },
+      "name": "Firepit",
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Glass_Door",
-      "weight": "<unknown>"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Firepit",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Glass Roof",
-      "ingredients": {
-        "Iron Ingot": 6,
-        "Glass": 20,
-        "Epoxy": 12
-      },
+      "name": "Hitching Post",
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Glass_Roof",
-      "weight": "<unknown>"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Hitching_Post",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Glass Roof Corner",
-      "ingredients": {
-        "Iron Ingot": 3,
-        "Glass": 10,
-        "Epoxy": 6
-      },
+      "name": "Ignari",
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Glass_Roof_Corner",
-      "weight": "<unknown>"
-    },
-    {
-      "name": "Glass Wall",
-      "ingredients": {
-        "Iron Ingot": 6,
-        "Glass": 20,
-        "Epoxy": 12
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Glass_Wall",
-      "weight": "<unknown>"
-    },
-    {
-      "name": "Glass Wall Angled",
-      "ingredients": {
-        "Iron Ingot": 3,
-        "Glass": 10,
-        "Epoxy": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Glass_Wall_Angled",
-      "weight": "<unknown>"
-    },
-    {
-      "name": "Glass Window",
-      "ingredients": {
-        "Wood": 12,
-        "Glass": 18,
-        "Epoxy": 4
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Glass_Window",
-      "weight": "<unknown>"
-    },
-    {
-      "name": "Heavy Glass Window",
-      "ingredients": {
-        "Iron Ingot": 12,
-        "Glass": 18,
-        "Epoxy": 4
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Heavy_Glass_Window",
-      "weight": "3.0 Kg"
-    },
-    {
-      "name": "Heavy Trapdoor",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Heavy_Trapdoor",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Industrial Wall Shelf",
-      "ingredients": {
-        "Iron Ingot": 10,
-        "Steel Screw": 5
-      },
-      "crafted_at": "Decoration Bench",
-      "category": "building",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Industrial_Wall_Shelf",
-      "weight": "10 Kg",
-      "crafting_stations": [
-        "Decoration Bench"
-      ]
-    },
-    {
-      "name": "Interior Wood Beam",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Beam",
-      "weight": "0.5 Kg"
-    },
-    {
-      "name": "Interior Wood Corner Stairs",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Corner_Stairs",
-      "weight": "0.5 Kg"
-    },
-    {
-      "name": "Interior Wood Door",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Door",
-      "weight": "1.0 Kg"
-    },
-    {
-      "name": "Interior Wood Floor",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Floor",
-      "weight": "0.5 Kg"
-    },
-    {
-      "name": "Interior Wood Floor Trapdoor",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Floor_Trapdoor",
-      "weight": "0.5 Kg"
-    },
-    {
-      "name": "Interior Wood Halfpieces",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Halfpieces",
-      "weight": "0.25 Kg"
-    },
-    {
-      "name": "Interior Wood Halfpitches",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Halfpitches",
-      "weight": "250"
-    },
-    {
-      "name": "Interior Wood Ladder",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Ladder",
-      "weight": "0.5 Kg"
-    },
-    {
-      "name": "Interior Wood Railing",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Railing",
-      "weight": "1.0 Kg"
-    },
-    {
-      "name": "Interior Wood Railing Gate",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Railing_Gate",
-      "weight": "1.0 Kg"
-    },
-    {
-      "name": "Interior Wood Railing Stairs",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Railing_Stairs",
-      "weight": "1.0 Kg"
-    },
-    {
-      "name": "Interior Wood Ramp",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Ramp",
-      "weight": "0.5 Kg"
-    },
-    {
-      "name": "Interior Wood Stairs",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Stairs",
-      "weight": "0.5 Kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Ignari",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Interior Wood Trapdoor",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Trapdoor",
-      "weight": "1.0 Kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Interior_Wood_Trapdoor",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Interior Wood Wall",
+      "name": "Iron Hammer",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Wall",
-      "weight": "0.5 Kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Hammer",
+      "weight": "5kg",
+      "crafting_stations": []
     },
     {
-      "name": "Interior Wood Wall Angled",
+      "name": "Lightning Rod",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "with the following resources:",
       "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Wall_Angled",
-      "weight": "0.5 Kg"
-    },
-    {
-      "name": "Leather Curtain Door",
-      "ingredients": {
-        "Fiber": 20,
-        "Wood": 5,
-        "Leather": 15
-      },
-      "crafted_at": "Crafting Bench, Machining Bench, Fabricator, Textiles Bench, Advanced Textiles Bench, Electric Textiles Bench",
-      "category": "building",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Leather_Curtain_Door",
-      "weight": "1.0 Kg",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Lightning_Rod",
+      "weight": "0 kg",
       "crafting_stations": [
-        "Crafting Bench",
-        "Machining Bench",
-        "Fabricator",
-        "Textiles Bench",
-        "Advanced Textiles Bench",
-        "Electric Textiles Bench"
+        "with the following resources:"
       ]
     },
     {
-      "name": "Leather Curtain Window",
-      "ingredients": {
-        "Fiber": 15,
-        "Wood": 5,
-        "Leather": 10
-      },
-      "crafted_at": "Crafting Bench, Machining Bench, Fabricator",
+      "name": "Medium Wood Hedgehog",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "building",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Leather_Curtain_Window",
-      "weight": "1.0 Kg",
-      "crafting_stations": [
-        "Crafting Bench",
-        "Machining Bench",
-        "Fabricator"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Medium_Wood_Hedgehog",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Oxygen Bladder",
-      "ingredients": {
-        "Fiber": 20,
-        "Leather": 30,
-        "Bone": 8
-      },
-      "crafted_at": "Crafting Bench",
+      "name": "Platinum Lightning Rod",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "building",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Oxygen_Bladder",
-      "crafting_stations": [
-        "Crafting Bench"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Lightning_Rod",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Reinforced Curtain Door",
-      "ingredients": {
-        "Platinum Weave": 2,
-        "Iron Ingot": 6,
-        "Iron Nail": 14,
-        "Fiber": 15
-      },
-      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
+      "name": "Platinum Shovel",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "building",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Curtain_Door",
-      "weight": "1.0 Kg",
-      "crafting_stations": [
-        "Advanced Textiles Bench",
-        "Electric Textiles Bench"
-      ]
-    },
-    {
-      "name": "Reinforced Curtain Window",
-      "ingredients": {
-        "Platinum Weave": 2,
-        "Iron Ingot": 6,
-        "Iron Nail": 14,
-        "Fiber": 10
-      },
-      "crafted_at": "Advanced Textiles Bench, Electric Textiles Bench",
-      "category": "building",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Curtain_Window",
-      "weight": "1.0 Kg",
-      "crafting_stations": [
-        "Advanced Textiles Bench",
-        "Electric Textiles Bench"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Shovel",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Reinforced Door",
-      "ingredients": {
-        "Wood": 4,
-        "Iron Ingot": 6,
-        "Iron Nail": 8,
-        "Rope": 4
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Door",
-      "weight": "1.0 kg"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Door",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Reinforced Glass Beam",
-      "ingredients": {
-        "Steel Ingot": 4,
-        "Epoxy": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Beam",
-      "weight": "0.1 Kg"
-    },
-    {
-      "name": "Reinforced Glass Floor",
-      "ingredients": {
-        "Steel Ingot": 2,
-        "Glass": 20,
-        "Epoxy": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Floor",
-      "weight": "0.1 Kg"
-    },
-    {
-      "name": "Reinforced Glass Halfpieces",
-      "ingredients": {
-        "Steel Ingot": 1,
-        "Glass": 10,
-        "Epoxy": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Halfpieces",
-      "weight": "0.1 Kg"
-    },
-    {
-      "name": "Reinforced Glass Halfpitches",
-      "ingredients": {
-        "Steel Ingot": 1,
-        "Glass": 10,
-        "Epoxy": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Halfpitches",
-      "weight": "0.1 Kg"
-    },
-    {
-      "name": "Reinforced Glass Roof",
-      "ingredients": {
-        "Steel Ingot": 2,
-        "Glass": 20,
-        "Epoxy": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Roof",
-      "weight": "0.1 Kg"
-    },
-    {
-      "name": "Reinforced Glass Roof Corner",
-      "ingredients": {
-        "Steel Ingot": 1,
-        "Glass": 10,
-        "Epoxy": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Roof_Corner",
-      "weight": "0.1 Kg"
-    },
-    {
-      "name": "Reinforced Glass Wall",
-      "ingredients": {
-        "Steel Ingot": 2,
-        "Glass": 20,
-        "Epoxy": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Wall",
-      "weight": "0.1 Kg"
-    },
-    {
-      "name": "Reinforced Glass Wall Angled",
-      "ingredients": {
-        "Steel Ingot": 1,
-        "Glass": 10,
-        "Epoxy": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Wall_Angled"
-    },
-    {
-      "name": "Reinforced Ladder",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Ladder",
-      "weight": "<unkown>"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Glass_Beam",
+      "weight": "1 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Reinforced Railing",
+      "name": "Scorpion Hedgehog",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "with the following resources:",
       "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Railing",
-      "weight": "<unkown>"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion_Hedgehog",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
     },
     {
-      "name": "Reinforced Trapdoor",
+      "name": "Shovel",
+      "ingredients": {
+        "Wood": 4,
+        "Iron Ingot": 6
+      },
+      "crafted_at": "Unknown",
+      "category": "building",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Shovel",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Hammer",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Trapdoor",
-      "weight": "<unkown>"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Hammer",
+      "weight": "5kg",
+      "crafting_stations": []
     },
     {
-      "name": "Reinforced Window",
+      "name": "Steel Rebar",
       "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Window",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Reinforced Wood Stairs",
-      "ingredients": {
-        "Fiber": 4,
-        "Wood": 15,
-        "Beeswax": 10
-      },
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Reinforced_Wood_Stairs",
-      "weight": "0.5 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Rebar",
+      "weight": "2kg",
+      "crafting_stations": []
     },
     {
-      "name": "Scoria Beam",
-      "ingredients": {
-        "Wood": 2,
-        "Scoria": 3,
-        "Leather": 1,
-        "Iron Nail": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Beam",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Scoria Brick Beam",
-      "ingredients": {
-        "Scoria Brick": 25,
-        "Tree Sap": 5
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Beam",
-      "weight": "3 Kg"
-    },
-    {
-      "name": "Scoria Brick Floor",
-      "ingredients": {
-        "Scoria Brick": 40,
-        "Tree Sap": 5
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Floor",
-      "weight": "3 Kg"
-    },
-    {
-      "name": "Scoria Brick Halfpieces",
-      "ingredients": {
-        "Scoria Brick": 20,
-        "Tree Sap": 5
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Halfpieces",
-      "weight": "3 Kg"
-    },
-    {
-      "name": "Scoria Brick Halfpitches",
-      "ingredients": {
-        "Scoria Brick": 20,
-        "Tree Sap": 5
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Halfpitches",
-      "weight": "3 Kg"
-    },
-    {
-      "name": "Scoria Brick Ramp",
-      "ingredients": {
-        "Scoria Brick": 30,
-        "Tree Sap": 5
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Ramp",
-      "weight": "3 Kg"
-    },
-    {
-      "name": "Scoria Brick Roof Corner",
-      "ingredients": {
-        "Scoria Brick": 25,
-        "Tree Sap": 5
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Roof_Corner",
-      "weight": "3 Kg"
-    },
-    {
-      "name": "Scoria Brick Wall",
-      "ingredients": {
-        "Scoria Brick": 40,
-        "Tree Sap": 5
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Wall",
-      "weight": "3 Kg"
-    },
-    {
-      "name": "Scoria Brick Wall Angle",
-      "ingredients": {
-        "Scoria Brick": 25,
-        "Tree Sap": 5
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Wall_Angle",
-      "weight": "3 Kg"
-    },
-    {
-      "name": "Scoria Floor",
-      "ingredients": {
-        "Wood": 6,
-        "Scoria": 10,
-        "Leather": 4,
-        "Iron Nail": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Floor",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Scoria Halfpieces",
-      "ingredients": {
-        "Wood": 6,
-        "Scoria": 10,
-        "Leather": 4,
-        "Iron Nail": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Halfpieces",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Scoria Halfpitches",
-      "ingredients": {
-        "Wood": 6,
-        "Scoria": 10,
-        "Leather": 4,
-        "Iron Nail": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Halfpitches",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Scoria Ramp",
-      "ingredients": {
-        "Wood": 6,
-        "Scoria": 10,
-        "Leather": 4,
-        "Iron Nail": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Ramp",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Scoria Roof Corner",
-      "ingredients": {
-        "Wood": 3,
-        "Scoria": 5,
-        "Leather": 2,
-        "Iron Nail": 4
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Roof_Corner",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Scoria Wall",
-      "ingredients": {
-        "Wood": 6,
-        "Scoria": 10,
-        "Leather": 4,
-        "Iron Nail": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Wall",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Scoria Wall Angled",
-      "ingredients": {
-        "Wood": 3,
-        "Scoria": 5,
-        "Leather": 2,
-        "Iron Nail": 4
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Scoria_Wall_Angled",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Stone Beam",
+      "name": "Stone Brick",
       "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Stone_Beam",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Stone Beams",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Stone_Beam",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Stone Brick Beam",
-      "ingredients": {
-        "Refined Wood": 6,
-        "Stone Brick": 20,
-        "Tree Sap": 4,
-        "Steel Screw": 6
-      },
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Beam",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Stone Brick Floor",
-      "ingredients": {
-        "Refined Wood": 6,
-        "Stone Brick": 30,
-        "Tree Sap": 6,
-        "Steel Screw": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Floor",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Stone Brick Floor Trapdoor",
-      "ingredients": {
-        "Refined Wood": 6,
-        "Stone Brick": 30,
-        "Tree Sap": 6,
-        "Steel Screw": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Floor_Trapdoor",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Stone Brick Halfpieces",
-      "ingredients": {
-        "Refined Wood": 3,
-        "Stone Brick": 15,
-        "Tree Sap": 3,
-        "Steel Screw": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Halfpieces",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Stone Brick Halfpitches",
-      "ingredients": {
-        "Refined Wood": 3,
-        "Stone Brick": 15,
-        "Tree Sap": 3,
-        "Steel Screw": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Halfpitches",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Stone Brick Ramp",
-      "ingredients": {
-        "Refined Wood": 6,
-        "Stone Brick": 30,
-        "Tree Sap": 6,
-        "Steel Screw": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Ramp",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Stone Brick Roof",
-      "ingredients": {
-        "Refined Wood": 6,
-        "Stone Brick": 30,
-        "Tree Sap": 6,
-        "Steel Screw": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Roof",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Stone Brick Roof Corner",
-      "ingredients": {
-        "Refined Wood": 3,
-        "Stone Brick": 15,
-        "Tree Sap": 3,
-        "Steel Screw": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Roof_Corner",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Stone Brick Roof Peak",
-      "ingredients": {
-        "Refined Wood": 6,
-        "Stone Brick": 30,
-        "Tree Sap": 6,
-        "Steel Screw": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Roof_Peak",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Stone Brick Stairs",
-      "ingredients": {
-        "Refined Wood": 6,
-        "Stone Brick": 30,
-        "Tree Sap": 6,
-        "Steel Screw": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Stairs",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Stone Brick Wall",
-      "ingredients": {
-        "Refined Wood": 6,
-        "Stone Brick": 30,
-        "Tree Sap": 6,
-        "Steel Screw": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Wall",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Stone Brick Wall Angle",
-      "ingredients": {
-        "Refined Wood": 6,
-        "Stone Brick": 15,
-        "Tree Sap": 3,
-        "Steel Screw": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Wall_Angle",
-      "weight": "2.5 Kg"
-    },
-    {
-      "name": "Stone Floor",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Stone_Floor",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Stone Floor Trapdoor",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Stone_Floor_Trapdoor",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Stone Halfpieces",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Stone_Halfpieces",
-      "weight": "<unknown>"
-    },
-    {
-      "name": "Stone Halfpitches",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Stone_Halfpitches",
-      "weight": "<unknown>"
-    },
-    {
-      "name": "Stone Ramp",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Stone_Ramp",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Stone Roof",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Stone_Roof",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Stone Roof Corner",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Stone_Roof_Corner",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Stone Stairs",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Stone_Stairs",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Stone Wall",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Stone_Wall",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Stone Wall Angled",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Stone_Wall_Angled",
-      "weight": "<unkown>"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Brick",
+      "weight": "3 kg",
+      "crafting_stations": []
     },
     {
       "name": "Thatch Beam",
-      "ingredients": {
-        "Fiber": 12,
-        "Sticks": 6
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Beam",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Thatch Door",
-      "ingredients": {
-        "Fiber": 10,
-        "Sticks": 4
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Door",
-      "weight": "1.0 kg"
-    },
-    {
-      "name": "Thatch Floor",
-      "ingredients": {
-        "Fiber": 20,
-        "Sticks": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Floor",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Thatch Floor Trapdoor",
-      "ingredients": {
-        "Fiber": 20,
-        "Sticks": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Floor_Trapdoor",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Thatch Halfpieces",
-      "ingredients": {
-        "Fiber": 20,
-        "Sticks": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Halfpieces",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Thatch Halfpitches",
-      "ingredients": {
-        "Fiber": 20,
-        "Sticks": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Halfpitches",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Thatch Ladder",
-      "ingredients": {
-        "Fiber": 6,
-        "Sticks": 10
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Ladder",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Thatch Railing",
-      "ingredients": {
-        "Fiber": 8,
-        "Sticks": 2
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Railing",
-      "weight": "1.0 kg"
-    },
-    {
-      "name": "Thatch Ramp",
-      "ingredients": {
-        "Fiber": 20,
-        "Sticks": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Ramp",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Thatch Roof",
-      "ingredients": {
-        "Fiber": 20,
-        "Sticks": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Roof",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Thatch Roof Corner",
-      "ingredients": {
-        "Fiber": 10,
-        "Sticks": 2
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Roof_Corner",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Thatch Stairs",
-      "ingredients": {
-        "Fiber": 20,
-        "Sticks": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Stairs",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Thatch Trapdoor",
-      "ingredients": {
-        "Fiber": 10,
-        "Sticks": 4
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Trapdoor",
-      "weight": "1.0 kg"
-    },
-    {
-      "name": "Thatch Wall",
-      "ingredients": {
-        "Fiber": 20,
-        "Sticks": 3
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Wall",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Thatch Wall Angled",
-      "ingredients": {
-        "Fiber": 10,
-        "Sticks": 2
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Wall_Angled",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Thatch Window",
-      "ingredients": {
-        "Fiber": 10,
-        "Sticks": 4
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Thatch_Window",
-      "weight": "1.0 kg"
-    },
-    {
-      "name": "Wall Torch",
       "ingredients": {},
-      "crafted_at": "Crafting Bench",
+      "crafted_at": "Unknown",
       "category": "building",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Wall_Torch",
-      "weight": "<unkown>",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Beam",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Hammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "building",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Hammer",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Shovel",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "building",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Shovel",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Vapor Condenser",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "building",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Vapor_Condenser",
+      "weight": "0 kg",
       "crafting_stations": [
-        "Crafting Bench"
+        "with the following resources:"
       ]
+    },
+    {
+      "name": "Viscid",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "building",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Viscid",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Wood Beam",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Wood_Beam",
-      "weight": "0..5 kg"
-    },
-    {
-      "name": "Wood Beams",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Wood_Beam",
-      "weight": "0..5 kg"
-    },
-    {
-      "name": "Wood Door",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Wood_Door",
-      "weight": "1.0 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Beam",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Wood Floor",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Wood_Floor",
-      "weight": "0.5 kg"
-    },
-    {
-      "name": "Wood Floor Trapdoor",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Wood_Floor_Trapdoor",
-      "weight": "0.5 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Floor",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Wood Halfpieces",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Wood_Halfpieces",
-      "weight": "0.1 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Halfpieces",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Wood Halfpitches",
       "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Wood_Halfpitches",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Wood Ladder",
-      "ingredients": {
-        "Fiber": 6,
-        "Wood": 10
-      },
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Wood_Ladder",
-      "weight": "0.1 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Halfpitches",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Hammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "building",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Hammer",
+      "weight": "1 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Wood Railing",
-      "ingredients": {
-        "Fiber": 8,
-        "Wood": 8
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Wood_Railing",
-      "weight": "1.0 kg"
-    },
-    {
-      "name": "Wood Railing Gate",
-      "ingredients": {
-        "Fiber": 8,
-        "Wood": 8
-      },
-      "crafted_at": "Unknown",
-      "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Wood_Railing_Gate",
-      "weight": "1.0 kg"
-    },
-    {
-      "name": "Wood Ramp",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Wood_Ramp",
-      "weight": "0.5 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Railing",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Wood Roof",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Wood_Roof",
-      "weight": "0.5 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Roof",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Wood Roof Corner",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Wood_Roof_Corner",
-      "weight": "0.5 kg"
-    },
-    {
-      "name": "Wood Stairs",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Wood_Stairs",
-      "weight": "0.5 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Roof_Corner",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Wood Trapdoor",
-      "ingredients": {
-        "Fiber": 4,
-        "Wood": 10
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Wood_Trapdoor",
-      "weight": "1.0 kg"
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Trapdoor",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Wood Wall",
       "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Wood_Wall",
-      "weight": "<unkown>"
-    },
-    {
-      "name": "Wood Wall Angled",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "building",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Wood_Wall_Angled",
-      "weight": "0.5 kg"
-    },
-    {
-      "name": "Wood Wall Fortification",
-      "ingredients": {
-        "Wood": 50,
-        "Iron Nail": 18,
-        "Rope": 12
-      },
-      "crafted_at": "Crafting Bench",
-      "category": "building",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Wood_Wall_Fortification",
-      "weight": "2.0 kg",
-      "crafting_stations": [
-        "Crafting Bench"
-      ]
-    },
-    {
-      "name": "Wood Window",
-      "ingredients": {
-        "Fiber": 8,
-        "Wood": 10
-      },
       "crafted_at": "Unknown",
       "category": "building",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Wood_Window",
-      "weight": "1.0 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Wall",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wooden Shovel",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "building",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wooden_Shovel",
+      "weight": "5 kg",
+      "crafting_stations": []
     }
   ]
 }

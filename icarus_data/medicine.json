@@ -1,308 +1,782 @@
 {
   "category": "Medicine",
-  "count": 32,
+  "count": 77,
   "items": [
+    {
+      "name": "Aloe Vera",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aloe_Vera",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Anti-Parasitic Paste",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Parasitic_Paste",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Anti-Parasitic Pill",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Parasitic_Pill",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Anti-Parasitic Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Parasitic_Tonic",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
     {
       "name": "Anti-Parasitic Vaccine I",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Vaccine_I"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Parasitic_Vaccine_I",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Anti-Parasitic Vaccine II",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Vaccine_II"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Parasitic_Vaccine_II",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Anti-Parasitic Vaccine III",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Parasitic_Vaccine_III",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Anti-Poison Paste",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "medicine",
       "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Vaccine_III"
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Poison_Paste",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Anti-Poison Pill",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Poison_Pill",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Anti-Poison Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Poison_Tonic",
+      "weight": "0 g",
+      "crafting_stations": []
     },
     {
       "name": "Anti-Poison Vaccine I",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Anti-Poison_Vaccine_I"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Poison_Vaccine_I",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Anti-Poison Vaccine II",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Anti-Poison_Vaccine_II"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Poison_Vaccine_II",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Anti-Poison Vaccine III",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Anti-Poison_Vaccine_III"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Poison_Vaccine_III",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Anti-materiel Rifle",
-      "ingredients": {
-        "Legendary Licence": 1
-      },
-      "crafted_at": "Bio-lab",
+      "name": "Antibiotic Paste",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Anti-materiel_Rifle",
-      "weight": "10.0 Kg",
-      "crafting_stations": [
-        "Bio-lab"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Antibiotic_Paste",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Antibiotic Pill",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Antibiotic_Pill",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Antibiotic Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Antibiotic_Tonic",
+      "weight": "0 g",
+      "crafting_stations": []
     },
     {
       "name": "Bacterial Vaccine I",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Bacterial_Vaccine_I"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Bacterial_Vaccine_I",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Bacterial Vaccine II",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Bacterial_Vaccine_II"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Bacterial_Vaccine_II",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Bacterial Vaccine III",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Bacterial_Vaccine_III"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Bacterial_Vaccine_III",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Basic Bandage",
-      "ingredients": {
-        "Fiber": 40,
-        "Wool": 40
-      },
-      "crafted_at": "Character Crafting",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Basic_Bandage",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Basic_Bandage",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Blood Thinning Paste",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 9,
+      "url": "https://icarus.fandom.com/en/wiki/Blood_Thinning_Paste",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Blood Thinning Pill",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Blood_Thinning_Pill",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Blood Thinning Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Blood_Thinning_Tonic",
+      "weight": "0 g",
+      "crafting_stations": []
     },
     {
       "name": "Blood Thinning Vaccine I",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Vaccine_I"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Blood_Thinning_Vaccine_I",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Blood Thinning Vaccine II",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Vaccine_II"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Blood_Thinning_Vaccine_II",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Blood Thinning Vaccine III",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Vaccine_III"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Blood_Thinning_Vaccine_III",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Cave Survival Inhaler",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Cave_Survival_Inhaler"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cave_Survival_Inhaler",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Caveworm",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Caveworm",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.2.52.111515 - Week 77",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.52.111515_-_Week_77",
+      "weight": ".g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.14.118795 - Week 111",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.14.118795_-_Week_111",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.22.127885 - Week 147",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.22.127885_-_Week_147",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.27.129232 - Week 152",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.27.129232_-_Week_152",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.62.139704 - Week 187",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.62.139704_-_Week_187",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Charcoal",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Charcoal",
+      "weight": "1Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chemistry Bench",
+      "ingredients": {},
+      "crafted_at": "with the following materials:",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Chemistry_Bench",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following materials:"
+      ]
     },
     {
       "name": "Cold Survival Inhaler",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Cold_Survival_Inhaler"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Survival_Inhaler",
+      "weight": "1 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Cooling Bandage",
-      "ingredients": {
-        "Fiber": 40,
-        "Oxite": 4,
-        "Charcoal": 10,
-        "Wool": 40
-      },
-      "crafted_at": "Character Crafting",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Cooling_Bandage",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cooling_Bandage",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Defensive Combat Inhaler",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Defensive_Combat_Inhaler"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Defensive_Combat_Inhaler",
+      "weight": "1 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Health Recovery Concoction",
       "ingredients": {},
-      "crafted_at": "Character Crafting",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Health_Recovery_Concoction",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Health_Recovery_Concoction",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Health Recovery Elixir",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Health_Recovery_Elixir",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Health Recovery Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Health_Recovery_Tonic",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Heat Bandage",
-      "ingredients": {
-        "Fiber": 40,
-        "Oxite": 4,
-        "Charcoal": 10,
-        "Wool": 40
-      },
-      "crafted_at": "Character Crafting",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Heat_Bandage",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Heat_Bandage",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Heat Survival Inhaler",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Heat_Survival_Inhaler"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Heat_Survival_Inhaler",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Herbalism Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Herbalism_Bench",
+      "weight": "0kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Kitchen Bench",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Kitchen_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Lava Survival Inhaler",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Lava_Survival_Inhaler"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Lava_Survival_Inhaler",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Lily",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Lily",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Medical Satchel",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Medical_Satchel",
+      "weight": "2 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Medicine Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Medicine_Bench",
+      "weight": "0kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Mortar and Pestle",
+      "ingredients": {},
+      "crafted_at": "Resources",
+      "category": "medicine",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Mortar_and_Pestle",
+      "weight": "0 Kg",
+      "crafting_stations": [
+        "Resources"
+      ]
     },
     {
       "name": "Noxious Logging Inhaler",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Noxious_Logging_Inhaler"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Noxious_Logging_Inhaler",
+      "weight": "1 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Noxious Mining Inhaler",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Noxious_Mining_Inhaler"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Noxious_Mining_Inhaler",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Oxite",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Oxite",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Oxygen Consumption Paste",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Oxygen_Consumption_Paste",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Poison Paste",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Poison_Paste",
+      "weight": "5 Kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Reed Flower",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Reed_Flower",
+      "weight": "0 g",
+      "crafting_stations": []
     },
     {
       "name": "Regenerative Combat Inhaler",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Regenerative_Combat_Inhaler"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Regenerative_Combat_Inhaler",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scorpion",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Shengong \"Yeying\" Bandage",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Yeying%22_Bandage"
-    },
-    {
-      "name": "Shengong 'Yeying' Bandage",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Yeying%27_Bandage"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Yeying\"_Bandage",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Splint",
-      "ingredients": {
-        "Wood": 2,
-        "Stick": 8,
-        "Rope": 6
-      },
-      "crafted_at": "Character Crafting",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Splint",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Splint",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stamina Enhancement Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stamina_Enhancement_Tonic",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Strength Enhancement Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Strength_Enhancement_Tonic",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Survival Kit",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Survival_Kit",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sustenance Enhancement Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sustenance_Enhancement_Tonic",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Suture Kit",
-      "ingredients": {
-        "Fiber": 10,
-        "Bone": 5,
-        "Leather": 2,
-        "Wool": 10
-      },
-      "crafted_at": "Character Crafting",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Suture_Kit",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Suture_Kit",
+      "weight": "2 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Vitamins",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Vitamins",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Volatile Substance",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Volatile_Substance",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Water Treatment Pill",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Water_Treatment_Pill",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wheat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wheat",
+      "weight": "5 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wool",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wool",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Xiatau",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Xiatau",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Xigo Puri-tab",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Xigo_Puri-tab"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Xigo_Puri-tab",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Xigo Quick-Fix Bundle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Xigo_Quick-Fix_Bundle",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Xigo Quick-Fix Kit",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Xigo_Quick-Fix_Kit"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Xigo_Quick-Fix_Kit",
+      "weight": "6 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Xigo SplintX",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "medicine",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Xigo_SplintX"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Xigo_SplintX",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Xigo SplintX Bundle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Xigo_SplintX_Bundle",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Yeast",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "medicine",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Yeast",
+      "weight": "0 g",
+      "crafting_stations": []
     }
   ]
 }

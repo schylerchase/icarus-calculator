@@ -1,267 +1,5099 @@
 {
   "category": "Materials",
-  "count": 22,
+  "count": 497,
   "items": [
+    {
+      "name": "12-Gauge Cold Steel Shell",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/12-Gauge_Cold_Steel_Shell",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "12-Gauge Miasmic Shell",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/12-Gauge_Miasmic_Shell",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "5.56mm Cold Steel Round",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/5.56mm_Cold_Steel_Round",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "5.56mm Miasmic Round",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 6,
+      "url": "https://icarus.fandom.com/en/wiki/5.56mm_Miasmic_Round",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "7.62mm Cold Steel Round",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/7.62mm_Cold_Steel_Round",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "7.62mm Miasmic Round",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/7.62mm_Miasmic_Round",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "7.62mm Round",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/7.62mm_Round",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "9mm Cold Steel Round",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/9mm_Cold_Steel_Round",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "9mm Miasmic Round",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 9,
+      "url": "https://icarus.fandom.com/en/wiki/9mm_Miasmic_Round",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "9mm Round",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/9mm_Round",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Advanced Alteration Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Alteration_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Advanced Storm Visor Attachment",
+      "ingredients": {
+        "Carbon Fiber": 1,
+        "Leather": 10,
+        "Storm Visor Attachment": 1
+      },
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Storm_Visor_Attachment",
+      "weight": "0 Kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Advanced Supplemental Filtration Attachment",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Supplemental_Filtration_Attachment",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Advanced Supplemental Respiration Attachment",
+      "ingredients": {
+        "Carbon Fiber": 1,
+        "Charcoal": 50,
+        "Supplemental Respiration Attachment": 1
+      },
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Supplemental_Respiration_Attachment",
+      "weight": "0 Kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Advanced Textiles Bench",
+      "ingredients": {},
+      "crafted_at": "Tech Tree",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Textiles_Bench",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "Tech Tree"
+      ]
+    },
+    {
+      "name": "Advanced Tool Attachment Pack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Tool_Attachment_Pack",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Alteration Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Alteration_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Beam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Beam",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Door",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Door",
+      "weight": "0KG",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Floor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Floor",
+      "weight": "2KG",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Floor Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Floor_Trapdoor",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Halfpieces",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Halfpieces",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Halfpitches",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Halfpitches",
+      "weight": "",
+      "crafting_stations": []
+    },
     {
       "name": "Aluminium Ingot",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "materials",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Aluminium_Ingot"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Ingot",
+      "weight": "2kg",
+      "crafting_stations": []
     },
     {
-      "name": "Animal Healthbar Module",
+      "name": "Aluminium Ladder",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "materials",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Animal_Healthbar_Module"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Ladder",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Railing",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Railing",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Ramp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Ramp",
+      "weight": "1KG",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Roof",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Roof",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Roof_Corner",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Stairs",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Stairs",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Trapdoor",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Wall",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Wall",
+      "weight": "8 KG",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Wall_Angled",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Window",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Window",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Animal Bait",
+      "ingredients": {
+        "Raw Meat": 1,
+        "Animal Fat": 2
+      },
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Animal_Bait",
+      "weight": "5 Kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
     },
     {
       "name": "Anti-Parasitic Paste",
       "ingredients": {},
-      "crafted_at": "Character Crafting",
+      "crafted_at": "Unknown",
       "category": "materials",
       "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Paste",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Parasitic_Paste",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Anti-Parasitic Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Parasitic_Tonic",
+      "weight": "0 g",
+      "crafting_stations": []
     },
     {
       "name": "Anti-Poison Paste",
       "ingredients": {},
-      "crafted_at": "Character Crafting",
+      "crafted_at": "Unknown",
       "category": "materials",
       "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Anti-Poison_Paste",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Poison_Paste",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Anti-Poison Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Anti-Poison_Tonic",
+      "weight": "0 g",
+      "crafting_stations": []
     },
     {
       "name": "Antibiotic Paste",
       "ingredients": {},
-      "crafted_at": "Character Crafting",
+      "crafted_at": "Unknown",
       "category": "materials",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Antibiotic_Paste",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Antibiotic_Paste",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Antibiotic Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Antibiotic_Tonic",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Anvil Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Anvil_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Basic Fishing Trap",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Basic_Fishing_Trap",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bedroll",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bedroll",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Beeswax",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Beeswax",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Beeswax Wood Floor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Beeswax_Wood_Floor",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Beeswax Wood Halfpieces",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Beeswax_Wood_Halfpieces",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Beeswax Wood Halfpitches",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Beeswax_Wood_Halfpitches",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Beeswax Wood Ramp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Beeswax_Wood_Ramp",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Beeswax Wood Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Beeswax_Wood_Roof_Corner",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Beeswax Wood Wall",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Beeswax_Wood_Wall",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Beeswax Wood Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Beeswax_Wood_Wall_Angled",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Berry Jam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Berry_Jam",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biofuel Bio-Cleaner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Biofuel_Bio-Cleaner",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biofuel Composter",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Biofuel_Composter",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biofuel Oxite Dissolver",
+      "ingredients": {
+        "Steel Ingot": 15,
+        "Glass": 4,
+        "Epoxy": 12,
+        "Electronics": 20,
+        "Copper Wire": 50
+      },
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Biofuel_Oxite_Dissolver",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biofuel Stove",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Biofuel_Stove",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Black Wolf Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Black_Wolf_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Blood Thinning Paste",
       "ingredients": {},
-      "crafted_at": "Character Crafting",
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 9,
+      "url": "https://icarus.fandom.com/en/wiki/Blood_Thinning_Paste",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Blood Thinning Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Blood_Thinning_Tonic",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bone_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bone_Javelin",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bread Dough",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Bread_Dough",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Broken Pottery",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Broken_Pottery",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist 10-Seater Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_10-Seater_Table",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist 2-Seater Couch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_2-Seater_Couch",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist 3-Seater Couch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_3-Seater_Couch",
+      "weight": "2 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist 6-Seater Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_6-Seater_Table",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Bed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Bed",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Bookshelf",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Bookshelf",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Candlestick",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Candlestick",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Coffee Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Coffee_Table",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Dining Chair",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Dining_Chair",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Display Cabinet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Display_Cabinet",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Dresser",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Dresser",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Lounge Chair",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Lounge_Chair",
+      "weight": "7 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Nightstand",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Nightstand",
+      "weight": "7 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Octagonal Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Octagonal_Table",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Sitting Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Sitting_Bench",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Square Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Square_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Stool",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Stool",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Wall Shelf",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Wall_Shelf",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Brutalist Wardrobe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Brutalist_Wardrobe",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Building Upgrade Tool",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Building_Upgrade_Tool",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bullseye Target",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bullseye_Target",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Butter",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Butter",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "CONT4CT Device",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/CONT4CT_Device",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carbon Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Carbon_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carbon Fiber",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carbon_Fiber",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carbon Paste",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carbon_Paste",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carpentry Bench",
+      "ingredients": {},
+      "crafted_at": "[",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carpentry_Bench",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "["
+      ]
+    },
+    {
+      "name": "Carved Wood 2-Seater Couch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_2-Seater_Couch",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood 3-Seater Couch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_3-Seater_Couch",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Armchair",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Armchair",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Bed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Bed",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Bookshelf",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Bookshelf",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Cabinet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Cabinet",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Candlestick",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Candlestick",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Chair",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Chair",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Coffee Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Coffee_Table",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Desk Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Desk_Lamp",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Dresser",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Dresser",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Large Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Large_Table",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Narrow Wardrobe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Narrow_Wardrobe",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Nightstand",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Nightstand",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Round Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Round_Table",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Sitting Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Sitting_Bench",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Stool",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Stool",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Table",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Wall Shelf",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Wall_Shelf",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carved Wood Wardrobe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carved_Wood_Wardrobe",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Caveworm Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Caveworm_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cement Mixer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cement_Mixer",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.2.42.108807 - Week 67",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.42.108807_-_Week_67",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.2.48.110271 - Week 73",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.48.110271_-_Week_73",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.2.50.110601 - Week 75",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.50.110601_-_Week_75",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.2.52.111515 - Week 77",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.52.111515_-_Week_77",
+      "weight": ".g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.3.10.114532 - Week 88",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.3.10.114532_-_Week_88",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.3.5.113110 - Week 83",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.3.5.113110_-_Week_83",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.0.5.116433 - Week 95",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.0.5.116433_-_Week_95",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.14.118795 - Week 111",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.14.118795_-_Week_111",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.16.119362 - Week 113",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.16.119362_-_Week_113",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.20.120106 - Week 117",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.20.120106_-_Week_117",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.5.117759 - Week 102",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.5.117759_-_Week_102",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.18.126568 - Week 143",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.18.126568_-_Week_143",
+      "weight": ".g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.21.127494 - Week 146",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.21.127494_-_Week_146",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.22.127885 - Week 147",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.22.127885_-_Week_147",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.27.129232 - Week 152",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.27.129232_-_Week_152",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.31.130582 - Week 156",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.31.130582_-_Week_156",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.56.137509 - Week 181",
+      "ingredients": {},
+      "crafted_at": "Coming Soon: Great Hunts in the PC Gamer Show",
+      "category": "materials",
+      "tier": 8,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.56.137509_-_Week_181",
+      "weight": "",
+      "crafting_stations": [
+        "Coming Soon: Great Hunts in the PC Gamer Show"
+      ]
+    },
+    {
+      "name": "Changelog v2.2.60.138841 - Week 185",
+      "ingredients": {},
+      "crafted_at": "[",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.60.138841_-_Week_185",
+      "weight": "5kg",
+      "crafting_stations": [
+        "["
+      ]
+    },
+    {
+      "name": "Changelog v2.2.62.139704 - Week 187",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.62.139704_-_Week_187",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.3.1.140342 - Week 190",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.1.140342_-_Week_190",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.3.10.142613 - Week 199",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.10.142613_-_Week_199",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.3.7.141824 - Week 196",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.7.141824_-_Week_196",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.3.9.142406 - Week 198",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.9.142406_-_Week_198",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cheese Pizza Slice",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cheese_Pizza_Slice",
+      "weight": "5 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Chemistry Bench",
+      "ingredients": {},
+      "crafted_at": "with the following materials:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Chemistry_Bench",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following materials:"
+      ]
+    },
+    {
+      "name": "Classic Rustic Sign",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Classic_Rustic_Sign",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Clay",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Clay",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Clay Brick Beam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Clay_Brick_Beam",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Clay Brick Floor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Clay_Brick_Floor",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Clay Brick Halfpieces",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Clay_Brick_Halfpieces",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Clay Brick Halfpitches",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Clay_Brick_Halfpitches",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Clay Brick Ramp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Clay_Brick_Ramp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Clay Brick Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Clay_Brick_Roof_Corner",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Clay Brick Wall",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Clay_Brick_Wall",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Clay Brick Wall Angle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Clay_Brick_Wall_Angle",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Axe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "materials",
       "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Paste",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Axe",
+      "weight": "5Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Bolt",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Ingot",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Ingot",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Javelin",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Knife",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Pickaxe",
+      "ingredients": {
+        "Cold Steel Ingot": 5,
+        "Refined Wood": 10,
+        "Steel Screw": 10,
+        "Fur": 5
+      },
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Pickaxe",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Sickle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Sickle",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Sledgehammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Sledgehammer",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Spear",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Throwing Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Throwing_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Composite Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Composite Dropship Recall Beacon",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "materials",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Composite_Dropship_Recall_Beacon",
-      "weight": "0.5 kg"
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Dropship_Recall_Beacon",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Composite Javelin",
-      "ingredients": {
-        "Iron Ingot": 4,
-        "Aluminium Ingot": 4,
-        "Composites": 20
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "materials",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Composite_Javelin",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Javelin",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Composite Paste",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Paste",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Composite Spear",
-      "ingredients": {
-        "Iron Ingot": 4,
-        "Aluminium Ingot": 4,
-        "Composites": 24
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "materials",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Composite_Spear",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Composite Tactical Shield",
-      "ingredients": {
-        "Composites": 14,
-        "Platinum Weave": 4,
-        "Steel Screw": 20,
-        "Epoxy": 4,
-        "Titanium Plate": 2
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Tactical_Shield",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Composites",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "materials",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Composite_Tactical_Shield",
-      "weight": "1.5 kg",
+      "url": "https://icarus.fandom.com/en/wiki/Composites",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Beam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Beam",
+      "weight": "7 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Floor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Floor",
+      "weight": "7 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Floor Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Floor_Trapdoor",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Frame",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Frame",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Furnace",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Furnace",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Halfpieces",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Halfpieces",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Halfpitches",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Halfpitches",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Railing",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Railing",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Ramp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Ramp",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Roof",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Roof",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Roof_Corner",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Stairs",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Stairs",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Wall",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Wall",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Concrete Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Concrete_Wall_Angled",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cooking Station",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cooking_Station",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Copper Cluster Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Copper_Cluster_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Copper Geode Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Copper_Geode_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Copper Ingot",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Copper_Ingot",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Copper Monolith Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Copper_Monolith_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Copper Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Copper_Ore",
+      "weight": "4 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crafting Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Crafting_Bench",
+      "weight": "0kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cream",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cream",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crispy Bacon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Crispy_Bacon",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cured Leather",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Cured_Leather",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Decoration Bench",
+      "ingredients": {},
+      "crafted_at": "Tech Tree",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Decoration_Bench",
+      "weight": "0 kg",
       "crafting_stations": [
-        "Foundry"
+        "Tech Tree"
+      ]
+    },
+    {
+      "name": "Dirt Corner",
+      "ingredients": {
+        "Dirt": 20
+      },
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Dirt_Corner",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dirt Foundation",
+      "ingredients": {
+        "Dirt": 20
+      },
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Dirt_Foundation",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dirt Ramp",
+      "ingredients": {
+        "Dirt": 10
+      },
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Dirt_Ramp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Composter",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Composter",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Furnace",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Furnace",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Electric Stove",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Stove",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Textiles Bench",
+      "ingredients": {},
+      "crafted_at": "Tier 4",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Textiles_Bench",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "Tier 4"
+      ]
+    },
+    {
+      "name": "Electricity Tool",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electricity_Tool",
+      "weight": "1 kg",
+      "crafting_stations": [
+        "with the following resources:"
       ]
     },
     {
       "name": "Energy Bar",
       "ingredients": {},
-      "crafted_at": "Character Crafting",
+      "crafted_at": "Unknown",
       "category": "materials",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Energy_Bar",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Energy_Bar",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Enzyme Geysers",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Enzyme_Geysers",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Epoxy",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Epoxy",
+      "weight": "1 Kg",
       "crafting_stations": [
-        "Character Crafting"
+        "with the following resources:"
       ]
     },
     {
-      "name": "Honeycomb Bar",
-      "ingredients": {
-        "Any Seed": 10,
-        "Honeycomb": 2
-      },
-      "crafted_at": "Character Crafting",
+      "name": "Excortis the Wooly",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "materials",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Honeycomb_Bar",
-      "crafting_stations": [
-        "Character Crafting"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Excortis_the_Wooly",
+      "weight": "",
+      "crafting_stations": []
     },
     {
-      "name": "Infected Bark",
+      "name": "Exotics",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "materials",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Infected_Bark"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Exotics",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Platinum Ingot",
+      "name": "Fire Arrow",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "materials",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Platinum_Ingot"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fire_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
-       {
-      "name": "Platinum Sheath",
-      "ingredients": {
-        "Platinum Ingot": 1
-      },
-      "crafted_at": "Character",
+    {
+      "name": "Fire Extinguisher",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "materials",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Platinum_Sheath"
+      "url": "https://icarus.fandom.com/en/wiki/Fire_Extinguisher",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Poison Paste",
-      "ingredients": {
-        "Spoiled Meat": 2,
-        "Sulfur": 1
-      },
-      "crafted_at": "Mortar and Pestle",
+      "name": "Fire Whacker",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "materials",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Poison_Paste",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fire_Whacker",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Firepit",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Firepit",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fireplace",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fireplace",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fish Trophy Mount",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fish_Trophy_Mount",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Flamethrower",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Flamethrower",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Flare Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Flare_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Flint Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Flint_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Flour",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Flour",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Food Trough",
+      "ingredients": {
+        "Wood": 60,
+        "Stick": 8,
+        "Iron Nail": 16
+      },
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Food_Trough",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fried Chicken",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fried_Chicken",
+      "weight": "5 kg",
       "crafting_stations": [
-        "Mortar and Pestle"
+        "with the following resources:"
       ]
     },
     {
-      "name": "Rhubarb",
+      "name": "Full Sandworm Brazier",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "materials",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Rhubarb"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Full_Sandworm_Brazier",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Rhubarb Farming Packet",
+      "name": "Full Sandworm Trophy",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "materials",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Rhubarb_Farming_Packet"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Full_Sandworm_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Sauteed Rhubarb",
-      "ingredients": {
-        "Rhubarb": 1
-      },
-      "crafted_at": "Campfire",
+      "name": "Fur",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "materials",
       "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Sauteed_Rhubarb",
+      "url": "https://icarus.fandom.com/en/wiki/Fur",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glass Beam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Glass_Beam",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glass Door",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Glass_Door",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glass Roof",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Glass_Roof",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glass Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Glass_Roof_Corner",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glass Wall",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Glass_Wall",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glass Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Glass_Wall_Angled",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glass Window",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Glass_Window",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Gold Cluster Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Gold_Cluster_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Gold Geode Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Gold_Geode_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Gold Monolith Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Gold_Monolith_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Guano",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Guano",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Gunpowder",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Gunpowder",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Health Recovery Concoction",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Health_Recovery_Concoction",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Health Recovery Elixir",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Health_Recovery_Elixir",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Health Recovery Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Health_Recovery_Tonic",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Heavy Glass Window",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Heavy_Glass_Window",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Heavy Obsidian Arm Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Heavy_Obsidian_Arm_Armor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Heavy Obsidian Chest Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Heavy_Obsidian_Chest_Armor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Heavy Obsidian Feet Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Heavy_Obsidian_Feet_Armor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Heavy Obsidian Head Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Heavy_Obsidian_Head_Armor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Heavy Obsidian Leg Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Heavy_Obsidian_Leg_Armor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Heavy Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Heavy_Trapdoor",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Herbalism Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Herbalism_Bench",
+      "weight": "0kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Hyena Bait",
+      "ingredients": {
+        "Raw Fatty Tbone": 1,
+        "Animal Fat": 2,
+        "Spoiled Meat": 5
+      },
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Hyena_Bait",
+      "weight": "2 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "IC-001 Prototype Power Source",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/IC-001_Prototype_Power_Source",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inaris \"Night\" Pickaxe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Night\"_Pickaxe",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inaris \"Viridian\" Pickaxe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Viridian\"_Pickaxe",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Industrial Bed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Industrial_Bed",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inert Volatile Substance",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Inert_Volatile_Substance",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Interior Wood Beam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Interior_Wood_Beam",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Interior Wood Door",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Interior_Wood_Door",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Interior Wood Floor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Interior_Wood_Floor",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Interior Wood Halfpieces",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Interior_Wood_Halfpieces",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Interior Wood Halfpitches",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Interior_Wood_Halfpitches",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Interior Wood Ladder",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Interior_Wood_Ladder",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Interior Wood Railing",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Interior_Wood_Railing",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Interior Wood Railing Gate",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Interior_Wood_Railing_Gate",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Interior Wood Ramp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Interior_Wood_Ramp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Interior Wood Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Interior_Wood_Trapdoor",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Interior Wood Wall",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Interior_Wood_Wall",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Interior Wood Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Interior_Wood_Wall_Angled",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Axe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Axe",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Hammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Hammer",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Ingot",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Ingot",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Jarred Honey",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Jarred_Honey",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Landshark",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Landshark",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Martinez Hammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Hammer",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Martinez Piercing Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Piercing_Bolt",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Leather Backpack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Leather_Backpack",
+      "weight": "5Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "MXC Hammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/MXC_Hammer",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "MXC Nerve Arrow Bundle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/MXC_Nerve_Arrow_Bundle",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Machining Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Machining_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Makeshift Landmine",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Makeshift_Landmine",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Mammoth Tusk",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Mammoth_Tusk",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Marble Kitchen Storage",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Marble_Kitchen_Storage",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Masonry Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Masonry_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Material Processor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Material_Processor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Medium Interior Wood Crate",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Medium_Interior_Wood_Crate",
+      "weight": "0 kg",
       "crafting_stations": [
-        "Campfire"
+        "with the following resources:"
       ]
+    },
+    {
+      "name": "Medium Wood Crate",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Medium_Wood_Crate",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Miasmic Axe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Axe",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Miasmic Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Knife",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Miasmic Pickaxe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Pickaxe",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Miasmic Sickle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Sickle",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Miasmic Sledgehammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Sledgehammer",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Mortar and Pestle",
+      "ingredients": {},
+      "crafted_at": "Resources",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Mortar_and_Pestle",
+      "weight": "0 Kg",
+      "crafting_stations": [
+        "Resources"
+      ]
+    },
+    {
+      "name": "Natural Rustic Sign",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Natural_Rustic_Sign",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Noxious Crust",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Noxious_Crust",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Nutrition Attachment",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Nutrition_Attachment",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Obsidian Arm Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Arm_Armor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Arrow",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian Chest Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Chest_Armor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian Feet Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Feet_Armor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian Head Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Head_Armor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian Leg Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Leg_Armor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian Sledgehammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Sledgehammer",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Orbital Exchange Interface",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Orbital_Exchange_Interface",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Organic Residue Cleanser",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Organic_Residue_Cleanser",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Oxite Cluster Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Oxite_Cluster_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Oxite Dissolver",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Oxite_Dissolver",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Oxite Geode Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Oxite_Geode_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Oxite Monolith Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Oxite_Monolith_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Oxygen Consumption Paste",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Oxygen_Consumption_Paste",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Paints",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Paints",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Pickled Eggs",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Pickled_Eggs",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Pickled Freshwater Fillet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Pickled_Freshwater_Fillet",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Pickled Tomato",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Pickled_Tomato",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Axe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Axe",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Hammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Hammer",
+      "weight": "0kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Lightning Rod",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Lightning_Rod",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Shield",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Sickle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Sickle",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Weave",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Weave",
+      "weight": "1 Kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Plumbed Sink",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Plumbed_Sink",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Poison Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Poison_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Poisoned Animal Bait",
+      "ingredients": {
+        "Animal Bait": 1,
+        "Poison Paste": 2
+      },
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Poisoned_Animal_Bait",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Potbelly Stove",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Potbelly_Stove",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Prototype Thumper",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Prototype_Thumper",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Copper Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Copper_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Gold Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Gold_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Oxite Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Oxite_Lamp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Recovery Attachment",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Recovery_Attachment",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Reinforced Door",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Door",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Reinforced Glass Beam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Glass_Beam",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Reinforced Glass Floor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Glass_Floor",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Reinforced Glass Halfpieces",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Glass_Halfpieces",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Reinforced Glass Halfpitches",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Glass_Halfpitches",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Reinforced Glass Roof",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Glass_Roof",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Reinforced Glass Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Glass_Roof_Corner",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Reinforced Glass Wall",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Glass_Wall",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Reinforced Glass Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Glass_Wall_Angled",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Reinforced Ladder",
+      "ingredients": {},
+      "crafted_at": ", not the Masonry Bench, with the following resources:",
+      "category": "materials",
+      "tier": 10,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Ladder",
+      "weight": "",
+      "crafting_stations": [
+        "not the Masonry Bench",
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Reinforced Railing",
+      "ingredients": {},
+      "crafted_at": ", not the Masonry Bench, with the following resources:",
+      "category": "materials",
+      "tier": 10,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Railing",
+      "weight": "",
+      "crafting_stations": [
+        "not the Masonry Bench",
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Reinforced Trapdoor",
+      "ingredients": {},
+      "crafted_at": ", not the Masonry Bench, with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Trapdoor",
+      "weight": "",
+      "crafting_stations": [
+        "not the Masonry Bench",
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Reinforced Window",
+      "ingredients": {},
+      "crafted_at": ", not the Masonry Bench, with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Reinforced_Window",
+      "weight": "",
+      "crafting_stations": [
+        "not the Masonry Bench",
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Repair Bench",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Repair_Bench",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Rope",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Rope",
+      "weight": "1 Kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Round Rustic Sign",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Round_Rustic_Sign",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic 3-Seater Couch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_3-Seater_Couch",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Armchair",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Armchair",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Bed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Bed",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Bookshelf",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Bookshelf",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Cabinet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Cabinet",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Candles",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Candles",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Coffee Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Coffee_Table",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Dining Chair",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Dining_Chair",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Dresser",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Dresser",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Icarus Statue",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Icarus_Statue",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Large Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Large_Table",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Narrow Wardrobe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Narrow_Wardrobe",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Nightstand",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Nightstand",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Pot",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Pot",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Round Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Round_Table",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Sitting Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Sitting_Bench",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Stool",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Stool",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Table",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Wardrobe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Wardrobe",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "ST-700 Chest Armor",
+      "ingredients": {},
+      "crafted_at": "Prerequisite",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/ST-700_Chest_Armor",
+      "weight": "5 kg",
+      "crafting_stations": [
+        "Prerequisite"
+      ]
+    },
+    {
+      "name": "ST-700 Legs Armor",
+      "ingredients": {},
+      "crafted_at": "Prerequisite",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/ST-700_Legs_Armor",
+      "weight": "5 kg",
+      "crafting_stations": [
+        "Prerequisite"
+      ]
+    },
+    {
+      "name": "Sandbox - Ceiraf - Category Table",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Sandbox_-_Ceiraf_-_Category_Table",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sandworm",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sandworm",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sandworm Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sandworm_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sandworm Trophy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sandworm_Trophy",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Beam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Beam",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Brick Beam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Brick_Beam",
+      "weight": "3 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Brick Floor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Brick_Floor",
+      "weight": "3 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Brick Halfpieces",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Brick_Halfpieces",
+      "weight": "3 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Brick Halfpitches",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Brick_Halfpitches",
+      "weight": "3 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Brick Ramp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Brick_Ramp",
+      "weight": "3 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Brick Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Brick_Roof_Corner",
+      "weight": "3 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Brick Wall",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Brick_Wall",
+      "weight": "3 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Brick Wall Angle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Brick_Wall_Angle",
+      "weight": "3 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Floor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Floor",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Frame",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Frame",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Halfpieces",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Halfpieces",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Halfpitches",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Halfpitches",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Ramp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Ramp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Roof_Corner",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Wall",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Wall",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria_Wall_Angled",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scorpion Arms Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion_Arms_Armor",
+      "weight": "9 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scorpion Chest Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion_Chest_Armor",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scorpion Feet Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion_Feet_Armor",
+      "weight": "9 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scorpion Head Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion_Head_Armor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scorpion Legs Armor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion_Legs_Armor",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Seed Harvesting Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Seed_Harvesting_Attachment",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shaped Obsidian",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shaped_Obsidian",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shengong \"Akira\" Hammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Akira\"_Hammer",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shengong 'Tetsuo' Hammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_'Tetsuo'_Hammer",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Silica Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Silica_Ore",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Simple Creature Deterrent",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Simple_Creature_Deterrent",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Skinning Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Skinning_Bench",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Small Composite Sign",
-      "ingredients": {
-        "Composites": 2,
-        "Epoxy": 2,
-        "Aluminium Ingot": 4
-      },
-      "crafted_at": "Fabricator",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "materials",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Small_Composite_Sign",
-      "weight": "1.0 Kg",
-      "crafting_stations": [
-        "Fabricator"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Small_Composite_Sign",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Steel Bloom",
-      "ingredients": {
-        "Iron Ore": 6,
-        "Coal Ore": 1,
-        "Iron Ingot": 3,
-        "Charcoal": 20
-      },
-      "crafted_at": "Mortar and Pestle",
-      "category": "materials",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Steel_Bloom",
-      "crafting_stations": [
-        "Mortar and Pestle"
-      ]
-    },
-    {
-      "name": "Steel Ingot",
+      "name": "Small Wood Sign",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Small_Wood_Sign",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Smashed Avocado Toast",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Smashed_Avocado_Toast",
+      "weight": "",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Snare Trap",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Snare_Trap",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stamina Enhancement Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stamina_Enhancement_Tonic",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Axe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Axe",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Hammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Hammer",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Rebar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Rebar",
+      "weight": "2kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Axe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "materials",
       "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Steel_Ingot"
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Axe",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Beam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Beam",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Brick",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Brick",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Brick Beam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Brick_Beam",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Brick Floor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Brick_Floor",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Brick Halfpieces",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Brick_Halfpieces",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Brick Halfpitches",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Brick_Halfpitches",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Brick Ramp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Brick_Ramp",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Brick Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Brick_Roof_Corner",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Brick Wall",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Brick_Wall",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Brick Wall Angle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Brick_Wall_Angle",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Floor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Floor",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Floor Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Floor_Trapdoor",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Frame",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Frame",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Furnace",
+      "ingredients": {},
+      "crafted_at": "Materials for manufacturing:",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Furnace",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "Materials for manufacturing:"
+      ]
+    },
+    {
+      "name": "Stone Halfpieces",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Halfpieces",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Halfpitches",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Halfpitches",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Pickaxe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Pickaxe",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Pile",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Pile",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Ramp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Ramp",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Roof",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Roof",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Roof_Corner",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Stairs",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Stairs",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Wall",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Wall",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Wall_Angled",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Strawberries & Cream",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Strawberries_&_Cream",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Strawberry Jam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Strawberry_Jam",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Strength Enhancement Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Strength_Enhancement_Tonic",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sugar Cubes",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sugar_Cubes",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Survival Kit",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Survival_Kit",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sustenance Enhancement Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sustenance_Enhancement_Tonic",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Talents",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Talents",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Textiles Bench",
+      "ingredients": {},
+      "crafted_at": "Tech Tree",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Textiles_Bench",
+      "weight": "0kg",
+      "crafting_stations": [
+        "Tech Tree"
+      ]
+    },
+    {
+      "name": "Thatch Beam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Beam",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thatch Door",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Door",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thatch Floor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Floor",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thatch Halfpieces",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Halfpieces",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thatch Halfpitches",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Halfpitches",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thatch Ladder",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Ladder",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thatch Railing",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Railing",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thatch Roof",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Roof",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thatch Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Roof_Corner",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thatch Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Trapdoor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thatch Wall",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Wall",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thatch Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Wall_Angled",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thatch Window",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Thatch_Window",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Axe",
+      "ingredients": {},
+      "crafted_at": "Tier 4",
+      "category": "materials",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Axe",
+      "weight": "5 kg",
+      "crafting_stations": [
+        "Tier 4"
+      ]
+    },
+    {
+      "name": "Titanium Hammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Hammer",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Titanium Ingot",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Ingot",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Ore",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Tracking Attachment",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Tracking_Attachment",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Tree Sap",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Tree_Sap",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Trophy Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Trophy_Bench",
+      "weight": "0kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Aluminium Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Aluminium_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Comet Coal Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Comet_Coal_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Copper Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Copper_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Gold Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Gold_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Iron Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Iron_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Oxite Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Oxite_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Platinum Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Platinum_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Silica Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Silica_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Stone Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Stone_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Sulfur Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Sulfur_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Titanium Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Titanium_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Wood Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Wood_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Vegetable Oil",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Vegetable_Oil",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Volatile Raw Exotics",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Volatile_Raw_Exotics",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Volatile Substance",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Volatile_Substance",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Water Pipe Tool",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Water_Pipe_Tool",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Water Trough",
+      "ingredients": {
+        "Wood": 60,
+        "Stick": 8,
+        "Iron Nail": 16
+      },
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Water_Trough",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Waterskin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Waterskin",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wild Boar Bait",
+      "ingredients": {
+        "Raw Bacon": 1,
+        "Animal Fat": 2,
+        "Spoiled Plants": 5
+      },
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wild_Boar_Bait",
+      "weight": "2 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Windmill",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Windmill",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wolf Bait",
+      "ingredients": {
+        "Raw Stringy Meat": 1,
+        "Animal Fat": 2,
+        "Spoiled Meat": 5
+      },
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wolf_Bait",
+      "weight": "2 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Beam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Beam",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Burner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Burner",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Composter",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Composter",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Door",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Door",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Floor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Floor",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Halfpieces",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Halfpieces",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Halfpitches",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Halfpitches",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Hammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Hammer",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Ladder",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Ladder",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Pile",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Pile",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Railing",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Railing",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Railing Gate",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "materials",
       "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Titanium_Ingot"
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Railing_Gate",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Roof",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Roof",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Roof_Corner",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Trapdoor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Wall",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Wall",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Wall_Angled",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Window",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Window",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wooden Bed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wooden_Bed",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wooden Chair",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Wooden_Chair",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Woolly Mammoth",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "materials",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Woolly_Mammoth",
+      "weight": "",
+      "crafting_stations": []
     }
   ]
 }

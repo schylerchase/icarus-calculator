@@ -1,29 +1,2868 @@
 {
   "category": "Consumables",
-  "count": 2,
+  "count": 281,
   "items": [
     {
-      "name": "Waterskin",
+      "name": "Achievements",
       "ingredients": {},
-      "crafted_at": "Crafting Bench",
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Achievements",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aloe Vera",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aloe_Vera",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Antibiotic Paste",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Antibiotic_Paste",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Antibiotic Pill",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Antibiotic_Pill",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Antibiotic Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Antibiotic_Tonic",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Arctic Animal Feed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Arctic_Animal_Feed",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Arctic Scorpion",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Arctic_Scorpion",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Arctic Survival Saddle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Arctic_Survival_Saddle",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Avocado",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Avocado",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bacon Butty",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Bacon_Butty",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Banana",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Banana",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Barbecue Carrot",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Barbecue_Carrot",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Basic Dried Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Basic_Dried_Meat",
+      "weight": "5  Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Beer",
+      "ingredients": {},
+      "crafted_at": ".",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Beer",
+      "weight": "5 kg",
+      "crafting_stations": [
+        "."
+      ]
+    },
+    {
+      "name": "Berry & Seed Bar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Berry_&_Seed_Bar",
+      "weight": "2kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Berry Jam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Berry_Jam",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Berry Smoked Saltwater Fillet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Berry_Smoked_Saltwater_Fillet",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Big Breakfast",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Big_Breakfast",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biofuel Fireplace",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Biofuel_Fireplace",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biofuel Stove",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Biofuel_Stove",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bread Dough",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "consumables",
       "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Waterskin",
+      "url": "https://icarus.fandom.com/en/wiki/Bread_Dough",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Broiled Kumara",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Broiled_Kumara",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Campfire",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Campfire",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Caramel Berry Tart",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Caramel_Berry_Tart",
+      "weight": "2 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Caramel Pastry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Caramel_Pastry",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carrot",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carrot",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carrot Cake",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carrot_Cake",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carrot Cake Piece",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carrot_Cake_Piece",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.2.48.110271 - Week 73",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.48.110271_-_Week_73",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.2.52.111515 - Week 77",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.52.111515_-_Week_77",
+      "weight": ".g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.3.10.114532 - Week 88",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.3.10.114532_-_Week_88",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.0.5.116433 - Week 95",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.0.5.116433_-_Week_95",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.16.119362 - Week 113",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.16.119362_-_Week_113",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.18.119581 - Week 115",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.18.119581_-_Week_115",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.20.120106 - Week 117",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.20.120106_-_Week_117",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.18.126568 - Week 143",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.18.126568_-_Week_143",
+      "weight": ".g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.22.127885 - Week 147",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.22.127885_-_Week_147",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.62.139704 - Week 187",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.62.139704_-_Week_187",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.3.1.140342 - Week 190",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.1.140342_-_Week_190",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.3.9.142406 - Week 198",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.9.142406_-_Week_198",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chargrilled Chicken",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Chargrilled_Chicken",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Charred Corn",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Charred_Corn",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cheese",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cheese",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cheese Pizza Slice",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cheese_Pizza_Slice",
+      "weight": "5 kg",
       "crafting_stations": [
-        "Crafting Bench"
+        "with the following resources:"
       ]
+    },
+    {
+      "name": "Cheese Roll",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cheese_Roll",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chewy Coconut Cookie",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Chewy_Coconut_Cookie",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chicken",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Chicken",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Choc-Chip Cookie",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Choc-Chip_Cookie",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chocolate Cake",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Chocolate_Cake",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chocolate Cake Piece",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Chocolate_Cake_Piece",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cocoa Seed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cocoa_Seed",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cocoa Smoked Soft Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cocoa_Smoked_Soft_Meat",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Coconut Cake",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Coconut_Cake",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Coconut Cake Piece",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Coconut_Cake_Piece",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Coffee Bean",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Coffee_Bean",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cooked Bacon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cooked_Bacon",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cooked Fatty T-Bone",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cooked_Fatty_T-Bone",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cooked Gamey Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cooked_Gamey_Meat",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cooked Giant Steak",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cooked_Giant_Steak",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cooked Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cooked_Meat",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cooked Soft Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Cooked_Soft_Meat",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cooked Stringy Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Cooked_Stringy_Meat",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cooked White Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Cooked_White_Meat",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cooking Station",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cooking_Station",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Corn",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Corn",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Creamed Corn",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 9,
+      "url": "https://icarus.fandom.com/en/wiki/Creamed_Corn",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crispy Bacon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Crispy_Bacon",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crispy Potato",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Crispy_Potato",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crunchy Soy Bean",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Crunchy_Soy_Bean",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Culinex Backpack",
+      "ingredients": {},
+      "crafted_at": "Repaired with",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Culinex_Backpack",
+      "weight": "5 Kg",
+      "crafting_stations": [
+        "Repaired with"
+      ]
+    },
+    {
+      "name": "Deep Freeze",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "consumables",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Deep_Freeze",
+      "weight": "0 Kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Desert Animal Feed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Desert_Animal_Feed",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dirt Mounds",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Dirt_Mounds",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "DoseUp Module",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/DoseUp_Module",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dried Avocado",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dried_Avocado",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dried Fatty T-Bone",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dried_Fatty_T-Bone",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dried Freshwater Fillet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dried_Freshwater_Fillet",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dried Gamey Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dried_Gamey_Meat",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dried Giant Steak",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dried_Giant_Steak",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dried Kiwifruit Chips",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dried_Kiwifruit_Chips",
+      "weight": "2 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dried Rhubarb",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dried_Rhubarb",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dried Saltwater Fillet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Dried_Saltwater_Fillet",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dried Soft Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dried_Soft_Meat",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dried Stringy Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dried_Stringy_Meat",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dried Tomato",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Dried_Tomato",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dried White Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dried_White_Meat",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Drying Rack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Drying_Rack",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Egg",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Egg",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Fireplace",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Fireplace",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Stove",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Stove",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electronic Food Trough",
+      "ingredients": {
+        "Titanium Plate": 2,
+        "Electronics": 10,
+        "Carbon Fiber": 15,
+        "Platinum Weave": 30
+      },
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electronic_Food_Trough",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Endurance Animal Feed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Endurance_Animal_Feed",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Endurogel",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Endurogel",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Energy Bar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Energy_Bar",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Exotics",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Exotics",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Filtered Water Trough",
+      "ingredients": {
+        "Concrete Mix": 20,
+        "Titanium Plate": 2,
+        "Electronics": 10,
+        "Carbon Fiber": 5
+      },
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Filtered_Water_Trough",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Firepit",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Firepit",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fireplace",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fireplace",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fish Chunk Stew",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fish_Chunk_Stew",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fish Chunks",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fish_Chunks",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fish Pie",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fish_Pie",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fishing",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fishing",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Flatbread Dough",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Flatbread_Dough",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Food Trough",
+      "ingredients": {
+        "Wood": 60,
+        "Stick": 8,
+        "Iron Nail": 16
+      },
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Food_Trough",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Freshwater Fillet Curry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Freshwater_Fillet_Curry",
+      "weight": "3 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Freshwater Fish Fillet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Freshwater_Fish_Fillet",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fried Chicken",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fried_Chicken",
+      "weight": "5 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Fried Chunky Vegetables",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fried_Chunky_Vegetables",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fried Eggs",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fried_Eggs",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fried Fish Chunks",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fried_Fish_Chunks",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fried Tomato",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Fried_Tomato",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fruit Muffin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fruit_Muffin",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fruit Pie",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fruit_Pie",
+      "weight": "1 KG",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fruit Salad",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fruit_Salad",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fruit Smoothie",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fruit_Smoothie",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fruit Snack Pack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fruit_Snack_Pack",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glass Food Trough",
+      "ingredients": {
+        "Steel Ingot": 25,
+        "Glass": 30,
+        "Steel Screw": 15
+      },
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Glass_Food_Trough",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glass Milk Bottle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Glass_Milk_Bottle",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glassworking Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Glassworking_Bench",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Go",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Go",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Gorse Flower",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Gorse_Flower",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Gorse Smoked Gamey Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Gorse_Smoked_Gamey_Meat",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Gorse Tea",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Gorse_Tea",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Grilled Freshwater Fillet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Grilled_Freshwater_Fillet",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Grilled Pumpkin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Grilled_Pumpkin",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Grilled Saltwater Fillet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Grilled_Saltwater_Fillet",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Grizzly Bear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Grizzly_Bear",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Hearty Salad",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Hearty_Salad",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Herbalism Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Herbalism_Bench",
+      "weight": "0kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Honey",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Honey",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Honey Glazed Pastry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Honey_Glazed_Pastry",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Honey Mead",
+      "ingredients": {},
+      "crafted_at": ".",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Honey_Mead",
+      "weight": "5 Kg",
+      "crafting_stations": [
+        "."
+      ]
+    },
+    {
+      "name": "Honey Smoked Bacon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Honey_Smoked_Bacon",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Honey Tea",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Honey_Tea",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Honeycomb Bar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Honeycomb_Bar",
+      "weight": "2kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Hot Cocoa",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Hot_Cocoa",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Hot Coffee",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Hot_Coffee",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Hot Coffee with Cream",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Hot_Coffee_with_Cream",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Hot Tea",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Hot_Tea",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "IC-001 Prototype Power Source",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/IC-001_Prototype_Power_Source",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ice",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Ice",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ice Box",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Ice_Box",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Jarred Honey",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Jarred_Honey",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Kea",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Kea",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Kitchen Bench",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Kitchen_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Kiwifruit Jam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Kiwifruit_Jam",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Kiwifruit Sorbet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Kiwifruit_Sorbet",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Kumara",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Kumara",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Lantern",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Lantern",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Large Food Trough",
+      "ingredients": {
+        "Wood": 80,
+        "Tree Sap": 12,
+        "Iron Nail": 32
+      },
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Large_Food_Trough",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Martinez Heated Canteen",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Heated_Canteen",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Marble Kitchen Bench",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Marble_Kitchen_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Mature Coconut",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Mature_Coconut",
+      "weight": "8 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Meat Pie",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Meat_Pie",
+      "weight": "1 KG",
+      "crafting_stations": []
+    },
+    {
+      "name": "Melon Smoked Giant Steak",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Melon_Smoked_Giant_Steak",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Metal Food Trough",
+      "ingredients": {
+        "Aluminium Ingot": 30,
+        "Iron Ingot": 15,
+        "Steel Screw": 15
+      },
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Metal_Food_Trough",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "MicroMeal",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/MicroMeal",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Mixed Berries",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Mixed_Berries",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Mountaineering Animal Feed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Mountaineering_Animal_Feed",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Mushroom",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Mushroom",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Mushroom Omelette",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Mushroom_Omelette",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Mushroom Soup",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 9,
+      "url": "https://icarus.fandom.com/en/wiki/Mushroom_Soup",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Nutrition Attachment",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Nutrition_Attachment",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Omni Animal Feed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Omni_Animal_Feed",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Oxygel",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Oxygel",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Pastry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Pastry",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Pavlova",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Pavlova",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Pickled Eggs",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Pickled_Eggs",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Pickled Freshwater Fillet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Pickled_Freshwater_Fillet",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Pickled Tomato",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Pickled_Tomato",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Plain Jerky",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Plain_Jerky",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Weave",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Weave",
+      "weight": "1 Kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Plumbed Sink",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Plumbed_Sink",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Portable Icebox Backpack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Portable_Icebox_Backpack",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Potato",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Potato",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Potato Bread",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Potato_Bread",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Potato and Carrot Fries",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Potato_and_Carrot_Fries",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Potbelly Stove",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Potbelly_Stove",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Prototype Thumper",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Prototype_Thumper",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Pumpkin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Pumpkin",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rabbit",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Rabbit",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ranching Station",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Ranching_Station",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Bacon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Bacon",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Chicken",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Chicken",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Fatty T-Bone",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Fatty_T-Bone",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Gamey Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Gamey_Meat",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Giant Steak",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Giant_Steak",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Meat",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Soft Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Soft_Meat",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Stringy Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Stringy_Meat",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw White Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_White_Meat",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Refrigerator",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Refrigerator",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rhubarb",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Rhubarb",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rhubarb Stew",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Rhubarb_Stew",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ripe Coconut",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Ripe_Coconut",
+      "weight": "8 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Roast Chicken",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Roast_Chicken",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Roast Squash",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Roast_Squash",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Roast Vegetables",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Roast_Vegetables",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rustic Food Trough",
+      "ingredients": {
+        "Wood": 50,
+        "Tree Sap": 20,
+        "Stick": 30
+      },
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Rustic_Food_Trough",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Salt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Salt",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Salting Station",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Salting_Station",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Saltwater Fillet Sashimi",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Saltwater_Fillet_Sashimi",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Saltwater Fish Fillet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Saltwater_Fish_Fillet",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sauteed Rhubarb",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Sauteed_Rhubarb",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Savory Roll",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Savory_Roll",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scorpion",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scrambled Eggs",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scrambled_Eggs",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Seed Animal Feed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Seed_Animal_Feed",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Seed Cracker",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Seed_Cracker",
+      "weight": "2kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Seeds",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Seeds",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shengong \"Bihu\" Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Bihu\"_Envirosuit",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shengong \"Dongtian\" Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Dongtian\"_Envirosuit",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shepherd's Pie",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shepherd's_Pie",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shepherd's Roll",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shepherd's_Roll",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sinotai Dropship Recall Beacon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sinotai_Dropship_Recall_Beacon",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Smashed Avocado Toast",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Smashed_Avocado_Toast",
+      "weight": "",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Smoker",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Smoker",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snare Trap",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Snare_Trap",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Soy Bean",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Soy_Bean",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Soy Bean Stir-Fry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Soy_Bean_Stir-Fry",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Spoiled Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Spoiled_Meat",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Spoiled Plants",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Spoiled_Plants",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sprinters Animal Feed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sprinters_Animal_Feed",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Squash",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Squash",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stamina Enhancement Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stamina_Enhancement_Tonic",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stew",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stew",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Strawberries & Cream",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Strawberries_&_Cream",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Strawberry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Strawberry",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Strawberry Hard Candy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Strawberry_Hard_Candy",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Strawberry Jam",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Strawberry_Jam",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stringy Jerky",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stringy_Jerky",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stuffed Avocado",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stuffed_Avocado",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sugar Cane",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sugar_Cane",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sugar Cubes",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sugar_Cubes",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Survival Animal Feed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Survival_Animal_Feed",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sustenance Enhancement Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sustenance_Enhancement_Tonic",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sweetcorn Soup",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sweetcorn_Soup",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Talents",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Talents",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Tea Smoked Freshwater Fillet",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Tea_Smoked_Freshwater_Fillet",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Thermos",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Thermos",
+      "weight": "5 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Tomato",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Tomato",
+      "weight": "3 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Tomato & Egg Bowl",
       "ingredients": {},
-      "crafted_at": "Biofuel Stove, Electric Stove",
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Tomato_&_Egg_Bowl",
+      "weight": "3 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Tomato Soup",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Tomato_Soup",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Tusker",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Tusker",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Aluminium Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "consumables",
       "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Tomato_%26_Egg_Bowl",
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Aluminium_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Clay Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Clay_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Comet Coal Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Comet_Coal_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Copper Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Copper_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Dirt Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Dirt_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Gold Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Gold_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Iron Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Iron_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Obsidian Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Obsidian_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Oxite Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Oxite_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Platinum Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Platinum_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Scoria Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Scoria_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Silica Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Silica_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Stone Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Stone_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Sulfur Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Sulfur_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Synthetic Enzymes Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Synthetic_Enzymes_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Titanium Ore Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Titanium_Ore_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UDA Wood Resource Supply",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/UDA_Wood_Resource_Supply",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "UltraMeal",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/UltraMeal",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Vegetable Oil",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Vegetable_Oil",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Vegetable Pie",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Vegetable_Pie",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Vegetable Roll",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Vegetable_Roll",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Vitamins",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Vitamins",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Volcanic Animal Feed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Volcanic_Animal_Feed",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Watermelon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Watermelon",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Watermelon Lollypop",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Watermelon_Lollypop",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wheat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wheat",
+      "weight": "5 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "White Jerky",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/White_Jerky",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wild Berry",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wild_Berry",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wild Salad",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wild_Salad",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wine",
+      "ingredients": {},
+      "crafted_at": ".",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wine",
+      "weight": "5 kg",
       "crafting_stations": [
-        "Biofuel Stove",
-        "Electric Stove"
+        "."
       ]
+    },
+    {
+      "name": "Wood Composter",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Composter",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Crop Plot",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Crop_Plot",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Worker Bee",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Worker_Bee",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Xigo \"Gustav\" S5 Envirosuit",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Xigo_\"Gustav\"_S5_Envirosuit",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Xigo Quick-Fix Kit",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Xigo_Quick-Fix_Kit",
+      "weight": "6 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Xigo SplintX",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Xigo_SplintX",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Young Coconut",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "consumables",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Young_Coconut",
+      "weight": "8 kg",
+      "crafting_stations": []
     }
   ]
 }

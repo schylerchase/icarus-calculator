@@ -1,0 +1,29 @@
+{
+  "category": "Consumables",
+  "count": 2,
+  "items": [
+    {
+      "name": "Waterskin",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Waterskin",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Tomato & Egg Bowl",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "consumables",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Tomato_%26_Egg_Bowl",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    }
+  ]
+}

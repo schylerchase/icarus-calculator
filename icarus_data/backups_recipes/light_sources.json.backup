@@ -1,0 +1,88 @@
+{
+  "category": "Light Sources",
+  "count": 5,
+  "items": [
+    {
+      "name": "Directional Worklamp",
+      "ingredients": {
+        "Aluminium Ingot": 10,
+        "Glass": 5,
+        "Composites": 5,
+        "Electronics": 2
+      },
+      "crafted_at": "Fabricator",
+      "category": "light_sources",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Directional_Worklamp",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Flashlight",
+      "ingredients": {
+        "Glass": 4,
+        "Aluminium Ingot": 4,
+        "Epoxy": 4,
+        "Electronics": 2
+      },
+      "crafted_at": "Fabricator",
+      "category": "light_sources",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Flashlight",
+      "weight": "0.25 kg",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Omnidirectional Worklamp",
+      "ingredients": {
+        "Aluminium Ingot": 20,
+        "Glass": 5,
+        "Composites": 10,
+        "Electronics": 2
+      },
+      "crafted_at": "Fabricator",
+      "category": "light_sources",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Omnidirectional_Worklamp",
+      "weight": "1.0 kg",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Wood Rag Torch",
+      "ingredients": {
+        "Fiber": 40,
+        "Stick": 8
+      },
+      "crafted_at": "Character Crafting",
+      "category": "light_sources",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Wood_Rag_Torch",
+      "weight": "0.5 kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    },
+    {
+      "name": "Wood Torch",
+      "ingredients": {
+        "Fiber": 40,
+        "Stick": 8,
+        "Sulfur": 8
+      },
+      "crafted_at": "Character Crafting",
+      "category": "light_sources",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Wood_Torch",
+      "weight": "0.5 kg",
+      "crafting_stations": [
+        "Character Crafting"
+      ]
+    }
+  ]
+}

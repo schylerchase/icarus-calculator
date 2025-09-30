@@ -1,193 +1,455 @@
 {
   "category": "Specialized Equipment",
-  "count": 22,
+  "count": 43,
   "items": [
     {
-      "name": "AdLift Module",
+      "name": "Advanced Fishing Trap",
       "ingredients": {},
-      "crafted_at": "Character",
-      "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/AdLift_Module"
-    },
-    {
-      "name": "Animal Highlighting Module",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Animal_Highlighting_Module"
-    },
-    {
-      "name": "Detoxifier Module",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Detoxifier_Module"
-    },
-    {
-      "name": "DoseUp Module",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/DoseUp_Module"
-    },
-    {
-      "name": "Doseup Module",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Doseup_Module"
-    },
-    {
-      "name": "Electric Radar",
-      "ingredients": {
-        "Steel Ingot": 12,
-        "Electronics": 10,
-        "Steel Screw": 8,
-        "Glass": 2,
-        "Composites": 12
-      },
-      "crafted_at": "Fabricator",
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Electric_Radar",
-      "weight": "2.0 Kg",
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Fishing_Trap",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Basic Fishing Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Basic_Fishing_Bench",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Basic Fishing Rod",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Basic_Fishing_Rod",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Basic Fishing Trap",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Basic_Fishing_Trap",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Basic Riding Saddle",
+      "ingredients": {
+        "Leather": 14,
+        "Fur": 6,
+        "Rope": 2
+      },
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Basic_Riding_Saddle",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biofuel Radar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Biofuel_Radar",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "C0NT4CT Radio",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/C0NT4CT_Radio",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.2.52.111515 - Week 77",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.52.111515_-_Week_77",
+      "weight": ".g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.3.5.113110 - Week 83",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.3.5.113110_-_Week_83",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.14.118795 - Week 111",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.14.118795_-_Week_111",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.27.129232 - Week 152",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.27.129232_-_Week_152",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.31.130582 - Week 156",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.31.130582_-_Week_156",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.56.137509 - Week 181",
+      "ingredients": {},
+      "crafted_at": "Coming Soon: Great Hunts in the PC Gamer Show",
+      "category": "specialized_equipment",
+      "tier": 8,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.56.137509_-_Week_181",
+      "weight": "",
       "crafting_stations": [
-        "Fabricator"
+        "Coming Soon: Great Hunts in the PC Gamer Show"
       ]
     },
     {
-      "name": "Fisher's Module",
+      "name": "Changelog v2.2.62.139704 - Week 187",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Fisher%27s_Module"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.62.139704_-_Week_187",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
-      "name": "Healing Boost Module",
+      "name": "Composite Dropship Recall Beacon",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Dropship_Recall_Beacon",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Deep Mining Ore Scanner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Deep_Mining_Ore_Scanner",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dirt Mounds",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
       "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Healing_Boost_Module"
+      "url": "https://icarus.fandom.com/en/wiki/Dirt_Mounds",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Radar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Radar",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Enzyme Geysers",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Enzyme_Geysers",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fishing",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fishing",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Foundry",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fur",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Fur",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Hitching Post",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Hitching_Post",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Hitching Rope",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Hitching_Rope",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
       "name": "IC-001 Radar",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/IC-001_Radar",
-      "weight": "2.0 Kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/IC-001_Radar",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "KickFall Module",
+      "name": "MXC Hydrazine Canister",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/KickFall_Module"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/MXC_Hydrazine_Canister",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Kickfall Module",
+      "name": "Makeshift Landmine",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Kickfall_Module"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Makeshift_Landmine",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Lowburn Module",
+      "name": "Medium Wood Hedgehog",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Lowburn_Module"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Medium_Wood_Hedgehog",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Mass Dampener Module",
+      "name": "Orbital Exchange Interface",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Mass_Dampener_Module"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Orbital_Exchange_Interface",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Miner's Module",
+      "name": "Portable Water Tank",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Miner%27s_Module"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Portable_Water_Tank",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Patcher I Module",
+      "name": "Ranching Station",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Patcher_I_Module"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Ranching_Station",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Patcher II Module",
+      "name": "Refined Wood Fishing Rod",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Patcher_II_Module"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Refined_Wood_Fishing_Rod",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Pheromone Module",
+      "name": "Rope",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "with the following resources:",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Pheromone_Module"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Rope",
+      "weight": "1 Kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
     },
     {
-      "name": "Player Tracker Module",
+      "name": "Scorpion Hedgehog",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "with the following resources:",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Player_Tracker_Module"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion_Hedgehog",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
     },
     {
-      "name": "Protection Module",
+      "name": "Scorpion Pincer Trap",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "with the following resources:",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Protection_Module"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion_Pincer_Trap",
+      "weight": "5 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
     },
     {
-      "name": "Strength Boost Module",
+      "name": "Shengong \"Wenhe\" Arrow",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Strength_Boost_Module"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Wenhe\"_Arrow",
+      "weight": "2 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Survival Module",
+      "name": "Sinotai Dropship Recall Beacon",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Survival_Module"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sinotai_Dropship_Recall_Beacon",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
-      "name": "World Boss Module",
+      "name": "Snare Trap",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "specialized_equipment",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/World_Boss_Module"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Snare_Trap",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Tackle Box",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Tackle_Box",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Talents",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Talents",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Trophy Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Trophy_Bench",
+      "weight": "0kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wooden Cart",
+      "ingredients": {
+        "Basic Riding Saddle": 1,
+        "Wood": 80,
+        "Iron Nail": 15,
+        "Rope": 20,
+        "Epoxy": 10,
+        "Refined Wood": 50
+      },
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wooden_Cart",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wooden Fishing Rod",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "specialized_equipment",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Wooden_Fishing_Rod",
+      "weight": "0 kg",
+      "crafting_stations": []
     }
   ]
 }

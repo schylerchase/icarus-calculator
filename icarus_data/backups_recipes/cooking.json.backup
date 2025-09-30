@@ -1,0 +1,1602 @@
+{
+  "category": "Cooking",
+  "count": 130,
+  "items": [
+    {
+      "name": "Avocado",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Avocado"
+    },
+    {
+      "name": "Banana",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Banana"
+    },
+    {
+      "name": "Barbecue Carrot",
+      "ingredients": {},
+      "crafted_at": "Campfire, Firepit, Fireplace, Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Barbecue_Carrot",
+      "crafting_stations": [
+        "Campfire",
+        "Firepit",
+        "Fireplace",
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Barbeque Carrot",
+      "ingredients": {},
+      "crafted_at": "Campfire, Firepit, Fireplace, Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Barbeque_Carrot",
+      "crafting_stations": [
+        "Campfire",
+        "Firepit",
+        "Fireplace",
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Basic Dried Meat",
+      "ingredients": {
+        "Raw Meat": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Basic_Dried_Meat",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Berry Smoked Saltwater Fillet",
+      "ingredients": {
+        "Saltwater Fish Fillet": 1,
+        "Wild Berry": 5
+      },
+      "crafted_at": "Smoker",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Berry_Smoked_Saltwater_Fillet",
+      "crafting_stations": [
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Big Breakfast",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Big_Breakfast",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Bread",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Bread",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Bread Dough",
+      "ingredients": {},
+      "crafted_at": "Kitchen Bench, Marble Kitchen Bench",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Bread_Dough",
+      "crafting_stations": [
+        "Kitchen Bench",
+        "Marble Kitchen Bench"
+      ]
+    },
+    {
+      "name": "Broiled Kumara",
+      "ingredients": {},
+      "crafted_at": "Campfire, Firepit, Fireplace, Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Broiled_Kumara",
+      "crafting_stations": [
+        "Campfire",
+        "Firepit",
+        "Fireplace",
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Caramel Berry Tart",
+      "ingredients": {
+        "Pastry": 1,
+        "Sugar Cubes": 3,
+        "Kiwifruit": 2,
+        "Wild Berry": 5,
+        "Egg": 1
+      },
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Caramel_Berry_Tart",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Caramel Pastry",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Caramel_Pastry",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Carrot",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Carrot"
+    },
+    {
+      "name": "Carrot Cake",
+      "ingredients": {
+        "Butter": 1,
+        "Flour": 20,
+        "Sugar Cubes": 10,
+        "Egg": 2,
+        "Vegetable Oil": 2,
+        "Carrot": 5
+      },
+      "crafted_at": "Electric Stove",
+      "category": "cooking",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Carrot_Cake",
+      "weight": "2.0 Kg",
+      "crafting_stations": [
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Carrot Cake Piece",
+      "ingredients": {},
+      "crafted_at": "N/A",
+      "category": "cooking",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Carrot_Cake_Piece",
+      "crafting_stations": [
+        "N/A"
+      ]
+    },
+    {
+      "name": "Chargrilled Chicken",
+      "ingredients": {},
+      "crafted_at": "Campfire, Firepit, Fireplace, Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Chargrilled_Chicken",
+      "crafting_stations": [
+        "Campfire",
+        "Firepit",
+        "Fireplace",
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Charred Corn",
+      "ingredients": {},
+      "crafted_at": "Campfire, Firepit, Fireplace, Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Charred_Corn",
+      "crafting_stations": [
+        "Campfire",
+        "Firepit",
+        "Fireplace",
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Cheese Pizza Slice",
+      "ingredients": {},
+      "crafted_at": "Electric Stove",
+      "category": "cooking",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Cheese_Pizza_Slice",
+      "crafting_stations": [
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Cheese Roll",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Cheese_Roll",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Chewy Coconut Cookie",
+      "ingredients": {
+        "Flour": 2,
+        "Sugar Cubes": 2,
+        "Mature Coconut": 1,
+        "Vegetable Oil": 1
+      },
+      "crafted_at": "Electric Stove",
+      "category": "cooking",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Chewy_Coconut_Cookie",
+      "crafting_stations": [
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Choc-Chip Cookie",
+      "ingredients": {
+        "Flour": 2,
+        "Sugar Cubes": 2,
+        "Egg": 1,
+        "Vegetable Oil": 1,
+        "Cocoa Seed": 2
+      },
+      "crafted_at": "Electric Stove",
+      "category": "cooking",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Choc-Chip_Cookie",
+      "crafting_stations": [
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Chocolate Cake",
+      "ingredients": {
+        "Butter": 1,
+        "Flour": 20,
+        "Sugar Cubes": 10,
+        "Egg": 2,
+        "Vegetable Oil": 2,
+        "Cocoa Seed": 10
+      },
+      "crafted_at": "Electric Stove",
+      "category": "cooking",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Chocolate_Cake",
+      "weight": "2.0 Kg",
+      "crafting_stations": [
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Chocolate Cake Piece",
+      "ingredients": {},
+      "crafted_at": "N/A",
+      "category": "cooking",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Chocolate_Cake_Piece",
+      "crafting_stations": [
+        "N/A"
+      ]
+    },
+    {
+      "name": "Cocoa Smoked Soft Meat",
+      "ingredients": {
+        "Raw Soft Meat": 1,
+        "Cocoa Seed": 5
+      },
+      "crafted_at": "Smoker",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Cocoa_Smoked_Soft_Meat",
+      "crafting_stations": [
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Coconut Cake",
+      "ingredients": {
+        "Butter": 1,
+        "Flour": 20,
+        "Sugar Cubes": 10,
+        "Egg": 2,
+        "Vegetable Oil": 2,
+        "Mature Coconut": 2
+      },
+      "crafted_at": "Electric Stove",
+      "category": "cooking",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Coconut_Cake",
+      "weight": "2.0 Kg",
+      "crafting_stations": [
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Coconut Cake Piece",
+      "ingredients": {},
+      "crafted_at": "N/A",
+      "category": "cooking",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Coconut_Cake_Piece",
+      "crafting_stations": [
+        "N/A"
+      ]
+    },
+    {
+      "name": "Coffee Smoked Fatty T-bone",
+      "ingredients": {
+        "Raw Fatty Tbone": 1,
+        "Coffee Bean": 2
+      },
+      "crafted_at": "Unknown",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Coffee_Smoked_Fatty_T-bone"
+    },
+    {
+      "name": "Concrete Frame",
+      "ingredients": {
+        "Steel Rebar": 20,
+        "Concrete Mix": 8,
+        "Steel Screw": 10
+      },
+      "crafted_at": "Unknown",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Concrete_Frame"
+    },
+    {
+      "name": "Cooked Bacon",
+      "ingredients": {},
+      "crafted_at": "Campfire, Firepit, Fireplace, Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cooked_Bacon",
+      "crafting_stations": [
+        "Campfire",
+        "Firepit",
+        "Fireplace",
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Cooked Fatty T-Bone",
+      "ingredients": {},
+      "crafted_at": "Campfire, Firepit, Fireplace, Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Cooked_Fatty_T-Bone",
+      "crafting_stations": [
+        "Campfire",
+        "Firepit",
+        "Fireplace",
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Cooked Fatty Tbone",
+      "ingredients": {},
+      "crafted_at": "Campfire, Firepit, Fireplace, Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Cooked_Fatty_Tbone",
+      "crafting_stations": [
+        "Campfire",
+        "Firepit",
+        "Fireplace",
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Cooked Game Meat",
+      "ingredients": {},
+      "crafted_at": "Campfire, Firepit, Fireplace, Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cooked_Game_Meat",
+      "crafting_stations": [
+        "Campfire",
+        "Firepit",
+        "Fireplace",
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Cooked Gamey Meat",
+      "ingredients": {},
+      "crafted_at": "Campfire, Firepit, Fireplace, Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cooked_Gamey_Meat",
+      "crafting_stations": [
+        "Campfire",
+        "Firepit",
+        "Fireplace",
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Cooked Giant Steak",
+      "ingredients": {},
+      "crafted_at": "Campfire, Firepit, Fireplace, Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Cooked_Giant_Steak",
+      "crafting_stations": [
+        "Campfire",
+        "Firepit",
+        "Fireplace",
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Cooked Meat",
+      "ingredients": {},
+      "crafted_at": "Campfire, Firepit, Fireplace, Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Cooked_Meat",
+      "crafting_stations": [
+        "Campfire",
+        "Firepit",
+        "Fireplace",
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Cooked Soft Meat",
+      "ingredients": {},
+      "crafted_at": "Campfire",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cooked_Soft_Meat",
+      "crafting_stations": [
+        "Campfire"
+      ]
+    },
+    {
+      "name": "Cooked Stringy Meat",
+      "ingredients": {},
+      "crafted_at": "Campfire",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Cooked_Stringy_Meat",
+      "crafting_stations": [
+        "Campfire"
+      ]
+    },
+    {
+      "name": "Cooked White Meat",
+      "ingredients": {},
+      "crafted_at": "Campfire",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Cooked_White_Meat",
+      "crafting_stations": [
+        "Campfire"
+      ]
+    },
+    {
+      "name": "Corn",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Corn"
+    },
+    {
+      "name": "Crispy Bacon",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove, Potbelly Stove",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Crispy_Bacon",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove",
+        "Potbelly Stove"
+      ]
+    },
+    {
+      "name": "Crispy Potato",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Crispy_Potato",
+      "crafting_stations": [
+        "Biofuel Stove"
+      ]
+    },
+    {
+      "name": "Dirt Corner",
+      "ingredients": {
+        "Dirt": 20
+      },
+      "crafted_at": "Unknown",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Dirt_Corner",
+      "weight": "2.5 Kg"
+    },
+    {
+      "name": "Dried Avocado",
+      "ingredients": {
+        "Avocado": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Dried_Avocado",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Dried Fatty T-Bone",
+      "ingredients": {
+        "Raw Fatty Tbone": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Dried_Fatty_T-Bone",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Dried Fatty Tbone",
+      "ingredients": {
+        "Raw Fatty Tbone": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Dried_Fatty_Tbone",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Dried Freshwater Fillet",
+      "ingredients": {
+        "Freshwater Fish Fillet": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Dried_Freshwater_Fillet",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Dried Game Meat",
+      "ingredients": {
+        "Raw Gamey Meat": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Dried_Game_Meat",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Dried Gamey Meat",
+      "ingredients": {
+        "Raw Gamey Meat": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Dried_Gamey_Meat",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Dried Giant Steak",
+      "ingredients": {
+        "Raw Giant Steak": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Dried_Giant_Steak",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Dried Kiwifruit Chips",
+      "ingredients": {
+        "Kiwifruit": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Dried_Kiwifruit_Chips",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Dried Rhubarb",
+      "ingredients": {
+        "Rhubarb": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Dried_Rhubarb",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Dried Saltwater Fillet",
+      "ingredients": {
+        "Saltwater Fish Fillet": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Dried_Saltwater_Fillet",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Dried Soft Meat",
+      "ingredients": {
+        "Raw Soft Meat": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Dried_Soft_Meat",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Dried Stringy Meat",
+      "ingredients": {
+        "Raw Stringy Meat": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Dried_Stringy_Meat",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Dried Tomato",
+      "ingredients": {
+        "Tomato": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Dried_Tomato",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Dried White Meat",
+      "ingredients": {
+        "Raw White Meat": 1
+      },
+      "crafted_at": "Drying Rack, Smoker",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Dried_White_Meat",
+      "crafting_stations": [
+        "Drying Rack",
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Fish Chunk Stew",
+      "ingredients": {
+        "Corn": 1,
+        "Squash": 1,
+        "Fish Chunks": 1
+      },
+      "crafted_at": "Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Fish_Chunk_Stew",
+      "crafting_stations": [
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Fish Chunks",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Fish_Chunks"
+    },
+    {
+      "name": "Fish Pie",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Fish_Pie",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Flatbread",
+      "ingredients": {},
+      "crafted_at": "Campfire, Firepit, Fireplace, Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Flatbread",
+      "crafting_stations": [
+        "Campfire",
+        "Firepit",
+        "Fireplace",
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Flatbread Dough",
+      "ingredients": {
+        "Flour": 3
+      },
+      "crafted_at": "Herbalism Bench, Kitchen Bench, Marble Kitchen Bench",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Flatbread_Dough",
+      "crafting_stations": [
+        "Herbalism Bench",
+        "Kitchen Bench",
+        "Marble Kitchen Bench"
+      ]
+    },
+    {
+      "name": "Freshwater Fillet Curry",
+      "ingredients": {
+        "Animal Fat": 1,
+        "Soy Bean": 1,
+        "Freshwater Fish Fillet": 1
+      },
+      "crafted_at": "Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Freshwater_Fillet_Curry",
+      "crafting_stations": [
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Fried Chicken",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Fried_Chicken",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Fried Fish Chunks",
+      "ingredients": {},
+      "crafted_at": "Campfire",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Fried_Fish_Chunks",
+      "crafting_stations": [
+        "Campfire"
+      ]
+    },
+    {
+      "name": "Fruit Muffin",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Fruit_Muffin",
+      "crafting_stations": [
+        "Biofuel Stove"
+      ]
+    },
+    {
+      "name": "Fruit Pie",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Fruit_Pie",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Fruit Salad",
+      "ingredients": {
+        "Wild Berry": 1,
+        "Watermelon": 1
+      },
+      "crafted_at": "Cooking Station, Kitchen Bench, Marble Kitchen Bench",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Fruit_Salad",
+      "crafting_stations": [
+        "Cooking Station",
+        "Kitchen Bench",
+        "Marble Kitchen Bench"
+      ]
+    },
+    {
+      "name": "Gorse Smoked Gamey Meat",
+      "ingredients": {
+        "Raw Gamey Meat": 1,
+        "Gorse Flower": 5
+      },
+      "crafted_at": "Smoker",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Gorse_Smoked_Gamey_Meat",
+      "crafting_stations": [
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Grilled Freshwater Fillet",
+      "ingredients": {},
+      "crafted_at": "Campfire",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Grilled_Freshwater_Fillet",
+      "crafting_stations": [
+        "Campfire"
+      ]
+    },
+    {
+      "name": "Grilled Pumpkin",
+      "ingredients": {},
+      "crafted_at": "Campfire",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Grilled_Pumpkin",
+      "crafting_stations": [
+        "Campfire"
+      ]
+    },
+    {
+      "name": "Grilled Saltwater Fillet",
+      "ingredients": {},
+      "crafted_at": "Campfire",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Grilled_Saltwater_Fillet",
+      "crafting_stations": [
+        "Campfire"
+      ]
+    },
+    {
+      "name": "Hearty Salad",
+      "ingredients": {
+        "Tomato": 1,
+        "Soy Bean": 1
+      },
+      "crafted_at": "Cooking Station, Kitchen Bench, Marble Kitchen Bench",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Hearty_Salad",
+      "crafting_stations": [
+        "Cooking Station",
+        "Kitchen Bench",
+        "Marble Kitchen Bench"
+      ]
+    },
+    {
+      "name": "Honey Glazed Pastry",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Honey_Glazed_Pastry",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Honey Smoked Bacon",
+      "ingredients": {
+        "Raw Bacon": 1,
+        "Honey": 5
+      },
+      "crafted_at": "Smoker",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Honey_Smoked_Bacon",
+      "crafting_stations": [
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Kumara",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Kumara"
+    },
+    {
+      "name": "Mature Coconut",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Mature_Coconut"
+    },
+    {
+      "name": "Meat Pie",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Meat_Pie",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Melon Smoked Giant Steak",
+      "ingredients": {
+        "Raw Giant Steak": 1,
+        "Watermelon": 1
+      },
+      "crafted_at": "Smoker",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Melon_Smoked_Giant_Steak",
+      "crafting_stations": [
+        "Smoker"
+      ]
+    },
+    {
+      "name": "MicroMeal",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/MicroMeal"
+    },
+    {
+      "name": "Micromeal",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Micromeal"
+    },
+    {
+      "name": "Mushroom",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Mushroom"
+    },
+    {
+      "name": "Mushroom Omelette",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Mushroom_Omelette",
+      "crafting_stations": [
+        "Biofuel Stove"
+      ]
+    },
+    {
+      "name": "Mushroom Soup",
+      "ingredients": {},
+      "crafted_at": "Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Mushroom_Soup",
+      "crafting_stations": [
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Pavlova",
+      "ingredients": {
+        "Cream": 5,
+        "Sugar Cubes": 5,
+        "Egg": 2,
+        "Kiwifruit": 3
+      },
+      "crafted_at": "Electric Stove",
+      "category": "cooking",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/wiki/Pavlova",
+      "crafting_stations": [
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Plain Jerky",
+      "ingredients": {
+        "Raw Meat": 1,
+        "Salt": 5
+      },
+      "crafted_at": "Smoker",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Plain_Jerky",
+      "crafting_stations": [
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Potato Bread",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Potato_Bread",
+      "crafting_stations": [
+        "Biofuel Stove"
+      ]
+    },
+    {
+      "name": "Potato and Carrot Fries",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Potato_and_Carrot_Fries",
+      "crafting_stations": [
+        "Biofuel Stove"
+      ]
+    },
+    {
+      "name": "Pumpkin",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Pumpkin"
+    },
+    {
+      "name": "Pumpkin Bread",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Pumpkin_Bread",
+      "crafting_stations": [
+        "Biofuel Stove"
+      ]
+    },
+    {
+      "name": "Raw Bacon",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Raw_Bacon"
+    },
+    {
+      "name": "Raw Chicken",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Raw_Chicken"
+    },
+    {
+      "name": "Raw Game Meat",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Raw_Game_Meat"
+    },
+    {
+      "name": "Raw Gamey Meat",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Raw_Gamey_Meat"
+    },
+    {
+      "name": "Raw Giant Steak",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Raw_Giant_Steak"
+    },
+    {
+      "name": "Raw Meat",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Raw_Meat"
+    },
+    {
+      "name": "Raw Prime Meat",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Raw_Prime_Meat"
+    },
+    {
+      "name": "Raw Soft Meat",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Raw_Soft_Meat"
+    },
+    {
+      "name": "Raw Stringy Meat",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Raw_Stringy_Meat"
+    },
+    {
+      "name": "Raw White Meat",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Raw_White_Meat"
+    },
+    {
+      "name": "Rhubarb Stew",
+      "ingredients": {},
+      "crafted_at": "Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Rhubarb_Stew",
+      "crafting_stations": [
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Ripe Coconut",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Ripe_Coconut"
+    },
+    {
+      "name": "Roast Chicken",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Roast_Chicken",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Roast Squash",
+      "ingredients": {},
+      "crafted_at": "Campfire",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Roast_Squash",
+      "crafting_stations": [
+        "Campfire"
+      ]
+    },
+    {
+      "name": "Savory Roll",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Savory_Roll",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Scoria Frame",
+      "ingredients": {
+        "Wood": 12,
+        "Scoria": 20,
+        "Leather": 4,
+        "Iron Nail": 12
+      },
+      "crafted_at": "Unknown",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Scoria_Frame",
+      "weight": "2.5 Kg"
+    },
+    {
+      "name": "Seed Bread",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Seed_Bread",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Shepherd's Pie",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Shepherd%27s_Pie",
+      "crafting_stations": [
+        "Biofuel Stove"
+      ]
+    },
+    {
+      "name": "Shepherd's Roll",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Shepherd%27s_Roll",
+      "crafting_stations": [
+        "Biofuel Stove"
+      ]
+    },
+    {
+      "name": "Soy Bean",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Soy_Bean"
+    },
+    {
+      "name": "Soy Bean Stir-Fry",
+      "ingredients": {
+        "Mushroom": 1,
+        "Carrot": 1,
+        "Soy Bean": 1
+      },
+      "crafted_at": "Potbelly Stove",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Soy_Bean_Stir-Fry",
+      "crafting_stations": [
+        "Potbelly Stove"
+      ]
+    },
+    {
+      "name": "Spoiled Meat",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Spoiled_Meat"
+    },
+    {
+      "name": "Squash",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Squash"
+    },
+    {
+      "name": "Stew",
+      "ingredients": {
+        "Water": 100,
+        "Mushroom": 1,
+        "Carrot": 1,
+        "Raw Meat": 1
+      },
+      "crafted_at": "Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Stew",
+      "crafting_stations": [
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Stone Frame",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Stone_Frame",
+      "weight": "<unkown>"
+    },
+    {
+      "name": "Strawberry",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Strawberry"
+    },
+    {
+      "name": "Strawberry Hard Candy",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove, Potbelly Stove",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Strawberry_Hard_Candy",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove",
+        "Potbelly Stove"
+      ]
+    },
+    {
+      "name": "Stringy Jerky",
+      "ingredients": {
+        "Raw Stringy Meat": 1,
+        "Animal Fat": 5
+      },
+      "crafted_at": "Smoker",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Stringy_Jerky",
+      "crafting_stations": [
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Sweetcorn Soup",
+      "ingredients": {
+        "Water": 100,
+        "Corn": 3
+      },
+      "crafted_at": "Potbelly Stove, Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Sweetcorn_Soup",
+      "crafting_stations": [
+        "Potbelly Stove",
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Tea Smoked Freshwater Fillet",
+      "ingredients": {
+        "Freshwater Fish Fillet": 1,
+        "Tea": 5
+      },
+      "crafted_at": "Smoker",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Tea_Smoked_Freshwater_Fillet",
+      "crafting_stations": [
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Tomato",
+      "ingredients": {},
+      "crafted_at": "[[|]]",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Tomato",
+      "crafting_stations": [
+        "[[|]]"
+      ]
+    },
+    {
+      "name": "Tomato Soup",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove, Potbelly Stove",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Tomato_Soup",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove",
+        "Potbelly Stove"
+      ]
+    },
+    {
+      "name": "UltraMeal",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/UltraMeal"
+    },
+    {
+      "name": "Ultrameal",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Ultrameal"
+    },
+    {
+      "name": "Vegetable Pie",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/Vegetable_Pie",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove"
+      ]
+    },
+    {
+      "name": "Watermelon",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Watermelon"
+    },
+    {
+      "name": "Watermelon Lollypop",
+      "ingredients": {},
+      "crafted_at": "Biofuel Stove, Electric Stove, Potbelly Stove",
+      "category": "cooking",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/wiki/Watermelon_Lollypop",
+      "crafting_stations": [
+        "Biofuel Stove",
+        "Electric Stove",
+        "Potbelly Stove"
+      ]
+    },
+    {
+      "name": "White Jerky",
+      "ingredients": {
+        "Raw White Meat": 1,
+        "Soy Bean": 5
+      },
+      "crafted_at": "Smoker",
+      "category": "cooking",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/wiki/White_Jerky",
+      "crafting_stations": [
+        "Smoker"
+      ]
+    },
+    {
+      "name": "Wild Berry",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Wild_Berry"
+    },
+    {
+      "name": "Wild Salad",
+      "ingredients": {
+        "Pumpkin": 1,
+        "Squash": 1
+      },
+      "crafted_at": "Cooking Station, Kitchen Bench, Marble Kitchen Bench",
+      "category": "cooking",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/wiki/Wild_Salad",
+      "crafting_stations": [
+        "Cooking Station",
+        "Kitchen Bench",
+        "Marble Kitchen Bench"
+      ]
+    },
+    {
+      "name": "Young Coconut",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "cooking",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/wiki/Young_Coconut"
+    }
+  ]
+}

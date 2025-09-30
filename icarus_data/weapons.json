@@ -1,639 +1,3314 @@
 {
   "category": "Weapons",
-  "count": 52,
+  "count": 328,
   "items": [
     {
-      "name": "Advanced Pistol",
+      "name": "12-Gauge Casing",
       "ingredients": {
-        "Refined Wood": 6,
-        "Cured Leather": 1,
-        "Titanium Ingot": 16,
-        "Epoxy": 4,
-        "Steel Screw": 8
+        "Epoxy": 2,
+        "Copper Ingot": 1
       },
-      "crafted_at": "Fabricator",
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/12-Gauge_Casing",
+      "weight": "8 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Achievements",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Achievements",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Advanced Alteration Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Alteration_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Advanced Pistol",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 9,
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Pistol",
+      "weight": "8 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Advanced Tool Attachment Pack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Advanced_Pistol",
-      "weight": "1.8 kg",
-      "crafting_stations": [
-        "Fabricator"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Tool_Attachment_Pack",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Alpha Wolf",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Alpha_Wolf",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Alteration Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Alteration_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Ingot",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Ingot",
+      "weight": "2kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Ore",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ammo Casing",
+      "ingredients": {
+        "Iron Ingot": 1
+      },
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Ammo_Casing",
+      "weight": "8 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Antelope",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Antelope",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Anvil Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Anvil_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Archer's Backpack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Archer's_Backpack",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Arctic Pelt",
+      "ingredients": {
+        "Wool": 20,
+        "Fiber": 30
+      },
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Arctic_Pelt",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Arctic Scorpion",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Arctic_Scorpion",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Arid Striker",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Arid_Striker",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ashen Drake",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Ashen_Drake",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Assault Rifle",
-      "ingredients": {
-        "Refined Wood": 50,
-        "Titanium Plate": 10,
-        "Titanium Ingot": 15,
-        "Epoxy": 20,
-        "Steel Screw": 50,
-        "Vegetable Oil": 8
-      },
-      "crafted_at": "Fabricator",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Assault_Rifle",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Attack Speed Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Attack_Speed_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Attributes",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Attributes",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Baby Deer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Assault_Rifle",
-      "weight": "5.5 Kg",
+      "url": "https://icarus.fandom.com/en/wiki/Baby_Deer",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Barbecue Carrot",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Barbecue_Carrot",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Basic Scope Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Basic_Scope_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bear Cub",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bear_Cub",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bio-lab",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bio-lab",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biofuel Bio-Cleaner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Biofuel_Bio-Cleaner",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Black Jaguar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Black_Jaguar",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Black Wolf Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Black_Wolf_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Black Wolf Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Black_Wolf_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Black Wolf Throwing Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Black_Wolf_Throwing_Knife",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Blueback",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Blueback",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bolt Action Rifle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Bolt_Action_Rifle",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Bone",
+      "weight": "1 KG",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bone_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bone_Javelin",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Bone_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Bone_Shield",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone Sickle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bone_Sickle",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bone_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone Throwing Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Bone_Throwing_Knife",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bramble Bush",
+      "ingredients": {},
+      "crafted_at": "Hammers",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bramble_Bush",
+      "weight": "0 kg",
       "crafting_stations": [
-        "Fabricator"
+        "Hammers"
       ]
     },
     {
-      "name": "Automated Defense System: Pistol",
-      "ingredients": {
-        "Titanium Plate": 8,
-        "Electronics": 12,
-        "Composites": 12,
-        "Aluminium Ingot": 12,
-        "Pistol": 1,
-        "Steel Screw": 20,
-        "Copper Wire": 12
-      },
-      "crafted_at": "Fabricator",
+      "name": "Buffalo",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Automated_Defense_System%3A_Pistol",
-      "weight": "20 Kg",
-      "crafting_stations": [
-        "Fabricator"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Buffalo",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bullseye Target",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bullseye_Target",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "CHAC \"Boomstick\" Shotgun",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/CHAC_\"Boomstick\"_Shotgun",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "CHAC \"Sentinel\" Pistol",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/CHAC_%22Sentinel%22_Pistol",
-      "weight": "1.0 kg"
+      "tier": 9,
+      "url": "https://icarus.fandom.com/en/wiki/CHAC_\"Sentinel\"_Pistol",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "CHAC \"Sovereign\" Rifle",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/CHAC_%22Sovereign%22_Rifle",
-      "weight": "3.0 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/CHAC_\"Sovereign\"_Rifle",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "CONT4CT Device",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/CONT4CT_Device",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Calf",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Calf",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Calibrated Grip Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Calibrated_Grip_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carbon Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Carbon_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carbon Fiber",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carbon_Fiber",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carbon Fibre Round Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Carbon_Fibre_Round_Shield",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carbon Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Carbon_Javelin",
+      "weight": "4 kg",
+      "crafting_stations": []
     },
     {
       "name": "Carbon Spear",
-      "ingredients": {
-        "Copper Ingot": 4,
-        "Carbon Fiber": 24,
-        "Epoxy": 8
-      },
-      "crafted_at": "Forge, Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Carbon_Spear",
-      "weight": "1.0 kg",
+      "url": "https://icarus.fandom.com/en/wiki/Carbon_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carcass Harvesting Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Carcass_Harvesting_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Caveworm",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Caveworm",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Caveworm Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Caveworm_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Caveworm Bow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Caveworm_Bow",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Caveworm Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Caveworm_Javelin",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Caveworm Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Caveworm_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Caveworm Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Caveworm_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Caveworm Throwing Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Caveworm_Throwing_Knife",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chala",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Chala",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chamois",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Chamois",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.2.48.110271 - Week 73",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.48.110271_-_Week_73",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.2.50.110601 - Week 75",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.50.110601_-_Week_75",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.2.52.111515 - Week 77",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.52.111515_-_Week_77",
+      "weight": ".g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.3.10.114532 - Week 88",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.3.10.114532_-_Week_88",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.3.5.113110 - Week 83",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.3.5.113110_-_Week_83",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.0.5.116433 - Week 95",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.0.5.116433_-_Week_95",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.14.118795 - Week 111",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.14.118795_-_Week_111",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.16.119362 - Week 113",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.16.119362_-_Week_113",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.5.117759 - Week 102",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.5.117759_-_Week_102",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.7.118077 - Week 104",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.7.118077_-_Week_104",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.18.126568 - Week 143",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.18.126568_-_Week_143",
+      "weight": ".g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.22.127885 - Week 147",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.22.127885_-_Week_147",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.27.129232 - Week 152",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.27.129232_-_Week_152",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.31.130582 - Week 156",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.31.130582_-_Week_156",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.56.137509 - Week 181",
+      "ingredients": {},
+      "crafted_at": "Coming Soon: Great Hunts in the PC Gamer Show",
+      "category": "weapons",
+      "tier": 8,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.56.137509_-_Week_181",
+      "weight": "",
       "crafting_stations": [
-        "Forge",
-        "Foundry"
+        "Coming Soon: Great Hunts in the PC Gamer Show"
       ]
     },
     {
-      "name": "Cold Steel Spear",
-      "ingredients": {
-        "Cold Steel Ingot": 5,
-        "Refined Wood": 20,
-        "Steel Screw": 10,
-        "Fur": 5
-      },
-      "crafted_at": "Forge, Foundry",
+      "name": "Changelog v2.2.60.138841 - Week 185",
+      "ingredients": {},
+      "crafted_at": "[",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.60.138841_-_Week_185",
+      "weight": "5kg",
+      "crafting_stations": [
+        "["
+      ]
+    },
+    {
+      "name": "Changelog v2.2.62.139704 - Week 187",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.62.139704_-_Week_187",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.3.1.140342 - Week 190",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.1.140342_-_Week_190",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.3.10.142613 - Week 199",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.10.142613_-_Week_199",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.3.7.141824 - Week 196",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.7.141824_-_Week_196",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chicken",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Chicken",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Bolt",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Ingot",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Ingot",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Cold_Steel_Spear",
-      "weight": "0.5 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Javelin",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Knife",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Spear",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Throwing Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Throwing_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Combat Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Combat_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Composite Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Composite Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Javelin",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Composite Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Composite Tactical Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Tactical_Shield",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Composites",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Composites",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Compound Bow",
       "ingredients": {},
-      "crafted_at": "Foundry",
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Compound_Bow",
-      "weight": "1.0 kg",
+      "url": "https://icarus.fandom.com/en/wiki/Compound_Bow",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Conifer Wolf",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Conifer_Wolf",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Copper Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Copper_Bolt",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cougar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cougar",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cow",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crafting Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Crafting_Bench",
+      "weight": "0kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crocodile",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Crocodile",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crossbow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Crossbow",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crude Ammo",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Crude_Ammo",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crystallized Miasma",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Crystallized_Miasma",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Distilled Miasmic Coating",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Distilled_Miasmic_Coating",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Drac",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Drac",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dreadwing",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dreadwing",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Economic Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Economic_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Elephant",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Elephant",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Excortis the Wooly",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Excortis_the_Wooly",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Exotics",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Exotics",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fabricator",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fabricator",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Flamethrower",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Flamethrower",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Flexible Frame Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Flexible_Frame_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Flint Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Flint_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Forge",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Forge",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Foundry",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Frag Grenade",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Frag_Grenade",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Frontier Revolver",
+      "ingredients": {},
+      "crafted_at": "Repaired with",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Frontier_Revolver",
+      "weight": "5 kg",
       "crafting_stations": [
-        "Foundry"
+        "Repaired with"
       ]
     },
     {
-      "name": "Hunting Rifle",
-      "ingredients": {
-        "Refined Wood": 12,
-        "Cured Leather": 1,
-        "Titanium Ingot": 40,
-        "Epoxy": 4,
-        "Steel Screw": 16
-      },
-      "crafted_at": "Fabricator",
+      "name": "Fur",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Fur",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glaci",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Hunting_Rifle",
-      "weight": "4.0 kg",
+      "url": "https://icarus.fandom.com/en/wiki/Glaci",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Grizzly Bear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Grizzly_Bear",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Gunpowder",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Gunpowder",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Handcannon Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Handcannon_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Heavy Flamethrower",
+      "ingredients": {},
+      "crafted_at": "Repaired with",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Heavy_Flamethrower",
+      "weight": "0 kg",
       "crafting_stations": [
-        "Fabricator"
+        "Repaired with"
       ]
+    },
+    {
+      "name": "Honeycomb",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Honeycomb",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Hunting Rifle",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Hunting_Rifle",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Hyena",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Hyena",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ignari",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Ignari",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Agua\" Spear",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Agua%22_Spear",
-      "weight": "1.0 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Agua\"_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inaris \"Aruda\" Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Aruda\"_Arrow",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inaris \"Aruda\" Arrow Bundle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Aruda\"_Arrow_Bundle",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inaris \"Biana\" Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Biana\"_Arrow",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inaris \"Biana\" Arrow Bundle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Biana\"_Arrow_Bundle",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inaris \"Cerulean\" Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Cerulean\"_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Cobalt\" Spear",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Cobalt%22_Spear",
-      "weight": "1.0 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Cobalt\"_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inaris \"Crimson\" Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Crimson\"_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Dusk\" Spear",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Dusk%22_Spear",
-      "weight": "1.0 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Dusk\"_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Gris\" Spear",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Gris%22_Spear",
-      "weight": "1.0 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Gris\"_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Heavy\" Crossbow",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Heavy%22_Crossbow",
-      "weight": "1.5 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Heavy\"_Crossbow",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Lune\" Crossbow",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Lune%22_Crossbow",
-      "weight": "1.0 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Lune\"_Crossbow",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inaris \"Netch\" Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Netch\"_Arrow",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inaris \"Netch\" Arrow Bundle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Netch\"_Arrow_Bundle",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Rapid\" Crossbow",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Rapid%22_Crossbow",
-      "weight": "1.0 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Rapid\"_Crossbow",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inaris \"Rouge\" Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Rouge\"_Arrow",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inaris \"Rouge\" Arrow Bundle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Rouge\"_Arrow_Bundle",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Inaris \"Shade\" Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Shade\"_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Sole\" Crossbow",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Sole%22_Crossbow",
-      "weight": "1.0 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Sole\"_Crossbow",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Inaris 'Heavy' Crossbow",
+      "name": "Inaris \"Ventura\" Knife",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%27Heavy%27_Crossbow",
-      "weight": "1.5 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Ventura\"_Knife",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Inaris 'Rapid' Crossbow",
+      "name": "Inaris \"Viridian\" Pickaxe",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Viridian\"_Pickaxe",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ion Backpack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Ion_Backpack",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Bolt",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%27Rapid%27_Crossbow",
-      "weight": "1.0 kg"
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Javelin",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Ore",
+      "weight": "4 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Shears",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Shears",
+      "weight": "0kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Sledgehammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Sledgehammer",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Throwing Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Throwing_Knife",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Jaguar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Jaguar",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Javelin Launcher",
+      "ingredients": {},
+      "crafted_at": "Repaired with",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Javelin_Launcher",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "Repaired with"
+      ]
+    },
+    {
+      "name": "Kea",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Kea",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Kinetic Rifle",
-      "ingredients": {
-        "Legendary Licence": 1
-      },
-      "crafted_at": "Bio-lab",
+      "ingredients": {},
+      "crafted_at": "Repaired with",
       "category": "weapons",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Kinetic_Rifle",
-      "weight": "5.0 kg",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Kinetic_Rifle",
+      "weight": "0 kg",
       "crafting_stations": [
-        "Bio-lab"
+        "Repaired with"
       ]
+    },
+    {
+      "name": "Komodo",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Komodo",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Landshark",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Landshark",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Large Antelope",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Large_Antelope",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Large Deer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Large_Deer",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Bolt Bundle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Bolt_Bundle",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Martinez Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Arrow",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Martinez Ballistic Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Ballistic_Arrow",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Martinez Bleed Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Bleed_Arrow",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Martinez Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Bolt",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Martinez Charged Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Charged_Bolt",
+      "weight": "3 kg",
+      "crafting_stations": []
     },
     {
       "name": "Larkwell Martinez Compound Bow",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Compound_Bow",
-      "weight": "2.0 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Compound_Bow",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Martinez Explosive Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Explosive_Bolt",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Martinez Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Martinez Mercenary Backpack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Mercenary_Backpack",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Martinez Piercing Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Piercing_Bolt",
+      "weight": "3 kg",
+      "crafting_stations": []
     },
     {
       "name": "Larkwell Martinez Spear",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Spear",
-      "weight": "2.0 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Larkwell Martinez Tazer Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Tazer_Arrow",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Lava Broodling",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Lava_Broodling",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Lava Hunter",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Lava_Hunter",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Leather",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Leather",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Leather Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Leather_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Legendary Biomass",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Legendary_Biomass",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Light Automatic Carbine",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Light_Automatic_Carbine",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Lightweight Frame Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Lightweight_Frame_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Longbow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Longbow",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "MXC Flange Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/MXC_Flange_Arrow",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "MXC Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/MXC_Knife",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "MXC Nerve Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/MXC_Nerve_Arrow",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "MXC Spear",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/MXC_Spear",
-      "weight": "0.1 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/MXC_Spear",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "MXC Venom Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/MXC_Venom_Arrow",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Machete",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Machete",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Machining Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Machining_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Medium Deer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Medium_Deer",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Melee Damage Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Melee_Damage_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Meta:ToDo",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Meta:ToDo",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Miasmic Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Arrow",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Miasmic Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Javelin",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Miasmic Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Knife",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Miasmic Spear",
-      "ingredients": {
-        "Refined Wood": 20,
-        "Cured Leather": 1,
-        "Titanium Ingot": 12,
-        "Distilled Miasmic Coating": 12
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Miasmic_Spear",
-      "weight": "0.5 kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Spear",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Miasmic Throwing Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Throwing_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Narrow Barrel Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Narrow_Barrel_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Needler",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Needler",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Norex Boss Tracker Upgrade",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Norex_Boss_Tracker_Upgrade",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Arrow",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Bolt",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Javelin",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Spear",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian Throwing Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Throwing_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "One-Shot Pistol",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 9,
+      "url": "https://icarus.fandom.com/en/wiki/One-Shot_Pistol",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Organic Residue Cleanser",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Organic_Residue_Cleanser",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Pistol",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Pistol",
+      "weight": "8 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Bolt",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Platinum Crossbow",
-      "ingredients": {
-        "Refined Wood": 9,
-        "Cured Leather": 1,
-        "Platinum Ingot": 10,
-        "Epoxy": 4,
-        "Steel Screw": 4
-      },
-      "crafted_at": "Forge, Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Platinum_Crossbow",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Crossbow",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Javelin",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Ore",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Shield",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Platinum Spear",
-      "ingredients": {
-        "Refined Wood": 2,
-        "Cured Leather": 1,
-        "Platinum Ingot": 24
-      },
-      "crafted_at": "Forge, Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Throwing Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Platinum_Spear",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Throwing_Knife",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Poison Sack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Poison_Sack",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Polar Bear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Polar_Bear",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Polar Bear Cub",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Polar_Bear_Cub",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Prime Meat Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Prime_Meat_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Prototype Thumper",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Prototype_Thumper",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rabbit",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Rabbit",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Recurve Bow",
-      "ingredients": {
-        "Steel Ingot": 8,
-        "Rope": 8,
-        "Aluminium Ingot": 18,
-        "Epoxy": 8,
-        "Steel Screw": 4
-      },
-      "crafted_at": "Forge, Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Recurve_Bow",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Recurve_Bow",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Redback",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Redback",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rusty Shotgun",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Rusty_Shotgun",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Sandworm Bow",
-      "ingredients": {
-        "Wood": 10,
-        "Leather": 25,
-        "Sandworm Scale": 15
-      },
-      "crafted_at": "Forge, Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Sandworm_Bow",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sandworm_Bow",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sandworm Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sandworm_Javelin",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sandworm Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Sandworm_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sandworm Scale",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sandworm_Scale",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Sandworm Spear",
-      "ingredients": {
-        "Wood": 16,
-        "Leather": 4,
-        "Sandworm Scale": 10
-      },
-      "crafted_at": "Forge, Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sandworm_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sandworm Throwing Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Sandworm_Spear",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Sandworm_Throwing_Knife",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scorpion",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scorpion Carapace",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion_Carapace",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Semi-Automatic Pistol",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 9,
+      "url": "https://icarus.fandom.com/en/wiki/Semi-Automatic_Pistol",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shaped Obsidian",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shaped_Obsidian",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sheep",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sheep",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shengong \"Daokou\" Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Daokou\"_Knife",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong \"Dida\" Spear",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Dida%22_Spear",
-      "weight": "0.1 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Dida\"_Spear",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong \"Gong Bu\" Spear",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Gong_Bu%22_Spear",
-      "weight": "0.1 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Gong_Bu\"_Spear",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong \"Ji\" Bow",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Ji%22_Bow",
-      "weight": "0.1kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Ji\"_Bow",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong \"Jijing\" Bow",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Jijing%22_Bow",
-      "weight": "0.1kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Jijing\"_Bow",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong \"Jiju\" Spear",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Jiju%22_Spear",
-      "weight": "0.1 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Jiju\"_Spear",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shengong \"Wenhe\" Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Wenhe\"_Arrow",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shengong \"Wenhe\" Arrow Bundle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Wenhe\"_Arrow_Bundle",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong \"Xingxing\" Spear",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Xingxing%22_Spear",
-      "weight": "0.1 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Xingxing\"_Spear",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong \"Zhang Hu\" Bow",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Zhang_Hu%22_Bow",
-      "weight": "0.1kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Zhang_Hu\"_Bow",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
-      "name": "Shengong 'Dida' Spear",
+      "name": "Shengong 'Qie' Knife",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Dida%27_Spear",
-      "weight": "0.1 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_'Qie'_Knife",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
-      "name": "Shengong 'Gong Bu' Spear",
+      "name": "Shengong 'Shui' Knife",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Gong_Bu%27_Spear",
-      "weight": "0.1 kg"
+      "tier": 9,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_'Shui'_Knife",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
-      "name": "Shengong 'Ji' Bow",
+      "name": "Shengong 'Sichou' Knife",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Ji%27_Bow",
-      "weight": "0.1kg"
-    },
-    {
-      "name": "Shengong 'Jijing' Bow",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Jijing%27_Bow",
-      "weight": "0.1kg"
-    },
-    {
-      "name": "Shengong 'Jiju' Spear",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Jiju%27_Spear",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Shengong 'Xingxing' Spear",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Xingxing%27_Spear",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Shengong 'Zhang Hu' Bow",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Zhang_Hu%27_Bow",
-      "weight": "0.1kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_'Sichou'_Knife",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong CZ4 Bow",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_CZ4_Bow",
-      "weight": "0.1 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_CZ4_Bow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shengong DL7 Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_DL7_Knife",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong HS2 Bow",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_HS2_Bow",
-      "weight": "0.1 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_HS2_Bow",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong PF1 Spear",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_PF1_Spear",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shotgun",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shotgun",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Silencer Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Silencer_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Skinning Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Skinning_Bench",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Smoke Grenade",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Smoke_Grenade",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sniper Scope Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sniper_Scope_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snow Leopard",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Snow_Leopard",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snow Rabbit",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Snow_Rabbit",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snow Wolf",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Snow_Wolf",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Bolt",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Heater Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Heater_Shield",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Javelin",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Screw",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Screw",
+      "weight": "1Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Throwing Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Throwing_Knife",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stick",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_PF1_Spear",
-      "weight": "0.1 kg"
+      "url": "https://icarus.fandom.com/en/wiki/Stick",
+      "weight": "1Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Throwing Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Throwing_Knife",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stonejaw",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stonejaw",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Strength Enhancement Tonic",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Strength_Enhancement_Tonic",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Strengthened Strings Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Strengthened_Strings_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stryder",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stryder",
+      "weight": "",
+      "crafting_stations": []
     },
     {
       "name": "Submachine Gun",
-      "ingredients": {
-        "Refined Wood": 15,
-        "Titanium Plate": 6,
-        "Titanium Ingot": 25,
-        "Epoxy": 15,
-        "Steel Screw": 25,
-        "Vegetable Oil": 5
-      },
-      "crafted_at": "Fabricator",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Submachine_Gun",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Super Cooled Ice",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Submachine_Gun",
-      "weight": "3.0 kg",
-      "crafting_stations": [
-        "Fabricator"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Super_Cooled_Ice",
+      "weight": "3 kg",
+      "crafting_stations": []
     },
     {
       "name": "Tactical Bow",
-      "ingredients": {
-        "Legendary Licence": 1
-      },
-      "crafted_at": "Bio-lab",
+      "ingredients": {},
+      "crafted_at": "Repaired with",
       "category": "weapons",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Tactical_Bow",
-      "weight": "3.0 kg",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Tactical_Bow",
+      "weight": "0 kg",
       "crafting_stations": [
-        "Bio-lab"
+        "Repaired with"
       ]
+    },
+    {
+      "name": "Talents",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Talents",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Target Dummy",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Target_Dummy",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Taxidermy Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Taxidermy_Knife",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Terrenus",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Terrenus",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Bolt",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Titanium Crossbow",
-      "ingredients": {
-        "Refined Wood": 24,
-        "Cured Leather": 8,
-        "Titanium Ingot": 20,
-        "Epoxy": 12,
-        "Steel Screw": 16
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Crossbow",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Ingot",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Titanium_Crossbow",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Ingot",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Javelin",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Ore",
+      "weight": "0g",
+      "crafting_stations": []
     },
     {
       "name": "Titanium Spear",
-      "ingredients": {
-        "Refined Wood": 2,
-        "Cured Leather": 1,
-        "Titanium Ingot": 24
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Throwing Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Titanium_Spear",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Throwing_Knife",
+      "weight": "2 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Tower Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Tower_Shield",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Tomato & Egg Bowl",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Tomato_&_Egg_Bowl",
+      "weight": "3 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Trajectory Module Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Trajectory_Module_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Trench Shotgun",
-      "ingredients": {
-        "Refined Wood": 20,
-        "Cured Leather": 1,
-        "Titanium Ingot": 20,
-        "Epoxy": 5,
-        "Steel Screw": 25
-      },
-      "crafted_at": "Fabricator",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Trench_Shotgun",
-      "weight": "4.5 kg",
-      "crafting_stations": [
-        "Fabricator"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Trench_Shotgun",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Bolt Action Rifle",
-      "ingredients": {
-        "Refined Wood": 12,
-        "Cured Leather": 1,
-        "Steel Ingot": 40,
-        "Epoxy": 4,
-        "Steel Screw": 10
-      },
-      "crafted_at": "Machining Bench",
+      "name": "Tusker",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "weapons",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Bolt_Action_Rifle",
-      "weight": "4.0 kg",
-      "crafting_stations": [
-        "Machining Bench"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Tusker",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ubis",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Ubis",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Viscid",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Viscid",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Volatile Substance",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Volatile_Substance",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wild Boar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wild_Boar",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Bow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Bow",
+      "weight": "0kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Javelin",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Shield",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Spear",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Woolly Mammoth",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Woolly_Mammoth",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Worker Bee",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Worker_Bee",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Workshop Repair Kit Bundle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Workshop_Repair_Kit_Bundle",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "World Boss Module",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/World_Boss_Module",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Worm Scale",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Worm_Scale",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wulv",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wulv",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Xenon Backpack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Xenon_Backpack",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Xiatau",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Xiatau",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Zebra",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "weapons",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Zebra",
+      "weight": "",
+      "crafting_stations": []
     }
   ]
 }

@@ -1,68 +1,945 @@
 {
   "category": "Tools",
-  "count": 80,
+  "count": 380,
   "items": [
     {
-      "name": "Black Wolf Knife",
-      "ingredients": {
-        "Black Wolf Tooth": 6,
-        "Leather": 4,
-        "Iron Ore": 4,
-        "Iron Nail": 2
-      },
-      "crafted_at": "Forge, Foundry",
+      "name": "5.56mm Miasmic Round",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 6,
+      "url": "https://icarus.fandom.com/en/wiki/5.56mm_Miasmic_Round",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "7.62mm Miasmic Round",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/7.62mm_Miasmic_Round",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "9mm Miasmic Round",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 9,
+      "url": "https://icarus.fandom.com/en/wiki/9mm_Miasmic_Round",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Acidic Glands",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Acidic_Glands",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Advanced Alteration Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Alteration_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Advanced Aquarium",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Aquarium",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Advanced Battery Rack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Battery_Rack",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Advanced Deep Mining Ore Scanner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Deep_Mining_Ore_Scanner",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Advanced Tool Attachment Pack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Advanced_Tool_Attachment_Pack",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Alpha Wolf",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Alpha_Wolf",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Alpha Wolf Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Alpha_Wolf_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Alteration Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Black_Wolf_Knife",
-      "weight": "0.5 kg",
+      "url": "https://icarus.fandom.com/en/wiki/Alteration_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aluminium Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Ore",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Antelope Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Antelope_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Anvil Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Anvil_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Aquarium",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Aquarium",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Arctic Pelt",
+      "ingredients": {
+        "Wool": 20,
+        "Fiber": 30
+      },
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Arctic_Pelt",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Arctic Scorpion Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Arctic_Scorpion_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Arid Striker",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Arid_Striker",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Arid Striker Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Arid_Striker_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ashen Drake Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Ashen_Drake_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Attack Speed Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Attack_Speed_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Automated Defense System: Pistol",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Automated_Defense_System:_Pistol",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "BEAST",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/BEAST",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Basic Battery Rack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Basic_Battery_Rack",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Basic Ceiling Light",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Basic_Ceiling_Light",
+      "weight": "0 kg",
       "crafting_stations": [
-        "Forge",
-        "Foundry"
+        "with the following resources:"
       ]
     },
     {
-      "name": "Black Wolf Throwing Knife",
+      "name": "Basic Wall Light",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Basic_Wall_Light",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Battery Powered Lantern",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Battery_Powered_Lantern",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bear Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bear_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Berry & Seed Bar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Berry_&_Seed_Bar",
+      "weight": "2kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Binoculars",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Binoculars",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biofuel Can",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Biofuel_Can",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biofuel Composter",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Biofuel_Composter",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biofuel Generator",
       "ingredients": {
-        "Black Wolf Tooth": 4,
-        "Leather": 4,
-        "Iron Ore": 2,
-        "Iron Nail": 6
+        "Steel Ingot": 20,
+        "Copper Wire": 40,
+        "Electronics": 12,
+        "Steel Screw": 20,
+        "Glass": 2
       },
-      "crafted_at": "Forge, Foundry",
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Biofuel_Generator",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biofuel Lamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Biofuel_Lamp",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biofuel Stove",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Biofuel_Stove",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Biomore Backpack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Biomore_Backpack",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Black Jaguar Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Black_Wolf_Throwing_Knife",
-      "weight": "0.2 kg",
+      "url": "https://icarus.fandom.com/en/wiki/Black_Jaguar_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Black Wolf Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Black_Wolf_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Black Wolf Tooth",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Black_Wolf_Tooth",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Blueback Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Blueback_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Bone",
+      "weight": "1 KG",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Bone_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Bone_Shield",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone Sickle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Bone_Sickle",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Buffalo Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Buffalo_Vestige",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Building Upgrade Tool",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Building_Upgrade_Tool",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "C0NT4CT Radio",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/C0NT4CT_Radio",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "CONT4CT Device",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/CONT4CT_Device",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "CX-400 Arms Armor",
+      "ingredients": {},
+      "crafted_at": "Prerequisite",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/CX-400_Arms_Armor",
+      "weight": "5 kg",
       "crafting_stations": [
-        "Forge",
-        "Foundry"
+        "Prerequisite"
       ]
+    },
+    {
+      "name": "CX-400 Chest Armor",
+      "ingredients": {},
+      "crafted_at": "Prerequisite",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/CX-400_Chest_Armor",
+      "weight": "5 kg",
+      "crafting_stations": [
+        "Prerequisite"
+      ]
+    },
+    {
+      "name": "CX-400 Feet Armor",
+      "ingredients": {},
+      "crafted_at": "Prerequisite",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/CX-400_Feet_Armor",
+      "weight": "5 kg",
+      "crafting_stations": [
+        "Prerequisite"
+      ]
+    },
+    {
+      "name": "CX-400 Head Armor",
+      "ingredients": {},
+      "crafted_at": "Prerequisite",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/CX-400_Head_Armor",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "Prerequisite"
+      ]
+    },
+    {
+      "name": "CX-400 Legs Armor",
+      "ingredients": {},
+      "crafted_at": "Prerequisite",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/CX-400_Legs_Armor",
+      "weight": "5 kg",
+      "crafting_stations": [
+        "Prerequisite"
+      ]
+    },
+    {
+      "name": "Calibrated Grip Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Calibrated_Grip_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carbon Fibre Round Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Carbon_Fibre_Round_Shield",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carbon Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Carbon_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carcass Harvesting Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Carcass_Harvesting_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Carpentry Bench",
+      "ingredients": {},
+      "crafted_at": "[",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Carpentry_Bench",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "["
+      ]
+    },
+    {
+      "name": "Cave Scanner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cave_Scanner",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Caveworm Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Caveworm_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cement Mixer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cement_Mixer",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chala Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Chala_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chamois Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Chamois_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.2.42.108807 - Week 67",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.42.108807_-_Week_67",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.3.10.114532 - Week 88",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.3.10.114532_-_Week_88",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v1.3.5.113110 - Week 83",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.3.5.113110_-_Week_83",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.0.5.116433 - Week 95",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.0.5.116433_-_Week_95",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.14.118795 - Week 111",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.14.118795_-_Week_111",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.18.119581 - Week 115",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.18.119581_-_Week_115",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.20.120106 - Week 117",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.20.120106_-_Week_117",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.1.5.117759 - Week 102",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.5.117759_-_Week_102",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.18.126568 - Week 143",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.18.126568_-_Week_143",
+      "weight": ".g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.21.127494 - Week 146",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.21.127494_-_Week_146",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.22.127885 - Week 147",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.22.127885_-_Week_147",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.27.129232 - Week 152",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.27.129232_-_Week_152",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.2.60.138841 - Week 185",
+      "ingredients": {},
+      "crafted_at": "[",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.60.138841_-_Week_185",
+      "weight": "5kg",
+      "crafting_stations": [
+        "["
+      ]
+    },
+    {
+      "name": "Changelog v2.2.62.139704 - Week 187",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.62.139704_-_Week_187",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.3.10.142613 - Week 199",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.10.142613_-_Week_199",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Changelog v2.3.9.142406 - Week 198",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.3.9.142406_-_Week_198",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chemistry Bench",
+      "ingredients": {},
+      "crafted_at": "with the following materials:",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Chemistry_Bench",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following materials:"
+      ]
+    },
+    {
+      "name": "Chicken",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Chicken",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Clay",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Clay",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Clay Brick",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Clay_Brick",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Coconut Cake Piece",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Coconut_Cake_Piece",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Arrow",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Cold Steel Axe",
       "ingredients": {},
-      "crafted_at": "Forge, Foundry",
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Axe",
+      "weight": "5Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Bolt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Bolt",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Ingot",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Ingot",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Cold_Steel_Axe",
-      "weight": "0.5Kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Javelin",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Cold Steel Knife",
       "ingredients": {},
-      "crafted_at": "Forge, Foundry",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Cold_Steel_Knife",
-      "weight": "0.5 Kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Knife",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Cold Steel Pickaxe",
@@ -72,924 +949,2966 @@
         "Steel Screw": 10,
         "Fur": 5
       },
-      "crafted_at": "Forge, Foundry",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Cold_Steel_Pickaxe",
-      "weight": "0.5 Kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Pickaxe",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Cold Steel Sickle",
-      "ingredients": {
-        "Cold Steel Ingot": 5,
-        "Refined Wood": 5,
-        "Steel Screw": 10,
-        "Fur": 5
-      },
-      "crafted_at": "Forge, Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Cold_Steel_Sickle",
-      "weight": "0.5 Kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Sickle",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Cold Steel Sledgehammer",
-      "ingredients": {
-        "Cold Steel Ingot": 15,
-        "Refined Wood": 20,
-        "Iron Nail": 10,
-        "Fur": 5
-      },
-      "crafted_at": "Forge, Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Cold_Steel_Sledgehammer",
-      "weight": "0.5 Kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Sledgehammer",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cold Steel Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Spear",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Cold Steel Throwing Knife",
-      "ingredients": {
-        "Cold Steel Ingot": 5,
-        "Refined Wood": 5,
-        "Steel Screw": 10,
-        "Fur": 5
-      },
-      "crafted_at": "Forge, Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Cold_Steel_Throwing_Knife",
-      "weight": "0.5 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Throwing_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Columbian Mammoth Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Columbian_Mammoth_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Combat Knife",
-      "ingredients": {
-        "Steel Ingot": 12,
-        "Steel Screw": 2,
-        "Carbon Fiber": 2,
-        "Epoxy": 4
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Combat_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Composite Dropship Recall Beacon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Combat_Knife",
-      "weight": "0.5 kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Dropship_Recall_Beacon",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Composite Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Composite Tactical Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Composite_Tactical_Shield",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Condensed Enzymes",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Condensed_Enzymes",
+      "weight": "2 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Copper Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Copper_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Copper Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Copper_Ore",
+      "weight": "4 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cougar Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Cougar_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crafting Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Crafting_Bench",
+      "weight": "0kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crocodile",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Crocodile",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crocodile Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Crocodile_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Crystallized Miasma",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Crystallized_Miasma",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Cured Leather",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Cured_Leather",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Deep Mining Ore Scanner",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Deep_Mining_Ore_Scanner",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Deer Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Deer_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Directional Worklamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Directional_Worklamp",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dirt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dirt",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dirt Mounds",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Dirt_Mounds",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Distilled Miasmic Coating",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Distilled_Miasmic_Coating",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Drac",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Drac",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Drac Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Drac_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dreadwing",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dreadwing",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Dreadwing Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Dreadwing_Vestige",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Drifter",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Drifter",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Carpentry Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Carpentry_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Composter",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Composter",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Electric Deep-Mining Drill",
-      "ingredients": {
-        "Aluminium Ingot": 25,
-        "Electronics": 15,
-        "Steel Screw": 12,
-        "Titanium Ingot": 8,
-        "Carbon Fiber": 8
-      },
-      "crafted_at": "Fabricator",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
       "category": "tools",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Electric_Deep-Mining_Drill",
-      "weight": "10.0 kg",
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Deep-Mining_Drill",
+      "weight": "0 kg",
       "crafting_stations": [
-        "Fabricator"
+        "with the following resources:"
       ]
     },
     {
-      "name": "Inaris \"Cerulean\" Knife",
-      "ingredients": {},
-      "crafted_at": "Character",
+      "name": "Electric Dehumidifier",
+      "ingredients": {
+        "Aluminium Ingot": 20,
+        "Glass": 15,
+        "Electronics": 35,
+        "Steel Screw": 12,
+        "Composites": 20
+      },
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Cerulean%22_Knife",
-      "weight": "0.5 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Dehumidifier",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Inaris \"Claret\" Pickaxe",
-      "ingredients": {},
-      "crafted_at": "Character",
+      "name": "Electric Extractor",
+      "ingredients": {
+        "Iron Ingot": 20,
+        "Electronics": 5
+      },
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Claret%22_Pickaxe",
-      "weight": "1.0 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Extractor",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Inaris \"Crimson\" Knife",
+      "name": "Electric Fireplace",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Crimson%22_Knife",
-      "weight": "0.5 kg"
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Fireplace",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Furnace",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "tools",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Furnace",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Electric Masonry Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Masonry_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Radar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Radar",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Stove",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Stove",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Textiles Bench",
+      "ingredients": {},
+      "crafted_at": "Tier 4",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Textiles_Bench",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "Tier 4"
+      ]
+    },
+    {
+      "name": "Electric Water Pump",
+      "ingredients": {
+        "Steel Ingot": 24,
+        "Electronics": 4,
+        "Concrete Mix": 20,
+        "Steel Screw": 16
+      },
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electric_Water_Pump",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electricity Tool",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electricity_Tool",
+      "weight": "1 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Electrolytic Oxygen Synthesizer",
+      "ingredients": {
+        "Titanium Plate": 2,
+        "Glass": 10,
+        "Electronics": 20,
+        "Copper Wire": 70
+      },
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Electrolytic_Oxygen_Synthesizer",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Elephant",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Elephant",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Elephant Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Elephant_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Encrypted Satellite Upgrade",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Encrypted_Satellite_Upgrade",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Energy Bar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Energy_Bar",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Enzyme Geysers",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Enzyme_Geysers",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Equix Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Equix_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Excortis the Wooly",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Excortis_the_Wooly",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Exotic Harvester",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Exotic_Harvester",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Exotics",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Exotics",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "F.I.S.H.",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/F.I.S.H.",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fabricator",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fabricator",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Farmers Satchel",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Farmers_Satchel",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fire Extinguisher",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Fire_Extinguisher",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fire Whacker",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Fire_Whacker",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Flashlight",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Flashlight",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Flow Meter",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Flow_Meter",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Forge",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Forge",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Foundry",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Frozen Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Frozen_Ore",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fur",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Fur",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glaci",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Glaci",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glaci Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Glaci_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Glassworking Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Glassworking_Bench",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Gold Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Gold_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Gold Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Gold_Ore",
+      "weight": "4kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Gorse Flower",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Gorse_Flower",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Grizzly Bear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Grizzly_Bear",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Honeycomb Bar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Honeycomb_Bar",
+      "weight": "2kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Hydroponic Crop Plot",
+      "ingredients": {},
+      "crafted_at": "with the following resources:",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Hydroponic_Crop_Plot",
+      "weight": "0 kg",
+      "crafting_stations": [
+        "with the following resources:"
+      ]
+    },
+    {
+      "name": "Hyena Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Hyena_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "IC-001 Prototype Power Source",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/IC-001_Prototype_Power_Source",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ice",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Ice",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ignari",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Ignari",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ignari Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Ignari_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Dawn\" Axe",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Dawn%22_Axe",
-      "weight": "1.0 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Dawn\"_Axe",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Dias\" Axe",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Dias%22_Axe",
-      "weight": "1.0 kg"
-    },
-    {
-      "name": "Inaris \"Ersa\" Axe",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Ersa%22_Axe",
-      "weight": "1.0 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Dias\"_Axe",
+      "weight": "0G",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Neves\" Pickaxe",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Neves%22_Pickaxe",
-      "weight": "1.0 kg"
-    },
-    {
-      "name": "Inaris \"Night\" Pickaxe",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Night%22_Pickaxe",
-      "weight": "1.0 kg"
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Neves\"_Pickaxe",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Reaper\" Sickle",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Reaper%22_Sickle",
-      "weight": "1.0 kg"
-    },
-    {
-      "name": "Inaris \"Sali\" Axe",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Sali%22_Axe",
-      "weight": "1.0 kg"
-    },
-    {
-      "name": "Inaris \"Shade\" Knife",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Shade%22_Knife",
-      "weight": "0.5 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Reaper\"_Sickle",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Ventura\" Knife",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Ventura%22_Knife",
-      "weight": "1.0 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Ventura\"_Knife",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Inaris \"Viridian\" Pickaxe",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Inaris_%22Viridian%22_Pickaxe",
-      "weight": "1.0 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Viridian\"_Pickaxe",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Infected Bark",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Infected_Bark",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ion Backpack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Ion_Backpack",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Axe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Axe",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Nail",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Nail",
+      "weight": "1kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Ore",
+      "weight": "4 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Pickaxe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Pickaxe",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Shears",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Shears",
+      "weight": "0kg",
+      "crafting_stations": []
     },
     {
       "name": "Iron Sickle",
-      "ingredients": {
-        "Wood": 4,
-        "Leather": 4,
-        "Iron Ingot": 10
-      },
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Sickle",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Sledgehammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Sledgehammer",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Iron_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Jaguar Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Jaguar_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Kea",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Kea",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Kea Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Kea_Vestige",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Komodo",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Komodo",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Komodo Vestige",
+      "ingredients": {},
       "crafted_at": "Unknown",
       "category": "tools",
       "tier": 2,
-      "url": "https://icarus.fandom.com/wiki/Iron_Sickle",
-      "weight": "0.5kg"
+      "url": "https://icarus.fandom.com/en/wiki/Komodo_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Larkwell Martinez Axe",
+      "name": "Lantern",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Axe",
-      "weight": "1.0 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Lantern",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Larkwell Martinez Hammer",
-      "ingredients": {},
-      "crafted_at": "Character",
+      "name": "Large Water Trough",
+      "ingredients": {
+        "Wood": 80,
+        "Tree Sap": 12,
+        "Iron Nail": 32
+      },
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Hammer",
-      "weight": "1.0 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Large_Water_Trough",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Larkwell Martinez Knife",
+      "name": "Lava Broodling",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Knife",
-      "weight": "0.5 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Lava_Broodling",
+      "weight": "",
+      "crafting_stations": []
     },
     {
-      "name": "Larkwell Martinez Pickaxe",
+      "name": "Lava Broodling Vestige",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Pickaxe",
-      "weight": "1.0 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Lava_Broodling_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
     },
     {
-      "name": "Larkwell Martinez Sickle",
+      "name": "Lava Hunter",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Sickle",
-      "weight": "1.0 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Lava_Hunter",
+      "weight": "",
+      "crafting_stations": []
     },
     {
-      "name": "MXC Axe",
+      "name": "Leather",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/MXC_Axe",
-      "weight": "0.1 kg"
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Leather",
+      "weight": "0g",
+      "crafting_stations": []
     },
     {
-      "name": "MXC Hammer",
+      "name": "Leather Attachment",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/MXC_Hammer",
-      "weight": "0.1 kg"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Leather_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
-      "name": "MXC Knife",
+      "name": "Leather Backpack",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/MXC_Knife",
-      "weight": "0.1 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Leather_Backpack",
+      "weight": "5Kg",
+      "crafting_stations": []
     },
     {
-      "name": "MXC Pickaxe",
+      "name": "Lily",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/MXC_Pickaxe",
-      "weight": "0.1 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Lily",
+      "weight": "0 g",
+      "crafting_stations": []
     },
     {
-      "name": "MXC Sickle",
+      "name": "Localized Terraforming Device",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/MXC_Sickle",
-      "weight": "1.0 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Localized_Terraforming_Device",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "MXC Firewhacker",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/MXC_Firewhacker",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "MXC Fuel Canister",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/MXC_Fuel_Canister",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "MXC Hydrazine Canister",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/MXC_Hydrazine_Canister",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Machete",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Machete",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Machining Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Machining_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Mammoth Tusk",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Mammoth_Tusk",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Marble Kitchen Bench",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Marble_Kitchen_Bench",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Material Processor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Material_Processor",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Medical Satchel",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Medical_Satchel",
+      "weight": "2 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Melee Damage Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Melee_Damage_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Metal Rain Reservoir",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Metal_Rain_Reservoir",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Metal Water Trough",
+      "ingredients": {
+        "Aluminium Ingot": 30,
+        "Iron Ingot": 15,
+        "Steel Screw": 15
+      },
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Metal_Water_Trough",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Miasmic Arrow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Arrow",
+      "weight": "3 kg",
+      "crafting_stations": []
     },
     {
       "name": "Miasmic Axe",
-      "ingredients": {
-        "Carbon Fiber": 4,
-        "Steel Screw": 8,
-        "Epoxy": 4,
-        "Titanium Ingot": 6,
-        "Distilled Miasmic Coating": 6,
-        "Refined Wood": 10
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Miasmic_Axe",
-      "weight": "0.5 kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Axe",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Miasmic Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Javelin",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Miasmic Knife",
-      "ingredients": {
-        "Carbon Fiber": 4,
-        "Steel Screw": 2,
-        "Epoxy": 4,
-        "Titanium Ingot": 4,
-        "Distilled Miasmic Coating": 4,
-        "Refined Wood": 5
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Miasmic_Knife",
-      "weight": "0.5 Kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Knife",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Miasmic Pickaxe",
-      "ingredients": {
-        "Carbon Fiber": 4,
-        "Steel Screw": 8,
-        "Epoxy": 4,
-        "Titanium Ingot": 6,
-        "Distilled Miasmic Coating": 6,
-        "Refined Wood": 10
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Miasmic_Pickaxe",
-      "weight": "0.5 kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Pickaxe",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Miasmic Sickle",
-      "ingredients": {
-        "Carbon Fiber": 4,
-        "Steel Screw": 2,
-        "Epoxy": 4,
-        "Titanium Ingot": 5,
-        "Distilled Miasmic Coating": 5,
-        "Refined Wood": 5
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Miasmic_Sickle",
-      "weight": "0.5 Kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Sickle",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Miasmic Sledgehammer",
-      "ingredients": {
-        "Titanium Ingot": 8,
-        "Carbon Fiber": 6,
-        "Steel Screw": 10,
-        "Distilled Miasmic Coating": 8,
-        "Refined Wood": 20
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Miasmic_Sledgehammer",
-      "weight": "0.5 Kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Sledgehammer",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Miasmic Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Spear",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Miasmic Throwing Knife",
-      "ingredients": {
-        "Carbon Fiber": 2,
-        "Steel Screw": 4,
-        "Epoxy": 4,
-        "Titanium Ingot": 3,
-        "Distilled Miasmic Coating": 3,
-        "Refined Wood": 5
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Miasmic_Throwing_Knife",
-      "weight": "0.5 kg",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Throwing_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Moa Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Moa_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Mortar and Pestle",
+      "ingredients": {},
+      "crafted_at": "Resources",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Mortar_and_Pestle",
+      "weight": "0 Kg",
       "crafting_stations": [
-        "Foundry"
+        "Resources"
       ]
     },
     {
-      "name": "Mining Armature",
-      "ingredients": {
-        "Legendary Licence": 1
-      },
-      "crafted_at": "Bio-lab",
+      "name": "Needler",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Needler",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Needler Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Needler_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Norex Boss Tracker Upgrade",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Norex_Boss_Tracker_Upgrade",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Noxious Crust",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Noxious_Crust",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian Sledgehammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Sledgehammer",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Obsidian Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Spear",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Omnidirectional Worklamp",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Omnidirectional_Worklamp",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Organic Residue Cleanser",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 0,
-      "url": "https://icarus.fandom.com/wiki/Mining_Armature",
-      "weight": "8.0 kg",
-      "crafting_stations": [
-        "Bio-lab"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Organic_Residue_Cleanser",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ornate Water Trough",
+      "ingredients": {
+        "Concrete Mix": 30,
+        "Tree Sap": 30,
+        "Stone": 25
+      },
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Ornate_Water_Trough",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Platinum Axe",
       "ingredients": {},
-      "crafted_at": "Forge, Foundry",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Platinum_Axe",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Axe",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Platinum Hammer",
-      "ingredients": {
-        "Refined Wood": 5,
-        "Epoxy": 4,
-        "Platinum Ingot": 6,
-        "Steel Screw": 2
-      },
-      "crafted_at": "Forge, Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Platinum_Hammer",
-      "weight": "1.0kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Hammer",
+      "weight": "0kg",
+      "crafting_stations": []
     },
     {
       "name": "Platinum Knife",
-      "ingredients": {
-        "Refined Wood": 2,
-        "Cured Leather": 1,
-        "Platinum Ingot": 12
-      },
-      "crafted_at": "Forge, Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Platinum_Knife",
-      "weight": "0.5 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Lightning Rod",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Lightning_Rod",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Ore",
+      "weight": "0g",
+      "crafting_stations": []
     },
     {
       "name": "Platinum Pickaxe",
-      "ingredients": {
-        "Refined Wood": 2,
-        "Cured Leather": 1,
-        "Platinum Ingot": 12
-      },
-      "crafted_at": "Forge, Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Platinum_Pickaxe",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Pickaxe",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Shield",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Platinum Shovel",
-      "ingredients": {
-        "Platinum Ingot": 4,
-        "Iron Ingot": 6
-      },
-      "crafted_at": "Forge, Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Platinum_Shovel",
-      "weight": "0.5 Kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Shovel",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Platinum Sickle",
-      "ingredients": {
-        "Refined Wood": 4,
-        "Cured Leather": 1,
-        "Platinum Ingot": 10
-      },
-      "crafted_at": "Forge, Foundry",
-      "category": "tools",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Platinum_Sickle",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
-    },
-    {
-      "name": "Platinum Throwing Knife",
-      "ingredients": {
-        "Refined Wood": 4,
-        "Cured Leather": 1,
-        "Platinum Ingot": 8
-      },
-      "crafted_at": "Forge, Foundry",
-      "category": "tools",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Platinum_Throwing_Knife",
-      "weight": "0.2 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
-    },
-    {
-      "name": "Sandworm Knife",
-      "ingredients": {
-        "Wood": 2,
-        "Leather": 2,
-        "Sandworm Scale": 5
-      },
-      "crafted_at": "Forge, Foundry",
-      "category": "tools",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Sandworm_Knife",
-      "weight": "0.5 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
-    },
-    {
-      "name": "Sandworm Throwing Knife",
-      "ingredients": {
-        "Wood": 4,
-        "Leather": 4,
-        "Sandworm Scale": 4
-      },
-      "crafted_at": "Forge, Foundry",
-      "category": "tools",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/wiki/Sandworm_Throwing_Knife",
-      "weight": "0.2 kg",
-      "crafting_stations": [
-        "Forge",
-        "Foundry"
-      ]
-    },
-    {
-      "name": "Shengong \"Akira\" Hammer",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Akira%22_Hammer",
-      "weight": "0.1 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Sickle",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Platinum_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Polar Bear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Polar_Bear",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Polar Bear Cub",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Polar_Bear_Cub",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Polar Bear Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Polar_Bear_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Portable Biofuel Generator",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Portable_Biofuel_Generator",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Portable Icebox Backpack",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Portable_Icebox_Backpack",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Potato",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Potato",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Potbelly Stove",
+      "ingredients": {},
+      "crafted_at": "",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Potbelly_Stove",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Powered Creature Deterrent",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Powered_Creature_Deterrent",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Prime Meat Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Prime_Meat_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Pronghorn Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Pronghorn_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Prototype Thumper",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Prototype_Thumper",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Prototype Trail Beacon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Prototype_Trail_Beacon",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Prototype Trail Beacon Tool",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Prototype_Trail_Beacon_Tool",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Pygmy Lop Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Pygmy_Lop_Vestige",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rabbit Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Rabbit_Vestige",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Bacon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Bacon",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Chicken",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Chicken",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Raw Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Raw_Meat",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Reaping Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Reaping_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Redback Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Redback_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Reed Flower",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Reed_Flower",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Refined Gold",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Refined_Gold",
+      "weight": "2kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Refined Wood",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Refined_Wood",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Repair Speed Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Repair_Speed_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Roat Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Roat_Vestige",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Salt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Salt",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sand",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sand",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sandbox - manormachine",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Sandbox_-_manormachine",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sandworm Scale",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sandworm_Scale",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scoria",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scoria",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Scorpion Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Scorpion_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Seed Cracker",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Seed_Cracker",
+      "weight": "2kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Seed Extractor",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Seed_Extractor",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Seed Pouch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Seed_Pouch",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Seeds",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Seeds",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shaggy Zebra Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shaggy_Zebra_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shaped Obsidian",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shaped_Obsidian",
+      "weight": "0 kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong \"Daokou\" Knife",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Daokou%22_Knife",
-      "weight": "0.1kg"
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Daokou\"_Knife",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong \"Dong\" Pickaxe",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Dong%22_Pickaxe",
-      "weight": "0.1kg"
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Dong\"_Pickaxe",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
-      "name": "Shengong \"Heike\" Axe",
+      "name": "Shengong \"Gong Bu\" Spear",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Heike%22_Axe",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Shengong \"Jushi\" Pickaxe",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Jushi%22_Pickaxe",
-      "weight": "0.1kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Gong_Bu\"_Spear",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong \"Kuang\" Pickaxe",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%22Kuang%22_Pickaxe",
-      "weight": "0.1kg"
-    },
-    {
-      "name": "Shengong 'Akira' Hammer",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Akira%27_Hammer",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Shengong 'Daokou' Knife",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Daokou%27_Knife",
-      "weight": "0.1kg"
-    },
-    {
-      "name": "Shengong 'Dong' Pickaxe",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Dong%27_Pickaxe",
-      "weight": "0.1kg"
-    },
-    {
-      "name": "Shengong 'Heike' Axe",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Heike%27_Axe",
-      "weight": "0.1 kg"
-    },
-    {
-      "name": "Shengong 'Jushi' Pickaxe",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Jushi%27_Pickaxe",
-      "weight": "0.1kg"
-    },
-    {
-      "name": "Shengong 'Kuang' Pickaxe",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Kuang%27_Pickaxe",
-      "weight": "0.1kg"
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Kuang\"_Pickaxe",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong 'Lie' Axe",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Lie%27_Axe",
-      "weight": "0.1kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_'Lie'_Axe",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong 'Qie' Knife",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Qie%27_Knife",
-      "weight": "0.1kg"
-    },
-    {
-      "name": "Shengong 'Sen' Axe",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Sen%27_Axe",
-      "weight": "0.1kg"
-    },
-    {
-      "name": "Shengong 'Shui' Knife",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Shui%27_Knife",
-      "weight": "0.1kg"
-    },
-    {
-      "name": "Shengong 'Sichou' Knife",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Sichou%27_Knife",
-      "weight": "0.1kg"
-    },
-    {
-      "name": "Shengong 'Sui Shi' Pickaxe",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Sui_Shi%27_Pickaxe",
-      "weight": "0.1kg"
-    },
-    {
-      "name": "Shengong 'Tetsuo' Hammer",
-      "ingredients": {},
-      "crafted_at": "Character",
-      "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Tetsuo%27_Hammer",
-      "weight": "0.1 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_'Qie'_Knife",
+      "weight": "1kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong CY7 Axe",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_CY7_Axe",
-      "weight": "0.1 kg"
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_CY7_Axe",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shengong CZ4 Bow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_CZ4_Bow",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong DL7 Knife",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_DL7_Knife",
-      "weight": "0.1 kg"
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_DL7_Knife",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shengong HS2 Bow",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_HS2_Bow",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shengong PF1 Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_PF1_Spear",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Shengong UT5 Pickaxe",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Shengong_UT5_Pickaxe",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Shovel",
+      "ingredients": {
+        "Wood": 4,
+        "Iron Ingot": 6
+      },
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Shovel",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sinotai Dropship Recall Beacon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sinotai_Dropship_Recall_Beacon",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Skinning Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Skinning_Bench",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Small Blue Pouch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Small_Blue_Pouch",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Small Composite Sign",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Small_Composite_Sign",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Small Green Pouch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Small_Green_Pouch",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Small Pouch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Small_Pouch",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Small Red Pouch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Small_Red_Pouch",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Small Tree",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Small_Tree",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snow Leopard Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Snow_Leopard_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snow Rabbit Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Snow_Rabbit_Vestige",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snow Stalker Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Snow_Stalker_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Snow Wolf Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Snow_Wolf_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Solar Panel",
+      "ingredients": {
+        "Electronics": 30,
+        "Steel Screw": 10,
+        "Glass": 60,
+        "Composites": 18,
+        "Carbon Fiber": 8
+      },
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Solar_Panel",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stabilized Exotics",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stabilized_Exotics",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Axe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Axe",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Hammer",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Hammer",
+      "weight": "5kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Heater Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Heater_Shield",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Pickaxe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Pickaxe",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Screw",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Screw",
+      "weight": "1Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Steel Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Steel_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stick",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/Shengong_UT5_Pickaxe",
-      "weight": "1.0 kg"
+      "url": "https://icarus.fandom.com/en/wiki/Stick",
+      "weight": "1Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Brick",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Brick",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Pickaxe",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Pickaxe",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stone Water Trough",
+      "ingredients": {
+        "Stone": 50,
+        "Tree Sap": 20
+      },
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stone_Water_Trough",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stonejaw",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stonejaw",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stonejaw Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Stonejaw_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stryder",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Stryder",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stryder Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Stryder_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sugar Cane",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Sugar_Cane",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Super Cooled Ice",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Super_Cooled_Ice",
+      "weight": "3 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Tackle Box",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Tackle_Box",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Talents",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Talents",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Taxidermy Knife",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Taxidermy_Knife",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Tea",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Tea",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Terrenus Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Terrenus_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Textiles Bench",
+      "ingredients": {},
+      "crafted_at": "Tech Tree",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Textiles_Bench",
+      "weight": "0kg",
+      "crafting_stations": [
+        "Tech Tree"
+      ]
     },
     {
       "name": "The Excavator",
       "ingredients": {},
-      "crafted_at": "Character",
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/wiki/The_Excavator",
-      "weight": "0.5 Kg"
+      "tier": 9,
+      "url": "https://icarus.fandom.com/en/wiki/The_Excavator",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Threshing Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Threshing_Attachment",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Attachment",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Attachment",
+      "weight": "1 kg",
+      "crafting_stations": []
     },
     {
       "name": "Titanium Axe",
-      "ingredients": {
-        "Carbon Fiber": 4,
-        "Steel Screw": 8,
-        "Epoxy": 4,
-        "Titanium Ingot": 12
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Tier 4",
       "category": "tools",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Titanium_Axe",
-      "weight": "0.5 kg",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Axe",
+      "weight": "5 kg",
       "crafting_stations": [
-        "Foundry"
+        "Tier 4"
       ]
     },
     {
       "name": "Titanium Hammer",
-      "ingredients": {
-        "Carbon Fiber": 4,
-        "Steel Screw": 10,
-        "Epoxy": 4,
-        "Titanium Ingot": 10
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Titanium_Hammer",
-      "weight": "1.0 kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Hammer",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Ingot",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Ingot",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Javelin",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Javelin",
+      "weight": "4 kg",
+      "crafting_stations": []
     },
     {
       "name": "Titanium Knife",
-      "ingredients": {
-        "Carbon Fiber": 4,
-        "Steel Screw": 2,
-        "Epoxy": 4,
-        "Titanium Ingot": 8
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Titanium_Knife",
-      "weight": "0.5 kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Knife",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Ore",
+      "weight": "0g",
+      "crafting_stations": []
     },
     {
       "name": "Titanium Pickaxe",
-      "ingredients": {
-        "Carbon Fiber": 4,
-        "Steel Screw": 8,
-        "Epoxy": 4,
-        "Titanium Ingot": 12
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Titanium_Pickaxe",
-      "weight": "0.5 kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "tier": 1,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Pickaxe",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
       "name": "Titanium Shovel",
-      "ingredients": {
-        "Titanium Ingot": 4,
-        "Carbon Fiber": 6
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Titanium_Shovel",
-      "weight": "0.5 Kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Shovel",
+      "weight": "5 Kg",
+      "crafting_stations": []
     },
     {
       "name": "Titanium Sickle",
-      "ingredients": {
-        "Carbon Fiber": 4,
-        "Steel Screw": 2,
-        "Epoxy": 4,
-        "Titanium Ingot": 10
-      },
-      "crafted_at": "Foundry",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Titanium_Sickle",
-      "weight": "0.5 kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Sickle",
+      "weight": "5 kg",
+      "crafting_stations": []
     },
     {
-      "name": "Titanium Throwing Knife",
-      "ingredients": {
-        "Carbon Fiber": 2,
-        "Steel Screw": 4,
-        "Epoxy": 4,
-        "Titanium Ingot": 6
-      },
-      "crafted_at": "Foundry",
+      "name": "Titanium Spear",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Spear",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Tower Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "category": "tools",
       "tier": 4,
-      "url": "https://icarus.fandom.com/wiki/Titanium_Throwing_Knife",
-      "weight": "0.2 kg",
-      "crafting_stations": [
-        "Foundry"
-      ]
+      "url": "https://icarus.fandom.com/en/wiki/Titanium_Tower_Shield",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Trophy Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Trophy_Bench",
+      "weight": "0kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Tusker Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Tusker_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ubis",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Ubis",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ubis Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 2,
+      "url": "https://icarus.fandom.com/en/wiki/Ubis_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Viscid",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Viscid",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Viscid Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Viscid_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Volatile Exotic Seed",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Volatile_Exotic_Seed",
+      "weight": "1 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Volatile Raw Exotics",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Volatile_Raw_Exotics",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Water Barrel",
+      "ingredients": {
+        "Iron Ingot": 4,
+        "Refined Wood": 40,
+        "Epoxy": 4
+      },
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Water_Barrel",
+      "weight": "0 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Water Bomb",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Water_Bomb",
+      "weight": "4 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Water Pipe Tool",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Water_Pipe_Tool",
+      "weight": "1 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Water Sprinkler",
+      "ingredients": {
+        "Steel Ingot": 2,
+        "Epoxy": 4,
+        "Copper Wire": 4
+      },
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Water_Sprinkler",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Water Wheel",
+      "ingredients": {
+        "Organic Resin": 25,
+        "Stone": 50,
+        "Wood": 100,
+        "Steel Ingot": 10,
+        "Electronics": 10,
+        "Copper Nail": 50
+      },
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Water_Wheel",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Watering Can",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 0,
+      "url": "https://icarus.fandom.com/en/wiki/Watering_Can",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wheat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wheat",
+      "weight": "5 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wild Boar",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wild_Boar",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wild Boar Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wild_Boar_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wind Turbine",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wind_Turbine",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wolf Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wolf_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood",
+      "weight": "0g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Rag Torch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Rag_Torch",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Shield",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 5,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Shield",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wood Torch",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wood_Torch",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wooden Shovel",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wooden_Shovel",
+      "weight": "5 kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wool",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wool",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Woolly Mammoth",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Woolly_Mammoth",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Woolly Mammoth Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 3,
+      "url": "https://icarus.fandom.com/en/wiki/Woolly_Mammoth_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Worker Bee",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Worker_Bee",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Workshop Repair Kit Bundle",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Workshop_Repair_Kit_Bundle",
+      "weight": "5 Kg",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wulv",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Wulv",
+      "weight": "",
+      "crafting_stations": []
+    },
+    {
+      "name": "Yeast",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Yeast",
+      "weight": "0 g",
+      "crafting_stations": []
+    },
+    {
+      "name": "Zebra Vestige",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "tools",
+      "tier": 4,
+      "url": "https://icarus.fandom.com/en/wiki/Zebra_Vestige",
+      "weight": "0 Kg",
+      "crafting_stations": []
     }
   ]
 }
