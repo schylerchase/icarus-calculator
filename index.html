@@ -887,6 +887,32 @@
             const [itemQuantities, setItemQuantities] = useState({});
             const [isCalculating, setIsCalculating] = useState(false);
             const resultsRef = useRef(null);
+            const [activeTalents, setActiveTalents] = useState(new Set());
+            const [showTalentPanel, setShowTalentPanel] = useState(false);
+
+            // Crafting-related talents that affect recipes
+            const CRAFTING_TALENTS = {
+                "Ammunition: Munitions": {
+                    description: "Craft ammunition at +50% output",
+                    category: "Combat"
+                },
+                "Ammunition: Freebies": {
+                    description: "5% chance to craft double ammunition",
+                    category: "Combat"
+                },
+                "Pistol Proficiency": {
+                    description: "Craft pistol ammo at -25% cost",
+                    category: "Combat"
+                },
+                "Rifle Proficiency": {
+                    description: "Craft rifle ammo at -25% cost",
+                    category: "Combat"
+                },
+                "Shotgun Proficiency": {
+                    description: "Craft shotgun ammo at -25% cost",
+                    category: "Combat"
+                }
+            };
 
             // Load cart from localStorage on mount
             useEffect(() => {
@@ -897,8 +923,15 @@
                         setShoppingCart(parsed);
                         console.log('📦 Loaded cart from localStorage:', parsed);
                     }
+                    
+                    const savedTalents = localStorage.getItem('icarusCalculatorTalents');
+                    if (savedTalents) {
+                        const parsed = JSON.parse(savedTalents);
+                        setActiveTalents(new Set(parsed));
+                        console.log('🎯 Loaded talents from localStorage:', parsed);
+                    }
                 } catch (err) {
-                    console.warn('Failed to load cart from localStorage:', err);
+                    console.warn('Failed to load from localStorage:', err);
                 }
             }, []);
 
@@ -915,6 +948,20 @@
                     console.warn('Failed to save cart to localStorage:', err);
                 }
             }, [shoppingCart]);
+
+            // Save talents to localStorage whenever they change
+            useEffect(() => {
+                try {
+                    if (activeTalents.size > 0) {
+                        localStorage.setItem('icarusCalculatorTalents', JSON.stringify(Array.from(activeTalents)));
+                        console.log('💾 Saved talents to localStorage');
+                    } else {
+                        localStorage.removeItem('icarusCalculatorTalents');
+                    }
+                } catch (err) {
+                    console.warn('Failed to save talents to localStorage:', err);
+                }
+            }, [activeTalents]);
 
             useEffect(() => {
                 loadRecipes();
@@ -1018,7 +1065,19 @@ Protocol: ${window.location.protocol}`);
                             const processItem = (item) => {
                                 if (!item || !item.name) return;
                                 
-                                // Convert ingredients format
+                                // Handle new format with multiple recipes
+                                if (item.recipes && Array.isArray(item.recipes)) {
+                                    allRecipes[item.name] = {
+                                        recipes: item.recipes,
+                                        crafted_at: item.crafted_at || 'Unknown',
+                                        category: item.category || 'Unknown',
+                                        tier: item.tier || 0,
+                                        map_exclusive: item.map_exclusive || null
+                                    };
+                                    return;
+                                }
+                                
+                                // Handle old format with single ingredients object
                                 const ingredients = {};
                                 if (item.ingredients && typeof item.ingredients === 'object') {
                                     Object.entries(item.ingredients).forEach(([key, value]) => {
@@ -1030,6 +1089,7 @@ Protocol: ${window.location.protocol}`);
                                 
                                 allRecipes[item.name] = {
                                     ingredients: ingredients,
+                                    output_quantity: item.output_quantity || 1,
                                     crafted_at: item.crafted_at || 'Unknown',
                                     category: item.category || 'Unknown',
                                     tier: item.tier || 0,
@@ -1107,6 +1167,43 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
 
             const categories = [...new Set(Object.values(recipes).map(r => r.category))].sort();
             const tiers = [...new Set(Object.values(recipes).map(r => r.tier))].sort();
+
+            const toggleTalent = (talent) => {
+                setActiveTalents(prev => {
+                    const newSet = new Set(prev);
+                    if (newSet.has(talent)) {
+                        newSet.delete(talent);
+                    } else {
+                        newSet.add(talent);
+                    }
+                    return newSet;
+                });
+            };
+
+            const getBestRecipe = (item) => {
+                const recipe = recipes[item];
+                if (!recipe) return null;
+                
+                // If recipe has multiple recipes array, find best match
+                if (recipe.recipes && Array.isArray(recipe.recipes)) {
+                    // Find recipe with matching talent
+                    for (const rec of recipe.recipes) {
+                        if (rec.talent && activeTalents.has(rec.talent)) {
+                            return rec;
+                        }
+                    }
+                    // Return first recipe without talent requirement
+                    const baseRecipe = recipe.recipes.find(r => !r.talent);
+                    return baseRecipe || recipe.recipes[0];
+                }
+                
+                // Old format - single recipe
+                return {
+                    ingredients: recipe.ingredients || {},
+                    output_quantity: recipe.output_quantity || 1,
+                    talent: null
+                };
+            };
 
             const toggleChecked = (itemKey) => {
                 setCheckedItems(prev => ({
@@ -1191,7 +1288,11 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                     return false;
                 }
                 
-                const requiredMaterials = Object.keys(recipe.ingredients || {});
+                // Get the best recipe based on active talents
+                const bestRecipe = getBestRecipe(item);
+                if (!bestRecipe) return false;
+                
+                const requiredMaterials = Object.keys(bestRecipe.ingredients || {});
                 
                 if (requiredMaterials.length === 0) {
                     const isAvailable = MAP_RESOURCES[map]?.includes(item) || 
@@ -1337,7 +1438,11 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                         
                         if (path.includes(item)) return;
                         
-                        if (Object.keys(recipe.ingredients).length === 0) {
+                        // Get the best recipe for this item
+                        const bestRecipe = getBestRecipe(item);
+                        if (!bestRecipe) return;
+                        
+                        if (Object.keys(bestRecipe.ingredients).length === 0) {
                             rawMaterials[item] = (rawMaterials[item] || 0) + quantity;
                             return;
                         }
@@ -1348,13 +1453,15 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                                 craftedAt: recipe.crafted_at,
                                 tier: recipe.tier,
                                 category: recipe.category,
-                                ingredients: {}
+                                ingredients: {},
+                                usedTalent: bestRecipe.talent || null,
+                                outputQuantity: bestRecipe.output_quantity || 1
                             };
                         }
                         
                         craftingTree[item].totalNeeded += quantity;
                         
-                        Object.entries(recipe.ingredients).forEach(([material, amount]) => {
+                        Object.entries(bestRecipe.ingredients).forEach(([material, amount]) => {
                             const totalAmount = amount * quantity;
                             
                             if (!craftingTree[item].ingredients[material]) {
@@ -1487,6 +1594,57 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                             results && renderResults()
                         ]);
 
+                    case 'talents':
+                        return React.createElement('div', { className: 'map-info', key: 'talents-content' }, [
+                            React.createElement('h3', { key: 'title' }, '🎯 Active Talents'),
+                            React.createElement('p', { key: 'desc' }, 
+                                `Select talents to optimize recipe calculations. Talents affect ingredient costs and output quantities. ${activeTalents.size} active.`
+                            ),
+                            React.createElement('div', { 
+                                key: 'talents-grid',
+                                style: {
+                                    display: 'grid',
+                                    gridTemplateColumns: '1fr',
+                                    gap: '10px',
+                                    marginTop: '20px'
+                                }
+                            }, Object.entries(CRAFTING_TALENTS).map(([talent, info]) =>
+                                React.createElement('div', {
+                                    key: talent,
+                                    onClick: () => toggleTalent(talent),
+                                    style: {
+                                        padding: '12px',
+                                        background: activeTalents.has(talent) ? 'rgba(0, 212, 255, 0.2)' : 'rgba(255,255,255,0.05)',
+                                        border: `1px solid ${activeTalents.has(talent) ? '#00d4ff' : 'rgba(255,255,255,0.1)'}`,
+                                        borderRadius: '8px',
+                                        cursor: 'pointer',
+                                        transition: 'all 0.3s ease'
+                                    }
+                                }, [
+                                    React.createElement('div', {
+                                        key: 'header',
+                                        style: { display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '5px' }
+                                    }, [
+                                        React.createElement('input', {
+                                            key: 'checkbox',
+                                            type: 'checkbox',
+                                            checked: activeTalents.has(talent),
+                                            onChange: () => {},
+                                            style: { width: '18px', height: '18px', accentColor: '#00d4ff' }
+                                        }),
+                                        React.createElement('span', {
+                                            key: 'name',
+                                            style: { fontWeight: '600', fontSize: '14px' }
+                                        }, talent)
+                                    ]),
+                                    React.createElement('div', {
+                                        key: 'info',
+                                        style: { fontSize: '12px', color: '#b0b3b8', marginLeft: '28px' }
+                                    }, `${info.category} • ${info.description}`)
+                                ])
+                            ))
+                        ]);
+
                     case 'map':
                         return React.createElement('div', { className: 'map-info', key: 'map-info' }, [
                             React.createElement('h3', { key: 'title' }, `🗺️ ${currentMap} Resources`),
@@ -1582,7 +1740,17 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                                             fontSize: '11px',
                                             color: '#b0b3b8'
                                         }
-                                    }, `${recipe?.crafted_at || 'Raw'} • T${recipe?.tier || 0}`)
+                                    }, [
+                                        `${recipe?.crafted_at || 'Raw'} • T${recipe?.tier || 0}`,
+                                        data.usedTalent && React.createElement('span', {
+                                            key: 'talent',
+                                            style: {
+                                                marginLeft: '5px',
+                                                color: '#4ecdc4',
+                                                fontWeight: '600'
+                                            }
+                                        }, ` • 🎯 ${data.usedTalent}`)
+                                    ])
                                 ]),
                                 Object.keys(data.ingredients || {}).length > 0 && React.createElement('div', {
                                     key: 'ingredients',
@@ -1828,6 +1996,11 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                                 className: `tab-button ${activeTab === 'calculator' ? 'active' : ''}`,
                                 onClick: () => setActiveTab('calculator')
                             }, "🔨 Calculator"),
+                            React.createElement('button', {
+                                key: 'talents-tab',
+                                className: `tab-button ${activeTab === 'talents' ? 'active' : ''}`,
+                                onClick: () => setActiveTab('talents')
+                            }, `🎯 Talents ${activeTalents.size > 0 ? `(${activeTalents.size})` : ''}`),
                             React.createElement('button', {
                                 key: 'map-tab',
                                 className: `tab-button ${activeTab === 'map' ? 'active' : ''}`,
