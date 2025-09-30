@@ -2,9 +2,9 @@
   "name": "Flare Arrow",
   "url": "https://icarus.fandom.com/wiki/Flare_Arrow",
   "description": "Flare Arrows are used to light up dark areas/cave roofs and can be shot high into the air to illuminate the darkness or to signal fellow Prospectors from a distance. These arrows cannot be recovered once fired.",
-  "item_type": "unknown",
+  "item_type": "Ammunition",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 1,
   "stats": {
     "weight": "0.01 kg"

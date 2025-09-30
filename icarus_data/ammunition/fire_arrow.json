@@ -2,9 +2,9 @@
   "name": "Fire Arrow",
   "url": "https://icarus.fandom.com/wiki/Fire_Arrow",
   "description": "Want to turn that forest filled with bears into an inferno? The fire arrow is your friend. Need a light at the top of that cave? Fire arrow. While not as bright as theFlare Arrow, it will continue burning upon impact. Similar to thePoison Arrow, the Fire Arrow is a DOT upgrade to theStone Arrow, which is helpful when in a 'fire and flee' situation. These arrows cannot be recovered once fired.",
-  "item_type": "unknown",
+  "item_type": "Ammunition",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 1,
   "stats": {
     "weight": "0.01 kg"

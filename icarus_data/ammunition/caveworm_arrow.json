@@ -2,9 +2,9 @@
   "name": "Caveworm Arrow",
   "url": "https://icarus.fandom.com/wiki/Caveworm_Arrow",
   "description": "The Caveworm Arrow is ammunition used with aBow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Similar to thePoison Arrow, these are helpful in a 'fire and flee' situation. Firing multiple arrows will continue to stack the Poisoned debuff, dealing damage over time.",
-  "item_type": "unknown",
+  "item_type": "Ammunition",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 2,
   "stats": {
     "damage": "+15% Critical Damage",

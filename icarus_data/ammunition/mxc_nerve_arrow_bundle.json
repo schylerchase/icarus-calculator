@@ -2,9 +2,9 @@
   "name": "MXC Nerve Arrow Bundle",
   "url": "https://icarus.fandom.com/wiki/MXC_Nerve_Arrow_Bundle",
   "description": "Consuming the bundle will add 5xMXC Nerve Arrowto the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-  "item_type": "unknown",
+  "item_type": "Ammunition",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 0,
   "stats": {
     "weight": "0.1 kg"

@@ -2,9 +2,9 @@
   "name": "12.7mm CHAC Incendiary Round",
   "url": "https://icarus.fandom.com/wiki/12.7mm_CHAC_Incendiary_Round",
   "description": "12.7mm CHAC Incendiary Round is a type of explosiveSniper Ammunitionfor theAnti-materiel Riflethat does 500 projectile damage and +25% fire damage.",
-  "item_type": "unknown",
+  "item_type": "Ammunition",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 0,
   "stats": {
     "weight": "0.02 kg"

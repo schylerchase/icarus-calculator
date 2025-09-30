@@ -2,9 +2,9 @@
   "name": "9mm Miasmic Round",
   "url": "https://icarus.fandom.com/wiki/9mm_Miasmic_Round",
   "description": "9mm Miasmic Round, a Miasmic variant of ammunition used byPistols.",
-  "item_type": "unknown",
+  "item_type": "Ammunition",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.01 Kg"

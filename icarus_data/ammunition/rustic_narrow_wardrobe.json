@@ -2,9 +2,9 @@
   "name": "Rustic Narrow Wardrobe",
   "url": "https://icarus.fandom.com/wiki/Rustic_Narrow_Wardrobe",
   "description": "The Rustic Narrow Wardrobe smaller wardrobe but still has 10 slot capacity and two variations selectable by holding R.",
-  "item_type": "unknown",
+  "item_type": "Ammunition",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 2,
   "stats": {
     "weight": "10 Kg",

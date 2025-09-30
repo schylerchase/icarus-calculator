@@ -2,9 +2,9 @@
   "name": "7.62mm Incendiary Round",
   "url": "https://icarus.fandom.com/wiki/7.62mm_Incendiary_Round",
   "description": "7.62mm Incendiary Rounds are used by theBolt Action Rifle/Hunting Rifle. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Hitting a target will set it ablaze, dealing damage for approximately 20 seconds. Deals 8-11 damage a second to normal targets, and 16-22 damage a second to targets that are weak to fire. A list of fauna that are weak to fire can be viewedhere(TBA - no information yet).",
-  "item_type": "unknown",
+  "item_type": "Ammunition",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.01 kg"

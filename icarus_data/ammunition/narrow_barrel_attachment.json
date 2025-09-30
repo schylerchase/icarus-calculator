@@ -2,9 +2,9 @@
   "name": "Narrow Barrel Attachment",
   "url": "https://icarus.fandom.com/wiki/Narrow_Barrel_Attachment",
   "description": "Narrow Barrel Attachment is a mid-to-end game item available once the prospector has unlocked theRanged Attachment Packtech.",
-  "item_type": "unknown",
+  "item_type": "Ammunition",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "1 kg"

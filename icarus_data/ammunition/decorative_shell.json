@@ -2,9 +2,9 @@
   "name": "Decorative Shell",
   "url": "https://icarus.fandom.com/wiki/Decorative_Shell",
   "description": "The Decorative Shell is an item unlocked by completing theFracturemission. There are two varieties of pottery selectable by 'R'.",
-  "item_type": "unknown",
+  "item_type": "Ammunition",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 2,
   "stats": {
     "weight": "1 Kg",

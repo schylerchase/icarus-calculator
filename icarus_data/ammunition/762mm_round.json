@@ -2,9 +2,9 @@
   "name": "7.62mm Round",
   "url": "https://icarus.fandom.com/wiki/7.62mm_Round",
   "description": "",
-  "item_type": "unknown",
+  "item_type": "Ammunition",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.01 kg"

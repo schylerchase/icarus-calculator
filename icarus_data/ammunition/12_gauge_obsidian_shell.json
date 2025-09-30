@@ -2,9 +2,9 @@
   "name": "12-Gauge Obsidian Shell",
   "url": "https://icarus.fandom.com/wiki/12-Gauge_Obsidian_Shell",
   "description": "12-Gauge Obsidian Shells are a variant of12-Gauge Buckshot Shellsthat deal fire damage on hit and have a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 12-Gauge Obsidian Shells can decimate Fauna that have a weakness to fire, especially when the 'Burning' modifier occurs. A list of fauna that are weak to fire can be viewedhere.",
-  "item_type": "unknown",
+  "item_type": "Ammunition",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.01 kg"
