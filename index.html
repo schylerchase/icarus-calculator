@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🚀 ICARUS COMPLETE - Advanced Crafting Calculator</title>
+    <title>🚀 ICARUS COMPLETE - Advanced Crafting Calculator with Talents</title>
     <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
     <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.4/babel.min.js"></script>
@@ -148,6 +148,114 @@
             backdrop-filter: blur(15px);
             border: 1px solid rgba(255,255,255,0.1);
             min-height: 600px;
+        }
+
+        .talent-panel {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .talent-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        .talent-title {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #00d4ff;
+        }
+        
+        .talent-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 12px;
+        }
+        
+        .talent-item {
+            background: rgba(255,255,255,0.08);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 10px;
+            padding: 12px;
+            transition: all 0.3s ease;
+        }
+        
+        .talent-item.active {
+            background: rgba(0, 212, 255, 0.15);
+            border-color: #00d4ff;
+        }
+        
+        .talent-name {
+            font-weight: 600;
+            font-size: 13px;
+            margin-bottom: 4px;
+            color: #ffffff;
+        }
+        
+        .talent-description {
+            font-size: 11px;
+            color: #b0b3b8;
+            margin-bottom: 8px;
+        }
+        
+        .talent-level-control {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 8px;
+        }
+        
+        .talent-level-btn {
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            color: white;
+            width: 28px;
+            height: 28px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.2s ease;
+        }
+        
+        .talent-level-btn:hover:not(:disabled) {
+            background: rgba(255,255,255,0.2);
+        }
+        
+        .talent-level-btn:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+        
+        .talent-level-display {
+            flex: 1;
+            text-align: center;
+            padding: 6px;
+            background: rgba(0, 212, 255, 0.1);
+            border: 1px solid rgba(0, 212, 255, 0.3);
+            border-radius: 6px;
+            font-weight: 700;
+            font-size: 12px;
+            color: #00d4ff;
+        }
+        
+        .talent-level-display.inactive {
+            background: rgba(255,255,255,0.05);
+            border-color: rgba(255,255,255,0.1);
+            color: #666;
+        }
+        
+        .talent-effect-info {
+            font-size: 10px;
+            color: #4ecdc4;
+            margin-top: 4px;
+            font-weight: 600;
         }
 
         .tab-nav {
@@ -595,6 +703,23 @@
             margin-bottom: 0;
         }
 
+        .savings-indicator {
+            background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%);
+            color: white;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 10px;
+            font-weight: 700;
+            margin-left: 6px;
+        }
+        
+        .original-cost {
+            text-decoration: line-through;
+            opacity: 0.6;
+            font-size: 11px;
+            margin-right: 6px;
+        }
+
         @media (max-width: 1024px) {
             .main-content {
                 grid-template-columns: 1fr;
@@ -620,14 +745,13 @@
         <div class="loading-screen">
             <div class="loading-spinner"></div>
             <div class="loading-text">🚀 Loading ICARUS Complete...</div>
-            <div class="loading-details">Initializing calculator...</div>
+            <div class="loading-details">Fetching recipe database...</div>
         </div>
     </div>
 
     <script type="text/babel">
-        const { useState, useEffect, useRef } = React;
+        const { useState, useEffect } = React;
 
-        // List of JSON files to attempt loading from icarus_data directory
         const JSON_FILES = [
             'ammunition.json',
             'armor.json',
@@ -652,7 +776,68 @@
             'weapons.json'
         ];
 
-        // Map resource availability - COMPREHENSIVE MAPPING
+        // Talent definitions
+        const TALENTS = {
+            pistol_proficiency: {
+                name: "Pistol Proficiency",
+                description: "Reduces pistol ammunition cost",
+                maxLevel: 3,
+                effects: {
+                    1: "-10% ammo cost",
+                    2: "-20% ammo cost",
+                    3: "-25% ammo cost"
+                },
+                appliesToCategories: ["ammunition"],
+                appliesToNames: ["Round", "Bullet", "Cartridge"]
+            },
+            bow_proficiency: {
+                name: "Bow Proficiency",
+                description: "Reduces arrow ammunition cost",
+                maxLevel: 3,
+                effects: {
+                    1: "-10% arrow cost",
+                    2: "-20% arrow cost",
+                    3: "-25% arrow cost"
+                },
+                appliesToCategories: ["ammunition"],
+                appliesToNames: ["Arrow", "Bolt"]
+            },
+            rifle_proficiency: {
+                name: "Rifle Proficiency",
+                description: "Reduces rifle ammunition cost",
+                maxLevel: 3,
+                effects: {
+                    1: "-10% ammo cost",
+                    2: "-20% ammo cost",
+                    3: "-25% ammo cost"
+                },
+                appliesToCategories: ["ammunition"],
+                appliesToNames: ["Rifle", "Sniper"]
+            },
+            shotgun_proficiency: {
+                name: "Shotgun Proficiency",
+                description: "Reduces shotgun ammunition cost",
+                maxLevel: 3,
+                effects: {
+                    1: "-10% shell cost",
+                    2: "-20% shell cost",
+                    3: "-25% shell cost"
+                },
+                appliesToCategories: ["shotgun ammunition"],
+                appliesToNames: ["Shell", "Buckshot"]
+            },
+            efficient_crafting: {
+                name: "Efficient Crafting",
+                description: "Reduces material costs for crafting",
+                maxLevel: 2,
+                effects: {
+                    1: "-5% material cost",
+                    2: "-10% material cost"
+                },
+                appliesToCategories: ["tools", "weapons", "armor"]
+            }
+        };
+
         const MAP_RESOURCES = {
             "Olympus": [
                 "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
@@ -702,6 +887,58 @@
             ]
         };
 
+        function TalentPanel({ talentLevels, onTalentLevelChange }) {
+            return React.createElement('div', { className: 'talent-panel' }, [
+                React.createElement('div', { className: 'talent-header', key: 'header' }, [
+                    React.createElement('h3', { className: 'talent-title', key: 'title' }, "🎓 Active Talents"),
+                    React.createElement('span', { 
+                        key: 'count',
+                        style: { fontSize: '12px', color: '#b0b3b8' }
+                    }, `${Object.values(talentLevels).filter(l => l > 0).length} active`)
+                ]),
+                React.createElement('div', { className: 'talent-grid', key: 'grid' },
+                    Object.entries(TALENTS).map(([talentId, talent]) => {
+                        const currentLevel = talentLevels[talentId] || 0;
+                        const isActive = currentLevel > 0;
+                        
+                        return React.createElement('div', {
+                            key: talentId,
+                            className: `talent-item ${isActive ? 'active' : ''}`
+                        }, [
+                            React.createElement('div', { className: 'talent-name', key: 'name' }, 
+                                talent.name
+                            ),
+                            React.createElement('div', { className: 'talent-description', key: 'desc' }, 
+                                talent.description
+                            ),
+                            React.createElement('div', { className: 'talent-level-control', key: 'control' }, [
+                                React.createElement('button', {
+                                    key: 'minus',
+                                    className: 'talent-level-btn',
+                                    onClick: () => onTalentLevelChange(talentId, Math.max(0, currentLevel - 1)),
+                                    disabled: currentLevel === 0
+                                }, '−'),
+                                React.createElement('div', {
+                                    key: 'display',
+                                    className: `talent-level-display ${!isActive ? 'inactive' : ''}`
+                                }, currentLevel > 0 ? `Level ${currentLevel}/${talent.maxLevel}` : 'Inactive'),
+                                React.createElement('button', {
+                                    key: 'plus',
+                                    className: 'talent-level-btn',
+                                    onClick: () => onTalentLevelChange(talentId, Math.min(talent.maxLevel, currentLevel + 1)),
+                                    disabled: currentLevel >= talent.maxLevel
+                                }, '+')
+                            ]),
+                            isActive && React.createElement('div', { 
+                                className: 'talent-effect-info',
+                                key: 'effect'
+                            }, `✓ ${talent.effects[currentLevel]}`)
+                        ]);
+                    })
+                )
+            ]);
+        }
+
         function ItemCard({ item, recipe, isSelected, isAvailable, onClick, onQuantityChange, currentQuantity }) {
             const getTierColor = (tier) => {
                 switch(tier) {
@@ -715,30 +952,29 @@
             };
 
             const getIcon = (category) => {
-                switch(category) {
-                    case "Tools": return "🔧";
-                    case "Weapons": return "⚔️";
-                    case "Armor": return "🛡️";
-                    case "Deployables": return "🏭";
-                    case "Specialized Equipment": return "⚙️";
-                    case "Building": return "🏗️";
-                    case "Cooking": return "🍳";
-                    case "Storage": return "📦";
-                    case "Furniture": return "🪑";
-                    case "Materials": return "🔩";
-                    case "Raw Materials": return "⛏️";
-                    case "Water Sources": return "💧";
-                    case "Electricity Sources": return "⚡";
-                    case "Fuel Sources": return "⛽";
-                    case "Light Sources": return "💡";
-                    case "Farming": return "🌱";
-                    case "Consumables": return "🧪";
-                    case "Medicine": return "💊";
-                    case "Ammunition": return "🏹";
-                    case "Inventory": return "🎒";
-                    case "Decoration": return "🎨";
-                    default: return "📋";
-                }
+                const cat = (category || "").toLowerCase();
+                if (cat.includes("tool")) return "🔧";
+                if (cat.includes("weapon")) return "⚔️";
+                if (cat.includes("armor")) return "🛡️";
+                if (cat.includes("deployable")) return "🏭";
+                if (cat.includes("equipment")) return "⚙️";
+                if (cat.includes("building")) return "🏗️";
+                if (cat.includes("cooking")) return "🍳";
+                if (cat.includes("storage")) return "📦";
+                if (cat.includes("furniture")) return "🪑";
+                if (cat.includes("material")) return "🔩";
+                if (cat.includes("raw")) return "⛏️";
+                if (cat.includes("water")) return "💧";
+                if (cat.includes("electric")) return "⚡";
+                if (cat.includes("fuel")) return "⛽";
+                if (cat.includes("light")) return "💡";
+                if (cat.includes("farm")) return "🌱";
+                if (cat.includes("consumable")) return "🧪";
+                if (cat.includes("medicine")) return "💊";
+                if (cat.includes("ammunition") || cat.includes("shotgun")) return "🏹";
+                if (cat.includes("inventory")) return "🎒";
+                if (cat.includes("decoration")) return "🎨";
+                return "📋";
             };
 
             return React.createElement('div', {
@@ -872,9 +1108,10 @@
         }
 
         function CraftingCalculator() {
+            const [talentLevels, setTalentLevels] = useState({});
             const [recipes, setRecipes] = useState({});
             const [loading, setLoading] = useState(true);
-            const [loadingText, setLoadingText] = useState('Initializing calculator...');
+            const [loadingText, setLoadingText] = useState('Fetching recipe database...');
             const [error, setError] = useState(null);
             const [activeTab, setActiveTab] = useState('calculator');
             const [currentMap, setCurrentMap] = useState('Olympus');
@@ -885,131 +1122,96 @@
             const [results, setResults] = useState(null);
             const [checkedItems, setCheckedItems] = useState({});
             const [itemQuantities, setItemQuantities] = useState({});
-            const [isCalculating, setIsCalculating] = useState(false);
-            const resultsRef = useRef(null);
-            const [activeTalents, setActiveTalents] = useState(new Set());
-            const [showTalentPanel, setShowTalentPanel] = useState(false);
-
-            // Crafting-related talents that affect recipes
-            const CRAFTING_TALENTS = {
-                "Ammunition: Munitions": {
-                    description: "Craft ammunition at +50% output",
-                    category: "Combat"
-                },
-                "Ammunition: Freebies": {
-                    description: "5% chance to craft double ammunition",
-                    category: "Combat"
-                },
-                "Pistol Proficiency": {
-                    description: "Craft pistol ammo at -25% cost",
-                    category: "Combat"
-                },
-                "Rifle Proficiency": {
-                    description: "Craft rifle ammo at -25% cost",
-                    category: "Combat"
-                },
-                "Shotgun Proficiency": {
-                    description: "Craft shotgun ammo at -25% cost",
-                    category: "Combat"
-                }
-            };
-
-            // Load cart from localStorage on mount
-            useEffect(() => {
-                try {
-                    const savedCart = localStorage.getItem('icarusCalculatorCart');
-                    if (savedCart) {
-                        const parsed = JSON.parse(savedCart);
-                        setShoppingCart(parsed);
-                        console.log('📦 Loaded cart from localStorage:', parsed);
-                    }
-                    
-                    const savedTalents = localStorage.getItem('icarusCalculatorTalents');
-                    if (savedTalents) {
-                        const parsed = JSON.parse(savedTalents);
-                        setActiveTalents(new Set(parsed));
-                        console.log('🎯 Loaded talents from localStorage:', parsed);
-                    }
-                } catch (err) {
-                    console.warn('Failed to load from localStorage:', err);
-                }
-            }, []);
-
-            // Save cart to localStorage whenever it changes
-            useEffect(() => {
-                try {
-                    if (Object.keys(shoppingCart).length > 0) {
-                        localStorage.setItem('icarusCalculatorCart', JSON.stringify(shoppingCart));
-                        console.log('💾 Saved cart to localStorage');
-                    } else {
-                        localStorage.removeItem('icarusCalculatorCart');
-                    }
-                } catch (err) {
-                    console.warn('Failed to save cart to localStorage:', err);
-                }
-            }, [shoppingCart]);
-
-            // Save talents to localStorage whenever they change
-            useEffect(() => {
-                try {
-                    if (activeTalents.size > 0) {
-                        localStorage.setItem('icarusCalculatorTalents', JSON.stringify(Array.from(activeTalents)));
-                        console.log('💾 Saved talents to localStorage');
-                    } else {
-                        localStorage.removeItem('icarusCalculatorTalents');
-                    }
-                } catch (err) {
-                    console.warn('Failed to save talents to localStorage:', err);
-                }
-            }, [activeTalents]);
 
             useEffect(() => {
                 loadRecipes();
             }, []);
 
-            // Scroll to results when they appear
-            useEffect(() => {
-                if (results && results.type === 'hierarchical' && resultsRef.current) {
-                    setTimeout(() => {
-                        resultsRef.current.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-                    }, 100);
+            const handleTalentLevelChange = (talentId, newLevel) => {
+                setTalentLevels(prev => ({
+                    ...prev,
+                    [talentId]: newLevel
+                }));
+                
+                // Recalculate if there are results showing
+                if (results && results.type === 'hierarchical') {
+                    setTimeout(() => calculateRequirements(), 100);
                 }
-            }, [results]);
+            };
+
+            const getTalentMultiplier = (itemName, recipe) => {
+                let multiplier = 1.0;
+                
+                Object.entries(talentLevels).forEach(([talentId, level]) => {
+                    if (level === 0) return;
+                    
+                    const talent = TALENTS[talentId];
+                    if (!talent) return;
+                    
+                    const appliesToCategory = talent.appliesToCategories?.some(cat => 
+                        recipe.category?.toLowerCase().includes(cat.toLowerCase())
+                    );
+                    const appliesToName = talent.appliesToNames?.some(name => 
+                        itemName.toLowerCase().includes(name.toLowerCase())
+                    );
+                    
+                    if (appliesToCategory || appliesToName) {
+                        const effect = talent.effects[level];
+                        const percentMatch = effect.match(/-(\d+)%/);
+                        if (percentMatch) {
+                            const reduction = parseInt(percentMatch[1]) / 100;
+                            multiplier *= (1 - reduction);
+                        }
+                    }
+                });
+                
+                return multiplier;
+            };
+
+            const getRecipeIngredients = (recipe) => {
+                // FIXED: Check both base_recipe.ingredients and ingredients
+                if (recipe.base_recipe && recipe.base_recipe.ingredients) {
+                    return recipe.base_recipe.ingredients;
+                }
+                if (recipe.ingredients && Object.keys(recipe.ingredients).length > 0) {
+                    return recipe.ingredients;
+                }
+                return {};
+            };
+
+            const getRecipeCraftedAt = (recipe) => {
+                if (recipe.base_recipe && recipe.base_recipe.crafted_at) {
+                    return recipe.base_recipe.crafted_at;
+                }
+                return recipe.crafted_at || 'Unknown';
+            };
 
             const loadRecipes = async () => {
                 try {
                     setLoading(true);
                     setError(null);
-                    setLoadingText('Loading manifest...');
+                    setLoadingText('Fetching recipe database...');
                     
                     const allRecipes = {};
                     let loadedCount = 0;
                     const errors = [];
                     
-                    // Try different path variations
                     const pathVariations = [
-                        'icarus_data/',
                         './icarus_data/',
+                        'icarus_data/',
                         '../icarus_data/',
                         '/icarus_data/'
                     ];
                     
                     let successfulPath = null;
-                    let manifestData = null;
                     
-                    // Cache-busting parameter to force fresh data
-                    const cacheBuster = `?v=${Date.now()}`;
-                    
-                    // Try to load manifest.json to find the correct path
                     for (const basePath of pathVariations) {
                         try {
-                            setLoadingText(`Checking for manifest at: ${basePath}...`);
-                            const manifestResponse = await fetch(`${basePath}manifest.json${cacheBuster}`);
-                            if (manifestResponse.ok) {
-                                manifestData = await manifestResponse.json();
+                            setLoadingText(`Testing path: ${basePath}...`);
+                            const testResponse = await fetch(`${basePath}medicine.json`);
+                            if (testResponse.ok) {
                                 successfulPath = basePath;
-                                setLoadingText(`✅ Found manifest at: ${basePath}`);
-                                console.log(`Success! Using path: ${basePath}`, manifestData);
+                                setLoadingText(`Found data at: ${basePath}`);
                                 break;
                             }
                         } catch (e) {
@@ -1017,149 +1219,74 @@
                         }
                     }
                     
-                    if (!successfulPath || !manifestData) {
-                        throw new Error(`Cannot find manifest.json. 
-
-Tried these paths:
-${pathVariations.map(p => `- ${p}manifest.json`).join('\n')}
-
-Please ensure:
-1. The 'icarus_data' folder exists in the same directory as index.html
-2. The 'icarus_data' folder contains manifest.json
-3. You're serving via HTTP server (not file://)
-
-Current location: ${window.location.href}
-Protocol: ${window.location.protocol}`);
+                    if (!successfulPath) {
+                        throw new Error(`CORS Error: Cannot load JSON files directly from file:// protocol. 
+                        
+Please use one of these solutions:
+1. Start a local HTTP server:
+   - Python: 'python -m http.server 8000' then open http://localhost:8000
+   - Node.js: 'npx http-server' then open the provided URL
+   - VS Code: Install 'Live Server' extension and right-click HTML file
+                        
+2. Or place files on a web server`);
                     }
                     
-                    // Get list of files from manifest
-                    let filesToLoad = [];
-                    if (manifestData.files && Array.isArray(manifestData.files)) {
-                        filesToLoad = manifestData.files;
-                    } else if (manifestData.recipes && Array.isArray(manifestData.recipes)) {
-                        filesToLoad = manifestData.recipes;
-                    } else if (Array.isArray(manifestData)) {
-                        filesToLoad = manifestData;
-                    } else {
-                        // Fallback to hardcoded list
-                        filesToLoad = JSON_FILES;
-                    }
-                    
-                    console.log(`Loading ${filesToLoad.length} files from manifest:`, filesToLoad);
-                    
-                    // Load all JSON files using the successful path
-                    for (const filename of filesToLoad) {
+                    for (const filename of JSON_FILES) {
                         try {
-                            setLoadingText(`📦 Loading ${filename}... (${loadedCount + 1}/${filesToLoad.length})`);
+                            setLoadingText(`Loading ${filename}... (${loadedCount + 1}/${JSON_FILES.length})`);
                             
-                            const response = await fetch(`${successfulPath}${filename}${cacheBuster}`);
+                            const response = await fetch(`${successfulPath}${filename}`);
                             if (!response.ok) {
                                 errors.push(`${filename}: HTTP ${response.status}`);
-                                console.warn(`⚠️ Failed to load ${filename}: ${response.status}`);
+                                console.warn(`Failed to load ${filename}: ${response.status}`);
                                 continue;
                             }
                             
                             const data = await response.json();
                             
-                            // Function to process a single item
-                            const processItem = (item) => {
-                                if (!item || !item.name) return;
-                                
-                                // Handle new format with multiple recipes
-                                if (item.recipes && Array.isArray(item.recipes)) {
-                                    allRecipes[item.name] = {
-                                        recipes: item.recipes,
-                                        crafted_at: item.crafted_at || 'Unknown',
-                                        category: item.category || 'Unknown',
-                                        tier: item.tier || 0,
-                                        map_exclusive: item.map_exclusive || null
-                                    };
-                                    return;
-                                }
-                                
-                                // Handle old format with single ingredients object
-                                const ingredients = {};
-                                if (item.ingredients && typeof item.ingredients === 'object') {
-                                    Object.entries(item.ingredients).forEach(([key, value]) => {
-                                        if (key !== 'Max' && typeof value === 'number') {
-                                            ingredients[key] = value;
-                                        }
-                                    });
-                                }
-                                
-                                allRecipes[item.name] = {
-                                    ingredients: ingredients,
-                                    output_quantity: item.output_quantity || 1,
-                                    crafted_at: item.crafted_at || 'Unknown',
-                                    category: item.category || 'Unknown',
-                                    tier: item.tier || 0,
-                                    map_exclusive: item.map_exclusive || null
-                                };
-                            };
-                            
-                            // Handle different JSON formats
                             if (data.items && Array.isArray(data.items)) {
-                                // Format: { "items": [...] }
-                                data.items.forEach(processItem);
-                            } else if (data.name) {
-                                // Format: Single item object { "name": "...", "ingredients": {...}, ... }
-                                processItem(data);
-                            } else if (Array.isArray(data)) {
-                                // Format: Array of items [...]
-                                data.forEach(processItem);
+                                data.items.forEach(item => {
+                                    // Store the complete item data including base_recipe
+                                    allRecipes[item.name] = {
+                                        ...item,
+                                        crafted_at: getRecipeCraftedAt(item),
+                                        category: item.category || 'Unknown',
+                                        tier: item.tier || 0
+                                    };
+                                });
                             }
-                            
-                            console.log(`✅ Loaded ${filename}`)
                             
                             loadedCount++;
                         } catch (fileError) {
                             errors.push(`${filename}: ${fileError.message}`);
-                            console.warn(`⚠️ Error loading ${filename}:`, fileError);
+                            console.warn(`Error loading ${filename}:`, fileError);
                         }
                     }
                     
-                    setLoadingText(`✅ Processing ${Object.keys(allRecipes).length} recipes...`);
-                    
-                    const successfulFiles = loadedCount;
-                    const totalFiles = filesToLoad.length;
+                    setLoadingText(`Processing ${Object.keys(allRecipes).length} recipes...`);
                     
                     if (Object.keys(allRecipes).length === 0) {
-                        throw new Error(`No recipes could be loaded. 
-
-Files attempted: ${filesToLoad.length}
-Successfully loaded: ${loadedCount}
-
-Errors:
-${errors.slice(0, 5).join('\n')}
-${errors.length > 5 ? `\n...and ${errors.length - 5} more errors` : ''}
-
-This indicates JSON files are missing or invalid.
-Please check the 'icarus_data' folder exists and contains valid JSON files.`);
+                        throw new Error(`No recipes could be loaded.`);
                     }
                     
-                    // Success!
                     setRecipes(allRecipes);
                     setLoading(false);
                     
-                    // Show a warning if some files are missing
-                    if (successfulFiles < totalFiles) {
-                        setTimeout(() => {
-                            setResults({
-                                type: 'success',
-                                message: `⚠️ Loaded ${Object.keys(allRecipes).length} recipes from ${successfulFiles}/${totalFiles} files. Some files missing but calculator is functional!`
-                            });
-                            setTimeout(() => setResults(null), 5000);
-                        }, 500);
+                    if (loadedCount < JSON_FILES.length) {
+                        setResults({
+                            type: 'success',
+                            message: `Loaded ${Object.keys(allRecipes).length} recipes from ${loadedCount}/${JSON_FILES.length} files. Some files were missing but calculator is functional!`
+                        });
+                        setTimeout(() => setResults(null), 5000);
                     }
                     
-                    console.log(`🎉 Successfully loaded ${Object.keys(allRecipes).length} recipes from ${loadedCount}/${totalFiles} files`);
+                    console.log(`Successfully loaded ${Object.keys(allRecipes).length} recipes`);
                     
                 } catch (err) {
-                    console.error('❌ Error loading recipes:', err);
+                    console.error('Error loading recipes:', err);
                     setError({
                         title: 'Failed to Load Recipe Database',
-                        message: err.message,
-                        details: err.stack
+                        message: err.message
                     });
                     setLoading(false);
                 }
@@ -1167,43 +1294,6 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
 
             const categories = [...new Set(Object.values(recipes).map(r => r.category))].sort();
             const tiers = [...new Set(Object.values(recipes).map(r => r.tier))].sort();
-
-            const toggleTalent = (talent) => {
-                setActiveTalents(prev => {
-                    const newSet = new Set(prev);
-                    if (newSet.has(talent)) {
-                        newSet.delete(talent);
-                    } else {
-                        newSet.add(talent);
-                    }
-                    return newSet;
-                });
-            };
-
-            const getBestRecipe = (item) => {
-                const recipe = recipes[item];
-                if (!recipe) return null;
-                
-                // If recipe has multiple recipes array, find best match
-                if (recipe.recipes && Array.isArray(recipe.recipes)) {
-                    // Find recipe with matching talent
-                    for (const rec of recipe.recipes) {
-                        if (rec.talent && activeTalents.has(rec.talent)) {
-                            return rec;
-                        }
-                    }
-                    // Return first recipe without talent requirement
-                    const baseRecipe = recipe.recipes.find(r => !r.talent);
-                    return baseRecipe || recipe.recipes[0];
-                }
-                
-                // Old format - single recipe
-                return {
-                    ingredients: recipe.ingredients || {},
-                    output_quantity: recipe.output_quantity || 1,
-                    talent: null
-                };
-            };
 
             const toggleChecked = (itemKey) => {
                 setCheckedItems(prev => ({
@@ -1260,39 +1350,16 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
 
             const checkItemAvailability = (item, map, debugPath = []) => {
                 const recipe = recipes[item];
-                if (!recipe) {
-                    return false;
-                }
+                if (!recipe) return false;
                 
-                if (debugPath.includes(item)) {
-                    return false;
-                }
-                
-                // Workshop and Orbital Exchange items are ALWAYS available on any map
-                const purchasableLocations = [
-                    'Workshop',
-                    'Orbital Exchange',
-                    'Space Station Workshop',
-                    'Orbital Workshop',
-                    'Workshop Purchased',
-                    'Purchased'
-                ];
-                
-                if (purchasableLocations.some(loc => 
-                    recipe.crafted_at && recipe.crafted_at.toLowerCase().includes(loc.toLowerCase())
-                )) {
-                    return true;
-                }
+                if (debugPath.includes(item)) return false;
                 
                 if (recipe.map_exclusive && recipe.map_exclusive !== map) {
                     return false;
                 }
                 
-                // Get the best recipe based on active talents
-                const bestRecipe = getBestRecipe(item);
-                if (!bestRecipe) return false;
-                
-                const requiredMaterials = Object.keys(bestRecipe.ingredients || {});
+                const ingredients = getRecipeIngredients(recipe);
+                const requiredMaterials = Object.keys(ingredients);
                 
                 if (requiredMaterials.length === 0) {
                     const isAvailable = MAP_RESOURCES[map]?.includes(item) || 
@@ -1309,74 +1376,37 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                     const alwaysAvailableMaterials = [
                         'Fiber', 'Wood', 'Stone', 'Stick', 'Sticks', 'Leather', 'Fur', 'Bone', 'Clay', 'Wool',
                         'Iron Ore', 'Copper Ore', 'Coal', 'Gold Ore', 'Aluminum Ore', 'Platinum Ore', 'Titanium Ore',
-                        'Iron Ingot', 'Steel Ingot', 'Copper Ingot', 'Steel Bloom', 'Oxite', 'Sulfur', 'Tree Sap', 'Cold Steel Ingot',
+                        'Iron Ingot', 'Steel Ingot', 'Copper Ingot', 'Steel Bloom', 'Oxite', 'Sulfur', 'Tree Sap',
                         'Brown Bear Leather', 'Brown Bear Fur', 'Brown Bear Bone',
                         'Wolf Leather', 'Wolf Fur', 'Wolf Bone',
                         'Deer Leather', 'Deer Fur', 'Deer Bone',
                         'Rope', 'Glass', 'Charcoal', 'Carbon Paste', 'Iron Nail', 'Copper Nail', 'Steel Screw',
                         'Water', 'Ice', 'Salt',
                         'Pumpkin', 'Corn', 'Wheat', 'Carrot', 'Potato', 'Tomato', 'Beans', 'Berry', 'Apple',
-                        'Reed Flower', 'Reed', 'Flower', 'Mushroom', 'Fruit', 'Vegetable', 'Grain', 'Seed',
-                        'Nail', 'Screw', 'Wire', 'Paste', 'Mix', 'Bloom', 'Bar', 'Ingot',
-                        'Thatch', 'Plank', 'Board', 'Beam'
+                        'Reed Flower', 'Reed', 'Flower', 'Mushroom', 'Fruit', 'Vegetable', 'Grain', 'Seed'
                     ];
-                    
-                    // Normalize material name for comparison (remove hyphens, extra spaces, etc.)
-                    const normalizeName = (name) => {
-                        return name.toLowerCase()
-                            .replace(/-/g, ' ')
-                            .replace(/\s+/g, ' ')
-                            .trim();
-                    };
-                    
-                    const normalizedMaterial = normalizeName(material);
                     
                     const materialVariations = [
                         material,
                         material.replace(/s$/, ''),
                         material + 's',
                         material.replace('Sticks', 'Stick'),
-                        material.replace('Stick', 'Sticks'),
-                        material.replace(/-/g, ' '),
-                        material.replace(/ /g, '-'),
-                        material.replace(/-/g, '')
+                        material.replace('Stick', 'Sticks')
                     ];
                     
-                    const isBasicMaterial = materialVariations.some(variation => {
-                        const normalizedVariation = normalizeName(variation);
-                        return alwaysAvailableMaterials.some(avail => 
-                            normalizeName(avail) === normalizedVariation
-                        ) || MAP_RESOURCES[map]?.some(resource => 
-                            normalizeName(resource) === normalizedVariation
-                        );
-                    });
+                    const isBasicMaterial = materialVariations.some(variation => 
+                        alwaysAvailableMaterials.includes(variation) || 
+                        MAP_RESOURCES[map]?.includes(variation)
+                    );
                     
                     if (isBasicMaterial) {
                         continue;
                     }
                     
-                    // Also check if this material exists as a craftable item
-                    const materialRecipe = recipes[material];
-                    if (!materialRecipe) {
-                        // Material doesn't exist in recipes, check variations
-                        const foundVariation = materialVariations.find(v => recipes[v]);
-                        if (foundVariation) {
-                            // Found a matching variation, check its availability
-                            const materialAvailable = checkItemAvailability(foundVariation, map, [...debugPath, item]);
-                            if (!materialAvailable) {
-                                return false;
-                            }
-                        } else {
-                            // Material not found anywhere - might be a typo in the JSON
-                            console.warn(`⚠️ Material "${material}" not found for item "${item}"`);
-                            return false;
-                        }
-                    } else {
-                        const materialAvailable = checkItemAvailability(material, map, [...debugPath, item]);
-                        
-                        if (!materialAvailable) {
-                            return false;
-                        }
+                    const materialAvailable = checkItemAvailability(material, map, [...debugPath, item]);
+                    
+                    if (!materialAvailable) {
+                        return false;
                     }
                 }
                 
@@ -1424,11 +1454,9 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                     return;
                 }
 
-                // Don't clear results - just calculate and update
-                setIsCalculating(true);
-                
-                // Small delay to ensure state updates, then calculate
-                requestAnimationFrame(() => {
+                setResults({ type: 'loading', message: 'Calculating...' });
+
+                setTimeout(() => {
                     const craftingTree = {};
                     const rawMaterials = {};
                     
@@ -1438,11 +1466,10 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                         
                         if (path.includes(item)) return;
                         
-                        // Get the best recipe for this item
-                        const bestRecipe = getBestRecipe(item);
-                        if (!bestRecipe) return;
+                        const ingredients = getRecipeIngredients(recipe);
+                        const multiplier = getTalentMultiplier(item, recipe);
                         
-                        if (Object.keys(bestRecipe.ingredients).length === 0) {
+                        if (Object.keys(ingredients).length === 0) {
                             rawMaterials[item] = (rawMaterials[item] || 0) + quantity;
                             return;
                         }
@@ -1450,24 +1477,29 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                         if (!craftingTree[item]) {
                             craftingTree[item] = {
                                 totalNeeded: 0,
-                                craftedAt: recipe.crafted_at,
+                                craftedAt: getRecipeCraftedAt(recipe),
                                 tier: recipe.tier,
                                 category: recipe.category,
                                 ingredients: {},
-                                usedTalent: bestRecipe.talent || null,
-                                outputQuantity: bestRecipe.output_quantity || 1
+                                talentMultiplier: multiplier,
+                                talentSavings: multiplier < 1.0 ? (1 - multiplier) * 100 : 0
                             };
                         }
                         
                         craftingTree[item].totalNeeded += quantity;
                         
-                        Object.entries(bestRecipe.ingredients).forEach(([material, amount]) => {
-                            const totalAmount = amount * quantity;
+                        Object.entries(ingredients).forEach(([material, amount]) => {
+                            const adjustedAmount = amount * multiplier;
+                            const totalAmount = adjustedAmount * quantity;
                             
                             if (!craftingTree[item].ingredients[material]) {
-                                craftingTree[item].ingredients[material] = 0;
+                                craftingTree[item].ingredients[material] = {
+                                    base: 0,
+                                    adjusted: 0
+                                };
                             }
-                            craftingTree[item].ingredients[material] += totalAmount;
+                            craftingTree[item].ingredients[material].base += amount * quantity;
+                            craftingTree[item].ingredients[material].adjusted += totalAmount;
                             
                             buildCraftingTree(material, totalAmount, [...path, item]);
                         });
@@ -1477,23 +1509,20 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                         buildCraftingTree(item, details.quantity);
                     });
 
-                    // Set results and mark calculation complete
                     setResults({
                         type: 'hierarchical',
                         craftingTree,
                         rawMaterials,
                         cartItems: shoppingCart
                     });
-                    
-                    setIsCalculating(false);
-                });
+                }, 100);
             };
 
             if (loading) {
                 return React.createElement('div', { className: 'app-container' }, [
                     React.createElement('div', { className: 'app-header', key: 'header' }, [
                         React.createElement('h1', { className: 'app-title', key: 'title' }, "🚀 ICARUS COMPLETE"),
-                        React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator with Complete Game Database")
+                        React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator with Talent System")
                     ]),
                     React.createElement('div', { className: 'loading-screen', key: 'loading' }, [
                         React.createElement('div', { className: 'loading-spinner', key: 'spinner' }),
@@ -1511,22 +1540,12 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                     ]),
                     React.createElement('div', { className: 'error-screen', key: 'error' }, [
                         React.createElement('div', { className: 'error-title', key: 'title' }, `❌ ${error.title}`),
-                        React.createElement('pre', { 
-                            key: 'message',
-                            style: { 
-                                fontSize: '0.9rem', 
-                                color: '#ff6b6b', 
-                                marginBottom: '20px',
-                                whiteSpace: 'pre-wrap',
-                                textAlign: 'left',
-                                fontFamily: 'monospace'
-                            } 
-                        }, error.message),
+                        React.createElement('div', { className: 'error-message', key: 'message' }, error.message),
                         React.createElement('button', {
                             key: 'retry',
                             className: 'retry-button',
                             onClick: loadRecipes
-                        }, '🔄 Retry Loading')
+                        }, 'Retry Loading')
                     ])
                 ]);
             }
@@ -1594,57 +1613,6 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                             results && renderResults()
                         ]);
 
-                    case 'talents':
-                        return React.createElement('div', { className: 'map-info', key: 'talents-content' }, [
-                            React.createElement('h3', { key: 'title' }, '🎯 Active Talents'),
-                            React.createElement('p', { key: 'desc' }, 
-                                `Select talents to optimize recipe calculations. Talents affect ingredient costs and output quantities. ${activeTalents.size} active.`
-                            ),
-                            React.createElement('div', { 
-                                key: 'talents-grid',
-                                style: {
-                                    display: 'grid',
-                                    gridTemplateColumns: '1fr',
-                                    gap: '10px',
-                                    marginTop: '20px'
-                                }
-                            }, Object.entries(CRAFTING_TALENTS).map(([talent, info]) =>
-                                React.createElement('div', {
-                                    key: talent,
-                                    onClick: () => toggleTalent(talent),
-                                    style: {
-                                        padding: '12px',
-                                        background: activeTalents.has(talent) ? 'rgba(0, 212, 255, 0.2)' : 'rgba(255,255,255,0.05)',
-                                        border: `1px solid ${activeTalents.has(talent) ? '#00d4ff' : 'rgba(255,255,255,0.1)'}`,
-                                        borderRadius: '8px',
-                                        cursor: 'pointer',
-                                        transition: 'all 0.3s ease'
-                                    }
-                                }, [
-                                    React.createElement('div', {
-                                        key: 'header',
-                                        style: { display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '5px' }
-                                    }, [
-                                        React.createElement('input', {
-                                            key: 'checkbox',
-                                            type: 'checkbox',
-                                            checked: activeTalents.has(talent),
-                                            onChange: () => {},
-                                            style: { width: '18px', height: '18px', accentColor: '#00d4ff' }
-                                        }),
-                                        React.createElement('span', {
-                                            key: 'name',
-                                            style: { fontWeight: '600', fontSize: '14px' }
-                                        }, talent)
-                                    ]),
-                                    React.createElement('div', {
-                                        key: 'info',
-                                        style: { fontSize: '12px', color: '#b0b3b8', marginLeft: '28px' }
-                                    }, `${info.category} • ${info.description}`)
-                                ])
-                            ))
-                        ]);
-
                     case 'map':
                         return React.createElement('div', { className: 'map-info', key: 'map-info' }, [
                             React.createElement('h3', { key: 'title' }, `🗺️ ${currentMap} Resources`),
@@ -1675,6 +1643,19 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                     case 'success':
                         return React.createElement('div', { className: 'success-banner' }, `✅ ${results.message}`);
                     
+                    case 'loading':
+                        return React.createElement('div', { 
+                            style: { 
+                                background: 'rgba(0, 212, 255, 0.1)', 
+                                color: '#00d4ff', 
+                                padding: '15px', 
+                                borderRadius: '10px', 
+                                marginTop: '15px',
+                                textAlign: 'center',
+                                fontWeight: '600'
+                            } 
+                        }, `⏳ ${results.message}`);
+                    
                     case 'hierarchical':
                         const renderCraftingStep = (item, data, depth = 0, parentKey = '') => {
                             const recipe = recipes[item];
@@ -1682,6 +1663,7 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                             const indent = depth * 20;
                             const itemKey = parentKey ? `${parentKey}-${item}` : item;
                             const isChecked = checkedItems[itemKey];
+                            const hasTalentBonus = data.talentSavings > 0;
                             
                             return React.createElement('div', {
                                 key: `${item}-${depth}`,
@@ -1732,7 +1714,11 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                                                 fontSize: depth === 0 ? '14px' : '13px',
                                                 textDecoration: isChecked ? 'line-through' : 'none'
                                             }
-                                        }, `${isAvailable ? '✅' : '❌'} ${data.totalNeeded}x ${item}`)
+                                        }, `${isAvailable ? '✅' : '❌'} ${data.totalNeeded}x ${item}`),
+                                        hasTalentBonus && React.createElement('span', {
+                                            key: 'talent-badge',
+                                            className: 'savings-indicator'
+                                        }, `−${Math.round(data.talentSavings)}%`)
                                     ]),
                                     React.createElement('span', {
                                         key: 'info',
@@ -1740,23 +1726,17 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                                             fontSize: '11px',
                                             color: '#b0b3b8'
                                         }
-                                    }, [
-                                        `${recipe?.crafted_at || 'Raw'} • T${recipe?.tier || 0}`,
-                                        data.usedTalent && React.createElement('span', {
-                                            key: 'talent',
-                                            style: {
-                                                marginLeft: '5px',
-                                                color: '#4ecdc4',
-                                                fontWeight: '600'
-                                            }
-                                        }, ` • 🎯 ${data.usedTalent}`)
-                                    ])
+                                    }, `${recipe?.crafted_at || 'Raw'} • T${recipe?.tier || 0}`)
                                 ]),
                                 Object.keys(data.ingredients || {}).length > 0 && React.createElement('div', {
                                     key: 'ingredients',
                                     style: { marginLeft: '10px' }
-                                }, Object.entries(data.ingredients).map(([ingredient, amount]) => {
+                                }, Object.entries(data.ingredients).map(([ingredient, amountData]) => {
                                     const ingredientData = results.craftingTree[ingredient];
+                                    const amount = amountData.adjusted || amountData.base || amountData;
+                                    const baseAmount = amountData.base || amountData;
+                                    const hasReduction = amountData.adjusted && amountData.adjusted < amountData.base;
+                                    
                                     if (ingredientData) {
                                         return renderCraftingStep(ingredient, ingredientData, depth + 1, itemKey);
                                     } else {
@@ -1800,7 +1780,13 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                                                 style: {
                                                     textDecoration: isRawChecked ? 'line-through' : 'none'
                                                 }
-                                            }, `${isRawAvailable ? '✅' : '❌'} ${amount}x ${ingredient} (Raw Material)`)
+                                            }, [
+                                                hasReduction && React.createElement('span', {
+                                                    key: 'base',
+                                                    className: 'original-cost'
+                                                }, `${baseAmount.toFixed(2)}x`),
+                                                `${isRawAvailable ? '✅' : '❌'} ${amount.toFixed(2)}x ${ingredient} (Raw Material)`
+                                            ])
                                         ]);
                                     }
                                 }))
@@ -1824,10 +1810,7 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
 
                         const completionStats = getCompletionStats();
                         
-                        return React.createElement('div', { 
-                            className: 'results-panel',
-                            ref: resultsRef 
-                        }, [
+                        return React.createElement('div', { className: 'results-panel' }, [
                             React.createElement('div', { 
                                 className: 'results-title', 
                                 key: 'title',
@@ -1938,7 +1921,7 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                                             style: {
                                                 textDecoration: isRawChecked ? 'line-through' : 'none'
                                             }
-                                        }, `${amount}x`)
+                                        }, `${amount.toFixed(2)}x`)
                                     ])
                                 })
                             ]),
@@ -1978,15 +1961,22 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
             const availableCount = filteredItems.filter(([item]) => checkItemAvailability(item, currentMap)).length;
             const totalCount = filteredItems.length;
             const totalItems = Object.keys(recipes).length;
+            const activeTalents = Object.values(talentLevels).filter(l => l > 0).length;
 
             return React.createElement('div', { className: 'app-container' }, [
                 React.createElement('div', { className: 'app-header', key: 'header' }, [
                     React.createElement('h1', { className: 'app-title', key: 'title' }, "🚀 ICARUS COMPLETE"),
-                    React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator with Complete Game Database • JSON-Powered • Live Data"),
+                    React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator with Talent System"),
                     React.createElement('div', { className: 'stats-header', key: 'stats' }, 
-                        `📊 Database: ${totalItems} Total Items • ${availableCount}/${totalCount} Available on ${currentMap}`
+                        `📊 Database: ${totalItems} Items • ${availableCount}/${totalCount} Available on ${currentMap} • 🎓 ${activeTalents} Active Talents`
                     )
                 ]),
+
+                React.createElement(TalentPanel, {
+                    key: 'talents',
+                    talentLevels: talentLevels,
+                    onTalentLevelChange: handleTalentLevelChange
+                }),
 
                 React.createElement('div', { className: 'main-content', key: 'main' }, [
                     React.createElement('div', { className: 'content-panel', key: 'content' }, [
@@ -1996,11 +1986,6 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                                 className: `tab-button ${activeTab === 'calculator' ? 'active' : ''}`,
                                 onClick: () => setActiveTab('calculator')
                             }, "🔨 Calculator"),
-                            React.createElement('button', {
-                                key: 'talents-tab',
-                                className: `tab-button ${activeTab === 'talents' ? 'active' : ''}`,
-                                onClick: () => setActiveTab('talents')
-                            }, `🎯 Talents ${activeTalents.size > 0 ? `(${activeTalents.size})` : ''}`),
                             React.createElement('button', {
                                 key: 'map-tab',
                                 className: `tab-button ${activeTab === 'map' ? 'active' : ''}`,
@@ -2038,8 +2023,8 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                                 key: 'calculate',
                                 className: 'btn primary',
                                 onClick: calculateRequirements,
-                                disabled: Object.keys(shoppingCart).length === 0 || isCalculating
-                            }, isCalculating ? '⏳ Calculating...' : '🧮 Calculate'),
+                                disabled: Object.keys(shoppingCart).length === 0
+                            }, "🧮 Calculate"),
                             React.createElement('button', {
                                 key: 'clear',
                                 className: 'btn secondary',
@@ -2054,7 +2039,8 @@ Please check the 'icarus_data' folder exists and contains valid JSON files.`);
                         }, [
                             React.createElement('div', { key: 'available' }, `Available on ${currentMap}: ${availableCount}/${totalCount}`),
                             React.createElement('div', { key: 'total' }, `Total Database: ${totalItems} items`),
-                            React.createElement('div', { key: 'cart' }, `Cart Items: ${Object.keys(shoppingCart).length}`)
+                            React.createElement('div', { key: 'cart' }, `Cart Items: ${Object.keys(shoppingCart).length}`),
+                            React.createElement('div', { key: 'talents' }, `Active Talents: ${activeTalents}`)
                         ])
                     ])
                 ])
