@@ -1,0 +1,13 @@
+{
+  "Name": "Building Upgrade Tool",
+  "Description": "Building Upgrade Tool General Category Tools Tech Tier Tier 1 Description Improve your structures without tearing them down. Flavor Text Allows you to replace an existing structural piece for an advanced version, if you have that item in your inventory. Hold 'R' when holding the tool. Misc Crafted At Character Crafting",
+  "Recipe": [],
+  "CraftedIn": "Crafted At",
+  "Infobox": {
+    "Category": "Tools",
+    "Tech Tier": "Tier 1",
+    "Description": "Improve your structures without tearing them down.",
+    "Flavor Text": "Allows you to replace an existing structural piece for an advanced version, if you have that item in your inventory. Hold 'R' when holding the tool.",
+    "Crafted At": "Character Crafting"
+  }
+}

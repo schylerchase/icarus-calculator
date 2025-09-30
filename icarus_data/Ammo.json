@@ -1,0 +1,151 @@
+{
+  "Name": "Ammo",
+  "Description": "All items (77)",
+  "Recipe": [
+    {
+      "Raw": "Stone Arrow",
+      "Name": "Stone Arrow",
+      "Quantity": "31",
+      "Link": "https://icarus.fandom.com/wiki/Stone_Arrow"
+    },
+    {
+      "Raw": "Bone Arrow",
+      "Name": "Bone Arrow",
+      "Quantity": "54",
+      "Link": "https://icarus.fandom.com/wiki/Bone_Arrow"
+    },
+    {
+      "Raw": "Flare Arrow",
+      "Name": "Flare Arrow",
+      "Quantity": "13",
+      "Link": "https://icarus.fandom.com/wiki/Flare_Arrow"
+    },
+    {
+      "Raw": "Poison Arrow",
+      "Name": "Poison Arrow",
+      "Quantity": "13",
+      "Link": "https://icarus.fandom.com/wiki/Poison_Arrow"
+    },
+    {
+      "Raw": "Fire Arrow",
+      "Name": "Fire Arrow",
+      "Quantity": "13",
+      "Link": "https://icarus.fandom.com/wiki/Fire_Arrow"
+    },
+    {
+      "Raw": "Flint Arrow",
+      "Name": "Flint Arrow",
+      "Quantity": "63",
+      "Link": "https://icarus.fandom.com/wiki/Flint_Arrow"
+    },
+    {
+      "Raw": "Steel Arrow",
+      "Name": "Steel Arrow",
+      "Quantity": "67",
+      "Link": "https://icarus.fandom.com/wiki/Steel_Arrow"
+    },
+    {
+      "Raw": "Aluminium Arrow",
+      "Name": "Aluminium Arrow",
+      "Quantity": "72",
+      "Link": "https://icarus.fandom.com/wiki/Aluminium_Arrow"
+    },
+    {
+      "Raw": "Carbon Arrow",
+      "Name": "Carbon Arrow",
+      "Quantity": "81",
+      "Link": "https://icarus.fandom.com/wiki/Carbon_Arrow"
+    },
+    {
+      "Raw": "Titanium Arrow",
+      "Name": "Titanium Arrow",
+      "Quantity": "81",
+      "Link": "https://icarus.fandom.com/wiki/Titanium_Arrow"
+    },
+    {
+      "Raw": "Composite Arrow",
+      "Name": "Composite Arrow",
+      "Quantity": "90",
+      "Link": "https://icarus.fandom.com/wiki/Composite_Arrow"
+    },
+    {
+      "Raw": "Sandworm Arrow",
+      "Name": "Sandworm Arrow",
+      "Quantity": "54",
+      "Link": "https://icarus.fandom.com/wiki/Sandworm_Arrow"
+    },
+    {
+      "Raw": "Caveworm Arrow",
+      "Name": "Caveworm Arrow",
+      "Quantity": "54",
+      "Link": "https://icarus.fandom.com/wiki/Caveworm_Arrow"
+    },
+    {
+      "Raw": "Black Wolf Arrow",
+      "Name": "Black Wolf Arrow",
+      "Quantity": "18",
+      "Link": "https://icarus.fandom.com/wiki/Black_Wolf_Arrow"
+    },
+    {
+      "Raw": "Shengong \"Wenhe\" Arrow",
+      "Name": "Shengong \"Wenhe\" Arrow",
+      "Quantity": "66",
+      "Link": "https://icarus.fandom.com/wiki/Shengong_%22Wenhe%22_Arrow"
+    },
+    {
+      "Raw": "MXC Nerve Arrow",
+      "Name": "MXC Nerve Arrow",
+      "Quantity": "66",
+      "Link": "https://icarus.fandom.com/wiki/MXC_Nerve_Arrow"
+    },
+    {
+      "Raw": "MXC Venom Arrow",
+      "Name": "MXC Venom Arrow",
+      "Quantity": "66",
+      "Link": "https://icarus.fandom.com/wiki/MXC_Venom_Arrow"
+    },
+    {
+      "Raw": "MXC Flange Arrow",
+      "Name": "MXC Flange Arrow",
+      "Quantity": "66",
+      "Link": "https://icarus.fandom.com/wiki/MXC_Flange_Arrow"
+    },
+    {
+      "Raw": "Inaris \"Aruda\" Arrow",
+      "Name": "Inaris \"Aruda\" Arrow",
+      "Quantity": "76",
+      "Link": "https://icarus.fandom.com/wiki/Inaris_%22Aruda%22_Arrow"
+    },
+    {
+      "Raw": "Larkwell Martinez Arrow",
+      "Name": "Larkwell Martinez Arrow",
+      "Quantity": "99",
+      "Link": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Arrow"
+    },
+    {
+      "Raw": "Larkwell Martinez Ballistic Arrow",
+      "Name": "Larkwell Martinez Ballistic Arrow",
+      "Quantity": "57",
+      "Link": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Ballistic_Arrow"
+    },
+    {
+      "Raw": "Larkwell Martinez Tazer Arrow",
+      "Name": "Larkwell Martinez Tazer Arrow",
+      "Quantity": "28",
+      "Link": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tazer_Arrow"
+    },
+    {
+      "Raw": "Larkwell Martinez Bleed Arrow",
+      "Name": "Larkwell Martinez Bleed Arrow",
+      "Quantity": "61",
+      "Link": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Bleed_Arrow"
+    },
+    {
+      "Raw": "Obsidian Arrow",
+      "Name": "Obsidian Arrow",
+      "Quantity": "18",
+      "Link": "https://icarus.fandom.com/wiki/Obsidian_Arrow"
+    }
+  ],
+  "CraftedIn": null
+}

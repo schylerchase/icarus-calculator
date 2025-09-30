@@ -1,0 +1,18 @@
+{
+  "Name": "Encrypted Satellite Upgrade",
+  "Description": "Encrypted Satellite Upgrade General Category Items Tech Tier Tier 4 Required Level 30 Description An upgrade for the CONT4CT Device that will allow access to encrypted missions. Flavor Text Things are getting serious now. Statistics Weight 50.0 kg Durability 2,500 Misc Crafted At Fabricator Repaired with Hammers Prerequisite Electricity Tool",
+  "Recipe": [],
+  "CraftedIn": "Crafted At",
+  "Infobox": {
+    "Category": "Items",
+    "Tech Tier": "Tier 4",
+    "Required Level": "30",
+    "Description": "An upgrade for the CONT4CT Device that will allow access to encrypted missions.",
+    "Flavor Text": "Things are getting serious now.",
+    "Weight": "50.0 kg",
+    "Durability": "2,500",
+    "Crafted At": "Fabricator",
+    "Repaired with": "Hammers",
+    "Prerequisite": "Electricity Tool"
+  }
+}

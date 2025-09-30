@@ -1,0 +1,16 @@
+{
+  "Name": "IC-001 Extractor",
+  "Description": "IC-001 Extractor General Category Deployables Tech Tier Orbital Tech Description Requires the IC-001 Power Source to Run Flavor Text Prime First Cohort Extraction Technology Statistics Attributes +33% Extractor Drill Speed Weight 2.0 kg Durability 5,000 Misc Repaired with Hammers",
+  "Recipe": [],
+  "CraftedIn": null,
+  "Infobox": {
+    "Category": "Deployables",
+    "Tech Tier": "Orbital Tech",
+    "Description": "Requires the IC-001 Power Source to Run",
+    "Flavor Text": "Prime First Cohort Extraction Technology",
+    "Attributes": "+33% Extractor Drill Speed",
+    "Weight": "2.0 kg",
+    "Durability": "5,000",
+    "Repaired with": "Hammers"
+  }
+}

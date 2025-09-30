@@ -1,0 +1,15 @@
+{
+  "Name": "Fire Extinguisher",
+  "Description": "Fire Extinguisher General Category Tools Tech Tier Tier 3 Description A canister of compressed flame-extinguishing gel. Flavor Text The instructions say: 'Aim towards flame.' Statistics Weight 1.0 kg Durability 10,000 Misc Crafted At Machining Bench",
+  "Recipe": [],
+  "CraftedIn": "{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"url\":\"https://icarus.fandom.com/wiki/Fire_Extinguisher\",\"name\":\"Fire Extinguisher\",\"headline\":\"Fire Extinguisher\",\"mainEntity\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Fire_Extinguisher\",\"name\":\"Fire Extinguisher\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/7/77/ITEM_Fire_Extinguisher.png/revision/latest?cb=20210916211002\"},\"about\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Fire_Extinguisher\",\"name\":\"Fire Extinguisher\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/7/77/ITEM_Fire_Extinguisher.png/revision/latest?cb=20210916211002\"},\"author\":{\"@type\":\"Organization\",\"url\":\"https://icarus.fandom.com/wiki/Fire_Extinguisher?action=credits\",\"name\":\"Contributors to Icarus Wiki\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Fandom, Inc.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720\"}},\"abstract\":\"The Fire Extinguisher is a Tier 3 tool used to hastily put out fires. As Prospectors use the Fire Extinguisher, its durability decreases and cannot be repaired at the \\u00a0Machining Bench when broken. The Fire Extinguisher is crafted at the Machining Bench with the following materials:\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/7/77/ITEM_Fire_Extinguisher.png/revision/latest?cb=20210916211002\",\"thumbnailUrl\":\"https://static.wikia.nocookie.net/icarus/images/7/77/ITEM_Fire_Extinguisher.png/revision/latest?cb=20210916211002\"}",
+  "Infobox": {
+    "Category": "Tools",
+    "Tech Tier": "Tier 3",
+    "Description": "A canister of compressed flame-extinguishing gel.",
+    "Flavor Text": "The instructions say: 'Aim towards flame.'",
+    "Weight": "1.0 kg",
+    "Durability": "10,000",
+    "Crafted At": "Machining Bench"
+  }
+}

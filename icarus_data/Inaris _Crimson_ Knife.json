@@ -1,0 +1,18 @@
+{
+  "Name": "Inaris \"Crimson\" Knife",
+  "Description": "Inaris \"Crimson\" Knife General Category Knives Tech Tier Orbital Tech Description A trusty blade to keep by your side Flavor Text Perfect for hurling at your enemies Statistics Attributes +15% chance to cause Burn on Hit with Attacks Inflicts the 'Burn' modifier for 10 seconds: -50% Health Regeneration -25% Maximum Health Melee Damage 33 - 35 Melee Damage 50 - 50 Fire Damage Skinning +175% Yield from Skinning Weight 0.5 kg Durability 60,000 Misc Repaired with 10 on Station or 1 Workshop Repair Kit at a powered Repair Bench",
+  "Recipe": [],
+  "CraftedIn": "{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"url\":\"https://icarus.fandom.com/wiki/Inaris_%22Crimson%22_Knife\",\"name\":\"Inaris \\\"Crimson\\\" Knife\",\"headline\":\"Inaris \\\"Crimson\\\" Knife\",\"mainEntity\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Inaris_%22Crimson%22_Knife\",\"name\":\"Inaris \\\"Crimson\\\" Knife\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/1/16/ITEM_Inaris_%22Crimson%22_Knife.png/revision/latest?cb=20230824091919\"},\"about\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Inaris_%22Crimson%22_Knife\",\"name\":\"Inaris \\\"Crimson\\\" Knife\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/1/16/ITEM_Inaris_%22Crimson%22_Knife.png/revision/latest?cb=20230824091919\"},\"author\":{\"@type\":\"Organization\",\"url\":\"https://icarus.fandom.com/wiki/Inaris_%22Crimson%22_Knife?action=credits\",\"name\":\"Contributors to Icarus Wiki\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Fandom, Inc.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720\"}},\"abstract\":\"The Inaris \\\"Crimson\\\" Knife is a Workshop Knife geared towards combat, intrinsically dealing fire damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. Despite what the flavor text says, the Inaris \\\"Crimson\\\" Knife cannot be thrown. There currently are no workshop Throwing Knives. The Inaris \\\"Crimson\\\" Knife is unlocked in the Workshop on the Space Station and is equipped in the Prospector's...\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/1/16/ITEM_Inaris_%22Crimson%22_Knife.png/revision/latest?cb=20230824091919\",\"thumbnailUrl\":\"https://static.wikia.nocookie.net/icarus/images/1/16/ITEM_Inaris_%22Crimson%22_Knife.png/revision/latest?cb=20230824091919\"}",
+  "Infobox": {
+    "Category": "Knives",
+    "Tech Tier": "Orbital Tech",
+    "Description": "A trusty blade to keep by your side",
+    "Flavor Text": "Perfect for hurling at your enemies",
+    "Attributes": "+15% chance to cause Burn on Hit with Attacks Inflicts the 'Burn' modifier for 10 seconds: -50% Health Regeneration -25% Maximum Health",
+    "Melee Damage": "33 - 35 Melee Damage 50 - 50 Fire Damage",
+    "Skinning": "+175% Yield from Skinning",
+    "Weight": "0.5 kg",
+    "Durability": "60,000",
+    "Repaired with": "10 on Station or 1 Workshop Repair Kit at a powered Repair Bench"
+  }
+}

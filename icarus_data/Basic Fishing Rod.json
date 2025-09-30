@@ -1,0 +1,17 @@
+{
+  "Name": "Basic Fishing Rod",
+  "Description": "Basic Fishing Rod General Category Fishing Equipment Tech Tier Tier 1 Description A basic fishing rod. Flavor Text Gone Fishin' Statistics Attributes -5% Perceived Threat -5% Time to Hook Fish Weight 1.0 kg Durability 2,000 Misc Crafted At Character Crafting Repaired with Stick",
+  "Recipe": [],
+  "CraftedIn": "Crafted At",
+  "Infobox": {
+    "Category": "Fishing Equipment",
+    "Tech Tier": "Tier 1",
+    "Description": "A basic fishing rod.",
+    "Flavor Text": "Gone Fishin'",
+    "Attributes": "-5% Perceived Threat -5% Time to Hook Fish",
+    "Weight": "1.0 kg",
+    "Durability": "2,000",
+    "Crafted At": "Character Crafting",
+    "Repaired with": "Stick"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "Biofuel Can",
+  "Description": "Biofuel Can Don't light a match. General Category Tools Tech Tier Tier 3 Description Canister for biofuel storage, which can be filled at a composter. Statistics Volume 10 L Weight 5.0 Kg Durability 100 Misc Crafted At Machining Bench Fabricator",
+  "Recipe": [
+    {
+      "Raw": "25",
+      "Name": "25",
+      "Quantity": "25",
+      "Link": null
+    }
+  ],
+  "CraftedIn": "{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"url\":\"https://icarus.fandom.com/wiki/Biofuel_Can\",\"name\":\"Biofuel Can\",\"headline\":\"Biofuel Can\",\"mainEntity\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Biofuel_Can\",\"name\":\"Biofuel Can\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/2/25/ITEM_Biofuel_Can.png/revision/latest?cb=20211101181353\"},\"about\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Biofuel_Can\",\"name\":\"Biofuel Can\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/2/25/ITEM_Biofuel_Can.png/revision/latest?cb=20211101181353\"},\"author\":{\"@type\":\"Organization\",\"url\":\"https://icarus.fandom.com/wiki/Biofuel_Can?action=credits\",\"name\":\"Contributors to Icarus Wiki\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Fandom, Inc.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720\"}},\"abstract\":\"Biofuel Can is used to store Biofuel. It is filled at either the \\u00a0Biofuel Composter or \\u00a0Electric Composter. Biofuel Can is crafted at the \\u00a0Machining Bench or \\u00a0Fabricator with the following resources: When placed into either composter, the Biofuel Can will fill up as long as there are enough ingredients for one of the Biofuel Recipes. The Biofuel Can can also be filled by placing the item in the hotbar and interacting with a Portable Biofuel Tank that has been placed on the ground. Similarly...\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/2/25/ITEM_Biofuel_Can.png/revision/latest?cb=20211101181353\",\"thumbnailUrl\":\"https://static.wikia.nocookie.net/icarus/images/2/25/ITEM_Biofuel_Can.png/revision/latest?cb=20211101181353\"}",
+  "Infobox": {
+    "Category": "Tools",
+    "Tech Tier": "Tier 3",
+    "Description": "Canister for biofuel storage, which can be filled at a composter.",
+    "Volume": "10 L",
+    "Weight": "5.0 Kg",
+    "Durability": "100",
+    "Crafted At": "Machining Bench Fabricator"
+  }
+}

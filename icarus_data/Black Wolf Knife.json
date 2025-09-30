@@ -1,0 +1,19 @@
+{
+  "Name": "Black Wolf Knife",
+  "Description": "Black Wolf Knife General Category Knives Tech Tier Tier 3 Description A knife made from the teeth of an intimidating predator. Flavor Text Sharp as ever. Statistics Attributes +25% change to cause Minor Hemorrhage on Hit with attacks Inflicts the 'Hemorrhage' modifier for 10 seconds: A nasty gash, taking damage, worse while moving. Heal with Suture Kit. Melee Damage 63 - 70 Skinning 225% Yield from Skinning Weight 0.5 kg Durability 22,000 Misc Crafted At Forge Foundry Repaired with 1 Black Wolf Tooth",
+  "Recipe": [],
+  "CraftedIn": "Crafted At",
+  "Infobox": {
+    "Category": "Knives",
+    "Tech Tier": "Tier 3",
+    "Description": "A knife made from the teeth of an intimidating predator.",
+    "Flavor Text": "Sharp as ever.",
+    "Attributes": "+25% change to cause Minor Hemorrhage on Hit with attacks Inflicts the 'Hemorrhage' modifier for 10 seconds: A nasty gash, taking damage, worse while moving. Heal with Suture Kit.",
+    "Melee Damage": "63 - 70",
+    "Skinning": "225% Yield from Skinning",
+    "Weight": "0.5 kg",
+    "Durability": "22,000",
+    "Crafted At": "Forge Foundry",
+    "Repaired with": "1 Black Wolf Tooth"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "IC-001 Radar",
+  "Description": "IC-001 Radar General Category Deployables Tech Tier Orbital Tech Description Portable Exotics detection unit, uses an internal power system that attracts a large amount of wildlife when active. Approximate directional arc shown on your map. Flavor Text Prime First Cohort Scanning Technology Statistics Requires Shelter No Attributes +25% Radar Scanning Speed +33% Radar Precision +50% Animals Attracted Weight 2.0 Kg Durability 5,000 Misc Repaired with Hammers",
+  "Recipe": [],
+  "CraftedIn": null,
+  "Infobox": {
+    "Category": "Deployables",
+    "Tech Tier": "Orbital Tech",
+    "Description": "Portable Exotics detection unit, uses an internal power system that attracts a large amount of wildlife when active. Approximate directional arc shown on your map.",
+    "Flavor Text": "Prime First Cohort Scanning Technology",
+    "Requires Shelter": "No",
+    "Attributes": "+25% Radar Scanning Speed +33% Radar Precision +50% Animals Attracted",
+    "Weight": "2.0 Kg",
+    "Durability": "5,000",
+    "Repaired with": "Hammers"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "Handcannon Attachment",
+  "Description": "Handcannon Attachment General Category Attachment Packs Tech Tier Tier 3 Crafted at Alteration Bench Statistics Effect Damaging 1 Bonus +40% Projectile Damage +25% Critical Damage +25% Damage Dealt to Hardened Points Applied to Pistol Miscellaneous Description ??? Weight 1 kg",
+  "Recipe": [],
+  "CraftedIn": "{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"url\":\"https://icarus.fandom.com/wiki/Handcannon_Attachment\",\"name\":\"Handcannon Attachment\",\"headline\":\"Handcannon Attachment\",\"mainEntity\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Handcannon_Attachment\",\"name\":\"Handcannon Attachment\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/3/3e/ITEM_Handcannon_Attachment.png/revision/latest?cb=20221020012949\"},\"about\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Handcannon_Attachment\",\"name\":\"Handcannon Attachment\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/3/3e/ITEM_Handcannon_Attachment.png/revision/latest?cb=20221020012949\"},\"author\":{\"@type\":\"Organization\",\"url\":\"https://icarus.fandom.com/wiki/Handcannon_Attachment?action=credits\",\"name\":\"Contributors to Icarus Wiki\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Fandom, Inc.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720\"}},\"abstract\":\"Handcannon Attachment is a mid-to-end game item available once the prospector has unlocked the tech. The Handcannon Attachment can be used to alter the following weapons: The Handcannon Attachment can be crafted at the with the following resources: 6 2\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/3/3e/ITEM_Handcannon_Attachment.png/revision/latest?cb=20221020012949\",\"thumbnailUrl\":\"https://static.wikia.nocookie.net/icarus/images/3/3e/ITEM_Handcannon_Attachment.png/revision/latest?cb=20221020012949\"}",
+  "Infobox": {
+    "Category": "Attachment Packs",
+    "Tech Tier": "Tier 3",
+    "Crafted at": "Alteration Bench",
+    "Effect": "Damaging 1",
+    "Bonus": "+40% Projectile Damage +25% Critical Damage +25% Damage Dealt to Hardened Points",
+    "Applied to": "Pistol",
+    "Description": "???",
+    "Weight": "1 kg"
+  }
+}

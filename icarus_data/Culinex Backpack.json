@@ -1,0 +1,17 @@
+{
+  "Name": "Culinex Backpack",
+  "Description": "Culinex Backpack General Category Backpacks Tech Tier Orbital Tech Description A handy backpack to cover all your cooking needs. Flavor Text Just think of the possibilities... Statistics Attributes -25% Food Consumption -25% Water Consumption +6 Suit Inventory Slots +25% Food Effects Duration +25% Cooked Food Modifier Effectiveness +25% Cooked Food Modifier Duration Weight 0.5 Kg Durability 5,500 Misc Crafted At Workshop Repaired with 10 on Station or 1 Workshop Repair Kit at a powered Repair Bench",
+  "Recipe": [],
+  "CraftedIn": "{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"url\":\"https://icarus.fandom.com/wiki/Culinex_Backpack\",\"name\":\"Culinex Backpack\",\"headline\":\"Culinex Backpack\",\"mainEntity\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Culinex_Backpack\",\"name\":\"Culinex Backpack\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/7/7c/ITEM_Culinex_Backpack.png/revision/latest?cb=20250426195102\"},\"about\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Culinex_Backpack\",\"name\":\"Culinex Backpack\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/7/7c/ITEM_Culinex_Backpack.png/revision/latest?cb=20250426195102\"},\"author\":{\"@type\":\"Organization\",\"url\":\"https://icarus.fandom.com/wiki/Culinex_Backpack?action=credits\",\"name\":\"Contributors to Icarus Wiki\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Fandom, Inc.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720\"}},\"abstract\":\"The Culinex Backpack provides six inventory slots, reduces consumption of food and water, adds +25% to the effectiveness of cooked food modifiers and increases the duration of cooked food modifiers by +25% for items cooked with the backpack equipped. Good for resource-scarce environments like the lava regions of the Prometheus map or to stretch out the food buffs on long range excursions. The Culinex Backpack is unlocked in the Workshop on the Space Station and is equipped in the...\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/7/7c/ITEM_Culinex_Backpack.png/revision/latest?cb=20250426195102\",\"thumbnailUrl\":\"https://static.wikia.nocookie.net/icarus/images/7/7c/ITEM_Culinex_Backpack.png/revision/latest?cb=20250426195102\"}",
+  "Infobox": {
+    "Category": "Backpacks",
+    "Tech Tier": "Orbital Tech",
+    "Description": "A handy backpack to cover all your cooking needs.",
+    "Flavor Text": "Just think of the possibilities...",
+    "Attributes": "-25% Food Consumption -25% Water Consumption +6 Suit Inventory Slots +25% Food Effects Duration +25% Cooked Food Modifier Effectiveness +25% Cooked Food Modifier Duration",
+    "Weight": "0.5 Kg",
+    "Durability": "5,500",
+    "Crafted At": "Workshop",
+    "Repaired with": "10 on Station or 1 Workshop Repair Kit at a powered Repair Bench"
+  }
+}

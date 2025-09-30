@@ -1,0 +1,18 @@
+{
+  "Name": "Cold Steel Sledgehammer",
+  "Description": "Cold Steel Sledgehammer General Category Tools Tech Tier Tier 3 Description A sturdy Hammer crafted using Cold Steel, unique to Icarus. Gives a chance to collect Frozen Ore on impact. Flavor Text One of the few tools that are only available on Icarus, due to the nature of the materials required. Statistics Attributes 40 Frost Damage +100% Yield from Shattering +50 Shattering Damage +15% chance to cause Freeze on Hit with Attacks +20% Frozen Ore per Mined Resource 100% Hardened Point Penetration Inflicts the 'Freeze' modifier for 10 seconds. -25% Movement Speed -25% Melee Damage Melee Damage 30 - 40 Melee Damage Weight 0.5 Kg Durability 150,000 Misc Crafted At Forge Foundry Repaired with 1 Cold Steel Ingot",
+  "Recipe": [],
+  "CraftedIn": "{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"url\":\"https://icarus.fandom.com/wiki/Cold_Steel_Sledgehammer\",\"name\":\"Cold Steel Sledgehammer\",\"headline\":\"Cold Steel Sledgehammer\",\"mainEntity\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Cold_Steel_Sledgehammer\",\"name\":\"Cold Steel Sledgehammer\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/9/98/ITEM_Cold_Steel_Sledgehammer.png/revision/latest?cb=20240212225835\"},\"about\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Cold_Steel_Sledgehammer\",\"name\":\"Cold Steel Sledgehammer\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/9/98/ITEM_Cold_Steel_Sledgehammer.png/revision/latest?cb=20240212225835\"},\"author\":{\"@type\":\"Organization\",\"url\":\"https://icarus.fandom.com/wiki/Cold_Steel_Sledgehammer?action=credits\",\"name\":\"Contributors to Icarus Wiki\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Fandom, Inc.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720\"}},\"abstract\":\"Cold Steel Sledgehammer is a Tier 3 Sledgehammer made with Cold Steel Ingots. Due to the materials required, crafting the item requires the New Frontiers DLC. Sledgehammers are used to mine Scoria, Clay and Obsidian deposits on Prometheus. Cold Steel Sledgehammer is crafted at the \\u00a0Forge or \\u00a0Foundry with the following resources:\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/9/98/ITEM_Cold_Steel_Sledgehammer.png/revision/latest?cb=20240212225835\",\"thumbnailUrl\":\"https://static.wikia.nocookie.net/icarus/images/9/98/ITEM_Cold_Steel_Sledgehammer.png/revision/latest?cb=20240212225835\"}",
+  "Infobox": {
+    "Category": "Tools",
+    "Tech Tier": "Tier 3",
+    "Description": "A sturdy Hammer crafted using Cold Steel, unique to Icarus. Gives a chance to collect Frozen Ore on impact.",
+    "Flavor Text": "One of the few tools that are only available on Icarus, due to the nature of the materials required.",
+    "Attributes": "40 Frost Damage +100% Yield from Shattering +50 Shattering Damage +15% chance to cause Freeze on Hit with Attacks +20% Frozen Ore per Mined Resource 100% Hardened Point Penetration Inflicts the 'Freeze' modifier for 10 seconds. -25% Movement Speed -25% Melee Damage",
+    "Melee Damage": "30 - 40 Melee Damage",
+    "Weight": "0.5 Kg",
+    "Durability": "150,000",
+    "Crafted At": "Forge Foundry",
+    "Repaired with": "1 Cold Steel Ingot"
+  }
+}

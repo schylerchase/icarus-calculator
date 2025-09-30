@@ -1,0 +1,15 @@
+{
+  "Name": "Biomore Backpack",
+  "Description": "Biomore Backpack General Category Backpacks Tech Tier Orbital Tech Description A handy backpack to cover all of your medical needs. Flavor Text Just think of the possibilities... Statistics Attributes +6 Suit Inventory Slots +5 Movement Speed -10% Stamina Consumed by Actions Nearby Allies have additional Physical Resistance +50% Health Restored to Revived Incapacitated Players Nearby Allies have quicker healing from Bacterial Infections, Parasitic Infections, Poisons and Physical Trauma Nearby Allies have additional Heath Regeneration. Weight 0.5 kg Durability 5,500",
+  "Recipe": [],
+  "CraftedIn": "Space Station",
+  "Infobox": {
+    "Category": "Backpacks",
+    "Tech Tier": "Orbital Tech",
+    "Description": "A handy backpack to cover all of your medical needs.",
+    "Flavor Text": "Just think of the possibilities...",
+    "Attributes": "+6 Suit Inventory Slots +5 Movement Speed -10% Stamina Consumed by Actions Nearby Allies have additional Physical Resistance +50% Health Restored to Revived Incapacitated Players Nearby Allies have quicker healing from Bacterial Infections, Parasitic Infections, Poisons and Physical Trauma Nearby Allies have additional Heath Regeneration.",
+    "Weight": "0.5 kg",
+    "Durability": "5,500"
+  }
+}

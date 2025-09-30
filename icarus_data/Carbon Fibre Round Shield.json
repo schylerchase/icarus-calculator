@@ -1,0 +1,17 @@
+{
+  "Name": "Carbon Fibre Round Shield",
+  "Description": "Carbon Fibre Round Shield General Category Shields Tech Tier Tier 3 Description A lightweight yet durable shield made from advanced carbon, providing excellent protection without weighing you down. Flavor Text With this in hand, you're ready for anything. Statistics Attributes 90 Degree Blocking Angle 90% of Damage Blocked by Shield Weight 1.5 kg Durability 5,000 Misc Crafted At Forge Foundry Repaired with 1 Carbon Fiber",
+  "Recipe": [],
+  "CraftedIn": "Crafted At",
+  "Infobox": {
+    "Category": "Shields",
+    "Tech Tier": "Tier 3",
+    "Description": "A lightweight yet durable shield made from advanced carbon, providing excellent protection without weighing you down.",
+    "Flavor Text": "With this in hand, you're ready for anything.",
+    "Attributes": "90 Degree Blocking Angle 90% of Damage Blocked by Shield",
+    "Weight": "1.5 kg",
+    "Durability": "5,000",
+    "Crafted At": "Forge Foundry",
+    "Repaired with": "1 Carbon Fiber"
+  }
+}

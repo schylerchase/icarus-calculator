@@ -1,0 +1,15 @@
+{
+  "Name": "Fisher's Module",
+  "Description": "Fisher's Module TL;DR: Dark magic General Category Modules Description A handy module that assists your envirosuit in locating a greater variety of aquatic life in the waterways of Icarus. Flavor Text Warning: Prototype tech listed off-label for use in Icarus operations. Warranty void if used planetside. Use at your own risk. Attributes +10% Quality of Caught Fish +200% chance to catch Unique Fish Crafting Research Cost 100 Crafting Cost 50 Prerequisite Mass Dampener Module",
+  "Recipe": [],
+  "CraftedIn": "{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"url\":\"https://icarus.fandom.com/wiki/Fisher%27s_Module\",\"name\":\"Fisher's Module\",\"headline\":\"Fisher's Module\",\"mainEntity\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Fisher%27s_Module\",\"name\":\"Fisher's Module\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/c/c5/ITEM_Fisher%27s_Module.png/revision/latest?cb=20250214041732\"},\"about\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Fisher%27s_Module\",\"name\":\"Fisher's Module\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/c/c5/ITEM_Fisher%27s_Module.png/revision/latest?cb=20250214041732\"},\"author\":{\"@type\":\"Organization\",\"url\":\"https://icarus.fandom.com/wiki/Fisher%27s_Module?action=credits\",\"name\":\"Contributors to Icarus Wiki\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Fandom, Inc.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720\"}},\"abstract\":\"This module increases the user's ability to catch Unique Fish and, somehow, increases the quality of caught fish. It can be researched and crafted on the Space Station in the Workshop. Multiple Fisher's Modules may be equipped if the Prospector has available slots on their Envirosuit, which will further increasing the user's ability to fish and become the Master Angler they wish to be. Using multiple modules of this type will decrease the effect of every subsequent module added.\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/c/c5/ITEM_Fisher%27s_Module.png/revision/latest?cb=20250214041732\",\"thumbnailUrl\":\"https://static.wikia.nocookie.net/icarus/images/c/c5/ITEM_Fisher%27s_Module.png/revision/latest?cb=20250214041732\"}",
+  "Infobox": {
+    "Category": "Modules",
+    "Description": "A handy module that assists your envirosuit in locating a greater variety of aquatic life in the waterways of Icarus.",
+    "Flavor Text": "Warning: Prototype tech listed off-label for use in Icarus operations. Warranty void if used planetside. Use at your own risk.",
+    "Attributes": "+10% Quality of Caught Fish +200% chance to catch Unique Fish",
+    "Research Cost": "100",
+    "Crafting Cost": "50",
+    "Prerequisite": "Mass Dampener Module"
+  }
+}

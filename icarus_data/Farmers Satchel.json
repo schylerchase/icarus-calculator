@@ -1,0 +1,16 @@
+{
+  "Name": "Farmers Satchel",
+  "Description": "Farmers Satchel General Category Tools Tech Tier Tier 2 Required Level 10 Description A convenient 24 slot satchel for seeds and fertilizer. Flavor Text Right click to access the Satchel Inventory Statistics Weight 0.5 Kg Misc Crafted At Textiles Bench Advanced Textiles Bench Electric Textiles Bench Prerequisite Textiles Bench",
+  "Recipe": [],
+  "CraftedIn": "{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"url\":\"https://icarus.fandom.com/wiki/Farmers_Satchel\",\"name\":\"Farmers Satchel\",\"headline\":\"Farmers Satchel\",\"mainEntity\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Farmers_Satchel\",\"name\":\"Farmers Satchel\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/e/e2/ITEM_Farmers_Satchel.png/revision/latest?cb=20250125162733\"},\"about\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Farmers_Satchel\",\"name\":\"Farmers Satchel\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/e/e2/ITEM_Farmers_Satchel.png/revision/latest?cb=20250125162733\"},\"author\":{\"@type\":\"Organization\",\"url\":\"https://icarus.fandom.com/wiki/Farmers_Satchel?action=credits\",\"name\":\"Contributors to Icarus Wiki\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Fandom, Inc.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720\"}},\"abstract\":\"Farmers Satchel is a leather satchel that is a Tier 2 upgrade for the Seed Pouch, has 24 inventory slots and holds both Fertilizer and Seeds. The Farmers Satchel is crafted at the \\u00a0Textiles Bench, \\u00a0Advanced Textiles Bench or \\u00a0Electric Textiles Bench with the following resources: Compatible items will be automatically added to the satchel when picked up. Right-click the satchel in your inventory to open the bag and access its contents. The Farmers Satchel can hold the following types of...\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/e/e2/ITEM_Farmers_Satchel.png/revision/latest?cb=20250125162733\",\"thumbnailUrl\":\"https://static.wikia.nocookie.net/icarus/images/e/e2/ITEM_Farmers_Satchel.png/revision/latest?cb=20250125162733\"}",
+  "Infobox": {
+    "Category": "Tools",
+    "Tech Tier": "Tier 2",
+    "Required Level": "10",
+    "Description": "A convenient 24 slot satchel for seeds and fertilizer.",
+    "Flavor Text": "Right click to access the Satchel Inventory",
+    "Weight": "0.5 Kg",
+    "Crafted At": "Textiles Bench Advanced Textiles Bench Electric Textiles Bench",
+    "Prerequisite": "Textiles Bench"
+  }
+}

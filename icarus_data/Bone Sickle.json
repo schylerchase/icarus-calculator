@@ -1,0 +1,18 @@
+{
+  "Name": "Bone Sickle",
+  "Description": "Bone Sickle General Category Sickles Tech Tier Tier 1 Description Repurposed remains for easy reaping Flavor Text The falk or grasshook is a harvesting tool of old, a symbol of labor, and weapon of disgruntled serfdom. Statistics Melee Damage 40 Reaping 100% More Weight 0.5kg Durability 10,000 Misc Repaired with 1 Bone Crafting XP 920",
+  "Recipe": [],
+  "CraftedIn": "{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"url\":\"https://icarus.fandom.com/wiki/Bone_Sickle\",\"name\":\"Bone Sickle\",\"headline\":\"Bone Sickle\",\"mainEntity\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Bone_Sickle\",\"name\":\"Bone Sickle\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/4/44/ITEM_Bone_Sickle.png/revision/latest?cb=20211101165835\"},\"about\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Bone_Sickle\",\"name\":\"Bone Sickle\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/4/44/ITEM_Bone_Sickle.png/revision/latest?cb=20211101165835\"},\"author\":{\"@type\":\"Organization\",\"url\":\"https://icarus.fandom.com/wiki/Bone_Sickle?action=credits\",\"name\":\"Contributors to Icarus Wiki\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Fandom, Inc.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720\"}},\"abstract\":\"Used by 'attacking' plants such as shrubs, Reed Flower, Wheat, etc. Sickles significantly increase the yield of plants when harvesting. Bone Sickle is crafted in the Character Crafting menu with the following resources:\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/4/44/ITEM_Bone_Sickle.png/revision/latest?cb=20211101165835\",\"thumbnailUrl\":\"https://static.wikia.nocookie.net/icarus/images/4/44/ITEM_Bone_Sickle.png/revision/latest?cb=20211101165835\"}",
+  "Infobox": {
+    "Category": "Sickles",
+    "Tech Tier": "Tier 1",
+    "Description": "Repurposed remains for easy reaping",
+    "Flavor Text": "The falk or grasshook is a harvesting tool of old, a symbol of labor, and weapon of disgruntled serfdom.",
+    "Melee Damage": "40",
+    "Reaping": "100% More",
+    "Weight": "0.5kg",
+    "Durability": "10,000",
+    "Repaired with": "1 Bone",
+    "Crafting XP": "920"
+  }
+}

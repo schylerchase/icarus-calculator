@@ -1,0 +1,14 @@
+{
+  "Name": "Deep Mining Ore Scanner",
+  "Description": "Deep Mining Ore Scanner General Category Tools Tech Tier Tier 4 Description A scanner that can locate various deep ore deposits within the surrounding area Flavor Text A truly remarkable piece of equipment. Statistics Weight 1.0 Kg Misc Crafted At Fabricator",
+  "Recipe": [],
+  "CraftedIn": "{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"url\":\"https://icarus.fandom.com/wiki/Deep_Mining_Ore_Scanner\",\"name\":\"Deep Mining Ore Scanner\",\"headline\":\"Deep Mining Ore Scanner\",\"mainEntity\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Deep_Mining_Ore_Scanner\",\"name\":\"Deep Mining Ore Scanner\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/7/7b/ITEM_Deep_Mining_Ore_Scanner.png/revision/latest?cb=20220408200700\"},\"about\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Deep_Mining_Ore_Scanner\",\"name\":\"Deep Mining Ore Scanner\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/7/7b/ITEM_Deep_Mining_Ore_Scanner.png/revision/latest?cb=20220408200700\"},\"author\":{\"@type\":\"Organization\",\"url\":\"https://icarus.fandom.com/wiki/Deep_Mining_Ore_Scanner?action=credits\",\"name\":\"Contributors to Icarus Wiki\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Fandom, Inc.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720\"}},\"abstract\":\"Locates Deep Ore Deposits within the area that can be mined with a \\u00a0Biofuel Deep-Mining Drill or an \\u00a0Electric Deep-Mining Drill. Does not indicate the type of deep ore deposit detected, unlike the \\u00a0Advanced Deep Mining Ore Scanner. The Deep Mining Ore Scanner is crafted at the \\u00a0Fabricator with the following resources: When equipped, the scanner will display the direction and approximate distance (represented by a percentage) to the nearest deep ore vein. Simply walk in the direction of the...\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/7/7b/ITEM_Deep_Mining_Ore_Scanner.png/revision/latest?cb=20220408200700\",\"thumbnailUrl\":\"https://static.wikia.nocookie.net/icarus/images/7/7b/ITEM_Deep_Mining_Ore_Scanner.png/revision/latest?cb=20220408200700\"}",
+  "Infobox": {
+    "Category": "Tools",
+    "Tech Tier": "Tier 4",
+    "Description": "A scanner that can locate various deep ore deposits within the surrounding area",
+    "Flavor Text": "A truly remarkable piece of equipment.",
+    "Weight": "1.0 Kg",
+    "Crafted At": "Fabricator"
+  }
+}

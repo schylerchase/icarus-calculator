@@ -1,0 +1,20 @@
+{
+  "Name": "Electric Radar",
+  "Description": "Electric Radar General Category Deployables Tech Tier Tier 4 Required Level 30 Description A portable topographical radar unit powered by Electricity, angers local wildlife when active. Flavor Text Connect this baby up to a generator and you are good to go. Statistics Requires Shelter No Attributes +15% Radar Scanning Speed +20% Radar Precision +25% Animals Attracted Weight 2.0 Kg Durability 2,500 Misc Crafted At Fabricator Repaired with Hammers Prerequisite Electricity Tool",
+  "Recipe": [],
+  "CraftedIn": "Crafted At",
+  "Infobox": {
+    "Category": "Deployables",
+    "Tech Tier": "Tier 4",
+    "Required Level": "30",
+    "Description": "A portable topographical radar unit powered by Electricity, angers local wildlife when active.",
+    "Flavor Text": "Connect this baby up to a generator and you are good to go.",
+    "Requires Shelter": "No",
+    "Attributes": "+15% Radar Scanning Speed +20% Radar Precision +25% Animals Attracted",
+    "Weight": "2.0 Kg",
+    "Durability": "2,500",
+    "Crafted At": "Fabricator",
+    "Repaired with": "Hammers",
+    "Prerequisite": "Electricity Tool"
+  }
+}

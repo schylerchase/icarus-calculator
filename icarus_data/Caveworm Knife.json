@@ -1,0 +1,19 @@
+{
+  "Name": "Caveworm Knife",
+  "Description": "Caveworm Knife General Category Knives Tech Tier Tier 2 Description A rare, highly durable blade. Flavor Text Evolved to resist prolonged sand abrasion, the worm's chitin-analogue scales holds an excellent edge. Statistics Attributes +100% chance to Poison on Hit with Attacks Inflicts the 'Poisoned' modifier for 60 seconds: -5% Movement Speed Melee Damage 49 - 55 Skinning 175% Yield from Skinning Weight 0.5 kg Durability 7,500 Misc Crafted At Anvil Bench Forge Foundry Repaired with 1 Worm Scale",
+  "Recipe": [],
+  "CraftedIn": "Crafted At",
+  "Infobox": {
+    "Category": "Knives",
+    "Tech Tier": "Tier 2",
+    "Description": "A rare, highly durable blade.",
+    "Flavor Text": "Evolved to resist prolonged sand abrasion, the worm's chitin-analogue scales holds an excellent edge.",
+    "Attributes": "+100% chance to Poison on Hit with Attacks Inflicts the 'Poisoned' modifier for 60 seconds: -5% Movement Speed",
+    "Melee Damage": "49 - 55",
+    "Skinning": "175% Yield from Skinning",
+    "Weight": "0.5 kg",
+    "Durability": "7,500",
+    "Crafted At": "Anvil Bench Forge Foundry",
+    "Repaired with": "1 Worm Scale"
+  }
+}

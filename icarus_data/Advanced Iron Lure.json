@@ -1,0 +1,19 @@
+{
+  "Name": "Advanced Iron Lure",
+  "Description": "Advanced Iron Lure General Category Lures Tech Tier Tier 2 Required Level 20 Description A sophisticated lure carefully crafted out of iron, to attract more fish. Flavor Text Surely you'll catch a big one with this in your kit. Statistics Attributes +50% chance to catch Uncommon Fish +20% caught Saltwater Fish Quality +20% Length of Caught Fish +10% Fishing Capture Zone Size Weight 0.25 Kg Durability 100 Misc Crafted At Basic Fishing Bench Repaired with N/A Prerequisite Advanced Lure Pack",
+  "Recipe": [],
+  "CraftedIn": "Crafted At",
+  "Infobox": {
+    "Category": "Lures",
+    "Tech Tier": "Tier 2",
+    "Required Level": "20",
+    "Description": "A sophisticated lure carefully crafted out of iron, to attract more fish.",
+    "Flavor Text": "Surely you'll catch a big one with this in your kit.",
+    "Attributes": "+50% chance to catch Uncommon Fish +20% caught Saltwater Fish Quality +20% Length of Caught Fish +10% Fishing Capture Zone Size",
+    "Weight": "0.25 Kg",
+    "Durability": "100",
+    "Crafted At": "Basic Fishing Bench",
+    "Repaired with": "N/A",
+    "Prerequisite": "Advanced Lure Pack"
+  }
+}

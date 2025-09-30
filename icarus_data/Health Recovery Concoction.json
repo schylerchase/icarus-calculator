@@ -1,0 +1,34 @@
+{
+  "Name": "Health Recovery Concoction",
+  "Description": "Health Recovery Concoction General Category Medicine Tech Tier Tier 1 Description Providing small amount of health recovery. Flavor Text When it comes to survival, prospectors on Icarus try everything. Stats Attributes +100 Health when Consumed Weight Stack 0.25 kg 10 Crafting Bench Character Crafting A character crafted health recovery tonic with readily available ingredients.",
+  "Recipe": [
+    {
+      "Raw": "Oxite",
+      "Name": "Oxite",
+      "Quantity": "3",
+      "Link": "https://icarus.fandom.com/wiki/Oxite"
+    },
+    {
+      "Raw": "Salt",
+      "Name": "Salt",
+      "Quantity": "2",
+      "Link": "https://icarus.fandom.com/wiki/Salt"
+    },
+    {
+      "Raw": "Bone",
+      "Name": "Bone",
+      "Quantity": "3",
+      "Link": "https://icarus.fandom.com/wiki/Bone"
+    }
+  ],
+  "CraftedIn": null,
+  "Infobox": {
+    "Category": "Medicine",
+    "Tech Tier": "Tier 1",
+    "Description": "Providing small amount of health recovery.",
+    "Flavor Text": "When it comes to survival, prospectors on Icarus try everything.",
+    "Attributes": "+100 Health when Consumed",
+    "Weight": "0.25 kg",
+    "Bench": "Character Crafting"
+  }
+}

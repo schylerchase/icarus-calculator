@@ -1,0 +1,30 @@
+{
+  "Name": "Anti-Poison Tonic",
+  "Description": "Anti-Poison Tonic General Category Medicine Tech Tier Tier 2 Description Fast-working anti-venom to combat poisoning. Flavor Text Of the many ways to die on Icarus, poisoning is perhaps the least glorious. Stats Attributes Cures poisoning Duration None, cure only Weight Stack 250 grams 10 Max Crafting Bench Herbalism Bench Crafting XP 50",
+  "Recipe": [
+    {
+      "Raw": "1",
+      "Name": "1",
+      "Quantity": "1",
+      "Link": null
+    },
+    {
+      "Raw": "3",
+      "Name": "3",
+      "Quantity": "3",
+      "Link": null
+    }
+  ],
+  "CraftedIn": null,
+  "Infobox": {
+    "Category": "Medicine",
+    "Tech Tier": "Tier 2",
+    "Description": "Fast-working anti-venom to combat poisoning.",
+    "Flavor Text": "Of the many ways to die on Icarus, poisoning is perhaps the least glorious.",
+    "Attributes": "Cures poisoning",
+    "Duration": "None, cure only",
+    "Weight": "250 grams",
+    "Bench": "Herbalism Bench",
+    "Crafting XP": "50"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "Archer's Backpack",
+  "Description": "Archer's Backpack General Category Backpacks Tech Tier Orbital Tech Description Dedicated arrow storage, allowing faster reloading, swifter aiming and higher arrow speeds. Flavor Text Quick access for faster kills. Statistics Attributes +6 Suit Inventory Slots +25% Reload Speed of Bows/Crossbows +10% Aim Speed of Bows/Crossbows +10% Arrow Speed Weight 0.5 Kg Durability 5,500",
+  "Recipe": [],
+  "CraftedIn": "{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"url\":\"https://icarus.fandom.com/wiki/Archer%27s_Backpack\",\"name\":\"Archer's Backpack\",\"headline\":\"Archer's Backpack\",\"mainEntity\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Archer%27s_Backpack\",\"name\":\"Archer's Backpack\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/f/ff/ITEM_Archer%27s_Backpack.png/revision/latest?cb=20220722172321\"},\"about\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Archer%27s_Backpack\",\"name\":\"Archer's Backpack\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/f/ff/ITEM_Archer%27s_Backpack.png/revision/latest?cb=20220722172321\"},\"author\":{\"@type\":\"Organization\",\"url\":\"https://icarus.fandom.com/wiki/Archer%27s_Backpack?action=credits\",\"name\":\"Contributors to Icarus Wiki\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Fandom, Inc.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720\"}},\"abstract\":\"The Archer's Backpack is a must need for the avid archer, quickly dispatch a flurry of arrows at your target with this innovative quiver system. The Archer's Backpack is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/f/ff/ITEM_Archer%27s_Backpack.png/revision/latest?cb=20220722172321\",\"thumbnailUrl\":\"https://static.wikia.nocookie.net/icarus/images/f/ff/ITEM_Archer%27s_Backpack.png/revision/latest?cb=20220722172321\"}",
+  "Infobox": {
+    "Category": "Backpacks",
+    "Tech Tier": "Orbital Tech",
+    "Description": "Dedicated arrow storage, allowing faster reloading, swifter aiming and higher arrow speeds.",
+    "Flavor Text": "Quick access for faster kills.",
+    "Attributes": "+6 Suit Inventory Slots +25% Reload Speed of Bows/Crossbows +10% Aim Speed of Bows/Crossbows +10% Arrow Speed",
+    "Weight": "0.5 Kg",
+    "Durability": "5,500"
+  }
+}

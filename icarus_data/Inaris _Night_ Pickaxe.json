@@ -1,0 +1,19 @@
+{
+  "Name": "Inaris \"Night\" Pickaxe",
+  "Description": "Inaris \"Night\" Pickaxe General Category Pickaxes Tech Tier Orbital Tech Description A metal base gives this mining axe great grip Flavor Text Mining is where it all began for Inaris Statistics Attributes +15% chance to cause Miasma on Hit with Attacks +100% Noxious Crust per Mined Resource -50% Yield from Mining +500% Damage To Armor Inflicts the 'Miasma' modifier for 10 seconds: -25 Physical Resistance Melee Damage 23 - 25 Melee Damage 50 - 50 Poison Damage Mining Radius +70 Mining Radius Mining 133% Yield from Mining Weight 1.0 kg Durability 60,000 Misc Repaired with 10 on Station or 1 Workshop Repair Kit at a powered Repair Bench",
+  "Recipe": [],
+  "CraftedIn": "10 on Station or 1 Workshop Repair Kit at a powered Repair Bench",
+  "Infobox": {
+    "Category": "Pickaxes",
+    "Tech Tier": "Orbital Tech",
+    "Description": "A metal base gives this mining axe great grip",
+    "Flavor Text": "Mining is where it all began for Inaris",
+    "Attributes": "+15% chance to cause Miasma on Hit with Attacks +100% Noxious Crust per Mined Resource -50% Yield from Mining +500% Damage To Armor Inflicts the 'Miasma' modifier for 10 seconds: -25 Physical Resistance",
+    "Melee Damage": "23 - 25 Melee Damage 50 - 50 Poison Damage",
+    "Mining Radius": "+70 Mining Radius",
+    "Mining": "133% Yield from Mining",
+    "Weight": "1.0 kg",
+    "Durability": "60,000",
+    "Repaired with": "10 on Station or 1 Workshop Repair Kit at a powered Repair Bench"
+  }
+}

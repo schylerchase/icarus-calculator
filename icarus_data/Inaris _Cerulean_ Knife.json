@@ -1,0 +1,18 @@
+{
+  "Name": "Inaris \"Cerulean\" Knife",
+  "Description": "Inaris \"Cerulean\" Knife General Category Knives Tech Tier Orbital Tech Description The perfect knife to hone your skills with Flavor Text Cold, metallic and deadly Statistics Attributes +15% chance to cause Freeze on Hit with Attacks Inflicts the 'Freeze' modifier for 10 seconds: -25% Movement Speed -25% Melee Damage Melee Damage 33 - 35 Melee Damage 50 - 50 Frost Damage Skinning +175% Yield from Skinning Weight 0.5 kg Durability 60,000 Misc Repaired with 10 on Station or 1 Workshop Repair Kit at a powered Repair Bench",
+  "Recipe": [],
+  "CraftedIn": "{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"url\":\"https://icarus.fandom.com/wiki/Inaris_%22Cerulean%22_Knife\",\"name\":\"Inaris \\\"Cerulean\\\" Knife\",\"headline\":\"Inaris \\\"Cerulean\\\" Knife\",\"mainEntity\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Inaris_%22Cerulean%22_Knife\",\"name\":\"Inaris \\\"Cerulean\\\" Knife\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/3/3b/ITEM_Inaris_%22Cerulean%22_Knife.png/revision/latest?cb=20230824092200\"},\"about\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Inaris_%22Cerulean%22_Knife\",\"name\":\"Inaris \\\"Cerulean\\\" Knife\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/3/3b/ITEM_Inaris_%22Cerulean%22_Knife.png/revision/latest?cb=20230824092200\"},\"author\":{\"@type\":\"Organization\",\"url\":\"https://icarus.fandom.com/wiki/Inaris_%22Cerulean%22_Knife?action=credits\",\"name\":\"Contributors to Icarus Wiki\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Fandom, Inc.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720\"}},\"abstract\":\"The Inaris \\\"Cerulean\\\" Knife is a Workshop Knife geared towards combat, intrinsically dealing frost damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Inaris \\\"Cerulean\\\" Knife cannot be thrown, and there currently are no workshop Throwing Knives. The Inaris \\\"Cerulean\\\" Knife is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new...\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/3/3b/ITEM_Inaris_%22Cerulean%22_Knife.png/revision/latest?cb=20230824092200\",\"thumbnailUrl\":\"https://static.wikia.nocookie.net/icarus/images/3/3b/ITEM_Inaris_%22Cerulean%22_Knife.png/revision/latest?cb=20230824092200\"}",
+  "Infobox": {
+    "Category": "Knives",
+    "Tech Tier": "Orbital Tech",
+    "Description": "The perfect knife to hone your skills with",
+    "Flavor Text": "Cold, metallic and deadly",
+    "Attributes": "+15% chance to cause Freeze on Hit with Attacks Inflicts the 'Freeze' modifier for 10 seconds: -25% Movement Speed -25% Melee Damage",
+    "Melee Damage": "33 - 35 Melee Damage 50 - 50 Frost Damage",
+    "Skinning": "+175% Yield from Skinning",
+    "Weight": "0.5 kg",
+    "Durability": "60,000",
+    "Repaired with": "10 on Station or 1 Workshop Repair Kit at a powered Repair Bench"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "Anti-Poison Paste",
+  "Description": "Anti-Poison Paste General Category Medicine Tech Tier Tier 1 Description A basic toxicology and anti-venom kit to reduce the effects of poisoning. Flavor Text It's speculated that exotics may suffuse much of the plant life in the terrazone, imparting bioactive properties, though exactly what these are, whether they're safe, and exactly how it works ... at this stage, who knows? Stats Attributes -50% Poison duration +15% Base health regeneration Duration Instant Weight Stack 250 grams 10 Crafting Bench Character Crafting Crafting XP 50",
+  "Recipe": [
+    {
+      "Raw": "1",
+      "Name": "1",
+      "Quantity": "1",
+      "Link": null
+    },
+    {
+      "Raw": "2",
+      "Name": "2",
+      "Quantity": "2",
+      "Link": null
+    }
+  ],
+  "CraftedIn": null,
+  "Infobox": {
+    "Category": "Medicine",
+    "Tech Tier": "Tier 1",
+    "Description": "A basic toxicology and anti-venom kit to reduce the effects of poisoning.",
+    "Flavor Text": "It's speculated that exotics may suffuse much of the plant life in the terrazone, imparting bioactive properties, though exactly what these are, whether they're safe, and exactly how it works ... at this stage, who knows?",
+    "Attributes": "-50% Poison duration +15% Base health regeneration",
+    "Duration": "Instant",
+    "Weight": "250 grams",
+    "Bench": "Character Crafting",
+    "Crafting XP": "50"
+  }
+}

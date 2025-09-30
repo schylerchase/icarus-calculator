@@ -1,26 +1,28 @@
 #!/usr/bin/env python3
 """
-Fixed Icarus Database Scraper
-Properly extracts crafting recipes and data from the Icarus wiki
+Complete Icarus Database Scraper
+Fetches ALL items from the Icarus wiki and builds a comprehensive database
 
 Installation:
-pip install requests beautifulsoup4 lxml
-
+    pip install fandom-py requests beautifulsoup4
+    
 Usage:
-python icarus_scraper_fixed.py
+    python icarus_full_scraper.py
 """
 
 import json
 import os
 import re
 import time
-import requests
-from bs4 import BeautifulSoup
+from fandom import FandomPage
+import fandom
 
-# Your category mappings
+
+# Category mappings - which wiki categories map to which JSON files
 CATEGORY_MAPPINGS = {
     "ammunition": ["Category:Ammunition", "Category:Arrows", "Category:Bolts"],
-    "weapons": ["Category:Weapons", "Category:Firearms", "Category:Bows", "Category:Crossbows", "Category:Spears", "Category:Knives"],
+    "weapons": ["Category:Weapons", "Category:Firearms", "Category:Bows", "Category:Crossbows", 
+                "Category:Spears", "Category:Knives"],
     "tools": ["Category:Tools"],
     "armor": ["Category:Armor", "Category:Helmets", "Category:Chest Armor", "Category:Leg Armor"],
     "building": ["Category:Building Pieces", "Category:Structural"],
@@ -41,32 +43,31 @@ CATEGORY_MAPPINGS = {
     "specialized_equipment": ["Category:Equipment"]
 }
 
+
 def get_all_pages_in_category(category_name, max_pages=500):
-    """Get all pages in a wiki category using the Fandom API"""
+    """
+    Get all pages in a wiki category
+    
+    Args:
+        category_name: Name of the category (e.g., "Category:Ammunition")
+        max_pages: Maximum number of pages to fetch
+        
+    Returns:
+        list: List of page titles
+    """
+    
     print(f"  Fetching pages from {category_name}...")
     
-    base_url = "https://icarus.fandom.com/api.php"
-    pages = []
-    
-    params = {
-        "action": "query",
-        "format": "json",
-        "list": "categorymembers",
-        "cmtitle": category_name,
-        "cmlimit": 500
-    }
-    
     try:
-        response = requests.get(base_url, params=params, timeout=30)
-        response.raise_for_status()
-        data = response.json()
+        # Use fandom search to find pages in category
+        # The category system in fandom-py is limited, so we'll use search
+        results = fandom.search(category_name, results=max_pages)
         
-        if "query" in data and "categorymembers" in data["query"]:
-            for member in data["query"]["categorymembers"]:
-                title = member.get("title", "")
-                # Filter out category pages, talk pages, etc.
-                if not any(x in title for x in ['Category:', 'Talk:', 'File:', 'Template:']):
-                    pages.append(title)
+        # Filter to get actual item pages (not category pages, talk pages, etc.)
+        pages = []
+        for result in results:
+            if not any(x in result[0] for x in ['Category:', 'Talk:', 'File:', 'Template:']):
+                pages.append(result[0])
         
         print(f"    Found {len(pages)} pages")
         return pages
@@ -75,264 +76,127 @@ def get_all_pages_in_category(category_name, max_pages=500):
         print(f"    [ERROR] {e}")
         return []
 
-def extract_item_data(title):
-    """Extract all relevant data for an item using BeautifulSoup"""
-    
-    url = f"https://icarus.fandom.com/wiki/{title.replace(' ', '_')}"
-    
-    item_data = {
-        "name": title,
-        "ingredients": {},
-        "crafted_at": "Unknown",
-        "category": "",
-        "tier": 0,
-        "url": url,
-        "weight": "",
-        "crafting_stations": []
-    }
-    
-    # Use browser headers to avoid bot detection
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.5',
-    }
+
+def extract_recipe_from_page(wiki, title):
+    """Extract crafting recipe from a wiki page"""
     
     try:
-        print(f"    Fetching: {url}")
-        response = requests.get(url, headers=headers, timeout=30)
-        response.raise_for_status()
+        page = FandomPage(wiki=wiki, title=title, language='en')
+        html = page.html
         
-        soup = BeautifulSoup(response.content, 'lxml')
+        ingredients = {}
         
-        # Debug: Save HTML to file for inspection
-        # with open(f"debug_{title.replace(' ', '_')}.html", 'w', encoding='utf-8') as f:
-        #     f.write(soup.prettify())
+        # Look for crafting section
+        crafting_pattern = r'<h2[^>]*>.*?Crafting.*?</h2>(.*?)(?=<h2|$)'
+        crafting_match = re.search(crafting_pattern, html, re.DOTALL | re.IGNORECASE)
         
-        # Find the infobox (contains all the item data)
-        infobox = soup.find('aside', class_='portable-infobox')
-        
-        if not infobox:
-            # Try alternative infobox class
-            infobox = soup.find('table', class_='infobox')
-        
-        if infobox:
-            print(f"      ✓ Found infobox")
+        if crafting_match:
+            crafting_section = crafting_match.group(1)
             
-            # Extract data from infobox rows
-            for section in infobox.find_all(['section', 'tr']):
-                # Try multiple ways to find label and value
-                label_elem = section.find(['h3', 'th'], class_=['pi-data-label', 'infobox-label'])
-                if not label_elem:
-                    label_elem = section.find('th')
-                
-                if not label_elem:
-                    continue
-                
-                label = label_elem.get_text(strip=True).lower()
-                
-                # Get the value
-                value_elem = section.find(['div', 'td'], class_=['pi-data-value', 'infobox-data'])
-                if not value_elem:
-                    value_elem = section.find('td')
-                
-                if not value_elem:
-                    continue
-                
-                # Extract based on label
-                if 'tier' in label or 'tech tier' in label:
-                    tier_text = value_elem.get_text(strip=True)
-                    tier_match = re.search(r'(\d+)', tier_text)
-                    if tier_match:
-                        item_data['tier'] = int(tier_match.group(1))
-                        print(f"      ✓ Tier: {item_data['tier']}")
-                
-                elif 'weight' in label:
-                    item_data['weight'] = value_elem.get_text(strip=True)
-                    print(f"      ✓ Weight: {item_data['weight']}")
-                
-                elif 'crafted' in label or 'station' in label or 'workbench' in label:
-                    # Extract crafting stations
-                    stations = []
-                    for link in value_elem.find_all('a'):
-                        station = link.get_text(strip=True)
-                        if station and station not in ['', 'Unknown']:
-                            stations.append(station)
-                    
-                    if not stations:
-                        # Try plain text
-                        text = value_elem.get_text(strip=True)
-                        if text and text != 'Unknown':
-                            stations = [s.strip() for s in re.split(r',|;|\n', text) if s.strip()]
-                    
-                    if stations:
-                        item_data['crafted_at'] = ', '.join(stations)
-                        item_data['crafting_stations'] = stations
-                        print(f"      ✓ Crafted at: {item_data['crafted_at']}")
-        else:
-            print(f"      ⚠️  No infobox found")
-        
-        # Extract crafting recipe - look for tables with recipe data
-        # Find "Crafting" heading
-        crafting_section = soup.find(['h2', 'h3', 'span'], 
-                                     string=re.compile(r'Crafting', re.IGNORECASE))
-        
-        if not crafting_section:
-            crafting_section = soup.find(['h2', 'h3', 'span'], id='Crafting')
-        
-        if crafting_section:
-            print(f"      ✓ Found Crafting section")
+            # Pattern 1: Standard table format
+            row_pattern = r'<tr[^>]*>.*?<td[^>]*>(\d+)</td>.*?<a[^>]*title="([^"]+)"'
             
-            # Find parent header element
-            if crafting_section.name == 'span':
-                header = crafting_section.find_parent(['h2', 'h3'])
-            else:
-                header = crafting_section
+            for match in re.finditer(row_pattern, crafting_section, re.DOTALL):
+                quantity = int(match.group(1))
+                resource = match.group(2).strip()
+                
+                if not resource.startswith('File:') and not resource.startswith('ITEM_'):
+                    ingredients[resource] = quantity
             
-            print(f"        Header element: {header.name if header else 'None'}")
-            
-            # Find the next table after the crafting header
-            current = header.find_next_sibling() if header else None
-            table_count = 0
-            sibling_count = 0
-            
-            while current and sibling_count < 10:  # Limit to 10 siblings
-                sibling_count += 1
-                print(f"        Sibling {sibling_count}: <{current.name}> {current.get('class', [])} - {current.get_text(strip=True)[:50]}...")
-                
-                if current.name == 'table':
-                    table_count += 1
-                    print(f"      ✓ Found crafting table #{table_count}")
-                    
-                    # Parse the crafting table
-                    rows = current.find_all('tr')
-                    print(f"        - Table has {len(rows)} rows")
-                    
-                    for idx, row in enumerate(rows):
-                        cells = row.find_all(['td', 'th'])
-                        print(f"        - Row {idx}: {len(cells)} cells")
-                        
-                        if len(cells) >= 2:
-                            # First cell usually has quantity
-                            quantity_text = cells[0].get_text(strip=True)
-                            print(f"          Quantity text: '{quantity_text}'")
-                            
-                            # Second cell has item name (and possibly more items)
-                            links = cells[1].find_all('a', href=True)
-                            print(f"          Found {len(links)} links in cell")
-                            
-                            for link in links:
-                                href = link.get('href', '')
-                                if '/wiki/' in href and not 'File:' in href:
-                                    item_name = link.get_text(strip=True)
-                                    print(f"          Link: {item_name} (href: {href})")
-                                    
-                                    # Try to extract quantity
-                                    quantity_match = re.search(r'(\d+)', quantity_text)
-                                    if quantity_match and item_name:
-                                        quantity = int(quantity_match.group(1))
-                                        if item_name not in item_data['ingredients']:
-                                            item_data['ingredients'][item_name] = quantity
-                                            print(f"          ✓ Added: {quantity}x {item_name}")
-                                        else:
-                                            item_data['ingredients'][item_name] += quantity
-                                            print(f"          ✓ Updated: +{quantity}x {item_name}")
-                    
-                    if item_data['ingredients']:
-                        print(f"      ✓ Ingredients: {item_data['ingredients']}")
-                        break
-                    else:
-                        print(f"      ⚠️  Table #{table_count} had no parseable ingredients")
-                
-                elif current.name in ['h2', 'h3']:
-                    # Reached next section
-                    print(f"      ⚠️  Reached next section after checking {table_count} tables")
-                    break
-                
-                # Also check if table is nested inside this element
-                nested_table = current.find('table')
-                if nested_table and not current.name == 'table':
-                    print(f"        Found nested table inside <{current.name}>!")
-                    table_count += 1
-                    print(f"      ✓ Found nested crafting table #{table_count}")
-                    
-                    rows = nested_table.find_all('tr')
-                    print(f"        - Table has {len(rows)} rows")
-                    
-                    for idx, row in enumerate(rows):
-                        cells = row.find_all(['td', 'th'])
-                        if len(cells) >= 2:
-                            quantity_text = cells[0].get_text(strip=True)
-                            links = cells[1].find_all('a', href=True)
-                            
-                            for link in links:
-                                href = link.get('href', '')
-                                if '/wiki/' in href and 'File:' not in href:
-                                    item_name = link.get_text(strip=True)
-                                    quantity_match = re.search(r'(\d+)', quantity_text)
-                                    if quantity_match and item_name:
-                                        quantity = int(quantity_match.group(1))
-                                        item_data['ingredients'][item_name] = quantity
-                                        print(f"          ✓ Added: {quantity}x {item_name}")
-                    
-                    if item_data['ingredients']:
-                        print(f"      ✓ Ingredients: {item_data['ingredients']}")
-                        break
-                
-                current = current.find_next_sibling()
-        else:
-            print(f"      ⚠️  No Crafting section found")
+            # Pattern 2: Alternative format
+            if not ingredients:
+                alt_pattern = r'<td[^>]*>(\d+)</td>.*?<td[^>]*>.*?<a[^>]*>([^<]+)</a>'
+                for match in re.finditer(alt_pattern, crafting_section, re.DOTALL):
+                    try:
+                        quantity = int(match.group(1))
+                        resource = match.group(2).strip()
+                        if resource and not resource.startswith('File:'):
+                            ingredients[resource] = quantity
+                    except ValueError:
+                        continue
         
-        # If still no ingredients, try looking for wikitable class
-        if not item_data['ingredients']:
-            recipe_tables = soup.find_all('table', class_=['wikitable', 'article-table'])
-            for table in recipe_tables:
-                # Check if this looks like a recipe table
-                header_row = table.find('tr')
-                if header_row:
-                    headers = [th.get_text(strip=True).lower() for th in header_row.find_all(['th', 'td'])]
-                    if 'amount' in headers or 'resource' in headers or 'quantity' in headers:
-                        print(f"      ✓ Found recipe table by class")
-                        
-                        for row in table.find_all('tr')[1:]:
-                            cells = row.find_all(['td', 'th'])
-                            if len(cells) >= 2:
-                                quantity_text = cells[0].get_text(strip=True)
-                                
-                                for link in cells[1].find_all('a', href=True):
-                                    href = link.get('href', '')
-                                    if '/wiki/' in href and 'File:' not in href:
-                                        item_name = link.get_text(strip=True)
-                                        quantity_match = re.search(r'(\d+)', quantity_text)
-                                        if quantity_match and item_name:
-                                            quantity = int(quantity_match.group(1))
-                                            item_data['ingredients'][item_name] = quantity
-                        
-                        if item_data['ingredients']:
-                            print(f"      ✓ Ingredients: {item_data['ingredients']}")
-                            break
+        return ingredients
         
-        return item_data
-        
-    except requests.exceptions.RequestException as e:
-        print(f"      ✗ Network error: {e}")
-        return item_data
     except Exception as e:
-        print(f"      ✗ Parse error: {e}")
-        import traceback
-        traceback.print_exc()
-        return item_data
+        return {}
 
-def scrape_all_items(output_dir="icarus_data"):
-    """Scrape all items from the Icarus wiki"""
+
+def extract_item_data(wiki, title):
+    """
+    Extract all relevant data for an item
+    
+    Returns:
+        dict: Item data including name, ingredients, crafting station, tier, etc.
+    """
+    
+    try:
+        page = FandomPage(wiki=wiki, title=title, language='en')
+        html = page.html
+        
+        item_data = {
+            "name": title,
+            "ingredients": {},
+            "crafted_at": "Unknown",
+            "category": "",
+            "tier": 0,
+            "url": page.url,
+            "weight": "",
+            "crafting_stations": []
+        }
+        
+        # Extract recipe
+        ingredients = extract_recipe_from_page(wiki, title)
+        if ingredients:
+            item_data["ingredients"] = ingredients
+        
+        # Extract crafting station
+        crafted_pattern = r'(?:Crafted at|Crafting Station)[^:]*:?\s*<[^>]*>([^<]+)</[^>]*>'
+        crafted_match = re.search(crafted_pattern, html, re.IGNORECASE)
+        if crafted_match:
+            crafted_at = crafted_match.group(1).strip()
+            item_data["crafted_at"] = crafted_at
+            # Split multiple stations
+            stations = [s.strip() for s in re.split(r',|;|\n', crafted_at) if s.strip()]
+            item_data["crafting_stations"] = stations[:5]  # Max 5
+        
+        # Extract tier
+        tier_pattern = r'(?:Tier|Tech Tier)[^:]*:?\s*(\d+)'
+        tier_match = re.search(tier_pattern, html, re.IGNORECASE)
+        if tier_match:
+            item_data["tier"] = int(tier_match.group(1))
+        
+        # Extract weight
+        weight_pattern = r'(?:Weight)[^:]*:?\s*([0-9.]+\s*[kK]?[gG])'
+        weight_match = re.search(weight_pattern, html, re.IGNORECASE)
+        if weight_match:
+            item_data["weight"] = weight_match.group(1).strip()
+        
+        return item_data
+        
+    except Exception as e:
+        print(f"    [ERROR] Failed to parse {title}: {e}")
+        return None
+
+
+def scrape_all_items(output_dir="icarus_data_complete"):
+    """
+    Scrape all items from the Icarus wiki
+    
+    Args:
+        output_dir: Directory to save JSON files
+    """
     
     print("="*70)
-    print("  ICARUS COMPLETE DATABASE SCRAPER (FIXED)")
+    print("  ICARUS COMPLETE DATABASE SCRAPER")
     print("="*70)
     print("\nThis will fetch ALL items from the Icarus wiki")
+    print("Estimated time: 30-60 minutes depending on items found")
     
     # Create output directory
     os.makedirs(output_dir, exist_ok=True)
+    
+    # Set wiki
+    fandom.set_wiki("icarus")
     
     # Store all items by category
     all_items = {}
@@ -355,25 +219,27 @@ def scrape_all_items(output_dir="icarus_data"):
         for wiki_category in wiki_categories:
             pages = get_all_pages_in_category(wiki_category)
             all_page_titles.update(pages)
-            time.sleep(2)  # Rate limiting
+            time.sleep(1)  # Rate limiting
         
         print(f"\nTotal unique items to process: {len(all_page_titles)}")
         
         # Process each page
         for i, page_title in enumerate(sorted(all_page_titles)):
-            print(f"\n[{i+1}/{len(all_page_titles)}] {page_title}")
+            print(f"[{i+1}/{len(all_page_titles)}] {page_title}...", end=" ")
             
-            item_data = extract_item_data(page_title)
+            item_data = extract_item_data("icarus", page_title)
             
             if item_data:
                 item_data["category"] = category_key
                 all_items[category_key].append(item_data)
+                print("[OK]")
                 total_items += 1
             else:
+                print("[FAILED]")
                 failed_items += 1
             
             # Rate limiting - be nice to Fandom
-            time.sleep(2)
+            time.sleep(1.5)
     
     # Save each category to its own JSON file
     print(f"\n{'='*70}")
@@ -416,29 +282,95 @@ def scrape_all_items(output_dir="icarus_data"):
     print(f"Total items scraped: {total_items}")
     print(f"Failed items: {failed_items}")
     print(f"Output directory: {output_dir}")
+    print(f"Summary saved to: {summary_path}")
     print(f"{'='*70}")
 
-def test_single_item(item_name):
-    """Test scraping a single item"""
-    print(f"Testing: {item_name}")
+
+def discover_all_categories():
+    """
+    Discover all available categories on the Icarus wiki
+    Useful for finding categories we might have missed
+    """
+    
+    print("="*70)
+    print("  DISCOVERING ALL CATEGORIES")
     print("="*70)
     
-    item_data = extract_item_data(item_name)
+    fandom.set_wiki("icarus")
     
-    print(f"\nResults:")
-    print(json.dumps(item_data, indent=2))
+    # Search for common category terms
+    category_searches = [
+        "Items", "Weapons", "Tools", "Armor", "Building", "Crafting",
+        "Resources", "Materials", "Food", "Medicine", "Equipment"
+    ]
+    
+    found_categories = set()
+    
+    for search_term in category_searches:
+        print(f"\nSearching for: {search_term}")
+        results = fandom.search(f"Category:{search_term}", results=20)
+        
+        for result in results:
+            if "Category:" in result[0]:
+                found_categories.add(result[0])
+                print(f"  - {result[0]}")
+        
+        time.sleep(1)
+    
+    print(f"\n{'='*70}")
+    print(f"Found {len(found_categories)} categories")
+    print(f"{'='*70}")
+    
+    return sorted(found_categories)
 
-if __name__ == "__main__":
-    import sys
+
+def main():
+    """Main execution"""
     
-    if len(sys.argv) > 1 and sys.argv[1] == "test":
-        # Test mode - scrape a single item
-        test_item = sys.argv[2] if len(sys.argv) > 2 else "12-Gauge Buckshot Shell"
-        test_single_item(test_item)
-    else:
-        # Full scrape
-        confirm = input("\n⚠️  This will scrape ~1600 items and take 1-2 hours. Continue? (yes/no): ").strip().lower()
+    print("="*70)
+    print("  ICARUS WIKI SCRAPER")
+    print("="*70)
+    
+    print("\nSelect mode:")
+    print("  1. Discover all categories (find what's available)")
+    print("  2. Scrape all items (build complete database)")
+    print("  3. Custom category scrape (specify categories)")
+    
+    mode = input("\nEnter mode (1/2/3): ").strip()
+    
+    if mode == "1":
+        categories = discover_all_categories()
+        
+        # Save discovered categories
+        with open("discovered_categories.txt", 'w') as f:
+            for cat in categories:
+                f.write(f"{cat}\n")
+        print(f"\n[SAVED] Categories saved to discovered_categories.txt")
+        
+    elif mode == "2":
+        output_dir = input("\nEnter output directory (default: icarus_data_complete): ").strip()
+        if not output_dir:
+            output_dir = "icarus_data_complete"
+        
+        confirm = input(f"\nThis will take 30-60 minutes. Continue? (yes/no): ").strip().lower()
         if confirm == "yes":
-            scrape_all_items()
+            scrape_all_items(output_dir)
         else:
             print("Aborted.")
+            
+    elif mode == "3":
+        print("\nEnter categories to scrape (comma-separated):")
+        print("Example: Category:Weapons, Category:Tools, Category:Armor")
+        categories = input("> ").strip().split(',')
+        categories = [c.strip() for c in categories]
+        
+        # Custom scrape logic here
+        print(f"\nWould scrape: {categories}")
+        print("(Custom scrape not fully implemented - use mode 2 for now)")
+    
+    else:
+        print("Invalid mode selected.")
+
+
+if __name__ == "__main__":
+    main()

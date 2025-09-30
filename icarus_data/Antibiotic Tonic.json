@@ -1,0 +1,30 @@
+{
+  "Name": "Antibiotic Tonic",
+  "Description": "Antibiotic Tonic General Category Medicine Tech Tier Tier 2 Description An antibacterial distillation that cures food poisoning, wound infections and afflictions like cave sickness. Flavor Text The interaction between bioactive substances and microbial life here on Icarus is still poorly understood, especially when one factors in the effects of exotic matter to both. Stats Attributes Cures infections Duration None, cure only Weight Stack 250 grams 10 Max Crafting Bench Herbalism Bench Crafting XP 50",
+  "Recipe": [
+    {
+      "Raw": "1",
+      "Name": "1",
+      "Quantity": "1",
+      "Link": null
+    },
+    {
+      "Raw": "3",
+      "Name": "3",
+      "Quantity": "3",
+      "Link": null
+    }
+  ],
+  "CraftedIn": null,
+  "Infobox": {
+    "Category": "Medicine",
+    "Tech Tier": "Tier 2",
+    "Description": "An antibacterial distillation that cures food poisoning, wound infections and afflictions like cave sickness.",
+    "Flavor Text": "The interaction between bioactive substances and microbial life here on Icarus is still poorly understood, especially when one factors in the effects of exotic matter to both.",
+    "Attributes": "Cures infections",
+    "Duration": "None, cure only",
+    "Weight": "250 grams",
+    "Bench": "Herbalism Bench",
+    "Crafting XP": "50"
+  }
+}

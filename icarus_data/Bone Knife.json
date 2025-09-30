@@ -1,0 +1,19 @@
+{
+  "Name": "Bone Knife",
+  "Description": "Bone Knife A blade made of Bone General Category Knives Tech Tier Tier 1 Description Stronger, lighter and sharper than its stone cousin. Flavor Text Did any UDA xenobiologist ever foresee that the bones of animals they adapted for life on Icarus would one day be used to fashion rudimentary hunting weapons? Statistics Melee Damage 49 - 55 Skinning 150% Yield from Skinning Weight 0.5 kg Durability 1,500 Misc Crafted At Character Crafting Repaired with 1 Bone Crafting XP 920",
+  "Recipe": [],
+  "CraftedIn": "Crafted At",
+  "Infobox": {
+    "Category": "Knives",
+    "Tech Tier": "Tier 1",
+    "Description": "Stronger, lighter and sharper than its stone cousin.",
+    "Flavor Text": "Did any UDA xenobiologist ever foresee that the bones of animals they adapted for life on Icarus would one day be used to fashion rudimentary hunting weapons?",
+    "Melee Damage": "49 - 55",
+    "Skinning": "150% Yield from Skinning",
+    "Weight": "0.5 kg",
+    "Durability": "1,500",
+    "Crafted At": "Character Crafting",
+    "Repaired with": "1 Bone",
+    "Crafting XP": "920"
+  }
+}

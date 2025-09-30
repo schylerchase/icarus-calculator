@@ -1,0 +1,14 @@
+{
+  "Name": "Clay",
+  "Description": "Clay A chunk of Clay. General Information Category Resources Description A moldable, fine-grained material that can be baked into bricks. Flavor Text Also a popular medium for artists. Harvesting Information Location Swamp Harvesting Tool Sledgehammers Misc Info Weight Stack Size 0.25 kg 100",
+  "Recipe": [],
+  "CraftedIn": null,
+  "Infobox": {
+    "Category": "Resources",
+    "Description": "A moldable, fine-grained material that can be baked into bricks.",
+    "Flavor Text": "Also a popular medium for artists.",
+    "Location": "Swamp",
+    "Harvesting Tool": "Sledgehammers",
+    "Weight": "0.25 kg"
+  }
+}

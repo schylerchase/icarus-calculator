@@ -1,0 +1,33 @@
+{
+  "Name": "Cold Steel Knife",
+  "Description": "Cold Steel Knife General Category Knives Tech Tier Tier 3 Description A sturdy Knife crafted using Cold Steel, unique to Icarus. Meat harvested with this knife will take more time to spoil. Flavor Text One of the few tools that are only available on Icarus, due to the nature of the materials required. Statistics Attributes +15% chance to cause Freeze on Hit with Attacks +30% Chance to apply the Chilled Modifier Melee Damage 33 - 35 Melee Damage Element Damage 35 - 35 Frost Damage Skinning 200% Yield from Skinning Weight 0.5 Kg Durability 150,000 Misc Crafted At Forge Foundry Repaired with 1 Cold Steel Ingot",
+  "Recipe": [
+    {
+      "Raw": "5",
+      "Name": "5",
+      "Quantity": "5",
+      "Link": null
+    },
+    {
+      "Raw": "10",
+      "Name": "10",
+      "Quantity": "10",
+      "Link": null
+    }
+  ],
+  "CraftedIn": "{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"url\":\"https://icarus.fandom.com/wiki/Cold_Steel_Knife\",\"name\":\"Cold Steel Knife\",\"headline\":\"Cold Steel Knife\",\"mainEntity\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Cold_Steel_Knife\",\"name\":\"Cold Steel Knife\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/0/0a/ITEM_Cold_Steel_Knife.png/revision/latest?cb=20240212225759\"},\"about\":{\"@type\":\"Thing\",\"url\":\"https://icarus.fandom.com/wiki/Cold_Steel_Knife\",\"name\":\"Cold Steel Knife\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/0/0a/ITEM_Cold_Steel_Knife.png/revision/latest?cb=20240212225759\"},\"author\":{\"@type\":\"Organization\",\"url\":\"https://icarus.fandom.com/wiki/Cold_Steel_Knife?action=credits\",\"name\":\"Contributors to Icarus Wiki\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Fandom, Inc.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720\"}},\"abstract\":\"The Cold Steel Knife is a mid/late-game Knife that is introduced with the addition of Cold Steel Ingots on the Prometheus map. When skinning with the knife, there is a 30% chance to apply the Chilled Status Effect on harvested items which increases the spoil time by 100%. As the materials required for this item are exclusive to Prometheus, it requires the New Frontiers DLC. A Tool Attachment Pack can be applied at an / . The Cold Steel Knife can be crafted at the or with the following resources:\",\"image\":\"https://static.wikia.nocookie.net/icarus/images/0/0a/ITEM_Cold_Steel_Knife.png/revision/latest?cb=20240212225759\",\"thumbnailUrl\":\"https://static.wikia.nocookie.net/icarus/images/0/0a/ITEM_Cold_Steel_Knife.png/revision/latest?cb=20240212225759\"}",
+  "Infobox": {
+    "Category": "Knives",
+    "Tech Tier": "Tier 3",
+    "Description": "A sturdy Knife crafted using Cold Steel, unique to Icarus. Meat harvested with this knife will take more time to spoil.",
+    "Flavor Text": "One of the few tools that are only available on Icarus, due to the nature of the materials required.",
+    "Attributes": "+15% chance to cause Freeze on Hit with Attacks +30% Chance to apply the Chilled Modifier",
+    "Melee Damage": "33 - 35 Melee Damage",
+    "Element Damage": "35 - 35 Frost Damage",
+    "Skinning": "200% Yield from Skinning",
+    "Weight": "0.5 Kg",
+    "Durability": "150,000",
+    "Crafted At": "Forge Foundry",
+    "Repaired with": "1 Cold Steel Ingot"
+  }
+}
