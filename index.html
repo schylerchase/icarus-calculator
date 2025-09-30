@@ -842,6 +842,7 @@
 
                     const successfulPath = './icarus_data/'; // adjust if needed
 
+                    // Load manifest
                     setLoadingText('Loading manifest...');
                     const manifestRes = await fetch(`${successfulPath}manifest.json`);
                     if (!manifestRes.ok) throw new Error(`Failed to load manifest.json: ${manifestRes.status}`);
@@ -853,83 +854,108 @@
                     setLoadingText('Loading all items...');
                     const allItemsRaw = [];
 
+                    // Fetch all JSON files in parallel
                     await Promise.all(files.map(async (file) => {
-                    try {
-                        const res = await fetch(`${successfulPath}${file}`);
-                        if (!res.ok) {
-                        console.warn(`Skipped ${file}: ${res.status}`);
-                        return;
-                        }
-                        const data = await res.json();
+                        try {
+                            const res = await fetch(`${successfulPath}${file}`);
+                            if (!res.ok) {
+                                console.warn(`Skipped ${file}: ${res.status}`);
+                                return;
+                            }
+                            const data = await res.json();
 
-                        // Accept { items: [...] }, plain array, or single object
-                        if (Array.isArray(data.items)) {
-                        data.items.forEach(i => allItemsRaw.push({ ...i, __sourceFile: file }));
-                        } else if (Array.isArray(data)) {
-                        data.forEach(i => allItemsRaw.push({ ...i, __sourceFile: file }));
-                        } else if (data && typeof data === 'object') {
-                        allItemsRaw.push({ ...data, __sourceFile: file });
-                        } else {
-                        console.warn(`${file} has unexpected format`, data);
+                            // Accept { items: [...] }, plain array, or single object
+                            if (Array.isArray(data.items)) {
+                                data.items.forEach(i => allItemsRaw.push({ ...i, __sourceFile: file }));
+                            } else if (Array.isArray(data)) {
+                                data.forEach(i => allItemsRaw.push({ ...i, __sourceFile: file }));
+                            } else if (data && typeof data === 'object') {
+                                allItemsRaw.push({ ...data, __sourceFile: file });
+                            } else {
+                                console.warn(`${file} has unexpected format`, data);
+                            }
+                        } catch (err) {
+                            console.warn(`Could not load ${file}:`, err.message);
                         }
-                    } catch (err) {
-                        console.warn(`Could not load ${file}:`, err.message);
-                    }
                     }));
 
-                    // Deduplicate & merge intelligently by name (or url)
-                    const itemMap = new Map();
-
+                    // Helpers
                     const normalizeCrafted = raw => {
-                    const r = raw ?? '';
-                    const s = (typeof r === 'string') ? r.trim() : r;
-                    return (s && s.toLowerCase() !== 'unknown') ? s : undefined;
+                        const r = raw ?? '';
+                        const s = (typeof r === 'string') ? r.trim() : r;
+                        return (s && s.toLowerCase() !== 'unknown') ? s : undefined;
                     };
 
-                    allItemsRaw.forEach(item => {
-                    const key = (item.name && String(item.name).trim()) || (item.url && String(item.url).trim());
-                    if (!key) return; // skip if no identifier
+                    const normalizeIngredients = raw => {
+                        if (!raw) return undefined;
+                        if (typeof raw === 'object' && !Array.isArray(raw)) return raw;
 
-                    const sourceFile = item.__sourceFile;
-
-                    const candidate = {
-                        ...item
-                    };
-                    candidate.crafted_at = normalizeCrafted(candidate.crafted_at ?? candidate.craftedAt);
-
-                    if (itemMap.has(key)) {
-                        const existing = itemMap.get(key);
-
-                        // Prefer a real crafted_at from candidate
-                        if ((!existing.crafted_at || existing.crafted_at === undefined) && candidate.crafted_at) {
-                        existing.crafted_at = candidate.crafted_at;
-                        existing.__craftedFrom = sourceFile;
+                        if (Array.isArray(raw)) {
+                            const obj = {};
+                            raw.forEach(entry => {
+                                if (!entry) return;
+                                if (typeof entry === 'string') obj[entry] = (obj[entry] || 0) + 1;
+                                else if (entry.name && entry.qty != null) obj[entry.name] = (obj[entry.name] || 0) + Number(entry.qty);
+                                else if (entry[0] && entry[1]) obj[String(entry[0])] = (obj[String(entry[0])] || 0) + Number(entry[1]);
+                            });
+                            return Object.keys(obj).length ? obj : undefined;
                         }
 
-                        // If existing lacks some fields, fill from candidate (optional)
-                        if (!existing.category && candidate.category) existing.category = candidate.category;
-                        if ((!existing.tier || existing.tier === 0) && candidate.tier) existing.tier = candidate.tier;
-                        // ... add merges for other fields if you want
-                    } else {
-                        // store first entry, mark source if crafted_at present
-                        if (candidate.crafted_at) candidate.__craftedFrom = sourceFile;
-                        itemMap.set(key, candidate);
-                    }
+                        return undefined;
+                    };
+
+                    // Deduplicate & merge intelligently by name or url
+                    const itemMap = new Map();
+
+                    allItemsRaw.forEach(item => {
+                        const key = (item.name && String(item.name).trim()) || (item.url && String(item.url).trim());
+                        if (!key) return;
+
+                        const sourceFile = item.__sourceFile;
+                        const candidate = { ...item };
+
+                        candidate.crafted_at = normalizeCrafted(candidate.crafted_at ?? candidate.craftedAt);
+                        candidate.ingredients = normalizeIngredients(candidate.ingredients ?? candidate.recipe ?? candidate.components);
+
+                        if (itemMap.has(key)) {
+                            const existing = itemMap.get(key);
+
+                            // Prefer a real crafted_at
+                            if ((!existing.crafted_at || existing.crafted_at === undefined) && candidate.crafted_at) {
+                                existing.crafted_at = candidate.crafted_at;
+                                existing.__craftedFrom = sourceFile;
+                            }
+
+                            // Merge ingredients
+                            if (candidate.ingredients) {
+                                existing.ingredients = existing.ingredients || {};
+                                Object.entries(candidate.ingredients).forEach(([name, qty]) => {
+                                    existing.ingredients[name] = qty; // overwrite/add
+                                });
+                            }
+
+                            // Merge other fields if missing
+                            if (!existing.category && candidate.category) existing.category = candidate.category;
+                            if ((!existing.tier || existing.tier === 0) && candidate.tier) existing.tier = candidate.tier;
+
+                        } else {
+                            if (candidate.crafted_at) candidate.__craftedFrom = sourceFile;
+                            itemMap.set(key, candidate);
+                        }
                     });
 
+                    // Final normalization for UI fallback
                     const uniqueItems = Array.from(itemMap.values());
-
-                    // Final normalization so UI fallback works
                     uniqueItems.forEach(it => {
-                    if (!it.crafted_at) it.crafted_at = undefined;
+                        if (!it.crafted_at) it.crafted_at = undefined;
+                        if (!it.ingredients) it.ingredients = undefined;
                     });
 
                     console.log(`✅ Loaded ${uniqueItems.length} unique items (merged from ${allItemsRaw.length} raw entries).`);
-                    // Optional: show a few examples where crafted_at was taken from a specific file
                     console.log('Sample items with crafted source:', uniqueItems
-                    .filter(i => i.__craftedFrom)
-                    .slice(0, 10)
-                    .map(i => ({ name: i.name, crafted_at: i.crafted_at, from: i.__craftedFrom })));
+                        .filter(i => i.__craftedFrom)
+                        .slice(0, 10)
+                        .map(i => ({ name: i.name, crafted_at: i.crafted_at, from: i.__craftedFrom })));
 
                     setAllItems(uniqueItems);
                     setLoading(false);
@@ -937,13 +963,14 @@
                 } catch (err) {
                     console.error('Error loading recipes:', err);
                     setError({
-                    title: 'Failed to Load Recipe Database',
-                    message: err.message
+                        title: 'Failed to Load Recipe Database',
+                        message: err.message
                     });
                     setLoading(false);
                     setLoadingText('');
                 }
-                };
+            };
+
 
 
 

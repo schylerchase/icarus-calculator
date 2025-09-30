@@ -2,9 +2,14 @@
   "name": "12-Gauge Buckshot Shell",
   "url": "https://icarus.fandom.com/wiki/12-Gauge_Buckshot_Shell",
   "description": "12-Gauge Buckshot Shell, the basic ammunition used byShotguns. Unlike arrows, javelins, and bolts, this ammunition is destroyed on impact and cannot be recovered.",
-  "item_type": "unknown",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "item_type": "Ammunition",
+  "ingredients": {
+    "12-Gauge Casing" : 1,
+    "Copper Nail" : 2,
+    "Gunpower" : 1,
+    "Epoxy" : 1
+  },
+  "crafted_at": "Machining",
   "tier": 3,
   "stats": {
     "weight": "0.012 Kg"
