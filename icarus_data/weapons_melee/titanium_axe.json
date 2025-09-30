@@ -1,0 +1,18 @@
+{
+  "name": "Titanium Axe",
+  "url": "https://icarus.fandom.com/wiki/Titanium_Axe",
+  "description": "The Titanium Axe is the highest tieredAxethat can be crafted while on the surface of Icarus.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "damage": "+80 Felling Damage",
+    "weight": "0.5 kg",
+    "durability": "120,000"
+  },
+  "category": "axes",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

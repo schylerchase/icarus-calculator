@@ -1,0 +1,17 @@
+{
+  "name": "Wayfarer Leg Armor",
+  "url": "https://icarus.fandom.com/wiki/Wayfarer_Leg_Armor",
+  "description": "Wayfarer Leg Armor is a mid-gameTier 3crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "2.0 kg",
+    "durability": "4,500"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

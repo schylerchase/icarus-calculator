@@ -1,0 +1,14 @@
+{
+  "name": "Raw Chicken",
+  "url": "https://icarus.fandom.com/wiki/Raw_Chicken",
+  "description": "Raw Chicken can be obtained from the carcass of a once cryogenically frozenChickenthat can be purchased from theWorkshop.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

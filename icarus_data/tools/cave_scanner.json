@@ -1,0 +1,16 @@
+{
+  "name": "Cave Scanner",
+  "url": "https://icarus.fandom.com/wiki/Cave_Scanner",
+  "description": "Locates caves with audible beeping. While the cave scanner is equipped and in hand the scanner's lights will blink and it will beep so long as a cave is somewhat nearby. The frequency of blinking/beeping increases as the Prospector approaches a cave. Furthermore, the scanner will beep more rapidly if the Prospector is looking in the direction of a cave.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "1.0 Kg"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

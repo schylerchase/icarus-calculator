@@ -1,0 +1,17 @@
+{
+  "name": "Thatch Roof Corner",
+  "url": "https://icarus.fandom.com/wiki/Thatch_Roof_Corner",
+  "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. For different variants, hold R while holding a Thatch Roof Corner (more item actions can be seen bottom right).",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.1 kg",
+    "durability": "500"
+  },
+  "category": "thatch building advanced set",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Waterskin",
+  "url": "https://icarus.fandom.com/wiki/Waterskin",
+  "description": "Filled at any water source, including aRain Reservoir.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "liquid containers",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

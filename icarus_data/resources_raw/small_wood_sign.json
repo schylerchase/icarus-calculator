@@ -1,0 +1,17 @@
+{
+  "name": "Small Wood Sign",
+  "url": "https://icarus.fandom.com/wiki/Small_Wood_Sign",
+  "description": "A Small Wood Sign made ofRefined WoodandCopper Nails.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "0.5 Kg",
+    "durability": "100"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

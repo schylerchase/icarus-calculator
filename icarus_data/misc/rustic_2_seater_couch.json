@@ -1,0 +1,17 @@
+{
+  "name": "Rustic 2-Seater Couch",
+  "url": "https://icarus.fandom.com/wiki/Rustic_2-Seater_Couch",
+  "description": "The Rustic 2-Seater Couch is a rustic item that can seat 2 prospectors.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "15 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

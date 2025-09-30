@@ -1,0 +1,14 @@
+{
+  "name": "Clay",
+  "url": "https://icarus.fandom.com/wiki/Clay",
+  "description": "A moldable, fine-grained material that can be baked into bricks. Clay is found in theSwampBiomein Icarus. In order to collect it, one needs to first break it apart using aSledgehammer. Clay can be refined intoClay Bricksat any furnace.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

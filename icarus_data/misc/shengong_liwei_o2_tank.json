@@ -1,0 +1,16 @@
+{
+  "name": "Shengong 'Liwei' O2 Tank",
+  "url": "https://icarus.fandom.com/wiki/Shengong_%27Liwei%27_O2_Tank",
+  "description": "It is worth noting that this Oxygen Container takes 65Oxiteto fill at aOxite Dissolver, and will last significantly longer than anOxygen Bladder, making it one of the most valuable early game purchases in theWorkshop. Will remain filled between Prospects. It holds 6500 oxygen units making it useful for stockpile missions that require oxygen delivery.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.1 kg"
+  },
+  "category": "oxygen containers",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

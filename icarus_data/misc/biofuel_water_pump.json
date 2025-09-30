@@ -1,0 +1,17 @@
+{
+  "name": "Biofuel Water Pump",
+  "url": "https://icarus.fandom.com/wiki/Biofuel_Water_Pump",
+  "description": "The Biofuel Water Pump outputs 1,000Waterwhen supplied with biofuel; use theWater Pipe Toolto connect it toCrafting Benches/Water Storageto provide water. The Biofuel Water Pump can output water for two hours and thirty minutes with a fullBiofuel Can.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "20.0 Kg",
+    "durability": "2,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

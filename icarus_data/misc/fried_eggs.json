@@ -1,0 +1,14 @@
+{
+  "name": "Fried Eggs",
+  "url": "https://icarus.fandom.com/wiki/Fried_Eggs",
+  "description": "Fried Eggs is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

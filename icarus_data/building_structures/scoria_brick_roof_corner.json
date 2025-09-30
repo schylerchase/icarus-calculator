@@ -1,0 +1,17 @@
+{
+  "name": "Scoria Brick Roof Corner",
+  "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Roof_Corner",
+  "description": "Scoria Brick Roof Corner is a fired scoria building material that is lightweight.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "3 Kg",
+    "durability": "4,500"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

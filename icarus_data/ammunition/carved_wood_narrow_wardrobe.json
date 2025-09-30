@@ -1,0 +1,17 @@
+{
+  "name": "Carved Wood Narrow Wardrobe",
+  "url": "https://icarus.fandom.com/wiki/Carved_Wood_Narrow_Wardrobe",
+  "description": "Carved Wood Narrow Wardrobe is a decorative narrow wardrobe with 10 inventory slots. It has two build variants available by selecting 'R' when deploying.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.0 Kg",
+    "durability": "100"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

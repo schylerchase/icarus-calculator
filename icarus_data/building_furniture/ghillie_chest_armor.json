@@ -1,0 +1,17 @@
+{
+  "name": "Ghillie Chest Armor",
+  "url": "https://icarus.fandom.com/wiki/Ghillie_Chest_Armor",
+  "description": "Ghillie Chest Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "0.75 kg",
+    "durability": "1,750"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

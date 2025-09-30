@@ -1,0 +1,17 @@
+{
+  "name": "Charging Station",
+  "url": "https://icarus.fandom.com/wiki/Charging_Station",
+  "description": "The Charging Station charges basic battery powered devices like theFlashlightand requires 500Wattsto function.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "10.0 Kg",
+    "durability": "1,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

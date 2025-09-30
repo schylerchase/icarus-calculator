@@ -1,0 +1,17 @@
+{
+  "name": "Ashen Drake Trophy",
+  "url": "https://icarus.fandom.com/wiki/Ashen_Drake_Trophy",
+  "description": "Ashen Drake Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete theBestiary, it can also be used in tandem with otherFurnitureto increase theCozinessof your living quarters, increasing the duration and effectiveness of theWell Rested Buff.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "2.0 Kg",
+    "durability": "250"
+  },
+  "category": "trophies",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

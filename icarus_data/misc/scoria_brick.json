@@ -1,0 +1,14 @@
+{
+  "name": "Scoria Brick",
+  "url": "https://icarus.fandom.com/wiki/Scoria_Brick",
+  "description": "Scoria Bricks are a refined resource primarily used to craftScoria Brick Building Piecesat anAdvanced Masonry Bench/Electric Masonry Bench.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Patcher II Module",
+  "url": "https://icarus.fandom.com/wiki/Patcher_II_Module",
+  "description": "This module increases the number of available inventory slots by 5 when equipped in anEnvirosuitmodule slot. It can be researched and crafted on theSpace Stationin theWorkshop. Multiple Patcher II Modules may be equipped if the Prospector has available slots on their Envirosuit.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "modules",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

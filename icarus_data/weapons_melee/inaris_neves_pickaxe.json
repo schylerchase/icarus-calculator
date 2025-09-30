@@ -1,0 +1,18 @@
+{
+  "name": "Inaris \"Neves\" Pickaxe",
+  "url": "https://icarus.fandom.com/wiki/Inaris_%22Neves%22_Pickaxe",
+  "description": "The Inaris \"Neves\" Pickaxe is the Workshop equivalent of aTitanium Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while greatly increasing yield.\nUnlike other pickaxes, the Inaris \"Neves\" Pickaxe is the only pickaxe that reduces the over-encumbrance penalty by 50% when equipped, which makes mobility while over-encumbered bearable when paired with the talentCarry OnandMass Dampener Modules.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "damage": "42 - 45 Melee Damage",
+    "weight": "1.0 kg",
+    "durability": "60,000"
+  },
+  "category": "pickaxes",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Strawberry Jam",
+  "url": "https://icarus.fandom.com/wiki/Strawberry_Jam",
+  "description": "Strawberry Jam is a long-lastingFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Strawberry Jam,Berry JamandPickled Carrot, do not spoil and is therefore a valuable food for long-term storage.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

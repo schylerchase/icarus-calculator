@@ -1,0 +1,14 @@
+{
+  "name": "Basic Bandage",
+  "url": "https://icarus.fandom.com/wiki/Basic_Bandage",
+  "description": "Basic Bandage is used to heal Wound and Exotic WoundStatus Effects.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {},
+  "category": "medicine",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

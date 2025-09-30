@@ -1,0 +1,14 @@
+{
+  "name": "Iron Ingot",
+  "url": "https://icarus.fandom.com/wiki/Iron_Ingot",
+  "description": "Iron Ingot is the refined resource crafted fromIron Oreand is one of the most used materials in theTier 2Tech Tree and beyond.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

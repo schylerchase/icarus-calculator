@@ -1,0 +1,17 @@
+{
+  "name": "Interior Wood Trapdoor",
+  "url": "https://icarus.fandom.com/wiki/Interior_Wood_Trapdoor",
+  "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "1.0 Kg",
+    "durability": "100"
+  },
+  "category": "interior wood building trim set",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

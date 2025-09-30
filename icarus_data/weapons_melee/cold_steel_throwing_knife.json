@@ -1,0 +1,17 @@
+{
+  "name": "Cold Steel Throwing Knife",
+  "url": "https://icarus.fandom.com/wiki/Cold_Steel_Throwing_Knife",
+  "description": "The Cold Steel Throwing Knife is a variant of theCold Steel Knifethat can only be thrown and is unlocked upon researching theCold Steel Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "damage": "30 - 30 Frost",
+    "weight": "0.5 kg"
+  },
+  "category": "throwing knives",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

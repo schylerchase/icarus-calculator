@@ -1,0 +1,14 @@
+{
+  "name": "Health Restoration Paste",
+  "url": "https://icarus.fandom.com/wiki/Health_Restoration_Paste",
+  "description": "In-game description:An organic fusion that restores health.In-game flavor text:The combination of Icarus's unique conditions and genetic adjustments to plant life has seen the addition of 'useful' methyl chains to many previously innocuous plant-based preparations.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

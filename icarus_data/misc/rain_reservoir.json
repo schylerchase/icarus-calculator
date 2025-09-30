@@ -1,0 +1,17 @@
+{
+  "name": "Rain Reservoir",
+  "url": "https://icarus.fandom.com/wiki/Rain_Reservoir",
+  "description": "Rain Reservoirs can be crafted from the Crafting Bench with the following resources once the appropriate blueprint point has been spent:",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "2.0 kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

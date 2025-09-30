@@ -1,0 +1,14 @@
+{
+  "name": "Fish Chunks",
+  "url": "https://icarus.fandom.com/wiki/Fish_Chunks",
+  "description": "Fish Chunks are added to the Prospector's inventory after looting the carcass of a fish. Fish caught using a Fishing Trap or Fishing Rod can be converted into Fish Chunks as well. Fish Chunks can be cooked in aCampfire, or used in other dishes such asFreshwater Fillet CurryorCrumbed Saltwater Fillet. Right-click a Freshwater/Saltwater fish to convert it intoFish Chunks.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

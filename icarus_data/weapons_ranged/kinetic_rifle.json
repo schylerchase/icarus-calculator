@@ -1,0 +1,17 @@
+{
+  "name": "Kinetic Rifle",
+  "url": "https://icarus.fandom.com/wiki/Kinetic_Rifle",
+  "description": "The Kinetic Rifle is aLegendary WeaponRiflethat can be purchased at theBio-lab.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "5.0 kg",
+    "durability": "35,000"
+  },
+  "category": "firearms",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

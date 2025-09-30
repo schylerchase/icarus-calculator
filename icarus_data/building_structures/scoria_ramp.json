@@ -1,0 +1,17 @@
+{
+  "name": "Scoria Ramp",
+  "url": "https://icarus.fandom.com/wiki/Scoria_Ramp",
+  "description": "Scoria building material, while not as robust as Scoria Brick Building Pieces, it is still an effective choice.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "2.5 Kg",
+    "durability": "3,000"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

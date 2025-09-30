@@ -1,0 +1,17 @@
+{
+  "name": "Windmill",
+  "url": "https://icarus.fandom.com/wiki/Windmill",
+  "description": "The Windmill is a fasterTier 3equivalent of theMortar and Pestleand an intermediate item before reaching theMaterial ProcessoronTier 4.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "5.0 Kg",
+    "durability": "2,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Detoxifier Module",
+  "url": "https://icarus.fandom.com/wiki/Detoxifier_Module",
+  "description": "This module increases poison resistance by 50% when equipped in anEnvirosuitmodule slot, reducing the amount of damage received when poisoned. It can be researched and crafted on theSpace Stationin theWorkshop. Multiple Detoxifier Modules may be equipped if the Prospector has available slots on their Envirosuit. The resistance increase from each Detoxifier Module will stack and will grant near immunity to poison if four are equipped.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "modules",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

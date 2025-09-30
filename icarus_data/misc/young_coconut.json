@@ -1,0 +1,14 @@
+{
+  "name": "Young Coconut",
+  "url": "https://icarus.fandom.com/wiki/Young_Coconut",
+  "description": "Harvested from palm trees in theDesert, when chopping their tops with an axe. If a prospector lets it decay, it will ripen into aRipe Coconut.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

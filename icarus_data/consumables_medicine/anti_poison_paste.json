@@ -1,0 +1,14 @@
+{
+  "name": "Anti-Poison Paste",
+  "url": "https://icarus.fandom.com/wiki/Anti-Poison_Paste",
+  "description": "Anti-Poison Paste is one of the multiple, easily overlooked recipes available in the tier 1 tech tree. Reduces the duration ofPoisonfrom critters like theVenomous Fishor theCaveworm.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {},
+  "category": "medicine",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Bronze Alpha Sandworm Statue",
+  "url": "https://icarus.fandom.com/wiki/Bronze_Alpha_Sandworm_Statue",
+  "description": "The Bronze Alpha Sandworm Statue is a decorative bronze item.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.0 Kg",
+    "durability": "250"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

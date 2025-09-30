@@ -1,0 +1,17 @@
+{
+  "name": "Naneo Feet Armor",
+  "url": "https://icarus.fandom.com/wiki/Naneo_Feet_Armor",
+  "description": "",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.5 kg",
+    "durability": "7,500"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

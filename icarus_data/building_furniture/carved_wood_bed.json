@@ -1,0 +1,17 @@
+{
+  "name": "Carved Wood Bed",
+  "url": "https://icarus.fandom.com/wiki/Carved_Wood_Bed",
+  "description": "The Carved Wood Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game.  In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "10 kg",
+    "durability": "500"
+  },
+  "category": "beds",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

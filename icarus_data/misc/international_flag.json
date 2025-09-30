@@ -1,0 +1,17 @@
+{
+  "name": "International Flag",
+  "url": "https://icarus.fandom.com/wiki/International_Flag",
+  "description": "The International Flag is a deployable flag pole for decorating a base and supplying a small boost toCoziness.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "5.0 Kg",
+    "durability": "1500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

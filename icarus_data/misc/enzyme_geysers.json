@@ -1,0 +1,14 @@
+{
+  "name": "Enzyme Geysers",
+  "url": "https://icarus.fandom.com/wiki/Enzyme_Geysers",
+  "description": "Enzyme Geysers are natural formations found across several biomes in Icarus. These geysers are important resource nodes that offer valuable materials depending on the equipment used.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "minerals",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

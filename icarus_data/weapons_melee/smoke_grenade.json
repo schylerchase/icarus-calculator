@@ -1,0 +1,16 @@
+{
+  "name": "Smoke Grenade",
+  "url": "https://icarus.fandom.com/wiki/Smoke_Grenade",
+  "description": "A smoke grenade is a canister-type grenade used as a signaling device, target or landing zone marking device, or as a screening device for unit movements. Upon detonation, the Smoke Grenade will cover the area in smoke and will obstruct the vision of creatures within the smoke. However, it will not stop creatures that are already aggressively pursuing Prospectors, creatures spawned by Thumpers, Radars, or other mission items that have been placed or activated. Stacks up to 5.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "0.5 kg"
+  },
+  "category": "weapons",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

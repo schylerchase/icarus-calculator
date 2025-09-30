@@ -1,0 +1,17 @@
+{
+  "name": "Anti-materiel Rifle",
+  "url": "https://icarus.fandom.com/wiki/Anti-materiel_Rifle",
+  "description": "The Anti-materiel Rifle is a bolt-action, anti-materiel rifle with a long effective range and an included scope for viewing the target. It firesSniper Ammunitionpurchased from theWorkshop.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "10.0 Kg",
+    "durability": "7,500"
+  },
+  "category": "sniper rifles",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

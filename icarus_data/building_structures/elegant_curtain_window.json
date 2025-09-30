@@ -1,0 +1,16 @@
+{
+  "name": "Elegant Curtain Window",
+  "url": "https://icarus.fandom.com/wiki/Elegant_Curtain_Window",
+  "description": "The Elegant Curtain Window is a luxury decorative window covering.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "1.0 Kg"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

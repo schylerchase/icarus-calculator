@@ -1,0 +1,16 @@
+{
+  "name": "Advanced Supplemental Filtration Attachment",
+  "url": "https://icarus.fandom.com/wiki/Advanced_Supplemental_Filtration_Attachment",
+  "description": "The Advanced Supplemental Filtration Attachment is an armor alteration that provides resistance to poison and reduced water consumption.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "1.0 kg"
+  },
+  "category": "attachment packs",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

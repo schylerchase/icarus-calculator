@@ -1,0 +1,17 @@
+{
+  "name": "Water Wheel",
+  "url": "https://icarus.fandom.com/wiki/Water_Wheel",
+  "description": "The Water Wheel is a power-generating device that can be placed in any flowing body of water. Use anElectricity Toolto connect it toBenchesto provide power.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "15.0 Kg",
+    "durability": "1,000"
+  },
+  "category": "electricity source",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

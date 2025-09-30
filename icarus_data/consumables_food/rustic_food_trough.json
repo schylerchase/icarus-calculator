@@ -1,0 +1,17 @@
+{
+  "name": "Rustic Food Trough",
+  "url": "https://icarus.fandom.com/wiki/Rustic_Food_Trough",
+  "description": "The Rustic Food Trough is a decorative upgrade to theFood Troughand allows multiple creatures to eat from it simultaneously, similar to theLarge Food Trough. Rustic Food Troughs benefit from theExtra Space I/Extra Space IItalent.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "3.0 Kg",
+    "durability": "1,500"
+  },
+  "category": "food troughs",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

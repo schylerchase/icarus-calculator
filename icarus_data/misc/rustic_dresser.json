@@ -1,0 +1,17 @@
+{
+  "name": "Rustic Dresser",
+  "url": "https://icarus.fandom.com/wiki/Rustic_Dresser",
+  "description": "The Rustic Dresser allows prospectors to store 10 items",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "20 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

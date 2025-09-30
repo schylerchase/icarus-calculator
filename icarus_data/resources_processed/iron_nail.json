@@ -1,0 +1,14 @@
+{
+  "name": "Iron Nail",
+  "url": "https://icarus.fandom.com/wiki/Iron_Nail",
+  "description": "Iron Nail are used widely in crafting of items such asStone Building Pieces, andIron Tools.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Advanced Tool Attachment Pack",
+  "url": "https://icarus.fandom.com/wiki/Advanced_Tool_Attachment_Pack",
+  "description": "The Advanced Tool Attachment Pack is aTier 4item that allows Prospectors to alter their tools with additional bonuses. Similar toTool Attachment Pack, both can be applied at anAlteration BenchorAdvanced Alteration Bench.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "1.0 kg"
+  },
+  "category": "advanced attachment packs",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

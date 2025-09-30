@@ -1,0 +1,1773 @@
+{
+  "category": "Resources Raw",
+  "count": 110,
+  "items": [
+    {
+      "name": "Aluminium Ore",
+      "url": "https://icarus.fandom.com/wiki/Aluminium_Ore",
+      "description": "Aluminium Ore is a mid-gameMineralResource. Prospectors can first utilize aluminium once they reach level 20 and unlockTier 3, when it can be crafted into upgradedWeaponslike theRecurve BowandAluminium Arrow. It is widely used in constructs (for example,Aluminium BeamandAluminium Door), and in the late-game it is a vital component ofItemslikeComposite Chest Armor.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "minerals",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Arctic Explorer Saddle",
+      "url": "https://icarus.fandom.com/wiki/Arctic_Explorer_Saddle",
+      "description": "The Arctic Explorer Saddle is a saddle forMountsthat has an artic theme. It is available as part of theCreature Comforts DLCand is a cosmetic change to theBasic Riding Saddlethat provides no additional attributes.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.5 Kg"
+      },
+      "category": "saddles",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Art Deco Candlestick",
+      "url": "https://icarus.fandom.com/wiki/Art_Deco_Candlestick",
+      "description": "The Art Deco Candlestick is an gilded item of significant worth. It can be built with either beeswax or animal fat and takes either as fuel inputs.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "10 Kg",
+        "durability": "1,500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Bearhide Saddle",
+      "url": "https://icarus.fandom.com/wiki/Bearhide_Saddle",
+      "description": "The Bearhide Saddle is a saddle forMountsthat has a bear theme. It is available as part of theCreature Comforts DLCand is a cosmetic change to theBasic Riding Saddlethat provides no additional attributes.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.5 Kg"
+      },
+      "category": "saddles",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Beeswax Wood Halfpieces",
+      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Halfpieces",
+      "description": "Reinforced wood building pieces can be unlocked inTier 2of theTech Tree. These building pieces are more resistant to damage than their earlierWoodversions with the inclusion ofBeeswax",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "0.5 kg",
+        "durability": "5,000"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Beeswax Wood Halfpitches",
+      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Halfpitches",
+      "description": "Reinforced wood building pieces can be unlocked inTier 2of theTech Tree. These building pieces are more resistant to damage than their earlierWoodversions with the inclusion ofBeeswax",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "0.5 kg",
+        "durability": "5,000"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Biomore Backpack",
+      "url": "https://icarus.fandom.com/wiki/Biomore_Backpack",
+      "description": "The Biomore Backpack provides six inventory slots, along with 3 active auras where the prospector and nearby allies having increased physical resistance, quicker healing from bacterial, parasitic and poison modifiers, and additional health regeneration. It also has offers buffs for the wearer, reducing the stamina impact from using tools, and providing more health to downed prospectors when revived. An excellent choice for prospectors specializing in rescues.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "0.5 kg",
+        "durability": "5,500"
+      },
+      "category": "backpacks",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Bone",
+      "url": "https://icarus.fandom.com/wiki/Bone",
+      "description": "Bone is aAnimal Resourceobtained fromFauna. It is also sometimes found when harvesting fish.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "animal resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Bone Javelin",
+      "url": "https://icarus.fandom.com/wiki/Bone_Javelin",
+      "description": "The Bone Javelin is a variant of theBone Spearthat can only be thrown and is an upgrade to theWood Javelin. Despite it requiring more materials to craft, the increase in damage can mean the difference between winning and losing a fight against Icarus' fauna.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {
+        "damage": "+10% Critical Damage",
+        "weight": "0.4 kg"
+      },
+      "category": "javelins",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Bone Lure",
+      "url": "https://icarus.fandom.com/wiki/Bone_Lure",
+      "description": "The Bone Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone increase is the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Bone Lure degrades with use and will eventually break after ten uses.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "0.25 Kg",
+        "durability": "100"
+      },
+      "category": "lures",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Bone Shield",
+      "url": "https://icarus.fandom.com/wiki/Bone_Shield",
+      "description": "The Bone Shield is crafted at the Character Crafting menu with the following resources:",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {
+        "weight": "1.5 kg",
+        "durability": "1,000"
+      },
+      "category": "tools",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Bone Sickle",
+      "url": "https://icarus.fandom.com/wiki/Bone_Sickle",
+      "description": "Used by 'attacking' plants such as shrubs,Reed Flower,Wheat, etc. Sickles significantly increase the yield of plants when harvesting.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {
+        "damage": "40",
+        "weight": "0.5kg",
+        "durability": "10,000"
+      },
+      "category": "sickles",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Brutalist Candlestick",
+      "url": "https://icarus.fandom.com/wiki/Brutalist_Candlestick",
+      "description": "The Brutalist Candlestick is mode from concrete and either animal fat or beeswax. There are two varieties by selecting R. Fuel is either beeswax or animal fat.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "10 Kg",
+        "durability": "1000"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Carbon Fiber",
+      "url": "https://icarus.fandom.com/wiki/Carbon_Fiber",
+      "description": "While being aTier 3component, Carbon Fiber is only used to makeCarbon Arrows, theCarbon Spear/Javelin, and theCarbon Fibre Round Shieldin the Tier 3 Tech Tree; however, it is a critical component widely used inTier 4crafting.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "crafted resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Carved Wood 2-Seater Couch",
+      "url": "https://icarus.fandom.com/wiki/Carved_Wood_2-Seater_Couch",
+      "description": "The Carved Wood 2-Seater Couch is a decorative item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Carved Wood 3-Seater Couch",
+      "url": "https://icarus.fandom.com/wiki/Carved_Wood_3-Seater_Couch",
+      "description": "The Carved Wood 3-Seater Couch is a decorative item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Carved Wood Bookshelf",
+      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Bookshelf",
+      "description": "The Carved Wood Bookshelf is a decorative item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Carved Wood Cabinet",
+      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Cabinet",
+      "description": "The Carved Wood Cabinet is a decorative piece with 10 item slots.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Carved Wood Candlestick",
+      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Candlestick",
+      "description": "The Carved Wood Candlestick can be crafted using either beeswax or animal fat and will take either as fuel. There are three varieties that can be selected using the 'R' key while deploying.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Carved Wood Desk Lamp",
+      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Desk_Lamp",
+      "description": "The Carved Wood Desk Lamp is a decorative item that requires 150 kwh of electricity",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Carved Wood Dresser",
+      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Dresser",
+      "description": "The Carved Wood Dresser is a decorative item with 10 inventory slots.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Carved Wood Nightstand",
+      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Nightstand",
+      "description": "The Carved Wood Nightstand is a decorative nightstand with 10 inventory slots. It has five build variants available by using the 'R' key when deploying.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Carved Wood Stool",
+      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Stool",
+      "description": "The Carved Wood Stool is a decorative item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Carved Wood Wardrobe",
+      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Wardrobe",
+      "description": "The Carved Wood Wardrobe is a decorative wardrobe with 10 inventory slots. It has two build variants available by selecting 'R' when deploying.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Coal Ore",
+      "url": "https://icarus.fandom.com/wiki/Coal_Ore",
+      "description": "Coal Ore is aMineralfound on Icarus in the open and caves. It's most basic use is as a fuel in aCampfireorStone Furnace, though this is somewhat inefficient as it is more valuable as component for crafting.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "minerals",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Coffee Smoked Fatty T-bone",
+      "url": "https://icarus.fandom.com/wiki/Coffee_Smoked_Fatty_T-bone",
+      "description": "Coffee Smoked Fatty T-bone is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Copper Ore",
+      "url": "https://icarus.fandom.com/wiki/Copper_Ore",
+      "description": "Copper Ore is an early-gameMineralResource. It is widely used in the construction ofInterior Wood Building Pieces, and prospectors can make extensive use of copper once they reach level 20 and unlockTier 3, as it is a crucial component inElectronics. In the late game, copper is used in various deployables like theRefrigeratorand theMaterial Processor.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "minerals",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Crushed Bone",
+      "url": "https://icarus.fandom.com/wiki/Crushed_Bone",
+      "description": "Useful alternate resource for makingEpoxy.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Dried Fatty T-Bone",
+      "url": "https://icarus.fandom.com/wiki/Dried_Fatty_T-Bone",
+      "description": "Dried Fatty T-Bone is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Fiber",
+      "url": "https://icarus.fandom.com/wiki/Fiber",
+      "description": "In-game description:A bundle of soft fiber, highly useful.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "itemable",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Fiber Farming Packet",
+      "url": "https://icarus.fandom.com/wiki/Fiber_Farming_Packet",
+      "description": "The Fiber Farming Packet is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Fiber seeds, which then can be planted inDirt Moundsor Crop plots to growPlant Resources.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Fiber Lure",
+      "url": "https://icarus.fandom.com/wiki/Fiber_Lure",
+      "description": "The Fiber Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone increase is the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Fiber Lure degrades with use and will eventually break after ten uses.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "0.25 Kg",
+        "durability": "100"
+      },
+      "category": "lures",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Frozen Ore",
+      "url": "https://icarus.fandom.com/wiki/Frozen_Ore",
+      "description": "Frozen Ore is a resource produced as a by-product of mining a mineral node with aPickaxethat has a chance to produce frozen ore, such as theCold Steel PickaxeorInaris \"Viridian\" Pickaxe.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "minerals",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Gold Ore",
+      "url": "https://icarus.fandom.com/wiki/Gold_Ore",
+      "description": "Gold Ore is aMineralResource. Prospectors can make extensive use of Gold Ore once they reach level 20 and unlockTier 3, as it is a crucial component inElectronics.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "minerals",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Gold Ore Lure",
+      "url": "https://icarus.fandom.com/wiki/Gold_Ore_Lure",
+      "description": "The Gold Ore Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Gold Ore Lure degrades with use and will eventually break after ten uses.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "0.25 Kg",
+        "durability": "100"
+      },
+      "category": "lures",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Ice Borer",
+      "url": "https://icarus.fandom.com/wiki/Ice_Borer",
+      "description": "The Ice Borer will drill super-cooled ice deposits when supplied with biofuel from aBiofuel Can/MXC Fuel Canister. Super-cooled ice deposits can only be found on frozen lakes and rivers in the Arctic regions of Prometheus (Biomes: Glacial Cascade or Alpine Steppe - a map of Prometheus biomes can be foundhere.). The Ice Borer has 5 slots and will last 2 hours and 5 minutes on a fullBiofuel Can.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {
+        "weight": "10.0 kg",
+        "durability": "750"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Industrial Candlestick",
+      "url": "https://icarus.fandom.com/wiki/Industrial_Candlestick",
+      "description": "The Industrial Candlestick is a decorative item from the Industrial Furniture Pack DLC.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "10 Kg",
+        "durability": "750"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Interior Wood Cupboard",
+      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Cupboard",
+      "description": "A Interior Wood Cupboard made of refined wood and copper nails. Similar size to theWood Cupboard.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "8.0 kg",
+        "durability": "750"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Interior Wood Halfpieces",
+      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Halfpieces",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "0.25 Kg",
+        "durability": "1000"
+      },
+      "category": "interior wood building advanced set",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Interior Wood Halfpitches",
+      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Halfpitches",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "250",
+        "durability": "1000"
+      },
+      "category": "interior wood building advanced set",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Interior Wood Ladder",
+      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Ladder",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "0.5 Kg",
+        "durability": "250"
+      },
+      "category": "interior wood building trim set",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Interior Wood Railing",
+      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Railing_Stairs",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "1.0 Kg",
+        "durability": "500"
+      },
+      "category": "interior wood building trim set",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Interior Wood Railing",
+      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Railing",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "1.0 Kg",
+        "durability": "500"
+      },
+      "category": "interior wood building trim set",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Interior Wood Railing Gate",
+      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Railing_Gate",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "1.0 Kg",
+        "durability": "500"
+      },
+      "category": "interior wood building trim set",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Iron Ore",
+      "url": "https://icarus.fandom.com/wiki/Metal_Ore",
+      "description": "Iron Ore is aMineral, that allows prospectors to createTier 2/Tier 3ToolsandWeaponswith both theAnvil BenchandMachining Bench. In addition, iron is widely used inSteel Ingotfor craftingItemssuch as theSteel Pickaxe, and Late-game Deployables like theFabricator/Electric Furnace.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "minerals",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Iron Ore",
+      "url": "https://icarus.fandom.com/wiki/Iron_Ore",
+      "description": "Iron Ore is aMineral, that allows prospectors to createTier 2/Tier 3ToolsandWeaponswith both theAnvil BenchandMachining Bench. In addition, iron is widely used inSteel Ingotfor craftingItemssuch as theSteel Pickaxe, and Late-game Deployables like theFabricator/Electric Furnace.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "minerals",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Medium Interior Wood Crate",
+      "url": "https://icarus.fandom.com/wiki/Medium_Interior_Wood_Crate",
+      "description": "A Medium Interior Wood Crate made of refined wood and copper nails. Similar size to theMedium Wood Crate.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "4.0 kg",
+        "durability": "500"
+      },
+      "category": "deployables:storage containers",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Medium Wood Crate",
+      "url": "https://icarus.fandom.com/wiki/Medium_Wood_Crate",
+      "description": "Larger than theSmall Wood Crate, the Medium Wood Crate also possesses an increased inventory space with 20 slots. Like most otherDeployables, this must be underShelteror it will be destroyed when exposed toWeatherevents. It is possible to loot the contents if this crate is destroyed, but only for a limited time.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {
+        "weight": "4.0 kg",
+        "durability": "500"
+      },
+      "category": "deployables:storage containers",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Medium Wood Hedgehog",
+      "url": "https://icarus.fandom.com/wiki/Medium_Wood_Hedgehog",
+      "description": "The Medium Wood Hedgehog are sturdy defenses used around your base or while at objectives for protection of equipment.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "2.0 kg",
+        "durability": "1,000"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "NOREX Boss Tracker Upgrade",
+      "url": "https://icarus.fandom.com/wiki/Norex_Boss_Tracker_Upgrade",
+      "description": "The NOREX Boss Tracker Upgrade is an upgrade for theCONT4CT Devicedeployed in anOpen Worldmap that visually upgrades the screens and provides a Bosses tab that provides information on the currently active world bosses.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {
+        "weight": "10.0 kg",
+        "durability": "2,500"
+      },
+      "category": "items",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Platinum Ore",
+      "url": "https://icarus.fandom.com/wiki/Platinum_Ore",
+      "description": "Platinum Ore is a mid-gameMineralResource, and can be utilized by prospectors after they reach level 20 and unlockTier 3in theTech Tree. Platinum is required for a number of upgradedToolsandWeapons, including thePlatinum SpearandPlatinum Sickle.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "minerals",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Silica Ore",
+      "url": "https://icarus.fandom.com/wiki/Silica_Ore",
+      "description": "Silica Ore is aMineralfound on the surface of Icarus. Prospectors are likely to first use silica to create theMortar and Pestle. However, it is also the key in making glass and concrete.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "minerals",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Small Interior Wood Crate",
+      "url": "https://icarus.fandom.com/wiki/Small_Interior_Wood_Crate",
+      "description": "A Small Interior Wood Crate made of refined wood and copper nails. Similar size to theSmall Wood Crate.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "2.0 kg",
+        "durability": "250"
+      },
+      "category": "deployables:storage containers",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Small Stone Sign",
+      "url": "https://icarus.fandom.com/wiki/Small_Stone_Sign",
+      "description": "The Small Stone Sign is a deployable sign post available as a wall sign, floor sign or a small angled variant.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.0 Kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Small Wood Crate",
+      "url": "https://icarus.fandom.com/wiki/Small_Wood_Crate",
+      "description": "The Small Wood Crate is the first available storage container that can be made by the prospector. While limited in inventory space, anything here will not be lost upon the death of the prospector or count against inventory weight. Like most otherDeployables, this must be underShelteror it will be destroyed when exposed toWeatherevents. It is possible to loot the contents if this crate is destroyed, but only for a limited time.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {
+        "weight": "2.0 kg",
+        "durability": "250"
+      },
+      "category": "deployables:storage containers",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Small Wood Sign",
+      "url": "https://icarus.fandom.com/wiki/Small_Wood_Sign",
+      "description": "A Small Wood Sign made ofRefined WoodandCopper Nails.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "0.5 Kg",
+        "durability": "100"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stick",
+      "url": "https://icarus.fandom.com/wiki/Stick",
+      "description": "Sticks are harvested by picking them up off of the ground, or when harvesting small trees and saplings. Sticks can also be crafted from wood at theCarpentry Bench, or in theCharacter Craftingmenu if you have theWood Breakdowntalent (and its matching Blueprint in Tier 1).",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone",
+      "url": "https://icarus.fandom.com/wiki/Stone",
+      "description": "Stone is one of the most abundantMineralsavailable on Icarus. Prospectors will make extensive use of stone from the moment they exit their drop-pods, as it is widely used in the early game for bothToolsandWeapons.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "minerals",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Brick",
+      "url": "https://icarus.fandom.com/wiki/Stone_Brick",
+      "description": "Stone Bricks are a refined resource primarily used to craftStone Brick Building Piecesat anAdvanced Masonry Bench/Electric Masonry Bench.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "crafted resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Brick Halfpieces",
+      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Halfpieces",
+      "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "2.5 Kg",
+        "durability": "3,500"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Brick Halfpitches",
+      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Halfpitches",
+      "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "2.5 Kg",
+        "durability": "3,500"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Buffalo Statue",
+      "url": "https://icarus.fandom.com/wiki/Stone_Buffalo_Statue",
+      "description": "The Stone Buffalo Statue is a decorative stone item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Cairn",
+      "url": "https://icarus.fandom.com/wiki/Stone_Cairn",
+      "description": "Stone Cairns are a deployable item can be used as waystones to mark a path across the landscape or to mark areas of significance. Stone Cairns also have one inventory slot that can be used to store deceased pets, marking their grave and providing them a small memorial. When inspecting the Stone Cairn by pressing F, the name and description can be changed as needed.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {
+        "weight": "30.0 Kg",
+        "durability": "1,000"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Caveworm Statue",
+      "url": "https://icarus.fandom.com/wiki/Stone_Caveworm_Statue",
+      "description": "The Stone Caveworm Statue is a decorative stone item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.0 Kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Deer Statue",
+      "url": "https://icarus.fandom.com/wiki/Stone_Deer_Statue",
+      "description": "The Stone Deer Statue is a decorative stone item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Elephant Statue",
+      "url": "https://icarus.fandom.com/wiki/Stone_Elephant_Statue",
+      "description": "The Stone Elephant Statue is a decorative stone item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Frame",
+      "url": "https://icarus.fandom.com/wiki/Stone_Frame",
+      "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "<unkown>",
+        "durability": "<unkown>"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Halfpieces",
+      "url": "https://icarus.fandom.com/wiki/Stone_Halfpieces",
+      "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "<unknown>",
+        "durability": "<unknown>"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Halfpitches",
+      "url": "https://icarus.fandom.com/wiki/Stone_Halfpitches",
+      "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "<unknown>",
+        "durability": "<unknown>"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Komodo Statue",
+      "url": "https://icarus.fandom.com/wiki/Stone_Komodo_Statue",
+      "description": "The Stone Komodo Statue is a decorative stone item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Pile",
+      "url": "https://icarus.fandom.com/wiki/Stone_Pile",
+      "description": "The Stone Pile, alongside theWood Pile, are makeshift storage options for large quantities of each raw material. The Stone Pile is immune to ALLWeatherdamage and can be used as a durable barrier toFauna, especially against Fauna like theGrizzly Bear. If placed with just a narrow opening between piles, Bears have an incredibly difficult time getting through which allows the Prospector to melee attack just beyond the bear's attack range.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Piranha Statue",
+      "url": "https://icarus.fandom.com/wiki/Stone_Piranha_Statue",
+      "description": "The Stone Piranha Statue is a decorative stone item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Rabbit Statue",
+      "url": "https://icarus.fandom.com/wiki/Stone_Rabbit_Statue",
+      "description": "The Stone Rabbit Statue is a decorative stone item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stone Water Trough",
+      "url": "https://icarus.fandom.com/wiki/Stone_Water_Trough",
+      "description": "The Stone Water Trough is a decorative upgrade to theWater Troughthat allows multiple creatures to drink from it simultaneously and can be connected toWaterusing aWater Pipe Tool, similar to theLarge Water Trough. The Stone Water Trough can only store water and cannot provide water to the rest of the network likeWater BarrelsorMetal Rain Reservoirs.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "3.0 Kg",
+        "durability": "1,500"
+      },
+      "category": "water troughs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Stonejaw Trophy",
+      "url": "https://icarus.fandom.com/wiki/Stonejaw_Trophy",
+      "description": "Stonejaw Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete theBestiary, it can also be used in tandem with otherFurnitureto increase theCozinessof your living quarters, increasing the duration and effectiveness of theWell Rested Buff.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "2.0 Kg",
+        "durability": "250"
+      },
+      "category": "trophies",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Titanium Ore",
+      "url": "https://icarus.fandom.com/wiki/Titanium_Ore",
+      "description": "Titanium Ore is a late-game Mineral, and can be utilized by prospectors after they reach level 30 and unlock theFabricatorin theTier 4Tech Tree. Titanium  represents the current pinnacle of material strength forToolsand for severalWeapons.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "minerals",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "UDA Aluminium Ore Resource Supply",
+      "url": "https://icarus.fandom.com/wiki/UDA_Aluminium_Ore_Resource_Supply",
+      "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using theShort Range Radio.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resource packs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "UDA Copper Ore Resource Supply",
+      "url": "https://icarus.fandom.com/wiki/UDA_Copper_Ore_Resource_Supply",
+      "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using theShort Range Radio.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resource packs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "UDA Gold Ore Resource Supply",
+      "url": "https://icarus.fandom.com/wiki/UDA_Gold_Ore_Resource_Supply",
+      "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using theShort Range Radio.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resource packs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "UDA Iron Ore Resource Supply",
+      "url": "https://icarus.fandom.com/wiki/UDA_Iron_Ore_Resource_Supply",
+      "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using theShort Range Radio.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resource packs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "UDA Oxite Ore Resource Supply",
+      "url": "https://icarus.fandom.com/wiki/UDA_Oxite_Ore_Resource_Supply",
+      "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using theShort Range Radio.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resource packs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "UDA Platinum Ore Resource Supply",
+      "url": "https://icarus.fandom.com/wiki/UDA_Platinum_Ore_Resource_Supply",
+      "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using theShort Range Radio.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resource packs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "UDA Silica Ore Resource Supply",
+      "url": "https://icarus.fandom.com/wiki/UDA_Silica_Ore_Resource_Supply",
+      "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using theShort Range Radio.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resource packs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "UDA Stone Resource Supply",
+      "url": "https://icarus.fandom.com/wiki/UDA_Stone_Resource_Supply",
+      "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using theShort Range Radio.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resource packs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "UDA Sulfur Ore Resource Supply",
+      "url": "https://icarus.fandom.com/wiki/UDA_Sulfur_Ore_Resource_Supply",
+      "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using theShort Range Radio.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resource packs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "UDA Titanium Ore Resource Supply",
+      "url": "https://icarus.fandom.com/wiki/UDA_Titanium_Ore_Resource_Supply",
+      "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using theShort Range Radio.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resource packs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "UDA Wood Resource Supply",
+      "url": "https://icarus.fandom.com/wiki/UDA_Wood_Resource_Supply",
+      "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using theShort Range Radio.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resource packs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Water Borer",
+      "url": "https://icarus.fandom.com/wiki/Water_Borer",
+      "description": "The Water Borer is a device that can be placed onEnzyme Geysersand when powered, can be used to extractWaterwhich can be fed into a water network.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {
+        "weight": "20.0 kg",
+        "durability": "2,000"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood",
+      "url": "https://icarus.fandom.com/wiki/Wood",
+      "description": "Wood is a basic crafting ingredient obtained from Trees using an axe or harvested by hand in theDesertvia Cacti. Wood can also be used as a Fuel source forCampfire,Fireplace, andStone Furnace.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Buffalo Statue",
+      "url": "https://icarus.fandom.com/wiki/Wood_Buffalo_Statue",
+      "description": "The Wood Buffalo Statue is a decorative wood item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Burner",
+      "url": "https://icarus.fandom.com/wiki/Wood_Burner",
+      "description": "The Wood Burner is a source of heat and basic cooking similar to aCampfireorFireplace. It provides the Warming Fire effect (heat and +100% Perceived Threat) allowing a Prospector to sleep nearby. Once fuel is added, it can be activated and will consume fuel regardless of any selected recipe.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "10 kg",
+        "durability": "1000"
+      },
+      "category": "depolyables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Composter",
+      "url": "https://icarus.fandom.com/wiki/Wood_Composter",
+      "description": "Wood Composter increases the rate at which food spoils, and will turnSpoiled PlantsorGuanointoBasic Fertilizer.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "2.0 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Crop Plot",
+      "url": "https://icarus.fandom.com/wiki/Wood_Crop_Plot",
+      "description": "The Wood Crop Plot is a farming plot for growingSeedsthat can later be harvested forPlant Resourcesonce fully grown. Unless the Prospector has theFresh Is Besttalent when deploying a seed into the crop plot, the grownPlant Resourcewill eventually wither if not harvested.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "2.0 kg",
+        "durability": "750"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Cupboard",
+      "url": "https://icarus.fandom.com/wiki/Wood_Cupboard",
+      "description": "Taking up the same floor-space but with a much larger inventory, this is a great upgrade from theMedium Wood Crate.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "8.0 kg",
+        "durability": "1,000"
+      },
+      "category": "deployables:storage containers",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Deer Statue",
+      "url": "https://icarus.fandom.com/wiki/Wood_Deer_Statue",
+      "description": "The Wood Deer Statue is a decorative wood item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Gate Fortification",
+      "url": "https://icarus.fandom.com/wiki/Wood_Gate_Fortification",
+      "description": "The Wood Gate Fortification serves as an entrance when usingWood Wall Fortifications. Similar toMedium Wood Hedgehogs, the Wood Gate Fortification does not take damage during storms.Wood Spikes Fortificationcannot be mounted to the Wood Gate Fortification.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "2.0 kg",
+        "durability": "5,000"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Halfpieces",
+      "url": "https://icarus.fandom.com/wiki/Wood_Halfpieces",
+      "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Wood roofs or walls require a floor or wall structure such asWood Wallfor snapping. Hold 'R' while placing the Wood Halfpieces itself to determine shape as well as placement as roof, or wall.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "0.1 kg",
+        "durability": "1,000"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Halfpitches",
+      "url": "https://icarus.fandom.com/wiki/Wood_Halfpitches",
+      "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Wood roofs or walls require a floor or wall structure such asWood Wallfor snapping. Hold 'R' while placing the Wood Halfpitches itself to determine shape as well as placement as roof, or wall.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "0.1 kg",
+        "durability": "1,000"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Javelin",
+      "url": "https://icarus.fandom.com/wiki/Wood_Javelin",
+      "description": "The Wood Javelin is a variant of theWood Spearthat can only be thrown. The Wood Javelin has the slowest projectile travel time and highest projectile fall-off, but that can be overlooked by it's cheap producibility.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {
+        "damage": "+10% Critical Damage",
+        "weight": "0.4 kg"
+      },
+      "category": "javelins",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Ladder",
+      "url": "https://icarus.fandom.com/wiki/Wood_Ladder",
+      "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Wood Ladders can be use with Trapdoor holes (hold R while holding a floor building piece and select the Trapdoor variant from the radial wheel). Does not snap to trapdoor holes.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "0.1 kg",
+        "durability": "250"
+      },
+      "category": "wood building trim set",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Pile",
+      "url": "https://icarus.fandom.com/wiki/Wood_Pile",
+      "description": "The Wood Pile, alongside theStone Pile, are makeshift storage options for large quantities of each raw material. Though immune to mostWeatherdamage, beware of lightning strikes. Can be used as a durable barrier toFauna, especially against Fauna like theGrizzly Bear, although the stone variant is preferred.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Piranha Statue",
+      "url": "https://icarus.fandom.com/wiki/Wood_Piranha_Statue",
+      "description": "The Wood Piranha Statue is a decorative wood item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Rabbit Statue",
+      "url": "https://icarus.fandom.com/wiki/Wood_Rabbit_Statue",
+      "description": "The Wood Rabbit Statue is a decorative wood item.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Railing",
+      "url": "https://icarus.fandom.com/wiki/Wood_Railing",
+      "description": "The Wood Railing is part of theWood Building Trim Set, which is learned in theTier 1Tech Tree after unlocking theWood Building Base Set.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "1.0 kg",
+        "durability": "250"
+      },
+      "category": "wood building trim set",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Railing Gate",
+      "url": "https://icarus.fandom.com/wiki/Wood_Railing_Gate",
+      "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offers good protection toDeployablesandStoragecontainers. Wood Railing Gates can be deployed on their own or can be snapped to railings/floors.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "1.0 kg",
+        "durability": "500"
+      },
+      "category": "wood building trim set",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Shield",
+      "url": "https://icarus.fandom.com/wiki/Wood_Shield",
+      "description": "The Wood Shield is crafted at the Anvil, Forge, or Foundry with the following resources:",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.5 kg",
+        "durability": "1,250"
+      },
+      "category": "tools",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Spikes Fortification",
+      "url": "https://icarus.fandom.com/wiki/Wood_Spikes_Fortification",
+      "description": "The Wood Spikes Fortification serves as large hedgehog that can attachWood Wall Fortificationsto fend off the predators of Icarus. Similar toMedium Wood Hedgehogs, the Wood Spikes Fortification does not take damage during storms.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "2.0 kg",
+        "durability": "5,000"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Walkway Fortification",
+      "url": "https://icarus.fandom.com/wiki/Wood_Walkway_Fortification",
+      "description": "The Wood Walkway Fortification is attached toWood Wall Fortificationsand serves as a platform that Prospectors can stand on, providing them a vantage point to see over their walls. Similar toMedium Wood Hedgehogs, the Wood Walkway Fortification does not take damage during storms.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "2.0 kg",
+        "durability": "5,000"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wooden Lure",
+      "url": "https://icarus.fandom.com/wiki/Wooden_Lure",
+      "description": "The Wooden Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. Like allLures, the Wooden Lure degrades with use and will eventually break after ten uses.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "0.25 Kg",
+        "durability": "100"
+      },
+      "category": "lures",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wooden Shovel",
+      "url": "https://icarus.fandom.com/wiki/Wooden_Shovel",
+      "description": "The Wooden Shovel is an early-gameToolused to createDirt Mounds(right-click), harvestIce/Dirt/Sand(left-click), or remove ash/snow buildup on structures in theArctic/Volcanicbiomes on Icarus.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {
+        "weight": "0.5 kg",
+        "durability": "5,000"
+      },
+      "category": "shovels",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    }
+  ]
+}

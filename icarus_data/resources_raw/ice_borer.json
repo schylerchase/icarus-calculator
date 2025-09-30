@@ -1,0 +1,17 @@
+{
+  "name": "Ice Borer",
+  "url": "https://icarus.fandom.com/wiki/Ice_Borer",
+  "description": "The Ice Borer will drill super-cooled ice deposits when supplied with biofuel from aBiofuel Can/MXC Fuel Canister. Super-cooled ice deposits can only be found on frozen lakes and rivers in the Arctic regions of Prometheus (Biomes: Glacial Cascade or Alpine Steppe - a map of Prometheus biomes can be foundhere.). The Ice Borer has 5 slots and will last 2 hours and 5 minutes on a fullBiofuel Can.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "10.0 kg",
+    "durability": "750"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

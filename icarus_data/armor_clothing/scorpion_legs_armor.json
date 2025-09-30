@@ -1,0 +1,17 @@
+{
+  "name": "Scorpion Legs Armor",
+  "url": "https://icarus.fandom.com/wiki/Scorpion_Legs_Armor",
+  "description": "Scorpion Legs Armor is aTier 2crafted armor requiring aTextiles Bench; however, it is difficult to acquire due to the challenge of defeatingHusk: Exterminationand requiringScorpion Carapace. It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.2 kg",
+    "durability": "<Unknown>"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Rustic Large Table",
+  "url": "https://icarus.fandom.com/wiki/Rustic_Large_Table",
+  "description": "The Rustic Large Table is a simple long wooden table.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "15 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

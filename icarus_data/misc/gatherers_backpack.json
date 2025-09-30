@@ -1,0 +1,17 @@
+{
+  "name": "Gatherer's Backpack",
+  "url": "https://icarus.fandom.com/wiki/Gatherer%27s_Backpack",
+  "description": "The Gatherer's Backpack is a must need when mining ores, or felling trees!",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.5 Kg",
+    "durability": "5,500"
+  },
+  "category": "backpacks",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Oxite Dissolver",
+  "url": "https://icarus.fandom.com/wiki/Oxite_Dissolver",
+  "description": "More efficient than theOxidizer, this is used in tandem withOxygen Containersplaced into the dissolver. The front slots of the deployable only acceptOxygen Containersand will automatically fill said containers fromOxiteplaced into the machine when supplied withSulfur. A stack of sulfur will last sixteen minutes and forty seconds, producing 0.1 Liters of Oxygen every two seconds.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "10.0 Kg",
+    "durability": "250"
+  },
+  "category": "oxite converters",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

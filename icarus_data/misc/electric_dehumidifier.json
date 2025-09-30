@@ -1,0 +1,17 @@
+{
+  "name": "Electric Dehumidifier",
+  "url": "https://icarus.fandom.com/wiki/Electric_Dehumidifier",
+  "description": "The Electric Dehumidifier allows for cave exploration without the risk of catchingCave Sicknesswhile also preventingcave wormsfrom spawning within its effective range. Will not prevent creatures from spawning when activatingThumpers, Radars, or other mission items that have been placed or activated.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "20.0 Kg",
+    "durability": "1,500"
+  },
+  "category": "dehumidifiers",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

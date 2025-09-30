@@ -1,0 +1,14 @@
+{
+  "name": "Raw Stringy Meat",
+  "url": "https://icarus.fandom.com/wiki/Raw_Stringy_Meat",
+  "description": "Raw Stringy Meat can be obtained by Skinning animals with aKnife. Eating Raw Stringy Meat will replenishHealththere is a possibility of negativeStatus Effectswhen doing so. It is better toCookfirst before eating.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

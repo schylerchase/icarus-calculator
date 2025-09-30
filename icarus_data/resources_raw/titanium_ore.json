@@ -1,0 +1,14 @@
+{
+  "name": "Titanium Ore",
+  "url": "https://icarus.fandom.com/wiki/Titanium_Ore",
+  "description": "Titanium Ore is a late-game Mineral, and can be utilized by prospectors after they reach level 30 and unlock theFabricatorin theTier 4Tech Tree. Titanium  represents the current pinnacle of material strength forToolsand for severalWeapons.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "minerals",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

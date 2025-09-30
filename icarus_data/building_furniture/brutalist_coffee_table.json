@@ -1,0 +1,17 @@
+{
+  "name": "Brutalist Coffee Table",
+  "url": "https://icarus.fandom.com/wiki/Brutalist_Coffee_Table",
+  "description": "The Brutalist Coffee Table is mode from concrete, iron and glass.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "10 Kg",
+    "durability": "1000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Reinforced Glass Halfpieces",
+  "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Halfpieces",
+  "description": "Reinforced Glass Halfpieces are building pieces made fromReinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.1 Kg",
+    "durability": "2,500"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

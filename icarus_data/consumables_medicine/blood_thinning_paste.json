@@ -1,0 +1,14 @@
+{
+  "name": "Blood Thinning Paste",
+  "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Paste",
+  "description": "Blood Thinning Paste is one of the multiple, easily overlooked recipes available in theTier 1tech tree. Reduces the duration ofConcussionsandContusionswhen you're unlucky enough to kiss a falling tree.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {},
+  "category": "medicine",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

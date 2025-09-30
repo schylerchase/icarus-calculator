@@ -1,0 +1,17 @@
+{
+  "name": "Prototype Trail Beacon Tool",
+  "url": "https://icarus.fandom.com/wiki/Prototype_Trail_Beacon_Tool",
+  "description": "The Prototype Trail Beacon Tool is a handheld device used to place a breadcrumb trail ofPrototype Trail Beaconswhen exploring theNull Sector Regionon thePrometheusmap.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "1.0 Kg",
+    "durability": "1,500"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

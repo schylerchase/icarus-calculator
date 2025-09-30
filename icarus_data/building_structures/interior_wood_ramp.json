@@ -1,0 +1,17 @@
+{
+  "name": "Interior Wood Ramp",
+  "url": "https://icarus.fandom.com/wiki/Interior_Wood_Stairs",
+  "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.5 Kg",
+    "durability": "500"
+  },
+  "category": "interior wood building base set",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

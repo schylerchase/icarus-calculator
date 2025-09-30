@@ -1,0 +1,14 @@
+{
+  "name": "Hyena Bait",
+  "url": "https://icarus.fandom.com/wiki/Hyena_Bait",
+  "description": "Hyena Bait is a single-useCrafted Resourceused to attract and captureWild Hyenaswhen used with aSnare Trap. Hyena Bait does not decay and can only be used inDesertandVolcanicBiomes. Stacks up to ten.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

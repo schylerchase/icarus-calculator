@@ -1,0 +1,18 @@
+{
+  "name": "Inaris \"Ersa\" Axe",
+  "url": "https://icarus.fandom.com/wiki/Inaris_%22Ersa%22_Axe",
+  "description": "The Inaris \"Ersa\" Axe is a Workshop Axe geared towards combat, intrinsically dealing Frost damage to targets. Ideally used with theBerserkertalent, which increases axe melee damage.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "damage": "+60 Felling Damage",
+    "weight": "1.0 kg",
+    "durability": "60,000"
+  },
+  "category": "axes",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

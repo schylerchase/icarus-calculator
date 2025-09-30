@@ -1,0 +1,14 @@
+{
+  "name": "Leather",
+  "url": "https://icarus.fandom.com/wiki/Leather",
+  "description": "Leather is a crucial component of many recipes in Icarus. Having a good stockpile of leather is something every prospector strive for.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

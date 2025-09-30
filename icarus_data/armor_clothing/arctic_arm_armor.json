@@ -1,0 +1,17 @@
+{
+  "name": "Arctic Arm Armor",
+  "url": "https://icarus.fandom.com/wiki/Arctic_Arm_Armor",
+  "description": "Arctic Armor is a major upgrade toFur Armor, offering unrivaled cold resistance.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "1.0 kg",
+    "durability": "6,000"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

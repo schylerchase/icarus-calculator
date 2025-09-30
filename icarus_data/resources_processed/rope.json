@@ -1,0 +1,14 @@
+{
+  "name": "Rope",
+  "url": "https://icarus.fandom.com/wiki/Rope",
+  "description": "Intermediate crafting item used as a component of many recipes.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

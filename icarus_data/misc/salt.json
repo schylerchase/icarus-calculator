@@ -1,0 +1,14 @@
+{
+  "name": "Salt",
+  "url": "https://icarus.fandom.com/wiki/Salt",
+  "description": "Salt is aMineraland can be found in the wilderness in similar areas toSulfur,OxiteandSilica.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "minerals",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

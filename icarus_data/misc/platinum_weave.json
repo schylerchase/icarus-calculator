@@ -1,0 +1,14 @@
+{
+  "name": "Platinum Weave",
+  "url": "https://icarus.fandom.com/wiki/Platinum_Weave",
+  "description": "Platinum Weave is aTier 3crafted resource used for various items including armor, animal items, rugs, fishing lures and furniture.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

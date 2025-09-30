@@ -1,0 +1,17 @@
+{
+  "name": "CX-400 Chest Armor",
+  "url": "https://icarus.fandom.com/wiki/CX-400_Chest_Armor",
+  "description": "",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "1.5 kg",
+    "durability": "5,500"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

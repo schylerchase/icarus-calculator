@@ -1,0 +1,17 @@
+{
+  "name": "Ion Backpack",
+  "url": "https://icarus.fandom.com/wiki/Ion_Backpack",
+  "description": "This backpack is specifically designed to benefit players moving into Electronics inTier 3andTier 4, with notable increases in copper, gold, and platinum yields when mining.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.5 kg",
+    "durability": "5,500"
+  },
+  "category": "backpacks",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

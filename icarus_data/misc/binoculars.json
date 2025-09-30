@@ -1,0 +1,16 @@
+{
+  "name": "Binoculars",
+  "url": "https://icarus.fandom.com/wiki/Binoculars",
+  "description": "See your prey from further away.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "0.25 kg"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Campfire",
+  "url": "https://icarus.fandom.com/wiki/Campfire",
+  "description": "The first available cooking station, the campfire is an essential early structure that allows prospectors to pass the night and to cookRaw MeatorFish Chunks, yielding safe to consume versions.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {
+    "weight": "10.0 Kg",
+    "durability": "1,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

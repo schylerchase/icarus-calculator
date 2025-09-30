@@ -1,0 +1,17 @@
+{
+  "name": "Aeroponic Crop Plot",
+  "url": "https://icarus.fandom.com/wiki/Aeroponic_Crop_Plot",
+  "description": "The Aeroponic Crop Plot is a farming plot for growingSeedsthat can later be harvested forPlant Resourcesonce fully grown. Unless the Prospector has theFresh Is Besttalent when deploying a seed into the crop plot, the grownPlant Resourcewill eventually wither if not harvested.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "2.0 kg",
+    "durability": "2,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

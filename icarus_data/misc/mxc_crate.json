@@ -1,0 +1,17 @@
+{
+  "name": "MXC Crate",
+  "url": "https://icarus.fandom.com/wiki/MXC_Crate",
+  "description": "The MXC Crate is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospector's loadout before starting a new prospect. Similar to theMedium Iron Crate, the MXC Crate does not require shelter. Has 25 slots.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "2.0 kg",
+    "durability": "30,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

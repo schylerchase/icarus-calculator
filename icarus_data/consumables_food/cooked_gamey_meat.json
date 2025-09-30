@@ -1,0 +1,14 @@
+{
+  "name": "Cooked Gamey Meat",
+  "url": "https://icarus.fandom.com/wiki/Cooked_Gamey_Meat",
+  "description": "Cooked Gamey Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Water Trough",
+  "url": "https://icarus.fandom.com/wiki/Water_Trough",
+  "description": "The Water Trough is a basic trough used to keepMountsandPetshydrated. Can be filled using aLiquid Containerfilled withWateror by leaving it exposed to the elements.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "3.0 Kg",
+    "durability": "500"
+  },
+  "category": "water troughs",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

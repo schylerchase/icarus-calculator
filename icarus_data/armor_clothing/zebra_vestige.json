@@ -1,0 +1,14 @@
+{
+  "name": "Zebra Vestige",
+  "url": "https://icarus.fandom.com/wiki/Zebra_Vestige",
+  "description": "Zebra Vestiges are used at theTrophy Benchto create aZebra Trophy, which can help prospectors complete theBestiary.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "animal resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

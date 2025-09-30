@@ -1,0 +1,14 @@
+{
+  "name": "Xigo Quick-Fix Kit",
+  "url": "https://icarus.fandom.com/wiki/Xigo_Quick-Fix_Kit",
+  "description": "The Xigo Quick-Fix Kit is a consumableMedicinethat heals wounds and removes certainStatus Effects.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "medicine",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Stone Deer Statue",
+  "url": "https://icarus.fandom.com/wiki/Stone_Deer_Statue",
+  "description": "The Stone Deer Statue is a decorative stone item.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1 Kg",
+    "durability": "250"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

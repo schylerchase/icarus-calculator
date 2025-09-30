@@ -1,0 +1,14 @@
+{
+  "name": "Raw Meat",
+  "url": "https://icarus.fandom.com/wiki/Raw_Meat",
+  "description": "Raw meat can be obtained by skinning animals with aKnife. While eating raw meat will replenishHealththere is a possibility of negativeStatus Effectswhen doing so. It is better toCookbefore eating.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

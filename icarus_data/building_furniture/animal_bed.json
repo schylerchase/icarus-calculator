@@ -1,0 +1,17 @@
+{
+  "name": "Animal Bed",
+  "url": "https://icarus.fandom.com/wiki/Animal_Bed",
+  "description": "The Animal Bed serves as a place for juvenile animals to sleep while taming and is required to tame juvenile animals. TamedMountsandPetscan also use the Animal Bed when tired.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.5 Kg",
+    "durability": "1,000"
+  },
+  "category": "animal bed",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

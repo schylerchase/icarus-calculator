@@ -1,0 +1,16 @@
+{
+  "name": "Crocodile Skin Saddle",
+  "url": "https://icarus.fandom.com/wiki/Crocodile_Skin_Saddle",
+  "description": "The Crocodile Skin Saddle is a saddle formountsthat has an crocodile theme. It is available as part of theCreature Comforts DLCand is a cosmetic change to theBasic Riding Saddlethat provides no additional attributes.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.5 Kg"
+  },
+  "category": "saddles",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

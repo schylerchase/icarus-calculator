@@ -1,0 +1,14 @@
+{
+  "name": "Wheat Farming Packet",
+  "url": "https://icarus.fandom.com/wiki/Wheat_Farming_Packet",
+  "description": "The Wheat Farming Packet is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Wheat seeds, which then can be planted inDirt Moundsor Crop plots to growPlant Resources.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Rustic Sitting Bench",
+  "url": "https://icarus.fandom.com/wiki/Rustic_Sitting_Bench",
+  "description": "The Rustic Sitting Bench seats two prospectors.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "20 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

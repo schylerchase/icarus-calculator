@@ -1,0 +1,14 @@
+{
+  "name": "Flatbread Dough",
+  "url": "https://icarus.fandom.com/wiki/Flatbread_Dough",
+  "description": "Flatbread Dough is the precursor to the mid/late-gameFoodFlatbread. Flatbread Dough will eventually decay, but can be preserved in anIce Box,Refrigerator, orDeep Freeze.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Iron Ore",
+  "url": "https://icarus.fandom.com/wiki/Iron_Ore",
+  "description": "Iron Ore is aMineral, that allows prospectors to createTier 2/Tier 3ToolsandWeaponswith both theAnvil BenchandMachining Bench. In addition, iron is widely used inSteel Ingotfor craftingItemssuch as theSteel Pickaxe, and Late-game Deployables like theFabricator/Electric Furnace.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "minerals",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

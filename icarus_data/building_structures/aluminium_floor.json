@@ -1,0 +1,17 @@
+{
+  "name": "Aluminium Floor",
+  "url": "https://icarus.fandom.com/wiki/Aluminium_Floor",
+  "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with aRepair Hammer.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.2KG",
+    "durability": "1000"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

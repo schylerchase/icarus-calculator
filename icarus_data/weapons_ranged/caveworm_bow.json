@@ -1,0 +1,18 @@
+{
+  "name": "Caveworm Bow",
+  "url": "https://icarus.fandom.com/wiki/Caveworm_Bow",
+  "description": "Using arrows and talents interchangeably with other bows, the Caveworm Bow is harder hitting than theLongbowand is equal in strength to theRecurve Bow.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "damage": "+50% Damage",
+    "weight": "1.0 kg",
+    "durability": "8,500"
+  },
+  "category": "bows",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

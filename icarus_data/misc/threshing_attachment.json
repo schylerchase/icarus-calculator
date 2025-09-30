@@ -1,0 +1,16 @@
+{
+  "name": "Threshing Attachment",
+  "url": "https://icarus.fandom.com/wiki/Threshing_Attachment",
+  "description": "Threshing Attachment is a mid game item available once the prospector has unlocked theTool Attachment Packtech.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "1.0 kg"
+  },
+  "category": "attachment packs",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

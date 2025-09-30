@@ -1,0 +1,14 @@
+{
+  "name": "Blood Thinning Tonic",
+  "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Tonic",
+  "description": "Used alone to treat trauma such asConcussionandContusion, when you're unlucky enough to kiss a falling tree, or as a mid-stage ingredient to craft theBlood Thinning Pill.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "medicine",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

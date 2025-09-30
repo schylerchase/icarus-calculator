@@ -1,0 +1,17 @@
+{
+  "name": "Interior Wood Cupboard",
+  "url": "https://icarus.fandom.com/wiki/Interior_Wood_Cupboard",
+  "description": "A Interior Wood Cupboard made of refined wood and copper nails. Similar size to theWood Cupboard.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "8.0 kg",
+    "durability": "750"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

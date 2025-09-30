@@ -1,0 +1,14 @@
+{
+  "name": "Pumpkin Bread",
+  "url": "https://icarus.fandom.com/wiki/Pumpkin_Bread",
+  "description": "Pumpkin Bread is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

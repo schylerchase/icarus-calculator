@@ -1,0 +1,16 @@
+{
+  "name": "7.62mm Round",
+  "url": "https://icarus.fandom.com/wiki/7.62mm_Round",
+  "description": "",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "0.01 kg"
+  },
+  "category": "ammo",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

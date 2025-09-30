@@ -1,0 +1,17 @@
+{
+  "name": "Stone Halfpieces",
+  "url": "https://icarus.fandom.com/wiki/Stone_Halfpieces",
+  "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "<unknown>",
+    "durability": "<unknown>"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

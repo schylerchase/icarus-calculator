@@ -1,0 +1,17 @@
+{
+  "name": "Art Deco Fireplace Extension",
+  "url": "https://icarus.fandom.com/wiki/Art_Deco_Fireplace_Extension",
+  "description": "The Art Deco Fireplace Extension is a gilded section of chimney that is placed on anArt Deco Fireplaceand usually capped with anArt Deco Fireplace Cap. Two build variants are available via the 'R' key.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "5 Kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

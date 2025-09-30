@@ -1,0 +1,17 @@
+{
+  "name": "Carved Wood Large Table",
+  "url": "https://icarus.fandom.com/wiki/Carved_Wood_Large_Table",
+  "description": "The Carved Wood Large Table is a long wood table with room for 10 seats. The item has two build variants that can be selected with the 'R' key when deploying.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Salting Station",
+  "url": "https://icarus.fandom.com/wiki/Salting_Station",
+  "description": "The Salting Station is an early-game cooking bench that provides a way to for Prospectors to preserve foods usingSalt. Once a food is salted, it will receive the Preserved modifier, increasing spoil time by 100%. Salting a food item will reset its spoil timer, even if the item is nearly spoiled. This technique can be used to further extend the spoilage.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "20.0 Kg",
+    "durability": "250"
+  },
+  "category": "depolyables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

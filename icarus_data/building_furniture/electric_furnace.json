@@ -1,0 +1,17 @@
+{
+  "name": "Electric Furnace",
+  "url": "https://icarus.fandom.com/wiki/Electric_Furnace",
+  "description": "The Electric Furnace is the end-game furnace capable of smeltingComposite PasteintoComposites, a material required for mostTier 4blueprints, and can refine all other minerals faster than the lower tier furnaces.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "50.0 kg",
+    "durability": "2,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

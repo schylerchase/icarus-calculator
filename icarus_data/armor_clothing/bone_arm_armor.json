@@ -1,0 +1,17 @@
+{
+  "name": "Bone Arm Armor",
+  "url": "https://icarus.fandom.com/wiki/Bone_Arm_Armor",
+  "description": "Bone Armor provides relatively good protection from Icarus' fauna as aTier 1armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {
+    "weight": "1.0 kg",
+    "durability": "2,000"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

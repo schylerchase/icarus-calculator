@@ -1,0 +1,17 @@
+{
+  "name": "Oxite Cluster Lamp",
+  "url": "https://icarus.fandom.com/wiki/Oxite_Cluster_Lamp",
+  "description": "The Oxite Cluster Lamp is a simple low output lamp that does not require fuel to operate but does require water to craft.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.5 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

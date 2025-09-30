@@ -1,0 +1,14 @@
+{
+  "name": "Squash",
+  "url": "https://icarus.fandom.com/wiki/Squash",
+  "description": "Squash are a common form ofPlantlifefound in theDesertlocationson Icarus. When consumed by prospectors, they replenishHunger.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

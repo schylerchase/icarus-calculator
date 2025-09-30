@@ -1,0 +1,17 @@
+{
+  "name": "Wood Door",
+  "url": "https://icarus.fandom.com/wiki/Wood_Door",
+  "description": "Wood Door is crafted in theCharacter Craftingwith the following resources:",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "1.0 kg",
+    "durability": "500"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

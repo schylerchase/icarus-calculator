@@ -1,0 +1,14 @@
+{
+  "name": "Seed Animal Feed",
+  "url": "https://icarus.fandom.com/wiki/Seed_Animal_Feed",
+  "description": "Seed Animal Feed is aAnimal FeedforPetsorMountswith a uniqueStatus Effect. Can be fed to a mount to satisfyHunger. Seed Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Seed Animal Feed inside anIce BoxorRefrigerator.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "animal feed",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

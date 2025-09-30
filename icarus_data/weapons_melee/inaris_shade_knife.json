@@ -1,0 +1,18 @@
+{
+  "name": "Inaris \"Shade\" Knife",
+  "url": "https://icarus.fandom.com/wiki/Inaris_%22Shade%22_Knife",
+  "description": "The Inaris \"Shade\" Knife is a Workshop Knife geared towards combat, intrinsically dealing poison damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Inaris \"Shade\" Knife cannot be thrown, and there currently are no workshopThrowing Knives.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "damage": "33 - 35 Melee Damage50 - 50 Poison Damage",
+    "weight": "0.5 kg",
+    "durability": "60,000"
+  },
+  "category": "knives",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

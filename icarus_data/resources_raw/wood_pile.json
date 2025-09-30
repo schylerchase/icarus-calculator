@@ -1,0 +1,14 @@
+{
+  "name": "Wood Pile",
+  "url": "https://icarus.fandom.com/wiki/Wood_Pile",
+  "description": "The Wood Pile, alongside theStone Pile, are makeshift storage options for large quantities of each raw material. Though immune to mostWeatherdamage, beware of lightning strikes. Can be used as a durable barrier toFauna, especially against Fauna like theGrizzly Bear, although the stone variant is preferred.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {},
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

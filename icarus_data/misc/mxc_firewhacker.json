@@ -1,0 +1,17 @@
+{
+  "name": "MXC Firewhacker",
+  "url": "https://icarus.fandom.com/wiki/MXC_Firewhacker",
+  "description": "The MXC Firewhacker is the Workshop equivalent of aFire Whackerwith increased durability and reduced stamina consumption when used.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.1 kg",
+    "durability": "30,000"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

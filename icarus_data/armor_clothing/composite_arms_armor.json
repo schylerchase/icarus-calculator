@@ -1,0 +1,17 @@
+{
+  "name": "Composite Arms Armor",
+  "url": "https://icarus.fandom.com/wiki/Composite_Arms_Armor",
+  "description": "Composite Arms Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "0.75 kg",
+    "durability": "10,000"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

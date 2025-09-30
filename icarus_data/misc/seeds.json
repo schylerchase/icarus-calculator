@@ -1,0 +1,14 @@
+{
+  "name": "Seeds",
+  "url": "https://icarus.fandom.com/wiki/Seeds",
+  "description": "Seeds are a resource harvested fromFloraor produced in aSeed Extractorthat can be planted inDirt MoundsorCrop Plotsto produce more of that specific crop.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

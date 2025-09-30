@@ -1,0 +1,14 @@
+{
+  "name": "Epoxy",
+  "url": "https://icarus.fandom.com/wiki/Epoxy",
+  "description": "Epoxy is used extensively in crafting a variety of items deep into the end-game. Prospectors will find themselves stocking up on epoxy very often.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

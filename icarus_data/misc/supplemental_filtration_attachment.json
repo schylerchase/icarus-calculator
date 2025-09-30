@@ -1,0 +1,16 @@
+{
+  "name": "Supplemental Filtration Attachment",
+  "url": "https://icarus.fandom.com/wiki/Supplemental_Filtration_Attachment",
+  "description": "Supplemental Filtration Attachment is a mid-to-end game item available once the prospector has unlocked theArmor Attachment Packtech.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "1 kg"
+  },
+  "category": "attachment packs",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

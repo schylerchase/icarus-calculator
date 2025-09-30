@@ -1,0 +1,14 @@
+{
+  "name": "Wood",
+  "url": "https://icarus.fandom.com/wiki/Wood",
+  "description": "Wood is a basic crafting ingredient obtained from Trees using an axe or harvested by hand in theDesertvia Cacti. Wood can also be used as a Fuel source forCampfire,Fireplace, andStone Furnace.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

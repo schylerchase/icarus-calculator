@@ -1,0 +1,14 @@
+{
+  "name": "Lava Survival Inhaler",
+  "url": "https://icarus.fandom.com/wiki/Lava_Survival_Inhaler",
+  "description": "The Lava Survival Inhaler is aMedicinethat boosts resistance to fire, increases health regeneration and exposure resistance while in a volcanic region. It also reduces water consumption.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "medicine",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

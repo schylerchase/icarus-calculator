@@ -1,0 +1,17 @@
+{
+  "name": "Rustic Nightstand",
+  "url": "https://icarus.fandom.com/wiki/Rustic_Nightstand",
+  "description": "The Rustic Nightstand is available in 5 varieties when holding item selet R for the variations. The Rustic Nightstand allows prospectors to store 5 items.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "5 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Natural Rustic Sign",
+  "url": "https://icarus.fandom.com/wiki/Natural_Rustic_Sign",
+  "description": "A Natural Rustic Sign made of wood.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "0.5 Kg",
+    "durability": "100"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Stone Pile",
+  "url": "https://icarus.fandom.com/wiki/Stone_Pile",
+  "description": "The Stone Pile, alongside theWood Pile, are makeshift storage options for large quantities of each raw material. The Stone Pile is immune to ALLWeatherdamage and can be used as a durable barrier toFauna, especially against Fauna like theGrizzly Bear. If placed with just a narrow opening between piles, Bears have an incredibly difficult time getting through which allows the Prospector to melee attack just beyond the bear's attack range.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {},
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

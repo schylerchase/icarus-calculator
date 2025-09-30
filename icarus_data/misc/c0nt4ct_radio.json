@@ -1,0 +1,16 @@
+{
+  "name": "C0NT4CT Radio",
+  "url": "https://icarus.fandom.com/wiki/C0NT4CT_Radio",
+  "description": "The C0NT4CT Radio is a portable device that when in range, provides the same access to missions as aCONT4CT DeviceinOpen Worldprospects.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "1 Kg"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Marble Kitchen Storage",
+  "url": "https://icarus.fandom.com/wiki/Marble_Kitchen_Storage",
+  "description": "The Marble Kitchen Storage is used to store kitchen essentials and must be snapped to aKitchen Benchto be placed. The Marble Kitchen Storage has 40 slots.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "20.0 kg",
+    "durability": "1,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

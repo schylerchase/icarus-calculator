@@ -1,0 +1,17 @@
+{
+  "name": "Stone Cairn",
+  "url": "https://icarus.fandom.com/wiki/Stone_Cairn",
+  "description": "Stone Cairns are a deployable item can be used as waystones to mark a path across the landscape or to mark areas of significance. Stone Cairns also have one inventory slot that can be used to store deceased pets, marking their grave and providing them a small memorial. When inspecting the Stone Cairn by pressing F, the name and description can be changed as needed.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {
+    "weight": "30.0 Kg",
+    "durability": "1,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

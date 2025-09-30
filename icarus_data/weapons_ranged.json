@@ -1,0 +1,689 @@
+{
+  "category": "Weapons Ranged",
+  "count": 39,
+  "items": [
+    {
+      "name": "Advanced Pistol",
+      "url": "https://icarus.fandom.com/wiki/Advanced_Pistol",
+      "description": "The Advanced Pistol is the most advancedTier 4handgun with the largest ammo capacity, durability and rate of fire. It firesPistol Ammunitionsuch asArmor Piercing,Explosive,Incendiary,Obsidianor regular9mm Rounds.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {
+        "damage": "+15% Critical Damage",
+        "weight": "1.8 kg",
+        "durability": "15,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Anti-materiel Rifle",
+      "url": "https://icarus.fandom.com/wiki/Anti-materiel_Rifle",
+      "description": "The Anti-materiel Rifle is a bolt-action, anti-materiel rifle with a long effective range and an included scope for viewing the target. It firesSniper Ammunitionpurchased from theWorkshop.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "10.0 Kg",
+        "durability": "7,500"
+      },
+      "category": "sniper rifles",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Assault Rifle",
+      "url": "https://icarus.fandom.com/wiki/Assault_Rifle",
+      "description": "The Assault Rifle is an automatic firearm with reduced critical damage, +15 round ammo capacity and a high rate of fire. It usesAssault Rifle Ammunitionsuch asArmor Piercing,Explosive,Incendiary,Obsidianor regular5.56mm Rounds.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {
+        "damage": "-75% Critical Damage",
+        "weight": "5.5 Kg",
+        "durability": "55,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Automated Defense System: Pistol",
+      "url": "https://icarus.fandom.com/wiki/Automated_Defense_System:_Pistol",
+      "description": "Automated Defense System: Pistol is a deployable base defense turret that firesPistol Ammunitionat hostileFauna.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {
+        "weight": "20 Kg",
+        "durability": "10,000"
+      },
+      "category": "defenses",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Bolt Action Rifle",
+      "url": "https://icarus.fandom.com/wiki/Bolt_Action_Rifle",
+      "description": "The Bolt Action Rifle is the first long-rangeFirearmthat prospectors can create. It can utilize the7.62mm Round, theIncendiary Rifle Round, etc. Along with theShotgun, it provides Prospectors with a significant increase in survivability when encountering theFaunaof Icarus. The Bolt Action Rifle can fire 75 rounds before breaking, and the talentGunsmithcan increase this to up to a maximum of 90 rounds, so bring aMachining Benchfor long trips.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {
+        "weight": "4.0 kg",
+        "durability": "7,500"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "CHAC \"Boomstick\" Shotgun",
+      "url": "https://icarus.fandom.com/wiki/CHAC_%22Boomstick%22_Shotgun",
+      "description": "The CHAC \"Boomstick\" Shotgun is an advanced purchaseableShotgunwith increase projectile and critical damage. It fires anyShotgun Ammunitionand is comparable to otherTier 4Firearms.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+25% Critical Damage",
+        "weight": "3.5 kg",
+        "durability": "25,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "CHAC \"Sentinel\" Pistol",
+      "url": "https://icarus.fandom.com/wiki/CHAC_%22Sentinel%22_Pistol",
+      "description": "The CHAC \"Sentinel\" Pistol is an advanced handgun with increased projectile and critical damage that is comparable, or better than otherTier 4Firearms.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+25% Critical Damage",
+        "weight": "1.0 kg",
+        "durability": "25,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "CHAC \"Sovereign\" Rifle",
+      "url": "https://icarus.fandom.com/wiki/CHAC_%22Sovereign%22_Rifle",
+      "description": "The CHAC \"Sovereign\" Rifle is a purchaseable rifle with a fast reload speed and moderate damage capability.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+25% Critical Damage",
+        "weight": "3.0 kg",
+        "durability": "25,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Caveworm Bow",
+      "url": "https://icarus.fandom.com/wiki/Caveworm_Bow",
+      "description": "Using arrows and talents interchangeably with other bows, the Caveworm Bow is harder hitting than theLongbowand is equal in strength to theRecurve Bow.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "damage": "+50% Damage",
+        "weight": "1.0 kg",
+        "durability": "8,500"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Compound Bow",
+      "url": "https://icarus.fandom.com/wiki/Compound_Bow",
+      "description": "The tail-end of the 20th Century brought about many advancements in technology and archery didn't get left behind. A Compound Bow works like a simple block and tackle, multiplying input energy over distance with it's Cam and Idler Wheel pulleys, instead of traditional bow limbs; which allows the Compound Bow to hit harder than theRecurve Bow.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {
+        "damage": "+100% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "20,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Crossbow",
+      "description": "The earliest known Crossbows were invented on Earth in the first millennium BC, not later than the 7th century BC in ancient China, not later than the 1st century AD in Greece; on Icarus, Prospectors will test this ancient technology in many challenges to see if it still holds up.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.0 kg",
+        "durability": "10,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Gunpowder",
+      "url": "https://icarus.fandom.com/wiki/Gunpowder",
+      "description": "Gunpowder is a precursor resource used in makingAmmunition, weapons like theFrag Grenade, andVolatile Substance.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "crafted resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Hunting Rifle",
+      "url": "https://icarus.fandom.com/wiki/Hunting_Rifle",
+      "description": "The Hunting Rifle is a side-gate loading lever-action rifle, the apex of firearms on Icarus, and a significant upgrade in the long-range firepower available to the Prospector. Like its predecessor theBolt Action Rifle, it fires the7.62mm Round. It and theTrench Shotgunare effective game-changers in surviving theFaunaof Icarus. The Hunting Rifle can fire 100 rounds before breaking, and the talentGunsmithcan increase this to up to a maximum of 125 rounds, so bring aFabricatorfor long trips.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {
+        "damage": "+100% Critical Damage",
+        "weight": "4.0 kg",
+        "durability": "10,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Inaris \"Heavy\" Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Inaris_%22Heavy%22_Crossbow",
+      "description": "The Inaris \"Heavy\" Crossbow is the opposite of theInaris \"Rapid\" Crossbow, trading reload speed for a significant boost to overall damage. The Inaris \"Heavy\" Crossbow can use CrossbowBoltscrafted on planet as well asBoltscrafted in theWorkshop.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+10% Critical Damage",
+        "weight": "1.5 kg",
+        "durability": "60,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Inaris \"Lune\" Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Inaris_%22Lune%22_Crossbow",
+      "description": "The Inaris \"Lune\" Crossbow can use Crossbow Bolts crafted on planet as well as WorkshopBolts. Firing faster and dealing more damage than its predecessors, the Inaris \"Lune\" Crossbow, as a whole, is a must for avid Crossbow users.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+70% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "60,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Inaris \"Rapid\" Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Inaris_%22Rapid%22_Crossbow",
+      "description": "The Inaris \"Rapid\" Crossbow is unlocked in theWorkshopon theSpace Station. The Inaris \"Rapid\" Crossbow can use crossbow bolts crafted on planet as well as the bolts crafted in theWorkshop.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+25% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "60,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Inaris \"Sole\" Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Inaris_%22Sole%22_Crossbow",
+      "description": "Using arrows and talents interchangeably with other crossbows, the Inaris \"Sole\" Crossbow is geared more towards elemental damage. When paired withBoltsthat deal elemental damage (Obsidian Bolts,Larkwell Martinez Charged Bolts, etc), the Inaris \"Sole\" Crossbow can pack a punch, making it a decent, if not expensive, upgrade to the previous Workshop Crossbows. Dealt elemental damage is not affected by Crossbow talents.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+50% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "60,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Kinetic Rifle",
+      "url": "https://icarus.fandom.com/wiki/Kinetic_Rifle",
+      "description": "The Kinetic Rifle is aLegendary WeaponRiflethat can be purchased at theBio-lab.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "5.0 kg",
+        "durability": "35,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Larkwell Martinez Compound Bow",
+      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Compound_Bow",
+      "description": "The Larkwell Martinez Compound Bow is a stronger, more durable variant of theCompound Bowusing arrows and talents interchangeably with other bows.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+125% Projectile Damage",
+        "weight": "2.0 kg",
+        "durability": "40,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Longbow",
+      "url": "https://icarus.fandom.com/wiki/Longbow",
+      "description": "Using arrows and talents interchangeably with otherBows, the Longbow hits harder than theWood Bow.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "damage": "+25% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "7,500"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "One-Shot Pistol",
+      "url": "https://icarus.fandom.com/wiki/One-Shot_Pistol",
+      "description": "The One-Shot Pistol is an inexpensive early-gameTier 2handgun that holds one bullet.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.0 kg",
+        "durability": "3,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Pistol",
+      "url": "https://icarus.fandom.com/wiki/Pistol",
+      "description": "The Pistol is a single-shot 9mm handgun and is a decent upgrade in firepower available to prospectors. It fires 35 rounds ofPistol Ammunitionbefore breaking, so bring aMachining Bench/Repair Benchfor long trips.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {
+        "weight": "0.8 kg",
+        "durability": "3,500"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Platinum Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Platinum_Crossbow",
+      "description": "The Platinum Crossbow is a mid/late game weapon that can penetrate hardened points with a chance to slow targets but has a slower fire rate thanBows.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {
+        "weight": "1.0 kg",
+        "durability": "15,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Recurve Bow",
+      "url": "https://icarus.fandom.com/wiki/Recurve_Bow",
+      "description": "The pinnacle of Instinctive Archery, made ofSteelandAluminium, the Recurve Bow hits harder than theLongbow.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {
+        "damage": "+50% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "12,500"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Rusty Shotgun",
+      "url": "https://icarus.fandom.com/wiki/Rusty_Shotgun",
+      "description": "A crude version of theShotgunthat fires slower and holds fewer rounds. It uses any type ofShotgun Ammunition.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {
+        "weight": "3.0 kg",
+        "durability": "6,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Sandworm Bow",
+      "url": "https://icarus.fandom.com/wiki/Sandworm_Bow",
+      "description": "The Sandworm Bow is made with scales from theSandworm, using arrows and talents interchangeably with other bows.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {
+        "damage": "+75% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "15,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Semi-Automatic Pistol",
+      "url": "https://icarus.fandom.com/wiki/Semi-Automatic_Pistol",
+      "description": "The Semi-Automatic Pistol is aTier 3handgun with more ammo capacity than thePistol. It fires pistolPistol Ammunitionsuch asArmor Piercing,Explosive,Incendiary,Obsidianor regular9mm Rounds.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {
+        "weight": "1.5 kg",
+        "durability": "7,500"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Shengong \"Ji\" Bow",
+      "url": "https://icarus.fandom.com/wiki/Shengong_%22Ji%22_Bow",
+      "description": "The Shengong \"Ji\" Bow is a stronger, more durable variant of theRecurve Bowusing arrows and talents interchangeably with other bows.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+75% Projectile Damage",
+        "weight": "0.1kg",
+        "durability": "50,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Shengong \"Jijing\" Bow",
+      "url": "https://icarus.fandom.com/wiki/Shengong_%22Jijing%22_Bow",
+      "description": "The Shengong \"Jijing\" Bow is a stronger, more durable variant of theRecurve Bowusing arrows and talents interchangeably with other bows.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "-5% Critical Damage with Bows/Crossbows",
+        "weight": "0.1kg",
+        "durability": "50,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Shengong \"Zhang Hu\" Bow",
+      "url": "https://icarus.fandom.com/wiki/Shengong_%22Zhang_Hu%22_Bow",
+      "description": "The Shengong \"Zhang Hu\" Bow is a stronger, more durable variant of theRecurve Bowusing arrows and talents interchangeably with other bows.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+75% Projectile Damage",
+        "weight": "0.1kg",
+        "durability": "50,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Shengong CZ4 Bow",
+      "url": "https://icarus.fandom.com/wiki/Shengong_CZ4_Bow",
+      "description": "Using arrows and talents interchangeably with other bows, the Shengong CZ4 Bow is geared more towards elemental damage. When paired with arrows that deal elemental damage (Obsidian Arrows,Inaris \"Netch\" Arrows, etc), the Shengong CZ4 Bow can pack a punch, making it a decent, if not expensive, upgrade to the previous Shengong Bows. Dealt elemental damage is not affected by Bow talents.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+100% Projectile Damage",
+        "weight": "0.1 kg",
+        "durability": "50,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Shengong HS2 Bow",
+      "url": "https://icarus.fandom.com/wiki/Shengong_HS2_Bow",
+      "description": "The Shengong HS2 Bow is a stronger variant of the Shengong Bows using arrows and talents interchangeably with other bows. Despite the Shengong HS2 Bow dealing 35% less damage than theLarkwell Martinez Compound Bow, the Shengong HS2 Bow is unmatched in reload speed and fire rate; perfect for the Prospector who wants to fill the skies with arrows.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+90% Projectile Damage",
+        "weight": "0.1 kg",
+        "durability": "50,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Shotgun",
+      "url": "https://icarus.fandom.com/wiki/Shotgun",
+      "description": "The Shotgun is one of the firstFirearmsavailable to prospectors. Using12-Gauge Buckshot Shellfor ammunition, the Shotgun is more powerful than theBolt Action Rifleat close range. However, damage decreases rapidly as range increases, and prospectors should not rely on it for long-range encounters with theFaunaof Icarus. The Shotgun can fire 100 rounds before breaking, and the talentGunsmithcan increase this to up to a maximum of 125 rounds, so bring aMachining Benchfor long trips.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {
+        "damage": "+15% Projectile Damage",
+        "weight": "4.0 kg",
+        "durability": "10,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Submachine Gun",
+      "url": "https://icarus.fandom.com/wiki/Submachine_Gun",
+      "description": "The Submachine Gun is a compact firearm with low projectile and critical damage, but a high rate of fire. It usesPistol Ammunitionsuch asArmor Piercing,Explosive,Incendiary,Obsidianor regular9mm Rounds.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {
+        "damage": "-75% Critical Damage",
+        "weight": "3.0 kg",
+        "durability": "45,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Tactical Bow",
+      "url": "https://icarus.fandom.com/wiki/Tactical_Bow",
+      "description": "The Tactical Bow is an advanced bow that is part of theGreat Hunts CampaignsDLC onPrometheus. It fires any type ofArrowand can be upgraded in theBio-lab.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+100% Projectile Damage",
+        "weight": "3.0 kg",
+        "durability": "30,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Titanium Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Titanium_Crossbow",
+      "description": "The Titanium Crossbow is an upgrade to the Platinum Crossbow that offers a boost to projectile damage and a slightly larger ammo count; has a chance to slow targets and can fully penetrate hardened points, but has a slower fire rate thanBows.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {
+        "damage": "+50% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "20,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Tomato & Egg Bowl",
+      "url": "https://icarus.fandom.com/wiki/Tomato_%26_Egg_Bowl",
+      "description": "Tomato & Egg Bowl is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Trench Shotgun",
+      "url": "https://icarus.fandom.com/wiki/Trench_Shotgun",
+      "description": "The Trench Shotgun is aTier 4variant of theShotgunthat packs a punch and currently is the highest damage dealing close-range weapon available. It uses any type ofShotgun Ammunition. With the highest ammo capacity and projectile damage amongst all three Shotguns, the Trench Shotgun is a go-to for the Shotgun enthusiast in the group. The Trench Shotgun can fire 100 rounds before breaking, and the talentGunsmithcan increase this to up to a maximum of 125 rounds, so bring aFabricatorfor long trips.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {
+        "damage": "+30% Projectile Damage",
+        "weight": "4.5 kg",
+        "durability": "10,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    },
+    {
+      "name": "Wood Bow",
+      "url": "https://icarus.fandom.com/wiki/Wood_Bow",
+      "description": "The Wood Bow is the first bow a player can get access to. It can be unlocked via the Tech Tree inTier 1with no prerequisite tech required.",
+      "item_type": "unknown",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {
+        "weight": "1.0kg",
+        "durability": "5,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null
+    }
+  ]
+}

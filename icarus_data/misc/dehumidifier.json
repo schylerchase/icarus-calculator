@@ -1,0 +1,17 @@
+{
+  "name": "Dehumidifier",
+  "url": "https://icarus.fandom.com/wiki/Dehumidifier",
+  "description": "The Dehumidifier allows for cave exploration without the risk of catchingCave Sicknesswithin its effective range. Unlike theElectric Dehumidifier, the Dehumidifier does not preventCavewormsfrom spawning.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "20.0 Kg",
+    "durability": "1,000"
+  },
+  "category": "dehumidifiers",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

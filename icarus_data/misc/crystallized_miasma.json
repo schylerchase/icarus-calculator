@@ -1,0 +1,14 @@
+{
+  "name": "Crystallized Miasma",
+  "url": "https://icarus.fandom.com/wiki/Crystallized_Miasma",
+  "description": "Crystallized Miasma is a resource required to makeDistilled Miasmic Coating, a precursor resource used in making Miasmic Tools, Weapons, and Ammunition. Crystallized Miasma is collected from Fauna located inSwampsacross Icarus - a map of Prometheus regions can be foundhere).",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

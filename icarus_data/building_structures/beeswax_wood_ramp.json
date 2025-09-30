@@ -1,0 +1,17 @@
+{
+  "name": "Beeswax Wood Ramp",
+  "url": "https://icarus.fandom.com/wiki/Reinforced_Wood_Stairs",
+  "description": "Reinforced wood building pieces can be unlocked inTier 2of theTech Tree. These building pieces are more resistant to damage than their earlierWoodversions with the inclusion ofBeeswax",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.5 kg",
+    "durability": "5,000"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

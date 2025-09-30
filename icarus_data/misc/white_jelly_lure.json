@@ -1,0 +1,17 @@
+{
+  "name": "White Jelly Lure",
+  "url": "https://icarus.fandom.com/wiki/White_Jelly_Lure",
+  "description": "The White Jelly Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. Like allLures, the White Jelly Lure degrades with use and will eventually break after ten uses.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "0.25 Kg",
+    "durability": "100"
+  },
+  "category": "lures",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

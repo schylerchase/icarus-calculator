@@ -1,0 +1,14 @@
+{
+  "name": "Soy Bean Stir-Fry",
+  "url": "https://icarus.fandom.com/wiki/Soy_Bean_Stir-Fry",
+  "description": "Soy Bean Stir-Fry is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

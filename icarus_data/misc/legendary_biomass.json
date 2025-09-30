@@ -1,0 +1,14 @@
+{
+  "name": "Legendary Biomass",
+  "url": "https://icarus.fandom.com/wiki/Legendary_Biomass",
+  "description": "Legendary Biomass is an in-game currency used to craft attachments to upgradeLegendary Weaponsat theBio-labin orbit.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Taxidermy Knife",
+  "url": "https://icarus.fandom.com/wiki/Taxidermy_Knife",
+  "description": "The Taxidermy Knife is used for skinningFaunacarcasses, when a prospector wishes to obtain aVestigefor mounting. Skinning any carcass with a taxidermy knife grants fourBestiarypoints for the animal skinned.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "damage": "45 - 50 Damage",
+    "weight": "500",
+    "durability": "15,000"
+  },
+  "category": "knives",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

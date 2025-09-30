@@ -1,0 +1,17 @@
+{
+  "name": "Portable Biofuel Generator",
+  "url": "https://icarus.fandom.com/wiki/Portable_Biofuel_Generator",
+  "description": "The Portable Biofuel Generator generatesElectricitywhen supplied with biofuel from aBiofuel Can.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "2.0 Kg",
+    "durability": "1,000"
+  },
+  "category": "category:electricity sources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

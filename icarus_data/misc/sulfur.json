@@ -1,0 +1,14 @@
+{
+  "name": "Sulfur",
+  "url": "https://icarus.fandom.com/wiki/Sulfur",
+  "description": "Sulfur is aMineralfound on the surface of Icarus. Sulfur is used as a fuel source to fillOxygen Containersand it is used in crafting items likeGunpowderand theFire Extinguisher.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "minerals",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

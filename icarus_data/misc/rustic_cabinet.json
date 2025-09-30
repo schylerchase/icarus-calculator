@@ -1,0 +1,17 @@
+{
+  "name": "Rustic Cabinet",
+  "url": "https://icarus.fandom.com/wiki/Rustic_Cabinet",
+  "description": "The Rustic Cabinet allows prospectors to store 10 items",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "15 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

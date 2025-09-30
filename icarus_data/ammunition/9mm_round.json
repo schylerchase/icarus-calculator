@@ -1,0 +1,16 @@
+{
+  "name": "9mm Round",
+  "url": "https://icarus.fandom.com/wiki/9mm_Round",
+  "description": "The basic ammunition used by thePistols. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. With the talentPistol Proficiency, Prospectors can craft this ammo at a -25% reduced resource cost. Also, with the talentFreebies, Prospectors have a 5% chance to craft double ammo. The ability to craft double ammo works in tandem, on a successful proc chance, with the reduced resource cost recipe netting a total of six extra rounds of ammunition.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "0.01 Kg"
+  },
+  "category": "ammo",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

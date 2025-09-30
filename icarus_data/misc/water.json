@@ -1,0 +1,14 @@
+{
+  "name": "Water",
+  "url": "https://icarus.fandom.com/wiki/Water",
+  "description": "Water is a basic resource needed for survival on Icarus. It may be consumed by drinking from natural water sources such as lakes, streams, and pools found inCaves. Water from these natural sources is Tainted Water and has a 15% chance of causing dysentery. Water has various levels of purity depending on source and means of filtering. A status icon is displayed to indicate the type and status of water the prospector has consumed.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

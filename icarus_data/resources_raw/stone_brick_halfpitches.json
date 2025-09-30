@@ -1,0 +1,17 @@
+{
+  "name": "Stone Brick Halfpitches",
+  "url": "https://icarus.fandom.com/wiki/Stone_Brick_Halfpitches",
+  "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "2.5 Kg",
+    "durability": "3,500"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

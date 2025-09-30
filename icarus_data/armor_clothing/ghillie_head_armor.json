@@ -1,0 +1,17 @@
+{
+  "name": "Ghillie Head Armor",
+  "url": "https://icarus.fandom.com/wiki/Ghillie_Head_Armor",
+  "description": "Ghillie Head Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "0.5 kg",
+    "durability": "1,750"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

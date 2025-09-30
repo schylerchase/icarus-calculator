@@ -1,0 +1,14 @@
+{
+  "name": "Glass Jar",
+  "url": "https://icarus.fandom.com/wiki/Glass_Jar",
+  "description": "The Glass Jar is a resource used to makeFoodslikeStrawberry Jam,Pickled Carrot, etc.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

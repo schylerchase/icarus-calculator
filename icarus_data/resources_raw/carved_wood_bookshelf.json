@@ -1,0 +1,17 @@
+{
+  "name": "Carved Wood Bookshelf",
+  "url": "https://icarus.fandom.com/wiki/Carved_Wood_Bookshelf",
+  "description": "The Carved Wood Bookshelf is a decorative item.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

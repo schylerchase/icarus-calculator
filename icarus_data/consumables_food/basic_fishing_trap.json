@@ -1,0 +1,17 @@
+{
+  "name": "Basic Fishing Trap",
+  "url": "https://icarus.fandom.com/wiki/Basic_Fishing_Trap",
+  "description": "One approach to catching fish is by using a Fishing Trap. Though aLureis not required, attaching one can increase the quality, length, and weight of the caught fish. Additionally, certain lures can increase the odds of catching a rarer type of fish. To attach a lure to the Basic Fishing Trap, inspect the trap by pressing 'F' and drag the lure into the dedicated lure slot.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.0 Kg",
+    "durability": "500"
+  },
+  "category": "fishing equipment",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

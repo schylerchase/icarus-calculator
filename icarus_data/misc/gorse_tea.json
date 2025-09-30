@@ -1,0 +1,14 @@
+{
+  "name": "Gorse Tea",
+  "url": "https://icarus.fandom.com/wiki/Gorse_Tea",
+  "description": "Mid-game warm beverage made by combining a filledLiquid Containersuch as aThermosandGorse Flower.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "drinks",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

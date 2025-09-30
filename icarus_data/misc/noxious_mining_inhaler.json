@@ -1,0 +1,14 @@
+{
+  "name": "Noxious Mining Inhaler",
+  "url": "https://icarus.fandom.com/wiki/Noxious_Mining_Inhaler",
+  "description": "The Noxious Mining Inhaler is aMedicinewhose effects allowNoxious Crustto be harvested when mining and add a small boost to mining yield and radius.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "medicine",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

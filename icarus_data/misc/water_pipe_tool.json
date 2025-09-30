@@ -1,0 +1,17 @@
+{
+  "name": "Water Pipe Tool",
+  "url": "https://icarus.fandom.com/wiki/Water_Pipe_Tool",
+  "description": "The Water Pipe Tool connects theBiofuel Water Pump/Electric Water PumptoDeployables/Water Storageto provideWater.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "0.1 kg",
+    "durability": "100"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

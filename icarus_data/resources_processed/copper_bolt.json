@@ -1,0 +1,16 @@
+{
+  "name": "Copper Bolt",
+  "url": "https://icarus.fandom.com/wiki/Copper_Bolt",
+  "description": "The Copper Bolt is ammunition used with aCrossbow. Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "0.01 kg"
+  },
+  "category": "bolts",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

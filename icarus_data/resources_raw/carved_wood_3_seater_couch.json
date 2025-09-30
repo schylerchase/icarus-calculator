@@ -1,0 +1,17 @@
+{
+  "name": "Carved Wood 3-Seater Couch",
+  "url": "https://icarus.fandom.com/wiki/Carved_Wood_3-Seater_Couch",
+  "description": "The Carved Wood 3-Seater Couch is a decorative item.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

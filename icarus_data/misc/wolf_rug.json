@@ -1,0 +1,17 @@
+{
+  "name": "Wolf Rug",
+  "url": "https://icarus.fandom.com/wiki/Wolf_Rug",
+  "description": "Wolf Rugs are decorative deployables that can be placed on any ground surface and are used to liven any living space. Aside from being for decorative purposes, it can also be used in tandem with otherFurnitureto increase theCozinessof your living quarters, increasing the duration and effectiveness of theWell Rested Buff.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.0 Kg",
+    "durability": "250"
+  },
+  "category": "rugs",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

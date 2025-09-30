@@ -1,0 +1,14 @@
+{
+  "name": "Workshop",
+  "url": "https://icarus.fandom.com/wiki/Workshop",
+  "description": "Aboard theSpace Station, Prospectors can spend Ren and Exotics to research and craft newOrbital Tech.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

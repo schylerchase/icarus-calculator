@@ -1,0 +1,16 @@
+{
+  "name": "Battery Powered Lantern",
+  "url": "https://icarus.fandom.com/wiki/Battery_Powered_Lantern",
+  "description": "The Battery Powered Lantern is a portableHandheld Light Sourcethat provides illumination in the surrounding area. Can be equipped in the \"L\" light slot on the hotbar.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "0.25 Kg"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

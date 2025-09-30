@@ -1,0 +1,16 @@
+{
+  "name": "Inaris \"Aruda\" Arrow",
+  "url": "https://icarus.fandom.com/wiki/Inaris_%22Aruda%22_Arrow",
+  "description": "The Inaris \"Aruda\" Arrow is ammunition used with aBow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.02 kg"
+  },
+  "category": "arrows",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

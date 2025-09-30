@@ -1,0 +1,18 @@
+{
+  "name": "Miasmic Pickaxe",
+  "url": "https://icarus.fandom.com/wiki/Miasmic_Pickaxe",
+  "description": "Miasmic Pickaxe is aTier 4Pickaxemade withDistilled Miasmic Coatingderived fromCrystallized Miasmafound in theSwampsonPrometheus. Due to the materials required, crafting the item requires the New Frontiers DLC.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "damage": "20 - 24",
+    "weight": "0.5 kg",
+    "durability": "120,000"
+  },
+  "category": "pickaxes",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

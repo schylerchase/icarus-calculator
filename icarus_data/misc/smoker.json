@@ -1,0 +1,17 @@
+{
+  "name": "Smoker",
+  "url": "https://icarus.fandom.com/wiki/Smoker",
+  "description": "The smoker is powered byCharcoaland gives you another way to cook longer lasting food. The smoker needs to be placed outside and gives a heat modifier.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "1.75 Kg",
+    "durability": "750"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

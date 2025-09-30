@@ -1,0 +1,17 @@
+{
+  "name": "Tackle Box",
+  "url": "https://icarus.fandom.com/wiki/Tackle_Box",
+  "description": "The Tackle Box is a storage deployable that can be used to store a handful of lures and caught fish. Unlike other storage deployables, the Tackle Box can be picked up with items inside and does not require shelter to be used. With 3 slots forLuresand 2 slots that will halt the spoil timer of any caught fish, the Tackle Box is a handy tool for fishing adventures.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "5.0 Kg",
+    "durability": "1,000"
+  },
+  "category": "fishing equipment",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

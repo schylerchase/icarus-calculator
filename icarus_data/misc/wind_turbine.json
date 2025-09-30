@@ -1,0 +1,17 @@
+{
+  "name": "Wind Turbine",
+  "url": "https://icarus.fandom.com/wiki/Wind_Turbine",
+  "description": "The Wind Turbine is a power generating device that must be placed outdoors. It provides 1,750 units ofpowerwhen active and must also be placed in an area clear of obstructions for it to function. Use anElectricity Toolto connect it toBenchesto provide power.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "5.0 Kg",
+    "durability": "2,500"
+  },
+  "category": "electricity source",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

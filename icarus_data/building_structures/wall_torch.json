@@ -1,0 +1,17 @@
+{
+  "name": "Wall Torch",
+  "url": "https://icarus.fandom.com/wiki/Wall_Torch",
+  "description": "Wall lighting for a prospector's base. Provides limited heat. Will not be damaged by storms if placed outside.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "<unkown>",
+    "durability": "<unkown>"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

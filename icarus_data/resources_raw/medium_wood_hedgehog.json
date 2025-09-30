@@ -1,0 +1,17 @@
+{
+  "name": "Medium Wood Hedgehog",
+  "url": "https://icarus.fandom.com/wiki/Medium_Wood_Hedgehog",
+  "description": "The Medium Wood Hedgehog are sturdy defenses used around your base or while at objectives for protection of equipment.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "2.0 kg",
+    "durability": "1,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

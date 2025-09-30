@@ -1,0 +1,16 @@
+{
+  "name": "12-Gauge CHAC Shell",
+  "url": "https://icarus.fandom.com/wiki/12-Gauge_CHAC_Shell",
+  "description": "12-Gauge CHAC Shell is an advanced purchaseable buckshot ammunition that does up to 450 damage. It pairs well with theCHAC \"Boomstick\" Shotgunthat can also be purchased from theWorkshop.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.01 kg"
+  },
+  "category": "shotgun ammunition",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

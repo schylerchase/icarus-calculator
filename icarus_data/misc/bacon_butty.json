@@ -1,0 +1,14 @@
+{
+  "name": "Bacon Butty",
+  "url": "https://icarus.fandom.com/wiki/Bacon_Butty",
+  "description": "Bacon Butty is a consumable food that boosts health, stamina, health regeneration, experience gained and critical damage.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

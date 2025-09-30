@@ -1,0 +1,14 @@
+{
+  "name": "Cheese Roll",
+  "url": "https://icarus.fandom.com/wiki/Cheese_Roll",
+  "description": "Cheese Roll is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

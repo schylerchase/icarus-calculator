@@ -1,0 +1,17 @@
+{
+  "name": "Electric Masonry Bench",
+  "url": "https://icarus.fandom.com/wiki/Electric_Masonry_Bench",
+  "description": "The Electric Masonry Bench enables the construction ofStone Building PiecesandConcrete Building Piecesat a faster rate than theMasonry BenchandCement Mixer, but only once the Prospector researches the blueprints for building pieces. The Electric Masonry Bench can also craft all building pieces made at theMasonry Bench/Advanced Masonry Bench.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "35.0 kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

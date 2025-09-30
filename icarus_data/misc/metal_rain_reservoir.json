@@ -1,0 +1,17 @@
+{
+  "name": "Metal Rain Reservoir",
+  "url": "https://icarus.fandom.com/wiki/Metal_Rain_Reservoir",
+  "description": "Fill rate is defined by the total excess water available, the flow rate for the water storage unit, and the number of storage units connected to the network. If there are multiple water storage units connected to a single network, the total excess is divided amongst them all - if they are able to be filled.Ex: if a network is producing 2,500 excess water and there are 2 Metal Rain Reservoirs that can be filled, the fill rate for each will be 1,000.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "20.0 kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

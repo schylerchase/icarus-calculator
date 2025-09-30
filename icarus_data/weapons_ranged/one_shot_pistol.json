@@ -1,0 +1,17 @@
+{
+  "name": "One-Shot Pistol",
+  "url": "https://icarus.fandom.com/wiki/One-Shot_Pistol",
+  "description": "The One-Shot Pistol is an inexpensive early-gameTier 2handgun that holds one bullet.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.0 kg",
+    "durability": "3,000"
+  },
+  "category": "firearms",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

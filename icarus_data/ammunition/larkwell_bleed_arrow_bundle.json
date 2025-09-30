@@ -1,0 +1,16 @@
+{
+  "name": "Larkwell Bleed Arrow Bundle",
+  "url": "https://icarus.fandom.com/wiki/Larkwell_Bleed_Arrow_Bundle",
+  "description": "Consuming the Larkwell Bleed Arrow Bundle will add 25xLarkwell Martinez Bleed Arrows to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.5 kg"
+  },
+  "category": "arrows",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

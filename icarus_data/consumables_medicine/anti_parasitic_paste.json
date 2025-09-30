@@ -1,0 +1,14 @@
+{
+  "name": "Anti-Parasitic Paste",
+  "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Paste",
+  "description": "Anti-Parasitic Paste is one of the multiple, easily overlooked recipes available in theTier 1tech tree. Reduces the duration of theParasitesdebuff upon consumption.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {},
+  "category": "medicine",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

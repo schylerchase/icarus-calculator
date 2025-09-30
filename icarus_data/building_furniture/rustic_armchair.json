@@ -1,0 +1,17 @@
+{
+  "name": "Rustic Armchair",
+  "url": "https://icarus.fandom.com/wiki/Rustic_Armchair",
+  "description": "The Rustic Armchair seats one prospector",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "5 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

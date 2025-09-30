@@ -1,0 +1,17 @@
+{
+  "name": "Heavy Heater",
+  "url": "https://icarus.fandom.com/wiki/Heavy_Heater",
+  "description": "The Heavy Heater providesClimate Controlinside of a building, making it a great addition to any outpost located in aArctic. A connection providing at least 250 units ofPoweris required to use the Heavy Heater.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "20.0 Kg",
+    "durability": "1,500"
+  },
+  "category": "climate control",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

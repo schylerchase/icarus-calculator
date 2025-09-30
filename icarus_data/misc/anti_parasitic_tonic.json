@@ -1,0 +1,14 @@
+{
+  "name": "Anti-Parasitic Tonic",
+  "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Tonic",
+  "description": "Used alone to cure parasitic infections such asFestering WoundandDysenteryor as a mid-stage ingredient to the prophylacticAnti-Parasitic Pill",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "medicine",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Glass",
+  "url": "https://icarus.fandom.com/wiki/Glass",
+  "description": "Glass is a crafted resource refined fromSilica OreorSand.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

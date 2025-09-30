@@ -1,0 +1,14 @@
+{
+  "name": "Watermelon Lollypop",
+  "url": "https://icarus.fandom.com/wiki/Watermelon_Lollypop",
+  "description": "Watermelon Lollypop is a consumable food that provides a quick burst of energy to reduce movement speed penalties.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

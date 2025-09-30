@@ -1,0 +1,17 @@
+{
+  "name": "Rustic Narrow Wardrobe",
+  "url": "https://icarus.fandom.com/wiki/Rustic_Narrow_Wardrobe",
+  "description": "The Rustic Narrow Wardrobe smaller wardrobe but still has 10 slot capacity and two variations selectable by holding R.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "10 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

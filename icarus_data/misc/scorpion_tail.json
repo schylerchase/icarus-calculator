@@ -1,0 +1,14 @@
+{
+  "name": "Scorpion Tail",
+  "url": "https://icarus.fandom.com/wiki/Scorpion_Tail",
+  "description": "Scorpion Tail drops fromScorpions.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

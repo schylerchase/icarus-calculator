@@ -1,0 +1,14 @@
+{
+  "name": "Glass Milk Bottle",
+  "url": "https://icarus.fandom.com/wiki/Glass_Milk_Bottle",
+  "description": "Glass Milk Bottle is a container for liquidMilk. It holds 2 litres of Milk and prevents it from spoiling.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

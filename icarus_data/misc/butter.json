@@ -1,0 +1,14 @@
+{
+  "name": "Butter",
+  "url": "https://icarus.fandom.com/wiki/Butter",
+  "description": "Butter is a late-game intermediate resource crafted fromCreamand used in various recipes.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

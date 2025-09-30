@@ -1,0 +1,14 @@
+{
+  "name": "Fish Pie",
+  "url": "https://icarus.fandom.com/wiki/Fish_Pie",
+  "description": "Fish Pie is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

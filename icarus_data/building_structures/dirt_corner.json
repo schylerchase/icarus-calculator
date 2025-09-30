@@ -1,0 +1,17 @@
+{
+  "name": "Dirt Corner",
+  "url": "https://icarus.fandom.com/wiki/Dirt_Corner",
+  "description": "Dirt Corners are aTier 1buildable that are used in tandem withDirt Ramps, allowing for the creation of rounded ramps. Due to the nature of its building material, Dirt Corners must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "2.5 Kg",
+    "durability": "2,500"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

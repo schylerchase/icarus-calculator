@@ -1,0 +1,16 @@
+{
+  "name": "Water Bomb",
+  "url": "https://icarus.fandom.com/wiki/Water_Bomb",
+  "description": "The Water Bomb is aTier 2item that will aid Prospectors in extinguishing fires. Once thrown, the Water Bomb will douse the area in water, putting out any fires. Stacks up to 5.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "0.04 kg"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

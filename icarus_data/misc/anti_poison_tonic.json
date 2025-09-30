@@ -1,0 +1,14 @@
+{
+  "name": "Anti-Poison Tonic",
+  "url": "https://icarus.fandom.com/wiki/Anti-Poison_Tonic",
+  "description": "Used alone to cure Poison from critters like theVenomous Fish, or as a mid-stage ingredient to the prophylacticAnti-poison Pill.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "medicine",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

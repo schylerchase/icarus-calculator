@@ -1,0 +1,17 @@
+{
+  "name": "LM Beastmaster Chest Armor",
+  "url": "https://icarus.fandom.com/wiki/LM_Beastmaster_Chest_Armor",
+  "description": "The LM Beastmaster Chest Armor is part of theLM Beastmaster Armor Set, which can be unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs toMountsand tamed creatures.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "1.0 kg",
+    "durability": "7,500"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Platinum Knife",
+  "url": "https://icarus.fandom.com/wiki/Platinum_Knife",
+  "description": "The Platinum Knife is an upgrade in damage and durability from theSteel Knife, the Platinum Knife can be used as either a melee weapon or tool. Unlike thePlatinum Throwing Knife, the Platinum Knife cannot be thrown.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "damage": "66 - 70",
+    "weight": "0.5 kg",
+    "durability": "24,000"
+  },
+  "category": "knives",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

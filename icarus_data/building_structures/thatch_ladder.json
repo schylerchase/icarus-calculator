@@ -1,0 +1,17 @@
+{
+  "name": "Thatch Ladder",
+  "url": "https://icarus.fandom.com/wiki/Thatch_Ladder",
+  "description": "Thatch building pieces are very light-weight and best used as temporary shelters while away from any 'Main Base' the prospectors may have established. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. Thatch ladders cannot be snapped to trapdoor floors.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.1 kg",
+    "durability": "100"
+  },
+  "category": "thatch building trim set",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

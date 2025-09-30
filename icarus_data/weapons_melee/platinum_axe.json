@@ -1,0 +1,18 @@
+{
+  "name": "Platinum Axe",
+  "url": "https://icarus.fandom.com/wiki/Platinum_Axe",
+  "description": "The Platinum Axe is a mid/late-gameAxethat can be crafted while on the surface of Icarus.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "damage": "+75 Felling Damage",
+    "weight": "1.0 kg",
+    "durability": "120,000"
+  },
+  "category": "axes",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

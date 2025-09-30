@@ -1,0 +1,18 @@
+{
+  "name": "Iron Sledgehammer",
+  "url": "https://icarus.fandom.com/wiki/Iron_Sledgehammer",
+  "description": "Iron Sledgehammer is aTier 2Sledgehammermade withIron.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "damage": "48 - 65 Melee Damage",
+    "weight": "5 Kg",
+    "durability": "80,000"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

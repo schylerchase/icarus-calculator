@@ -1,0 +1,17 @@
+{
+  "name": "Concrete Furnace",
+  "url": "https://icarus.fandom.com/wiki/Concrete_Furnace",
+  "description": "Made at theMachining Bench, this Tier 3 furnace allows the smelting of mid-tier ores such asSteel Ingot+Super Cooled IceintoCold Steel IngotsandTitanium OreintoTitanium Ingots.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "40.0 kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

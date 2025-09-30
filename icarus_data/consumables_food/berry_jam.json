@@ -1,0 +1,14 @@
+{
+  "name": "Berry Jam",
+  "url": "https://icarus.fandom.com/wiki/Berry_Jam",
+  "description": "Berry Jam is a long-lastingFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Berry Jam,Strawberry JamandPickled Carrot, does not spoil and is therefore a valuable food for long-term storage.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

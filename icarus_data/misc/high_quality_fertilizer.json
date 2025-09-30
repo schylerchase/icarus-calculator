@@ -1,0 +1,14 @@
+{
+  "name": "High-Quality Fertilizer",
+  "url": "https://icarus.fandom.com/wiki/High-Quality_Fertilizer",
+  "description": "High-Quality Fertilizer is used on crop plots to enhance the yield of grown crops. When applied, Crop Yield is increased by 50% and Crop Growth Speed is slowed by 25% for 1200 seconds. To fertilize a crop plot, equip a fertilizer of your choosing from your hotbar and left click the plot you wish to fertilize.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

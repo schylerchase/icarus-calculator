@@ -1,0 +1,17 @@
+{
+  "name": "Mortar and Pestle",
+  "url": "https://icarus.fandom.com/wiki/Mortar_and_Pestle",
+  "description": "The Mortar and Pestle is an early-game crafting station that allows prospectors to craft several usefulResourcesand precursor materials, including but not limited to:Steel Bloom,Epoxy,Tree Sap,Carbon Paste,Organic Resin, andGunpowder.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "5.0 Kg",
+    "durability": "250"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

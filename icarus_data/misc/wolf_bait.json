@@ -1,0 +1,14 @@
+{
+  "name": "Wolf Bait",
+  "url": "https://icarus.fandom.com/wiki/Wolf_Bait",
+  "description": "Wolf Bait is aCrafted Resourceused to attract and capture wild wolves. It is a single-use item that is used with aSnare Trapand allows prospectors to tameWolves/Snow Wolves. Wolf Bait does not decay and can only be used inForest,GrasslandandArcticBiomes. Stacks up to ten.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

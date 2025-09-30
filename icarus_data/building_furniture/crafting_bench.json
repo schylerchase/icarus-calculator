@@ -1,0 +1,17 @@
+{
+  "name": "Crafting Bench",
+  "url": "https://icarus.fandom.com/wiki/Crafting_Bench",
+  "description": "The Crafting Bench allows the prospector to craftTier 2items. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under severely damaged roof) in storms.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "20.0kg",
+    "durability": "500"
+  },
+  "category": "deployablesbenches",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Roast Chicken",
+  "url": "https://icarus.fandom.com/wiki/Roast_Chicken",
+  "description": "Roast Chicken is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

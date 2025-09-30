@@ -1,0 +1,17 @@
+{
+  "name": "Iron Shears",
+  "url": "https://icarus.fandom.com/wiki/Iron_Shears",
+  "description": "The Iron Shears are use to shearSheepto obtainWool. Can cause 30-40 Melee damage",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.0kg",
+    "durability": "8.000"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

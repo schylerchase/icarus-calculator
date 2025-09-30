@@ -1,0 +1,18 @@
+{
+  "name": "Shengong CZ4 Bow",
+  "url": "https://icarus.fandom.com/wiki/Shengong_CZ4_Bow",
+  "description": "Using arrows and talents interchangeably with other bows, the Shengong CZ4 Bow is geared more towards elemental damage. When paired with arrows that deal elemental damage (Obsidian Arrows,Inaris \"Netch\" Arrows, etc), the Shengong CZ4 Bow can pack a punch, making it a decent, if not expensive, upgrade to the previous Shengong Bows. Dealt elemental damage is not affected by Bow talents.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "damage": "+100% Projectile Damage",
+    "weight": "0.1 kg",
+    "durability": "50,000"
+  },
+  "category": "bows",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

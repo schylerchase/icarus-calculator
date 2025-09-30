@@ -1,0 +1,14 @@
+{
+  "name": "Fiber",
+  "url": "https://icarus.fandom.com/wiki/Fiber",
+  "description": "In-game description:A bundle of soft fiber, highly useful.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "itemable",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

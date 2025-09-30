@@ -1,0 +1,17 @@
+{
+  "name": "Brown Bear Arm Armor",
+  "url": "https://icarus.fandom.com/wiki/Brown_Bear_Arm_Armor",
+  "description": "Brown Bear Armor is an upgrade toBone Armor, offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with theCalibrated Grip Attachments andAttack Speed Attachments, further increasing knife attack speed.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.0 kg",
+    "durability": "3,000"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

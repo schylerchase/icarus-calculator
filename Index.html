@@ -210,42 +210,6 @@
             color: white;
         }
 
-        .map-selector {
-            display: flex;
-            gap: 10px;
-            margin-bottom: 20px;
-            flex-wrap: wrap;
-            align-items: center;
-        }
-
-        .map-label {
-            color: #b0b3b8;
-            font-weight: 600;
-            margin-right: 10px;
-        }
-
-        .map-btn {
-            padding: 10px 16px;
-            background: rgba(255,255,255,0.1);
-            border: 1px solid rgba(255,255,255,0.2);
-            border-radius: 8px;
-            color: white;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            font-size: 12px;
-            font-weight: 600;
-        }
-
-        .map-btn.active {
-            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%);
-            border-color: #ff6b6b;
-            transform: translateY(-1px);
-        }
-
-        .map-btn:hover:not(.active) {
-            background: rgba(255,255,255,0.2);
-        }
-
         .items-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -658,6 +622,42 @@
             transform: scale(1.05);
         }
 
+        .map-selector {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .map-label {
+            color: #b0b3b8;
+            font-weight: 600;
+            margin-right: 10px;
+        }
+
+        .map-btn {
+            padding: 10px 16px;
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 8px;
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .map-btn.active {
+            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%);
+            border-color: #ff6b6b;
+            transform: translateY(-1px);
+        }
+
+        .map-btn:hover:not(.active) {
+            background: rgba(255,255,255,0.2);
+        }
+
         @media (max-width: 1024px) {
             .main-content {
                 grid-template-columns: 1fr;
@@ -690,19 +690,19 @@
     <script type="text/babel">
         const { useState, useEffect } = React;
 
-        const JSON_FILES = [
-            'ammunition.json', 'armor.json', 'building.json', 'consumables.json',
-            'cooking.json', 'decoration.json', 'deployables.json', 'electricity_sources.json',
-            'farming.json', 'fuel_sources.json', 'furniture.json', 'inventory.json',
-            'light_sources.json', 'materials.json', 'medicine.json', 'raw_materials.json',
-            'specialized_equipment.json', 'storage.json', 'tools.json', 'water_sources.json',
-            'weapons.json'
+        // Updated category files for new structure
+        const CATEGORY_FILES = [
+            'weapons_melee', 'weapons_ranged', 'ammunition', 'armor_clothing',
+            'tools', 'building_structures', 'building_furniture',
+            'consumables_food', 'consumables_medicine',
+            'resources_raw', 'resources_processed', 'deployables',
+            'orbital_items', 'misc'
         ];
 
         const MAP_RESOURCES = {
-            "Olympus": ["Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water", "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt", "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore", "Exotics", "Exotic Matter", "Frozen Ore"],
-            "Styx": ["Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water", "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt", "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore", "Frozen Ore", "Exotics", "Exotic Matter", "Caveworm Chitin"],
-            "Prometheus": ["Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water", "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt", "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore", "Exotics", "Exotic Matter", "Obsidian", "Shaped Obsidian", "Caveworm Chitin"]
+            "Olympus": ["Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water", "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt", "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Aluminium Ore", "Platinum Ore", "Titanium Ore", "Exotics", "Exotic Matter", "Frozen Ore"],
+            "Styx": ["Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water", "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt", "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Aluminium Ore", "Platinum Ore", "Titanium Ore", "Frozen Ore", "Exotics", "Exotic Matter", "Caveworm Chitin"],
+            "Prometheus": ["Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water", "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt", "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Aluminium Ore", "Platinum Ore", "Titanium Ore", "Exotics", "Exotic Matter", "Obsidian", "Shaped Obsidian", "Caveworm Chitin"]
         };
 
         function ItemCard({ item, recipe, isSelected, isAvailable, onClick, onQuantityChange, currentQuantity }) {
@@ -723,22 +723,12 @@
                 if (cat.includes("weapon")) return "⚔️";
                 if (cat.includes("armor")) return "🛡️";
                 if (cat.includes("deployable")) return "🏭";
-                if (cat.includes("equipment")) return "⚙️";
                 if (cat.includes("building")) return "🏗️";
-                if (cat.includes("cooking")) return "🍳";
-                if (cat.includes("storage")) return "📦";
                 if (cat.includes("furniture")) return "🪑";
-                if (cat.includes("material")) return "🔩";
-                if (cat.includes("water")) return "💧";
-                if (cat.includes("electricity")) return "⚡";
-                if (cat.includes("fuel")) return "⛽";
-                if (cat.includes("light")) return "💡";
-                if (cat.includes("farming")) return "🌱";
-                if (cat.includes("consumable")) return "🧪";
-                if (cat.includes("medicine")) return "💊";
-                if (cat.includes("ammunition") || cat.includes("arrow") || cat.includes("bolt")) return "🏹";
-                if (cat.includes("inventory")) return "🎒";
-                if (cat.includes("decoration")) return "🎨";
+                if (cat.includes("consumable") || cat.includes("food") || cat.includes("medicine")) return "🧪";
+                if (cat.includes("resource")) return "🔩";
+                if (cat.includes("ammunition")) return "🏹";
+                if (cat.includes("orbital")) return "🛸";
                 return "📋";
             };
 
@@ -748,10 +738,10 @@
                 React.createElement('div', { className: 'item-header', key: 'header' }, [
                     React.createElement('div', { key: 'info' }, [
                         React.createElement('div', { className: 'item-name', key: 'name' }, 
-                            `${getIcon(recipe.category)} ${item}`
+                            `${getIcon(recipe.category)} ${item.name}`
                         ),
                         React.createElement('div', { className: 'item-category', key: 'category' }, 
-                            recipe.category
+                            recipe.category || 'unknown'
                         )
                     ]),
                     React.createElement('div', { className: 'availability-indicator', key: 'availability' }, 
@@ -762,10 +752,10 @@
                     React.createElement('span', { 
                         className: 'tier-badge', 
                         key: 'tier',
-                        style: { background: getTierColor(recipe.tier) }
-                    }, `T${recipe.tier}`),
+                        style: { background: getTierColor(recipe.tier || 0) }
+                    }, `T${recipe.tier || 0}`),
                     React.createElement('span', { className: 'crafted-location', key: 'location' }, 
-                        recipe.crafted_at
+                        recipe.crafted_at || 'Unknown'
                     )
                 ]),
                 React.createElement('div', { className: 'quantity-controls', key: 'quantity-controls' }, [
@@ -775,7 +765,7 @@
                         onClick: (e) => {
                             e.stopPropagation();
                             if (currentQuantity > 0) {
-                                onQuantityChange(item, currentQuantity - 1);
+                                onQuantityChange(item.name, currentQuantity - 1);
                             }
                         }
                     }, '-'),
@@ -788,7 +778,7 @@
                         className: 'quantity-btn increase',
                         onClick: (e) => {
                             e.stopPropagation();
-                            onQuantityChange(item, (currentQuantity || 0) + 1);
+                            onQuantityChange(item.name, (currentQuantity || 0) + 1);
                         }
                     }, '+'),
                     React.createElement('button', {
@@ -806,29 +796,13 @@
             ]);
         }
 
-        function CartItem({ item, details, onRemove, recipes }) {
-            // Try exact match first, then case-insensitive match
-            let recipe = recipes[item];
-            
-            if (!recipe) {
-                // Try to find by case-insensitive match
-                const itemLower = item.toLowerCase();
-                const matchingKey = Object.keys(recipes).find(key => key.toLowerCase() === itemLower);
-                if (matchingKey) {
-                    recipe = recipes[matchingKey];
-                    console.log(`Found recipe for "${item}" using case-insensitive match: "${matchingKey}"`);
-                } else {
-                    console.warn(`No recipe found for: "${item}". Available recipes:`, Object.keys(recipes).slice(0, 10));
-                }
-            }
-            
-            const crafted_at = recipe?.crafted_at || "Unknown";
-            const tier = recipe?.tier !== undefined ? recipe.tier : 0;
-            const category = recipe?.category || "unknown";
+        function CartItem({ item, details, onRemove }) {
+            const crafted_at = item.crafted_at || "Unknown";
+            const tier = item.tier || 0;
             
             return React.createElement('div', { className: 'cart-item' }, [
                 React.createElement('div', { className: 'cart-item-info', key: 'info' }, [
-                    React.createElement('div', { className: 'cart-item-name', key: 'name' }, item),
+                    React.createElement('div', { className: 'cart-item-name', key: 'name' }, item.name),
                     React.createElement('div', { className: 'cart-item-details', key: 'details' }, 
                         `${crafted_at} • T${tier}`
                     )
@@ -837,13 +811,13 @@
                 React.createElement('button', {
                     key: 'remove',
                     className: 'btn remove',
-                    onClick: () => onRemove(item)
+                    onClick: () => onRemove(item.name)
                 }, "✕")
             ]);
         }
 
         function CraftingCalculator() {
-            const [recipes, setRecipes] = useState({});
+            const [allItems, setAllItems] = useState([]);
             const [loading, setLoading] = useState(true);
             const [loadingText, setLoadingText] = useState('Fetching recipe database...');
             const [error, setError] = useState(null);
@@ -866,9 +840,6 @@
                     setError(null);
                     setLoadingText('Fetching recipe database...');
                     
-                    const allRecipes = {};
-                    let loadedCount = 0;
-                    
                     const pathVariations = [
                         './icarus_data/',
                         'icarus_data/',
@@ -877,10 +848,11 @@
                     
                     let successfulPath = null;
                     
+                    // Test paths
                     for (const basePath of pathVariations) {
                         try {
                             setLoadingText(`Testing path: ${basePath}...`);
-                            const testResponse = await fetch(`${basePath}ammunition.json`);
+                            const testResponse = await fetch(`${basePath}all_items.json`);
                             if (testResponse.ok) {
                                 successfulPath = basePath;
                                 setLoadingText(`Found data at: ${basePath}`);
@@ -892,56 +864,25 @@
                     }
                     
                     if (!successfulPath) {
-                        throw new Error('Cannot load JSON files. Please ensure files are accessible.');
+                        throw new Error('Cannot load JSON files. Please ensure icarus_data folder is accessible.');
                     }
                     
-                    for (const filename of JSON_FILES) {
-                        try {
-                            setLoadingText(`Loading ${filename}... (${loadedCount + 1}/${JSON_FILES.length})`);
-                            
-                            const response = await fetch(`${successfulPath}${filename}`);
-                            if (!response.ok) {
-                                console.warn(`Failed to load ${filename}: ${response.status}`);
-                                continue;
-                            }
-                            
-                            const data = await response.json();
-                            
-                            if (data.items && Array.isArray(data.items)) {
-                                data.items.forEach(item => {
-                                    const ingredients = {};
-                                    if (item.ingredients && typeof item.ingredients === 'object') {
-                                        Object.entries(item.ingredients).forEach(([key, value]) => {
-                                            if (typeof value === 'number') {
-                                                ingredients[key] = value;
-                                            }
-                                        });
-                                    }
-                                    
-                                    allRecipes[item.name] = {
-                                        ingredients: ingredients,
-                                        crafted_at: item.crafted_at || 'Unknown',
-                                        category: item.category || 'unknown',
-                                        tier: typeof item.tier === 'number' ? item.tier : 0,
-                                        map_exclusive: item.map_exclusive || null
-                                    };
-                                });
-                            }
-                            
-                            loadedCount++;
-                        } catch (fileError) {
-                            console.warn(`Error loading ${filename}:`, fileError);
-                        }
+                    // Load the complete dataset
+                    setLoadingText('Loading all items...');
+                    const response = await fetch(`${successfulPath}all_items.json`);
+                    
+                    if (!response.ok) {
+                        throw new Error(`Failed to load all_items.json: ${response.status}`);
                     }
                     
-                    if (Object.keys(allRecipes).length === 0) {
-                        throw new Error('No recipes could be loaded from any file.');
+                    const data = await response.json();
+                    
+                    if (!data.items || !Array.isArray(data.items)) {
+                        throw new Error('Invalid data format in all_items.json');
                     }
                     
-                    console.log(`✅ Loaded ${Object.keys(allRecipes).length} recipes`);
-                    console.log('Sample recipes:', Object.keys(allRecipes).slice(0, 10));
-                    console.log('Sample recipe data:', allRecipes[Object.keys(allRecipes)[0]]);
-                    setRecipes(allRecipes);
+                    console.log(`✅ Loaded ${data.items.length} items from Fandom wiki`);
+                    setAllItems(data.items);
                     setLoading(false);
                     
                 } catch (err) {
@@ -954,79 +895,67 @@
                 }
             };
 
-            const categories = [...new Set(Object.values(recipes).map(r => r.category))].sort();
-            const tiers = [...new Set(Object.values(recipes).map(r => r.tier))].sort();
+            const categories = [...new Set(allItems.map(item => item.category).filter(Boolean))].sort();
+            const tiers = [...new Set(allItems.map(item => item.tier).filter(t => t !== undefined))].sort();
 
-            const handleQuantityChange = (item, quantity) => {
+            const handleQuantityChange = (itemName, quantity) => {
                 setItemQuantities(prev => ({
                     ...prev,
-                    [item]: Math.max(0, quantity)
+                    [itemName]: Math.max(0, quantity)
                 }));
             };
 
             const checkItemAvailability = (item, map) => {
-                const recipe = recipes[item];
-                if (!recipe) return false;
+                // Check for Prometheus-exclusive items (Obsidian-based)
+                const ingredients = item.ingredients || {};
+                const hasObsidian = Object.keys(ingredients).some(mat => 
+                    mat.toLowerCase().includes('obsidian')
+                );
                 
-                // Check map exclusivity (only Prometheus-exclusive items are unavailable elsewhere)
-                if (recipe.map_exclusive === 'Prometheus' && map !== 'Prometheus') {
+                if (hasObsidian && map !== 'Prometheus') {
                     return false;
                 }
                 
-                const requiredMaterials = Object.keys(recipe.ingredients || {});
-                
-                // No ingredients = raw material or character-crafted item - assume available
-                if (requiredMaterials.length === 0) {
-                    return true;
-                }
-                
-                // For items with ingredients: be very permissive
-                // Only mark as unavailable if it specifically needs Obsidian on non-Prometheus maps
-                for (const material of requiredMaterials) {
-                    if ((material === 'Obsidian' || material === 'Shaped Obsidian') && map !== 'Prometheus') {
-                        return false;
-                    }
-                }
-                
-                // Everything else is considered available
+                // Everything else is available
                 return true;
             };
 
-            const filteredItems = Object.entries(recipes).filter(([item, recipe]) => {
-                const matchesSearch = item.toLowerCase().includes(searchTerm.toLowerCase());
-                const matchesCategory = categoryFilter === 'All' || recipe.category === categoryFilter;
-                const matchesTier = tierFilter === 'All' || recipe.tier.toString() === tierFilter;
+            const filteredItems = allItems.filter(item => {
+                const matchesSearch = item.name.toLowerCase().includes(searchTerm.toLowerCase());
+                const matchesCategory = categoryFilter === 'All' || item.category === categoryFilter;
+                const matchesTier = tierFilter === 'All' || (item.tier || 0).toString() === tierFilter;
                 return matchesSearch && matchesCategory && matchesTier;
             });
 
-            const itemsWithAvailability = filteredItems.map(([item, recipe]) => ({
+            const itemsWithAvailability = filteredItems.map(item => ({
                 item,
-                recipe,
+                recipe: item,
                 isAvailable: checkItemAvailability(item, currentMap)
             }));
 
             const addToCart = (item) => {
-                const quantity = itemQuantities[item] || 1;
+                const quantity = itemQuantities[item.name] || 1;
                 setShoppingCart(prev => ({
                     ...prev,
-                    [item]: {
-                        quantity: (prev[item]?.quantity || 0) + quantity
+                    [item.name]: {
+                        quantity: (prev[item.name]?.quantity || 0) + quantity,
+                        item: item
                     }
                 }));
                 
                 setItemQuantities(prev => ({
                     ...prev,
-                    [item]: 0
+                    [item.name]: 0
                 }));
                 
-                setResults({ type: 'success', message: `${quantity}x ${item} added to cart!` });
+                setResults({ type: 'success', message: `${quantity}x ${item.name} added to cart!` });
                 setTimeout(() => setResults(null), 2000);
             };
 
-            const removeFromCart = (item) => {
+            const removeFromCart = (itemName) => {
                 setShoppingCart(prev => {
                     const newCart = { ...prev };
-                    delete newCart[item];
+                    delete newCart[itemName];
                     return newCart;
                 });
             };
@@ -1048,19 +977,29 @@
                 const rawMaterials = {};
                 
                 const processItem = (item, quantity) => {
-                    const recipe = recipes[item];
-                    if (!recipe || !recipe.ingredients || Object.keys(recipe.ingredients).length === 0) {
-                        rawMaterials[item] = (rawMaterials[item] || 0) + quantity;
+                    const ingredients = item.ingredients || {};
+                    
+                    if (Object.keys(ingredients).length === 0) {
+                        // Raw material
+                        rawMaterials[item.name] = (rawMaterials[item.name] || 0) + quantity;
                         return;
                     }
                     
-                    Object.entries(recipe.ingredients).forEach(([material, amount]) => {
-                        processItem(material, amount * quantity);
+                    // Process ingredients
+                    Object.entries(ingredients).forEach(([materialName, amount]) => {
+                        // Find the material in allItems
+                        const materialItem = allItems.find(i => i.name === materialName);
+                        if (materialItem) {
+                            processItem(materialItem, amount * quantity);
+                        } else {
+                            // Material not in database, treat as raw
+                            rawMaterials[materialName] = (rawMaterials[materialName] || 0) + (amount * quantity);
+                        }
                     });
                 };
 
-                Object.entries(shoppingCart).forEach(([item, details]) => {
-                    processItem(item, details.quantity);
+                Object.entries(shoppingCart).forEach(([itemName, details]) => {
+                    processItem(details.item, details.quantity);
                 });
 
                 setResults({
@@ -1092,14 +1031,13 @@
                 
                 if (results.type === 'materials') {
                     const unavailableRawMaterials = Object.keys(results.rawMaterials).filter(material => 
-                        !MAP_RESOURCES[currentMap]?.includes(material) && 
-                        ((material === 'Obsidian' || material === 'Shaped Obsidian') && currentMap !== 'Prometheus')
+                        material.toLowerCase().includes('obsidian') && currentMap !== 'Prometheus'
                     );
 
                     return React.createElement('div', { className: 'results-panel' }, [
                         React.createElement('div', { className: 'results-title', key: 'title' }, '⛏️ Total Raw Materials Summary'),
                         ...Object.entries(results.rawMaterials).map(([material, amount]) => {
-                            const isAvailable = !((material === 'Obsidian' || material === 'Shaped Obsidian') && currentMap !== 'Prometheus');
+                            const isAvailable = !(material.toLowerCase().includes('obsidian') && currentMap !== 'Prometheus');
                             
                             return React.createElement('div', { key: material, className: 'resource-item' }, [
                                 React.createElement('span', { className: 'resource-name', key: 'name' }, 
@@ -1162,7 +1100,7 @@
 
             const renderTabContent = () => {
                 if (activeTab === 'calculator') {
-                    const availableCount = itemsWithAvailability.filter(item => item.isAvailable).length;
+                    const availableCount = itemsWithAvailability.filter(({isAvailable}) => isAvailable).length;
                     const totalCount = itemsWithAvailability.length;
 
                     return React.createElement('div', { key: 'calculator-content' }, [
@@ -1232,14 +1170,14 @@
                                 }, 'No items match your filters') :
                                 itemsWithAvailability.map(({ item, recipe, isAvailable }) =>
                                     React.createElement(ItemCard, {
-                                        key: item,
+                                        key: item.name,
                                         item,
                                         recipe,
-                                        isSelected: !!shoppingCart[item],
+                                        isSelected: !!shoppingCart[item.name],
                                         isAvailable: isAvailable,
                                         onClick: addToCart,
                                         onQuantityChange: handleQuantityChange,
-                                        currentQuantity: itemQuantities[item] || 0
+                                        currentQuantity: itemQuantities[item.name] || 0
                                     })
                                 )
                         ),
@@ -1269,14 +1207,12 @@
                 return null;
             };
 
-            const totalItems = Object.keys(recipes).length;
-
             return React.createElement('div', { className: 'app-container' }, [
                 React.createElement('div', { className: 'app-header', key: 'header' }, [
                     React.createElement('h1', { className: 'app-title', key: 'title' }, "🚀 ICARUS COMPLETE"),
-                    React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator • Live JSON Data"),
+                    React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator • Fandom Wiki Data"),
                     React.createElement('div', { className: 'stats-header', key: 'stats' }, 
-                        `📊 Database: ${totalItems} Total Items Loaded`
+                        `📊 Database: ${allItems.length} Total Items from Icarus Fandom Wiki`
                     )
                 ]),
 
@@ -1308,13 +1244,12 @@
                         React.createElement('div', { className: 'cart-items', key: 'cart-items' },
                             Object.keys(shoppingCart).length === 0 ? 
                                 React.createElement('div', { className: 'cart-empty' }, "Add items to your cart to get started!") :
-                                Object.entries(shoppingCart).map(([item, details]) =>
+                                Object.entries(shoppingCart).map(([itemName, details]) =>
                                     React.createElement(CartItem, {
-                                        key: item,
-                                        item,
+                                        key: itemName,
+                                        item: details.item,
                                         details,
-                                        onRemove: removeFromCart,
-                                        recipes: recipes
+                                        onRemove: removeFromCart
                                     })
                                 )
                         ),
@@ -1338,7 +1273,7 @@
                             className: 'stats-panel',
                             key: 'stats'
                         }, [
-                            React.createElement('div', { key: 'total' }, `Total Database: ${totalItems} items`),
+                            React.createElement('div', { key: 'total' }, `Total Database: ${allItems.length} items`),
                             React.createElement('div', { key: 'cart' }, `Cart Items: ${Object.keys(shoppingCart).length}`)
                         ])
                     ])
