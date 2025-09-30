@@ -599,25 +599,6 @@
         margin-bottom: 0;
     }
 
-    @media (max-width: 1024px) {
-        .main-content {
-            grid-template-columns: 1fr;
-        }
-        
-        .search-controls {
-            grid-template-columns: 1fr;
-            gap: 10px;
-        }
-        
-        .action-buttons {
-            flex-direction: column;
-        }
-
-        .items-grid {
-            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-        }
-    }
-
     .quantity-controls {
         display: flex;
         align-items: center;
@@ -678,6 +659,25 @@
     .add-btn:hover:not(:disabled) {
         transform: scale(1.05);
     }
+
+    @media (max-width: 1024px) {
+        .main-content {
+            grid-template-columns: 1fr;
+        }
+        
+        .search-controls {
+            grid-template-columns: 1fr;
+            gap: 10px;
+        }
+        
+        .action-buttons {
+            flex-direction: column;
+        }
+
+        .items-grid {
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        }
+    }
 </style>
 ```
 
@@ -686,7 +686,7 @@
     <div id="root">
         <div class="loading-screen">
             <div class="loading-spinner"></div>
-            <div class="loading-text">🚀 Loading ICARUS Complete...</div>
+            <div class="loading-text">Loading ICARUS Complete...</div>
             <div class="loading-details">Fetching recipe database...</div>
         </div>
     </div>
@@ -696,76 +696,18 @@
     const { useState, useEffect } = React;
 
     const JSON_FILES = [
-        'ammunition.json',
-        'armor.json',
-        'building.json',
-        'consumables.json',
-        'cooking.json',
-        'decoration.json',
-        'deployables.json',
-        'electricity_sources.json',
-        'farming.json',
-        'fuel_sources.json',
-        'furniture.json',
-        'inventory.json',
-        'light_sources.json',
-        'materials.json',
-        'medicine.json',
-        'raw_materials.json',
-        'specialized_equipment.json',
-        'storage.json',
-        'tools.json',
-        'water_sources.json',
+        'ammunition.json', 'armor.json', 'building.json', 'consumables.json',
+        'cooking.json', 'decoration.json', 'deployables.json', 'electricity_sources.json',
+        'farming.json', 'fuel_sources.json', 'furniture.json', 'inventory.json',
+        'light_sources.json', 'materials.json', 'medicine.json', 'raw_materials.json',
+        'specialized_equipment.json', 'storage.json', 'tools.json', 'water_sources.json',
         'weapons.json'
     ];
 
     const MAP_RESOURCES = {
-        "Olympus": [
-            "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
-            "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
-            "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore",
-            "Exotics", "Exotic Matter", "Frozen Ore",
-            "Iron Ingot", "Steel Ingot", "Steel Bloom", "Aluminum Ingot", "Copper Ingot", 
-            "Platinum Ingot", "Titanium Ingot", "Refined Gold", "Steel Screw", "Copper Wire",
-            "Gold Wire", "Electronics", "Carbon Fiber", "Composites", "Epoxy", "Organic Resin",
-            "Concrete Mix", "Glass", "Rope", "Wool", "Charcoal", "Biofuel Can", "Iron Nail", "Copper Nail",
-            "Brown Bear Fur", "Brown Bear Leather", "Brown Bear Bone",
-            "Wolf Fur", "Wolf Leather", "Wolf Bone",
-            "Deer Fur", "Deer Leather", "Deer Bone",
-            "Mammoth Tusk", "Caveworm Chitin",
-            "Pumpkin", "Corn", "Wheat", "Carrot", "Potato", "Tomato", "Beans", "Berry", "Apple",
-            "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
-        ],
-        "Styx": [
-            "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
-            "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
-            "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore", "Frozen Ore",
-            "Exotics", "Exotic Matter", "Caveworm Chitin",
-            "Iron Ingot", "Steel Ingot", "Steel Bloom", "Aluminum Ingot", "Copper Ingot", 
-            "Platinum Ingot", "Titanium Ingot", "Refined Gold", "Steel Screw", "Copper Wire",
-            "Gold Wire", "Electronics", "Carbon Fiber", "Composites", "Epoxy", "Organic Resin",
-            "Concrete Mix", "Glass", "Rope", "Wool", "Charcoal", "Biofuel Can", "Iron Nail", "Copper Nail",
-            "Brown Bear Fur", "Brown Bear Leather", "Brown Bear Bone",
-            "Wolf Fur", "Wolf Leather", "Wolf Bone",
-            "Deer Fur", "Deer Leather", "Deer Bone",
-            "Pumpkin", "Corn", "Wheat", "Carrot", "Potato", "Tomato", "Beans", "Berry", "Apple",
-            "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
-        ],
-        "Prometheus": [
-            "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
-            "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
-            "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore",
-            "Exotics", "Exotic Matter", "Obsidian", "Shaped Obsidian", "Caveworm Chitin",
-            "Iron Ingot", "Steel Ingot", "Steel Bloom", "Aluminum Ingot", "Copper Ingot", 
-            "Platinum Ingot", "Titanium Ingot", "Refined Gold", "Steel Screw", "Copper Wire",
-            "Gold Wire", "Electronics", "Carbon Fiber", "Composites", "Epoxy", "Organic Resin",
-            "Concrete Mix", "Glass", "Rope", "Wool", "Charcoal", "Biofuel Can", "Iron Nail", "Copper Nail",
-            "Brown Bear Fur", "Brown Bear Leather", "Brown Bear Bone",
-            "Wolf Fur", "Wolf Leather", "Wolf Bone",
-            "Deer Fur", "Deer Leather", "Deer Bone",
-            "Pumpkin", "Corn", "Wheat", "Carrot", "Potato", "Tomato", "Beans", "Berry", "Apple",
-            "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
-        ]
+        "Olympus": ["Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water", "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt", "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore", "Exotics", "Exotic Matter", "Frozen Ore"],
+        "Styx": ["Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water", "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt", "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore", "Frozen Ore", "Exotics", "Exotic Matter", "Caveworm Chitin"],
+        "Prometheus": ["Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water", "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt", "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore", "Exotics", "Exotic Matter", "Obsidian", "Shaped Obsidian", "Caveworm Chitin"]
     };
 
     function ItemCard({ item, recipe, isSelected, isAvailable, onClick, onQuantityChange, currentQuantity }) {
@@ -781,7 +723,7 @@
         };
 
         const getIcon = (category) => {
-            const cat = category.toLowerCase();
+            const cat = (category || '').toLowerCase();
             if (cat.includes("tool")) return "🔧";
             if (cat.includes("weapon")) return "⚔️";
             if (cat.includes("armor")) return "🛡️";
@@ -873,7 +815,6 @@
         const recipe = recipes[item] || {};
         const crafted_at = recipe.crafted_at || "Unknown";
         const tier = recipe.tier !== undefined ? recipe.tier : 0;
-        const category = recipe.category || "unknown";
         
         return React.createElement('div', { className: 'cart-item' }, [
             React.createElement('div', { className: 'cart-item-info', key: 'info' }, [
@@ -903,7 +844,6 @@
         const [tierFilter, setTierFilter] = useState('All');
         const [shoppingCart, setShoppingCart] = useState({});
         const [results, setResults] = useState(null);
-        const [checkedItems, setCheckedItems] = useState({});
         const [itemQuantities, setItemQuantities] = useState({});
 
         useEffect(() => {
@@ -1012,6 +952,34 @@
             }));
         };
 
+        const checkItemAvailability = (item, map) => {
+            const recipe = recipes[item];
+            if (!recipe) return false;
+            
+            // Check map exclusivity (only Prometheus-exclusive items are unavailable elsewhere)
+            if (recipe.map_exclusive === 'Prometheus' && map !== 'Prometheus') {
+                return false;
+            }
+            
+            const requiredMaterials = Object.keys(recipe.ingredients || {});
+            
+            // No ingredients = raw material or character-crafted item - assume available
+            if (requiredMaterials.length === 0) {
+                return true;
+            }
+            
+            // For items with ingredients: be very permissive
+            // Only mark as unavailable if it specifically needs Obsidian on non-Prometheus maps
+            for (const material of requiredMaterials) {
+                if ((material === 'Obsidian' || material === 'Shaped Obsidian') && map !== 'Prometheus') {
+                    return false;
+                }
+            }
+            
+            // Everything else is considered available
+            return true;
+        };
+
         const filteredItems = Object.entries(recipes).filter(([item, recipe]) => {
             const matchesSearch = item.toLowerCase().includes(searchTerm.toLowerCase());
             const matchesCategory = categoryFilter === 'All' || recipe.category === categoryFilter;
@@ -1019,108 +987,11 @@
             return matchesSearch && matchesCategory && matchesTier;
         });
 
-        // Pre-calculate availability for filtered items to avoid repeated checks during render
         const itemsWithAvailability = filteredItems.map(([item, recipe]) => ({
             item,
             recipe,
             isAvailable: checkItemAvailability(item, currentMap)
         }));
-
-        const checkItemAvailability = (item, map, debugPath = []) => {
-            const recipe = recipes[item];
-            if (!recipe) return false;
-            
-            // Prevent infinite recursion
-            if (debugPath.includes(item)) {
-                return false;
-            }
-            
-            // Check for map-exclusive items first
-            if (recipe.map_exclusive && recipe.map_exclusive !== map) {
-                return false;
-            }
-            
-            const requiredMaterials = Object.keys(recipe.ingredients || {});
-            
-            // If no ingredients, it's likely a raw material or basic item
-            if (requiredMaterials.length === 0) {
-                // Be very permissive for items without ingredients
-                const cat = (recipe.category || '').toLowerCase();
-                const isAvailable = MAP_RESOURCES[map]?.includes(item) || 
-                       recipe.crafted_at === 'Character' ||
-                       recipe.crafted_at === 'Character Crafting' ||
-                       cat.includes('raw') ||
-                       cat.includes('material') ||
-                       cat.includes('consumable') ||
-                       recipe.tier <= 1;
-                
-                return isAvailable;
-            }
-            
-            // For items with ingredients, be more permissive with basic materials
-            for (const material of requiredMaterials) {
-                // Comprehensive list of materials that should always be considered available
-                const alwaysAvailableMaterials = [
-                    // Basic gathered materials
-                    'Fiber', 'Wood', 'Stone', 'Stick', 'Sticks', 'Leather', 'Fur', 'Bone', 'Clay', 'Wool',
-                    
-                    // Basic ores (available in caves on all maps)
-                    'Iron Ore', 'Copper Ore', 'Coal', 'Gold Ore', 'Aluminum Ore', 'Platinum Ore', 'Titanium Ore',
-                    
-                    // Basic processed materials
-                    'Iron Ingot', 'Steel Ingot', 'Copper Ingot', 'Steel Bloom', 'Oxite', 'Sulfur', 'Tree Sap', 'Cold Steel Ingot',
-                    
-                    // Basic creature materials
-                    'Brown Bear Leather', 'Brown Bear Fur', 'Brown Bear Bone',
-                    'Wolf Leather', 'Wolf Fur', 'Wolf Bone',
-                    'Deer Leather', 'Deer Fur', 'Deer Bone',
-                    
-                    // Basic crafted materials
-                    'Rope', 'Glass', 'Charcoal', 'Carbon Paste', 'Iron Nail', 'Copper Nail', 'Steel Screw',
-                    
-                    // Water and consumables
-                    'Water', 'Ice', 'Salt',
-                    
-                    // Food/farming materials that should be available
-                    'Pumpkin', 'Corn', 'Wheat', 'Carrot', 'Potato', 'Tomato', 'Beans', 'Berry', 'Apple',
-                    'Reed Flower', 'Reed', 'Flower', 'Mushroom', 'Fruit', 'Vegetable', 'Grain', 'Seed',
-                    
-                    // Common crafting components
-                    'Nail', 'Screw', 'Wire', 'Paste', 'Mix', 'Bloom', 'Bar', 'Ingot',
-                    
-                    // Basic building materials
-                    'Thatch', 'Plank', 'Board', 'Beam'
-                ];
-                
-                // Handle common plural/singular variations
-                const materialVariations = [
-                    material,
-                    material.replace(/s$/, ''), // Remove trailing 's'
-                    material + 's',             // Add trailing 's'
-                    material.replace('Sticks', 'Stick'), // Specific fix for Sticks->Stick
-                    material.replace('Stick', 'Sticks')  // And reverse
-                ];
-                
-                // Check if any variation of the material is available
-                const isBasicMaterial = materialVariations.some(variation => 
-                    alwaysAvailableMaterials.includes(variation) || 
-                    MAP_RESOURCES[map]?.includes(variation)
-                );
-                
-                if (isBasicMaterial) {
-                    continue; // This material is available
-                }
-                
-                // Recursively check the material
-                const materialAvailable = checkItemAvailability(material, map, [...debugPath, item]);
-                
-                if (!materialAvailable) {
-                    return false;
-                }
-            }
-            
-            return true;
-        };
 
         const addToCart = (item) => {
             const quantity = itemQuantities[item] || 1;
@@ -1150,7 +1021,6 @@
 
         const clearCart = () => {
             setShoppingCart({});
-            setCheckedItems({});
             setItemQuantities({});
             setResults({ type: 'success', message: 'Cart cleared!' });
             setTimeout(() => setResults(null), 2000);
@@ -1210,13 +1080,14 @@
             
             if (results.type === 'materials') {
                 const unavailableRawMaterials = Object.keys(results.rawMaterials).filter(material => 
-                    !MAP_RESOURCES[currentMap]?.includes(material)
+                    !MAP_RESOURCES[currentMap]?.includes(material) && 
+                    ((material === 'Obsidian' || material === 'Shaped Obsidian') && currentMap !== 'Prometheus')
                 );
 
                 return React.createElement('div', { className: 'results-panel' }, [
                     React.createElement('div', { className: 'results-title', key: 'title' }, '⛏️ Total Raw Materials Summary'),
                     ...Object.entries(results.rawMaterials).map(([material, amount]) => {
-                        const isAvailable = MAP_RESOURCES[currentMap]?.includes(material);
+                        const isAvailable = !((material === 'Obsidian' || material === 'Shaped Obsidian') && currentMap !== 'Prometheus');
                         
                         return React.createElement('div', { key: material, className: 'resource-item' }, [
                             React.createElement('span', { className: 'resource-name', key: 'name' }, 
@@ -1238,7 +1109,7 @@
                             fontSize: '12px',
                             color: '#ff6b6b'
                         }
-                    }, `⚠️ ${unavailableRawMaterials.length} raw materials not available on ${currentMap}`)
+                    }, `⚠️ ${unavailableRawMaterials.length} materials not available on ${currentMap}`)
                 ]);
             }
             
@@ -1368,9 +1239,9 @@
                 return React.createElement('div', { className: 'map-info', key: 'map-info' }, [
                     React.createElement('h3', { key: 'title' }, `🗺️ ${currentMap} Resources`),
                     React.createElement('p', { key: 'description' }, 
-                        currentMap === 'Olympus' ? "The starter map with Forest, Arctic, and Desert biomes. ALL ORES available in caves!" :
+                        currentMap === 'Olympus' ? "The starter map with Forest, Arctic, and Desert biomes. ALL ORES available!" :
                         currentMap === 'Prometheus' ? "🌋 Volcanic DLC map with unique Obsidian deposits." :
-                        currentMap === 'Styx' ? "💎 Advanced DLC map with all standard ores available." : ""
+                        currentMap === 'Styx' ? "💎 Advanced DLC map with all standard ores." : ""
                     ),
                     React.createElement('div', { className: 'resource-grid', key: 'resources' },
                         MAP_RESOURCES[currentMap]?.map(resource =>
