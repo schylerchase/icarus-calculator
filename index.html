@@ -755,7 +755,7 @@
                         style: { background: getTierColor(recipe.tier || 0) }
                     }, `T${recipe.tier || 0}`),
                     React.createElement('span', { className: 'crafted-location', key: 'location' }, 
-                        recipe.crafted_at || 'Unknown'
+                        recipe.crafted_at || 'crafted_at'
                     )
                 ]),
                 React.createElement('div', { className: 'quantity-controls', key: 'quantity-controls' }, [
