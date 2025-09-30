@@ -807,9 +807,24 @@
         }
 
         function CartItem({ item, details, onRemove, recipes }) {
-            const recipe = recipes[item] || {};
-            const crafted_at = recipe.crafted_at || "Unknown";
-            const tier = recipe.tier !== undefined ? recipe.tier : 0;
+            // Try exact match first, then case-insensitive match
+            let recipe = recipes[item];
+            
+            if (!recipe) {
+                // Try to find by case-insensitive match
+                const itemLower = item.toLowerCase();
+                const matchingKey = Object.keys(recipes).find(key => key.toLowerCase() === itemLower);
+                if (matchingKey) {
+                    recipe = recipes[matchingKey];
+                    console.log(`Found recipe for "${item}" using case-insensitive match: "${matchingKey}"`);
+                } else {
+                    console.warn(`No recipe found for: "${item}". Available recipes:`, Object.keys(recipes).slice(0, 10));
+                }
+            }
+            
+            const crafted_at = recipe?.crafted_at || "Unknown";
+            const tier = recipe?.tier !== undefined ? recipe.tier : 0;
+            const category = recipe?.category || "unknown";
             
             return React.createElement('div', { className: 'cart-item' }, [
                 React.createElement('div', { className: 'cart-item-info', key: 'info' }, [
@@ -923,7 +938,9 @@
                         throw new Error('No recipes could be loaded from any file.');
                     }
                     
-                    console.log(`Loaded ${Object.keys(allRecipes).length} recipes`);
+                    console.log(`✅ Loaded ${Object.keys(allRecipes).length} recipes`);
+                    console.log('Sample recipes:', Object.keys(allRecipes).slice(0, 10));
+                    console.log('Sample recipe data:', allRecipes[Object.keys(allRecipes)[0]]);
                     setRecipes(allRecipes);
                     setLoading(false);
                     
