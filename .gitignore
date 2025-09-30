@@ -10,7 +10,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 FixCategories.py
-Scrape_Complete.py
+ScrapeComplete.py
 
 # VS Code
 .vscode/
