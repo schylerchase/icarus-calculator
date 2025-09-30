@@ -2,7 +2,7 @@
   "name": "9mm Cold Steel Round",
   "url": "https://icarus.fandom.com/wiki/9mm_Cold_Steel_Round",
   "description": "9mm Cold Steel Round is a Cold Steel variant of ammunition forPistols. It inflicts extra Frost damage and a chance to slow the target and weaken their attacks.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,

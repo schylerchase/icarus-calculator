@@ -2,7 +2,7 @@
   "name": "5.56mm Miasmic Round",
   "url": "https://icarus.fandom.com/wiki/5.56mm_Miasmic_Round",
   "description": "5.56mm Miasmic Round, a Miasmic variant of ammunition used by theAssault Rifle.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,

@@ -2,7 +2,7 @@
   "name": "Carcass Harvesting Attachment",
   "url": "https://icarus.fandom.com/wiki/Carcass_Harvesting_Attachment",
   "description": "Carcass Harvesting Attachment is a mid-to-end game item available once the prospector has unlocked theTool Attachment Packtech.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,

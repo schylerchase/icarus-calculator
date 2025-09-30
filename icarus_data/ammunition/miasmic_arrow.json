@@ -2,7 +2,7 @@
   "name": "Miasmic Arrow",
   "url": "https://icarus.fandom.com/wiki/Miasmic_Arrow",
   "description": "The Miasmic Arrow is ammunition used with aBow, requiringDistilled Miasmic Coatingintroduced on thePrometheusmap.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,

@@ -2,7 +2,7 @@
   "name": "Hunter Arms Armor",
   "url": "https://icarus.fandom.com/wiki/Hunter_Arms_Armor",
   "description": "An upgrade toGhillie Armorwith over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,

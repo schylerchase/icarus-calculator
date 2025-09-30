@@ -2,7 +2,7 @@
   "name": "5.56mm Armor Piercing Round",
   "url": "https://icarus.fandom.com/wiki/5.56mm_Armor_Piercing_Round",
   "description": "5.56mm Armor Piercing Round is used by theAssault Rifle.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,

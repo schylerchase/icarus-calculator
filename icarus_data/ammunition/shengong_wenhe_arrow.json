@@ -2,7 +2,7 @@
   "name": "Shengong \"Wenhe\" Arrow",
   "url": "https://icarus.fandom.com/wiki/Shengong_%22Wenhe%22_Arrow",
   "description": "The Shengong \"Wenhe\" Arrow is ammunition used with aBow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

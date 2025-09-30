@@ -2,7 +2,7 @@
   "name": "Bone Leg Armor",
   "url": "https://icarus.fandom.com/wiki/Bone_Leg_Armor",
   "description": "Bone Armor provides relatively good protection from Icarus' fauna as aTier 1armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,

@@ -2,7 +2,7 @@
   "name": "Deer Vestige",
   "url": "https://icarus.fandom.com/wiki/Deer_Vestige",
   "description": "Deer Vestiges are used at theTrophy Benchto create aDeer Trophy, which can help prospectors complete theBestiary. They are also used at any textiles bench to makeDeer Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of theWell Rested Buff.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

@@ -2,7 +2,7 @@
   "name": "Larkwell Martinez Tazer Arrow",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tazer_Arrow",
   "description": "The Larkwell Martinez Tazer Arrow is ammunition used with aBow. Unlike bolts and javelins, they cannot be recovered after being fired into the ground or an animal carcass.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

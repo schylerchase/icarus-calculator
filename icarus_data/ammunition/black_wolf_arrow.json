@@ -2,7 +2,7 @@
   "name": "Black Wolf Arrow",
   "url": "https://icarus.fandom.com/wiki/Black_Wolf_Arrow",
   "description": "The Black Wolf Arrow is ammunition used with aBow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 10.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,

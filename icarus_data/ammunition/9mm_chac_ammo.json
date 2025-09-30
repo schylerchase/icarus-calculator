@@ -2,7 +2,7 @@
   "name": "9mm CHAC Ammo",
   "url": "https://icarus.fandom.com/wiki/9mm_CHAC_Ammo",
   "description": "9mm CHAC Ammo is an advanced pistol ammunition that does 200 damage.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

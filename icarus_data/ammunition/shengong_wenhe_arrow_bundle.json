@@ -2,7 +2,7 @@
   "name": "Shengong \"Wenhe\" Arrow Bundle",
   "url": "https://icarus.fandom.com/wiki/Shengong_%22Wenhe%22_Arrow_Bundle",
   "description": "Consuming the Shengong \"Wenhe\" Arrow Bundle will add 25xShengong \"Wenhe\" Arrowsto the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

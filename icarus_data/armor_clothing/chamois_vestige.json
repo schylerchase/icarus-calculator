@@ -2,7 +2,7 @@
   "name": "Chamois Vestige",
   "url": "https://icarus.fandom.com/wiki/Chamois_Vestige",
   "description": "Chamois Vestiges are used at theTrophy Benchto create aChamois Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

@@ -2,7 +2,7 @@
   "name": "12-Gauge Miasmic Shell",
   "url": "https://icarus.fandom.com/wiki/12-Gauge_Miasmic_Shell",
   "description": "12-Gauge Miasmic Shell, a Miasmic variant of ammunition used byShotguns.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,

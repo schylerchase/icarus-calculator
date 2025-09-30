@@ -2,7 +2,7 @@
   "name": "Fur Arms Armor",
   "url": "https://icarus.fandom.com/wiki/Fur_Arms_Armor",
   "description": "Fur armor is a sidegrade toLeather Armor, offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

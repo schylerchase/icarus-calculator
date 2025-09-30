@@ -2,7 +2,7 @@
   "name": "12-Gauge Cold Steel Shell",
   "url": "https://icarus.fandom.com/wiki/12-Gauge_Cold_Steel_Shell",
   "description": "12-Gauge Cold Steel Shell is a Cold Steel variant of ammunition forShotguns. It inflicts extra Frost damage and a chance to slow the target and weaken their attacks.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,

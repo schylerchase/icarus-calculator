@@ -2,7 +2,7 @@
   "name": "Cold Steel Arrow",
   "url": "https://icarus.fandom.com/wiki/Cold_Steel_Arrow",
   "description": "The Cold Steel Arrow is ammunition used with aBow, introduced inChapter - New Frontier. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,

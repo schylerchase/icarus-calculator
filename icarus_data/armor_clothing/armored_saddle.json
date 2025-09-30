@@ -2,7 +2,7 @@
   "name": "Armored Saddle",
   "url": "https://icarus.fandom.com/wiki/Armored_Saddle",
   "description": "The Armored Saddle is a saddle forMountsthat has a medieval aesthetic. It is available as part of theCreature Comforts DLCand is a cosmetic change to theBasic Riding Saddlethat provides no additional attributes.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

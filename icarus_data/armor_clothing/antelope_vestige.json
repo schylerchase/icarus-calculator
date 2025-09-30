@@ -2,7 +2,7 @@
   "name": "Antelope Vestige",
   "url": "https://icarus.fandom.com/wiki/Antelope_Vestige",
   "description": "Antelope Vestiges are used at theTrophy Benchto create anAntelope Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

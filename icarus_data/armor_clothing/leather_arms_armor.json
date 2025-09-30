@@ -2,7 +2,7 @@
   "name": "Leather Arms Armor",
   "url": "https://icarus.fandom.com/wiki/Leather_Arms_Armor",
   "description": "Leather armor may not offer much protection when fighting against Icarus'Fauna, but it offers more physical protection and thermal insulation than itsTier 1counterparts, serving as a decent all-around armor forTier 2.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

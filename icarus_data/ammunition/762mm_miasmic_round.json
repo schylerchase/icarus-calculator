@@ -2,7 +2,7 @@
   "name": "7.62mm Miasmic Round",
   "url": "https://icarus.fandom.com/wiki/7.62mm_Miasmic_Round",
   "description": "7.62mm Miasmic Round, a Miasmic variant of ammunition used byRifles.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,

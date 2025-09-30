@@ -2,7 +2,7 @@
   "name": "Caveworm Vestige",
   "url": "https://icarus.fandom.com/wiki/Caveworm_Vestige",
   "description": "Caveworm Vestiges are used at theTrophy Benchto create aCaveworm Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

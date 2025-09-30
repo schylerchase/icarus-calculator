@@ -2,7 +2,7 @@
   "name": "Crocodile Vestige",
   "url": "https://icarus.fandom.com/wiki/Crocodile_Vestige",
   "description": "Crocodile Vestiges are used at theTrophy Benchto create aCrocodile Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
