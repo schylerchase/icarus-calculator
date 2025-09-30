@@ -1019,6 +1019,13 @@
             return matchesSearch && matchesCategory && matchesTier;
         });
 
+        // Pre-calculate availability for filtered items to avoid repeated checks during render
+        const itemsWithAvailability = filteredItems.map(([item, recipe]) => ({
+            item,
+            recipe,
+            isAvailable: checkItemAvailability(item, currentMap)
+        }));
+
         const checkItemAvailability = (item, map, debugPath = []) => {
             const recipe = recipes[item];
             if (!recipe) return false;
@@ -1272,8 +1279,8 @@
 
         const renderTabContent = () => {
             if (activeTab === 'calculator') {
-                const availableCount = filteredItems.filter(([item]) => checkItemAvailability(item, currentMap)).length;
-                const totalCount = filteredItems.length;
+                const availableCount = itemsWithAvailability.filter(item => item.isAvailable).length;
+                const totalCount = itemsWithAvailability.length;
 
                 return React.createElement('div', { key: 'calculator-content' }, [
                     React.createElement('div', { className: 'search-controls', key: 'controls' }, [
@@ -1331,18 +1338,27 @@
                         }
                     }, `Showing: ${availableCount} available / ${totalCount} total items on ${currentMap}`),
                     React.createElement('div', { className: 'items-grid', key: 'items' },
-                        filteredItems.map(([item, recipe]) =>
-                            React.createElement(ItemCard, {
-                                key: item,
-                                item,
-                                recipe,
-                                isSelected: !!shoppingCart[item],
-                                isAvailable: checkItemAvailability(item, currentMap),
-                                onClick: addToCart,
-                                onQuantityChange: handleQuantityChange,
-                                currentQuantity: itemQuantities[item] || 0
-                            })
-                        )
+                        itemsWithAvailability.length === 0 ? 
+                            React.createElement('div', {
+                                style: {
+                                    padding: '40px',
+                                    textAlign: 'center',
+                                    color: '#b0b3b8',
+                                    gridColumn: '1 / -1'
+                                }
+                            }, 'No items match your filters') :
+                            itemsWithAvailability.map(({ item, recipe, isAvailable }) =>
+                                React.createElement(ItemCard, {
+                                    key: item,
+                                    item,
+                                    recipe,
+                                    isSelected: !!shoppingCart[item],
+                                    isAvailable: isAvailable,
+                                    onClick: addToCart,
+                                    onQuantityChange: handleQuantityChange,
+                                    currentQuantity: itemQuantities[item] || 0
+                                })
+                            )
                     ),
                     renderResults()
                 ]);
