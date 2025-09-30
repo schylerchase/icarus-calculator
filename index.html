@@ -210,6 +210,42 @@
             color: white;
         }
 
+        .map-selector {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .map-label {
+            color: #b0b3b8;
+            font-weight: 600;
+            margin-right: 10px;
+        }
+
+        .map-btn {
+            padding: 10px 16px;
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 8px;
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .map-btn.active {
+            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%);
+            border-color: #ff6b6b;
+            transform: translateY(-1px);
+        }
+
+        .map-btn:hover:not(.active) {
+            background: rgba(255,255,255,0.2);
+        }
+
         .items-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -287,7 +323,6 @@
             font-size: 11px;
             color: #b0b3b8;
             margin-bottom: 8px;
-            text-transform: capitalize;
         }
 
         .availability-indicator {
@@ -395,7 +430,6 @@
         .cart-item-details {
             font-size: 11px;
             color: #b0b3b8;
-            text-transform: capitalize;
         }
 
         .cart-item-quantity {
@@ -561,103 +595,6 @@
             margin-bottom: 0;
         }
 
-        .quantity-controls {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            margin-top: 10px;
-            padding: 8px;
-            background: rgba(255,255,255,0.05);
-            border-radius: 8px;
-        }
-
-        .quantity-btn {
-            background: #ff6b6b;
-            color: white;
-            border: none;
-            border-radius: 6px;
-            width: 24px;
-            height: 24px;
-            cursor: pointer;
-            font-size: 14px;
-            font-weight: bold;
-            transition: all 0.2s ease;
-        }
-
-        .quantity-btn.increase {
-            background: #4ecdc4;
-        }
-
-        .quantity-btn:hover {
-            transform: scale(1.1);
-        }
-
-        .quantity-display {
-            min-width: 20px;
-            text-align: center;
-            font-size: 14px;
-            font-weight: bold;
-            color: #00d4ff;
-        }
-
-        .add-btn {
-            background: #00d4ff;
-            color: white;
-            border: none;
-            border-radius: 6px;
-            padding: 4px 8px;
-            cursor: pointer;
-            font-size: 11px;
-            font-weight: bold;
-            margin-left: 4px;
-            transition: all 0.2s ease;
-        }
-
-        .add-btn:disabled {
-            background: #666;
-            cursor: not-allowed;
-        }
-
-        .add-btn:hover:not(:disabled) {
-            transform: scale(1.05);
-        }
-
-        .map-selector {
-            display: flex;
-            gap: 10px;
-            margin-bottom: 20px;
-            flex-wrap: wrap;
-            align-items: center;
-        }
-
-        .map-label {
-            color: #b0b3b8;
-            font-weight: 600;
-            margin-right: 10px;
-        }
-
-        .map-btn {
-            padding: 10px 16px;
-            background: rgba(255,255,255,0.1);
-            border: 1px solid rgba(255,255,255,0.2);
-            border-radius: 8px;
-            color: white;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            font-size: 12px;
-            font-weight: 600;
-        }
-
-        .map-btn.active {
-            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%);
-            border-color: #ff6b6b;
-            transform: translateY(-1px);
-        }
-
-        .map-btn:hover:not(.active) {
-            background: rgba(255,255,255,0.2);
-        }
-
         @media (max-width: 1024px) {
             .main-content {
                 grid-template-columns: 1fr;
@@ -682,27 +619,87 @@
     <div id="root">
         <div class="loading-screen">
             <div class="loading-spinner"></div>
-            <div class="loading-text">Loading ICARUS Complete...</div>
-            <div class="loading-details">Fetching recipe database...</div>
+            <div class="loading-text">🚀 Loading ICARUS Complete...</div>
+            <div class="loading-details">Initializing calculator...</div>
         </div>
     </div>
 
     <script type="text/babel">
-        const { useState, useEffect } = React;
+        const { useState, useEffect, useRef } = React;
 
-        // Updated category files for new structure
-        const CATEGORY_FILES = [
-            'weapons_melee', 'weapons_ranged', 'ammunition', 'armor_clothing',
-            'tools', 'building_structures', 'building_furniture',
-            'consumables_food', 'consumables_medicine',
-            'resources_raw', 'resources_processed', 'deployables',
-            'orbital_items', 'misc'
+        // List of JSON files to attempt loading from icarus_data directory
+        const JSON_FILES = [
+            'ammunition.json',
+            'armor.json',
+            'building.json',
+            'consumables.json',
+            'cooking.json',
+            'decoration.json',
+            'deployables.json',
+            'electricity_sources.json',
+            'farming.json',
+            'fuel_sources.json',
+            'furniture.json',
+            'inventory.json',
+            'light_sources.json',
+            'materials.json',
+            'medicine.json',
+            'raw_materials.json',
+            'specialized_equipment.json',
+            'storage.json',
+            'tools.json',
+            'water_sources.json',
+            'weapons.json'
         ];
 
+        // Map resource availability - COMPREHENSIVE MAPPING
         const MAP_RESOURCES = {
-            "Olympus": ["Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water", "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt", "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Aluminium Ore", "Platinum Ore", "Titanium Ore", "Exotics", "Exotic Matter", "Frozen Ore"],
-            "Styx": ["Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water", "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt", "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Aluminium Ore", "Platinum Ore", "Titanium Ore", "Frozen Ore", "Exotics", "Exotic Matter", "Caveworm Chitin"],
-            "Prometheus": ["Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water", "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt", "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Aluminium Ore", "Platinum Ore", "Titanium Ore", "Exotics", "Exotic Matter", "Obsidian", "Shaped Obsidian", "Caveworm Chitin"]
+            "Olympus": [
+                "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
+                "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
+                "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore",
+                "Exotics", "Exotic Matter", "Frozen Ore",
+                "Iron Ingot", "Steel Ingot", "Steel Bloom", "Aluminum Ingot", "Copper Ingot", 
+                "Platinum Ingot", "Titanium Ingot", "Refined Gold", "Steel Screw", "Copper Wire",
+                "Gold Wire", "Electronics", "Carbon Fiber", "Composites", "Epoxy", "Organic Resin",
+                "Concrete Mix", "Glass", "Rope", "Wool", "Charcoal", "Biofuel Can", "Iron Nail", "Copper Nail",
+                "Brown Bear Fur", "Brown Bear Leather", "Brown Bear Bone",
+                "Wolf Fur", "Wolf Leather", "Wolf Bone",
+                "Deer Fur", "Deer Leather", "Deer Bone",
+                "Mammoth Tusk", "Caveworm Chitin",
+                "Pumpkin", "Corn", "Wheat", "Carrot", "Potato", "Tomato", "Beans", "Berry", "Apple",
+                "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
+            ],
+            "Styx": [
+                "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
+                "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
+                "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore", "Frozen Ore",
+                "Exotics", "Exotic Matter", "Caveworm Chitin",
+                "Iron Ingot", "Steel Ingot", "Steel Bloom", "Aluminum Ingot", "Copper Ingot", 
+                "Platinum Ingot", "Titanium Ingot", "Refined Gold", "Steel Screw", "Copper Wire",
+                "Gold Wire", "Electronics", "Carbon Fiber", "Composites", "Epoxy", "Organic Resin",
+                "Concrete Mix", "Glass", "Rope", "Wool", "Charcoal", "Biofuel Can", "Iron Nail", "Copper Nail",
+                "Brown Bear Fur", "Brown Bear Leather", "Brown Bear Bone",
+                "Wolf Fur", "Wolf Leather", "Wolf Bone",
+                "Deer Fur", "Deer Leather", "Deer Bone",
+                "Pumpkin", "Corn", "Wheat", "Carrot", "Potato", "Tomato", "Beans", "Berry", "Apple",
+                "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
+            ],
+            "Prometheus": [
+                "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
+                "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
+                "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore",
+                "Exotics", "Exotic Matter", "Obsidian", "Shaped Obsidian", "Caveworm Chitin",
+                "Iron Ingot", "Steel Ingot", "Steel Bloom", "Aluminum Ingot", "Copper Ingot", 
+                "Platinum Ingot", "Titanium Ingot", "Refined Gold", "Steel Screw", "Copper Wire",
+                "Gold Wire", "Electronics", "Carbon Fiber", "Composites", "Epoxy", "Organic Resin",
+                "Concrete Mix", "Glass", "Rope", "Wool", "Charcoal", "Biofuel Can", "Iron Nail", "Copper Nail",
+                "Brown Bear Fur", "Brown Bear Leather", "Brown Bear Bone",
+                "Wolf Fur", "Wolf Leather", "Wolf Bone",
+                "Deer Fur", "Deer Leather", "Deer Bone",
+                "Pumpkin", "Corn", "Wheat", "Carrot", "Potato", "Tomato", "Beans", "Berry", "Apple",
+                "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
+            ]
         };
 
         function ItemCard({ item, recipe, isSelected, isAvailable, onClick, onQuantityChange, currentQuantity }) {
@@ -718,30 +715,43 @@
             };
 
             const getIcon = (category) => {
-                const cat = (category || '').toLowerCase();
-                if (cat.includes("tool")) return "🔧";
-                if (cat.includes("weapon")) return "⚔️";
-                if (cat.includes("armor")) return "🛡️";
-                if (cat.includes("deployable")) return "🏭";
-                if (cat.includes("building")) return "🏗️";
-                if (cat.includes("furniture")) return "🪑";
-                if (cat.includes("consumable") || cat.includes("food") || cat.includes("medicine")) return "🧪";
-                if (cat.includes("resource")) return "🔩";
-                if (cat.includes("ammunition")) return "🏹";
-                if (cat.includes("orbital")) return "🛸";
-                return "📋";
+                switch(category) {
+                    case "Tools": return "🔧";
+                    case "Weapons": return "⚔️";
+                    case "Armor": return "🛡️";
+                    case "Deployables": return "🏭";
+                    case "Specialized Equipment": return "⚙️";
+                    case "Building": return "🏗️";
+                    case "Cooking": return "🍳";
+                    case "Storage": return "📦";
+                    case "Furniture": return "🪑";
+                    case "Materials": return "🔩";
+                    case "Raw Materials": return "⛏️";
+                    case "Water Sources": return "💧";
+                    case "Electricity Sources": return "⚡";
+                    case "Fuel Sources": return "⛽";
+                    case "Light Sources": return "💡";
+                    case "Farming": return "🌱";
+                    case "Consumables": return "🧪";
+                    case "Medicine": return "💊";
+                    case "Ammunition": return "🏹";
+                    case "Inventory": return "🎒";
+                    case "Decoration": return "🎨";
+                    default: return "📋";
+                }
             };
 
             return React.createElement('div', {
-                className: `item-card ${isSelected ? 'selected' : ''} ${!isAvailable ? 'unavailable' : ''}`
+                className: `item-card ${isSelected ? 'selected' : ''} ${!isAvailable ? 'unavailable' : ''}`,
+                'data-item': item
             }, [
                 React.createElement('div', { className: 'item-header', key: 'header' }, [
                     React.createElement('div', { key: 'info' }, [
                         React.createElement('div', { className: 'item-name', key: 'name' }, 
-                            `${getIcon(item.category)} ${item.name}`
+                            `${getIcon(recipe.category)} ${item}`
                         ),
                         React.createElement('div', { className: 'item-category', key: 'category' }, 
-                            item.category || 'unknown'
+                            recipe.category
                         )
                     ]),
                     React.createElement('div', { className: 'availability-indicator', key: 'availability' }, 
@@ -752,76 +762,119 @@
                     React.createElement('span', { 
                         className: 'tier-badge', 
                         key: 'tier',
-                        style: { background: getTierColor(item.tier || 0) }
-                    }, `T${item.tier || 0}`),
-                    React.createElement('span', { className: 'crafted-location', key: 'crafted_at' }, 
-                        item.crafted_at || 'unknown'
+                        style: { background: getTierColor(recipe.tier) }
+                    }, `T${recipe.tier}`),
+                    React.createElement('span', { className: 'crafted-location', key: 'location' }, 
+                        recipe.crafted_at
                     )
                 ]),
-                React.createElement('div', { className: 'quantity-controls', key: 'quantity-controls' }, [
+                React.createElement('div', { 
+                    className: 'quantity-controls', 
+                    key: 'quantity-controls',
+                    style: {
+                        display: 'flex',
+                        alignItems: 'center',
+                        gap: '8px',
+                        marginTop: '10px',
+                        padding: '8px',
+                        background: 'rgba(255,255,255,0.05)',
+                        borderRadius: '8px'
+                    }
+                }, [
                     React.createElement('button', {
                         key: 'decrease',
-                        className: 'quantity-btn',
                         onClick: (e) => {
                             e.stopPropagation();
                             if (currentQuantity > 0) {
-                                onQuantityChange(item.name, currentQuantity - 1);
+                                onQuantityChange(item, currentQuantity - 1);
                             }
+                        },
+                        style: {
+                            background: '#ff6b6b',
+                            color: 'white',
+                            border: 'none',
+                            borderRadius: '6px',
+                            width: '24px',
+                            height: '24px',
+                            cursor: 'pointer',
+                            fontSize: '14px',
+                            fontWeight: 'bold'
                         }
                     }, '-'),
                     React.createElement('span', {
                         key: 'quantity-display',
-                        className: 'quantity-display'
+                        style: {
+                            minWidth: '20px',
+                            textAlign: 'center',
+                            fontSize: '14px',
+                            fontWeight: 'bold',
+                            color: '#00d4ff'
+                        }
                     }, currentQuantity || 0),
                     React.createElement('button', {
                         key: 'increase',
-                        className: 'quantity-btn increase',
                         onClick: (e) => {
                             e.stopPropagation();
-                            onQuantityChange(item.name, (currentQuantity || 0) + 1);
+                            onQuantityChange(item, (currentQuantity || 0) + 1);
+                        },
+                        style: {
+                            background: '#4ecdc4',
+                            color: 'white',
+                            border: 'none',
+                            borderRadius: '6px',
+                            width: '24px',
+                            height: '24px',
+                            cursor: 'pointer',
+                            fontSize: '14px',
+                            fontWeight: 'bold'
                         }
                     }, '+'),
                     React.createElement('button', {
                         key: 'add-to-cart',
-                        className: 'add-btn',
                         onClick: (e) => {
                             e.stopPropagation();
                             if (currentQuantity > 0) {
                                 onClick(item);
                             }
                         },
-                        disabled: !currentQuantity || currentQuantity === 0
+                        disabled: !currentQuantity || currentQuantity === 0,
+                        style: {
+                            background: currentQuantity > 0 ? '#00d4ff' : '#666',
+                            color: 'white',
+                            border: 'none',
+                            borderRadius: '6px',
+                            padding: '4px 8px',
+                            cursor: currentQuantity > 0 ? 'pointer' : 'not-allowed',
+                            fontSize: '11px',
+                            fontWeight: 'bold',
+                            marginLeft: '4px'
+                        }
                     }, 'Add')
                 ])
             ]);
         }
 
-        function CartItem({ item, details, onRemove }) {
-            const crafted_at = item.crafted_at || "Unknown";
-            const tier = item.tier || 0;
-            
-            return React.createElement('div', { className: 'cart-item' }, [
+        function CartItem({ item, details, onRemove, recipes }) {
+            return React.createElement('div', { className: 'cart-item', 'data-item': item }, [
                 React.createElement('div', { className: 'cart-item-info', key: 'info' }, [
-                    React.createElement('div', { className: 'cart-item-name', key: 'name' }, item.name),
+                    React.createElement('div', { className: 'cart-item-name', key: 'name' }, item),
                     React.createElement('div', { className: 'cart-item-details', key: 'details' }, 
-                        `${crafted_at} • T${tier}`
+                        `${recipes[item]?.crafted_at || "Unknown"} • T${recipes[item]?.tier || 0}`
                     )
                 ]),
                 React.createElement('div', { className: 'cart-item-quantity', key: 'quantity' }, `${details.quantity}x`),
                 React.createElement('button', {
                     key: 'remove',
                     className: 'btn remove',
-                    onClick: () => onRemove(item.name)
+                    onClick: () => onRemove(item)
                 }, "✕")
             ]);
         }
 
         function CraftingCalculator() {
-            const successfulPath = './icarus_data/';
-
-            const [allItems, setAllItems] = useState([]);
+            const [recipes, setRecipes] = useState({});
             const [loading, setLoading] = useState(true);
-            const [loadingText, setLoadingText] = useState('Fetching recipe database...');
+            const [loadingText, setLoadingText] = useState('Initializing calculator...');
             const [error, setError] = useState(null);
             const [activeTab, setActiveTab] = useState('calculator');
             const [currentMap, setCurrentMap] = useState('Olympus');
@@ -830,188 +883,434 @@
             const [tierFilter, setTierFilter] = useState('All');
             const [shoppingCart, setShoppingCart] = useState({});
             const [results, setResults] = useState(null);
+            const [checkedItems, setCheckedItems] = useState({});
             const [itemQuantities, setItemQuantities] = useState({});
+            const [isCalculating, setIsCalculating] = useState(false);
+            const resultsRef = useRef(null);
 
-            // Auto-calculate whenever items, cart, or quantities change
+            // Load cart from localStorage on mount
             useEffect(() => {
-                if (!allItems || allItems.length === 0) return;
-                if (!shoppingCart || Object.keys(shoppingCart).length === 0) return;
+                try {
+                    const savedCart = localStorage.getItem('icarusCalculatorCart');
+                    if (savedCart) {
+                        const parsed = JSON.parse(savedCart);
+                        setShoppingCart(parsed);
+                        console.log('📦 Loaded cart from localStorage:', parsed);
+                    }
+                } catch (err) {
+                    console.warn('Failed to load cart from localStorage:', err);
+                }
+            }, []);
 
-                const results = performCalculation(allItems, shoppingCart, itemQuantities);
-                setResults(results);
-            }, [allItems, shoppingCart, itemQuantities]);
+            // Save cart to localStorage whenever it changes
+            useEffect(() => {
+                try {
+                    if (Object.keys(shoppingCart).length > 0) {
+                        localStorage.setItem('icarusCalculatorCart', JSON.stringify(shoppingCart));
+                        console.log('💾 Saved cart to localStorage');
+                    } else {
+                        localStorage.removeItem('icarusCalculatorCart');
+                    }
+                } catch (err) {
+                    console.warn('Failed to save cart to localStorage:', err);
+                }
+            }, [shoppingCart]);
 
+            useEffect(() => {
+                loadRecipes();
+            }, []);
+
+            // Scroll to results when they appear
+            useEffect(() => {
+                if (results && results.type === 'hierarchical' && resultsRef.current) {
+                    setTimeout(() => {
+                        resultsRef.current.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                    }, 100);
+                }
+            }, [results]);
 
             const loadRecipes = async () => {
                 try {
                     setLoading(true);
                     setError(null);
-                    setLoadingText('Fetching recipe database...');
-
-                    const successfulPath = './icarus_data/'; // adjust if needed
-
-                    // Load manifest
                     setLoadingText('Loading manifest...');
-                    const manifestRes = await fetch(`${successfulPath}manifest.json`);
-                    if (!manifestRes.ok) throw new Error(`Failed to load manifest.json: ${manifestRes.status}`);
-                    let files = await manifestRes.json();
-
-                    // skip combined/summary files if present
-                    files = files.filter(f => f && !f.startsWith('_') && f !== 'all_items.json');
-
-                    setLoadingText('Loading all items...');
-                    const allItemsRaw = [];
-
-                    // Fetch all JSON files in parallel
-                    await Promise.all(files.map(async (file) => {
+                    
+                    const allRecipes = {};
+                    let loadedCount = 0;
+                    const errors = [];
+                    
+                    // Try different path variations
+                    const pathVariations = [
+                        'icarus_data/',
+                        './icarus_data/',
+                        '../icarus_data/',
+                        '/icarus_data/'
+                    ];
+                    
+                    let successfulPath = null;
+                    let manifestData = null;
+                    
+                    // Cache-busting parameter to force fresh data
+                    const cacheBuster = `?v=${Date.now()}`;
+                    
+                    // Try to load manifest.json to find the correct path
+                    for (const basePath of pathVariations) {
                         try {
-                            const res = await fetch(`${successfulPath}${file}`);
-                            if (!res.ok) {
-                                console.warn(`Skipped ${file}: ${res.status}`);
-                                return;
+                            setLoadingText(`Checking for manifest at: ${basePath}...`);
+                            const manifestResponse = await fetch(`${basePath}manifest.json${cacheBuster}`);
+                            if (manifestResponse.ok) {
+                                manifestData = await manifestResponse.json();
+                                successfulPath = basePath;
+                                setLoadingText(`✅ Found manifest at: ${basePath}`);
+                                console.log(`Success! Using path: ${basePath}`, manifestData);
+                                break;
                             }
-                            const data = await res.json();
+                        } catch (e) {
+                            console.log(`Path ${basePath} failed:`, e.message);
+                        }
+                    }
+                    
+                    if (!successfulPath || !manifestData) {
+                        throw new Error(`Cannot find manifest.json. 
 
-                            if (Array.isArray(data.items)) {
-                                data.items.forEach(i => allItemsRaw.push({ ...i, __sourceFile: file }));
+Tried these paths:
+${pathVariations.map(p => `- ${p}manifest.json`).join('\n')}
+
+Please ensure:
+1. The 'icarus_data' folder exists in the same directory as index.html
+2. The 'icarus_data' folder contains manifest.json
+3. You're serving via HTTP server (not file://)
+
+Current location: ${window.location.href}
+Protocol: ${window.location.protocol}`);
+                    }
+                    
+                    // Get list of files from manifest
+                    let filesToLoad = [];
+                    if (manifestData.files && Array.isArray(manifestData.files)) {
+                        filesToLoad = manifestData.files;
+                    } else if (manifestData.recipes && Array.isArray(manifestData.recipes)) {
+                        filesToLoad = manifestData.recipes;
+                    } else if (Array.isArray(manifestData)) {
+                        filesToLoad = manifestData;
+                    } else {
+                        // Fallback to hardcoded list
+                        filesToLoad = JSON_FILES;
+                    }
+                    
+                    console.log(`Loading ${filesToLoad.length} files from manifest:`, filesToLoad);
+                    
+                    // Load all JSON files using the successful path
+                    for (const filename of filesToLoad) {
+                        try {
+                            setLoadingText(`📦 Loading ${filename}... (${loadedCount + 1}/${filesToLoad.length})`);
+                            
+                            const response = await fetch(`${successfulPath}${filename}${cacheBuster}`);
+                            if (!response.ok) {
+                                errors.push(`${filename}: HTTP ${response.status}`);
+                                console.warn(`⚠️ Failed to load ${filename}: ${response.status}`);
+                                continue;
+                            }
+                            
+                            const data = await response.json();
+                            
+                            // Function to process a single item
+                            const processItem = (item) => {
+                                if (!item || !item.name) return;
+                                
+                                // Convert ingredients format
+                                const ingredients = {};
+                                if (item.ingredients && typeof item.ingredients === 'object') {
+                                    Object.entries(item.ingredients).forEach(([key, value]) => {
+                                        if (key !== 'Max' && typeof value === 'number') {
+                                            ingredients[key] = value;
+                                        }
+                                    });
+                                }
+                                
+                                allRecipes[item.name] = {
+                                    ingredients: ingredients,
+                                    crafted_at: item.crafted_at || 'Unknown',
+                                    category: item.category || 'Unknown',
+                                    tier: item.tier || 0,
+                                    map_exclusive: item.map_exclusive || null
+                                };
+                            };
+                            
+                            // Handle different JSON formats
+                            if (data.items && Array.isArray(data.items)) {
+                                // Format: { "items": [...] }
+                                data.items.forEach(processItem);
+                            } else if (data.name) {
+                                // Format: Single item object { "name": "...", "ingredients": {...}, ... }
+                                processItem(data);
                             } else if (Array.isArray(data)) {
-                                data.forEach(i => allItemsRaw.push({ ...i, __sourceFile: file }));
-                            } else if (data && typeof data === 'object') {
-                                allItemsRaw.push({ ...data, __sourceFile: file });
-                            } else {
-                                console.warn(`${file} has unexpected format`, data);
+                                // Format: Array of items [...]
+                                data.forEach(processItem);
                             }
-                        } catch (err) {
-                            console.warn(`Could not load ${file}:`, err.message);
+                            
+                            console.log(`✅ Loaded ${filename}`)
+                            
+                            loadedCount++;
+                        } catch (fileError) {
+                            errors.push(`${filename}: ${fileError.message}`);
+                            console.warn(`⚠️ Error loading ${filename}:`, fileError);
                         }
-                    }));
+                    }
+                    
+                    setLoadingText(`✅ Processing ${Object.keys(allRecipes).length} recipes...`);
+                    
+                    const successfulFiles = loadedCount;
+                    const totalFiles = filesToLoad.length;
+                    
+                    if (Object.keys(allRecipes).length === 0) {
+                        throw new Error(`No recipes could be loaded. 
 
-                    // Deduplicate & merge
-                    const itemMap = new Map();
+Files attempted: ${filesToLoad.length}
+Successfully loaded: ${loadedCount}
 
-                    const normalizeCrafted = raw => {
-                        const s = (typeof raw === 'string' ? raw.trim() : raw) || '';
-                        return s && s.toLowerCase() !== 'unknown' ? s : undefined;
-                    };
+Errors:
+${errors.slice(0, 5).join('\n')}
+${errors.length > 5 ? `\n...and ${errors.length - 5} more errors` : ''}
 
-                    allItemsRaw.forEach(item => {
-                        const key = (item.name && String(item.name).trim()) || (item.url && String(item.url).trim());
-                        if (!key) return;
-
-                        const candidate = { ...item };
-                        candidate.crafted_at = normalizeCrafted(candidate.crafted_at ?? candidate.craftedAt);
-
-                        if (itemMap.has(key)) {
-                            const existing = itemMap.get(key);
-                            if ((!existing.crafted_at || existing.crafted_at === undefined) && candidate.crafted_at) {
-                                existing.crafted_at = candidate.crafted_at;
-                                existing.__craftedFrom = item.__sourceFile;
-                            }
-                            if (!existing.category && candidate.category) existing.category = candidate.category;
-                            if ((!existing.tier || existing.tier === 0) && candidate.tier) existing.tier = candidate.tier;
-                        } else {
-                            if (candidate.crafted_at) candidate.__craftedFrom = item.__sourceFile;
-                            itemMap.set(key, candidate);
-                        }
-                    });
-
-                    const uniqueItems = Array.from(itemMap.values());
-                    uniqueItems.forEach(it => {
-                        if (!it.crafted_at) it.crafted_at = undefined;
-                    });
-
-                    console.log(`✅ Loaded ${uniqueItems.length} unique items (merged from ${allItemsRaw.length} raw entries).`);
-                    console.log('Sample items with crafted source:', uniqueItems
-                        .filter(i => i.__craftedFrom)
-                        .slice(0, 10)
-                        .map(i => ({ name: i.name, crafted_at: i.crafted_at, from: i.__craftedFrom }))
-                    );
-
-                    setAllItems(uniqueItems);
+This indicates JSON files are missing or invalid.
+Please check the 'icarus_data' folder exists and contains valid JSON files.`);
+                    }
+                    
+                    // Success!
+                    setRecipes(allRecipes);
+                    setLoading(false);
+                    
+                    // Show a warning if some files are missing
+                    if (successfulFiles < totalFiles) {
+                        setTimeout(() => {
+                            setResults({
+                                type: 'success',
+                                message: `⚠️ Loaded ${Object.keys(allRecipes).length} recipes from ${successfulFiles}/${totalFiles} files. Some files missing but calculator is functional!`
+                            });
+                            setTimeout(() => setResults(null), 5000);
+                        }, 500);
+                    }
+                    
+                    console.log(`🎉 Successfully loaded ${Object.keys(allRecipes).length} recipes from ${loadedCount}/${totalFiles} files`);
+                    
                 } catch (err) {
-                    console.error('Error loading recipes:', err);
+                    console.error('❌ Error loading recipes:', err);
                     setError({
                         title: 'Failed to Load Recipe Database',
-                        message: err.message
+                        message: err.message,
+                        details: err.stack
                     });
-                } finally {
                     setLoading(false);
-                    setLoadingText('');
                 }
             };
 
+            const categories = [...new Set(Object.values(recipes).map(r => r.category))].sort();
+            const tiers = [...new Set(Object.values(recipes).map(r => r.tier))].sort();
 
-
-
-
-
-            const categories = [...new Set(allItems.map(item => item.category).filter(Boolean))].sort();
-            const tiers = [...new Set(allItems.map(item => item.tier).filter(t => t !== undefined))].sort();
-
-            const handleQuantityChange = (itemName, quantity) => {
-                setItemQuantities(prev => ({
+            const toggleChecked = (itemKey) => {
+                setCheckedItems(prev => ({
                     ...prev,
-                    [itemName]: Math.max(0, quantity)
+                    [itemKey]: !prev[itemKey]
                 }));
             };
 
-            const checkItemAvailability = (item, map) => {
-                // Check for Prometheus-exclusive items (Obsidian-based)
-                const ingredients = item.ingredients || {};
-                const hasObsidian = Object.keys(ingredients).some(mat => 
-                    mat.toLowerCase().includes('obsidian')
-                );
-                
-                if (hasObsidian && map !== 'Prometheus') {
-                    return false;
-                }
-                
-                // Everything else is available
-                return true;
+            const clearAllChecks = () => {
+                setCheckedItems({});
             };
 
-            const filteredItems = allItems.filter(item => {
-                const matchesSearch = item.name.toLowerCase().includes(searchTerm.toLowerCase());
-                const matchesCategory = categoryFilter === 'All' || item.category === categoryFilter;
-                const matchesTier = tierFilter === 'All' || (item.tier || 0).toString() === tierFilter;
+            const handleQuantityChange = (item, quantity) => {
+                setItemQuantities(prev => ({
+                    ...prev,
+                    [item]: Math.max(0, quantity)
+                }));
+            };
+
+            const getCompletionStats = () => {
+                if (!results || results.type !== 'hierarchical') return null;
+                
+                const allItems = [];
+                const addToList = (tree, prefix = '') => {
+                    Object.entries(tree).forEach(([item, data]) => {
+                        const key = `${prefix}${item}`;
+                        allItems.push(key);
+                        if (data.ingredients) {
+                            Object.keys(data.ingredients).forEach(ingredient => {
+                                const ingredientKey = `${key}-${ingredient}`;
+                                allItems.push(ingredientKey);
+                            });
+                        }
+                    });
+                };
+                
+                addToList(results.craftingTree);
+                Object.keys(results.rawMaterials).forEach(material => {
+                    allItems.push(`raw-${material}`);
+                });
+                
+                const completed = allItems.filter(item => checkedItems[item]).length;
+                const total = allItems.length;
+                
+                return { completed, total, percentage: total > 0 ? Math.round((completed / total) * 100) : 0 };
+            };
+
+            const filteredItems = Object.entries(recipes).filter(([item, recipe]) => {
+                const matchesSearch = item.toLowerCase().includes(searchTerm.toLowerCase());
+                const matchesCategory = categoryFilter === 'All' || recipe.category === categoryFilter;
+                const matchesTier = tierFilter === 'All' || recipe.tier.toString() === tierFilter;
                 return matchesSearch && matchesCategory && matchesTier;
             });
 
-            const itemsWithAvailability = filteredItems.map(item => ({
-                item,
-                recipe: item,
-                isAvailable: checkItemAvailability(item, currentMap)
-            }));
+            const checkItemAvailability = (item, map, debugPath = []) => {
+                const recipe = recipes[item];
+                if (!recipe) {
+                    return false;
+                }
+                
+                if (debugPath.includes(item)) {
+                    return false;
+                }
+                
+                // Workshop and Orbital Exchange items are ALWAYS available on any map
+                const purchasableLocations = [
+                    'Workshop',
+                    'Orbital Exchange',
+                    'Space Station Workshop',
+                    'Orbital Workshop',
+                    'Workshop Purchased',
+                    'Purchased'
+                ];
+                
+                if (purchasableLocations.some(loc => 
+                    recipe.crafted_at && recipe.crafted_at.toLowerCase().includes(loc.toLowerCase())
+                )) {
+                    return true;
+                }
+                
+                if (recipe.map_exclusive && recipe.map_exclusive !== map) {
+                    return false;
+                }
+                
+                const requiredMaterials = Object.keys(recipe.ingredients || {});
+                
+                if (requiredMaterials.length === 0) {
+                    const isAvailable = MAP_RESOURCES[map]?.includes(item) || 
+                           recipe.crafted_at === 'Character' ||
+                           recipe.crafted_at === 'Character Crafting' ||
+                           recipe.category === 'Raw Materials' ||
+                           recipe.category === 'Consumables' ||
+                           recipe.tier <= 1;
+                    
+                    return isAvailable;
+                }
+                
+                for (const material of requiredMaterials) {
+                    const alwaysAvailableMaterials = [
+                        'Fiber', 'Wood', 'Stone', 'Stick', 'Sticks', 'Leather', 'Fur', 'Bone', 'Clay', 'Wool',
+                        'Iron Ore', 'Copper Ore', 'Coal', 'Gold Ore', 'Aluminum Ore', 'Platinum Ore', 'Titanium Ore',
+                        'Iron Ingot', 'Steel Ingot', 'Copper Ingot', 'Steel Bloom', 'Oxite', 'Sulfur', 'Tree Sap', 'Cold Steel Ingot',
+                        'Brown Bear Leather', 'Brown Bear Fur', 'Brown Bear Bone',
+                        'Wolf Leather', 'Wolf Fur', 'Wolf Bone',
+                        'Deer Leather', 'Deer Fur', 'Deer Bone',
+                        'Rope', 'Glass', 'Charcoal', 'Carbon Paste', 'Iron Nail', 'Copper Nail', 'Steel Screw',
+                        'Water', 'Ice', 'Salt',
+                        'Pumpkin', 'Corn', 'Wheat', 'Carrot', 'Potato', 'Tomato', 'Beans', 'Berry', 'Apple',
+                        'Reed Flower', 'Reed', 'Flower', 'Mushroom', 'Fruit', 'Vegetable', 'Grain', 'Seed',
+                        'Nail', 'Screw', 'Wire', 'Paste', 'Mix', 'Bloom', 'Bar', 'Ingot',
+                        'Thatch', 'Plank', 'Board', 'Beam'
+                    ];
+                    
+                    // Normalize material name for comparison (remove hyphens, extra spaces, etc.)
+                    const normalizeName = (name) => {
+                        return name.toLowerCase()
+                            .replace(/-/g, ' ')
+                            .replace(/\s+/g, ' ')
+                            .trim();
+                    };
+                    
+                    const normalizedMaterial = normalizeName(material);
+                    
+                    const materialVariations = [
+                        material,
+                        material.replace(/s$/, ''),
+                        material + 's',
+                        material.replace('Sticks', 'Stick'),
+                        material.replace('Stick', 'Sticks'),
+                        material.replace(/-/g, ' '),
+                        material.replace(/ /g, '-'),
+                        material.replace(/-/g, '')
+                    ];
+                    
+                    const isBasicMaterial = materialVariations.some(variation => {
+                        const normalizedVariation = normalizeName(variation);
+                        return alwaysAvailableMaterials.some(avail => 
+                            normalizeName(avail) === normalizedVariation
+                        ) || MAP_RESOURCES[map]?.some(resource => 
+                            normalizeName(resource) === normalizedVariation
+                        );
+                    });
+                    
+                    if (isBasicMaterial) {
+                        continue;
+                    }
+                    
+                    // Also check if this material exists as a craftable item
+                    const materialRecipe = recipes[material];
+                    if (!materialRecipe) {
+                        // Material doesn't exist in recipes, check variations
+                        const foundVariation = materialVariations.find(v => recipes[v]);
+                        if (foundVariation) {
+                            // Found a matching variation, check its availability
+                            const materialAvailable = checkItemAvailability(foundVariation, map, [...debugPath, item]);
+                            if (!materialAvailable) {
+                                return false;
+                            }
+                        } else {
+                            // Material not found anywhere - might be a typo in the JSON
+                            console.warn(`⚠️ Material "${material}" not found for item "${item}"`);
+                            return false;
+                        }
+                    } else {
+                        const materialAvailable = checkItemAvailability(material, map, [...debugPath, item]);
+                        
+                        if (!materialAvailable) {
+                            return false;
+                        }
+                    }
+                }
+                
+                return true;
+            };
 
             const addToCart = (item) => {
-                const quantity = itemQuantities[item.name] || 1;
+                const quantity = itemQuantities[item] || 1;
                 setShoppingCart(prev => ({
                     ...prev,
-                    [item.name]: {
-                        quantity: (prev[item.name]?.quantity || 0) + quantity,
-                        item: item
+                    [item]: {
+                        quantity: (prev[item]?.quantity || 0) + quantity
                     }
                 }));
                 
                 setItemQuantities(prev => ({
                     ...prev,
-                    [item.name]: 0
+                    [item]: 0
                 }));
                 
-                setResults({ type: 'success', message: `${quantity}x ${item.name} added to cart!` });
+                setResults({ type: 'success', message: `${quantity}x ${item} added to cart!` });
                 setTimeout(() => setResults(null), 2000);
             };
 
-            const removeFromCart = (itemName) => {
+            const removeFromCart = (item) => {
                 setShoppingCart(prev => {
                     const newCart = { ...prev };
-                    delete newCart[itemName];
+                    delete newCart[item];
                     return newCart;
                 });
             };
 
             const clearCart = () => {
                 setShoppingCart({});
+                setCheckedItems({});
                 setItemQuantities({});
                 setResults({ type: 'success', message: 'Cart cleared!' });
                 setTimeout(() => setResults(null), 2000);
@@ -1024,103 +1323,70 @@
                     return;
                 }
 
-                const rawMaterials = {};
+                // Don't clear results - just calculate and update
+                setIsCalculating(true);
                 
-                const processItem = (item, quantity) => {
-                    const ingredients = item.ingredients || {};
+                // Small delay to ensure state updates, then calculate
+                requestAnimationFrame(() => {
+                    const craftingTree = {};
+                    const rawMaterials = {};
                     
-                    if (Object.keys(ingredients).length === 0) {
-                        // Raw material
-                        rawMaterials[item.name] = (rawMaterials[item.name] || 0) + quantity;
-                        return;
-                    }
-                    
-                    // Process ingredients
-                    Object.entries(ingredients).forEach(([materialName, amount]) => {
-                        // Find the material in allItems
-                        const materialItem = allItems.find(i => i.name === materialName);
-                        if (materialItem) {
-                            processItem(materialItem, amount * quantity);
-                        } else {
-                            // Material not in database, treat as raw
-                            rawMaterials[materialName] = (rawMaterials[materialName] || 0) + (amount * quantity);
+                    const buildCraftingTree = (item, quantity, path = []) => {
+                        const recipe = recipes[item];
+                        if (!recipe) return;
+                        
+                        if (path.includes(item)) return;
+                        
+                        if (Object.keys(recipe.ingredients).length === 0) {
+                            rawMaterials[item] = (rawMaterials[item] || 0) + quantity;
+                            return;
                         }
-                    });
-                };
-
-                Object.entries(shoppingCart).forEach(([itemName, details]) => {
-                    processItem(details.item, details.quantity);
-                });
-
-                setResults({
-                    type: 'materials',
-                    rawMaterials
-                });
-            };
-
-            const renderResults = () => {
-                if (!results) return null;
-                
-                if (results.type === 'success') {
-                    return React.createElement('div', { className: 'success-banner' }, `✅ ${results.message}`);
-                }
-                
-                if (results.type === 'error') {
-                    return React.createElement('div', { 
-                        style: { 
-                            background: 'rgba(255, 107, 107, 0.2)', 
-                            color: '#ff6b6b', 
-                            padding: '15px', 
-                            borderRadius: '10px', 
-                            marginTop: '15px',
-                            textAlign: 'center',
-                            fontWeight: '600'
-                        } 
-                    }, `❌ ${results.message}`);
-                }
-                
-                if (results.type === 'materials') {
-                    const unavailableRawMaterials = Object.keys(results.rawMaterials).filter(material => 
-                        material.toLowerCase().includes('obsidian') && currentMap !== 'Prometheus'
-                    );
-
-                    return React.createElement('div', { className: 'results-panel' }, [
-                        React.createElement('div', { className: 'results-title', key: 'title' }, '⛏️ Total Raw Materials Summary'),
-                        ...Object.entries(results.rawMaterials).map(([material, amount]) => {
-                            const isAvailable = !(material.toLowerCase().includes('obsidian') && currentMap !== 'Prometheus');
+                        
+                        if (!craftingTree[item]) {
+                            craftingTree[item] = {
+                                totalNeeded: 0,
+                                craftedAt: recipe.crafted_at,
+                                tier: recipe.tier,
+                                category: recipe.category,
+                                ingredients: {}
+                            };
+                        }
+                        
+                        craftingTree[item].totalNeeded += quantity;
+                        
+                        Object.entries(recipe.ingredients).forEach(([material, amount]) => {
+                            const totalAmount = amount * quantity;
                             
-                            return React.createElement('div', { key: material, className: 'resource-item' }, [
-                                React.createElement('span', { className: 'resource-name', key: 'name' }, 
-                                    `${isAvailable ? '✅' : '❌'} ${material}`
-                                ),
-                                React.createElement('span', { className: 'resource-amount', key: 'amount' }, 
-                                    `${amount}x`
-                                )
-                            ]);
-                        }),
-                        unavailableRawMaterials.length > 0 && React.createElement('div', {
-                            key: 'warning',
-                            style: {
-                                marginTop: '15px',
-                                padding: '10px',
-                                background: 'rgba(255, 107, 107, 0.1)',
-                                border: '1px solid rgba(255, 107, 107, 0.3)',
-                                borderRadius: '8px',
-                                fontSize: '12px',
-                                color: '#ff6b6b'
+                            if (!craftingTree[item].ingredients[material]) {
+                                craftingTree[item].ingredients[material] = 0;
                             }
-                        }, `⚠️ ${unavailableRawMaterials.length} materials not available on ${currentMap}`)
-                    ]);
-                }
-                
-                return null;
+                            craftingTree[item].ingredients[material] += totalAmount;
+                            
+                            buildCraftingTree(material, totalAmount, [...path, item]);
+                        });
+                    };
+
+                    Object.entries(shoppingCart).forEach(([item, details]) => {
+                        buildCraftingTree(item, details.quantity);
+                    });
+
+                    // Set results and mark calculation complete
+                    setResults({
+                        type: 'hierarchical',
+                        craftingTree,
+                        rawMaterials,
+                        cartItems: shoppingCart
+                    });
+                    
+                    setIsCalculating(false);
+                });
             };
 
             if (loading) {
                 return React.createElement('div', { className: 'app-container' }, [
                     React.createElement('div', { className: 'app-header', key: 'header' }, [
                         React.createElement('h1', { className: 'app-title', key: 'title' }, "🚀 ICARUS COMPLETE"),
-                        React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator")
+                        React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator with Complete Game Database")
                     ]),
                     React.createElement('div', { className: 'loading-screen', key: 'loading' }, [
                         React.createElement('div', { className: 'loading-spinner', key: 'spinner' }),
@@ -1138,131 +1404,419 @@
                     ]),
                     React.createElement('div', { className: 'error-screen', key: 'error' }, [
                         React.createElement('div', { className: 'error-title', key: 'title' }, `❌ ${error.title}`),
-                        React.createElement('div', { className: 'error-message', key: 'message' }, error.message),
+                        React.createElement('pre', { 
+                            key: 'message',
+                            style: { 
+                                fontSize: '0.9rem', 
+                                color: '#ff6b6b', 
+                                marginBottom: '20px',
+                                whiteSpace: 'pre-wrap',
+                                textAlign: 'left',
+                                fontFamily: 'monospace'
+                            } 
+                        }, error.message),
                         React.createElement('button', {
                             key: 'retry',
                             className: 'retry-button',
                             onClick: loadRecipes
-                        }, 'Retry Loading')
+                        }, '🔄 Retry Loading')
                     ])
                 ]);
             }
 
             const renderTabContent = () => {
-                if (activeTab === 'calculator') {
-                    const availableCount = itemsWithAvailability.filter(({isAvailable}) => isAvailable).length;
-                    const totalCount = itemsWithAvailability.length;
-
-                    return React.createElement('div', { key: 'calculator-content' }, [
-                        React.createElement('div', { className: 'search-controls', key: 'controls' }, [
-                            React.createElement('input', {
-                                key: 'search',
-                                type: 'text',
-                                placeholder: 'Search items...',
-                                className: 'search-input',
-                                value: searchTerm,
-                                onChange: (e) => setSearchTerm(e.target.value)
-                            }),
-                            React.createElement('select', {
-                                key: 'category',
-                                className: 'filter-select',
-                                value: categoryFilter,
-                                onChange: (e) => setCategoryFilter(e.target.value)
-                            }, [
-                                React.createElement('option', { key: 'all', value: 'All' }, 'All Categories'),
-                                ...categories.map(cat => 
-                                    React.createElement('option', { key: cat, value: cat }, cat)
+                switch (activeTab) {
+                    case 'calculator':
+                        return React.createElement('div', { key: 'calculator-content' }, [
+                            React.createElement('div', { className: 'search-controls', key: 'controls' }, [
+                                React.createElement('input', {
+                                    key: 'search',
+                                    type: 'text',
+                                    placeholder: 'Search items...',
+                                    className: 'search-input',
+                                    value: searchTerm,
+                                    onChange: (e) => setSearchTerm(e.target.value)
+                                }),
+                                React.createElement('select', {
+                                    key: 'category',
+                                    className: 'filter-select',
+                                    value: categoryFilter,
+                                    onChange: (e) => setCategoryFilter(e.target.value)
+                                }, [
+                                    React.createElement('option', { key: 'all', value: 'All' }, 'All Categories'),
+                                    ...categories.map(cat => 
+                                        React.createElement('option', { key: cat, value: cat }, cat)
+                                    )
+                                ]),
+                                React.createElement('select', {
+                                    key: 'tier',
+                                    className: 'filter-select',
+                                    value: tierFilter,
+                                    onChange: (e) => setTierFilter(e.target.value)
+                                }, [
+                                    React.createElement('option', { key: 'all', value: 'All' }, 'All Tiers'),
+                                    ...tiers.map(tier => 
+                                        React.createElement('option', { key: tier, value: tier.toString() }, `Tier ${tier}`)
+                                    )
+                                ])
+                            ]),
+                            React.createElement('div', { className: 'map-selector', key: 'map-selector' }, [
+                                React.createElement('span', { className: 'map-label', key: 'label' }, 'Map:'),
+                                ...Object.keys(MAP_RESOURCES).map(map =>
+                                    React.createElement('button', {
+                                        key: map,
+                                        className: `map-btn ${currentMap === map ? 'active' : ''}`,
+                                        onClick: () => setCurrentMap(map)
+                                    }, map)
                                 )
                             ]),
-                            React.createElement('select', {
-                                key: 'tier',
-                                className: 'filter-select',
-                                value: tierFilter,
-                                onChange: (e) => setTierFilter(e.target.value)
-                            }, [
-                                React.createElement('option', { key: 'all', value: 'All' }, 'All Tiers'),
-                                ...tiers.map(tier => 
-                                    React.createElement('option', { key: tier, value: tier.toString() }, `Tier ${tier}`)
-                                )
-                            ])
-                        ]),
-                        React.createElement('div', { className: 'map-selector', key: 'map-selector' }, [
-                            React.createElement('span', { className: 'map-label', key: 'label' }, 'Map:'),
-                            ...Object.keys(MAP_RESOURCES).map(map =>
-                                React.createElement('button', {
-                                    key: map,
-                                    className: `map-btn ${currentMap === map ? 'active' : ''}`,
-                                    onClick: () => setCurrentMap(map)
-                                }, map)
-                            )
-                        ]),
-                        React.createElement('div', { 
-                            key: 'stats',
-                            style: {
-                                marginBottom: '15px',
-                                padding: '10px',
-                                background: 'rgba(0, 212, 255, 0.1)',
-                                borderRadius: '8px',
-                                fontSize: '13px',
-                                color: '#00d4ff',
-                                textAlign: 'center'
-                            }
-                        }, `Showing: ${availableCount} available / ${totalCount} total items on ${currentMap}`),
-                        React.createElement('div', { className: 'items-grid', key: 'items' },
-                            itemsWithAvailability.length === 0 ? 
-                                React.createElement('div', {
-                                    style: {
-                                        padding: '40px',
-                                        textAlign: 'center',
-                                        color: '#b0b3b8',
-                                        gridColumn: '1 / -1'
-                                    }
-                                }, 'No items match your filters') :
-                                itemsWithAvailability.map(({ item, recipe, isAvailable }) =>
+                            React.createElement('div', { className: 'items-grid', key: 'items' },
+                                filteredItems.map(([item, recipe]) =>
                                     React.createElement(ItemCard, {
-                                        key: item.name,
+                                        key: item,
                                         item,
                                         recipe,
-                                        isSelected: !!shoppingCart[item.name],
-                                        isAvailable: isAvailable,
+                                        isSelected: !!shoppingCart[item],
+                                        isAvailable: checkItemAvailability(item, currentMap),
                                         onClick: addToCart,
                                         onQuantityChange: handleQuantityChange,
-                                        currentQuantity: itemQuantities[item.name] || 0
+                                        currentQuantity: itemQuantities[item] || 0
                                     })
                                 )
-                        ),
-                        renderResults()
-                    ]);
-                }
+                            ),
+                            results && renderResults()
+                        ]);
 
-                if (activeTab === 'map') {
-                    return React.createElement('div', { className: 'map-info', key: 'map-info' }, [
-                        React.createElement('h3', { key: 'title' }, `🗺️ ${currentMap} Resources`),
-                        React.createElement('p', { key: 'description' }, 
-                            currentMap === 'Olympus' ? "The starter map with Forest, Arctic, and Desert biomes. ALL ORES available!" :
-                            currentMap === 'Prometheus' ? "🌋 Volcanic DLC map with unique Obsidian deposits." :
-                            currentMap === 'Styx' ? "💎 Advanced DLC map with all standard ores." : ""
-                        ),
-                        React.createElement('div', { className: 'resource-grid', key: 'resources' },
-                            MAP_RESOURCES[currentMap]?.map(resource =>
-                                React.createElement('div', {
-                                    key: resource,
-                                    className: 'resource-badge'
-                                }, resource)
+                    case 'map':
+                        return React.createElement('div', { className: 'map-info', key: 'map-info' }, [
+                            React.createElement('h3', { key: 'title' }, `🗺️ ${currentMap} Resources`),
+                            React.createElement('p', { key: 'description' }, 
+                                currentMap === 'Olympus' ? "The starter map with Forest, Arctic, and Desert biomes. ALL ORES available in caves including Platinum and Titanium!" :
+                                currentMap === 'Prometheus' ? "🌋 Volcanic DLC map with unique Obsidian deposits. Biome-specific ore distribution in caves." :
+                                currentMap === 'Styx' ? "💎 Advanced DLC map with all standard ores available. Same ore distribution as Olympus." : ""
+                            ),
+                            React.createElement('div', { className: 'resource-grid', key: 'resources' },
+                                MAP_RESOURCES[currentMap]?.map(resource =>
+                                    React.createElement('div', {
+                                        key: resource,
+                                        className: 'resource-badge'
+                                    }, resource)
+                                )
                             )
-                        )
-                    ]);
-                }
+                        ]);
 
-                return null;
+                    default:
+                        return null;
+                }
             };
+
+            const renderResults = () => {
+                if (!results) return null;
+                
+                switch (results.type) {
+                    case 'success':
+                        return React.createElement('div', { className: 'success-banner' }, `✅ ${results.message}`);
+                    
+                    case 'hierarchical':
+                        const renderCraftingStep = (item, data, depth = 0, parentKey = '') => {
+                            const recipe = recipes[item];
+                            const isAvailable = checkItemAvailability(item, currentMap);
+                            const indent = depth * 20;
+                            const itemKey = parentKey ? `${parentKey}-${item}` : item;
+                            const isChecked = checkedItems[itemKey];
+                            
+                            return React.createElement('div', {
+                                key: `${item}-${depth}`,
+                                style: {
+                                    marginLeft: `${indent}px`,
+                                    marginBottom: '8px',
+                                    padding: '8px',
+                                    background: depth === 0 ? 'rgba(0, 212, 255, 0.1)' : 
+                                               depth === 1 ? 'rgba(255, 255, 255, 0.05)' : 
+                                               'rgba(255, 255, 255, 0.02)',
+                                    border: `1px solid ${depth === 0 ? 'rgba(0, 212, 255, 0.3)' : 'rgba(255, 255, 255, 0.1)'}`,
+                                    borderRadius: '6px',
+                                    borderLeft: `4px solid ${getTierColor(recipe?.tier || 0)}`,
+                                    opacity: isChecked ? 0.6 : 1,
+                                    transition: 'opacity 0.3s ease'
+                                }
+                            }, [
+                                React.createElement('div', {
+                                    key: 'header',
+                                    style: {
+                                        display: 'flex',
+                                        justifyContent: 'space-between',
+                                        alignItems: 'center',
+                                        marginBottom: Object.keys(data.ingredients || {}).length > 0 ? '8px' : '0'
+                                    }
+                                }, [
+                                    React.createElement('div', {
+                                        key: 'left-content',
+                                        style: { display: 'flex', alignItems: 'center', gap: '8px' }
+                                    }, [
+                                        React.createElement('input', {
+                                            key: 'checkbox',
+                                            type: 'checkbox',
+                                            checked: isChecked || false,
+                                            onChange: () => toggleChecked(itemKey),
+                                            style: {
+                                                width: '16px',
+                                                height: '16px',
+                                                cursor: 'pointer',
+                                                accentColor: '#00d4ff'
+                                            }
+                                        }),
+                                        React.createElement('span', {
+                                            key: 'name',
+                                            style: {
+                                                fontWeight: depth === 0 ? '700' : '600',
+                                                color: isAvailable ? '#ffffff' : '#ff6b6b',
+                                                fontSize: depth === 0 ? '14px' : '13px',
+                                                textDecoration: isChecked ? 'line-through' : 'none'
+                                            }
+                                        }, `${isAvailable ? '✅' : '❌'} ${data.totalNeeded}x ${item}`)
+                                    ]),
+                                    React.createElement('span', {
+                                        key: 'info',
+                                        style: {
+                                            fontSize: '11px',
+                                            color: '#b0b3b8'
+                                        }
+                                    }, `${recipe?.crafted_at || 'Raw'} • T${recipe?.tier || 0}`)
+                                ]),
+                                Object.keys(data.ingredients || {}).length > 0 && React.createElement('div', {
+                                    key: 'ingredients',
+                                    style: { marginLeft: '10px' }
+                                }, Object.entries(data.ingredients).map(([ingredient, amount]) => {
+                                    const ingredientData = results.craftingTree[ingredient];
+                                    if (ingredientData) {
+                                        return renderCraftingStep(ingredient, ingredientData, depth + 1, itemKey);
+                                    } else {
+                                        const isRawAvailable = MAP_RESOURCES[currentMap]?.includes(ingredient);
+                                        const rawKey = `${itemKey}-${ingredient}`;
+                                        const isRawChecked = checkedItems[rawKey];
+                                        
+                                        return React.createElement('div', {
+                                            key: ingredient,
+                                            style: {
+                                                marginLeft: `${(depth + 1) * 20}px`,
+                                                marginBottom: '4px',
+                                                padding: '4px 8px',
+                                                background: 'rgba(255, 255, 255, 0.02)',
+                                                border: '1px solid rgba(255, 255, 255, 0.05)',
+                                                borderRadius: '4px',
+                                                fontSize: '12px',
+                                                color: isRawAvailable ? '#ffffff' : '#ff6b6b',
+                                                borderLeft: '3px solid #888',
+                                                opacity: isRawChecked ? 0.6 : 1,
+                                                transition: 'opacity 0.3s ease',
+                                                display: 'flex',
+                                                alignItems: 'center',
+                                                gap: '8px'
+                                            }
+                                        }, [
+                                            React.createElement('input', {
+                                                key: 'raw-checkbox',
+                                                type: 'checkbox',
+                                                checked: isRawChecked || false,
+                                                onChange: () => toggleChecked(rawKey),
+                                                style: {
+                                                    width: '14px',
+                                                    height: '14px',
+                                                    cursor: 'pointer',
+                                                    accentColor: '#00d4ff'
+                                                }
+                                            }),
+                                            React.createElement('span', {
+                                                key: 'raw-text',
+                                                style: {
+                                                    textDecoration: isRawChecked ? 'line-through' : 'none'
+                                                }
+                                            }, `${isRawAvailable ? '✅' : '❌'} ${amount}x ${ingredient} (Raw Material)`)
+                                        ]);
+                                    }
+                                }))
+                            ]);
+                        };
+
+                        const getTierColor = (tier) => {
+                            switch(tier) {
+                                case 0: return "#888";
+                                case 1: return "#4ecdc4";
+                                case 2: return "#45b7d1";
+                                case 3: return "#f39c12";
+                                case 4: return "#e74c3c";
+                                default: return "#4ecdc4";
+                            }
+                        };
+
+                        const unavailableRawMaterials = Object.keys(results.rawMaterials).filter(material => 
+                            !MAP_RESOURCES[currentMap]?.includes(material)
+                        );
+
+                        const completionStats = getCompletionStats();
+                        
+                        return React.createElement('div', { 
+                            className: 'results-panel',
+                            ref: resultsRef 
+                        }, [
+                            React.createElement('div', { 
+                                className: 'results-title', 
+                                key: 'title',
+                                style: { display: 'flex', justifyContent: 'space-between', alignItems: 'center' }
+                            }, [
+                                React.createElement('span', { key: 'title-text' }, '🧮 Complete Crafting Breakdown'),
+                                React.createElement('div', { 
+                                    key: 'progress-controls',
+                                    style: { display: 'flex', alignItems: 'center', gap: '10px' }
+                                }, [
+                                    completionStats && React.createElement('span', {
+                                        key: 'progress',
+                                        style: {
+                                            fontSize: '12px',
+                                            color: completionStats.percentage === 100 ? '#4ecdc4' : '#b0b3b8',
+                                            fontWeight: '600'
+                                        }
+                                    }, `${completionStats.completed}/${completionStats.total} (${completionStats.percentage}%)`),
+                                    React.createElement('button', {
+                                        key: 'clear-checks',
+                                        onClick: clearAllChecks,
+                                        style: {
+                                            background: 'rgba(255, 107, 107, 0.2)',
+                                            color: '#ff6b6b',
+                                            border: '1px solid rgba(255, 107, 107, 0.3)',
+                                            borderRadius: '6px',
+                                            padding: '4px 8px',
+                                            fontSize: '11px',
+                                            cursor: 'pointer',
+                                            fontWeight: '600'
+                                        }
+                                    }, 'Clear All ✕')
+                                ])
+                            ]),
+                            
+                            React.createElement('div', {
+                                key: 'targets',
+                                style: { marginBottom: '20px' }
+                            }, [
+                                React.createElement('h4', {
+                                    key: 'targets-title',
+                                    style: { 
+                                        color: '#00d4ff', 
+                                        fontSize: '14px', 
+                                        marginBottom: '10px',
+                                        fontWeight: '600'
+                                    }
+                                }, '🎯 Target Items:'),
+                                ...Object.entries(results.cartItems).map(([item, details]) => {
+                                    const craftingData = results.craftingTree[item];
+                                    if (craftingData) {
+                                        return renderCraftingStep(item, craftingData, 0);
+                                    }
+                                    return null;
+                                }).filter(Boolean)
+                            ]),
+
+                            React.createElement('div', {
+                                key: 'raw-summary'
+                            }, [
+                                React.createElement('h4', {
+                                    key: 'raw-title',
+                                    style: { 
+                                        color: '#00d4ff', 
+                                        fontSize: '14px', 
+                                        marginBottom: '10px',
+                                        fontWeight: '600'
+                                    }
+                                }, '⛏️ Total Raw Materials Summary:'),
+                                ...Object.entries(results.rawMaterials).map(([material, amount]) => {
+                                    const isAvailable = MAP_RESOURCES[currentMap]?.includes(material);
+                                    const rawKey = `raw-${material}`;
+                                    const isRawChecked = checkedItems[rawKey];
+                                    
+                                    return React.createElement('div', { 
+                                        key: material, 
+                                        className: 'resource-item',
+                                        style: { 
+                                            opacity: isRawChecked ? 0.6 : (isAvailable ? 1 : 0.6),
+                                            transition: 'opacity 0.3s ease',
+                                            display: 'flex',
+                                            alignItems: 'center',
+                                            gap: '8px'
+                                        }
+                                    }, [
+                                        React.createElement('input', {
+                                            key: 'summary-checkbox',
+                                            type: 'checkbox',
+                                            checked: isRawChecked || false,
+                                            onChange: () => toggleChecked(rawKey),
+                                            style: {
+                                                width: '16px',
+                                                height: '16px',
+                                                cursor: 'pointer',
+                                                accentColor: '#00d4ff'
+                                            }
+                                        }),
+                                        React.createElement('span', { 
+                                            className: 'resource-name', 
+                                            key: 'name',
+                                            style: {
+                                                textDecoration: isRawChecked ? 'line-through' : 'none'
+                                            }
+                                        }, `${isAvailable ? '✅' : '❌'} ${material}`),
+                                        React.createElement('span', { 
+                                            className: 'resource-amount', 
+                                            key: 'amount',
+                                            style: {
+                                                textDecoration: isRawChecked ? 'line-through' : 'none'
+                                            }
+                                        }, `${amount}x`)
+                                    ])
+                                })
+                            ]),
+
+                            unavailableRawMaterials.length > 0 && React.createElement('div', {
+                                key: 'warning',
+                                style: {
+                                    marginTop: '15px',
+                                    padding: '10px',
+                                    background: 'rgba(255, 107, 107, 0.1)',
+                                    border: '1px solid rgba(255, 107, 107, 0.3)',
+                                    borderRadius: '8px',
+                                    fontSize: '12px',
+                                    color: '#ff6b6b'
+                                }
+                            }, `⚠️ ${unavailableRawMaterials.length} raw materials not available on ${currentMap}`)
+                        ]);
+
+                    case 'error':
+                        return React.createElement('div', { 
+                            style: { 
+                                background: 'rgba(255, 107, 107, 0.2)', 
+                                color: '#ff6b6b', 
+                                padding: '15px', 
+                                borderRadius: '10px', 
+                                marginTop: '15px',
+                                textAlign: 'center',
+                                fontWeight: '600'
+                            } 
+                        }, `❌ ${results.message}`);
+                    
+                    default:
+                        return null;
+                }
+            };
+
+            const availableCount = filteredItems.filter(([item]) => checkItemAvailability(item, currentMap)).length;
+            const totalCount = filteredItems.length;
+            const totalItems = Object.keys(recipes).length;
 
             return React.createElement('div', { className: 'app-container' }, [
                 React.createElement('div', { className: 'app-header', key: 'header' }, [
                     React.createElement('h1', { className: 'app-title', key: 'title' }, "🚀 ICARUS COMPLETE"),
-                    React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator • Fandom Wiki Data"),
+                    React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator with Complete Game Database • JSON-Powered • Live Data"),
                     React.createElement('div', { className: 'stats-header', key: 'stats' }, 
-                        `📊 Database: ${allItems.length} Total Items from Icarus Fandom Wiki`
+                        `📊 Database: ${totalItems} Total Items • ${availableCount}/${totalCount} Available on ${currentMap}`
                     )
                 ]),
 
@@ -1280,6 +1834,7 @@
                                 onClick: () => setActiveTab('map')
                             }, "🗺️ Map Info")
                         ]),
+
                         React.createElement('div', { className: 'tab-content', key: 'tab-content' }, 
                             renderTabContent()
                         )
@@ -1294,52 +1849,38 @@
                         React.createElement('div', { className: 'cart-items', key: 'cart-items' },
                             Object.keys(shoppingCart).length === 0 ? 
                                 React.createElement('div', { className: 'cart-empty' }, "Add items to your cart to get started!") :
-                                Object.entries(shoppingCart).map(([itemName, details]) =>
+                                Object.entries(shoppingCart).map(([item, details]) =>
                                     React.createElement(CartItem, {
-                                        key: itemName,
-                                        item: details.item,
+                                        key: item,
+                                        item,
                                         details,
-                                        onRemove: removeFromCart
+                                        onRemove: removeFromCart,
+                                        recipes: recipes
                                     })
                                 )
                         ),
 
                         React.createElement('div', { className: 'action-buttons', key: 'actions' }, [
-
                             React.createElement('button', {
                                 key: 'calculate',
                                 className: 'btn primary',
-                                type: 'button', // prevents form submit / page jump
-                                disabled: Object.keys(shoppingCart).length === 0,
-                                onClick: (e) => {
-                                    e.preventDefault();
-                                    e.stopPropagation();
-
-                                    if (!allItems || allItems.length === 0) return;
-
-                                    calculateRequirements();
-                                }
-                            }, "🧮 Calculate"),
-
+                                onClick: calculateRequirements,
+                                disabled: Object.keys(shoppingCart).length === 0 || isCalculating
+                            }, isCalculating ? '⏳ Calculating...' : '🧮 Calculate'),
                             React.createElement('button', {
                                 key: 'clear',
                                 className: 'btn secondary',
-                                type: 'button',
-                                disabled: Object.keys(shoppingCart).length === 0,
-                                onClick: (e) => {
-                                    e.preventDefault();
-                                    e.stopPropagation();
-                                    clearCart();
-                                }
+                                onClick: clearCart,
+                                disabled: Object.keys(shoppingCart).length === 0
                             }, "🗑️ Clear")
                         ]),
-
 
                         React.createElement('div', { 
                             className: 'stats-panel',
                             key: 'stats'
                         }, [
-                            React.createElement('div', { key: 'total' }, `Total Database: ${allItems.length} items`),
+                            React.createElement('div', { key: 'available' }, `Available on ${currentMap}: ${availableCount}/${totalCount}`),
+                            React.createElement('div', { key: 'total' }, `Total Database: ${totalItems} items`),
                             React.createElement('div', { key: 'cart' }, `Cart Items: ${Object.keys(shoppingCart).length}`)
                         ])
                     ])

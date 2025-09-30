@@ -2,9 +2,12 @@
   "name": "Bone Head Armor",
   "url": "https://icarus.fandom.com/wiki/Bone_Head_Armor",
   "description": "Bone Armor provides relatively good protection from Icarus' fauna as aTier 1armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
-  "item_type": "unknown",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "item_type": "Armors",
+  "ingredients": {
+    "Bone" : 20,
+    "Leather" : 5
+  },
+  "crafted_at": "Character Crafting",
   "tier": 1,
   "stats": {
     "weight": "1.0 kg",
