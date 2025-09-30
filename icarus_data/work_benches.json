@@ -1,0 +1,251 @@
+{
+  "category": "Work Benches",
+  "count": 20,
+  "items": [
+    {
+      "name": "Anvil Bench",
+      "ingredients": {
+        "Iron Ingot": 10,
+        "Wood": 5,
+        "Stone": 10,
+        "Leather": 4,
+        "Iron Nails": 2,
+        "Epoxy": 4,
+        "Steel Ingot": 6,
+        "Steel Screws": 2,
+        "Copper Ingot": 1
+      },
+      "crafted_at": "the Anvil Bench:ItemPlanetary Tech TierElements Required Iron Axe2Wood (5), Leather (4), Iron Ingot (6), Iron Nails (2) Steel Axe2Wood (5), Epoxy (4), Steel Ingot (6), Steel Screws (2) Iron Pickaxe2Wood (5), Leather (4), Iron Ingot (6) Steel Pickaxe2Wood (5), Epoxy (4), Steel Ingot (6) Iron Knife2Wood (5), Leather (4), Iron Ingot (6), Iron Nails (2) Steel Knife2Wood (5), Epoxy (4), Steel Ingot (6), Steel Screws (2) Iron Spear2Wood (5), Leather (6), Iron Ingot (24) Steel Spear2Wood (5), Epoxy (6), Steel Ingot (24) Taxidermy Knife2Wood (2), Leather (4), Iron Ingot (6), Iron Nails (2) Shovel2Wood (4), Iron Ingot (6) Iron Sickle2Wood (4), Leather (4), Iron Ingot (10) Crossbow2Wood (18), Leather (12), Iron Ingot (12), Iron Nails (2) Iron Bolt2Wood (1), Iron Ingot (2) Copper Bolt2Wood (1), Copper Ingot (1) Steel Bolt2Wood (1), Steel Ingot (2) Iron Repair Hammer2Wood (4), Leather (4), Iron Ingot (10) Steel Repair Hammer2Wood (5), Epoxy (4), Steel Ingot (6), Steel Screws (2)",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/anvil-bench/",
+      "crafting_stations": [
+        "the Anvil Bench:ItemPlanetary Tech TierElements Required Iron Axe2Wood (5), Leather (4), Iron Ingot (6), Iron Nails (2) Steel Axe2Wood (5), Epoxy (4), Steel Ingot (6), Steel Screws (2) Iron Pickaxe2Wood (5), Leather (4), Iron Ingot (6) Steel Pickaxe2Wood (5), Epoxy (4), Steel Ingot (6) Iron Knife2Wood (5), Leather (4), Iron Ingot (6), Iron Nails (2) Steel Knife2Wood (5), Epoxy (4), Steel Ingot (6), Steel Screws (2) Iron Spear2Wood (5), Leather (6), Iron Ingot (24) Steel Spear2Wood (5), Epoxy (6), Steel Ingot (24) Taxidermy Knife2Wood (2), Leather (4), Iron Ingot (6), Iron Nails (2) Shovel2Wood (4), Iron Ingot (6) Iron Sickle2Wood (4), Leather (4), Iron Ingot (10) Crossbow2Wood (18), Leather (12), Iron Ingot (12), Iron Nails (2) Iron Bolt2Wood (1), Iron Ingot (2) Copper Bolt2Wood (1), Copper Ingot (1) Steel Bolt2Wood (1), Steel Ingot (2) Iron Repair Hammer2Wood (4), Leather (4), Iron Ingot (10) Steel Repair Hammer2Wood (5), Epoxy (4), Steel Ingot (6), Steel Screws (2)"
+      ]
+    },
+    {
+      "name": "Biofuel Stove",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/gas-stove/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Carpentry Bench",
+      "ingredients": {
+        "Wood": 80,
+        "Rope": 12,
+        "Copper Nails": 120
+      },
+      "crafted_at": "Crafting Bench",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/carpentry-bench/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Character",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "work_benches",
+      "tier": 1,
+      "url": "https://eip.gg/icarus/db/character/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Chemistry Bench",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "work_benches",
+      "tier": 4,
+      "url": "https://eip.gg/icarus/db/chemistry-bench/",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Cooking Station",
+      "ingredients": {
+        "Stone": 24,
+        "Iron Ingot": 4,
+        "Fiber": 8,
+        "Stick": 8
+      },
+      "crafted_at": "Crafting Bench",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/cooking-station/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Crafting Bench",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "work_benches",
+      "tier": 2,
+      "url": "https://eip.gg/icarus/db/crafting-bench/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Electric Carpentry Bench",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/electric-carpentry-bench/",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Electric Masonry Bench",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/electric-masonry-bench/",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Fabricator",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "work_benches",
+      "tier": 4,
+      "url": "https://eip.gg/icarus/db/fabricator/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Glassworking Bench",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/glassworking-bench/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Herbalism Bench",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/herbalism-bench/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Icarus Database",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Kitchen Bench",
+      "ingredients": {
+        "Refined Wood": 30,
+        "Iron Ingot": 8,
+        "Epoxy": 20,
+        "Copper Nails": 20
+      },
+      "crafted_at": "Machining Bench",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/kitchen-bench/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Machining Bench",
+      "ingredients": {
+        "Wood": 20,
+        "Stone": 12,
+        "Iron Nails": 120,
+        "Iron Ingot": 40,
+        "Epoxy": 10,
+        "Rope": 24
+      },
+      "crafted_at": "Crafting Bench",
+      "category": "work_benches",
+      "tier": 3,
+      "url": "https://eip.gg/icarus/db/machining-bench/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Masonry Bench",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/masonry-bench/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Potbelly Stove",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/potbelly-stove/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Skinning Bench",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/skinning-bench/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Textiles Bench",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/textiles-bench/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Trophy Bench",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "work_benches",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/trophy-bench/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    }
+  ]
+}

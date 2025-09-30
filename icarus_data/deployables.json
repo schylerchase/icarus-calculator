@@ -1,6 +1,514 @@
 {
-  "Name": "Deployables",
-  "Description": "All items (474)",
-  "Recipe": [],
-  "CraftedIn": "Cooking Station"
+  "category": "Deployables",
+  "count": 44,
+  "items": [
+    {
+      "name": "Basic Ceiling Light",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/basic-ceiling-light/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Basic Wall Light",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/basic-wall-light/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Bedroll",
+      "ingredients": {
+        "Fiber": 20,
+        "Stick": 10,
+        "Fur": 20,
+        "Leather": 10
+      },
+      "crafted_at": "Character",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/bedroll/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Biofuel Drill",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/biofuel-drill/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Biofuel Generator",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/biofuel-generator/",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Brazier",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/brazier/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Crop Plot",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/crop-plot/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Dehumidifier",
+      "ingredients": {
+        "Steel Ingot": 12,
+        "Glass": 4,
+        "Copper Ingot": 24,
+        "Epoxy": 12,
+        "Electronics": 20
+      },
+      "crafted_at": "Machining Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/dehumidifier/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Directional Worklamp",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/directional-worklamp/",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Electric Dehumidifier",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/electric-dehumidifier/",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Extractors",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/extractor/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Floor Torch",
+      "ingredients": {
+        "Fiber": 20,
+        "Stick": 8,
+        "Sulfur": 8
+      },
+      "crafted_at": "Character",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/floor-torch/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Heavy Air Conditioner",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/heavy-air-conditioner/",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Heavy Heater",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/heavy-heater/",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Icarus Database",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ice Box",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/ice-box/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Interior Wood Cupboard",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/interior-wood-cupboard/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Interior Wood Ladder",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/interior-wood-ladder/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Iron Cupboard",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/iron-cupboard/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Kitchen Storage Block",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/kitchen-storage-block/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Medium Interior Wood Crate",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/medium-interior-wood-crate/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Medium Iron Crate",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/medium-iron-crate/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Medium Wood Crate",
+      "ingredients": {
+        "Fiber": 32,
+        "Wood": 32
+      },
+      "crafted_at": "Character",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/medium-wood-crate/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Medium Wood Hedgehog",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench or Crafting Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/medium-wood-hedgehog/",
+      "crafting_stations": [
+        "Carpentry Bench or Crafting Bench"
+      ]
+    },
+    {
+      "name": "Metal Oxite Dissolver",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/metal-oxite-dissolver/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Oxidizer",
+      "ingredients": {
+        "Stick": 8,
+        "Fiber": 12,
+        "Leather": 20,
+        "Bone": 10
+      },
+      "crafted_at": "Unknown",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/oxidizer/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Oxite Dissolver",
+      "ingredients": {
+        "Stick": 8,
+        "Fiber": 12,
+        "Leather": 20,
+        "Bone": 10
+      },
+      "crafted_at": "Crafting Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/oxite-dissolver/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Portable Beacon",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/portable-beacon/",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Processing",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/processing/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Radars",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/radar/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Rain Reservoir",
+      "ingredients": {
+        "Stick": 8,
+        "Wood": 24,
+        "Stone": 80,
+        "Leather": 8
+      },
+      "crafted_at": "Crafting Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/rain-reservoir/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Refrigerator",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/refrigerator/",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Reinforced Ladder",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/reinforced-ladder/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Small Interior Wood Crate",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/small-interior-wood-crate/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Small Iron Crate",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/small-iron-crate/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Small Wood Crate",
+      "ingredients": {
+        "Fiber": 16,
+        "Wood": 24
+      },
+      "crafted_at": "Character",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/small-wood-crate/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Small Wood Sign",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/small-wood-sign/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Solar Panel",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/solar-panel/",
+      "crafting_stations": [
+        "Fabricator"
+      ]
+    },
+    {
+      "name": "Wall Torch",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wall-torch/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Wood Bed",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-bed/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Wood Cupboard",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-cupboard/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Wood Table",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-table/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Wooden Chair",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "deployables",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wooden-chair/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Work Benches",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "deployables",
+      "tier": 2,
+      "url": "https://eip.gg/icarus/db/work-benches/",
+      "crafting_stations": []
+    }
+  ]
 }

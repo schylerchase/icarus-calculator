@@ -1,0 +1,840 @@
+{
+  "category": "Construction Materials",
+  "count": 76,
+  "items": [
+    {
+      "name": "Aluminium Beam",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/aluminium-beam/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Aluminium Door",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/aluminium-door/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Aluminium Floor",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/aluminium-floor/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Aluminium Floor Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/aluminium-floor-trapdoor/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Aluminium Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/aluminium-roof-corner/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Aluminium Roof/Ramp",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/aluminium-roof-ramp/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Aluminium Stairs",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/aluminium-stairs/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Aluminium Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/aluminium-trapdoor/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Aluminium Wall",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/aluminium-wall/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Aluminium Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/aluminium-wall-angled/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Aluminium Window",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/aluminium-window/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Concrete Beam",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/concrete-beam/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Concrete Floor",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/concrete-floor/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Concrete Floor Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/concrete-floor-trapdoor/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Concrete Frame",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/concrete-frame/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Concrete Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/concrete-roof-corner/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Concrete Roof/Ramp",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/concrete-roof-ramp/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Concrete Stairs",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/concrete-stairs/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Concrete Wall",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/concrete-wall/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Concrete Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/concrete-wall-angled/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
+    },
+    {
+      "name": "Glass Beam",
+      "ingredients": {},
+      "crafted_at": "Glassworking Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/glass-beam/",
+      "crafting_stations": [
+        "Glassworking Bench"
+      ]
+    },
+    {
+      "name": "Glass Door",
+      "ingredients": {},
+      "crafted_at": "Glassworking Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/glass-door/",
+      "crafting_stations": [
+        "Glassworking Bench"
+      ]
+    },
+    {
+      "name": "Glass Roof",
+      "ingredients": {},
+      "crafted_at": "Glassworking Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/glass-roof/",
+      "crafting_stations": [
+        "Glassworking Bench"
+      ]
+    },
+    {
+      "name": "Glass Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Glassworking Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/glass-roof-corner/",
+      "crafting_stations": [
+        "Glassworking Bench"
+      ]
+    },
+    {
+      "name": "Glass Wall",
+      "ingredients": {},
+      "crafted_at": "Glassworking Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/glass-wall/",
+      "crafting_stations": [
+        "Glassworking Bench"
+      ]
+    },
+    {
+      "name": "Glass Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Glassworking Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/glass-wall-angled/",
+      "crafting_stations": [
+        "Glassworking Bench"
+      ]
+    },
+    {
+      "name": "Glass Window",
+      "ingredients": {},
+      "crafted_at": "Glassworking Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/glass-window/",
+      "crafting_stations": [
+        "Glassworking Bench"
+      ]
+    },
+    {
+      "name": "Heavy Glass Window",
+      "ingredients": {},
+      "crafted_at": "Glassworking Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/heavy-glass-window/",
+      "crafting_stations": [
+        "Glassworking Bench"
+      ]
+    },
+    {
+      "name": "Icarus Database",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Interior Wood Beam",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/interior-wood-beam/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Interior Wood Door",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/interior-wood-door/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Interior Wood Floor",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/interior-wood-floor/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Interior Wood Floor Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/interior-wood-floor-trapdoor/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Interior Wood Railing",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/interior-wood-railing/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Interior Wood Ramp",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/interior-wood-ramp/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Interior Wood Stairs",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/interior-wood-stairs/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Interior Wood Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/interior-wood-trapdoor/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Interior Wood Wall",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/interior-wood-wall/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Interior Wood Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/interior-wood-wall-angled/",
+      "crafting_stations": [
+        "Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Leather Curtain Door",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/leather-curtain-door/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Leather Curtain Window",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/leather-curtain-window/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Reinforced Door",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/reinforced-door/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Reinforced Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/reinforced-trapdoor/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Reinforced Window",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/reinforced-window/",
+      "crafting_stations": [
+        "Crafting Bench"
+      ]
+    },
+    {
+      "name": "Stone Beam",
+      "ingredients": {},
+      "crafted_at": "Masonry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/stone-beam/",
+      "crafting_stations": [
+        "Masonry Bench"
+      ]
+    },
+    {
+      "name": "Stone Floor",
+      "ingredients": {},
+      "crafted_at": "Masonry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/stone-floor/",
+      "crafting_stations": [
+        "Masonry Bench"
+      ]
+    },
+    {
+      "name": "Stone Floor Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Masonry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/stone-floor-trapdoor/",
+      "crafting_stations": [
+        "Masonry Bench"
+      ]
+    },
+    {
+      "name": "Stone Frame",
+      "ingredients": {},
+      "crafted_at": "Masonry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/stone-frame/",
+      "crafting_stations": [
+        "Masonry Bench"
+      ]
+    },
+    {
+      "name": "Stone Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Masonry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/stone-roof-corner/",
+      "crafting_stations": [
+        "Masonry Bench"
+      ]
+    },
+    {
+      "name": "Stone Roof/Ramp",
+      "ingredients": {},
+      "crafted_at": "Masonry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/stone-roof-ramp/",
+      "crafting_stations": [
+        "Masonry Bench"
+      ]
+    },
+    {
+      "name": "Stone Stairs",
+      "ingredients": {},
+      "crafted_at": "Masonry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/stone-stairs/",
+      "crafting_stations": [
+        "Masonry Bench"
+      ]
+    },
+    {
+      "name": "Stone Wall",
+      "ingredients": {},
+      "crafted_at": "Masonry Bench",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/stone-wall/",
+      "crafting_stations": [
+        "Masonry Bench"
+      ]
+    },
+    {
+      "name": "Thatch Beam",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/thatch-beam/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Thatch Door",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/thatch-door/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Thatch Floor",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/thatch-floor/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Thatch Floor Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/thatch-floor-trapdoor/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Thatch Ladder",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/thatch-ladder/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Thatch Railing",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/thatch-railing/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Thatch Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/thatch-roof-corner/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Thatch Roof/Ramp",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/thatch-roof-ramp/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Thatch Stairs",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/thatch-stairs/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Thatch Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/thatch-trapdoor/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Thatch Wall Angled",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/thatch-wall-angled/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Thatch Window",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/thatch-window/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Wood Beam",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-beam/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Wood Door",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-door/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Wood Floor",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-floor/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Wood Floor Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-floor-trapdoor/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Wood Ladder",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-ladder/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Wood Railing",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-railing/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Wood Roof Corner",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-roof-corner/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Wood Roof/Ramp",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-roof-ramp/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Wood Stairs",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-stairs/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Wood Trapdoor",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-trapdoor/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Wood Wall",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-wall/",
+      "crafting_stations": [
+        "Character"
+      ]
+    },
+    {
+      "name": "Wood Window",
+      "ingredients": {},
+      "crafted_at": "Character",
+      "category": "construction_materials",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wood-window/",
+      "crafting_stations": [
+        "Character"
+      ]
+    }
+  ]
+}

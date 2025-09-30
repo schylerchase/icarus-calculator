@@ -1,1842 +1,271 @@
 {
   "category": "Ammunition",
-  "count": 181,
+  "count": 19,
   "items": [
     {
-      "name": "12-Gauge Buckshot Shell",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/12-Gauge_Buckshot_Shell",
-      "weight": "2 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "12-Gauge CHAC Shell",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/12-Gauge_CHAC_Shell",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "12-Gauge Cold Steel Shell",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 5,
-      "url": "https://icarus.fandom.com/en/wiki/12-Gauge_Cold_Steel_Shell",
-      "weight": "1 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "12-Gauge Explosive Shell",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/12-Gauge_Explosive_Shell",
-      "weight": "2 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "12-Gauge Miasmic Shell",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 5,
-      "url": "https://icarus.fandom.com/en/wiki/12-Gauge_Miasmic_Shell",
-      "weight": "1 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "12-Gauge Obsidian Shell",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/12-Gauge_Obsidian_Shell",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "12-Gauge Slug",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/12-Gauge_Slug",
-      "weight": "2 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "12.7mm CHAC Ammo Box",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/12.7mm_CHAC_Ammo_Box",
-      "weight": "5 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "12.7mm CHAC Explosive Ammo Box",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/12.7mm_CHAC_Explosive_Ammo_Box",
-      "weight": "5 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "12.7mm CHAC Explosive Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/12.7mm_CHAC_Explosive_Round",
-      "weight": "2 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "12.7mm CHAC Incendiary Ammo Box",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/12.7mm_CHAC_Incendiary_Ammo_Box",
-      "weight": "5 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "12.7mm CHAC Incendiary Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/12.7mm_CHAC_Incendiary_Round",
-      "weight": "2 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "12.7mm CHAC Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/12.7mm_CHAC_Round",
-      "weight": "2 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "5.56mm Armor Piercing Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/5.56mm_Armor_Piercing_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "5.56mm Cold Steel Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "name": "00 Buckshot Shell",
+      "ingredients": {
+        "Copper Ingot": 1,
+        "Epoxy": 1,
+        "Gunpowder": 6
+      },
+      "crafted_at": "Machining Bench",
       "category": "ammunition",
       "tier": 0,
-      "url": "https://icarus.fandom.com/en/wiki/5.56mm_Cold_Steel_Round",
-      "weight": "1 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "5.56mm Explosive Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/5.56mm_Explosive_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "5.56mm Incendiary Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/en/wiki/5.56mm_Incendiary_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "5.56mm Miasmic Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 6,
-      "url": "https://icarus.fandom.com/en/wiki/5.56mm_Miasmic_Round",
-      "weight": "1 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "5.56mm Obsidian Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/5.56mm_Obsidian_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "5.56mm Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 5,
-      "url": "https://icarus.fandom.com/en/wiki/5.56mm_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "7.62mm Armor Piercing Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/7.62mm_Armor_Piercing_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "7.62mm CHAC Ammo Box",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/7.62mm_CHAC_Ammo_Box",
-      "weight": "5 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "7.62mm CHAC Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/7.62mm_CHAC_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "7.62mm Cold Steel Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/en/wiki/7.62mm_Cold_Steel_Round",
-      "weight": "1 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "7.62mm Explosive Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/7.62mm_Explosive_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "7.62mm Incendiary Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/7.62mm_Incendiary_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "7.62mm Miasmic Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/7.62mm_Miasmic_Round",
-      "weight": "1 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "7.62mm Obsidian Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/7.62mm_Obsidian_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "7.62mm Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/7.62mm_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "9mm Armor Piercing Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/9mm_Armor_Piercing_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "9mm CHAC Ammo",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/9mm_CHAC_Ammo",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "9mm Cold Steel Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 0,
-      "url": "https://icarus.fandom.com/en/wiki/9mm_Cold_Steel_Round",
-      "weight": "1 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "9mm Explosive Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/9mm_Explosive_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "9mm Incendiary Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/9mm_Incendiary_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "9mm Miasmic Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 9,
-      "url": "https://icarus.fandom.com/en/wiki/9mm_Miasmic_Round",
-      "weight": "1 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "9mm Obsidian Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/9mm_Obsidian_Round",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "9mm Round",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/9mm_Round",
-      "weight": "1 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Achievements",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Achievements",
-      "weight": "",
-      "crafting_stations": []
-    },
-    {
-      "name": "Advanced Deep Mining Ore Scanner",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Advanced_Deep_Mining_Ore_Scanner",
-      "weight": "0 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Advanced Pistol",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 9,
-      "url": "https://icarus.fandom.com/en/wiki/Advanced_Pistol",
-      "weight": "8 kg",
-      "crafting_stations": []
+      "url": "https://eip.gg/icarus/db/00-buckshot-shell/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
     },
     {
       "name": "Aluminium Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Aluminium Ingot",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Ingot",
-      "weight": "2kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Aluminium Ore",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Aluminium_Ore",
-      "weight": "0g",
-      "crafting_stations": []
-    },
-    {
-      "name": "Ammo Casing",
       "ingredients": {
-        "Iron Ingot": 1
+        "Copper Ingot": 1,
+        "Aluminium Ingot": 4,
+        "Epoxy": 1
       },
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Ammo_Casing",
-      "weight": "8 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Anti-materiel Rifle",
-      "ingredients": {},
-      "crafted_at": "Repaired with",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Anti-materiel_Rifle",
-      "weight": "0 Kg",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/aluminium-arrow/",
       "crafting_stations": [
-        "Repaired with"
+        "Machining Bench"
       ]
-    },
-    {
-      "name": "Anvil Bench",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Anvil_Bench",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Archer's Backpack",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Archer's_Backpack",
-      "weight": "5 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Arid Striker",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Arid_Striker",
-      "weight": "",
-      "crafting_stations": []
-    },
-    {
-      "name": "Assault Rifle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Assault_Rifle",
-      "weight": "5 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Automated Defense System: Pistol",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Automated_Defense_System:_Pistol",
-      "weight": "0 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Black Wolf Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Black_Wolf_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Black Wolf Tooth",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Black_Wolf_Tooth",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Bolt Action Rifle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Bolt_Action_Rifle",
-      "weight": "0 kg",
-      "crafting_stations": []
     },
     {
       "name": "Bone Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "ingredients": {
+        "Stick": 1,
+        "Leather": 1,
+        "Bone": 5
+      },
+      "crafted_at": "Character",
       "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Bone_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "CHAC \"Boomstick\" Shotgun",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/CHAC_\"Boomstick\"_Shotgun",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "CHAC \"Sentinel\" Pistol",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 9,
-      "url": "https://icarus.fandom.com/en/wiki/CHAC_\"Sentinel\"_Pistol",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "CHAC \"Sovereign\" Rifle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/CHAC_\"Sovereign\"_Rifle",
-      "weight": "0 kg",
-      "crafting_stations": []
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/bone-arrow/",
+      "crafting_stations": [
+        "Character"
+      ]
     },
     {
       "name": "Carbon Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Carbon_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Carbon Fiber",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Carbon_Fiber",
-      "weight": "5 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Caveworm",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Caveworm",
-      "weight": "",
-      "crafting_stations": []
-    },
-    {
-      "name": "Caveworm Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Caveworm_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Caveworm Bow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Caveworm_Bow",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Changelog v1.2.48.110271 - Week 73",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.48.110271_-_Week_73",
-      "weight": "",
-      "crafting_stations": []
-    },
-    {
-      "name": "Changelog v1.2.50.110601 - Week 75",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.2.50.110601_-_Week_75",
-      "weight": "",
-      "crafting_stations": []
-    },
-    {
-      "name": "Changelog v1.3.5.113110 - Week 83",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Changelog_v1.3.5.113110_-_Week_83",
-      "weight": "",
-      "crafting_stations": []
-    },
-    {
-      "name": "Changelog v2.1.18.119581 - Week 115",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.1.18.119581_-_Week_115",
-      "weight": "",
-      "crafting_stations": []
-    },
-    {
-      "name": "Changelog v2.2.18.126568 - Week 143",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.18.126568_-_Week_143",
-      "weight": ".g",
-      "crafting_stations": []
-    },
-    {
-      "name": "Changelog v2.2.31.130582 - Week 156",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.31.130582_-_Week_156",
-      "weight": "",
-      "crafting_stations": []
-    },
-    {
-      "name": "Changelog v2.2.56.137509 - Week 181",
-      "ingredients": {},
-      "crafted_at": "Coming Soon: Great Hunts in the PC Gamer Show",
-      "category": "ammunition",
-      "tier": 8,
-      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.56.137509_-_Week_181",
-      "weight": "",
-      "crafting_stations": [
-        "Coming Soon: Great Hunts in the PC Gamer Show"
-      ]
-    },
-    {
-      "name": "Changelog v2.2.60.138841 - Week 185",
-      "ingredients": {},
-      "crafted_at": "[",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.60.138841_-_Week_185",
-      "weight": "5kg",
-      "crafting_stations": [
-        "["
-      ]
-    },
-    {
-      "name": "Changelog v2.2.62.139704 - Week 187",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Changelog_v2.2.62.139704_-_Week_187",
-      "weight": "1kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Cold Steel Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 5,
-      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Cold Steel Bolt",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "ingredients": {
+        "Copper Ingot": 1,
+        "Carbon Fiber": 4,
+        "Epoxy": 1
+      },
+      "crafted_at": "Machining Bench",
       "category": "ammunition",
       "tier": 0,
-      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Bolt",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Cold Steel Ingot",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Cold_Steel_Ingot",
-      "weight": "4 kg",
-      "crafting_stations": []
+      "url": "https://eip.gg/icarus/db/carbon-arrow/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
     },
     {
       "name": "Composite Arrow",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Composite_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/composite-arrow/",
+      "crafting_stations": [
+        "Fabricator"
+      ]
     },
     {
       "name": "Copper Bolt",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "ingredients": {
+        "Wood": 1,
+        "Copper Ingot": 1
+      },
+      "crafted_at": "Anvil Bench",
       "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Copper_Bolt",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Copper Ore",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Copper_Ore",
-      "weight": "4 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Crocodile",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Crocodile",
-      "weight": "",
-      "crafting_stations": []
-    },
-    {
-      "name": "Crossbow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Crossbow",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Crude Ammo",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Crude_Ammo",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Crystallized Miasma",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Crystallized_Miasma",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Deep Mining Ore Scanner",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Deep_Mining_Ore_Scanner",
-      "weight": "0 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Distilled Miasmic Coating",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Distilled_Miasmic_Coating",
-      "weight": "3 kg",
-      "crafting_stations": []
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/copper-bolt/",
+      "crafting_stations": [
+        "Anvil Bench"
+      ]
     },
     {
       "name": "Fire Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "ingredients": {
+        "Stone Arrow": 1,
+        "Gunpowder": 2
+      },
+      "crafted_at": "Character",
       "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Fire_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Flamethrower",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Flamethrower",
-      "weight": "5 kg",
-      "crafting_stations": []
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/fire-arrow/",
+      "crafting_stations": [
+        "Character"
+      ]
     },
     {
       "name": "Flare Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "ingredients": {
+        "Stone Arrow": 1,
+        "Sulfur": 2
+      },
+      "crafted_at": "Character",
       "category": "ammunition",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/en/wiki/Flare_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/flare-arrow/",
+      "crafting_stations": [
+        "Character"
+      ]
     },
     {
       "name": "Flint Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "ingredients": {
+        "Leather": 1,
+        "Stick": 1,
+        "Iron Ore": 1
+      },
+      "crafted_at": "Crafting Bench",
       "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Flint_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Forge",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Forge",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Foundry",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Foundry",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Frontier Revolver",
-      "ingredients": {},
-      "crafted_at": "Repaired with",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Frontier_Revolver",
-      "weight": "5 kg",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/flint-arrow/",
       "crafting_stations": [
-        "Repaired with"
+        "Crafting Bench"
       ]
     },
     {
-      "name": "Grizzly Bear",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Grizzly_Bear",
-      "weight": "",
-      "crafting_stations": []
-    },
-    {
-      "name": "Gunpowder",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Gunpowder",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Heavy Flamethrower",
-      "ingredients": {},
-      "crafted_at": "Repaired with",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Heavy_Flamethrower",
-      "weight": "0 kg",
-      "crafting_stations": [
-        "Repaired with"
-      ]
-    },
-    {
-      "name": "Hunting Rifle",
-      "ingredients": {},
-      "crafted_at": "with the following resources:",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Hunting_Rifle",
-      "weight": "0 kg",
-      "crafting_stations": [
-        "with the following resources:"
-      ]
-    },
-    {
-      "name": "Inaris \"Aruda\" Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Aruda\"_Arrow",
-      "weight": "2 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Inaris \"Aruda\" Arrow Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Aruda\"_Arrow_Bundle",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Inaris \"Biana\" Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Biana\"_Arrow",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Inaris \"Biana\" Arrow Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Biana\"_Arrow_Bundle",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Inaris \"Heavy\" Crossbow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Heavy\"_Crossbow",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Inaris \"Lune\" Crossbow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Lune\"_Crossbow",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Inaris \"Netch\" Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Netch\"_Arrow",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Inaris \"Netch\" Arrow Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Netch\"_Arrow_Bundle",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Inaris \"Rapid\" Crossbow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Rapid\"_Crossbow",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Inaris \"Rouge\" Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Rouge\"_Arrow",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Inaris \"Rouge\" Arrow Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Rouge\"_Arrow_Bundle",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Inaris \"Sole\" Crossbow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Inaris_\"Sole\"_Crossbow",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Ion Backpack",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Ion_Backpack",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Iron Bolt",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Iron_Bolt",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Javelin Launcher",
-      "ingredients": {},
-      "crafted_at": "Repaired with",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Javelin_Launcher",
-      "weight": "0 kg",
-      "crafting_stations": [
-        "Repaired with"
-      ]
-    },
-    {
-      "name": "Kinetic Rifle",
-      "ingredients": {},
-      "crafted_at": "Repaired with",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Kinetic_Rifle",
-      "weight": "0 kg",
-      "crafting_stations": [
-        "Repaired with"
-      ]
-    },
-    {
-      "name": "Larkwell Arrow Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Arrow_Bundle",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Ballistic Arrow Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Ballistic_Arrow_Bundle",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Bleed Arrow Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Bleed_Arrow_Bundle",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Bolt Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Bolt_Bundle",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Charged Bolt Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Charged_Bolt_Bundle",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Explosive Bolt Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Explosive_Bolt_Bundle",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Martinez Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Arrow",
-      "weight": "3 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Martinez Ballistic Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Ballistic_Arrow",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Martinez Bleed Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Bleed_Arrow",
-      "weight": "3 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Martinez Bolt",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Bolt",
-      "weight": "3 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Martinez Charged Bolt",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Charged_Bolt",
-      "weight": "3 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Martinez Compound Bow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Compound_Bow",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Martinez Explosive Bolt",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Explosive_Bolt",
-      "weight": "3 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Martinez Piercing Bolt",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Piercing_Bolt",
-      "weight": "3 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Martinez Tazer Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Martinez_Tazer_Arrow",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Piercing Bolt Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Piercing_Bolt_Bundle",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Larkwell Tazer Arrow Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Larkwell_Tazer_Arrow_Bundle",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Leather",
+      "name": "Icarus Database",
       "ingredients": {},
       "crafted_at": "Unknown",
       "category": "ammunition",
       "tier": 0,
-      "url": "https://icarus.fandom.com/en/wiki/Leather",
-      "weight": "0g",
+      "url": "https://eip.gg/icarus/db/",
       "crafting_stations": []
     },
     {
-      "name": "Light Automatic Carbine",
-      "ingredients": {},
-      "crafted_at": "with the following resources:",
+      "name": "Incendiary Rifle Round",
+      "ingredients": {
+        "Iron Ingot": 1,
+        "Gunpowder": 10
+      },
+      "crafted_at": "Machining Bench",
       "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Light_Automatic_Carbine",
-      "weight": "0 kg",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/incendiary-rifle-round/",
       "crafting_stations": [
-        "with the following resources:"
+        "Machining Bench"
       ]
     },
     {
-      "name": "Longbow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "name": "Iron Bolt",
+      "ingredients": {
+        "Wood": 1,
+        "Iron Ingot": 2
+      },
+      "crafted_at": "Anvil Bench",
       "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Longbow",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "MXC Flange Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/MXC_Flange_Arrow",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "MXC Flange Arrow Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/MXC_Flange_Arrow_Bundle",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "MXC Nerve Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/MXC_Nerve_Arrow",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "MXC Nerve Arrow Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/MXC_Nerve_Arrow_Bundle",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "MXC Venom Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/MXC_Venom_Arrow",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "MXC Venom Arrow Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/MXC_Venom_Arrow_Bundle",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Miasmic Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Miasmic_Arrow",
-      "weight": "3 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Obsidian Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Arrow",
-      "weight": "3 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Obsidian Bolt",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Obsidian_Bolt",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "One-Shot Pistol",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 9,
-      "url": "https://icarus.fandom.com/en/wiki/One-Shot_Pistol",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Pistol",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Pistol",
-      "weight": "8 kg",
-      "crafting_stations": []
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/iron-bolt/",
+      "crafting_stations": [
+        "Anvil Bench"
+      ]
     },
     {
       "name": "Platinum Bolt",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "ingredients": {
+        "Epoxy": 3,
+        "Platinum Ingot": 1
+      },
+      "crafted_at": "Machining Bench",
       "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Platinum_Bolt",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Platinum Crossbow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Platinum_Crossbow",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Platinum Ore",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Platinum_Ore",
-      "weight": "0g",
-      "crafting_stations": []
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/platinum-bolt/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
     },
     {
       "name": "Poison Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "ingredients": {
+        "Stone Arrow": 1,
+        "Poison Paste": 2
+      },
+      "crafted_at": "Character",
       "category": "ammunition",
-      "tier": 1,
-      "url": "https://icarus.fandom.com/en/wiki/Poison_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Poison Paste",
-      "ingredients": {},
-      "crafted_at": "with the following resources:",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Poison_Paste",
-      "weight": "5 Kg",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/poison-arrow/",
       "crafting_stations": [
-        "with the following resources:"
+        "Character"
       ]
     },
     {
-      "name": "Poison Sack",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "name": "Rifle Round",
+      "ingredients": {
+        "Iron Ingot": 1,
+        "Gunpowder": 1
+      },
+      "crafted_at": "Machining Bench",
       "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Poison_Sack",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Rusty Shotgun",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Rusty_Shotgun",
-      "weight": "0 kg",
-      "crafting_stations": []
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/rifle-round/",
+      "crafting_stations": [
+        "Machining Bench"
+      ]
     },
     {
       "name": "Sandworm Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "ingredients": {
+        "Stick": 1,
+        "Leather": 1,
+        "Sandworm Scale": 1
+      },
+      "crafted_at": "Character",
       "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Sandworm_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Sandworm Bow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Sandworm_Bow",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Sandworm Scale",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Sandworm_Scale",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Semi-Automatic Pistol",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 9,
-      "url": "https://icarus.fandom.com/en/wiki/Semi-Automatic_Pistol",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Shaped Obsidian",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Shaped_Obsidian",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Shengong \"Ji\" Bow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Ji\"_Bow",
-      "weight": "1kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Shengong \"Jijing\" Bow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Jijing\"_Bow",
-      "weight": "1kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Shengong \"Wenhe\" Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Wenhe\"_Arrow",
-      "weight": "2 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Shengong \"Wenhe\" Arrow Bundle",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 2,
-      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Wenhe\"_Arrow_Bundle",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Shengong \"Zhang Hu\" Bow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Shengong_\"Zhang_Hu\"_Bow",
-      "weight": "1kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Shengong CZ4 Bow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Shengong_CZ4_Bow",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Shengong HS2 Bow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Shengong_HS2_Bow",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Shotgun",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Shotgun",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Sniper Scope Attachment",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Sniper_Scope_Attachment",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Spoiled Plants",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Spoiled_Plants",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Steel Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Steel_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/sandworm-arrow/",
+      "crafting_stations": [
+        "Character"
+      ]
     },
     {
       "name": "Steel Bolt",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "ingredients": {
+        "Wood": 1,
+        "Steel Ingot": 2
+      },
+      "crafted_at": "Anvil Bench",
       "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Steel_Bolt",
-      "weight": "5 kg",
-      "crafting_stations": []
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/steel-bolt/",
+      "crafting_stations": [
+        "Anvil Bench"
+      ]
     },
     {
       "name": "Stone Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "ingredients": {
+        "Fiber": 1,
+        "Stick": 1,
+        "Stone": 1
+      },
+      "crafted_at": "Character",
       "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Stone_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Strengthened Strings Attachment",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Strengthened_Strings_Attachment",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Submachine Gun",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Submachine_Gun",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Sulfur",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Sulfur",
-      "weight": "2 Kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Tactical Bow",
-      "ingredients": {},
-      "crafted_at": "Repaired with",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Tactical_Bow",
-      "weight": "0 kg",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/stone-arrow/",
       "crafting_stations": [
-        "Repaired with"
+        "Character"
       ]
-    },
-    {
-      "name": "Talents",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Talents",
-      "weight": "",
-      "crafting_stations": []
-    },
-    {
-      "name": "Titanium Arrow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Titanium_Arrow",
-      "weight": "1 kg",
-      "crafting_stations": []
     },
     {
       "name": "Titanium Bolt",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "ingredients": {
+        "Epoxy": 4,
+        "Titanium Ingot": 1
+      },
+      "crafted_at": "Machining Bench",
       "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Titanium_Bolt",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Titanium Crossbow",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 3,
-      "url": "https://icarus.fandom.com/en/wiki/Titanium_Crossbow",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Titanium Ingot",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Titanium_Ingot",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Trajectory Module Attachment",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Trajectory_Module_Attachment",
-      "weight": "1 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Trench Shotgun",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Trench_Shotgun",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Vapor Condenser",
-      "ingredients": {},
-      "crafted_at": "with the following resources:",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Vapor_Condenser",
-      "weight": "0 kg",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/titanium-bolt/",
       "crafting_stations": [
-        "with the following resources:"
+        "Machining Bench"
       ]
-    },
-    {
-      "name": "Volatile Substance",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Volatile_Substance",
-      "weight": "5 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Worm Scale",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Worm_Scale",
-      "weight": "0 kg",
-      "crafting_stations": []
-    },
-    {
-      "name": "Xiatau",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "category": "ammunition",
-      "tier": 4,
-      "url": "https://icarus.fandom.com/en/wiki/Xiatau",
-      "weight": "",
-      "crafting_stations": []
     }
   ]
 }

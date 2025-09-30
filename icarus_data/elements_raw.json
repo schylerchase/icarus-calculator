@@ -1,0 +1,233 @@
+{
+  "category": "Elements Raw",
+  "count": 25,
+  "items": [
+    {
+      "name": "Aluminium Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/aluminium-ore/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Bone",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/bone/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Charcoal",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/charcoal/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Coal Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/coal-ore/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Copper Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/copper-ore/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fiber",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/fiber/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Fur",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/fur/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Gold Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/gold-ore/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Icarus Database",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Ice",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/ice/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Iron Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/iron-ore/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Leather",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/leather/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Lily",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/lily/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Oxite Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/oxite-ore/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Platinum Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/platinum-ore/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Polar Bear Pelt",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/polar-bear-pelt/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Reed Flower",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/reed-flower/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sandworm Scale",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 2,
+      "url": "https://eip.gg/icarus/db/sandworm-scale/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Silica Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/silica-ore/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Spoiled Meat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/spoiled-meat/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Stick",
+      "ingredients": {},
+      "crafted_at": "the Carpentry Bench",
+      "category": "elements_raw",
+      "tier": 1,
+      "url": "https://eip.gg/icarus/db/stick/",
+      "crafting_stations": [
+        "the Carpentry Bench"
+      ]
+    },
+    {
+      "name": "Stone",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/stone/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Sulfur Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/sulfur-ore/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Titanium Ore",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/titanium-ore/",
+      "crafting_stations": []
+    },
+    {
+      "name": "Wheat",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "category": "elements_raw",
+      "tier": 0,
+      "url": "https://eip.gg/icarus/db/wheat/",
+      "crafting_stations": []
+    }
+  ]
+}

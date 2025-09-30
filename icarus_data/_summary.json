@@ -1,27 +1,19 @@
 {
-  "total_items": 3869,
+  "total_items": 420,
   "failed_items": 0,
   "categories": {
-    "ammunition": 181,
-    "weapons": 328,
-    "tools": 380,
-    "armor": 180,
-    "building": 61,
-    "consumables": 281,
-    "medicine": 77,
-    "materials": 497,
-    "raw_materials": 249,
-    "deployables": 483,
-    "farming": 121,
-    "furniture": 99,
-    "decoration": 115,
-    "electricity_sources": 58,
-    "water_sources": 237,
-    "fuel_sources": 128,
-    "light_sources": 163,
-    "storage": 124,
-    "cooking": 64,
-    "specialized_equipment": 43
+    "ammunition": 19,
+    "armor": 9,
+    "construction_materials": 76,
+    "consumables": 83,
+    "deployables": 44,
+    "elements_raw": 25,
+    "processing": 15,
+    "status_effects": 68,
+    "tools": 38,
+    "weapons": 23,
+    "work_benches": 20
   },
-  "scrape_date": "2025-09-29 20:46:22"
+  "scrape_date": "2025-09-30 07:49:10",
+  "source": "https://eip.gg/icarus/db/"
 }
