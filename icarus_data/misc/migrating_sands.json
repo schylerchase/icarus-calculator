@@ -2,7 +2,7 @@
   "name": "Migrating Sands",
   "url": "https://icarus.fandom.com/wiki/Migrating_Sands:_Survey",
   "description": "INVESTIGATE AN ANOMALY  IN THE DESERT",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -12,5 +12,9 @@
   "category": "",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

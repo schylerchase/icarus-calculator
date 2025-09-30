@@ -13,5 +13,14 @@
   "category": "armors",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Platinum Weave": 4,
+      "Cured Leather": 4,
+      "Rope": 6,
+      "Epoy": 8
+    },
+    "crafted_at": "Advanced Textiles Bench"
+  }
 }

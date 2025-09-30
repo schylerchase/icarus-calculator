@@ -2,7 +2,7 @@
   "name": "Refrigerator",
   "url": "https://icarus.fandom.com/wiki/Refrigerator",
   "description": "The Refrigerator will slow the decay of food placed inside, increasing the time until food spoils by 8x when powered. Requires 500 units ofpowerto function. Has 24 slots.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,14 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Aluminium Ingot": 40,
+      "Electronics": 20,
+      "Carbon Fiber": 8,
+      "Steel Screw": 12
+    },
+    "crafted_at": "Fabricator"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Glassworking Bench",
   "url": "https://icarus.fandom.com/wiki/Glassworking_Bench",
   "description": "The Glassworking Bench is a mid-to-late game technology that allows Prospectors to createGlassresources and construction elements, like theGlass WindowandGlass Roof. In addition, Prospectors can create containers for food and beverages, such as theGlass BottleandGlass Jar.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,15 @@
   "category": "crafting benches",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 24,
+      "Refined Wood": 10,
+      "Epoy": 6,
+      "Rope": 6,
+      "Copper Nail": 40
+    },
+    "crafted_at": "Machining Bench"
+  }
 }

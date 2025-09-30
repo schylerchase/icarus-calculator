@@ -2,7 +2,7 @@
   "name": "Marble Kitchen Bench",
   "url": "https://icarus.fandom.com/wiki/Marble_Kitchen_Bench",
   "description": "The Marble Kitchen Bench is a late-game crafting bench that expands on cooking foods and contains the recipes that can be found in theCooking Station. Crafts 50% faster than theKitchen Bench. A water connection is not required for the Marble Kitchen Bench to function.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Marble Kitchen Bench"
+  }
 }

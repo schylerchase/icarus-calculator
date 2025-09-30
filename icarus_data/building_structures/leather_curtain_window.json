@@ -2,7 +2,7 @@
   "name": "Leather Curtain Window",
   "url": "https://icarus.fandom.com/wiki/Leather_Curtain_Window",
   "description": "A Leather Curtain Window made of wood and Leather, use it to keep the weather out.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -12,5 +12,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
 }

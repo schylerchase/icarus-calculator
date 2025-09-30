@@ -2,7 +2,7 @@
   "name": "Chimney Extension",
   "url": "https://icarus.fandom.com/wiki/Chimney_Extension",
   "description": "A Chimney Extension is a decorative section of stone chimney to place on aFireplaceor another existing Chimney Extension to extend the chimney vertically. It is usually capped with aChimney CaporChimney Cap Half.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,12 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Stone": 40,
+      "Wood": 20
+    },
+    "crafted_at": "Machining Bench"
+  }
 }

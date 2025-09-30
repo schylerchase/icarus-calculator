@@ -2,7 +2,7 @@
   "name": "Composite Paste",
   "url": "https://icarus.fandom.com/wiki/Composite_Paste",
   "description": "Composite Paste is an end-game crafted resource which can be smelted intoCompositesinside of theElectric Furnace.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -10,5 +10,14 @@
   "category": "crafted resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ore": 2,
+      "Silica Ore": 1,
+      "Organic Resin": 1,
+      "Platinum Ore": 1
+    },
+    "crafted_at": "Electric Furnace"
+  }
 }

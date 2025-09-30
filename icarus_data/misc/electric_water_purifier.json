@@ -2,7 +2,7 @@
   "name": "Electric Water Purifier",
   "url": "https://icarus.fandom.com/wiki/Electric_Water_Purifier",
   "description": "Electric Water Purifiers can be crafted from the Fabricator with the following resources once the appropriate blueprint point has been spent:",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Fabricator"
+  }
 }

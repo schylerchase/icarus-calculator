@@ -2,7 +2,7 @@
   "name": "Honeycomb",
   "url": "https://icarus.fandom.com/wiki/Honeycomb",
   "description": "Honeycomb can be found in wild beehives and cave beehives, the hives need to be destroyed with a ballistic or melee weapon. Honeycomb can also be produced in a domesticBeehive.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "mortar and pestle"
+  }
 }

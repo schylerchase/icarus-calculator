@@ -12,5 +12,14 @@
   "category": "arrows",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Cold Steel Ingot": 0.2,
+      "Copper Nail": 1,
+      "Fur": 1,
+      "Refined Wood": 1
+    },
+    "crafted_at": "Forge"
+  }
 }

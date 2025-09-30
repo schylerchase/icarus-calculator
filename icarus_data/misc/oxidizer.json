@@ -2,7 +2,7 @@
   "name": "Oxidizer",
   "url": "https://icarus.fandom.com/wiki/Oxidizer",
   "description": "Early game , unlocking this provides for an incredible boost in efficiency vs the initial need to consume raw Oxite to maintain oxygen supply. Once built and placed, the Oxidizer is used by adding Oxite (10 max) and once the leather balloon is filled, oxygen can be consumed by activating the balloon. The balloon holds up to 1.00L (1000u) of breathable oxygen.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -10,5 +10,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Character"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Decoration Bench",
   "url": "https://icarus.fandom.com/wiki/Decoration_Bench",
   "description": "Although prospectors may not use this bench often, it is required to completeHomestead: Construction.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,14 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 60,
+      "Wood": 50,
+      "Stone": 12,
+      "Leather": 20
+    },
+    "crafted_at": "Crafting Bench"
+  }
 }

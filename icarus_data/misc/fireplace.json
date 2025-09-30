@@ -2,7 +2,7 @@
   "name": "Fireplace",
   "url": "https://icarus.fandom.com/wiki/Fireplace",
   "description": "The Fireplace is deployable stone and wood building piece that provides a source of heat, a source of light,Cozinessand a safer alternative to cookingFoodthan theCampfire. It provides an indoor source of heat that allows the prospector to avoid inadvertently setting themselves ablaze.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,12 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Stone": 120,
+      "Wood": 30
+    },
+    "crafted_at": "Machining Bench"
+  }
 }

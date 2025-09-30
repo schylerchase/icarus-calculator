@@ -2,7 +2,7 @@
   "name": "Endurogel",
   "url": "https://icarus.fandom.com/wiki/Endurogel",
   "description": "Endurogel is aConsumablethat restores a portion of stamina when consumed. It is a one time use consumable.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "consumables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

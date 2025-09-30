@@ -2,7 +2,7 @@
   "name": "Biofuel Generator",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Generator",
   "description": "The Biofuel Generator generatesElectricitywhen supplied with biofuel from aBiofuel Can. Use anElectricity Toolto connect it toBenchesto provide power.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,9 @@
   "category": "electricity source",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Fabricator"
+  }
 }

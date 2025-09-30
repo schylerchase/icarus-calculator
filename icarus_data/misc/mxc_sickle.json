@@ -2,7 +2,7 @@
   "name": "MXC Sickle",
   "url": "https://icarus.fandom.com/wiki/MXC_Sickle",
   "description": "When using a Sickle, the Prospector will gain a significant increase in a givenPlant Resource, when compared to picking that resource by hand.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,9 @@
   "category": "sickles",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Hitching Post",
   "url": "https://icarus.fandom.com/wiki/Hitching_Post",
   "description": "The Hitching Post is a deployable item that can be deployed and used to hitch up tamedMountsusing aHitching Rope.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,13 @@
   "category": "mount equipment",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 4,
+      "Wood": 6,
+      "Rope": 2
+    },
+    "crafted_at": "Ranching Station"
+  }
 }

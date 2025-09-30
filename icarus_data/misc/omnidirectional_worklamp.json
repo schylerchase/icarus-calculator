@@ -2,7 +2,7 @@
   "name": "Omnidirectional Worklamp",
   "url": "https://icarus.fandom.com/wiki/Omnidirectional_Worklamp",
   "description": "The Omnidirectional Worklamp provides lighting for a Prospector's base. Requires 150 units ofpowerto function.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,14 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Aluminium Ingot": 20,
+      "Glass": 5,
+      "Composites": 10,
+      "Electronics": 2
+    },
+    "crafted_at": "Fabricator"
+  }
 }

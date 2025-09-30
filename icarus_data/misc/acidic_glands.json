@@ -2,7 +2,7 @@
   "name": "Acidic Glands",
   "url": "https://icarus.fandom.com/wiki/Acidic_Glands",
   "description": "Acidic Glands can be taken to anOrganic Residue Cleanserto be turned into 5xAnimal Fat. Hazardous when carried in small amounts, deadly when carried in large quantities/with several other Miasmic items. Despite the risk, Acidic Glands is an excellent source ofAnimal Fat.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

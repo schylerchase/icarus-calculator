@@ -2,7 +2,7 @@
   "name": "Exotics",
   "url": "https://icarus.fandom.com/wiki/Exotics",
   "description": "Exotics are one the most valuableMineralharvested on Icarus and are a potential reward for completing certainMissions/Operations. They were the reason terraforming failed on Icarus, and now their unique properties are sought after by the variousFactionsseeking to exploit Icarus.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "minerals",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Fabricator"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Masonry Bench",
   "url": "https://icarus.fandom.com/wiki/Masonry_Bench",
   "description": "The Masonry Bench enables the construction ofStone Building PiecesandScoria Building Pieces, but only once the prospector researches the blueprint sets for those building pieces.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafting Bench"
+  }
 }

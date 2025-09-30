@@ -2,7 +2,7 @@
   "name": "Basic Fishing Bench",
   "url": "https://icarus.fandom.com/wiki/Basic_Fishing_Bench",
   "description": "The Basic Fishing Bench is where Prospectors can craft theWooden Fishing Rodand theRefined Wood Fishing Rod, as well as variousLureson the left hand side of the bench. The right side of the bench is used to fillet any fish caught using aFishing Rodor Fishing Trap. Does not require shelter to be used.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,14 @@
   "category": "fishing equipment",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 25,
+      "Rope": 10,
+      "Iron Ingot": 5,
+      "Copper Nail": 12
+    },
+    "crafted_at": "Crafting Bench"
+  }
 }

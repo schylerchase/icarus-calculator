@@ -2,7 +2,7 @@
   "name": "Obsidian Javelin",
   "url": "https://icarus.fandom.com/wiki/Obsidian_Javelin",
   "description": "The Obsidian Javelin is a variant of theObsidian Spearthat can only be thrown. Deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Excels when used against Fauna that have a weakness to fire. A list of Fauna that are weak to fire can be viewedhere. When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds.\nFauna with:",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "javelins",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Anvil Bench"
+  }
 }

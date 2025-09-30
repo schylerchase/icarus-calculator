@@ -13,5 +13,12 @@
   "category": "armors",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Bone": 15,
+      "Leather": 8
+    },
+    "crafted_at": "Character"
+  }
 }

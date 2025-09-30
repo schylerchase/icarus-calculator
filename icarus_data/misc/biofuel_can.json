@@ -2,7 +2,7 @@
   "name": "Biofuel Can",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Can",
   "description": "Biofuel Can is used to storeBiofuel. It is filled at either theBiofuel ComposterorElectric Composter.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,9 @@
   "category": "tools",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
 }

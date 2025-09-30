@@ -2,7 +2,7 @@
   "name": "Material Processor",
   "url": "https://icarus.fandom.com/wiki/Material_Processor",
   "description": "The Material Processor serves as a much faster and more advancedTier 4version of theMortar and Pestlethat uses electricity to craft items.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,15 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Aluminium Ingot": 30,
+      "Electronics": 60,
+      "Steel Screw": 12,
+      "Titanium Plate": 3,
+      "Carbon Fiber": 8
+    },
+    "crafted_at": "Fabricator"
+  }
 }

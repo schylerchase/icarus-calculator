@@ -2,7 +2,7 @@
   "name": "Floor Torch",
   "url": "https://icarus.fandom.com/wiki/Floor_Torch",
   "description": "Basic lighting for a prospector's base or elsewhere.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -10,5 +10,9 @@
   "category": "light sources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Character"
+  }
 }

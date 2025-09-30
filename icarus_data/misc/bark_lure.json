@@ -2,7 +2,7 @@
   "name": "Bark Lure",
   "url": "https://icarus.fandom.com/wiki/Bark_Lure",
   "description": "The Bark Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone increase is the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Bark Lure degrades with use and will eventually break after ten uses.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,13 @@
   "category": "lures",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Stick": 2,
+      "Iron Nail": 2,
+      "Fiber": 2
+    },
+    "crafted_at": "Fishing Bench"
+  }
 }

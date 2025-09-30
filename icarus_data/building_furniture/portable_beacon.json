@@ -2,7 +2,7 @@
   "name": "Portable Beacon",
   "url": "https://icarus.fandom.com/wiki/Portable_Beacon",
   "description": "When deployed, the Portable Beacon will display a map marker that is visible on the map and compass, which is helpful for marking locations of caves/bases/predator spawns/or anything else a Prospector wishes to mark. When interacting with the Portable Beacon, Prospectors can choose from a list of available icons and colors to customize the icon displayed. Must be placed outdoors.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,15 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Gold Wire": 30,
+      "Copper Wire": 25,
+      "Steel Ingot": 10,
+      "Platinum Sheath": 20,
+      "Glass": 10
+    },
+    "crafted_at": "Machining Bench"
+  }
 }

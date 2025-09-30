@@ -2,7 +2,7 @@
   "name": "Reinforced Door",
   "url": "https://icarus.fandom.com/wiki/Reinforced_Door",
   "description": "The Reinforced Door is part of theReinforced Wood Building Trim Set, which is learned in theTier 2Tech Tree after unlocking theCarpentry Bench. Can be repaired with aHammer.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,5 +13,14 @@
   "category": "reinforced wood building trim set",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 4,
+      "Iron Ingot": 6,
+      "Iron Nail": 8,
+      "Rope": 4
+    },
+    "crafted_at": "Carpentry Bench"
+  }
 }

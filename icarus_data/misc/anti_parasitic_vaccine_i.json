@@ -2,7 +2,7 @@
   "name": "Anti-Parasitic Vaccine I",
   "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Vaccine_I",
   "description": "Anti-Parasitic Vaccine I is purchased in theWorkshopon theSpace Station. Vaccines are long lasting preventatives of aliments on Icarus, they provide a unqiueStatus Effect, which makes surviving the enviroment without worry possible.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "medicine",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

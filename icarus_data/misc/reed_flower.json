@@ -2,7 +2,7 @@
   "name": "Reed Flower",
   "url": "https://icarus.fandom.com/wiki/Reed_Flower",
   "description": "Reed flowers can be found alongside water in theForestBiomeon Icarus. They can be harvested most efficiently with aSickle.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "resourcesplant resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

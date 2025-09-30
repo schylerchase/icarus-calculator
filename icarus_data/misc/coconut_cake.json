@@ -2,7 +2,7 @@
   "name": "Coconut Cake",
   "url": "https://icarus.fandom.com/wiki/Coconut_Cake",
   "description": "Coconut Cake is a deployableFooditem that when placed on a surface will provide 8Coconut Cake Piecesthat can be picked up and consumed by Prospectors.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,16 @@
   "category": "food",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Butter": 1,
+      "Flour": 20,
+      "Sugar Cubes": 10,
+      "Egg": 2,
+      "Vegetable Oil": 2,
+      "Mature Coconut": 2
+    },
+    "crafted_at": "Unknown"
+  }
 }

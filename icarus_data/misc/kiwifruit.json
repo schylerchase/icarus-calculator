@@ -2,7 +2,7 @@
   "name": "Kiwifruit",
   "url": "https://icarus.fandom.com/wiki/Kiwifruit",
   "description": "Kiwifruit are a fresh fruit that can be eaten raw for a small boost in stamina and resistance to cave sickness or used in additionalFoodrecipes.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

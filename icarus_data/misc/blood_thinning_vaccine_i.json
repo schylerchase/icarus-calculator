@@ -2,7 +2,7 @@
   "name": "Blood Thinning Vaccine I",
   "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Vaccine_I",
   "description": "Blood Thinning Vaccine I is purchased in theWorkshopon theSpace Station. Vaccines are long lasting preventatives of aliments on Icarus, they provide a uniqueStatus Effect, which makes surviving the environment without worry possible.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "medicine",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

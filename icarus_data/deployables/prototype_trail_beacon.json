@@ -2,7 +2,7 @@
   "name": "Prototype Trail Beacon",
   "url": "https://icarus.fandom.com/wiki/Prototype_Trail_Beacon",
   "description": "The Prototype Trail Beacon is a small portable self-powered beacon that is deployed with thePrototype Trail Beacon Toolto form a breadcrumb trail in the uncharted areas of theNull Sector RegiononPrometheus.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,15 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Gold Wire": 10,
+      "Copper Wire": 5,
+      "Steel Ingot": 4,
+      "Steel Screw": 4,
+      "Glass": 2
+    },
+    "crafted_at": "Machining Bench"
+  }
 }

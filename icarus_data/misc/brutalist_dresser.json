@@ -2,7 +2,7 @@
   "name": "Brutalist Dresser",
   "url": "https://icarus.fandom.com/wiki/Brutalist_Dresser",
   "description": "The Brutalist Dresser is a concrete bedroom furniture piece made in the Brutalist design aesthetic. It has 10 inventory slots forStorageand provides a small bonus toCoziness.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
 }

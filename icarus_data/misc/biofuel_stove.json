@@ -2,7 +2,7 @@
   "name": "Biofuel Stove",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Stove",
   "description": "The Biofuel Stove is a mid- to late-game technology that expands the recipes available compared to thePotbelly Stove. It requiresBiofuelto run and must be snapped to a side of theKitchen Bench.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
 }

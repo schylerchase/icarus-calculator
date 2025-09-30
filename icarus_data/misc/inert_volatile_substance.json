@@ -2,7 +2,7 @@
   "name": "Inert Volatile Substance",
   "url": "https://icarus.fandom.com/wiki/Inert_Volatile_Substance",
   "description": "Inert Volatile Substance is the byproduct ofVolatile Substance. With it no longer in its potent form, it is best thrown away/destroyed (destroying grants 1Salt).",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -10,5 +10,9 @@
   "category": "crafted resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

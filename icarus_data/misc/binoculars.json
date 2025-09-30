@@ -2,7 +2,7 @@
   "name": "Binoculars",
   "url": "https://icarus.fandom.com/wiki/Binoculars",
   "description": "See your prey from further away.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -12,5 +12,14 @@
   "category": "tools",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Rope": 4,
+      "Glass": 6,
+      "Aluminium Ingot": 6,
+      "Epoy": 2
+    },
+    "crafted_at": "Machining Bench"
+  }
 }

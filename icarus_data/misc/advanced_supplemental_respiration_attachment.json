@@ -2,7 +2,7 @@
   "name": "Advanced Supplemental Respiration Attachment",
   "url": "https://icarus.fandom.com/wiki/Advanced_Supplemental_Respiration_Attachment",
   "description": "The Advanced Supplemental Respiration Attachment is an end-game item available once the prospector has unlocked theAdvanced Armor Attachment Packsin the Tier 4 Tech Tree.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -12,5 +12,14 @@
   "category": "advanced armor attachment pack",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Carbon Fiber": 1,
+      "Electronics": 1,
+      "Charcoal": 50,
+      "Supplemental Respiration Attachment": 1
+    },
+    "crafted_at": "Advanced Alteration Bench"
+  }
 }

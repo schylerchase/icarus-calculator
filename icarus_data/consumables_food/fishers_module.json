@@ -2,7 +2,7 @@
   "name": "Fisher's Module",
   "url": "https://icarus.fandom.com/wiki/Fisher%27s_Module",
   "description": "This module increases the user's ability to catchUnique Fishand, somehow, increases the quality of caught fish. It can be researched and crafted on theSpace Stationin theWorkshop. Multiple Fisher's Modules may be equipped if the Prospector has available slots on their Envirosuit, which will further increasing the user's ability to fish and become the Master Angler they wish to be.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "modules",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Brutalist Bed",
   "url": "https://icarus.fandom.com/wiki/Brutalist_Bed",
   "description": "The Brutalist Bed is mode from concrete and platinum weave, and has an increased sleep quality.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "beds",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "ST-700 Feet Armor",
   "url": "https://icarus.fandom.com/wiki/ST-700_Feet_Armor",
   "description": "",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,5 +13,9 @@
   "category": "armors",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

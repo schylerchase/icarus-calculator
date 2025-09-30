@@ -13,5 +13,13 @@
   "category": "arrows",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 0.1,
+      "Iron Ore": 0.1,
+      "Black Wolf Tooth": 0.2
+    },
+    "crafted_at": "Forge"
+  }
 }

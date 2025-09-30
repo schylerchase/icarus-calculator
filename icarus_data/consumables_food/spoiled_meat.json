@@ -2,7 +2,7 @@
   "name": "Spoiled Meat",
   "url": "https://icarus.fandom.com/wiki/Spoiled_Meat",
   "description": "Spoiled Meat is a byproduct ofRaw Meatthat has been allowed to go rancid. Can be used to make a variety of items, primarilyPoison Paste. Requires theYou Gonna Eat That?talent for Spoiled Meat to become consumable.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "resourcesfood",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

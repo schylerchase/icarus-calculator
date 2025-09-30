@@ -2,7 +2,7 @@
   "name": "Cave Survival Inhaler",
   "url": "https://icarus.fandom.com/wiki/Cave_Survival_Inhaler",
   "description": "The Cave Survival Inhaler is aMedicinethat boosts resistance toCave Sickness, increases health and stamina regeneration in caves and adds a 15% chance to harvest additionalStonewhen mining.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "medicine",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

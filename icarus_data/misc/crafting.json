@@ -2,7 +2,7 @@
   "name": "Crafting",
   "url": "https://icarus.fandom.com/wiki/Character_Crafting",
   "description": "Crafting is the skill that enables many of the other ways prospectors pursue their goals on Icarus. While they can gatherFoodwith their bare hands, and can attempt toHuntwith their fists, everything they attempt on the moon's surface is facilitated by crafting.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
 }

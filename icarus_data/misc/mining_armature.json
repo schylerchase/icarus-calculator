@@ -2,7 +2,7 @@
   "name": "Mining Armature",
   "url": "https://icarus.fandom.com/wiki/Mining_Armature",
   "description": "The Mining Armature is an electro-mechanical gauntlet that serves as aPickaxefor mining or for use in melee combat where it can inflict considerable damage to armored targets. It can be purchased in theBio-laband upgraded with various attachments.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,11 @@
   "category": "pickaxes",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Legendary Licence": 1
+    },
+    "crafted_at": "Unknown"
+  }
 }

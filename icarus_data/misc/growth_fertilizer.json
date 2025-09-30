@@ -2,7 +2,7 @@
   "name": "Growth Fertilizer",
   "url": "https://icarus.fandom.com/wiki/Growth_Fertilizer",
   "description": "Growth Fertilizer is used on crop plots to enhance the growth speed of grown crops. When applied, Crop Growth Speed is increased by 50% and Crop Yield is decreased by 25% for 1200 seconds. To fertilize a crop plot, equip a fertilizer of your choosing from your hotbar and left click the plot you wish to fertilize.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -10,5 +10,9 @@
   "category": "resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Chemistry Bench"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Rustic Dining Chair",
   "url": "https://icarus.fandom.com/wiki/Rustic_Dining_Chair",
   "description": "The Rustic Dining Chair a rustic chair that seats one prospector.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
 }

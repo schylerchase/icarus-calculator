@@ -13,5 +13,14 @@
   "category": "arrows",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Leather": 5,
+      "Stick": 5,
+      "Caveworm Scale": 2,
+      "Poison Sack": 5
+    },
+    "crafted_at": "Crafting Bench"
+  }
 }

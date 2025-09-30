@@ -2,7 +2,7 @@
   "name": "12-Gauge Casing",
   "url": "https://icarus.fandom.com/wiki/12-Gauge_Casing",
   "description": "The 12-Gauge Casing is a vital component used in the crafting of12-Gauge Buckshot Shellsand12-Gauge Slugs.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -10,5 +10,12 @@
   "category": "crafted resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Epoy": 2,
+      "Copper Ingot": 1
+    },
+    "crafted_at": "Machining Bench or Fabricator"
+  }
 }

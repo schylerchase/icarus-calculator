@@ -2,7 +2,7 @@
   "name": "Carpentry Bench",
   "url": "https://icarus.fandom.com/wiki/Carpentry_Bench",
   "description": "While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under severely damaged roof) in storms.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Carpentry Bench"
+  }
 }

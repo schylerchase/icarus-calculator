@@ -2,7 +2,7 @@
   "name": "Hot Coffee",
   "url": "https://icarus.fandom.com/wiki/Hot_Coffee",
   "description": "Mid-game warm beverage made by combining a filledLiquid Containersuch as aThermosandCoffee Beans.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "drinks",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

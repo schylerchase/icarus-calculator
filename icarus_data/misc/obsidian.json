@@ -2,7 +2,7 @@
   "name": "Obsidian",
   "url": "https://icarus.fandom.com/wiki/Obsidian",
   "description": "Glass formed from the belly of the earth, as chunks of solid lava. Obsidian is found in theVolcanicBiomein Icarus. In order to collect it, one needs to first break it apart using aSledgehammer.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

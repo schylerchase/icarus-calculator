@@ -2,7 +2,7 @@
   "name": "Full Sandworm Trophy",
   "url": "https://icarus.fandom.com/wiki/Full_Sandworm_Trophy",
   "description": "The Full Sandworm Trophy is a large decorative deployable that can be placed on the ground to display the remains of a once mightySandworm.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,16 @@
   "category": "trophies",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Refined Wood": 60,
+      "Iron Ingot": 16,
+      "Copper Nail": 30,
+      "Sandworm Scale": 20,
+      "Sandworm Tendon": 10,
+      "Sandworm Vestige": 1
+    },
+    "crafted_at": "Crafted At\n Trophy Bench"
+  }
 }

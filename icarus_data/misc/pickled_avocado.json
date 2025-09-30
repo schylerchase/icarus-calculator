@@ -2,7 +2,7 @@
   "name": "Pickled Avocado",
   "url": "https://icarus.fandom.com/wiki/Pickled_Avocado",
   "description": "Pickled Avocado is aFoodthat satisfiesHunger. It provides the uniqueStatus Effect,Pickled Avocado, which increases maximumStamina, reduces food consumption, and improves shared experience gain. Pickled Avocado does not decay and is therefore useful for long-term storage.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -10,5 +10,13 @@
   "category": "",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Avocado": 1,
+      "Glass Jar": 1,
+      "Salt": 5
+    },
+    "crafted_at": "Unknown"
+  }
 }

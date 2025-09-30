@@ -2,7 +2,7 @@
   "name": "Anti-Parasitic Tonic",
   "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Tonic",
   "description": "Used alone to cure parasitic infections such asFestering WoundandDysenteryor as a mid-stage ingredient to the prophylacticAnti-Parasitic Pill",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -10,5 +10,13 @@
   "category": "medicine",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Reed Flower": 1,
+      "Organic Resin": 1,
+      "Charcoal": 3
+    },
+    "crafted_at": "Unknown"
+  }
 }

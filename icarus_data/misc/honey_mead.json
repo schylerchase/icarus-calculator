@@ -2,7 +2,7 @@
   "name": "Honey Mead",
   "url": "https://icarus.fandom.com/wiki/Honey_Mead",
   "description": "Honey Mead is a mid-game beverage made from Honey, Red Berry and Yeast that greatly increases stamina and stamina regeneration.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -10,5 +10,14 @@
   "category": "drinks",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wild Berry": 5,
+      "Honey": 10,
+      "Yeast": 1,
+      "Glass Bottle": 1
+    },
+    "crafted_at": "Kitchen Bench"
+  }
 }

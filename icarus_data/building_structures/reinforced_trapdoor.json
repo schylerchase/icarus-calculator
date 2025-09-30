@@ -2,7 +2,7 @@
   "name": "Reinforced Trapdoor",
   "url": "https://icarus.fandom.com/wiki/Reinforced_Trapdoor",
   "description": "Reinforced Building Pieces at learned in theTier 2Tech Tree after unlocking theMasonry Bench, and other required Stone Bulding Pieces first. Can be repaired with aRepair Hammer.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,5 +13,9 @@
   "category": "building pieces",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafting Bench"
+  }
 }

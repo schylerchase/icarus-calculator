@@ -2,7 +2,7 @@
   "name": "Honey",
   "url": "https://icarus.fandom.com/wiki/Honey",
   "description": "Honey produced fromHoneycombwith theMortar and Pestleor theBeehive Extractor. The Mortar and Pestle produces 1x Honey per 2x Honeycomb and the Beehive Extractor produces 1x Honey for 1x Honeycomb.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -10,5 +10,9 @@
   "category": "food",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Mortar and Pestle"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Carbon Javelin",
   "url": "https://icarus.fandom.com/wiki/Carbon_Javelin",
   "description": "The Carbon Javelin is a variant of theCarbon Spearthat can only be thrown and is a cheaper upgrade to thePlatinum Javelinthat deals more damage and has a lower break chance.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,13 @@
   "category": "javelins",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Copper Ingot": 4,
+      "Carbon Fiber": 20,
+      "Epoy": 4
+    },
+    "crafted_at": "Forge"
+  }
 }

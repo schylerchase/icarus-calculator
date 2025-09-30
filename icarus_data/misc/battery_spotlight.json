@@ -2,7 +2,7 @@
   "name": "Battery Spotlight",
   "url": "https://icarus.fandom.com/wiki/Battery_Spotlight",
   "description": "The Battery Spotlight is a portableLight Sourcethat can be deployed on a floor or wall to provide illumination in a concentrated area. It is useful as a temporary light source while mining in caves.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -12,5 +12,15 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Glass": 8,
+      "Aluminium Ingot": 5,
+      "Epoy": 6,
+      "Electronics": 3,
+      "Copper Wire": 10
+    },
+    "crafted_at": "Fabricator"
+  }
 }

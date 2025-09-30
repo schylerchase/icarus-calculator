@@ -2,7 +2,7 @@
   "name": "Biofuel Fireplace",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Fireplace",
   "description": "The Biofuel Fireplace is deployableTier 3version of theFireplacethat burnsBiofuelto provide a source of heat, a source oflight,Cozinessand a means to cookFoodindoors.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
 }

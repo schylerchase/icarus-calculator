@@ -13,5 +13,14 @@
   "category": "armors",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Platinum Weave": 10,
+      "Composites": 5,
+      "Steel Screw": 5,
+      "Shaped Obsidian": 5
+    },
+    "crafted_at": "Electric Textiles Bench"
+  }
 }

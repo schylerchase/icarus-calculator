@@ -2,7 +2,7 @@
   "name": "Gorse Flower Lure",
   "url": "https://icarus.fandom.com/wiki/Gorse_Flower_Lure",
   "description": "The Gorse Flower Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. Like allLures, the Gorse Flower Lure degrades with use and will eventually break after ten uses.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,13 @@
   "category": "lures",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Gorse Flower": 2,
+      "Iron Nail": 2,
+      "Tree Sap": 2
+    },
+    "crafted_at": "Fishing Bench"
+  }
 }

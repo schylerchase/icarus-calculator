@@ -13,5 +13,14 @@
   "category": "armors",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Cured Leather": 3,
+      "Fur": 10,
+      "Rope": 4,
+      "Polar Bear Vestige": 1
+    },
+    "crafted_at": "Advanced Textiles Bench"
+  }
 }

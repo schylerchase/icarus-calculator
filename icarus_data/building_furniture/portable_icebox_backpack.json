@@ -2,7 +2,7 @@
   "name": "Portable Icebox Backpack",
   "url": "https://icarus.fandom.com/wiki/Portable_Icebox_Backpack",
   "description": "A handy backpack to prevent your food from spoiling on long journeys. Will run for 1 hour on a full charge. Can be recharged at aCharging Station.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,14 @@
   "category": "tools",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Aluminium Ingot": 25,
+      "Electronics": 10,
+      "Carbon Fiber": 5,
+      "Steel Screw": 10
+    },
+    "crafted_at": "Fabricator"
+  }
 }

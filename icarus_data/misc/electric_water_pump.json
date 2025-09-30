@@ -2,7 +2,7 @@
   "name": "Electric Water Pump",
   "url": "https://icarus.fandom.com/wiki/Electric_Water_Pump",
   "description": "The Electric Water Pump providesWaterwhen supplied with electricity, use theWater Pipe Toolto connect it toCrafting Benches/Water Storageto provide water. Requires 1,000 units ofElectricityto function and outputs 1,000 units ofWater.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Fabricator"
+  }
 }

@@ -13,5 +13,11 @@
   "category": "armors",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 40
+    },
+    "crafted_at": "Character"
+  }
 }

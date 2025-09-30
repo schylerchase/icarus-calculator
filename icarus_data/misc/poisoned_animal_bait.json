@@ -2,7 +2,7 @@
   "name": "Poisoned Animal Bait",
   "url": "https://icarus.fandom.com/wiki/Poisoned_Animal_Bait",
   "description": "Poisoned Animal Bait is used to lure random predators when left in an open area, poisoningFaunawho choose to consume it. The blueprint is unlocked account-wide after completing the prospectWet Work: Extermination. Stacks up to 5.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,12 @@
   "category": "animal bait",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Animal Bait": 1,
+      "Poison Paste": 2
+    },
+    "crafted_at": "Cooking Bench"
+  }
 }

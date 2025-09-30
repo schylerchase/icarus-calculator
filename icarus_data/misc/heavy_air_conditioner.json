@@ -2,7 +2,7 @@
   "name": "Heavy Air Conditioner",
   "url": "https://icarus.fandom.com/wiki/Heavy_Air_Conditioner",
   "description": "The Heavy Air Conditioner providesClimate Controlinside of a building, making it a great addition to any outpost located in aDesert. A connection providing at least 250electricityis required to use the Heavy Air Conditioner.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,14 @@
   "category": "climate control",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Aluminium Ingot": 40,
+      "Electronics": 20,
+      "Steel Screw": 8,
+      "Carbon Fiber": 8
+    },
+    "crafted_at": "Fabricator"
+  }
 }

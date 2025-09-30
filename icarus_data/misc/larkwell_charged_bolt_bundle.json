@@ -2,7 +2,7 @@
   "name": "Larkwell Charged Bolt Bundle",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Charged_Bolt_Bundle",
   "description": "Consuming the Larkwell Charged Bolt Bundle will add 25xLarkwell Martinez Charged Bolts to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed bolt bundles/remaining bolts cannot be taken back to the space station. Bolt bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -12,5 +12,9 @@
   "category": "bolts",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

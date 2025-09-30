@@ -2,7 +2,7 @@
   "name": "Cured Leather Chest Armor",
   "url": "https://icarus.fandom.com/wiki/Cured_Leather_Chest_Armor",
   "description": "Cured Leather Armor is an upgrade toLeather Armor, providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,12 @@
   "category": "armors",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Platinum Weave": 3,
+      "Cured Leather": 13
+    },
+    "crafted_at": "Advanced Textiles Bench"
+  }
 }

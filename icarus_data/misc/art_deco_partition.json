@@ -2,7 +2,7 @@
   "name": "Art Deco Partition",
   "url": "https://icarus.fandom.com/wiki/Art_Deco_Partition",
   "description": "The Art Deco Partition is an gilded item of significant worth.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
 }

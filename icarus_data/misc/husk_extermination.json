@@ -2,7 +2,7 @@
   "name": "Husk: Extermination",
   "url": "https://icarus.fandom.com/wiki/Husk:_Extermination",
   "description": "EXTERMINATE AND RESEARCH THE NATIVE SCORPION",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -12,5 +12,9 @@
   "category": "",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

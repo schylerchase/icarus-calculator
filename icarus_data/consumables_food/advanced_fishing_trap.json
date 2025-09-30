@@ -2,7 +2,7 @@
   "name": "Advanced Fishing Trap",
   "url": "https://icarus.fandom.com/wiki/Advanced_Fishing_Trap",
   "description": "One approach to catching fish is by using a Fishing Trap. Though aLureis not required, attaching one can increase the quality, length, and weight of the caught fish. Additionally, certain lures can increase the odds of catching a rarer type of fish. To attach a lure to the Advanced Fishing Trap, inspect the trap by pressing 'F' and drag the lure into the dedicated lure slot.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,13 @@
   "category": "fishing equipment",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Copper Nail": 10,
+      "Platinum Weave": 5,
+      "Iron Ingot": 10
+    },
+    "crafted_at": "Basic Fishing Bench"
+  }
 }

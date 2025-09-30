@@ -2,7 +2,7 @@
   "name": "Forge",
   "url": "https://icarus.fandom.com/wiki/Forge",
   "description": "The Forge is theTier 3variant of theAnvil Benchthat will allow the Prospector to craft higher quality tools such as thePlatinum Pickaxe,Cold Steel Knife, etc and items crafted at theAnvil Bench(Iron Axe,Copper Nails, etc). It is also where these tools can be repaired. Unlike other benches, the Forge can be deployed and used outdoors as it does not require shelter. Can be used indoors or outdoors.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,14 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 20,
+      "Stone": 150,
+      "Epoy": 8,
+      "Steel Ingot": 20
+    },
+    "crafted_at": "Machining Bench"
+  }
 }

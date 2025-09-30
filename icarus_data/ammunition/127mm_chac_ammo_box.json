@@ -10,5 +10,9 @@
   "category": "resources",
   "harvested_from": [],
   "research_cost": "10 Legendary Biomass",
-  "purchase_cost": "100 Ren"
+  "purchase_cost": "100 Ren",
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
 }

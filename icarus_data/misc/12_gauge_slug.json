@@ -2,7 +2,7 @@
   "name": "12-Gauge Slug",
   "url": "https://icarus.fandom.com/wiki/12-Gauge_Slug",
   "description": "12-Gauge Slugs are used by theShotguns. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -12,5 +12,13 @@
   "category": "shotgun ammunution",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "-Gauge Casing": 1,
+      "Gunpowder": 1,
+      "Platinum Sheath": 1
+    },
+    "crafted_at": "Machining Bench"
+  }
 }

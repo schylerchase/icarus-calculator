@@ -2,7 +2,7 @@
   "name": "Aluminium Beam",
   "url": "https://icarus.fandom.com/wiki/Aluminium_Beam",
   "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with aRepair Hammer.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,5 +13,9 @@
   "category": "building pieces",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
 }

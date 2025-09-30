@@ -2,7 +2,7 @@
   "name": "Wolf Vestige",
   "url": "https://icarus.fandom.com/wiki/Wolf_Vestige",
   "description": "Wolf Vestiges are used at theTrophy Benchto create aWolf Trophy, which can help prospectors complete theBestiary. They are also used at any textiles bench to makeWolf Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of theWell Rested Buff.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -10,5 +10,9 @@
   "category": "animal resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

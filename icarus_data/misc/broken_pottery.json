@@ -2,7 +2,7 @@
   "name": "Broken Pottery",
   "url": "https://icarus.fandom.com/wiki/Broken_Pottery",
   "description": "The Broken Pottery is an item unlocked by completing theFracturemission. There are four varieties of pottery selectable by 'R'.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Masonry Bench"
+  }
 }

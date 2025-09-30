@@ -2,7 +2,7 @@
   "name": "Alpha Wolf Trophy",
   "url": "https://icarus.fandom.com/wiki/Alpha_Wolf_Trophy",
   "description": "Alpha Wolf Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete theBestiary, it can also be used in tandem with otherFurnitureto increase theCozinessof your living quarters, increasing the duration and effectiveness of theWell Rested Buff.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,12 @@
   "category": "trophies",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Refined Wood": 30,
+      "Alpha Wolf Vestige": 1
+    },
+    "crafted_at": "Trophy Bench"
+  }
 }

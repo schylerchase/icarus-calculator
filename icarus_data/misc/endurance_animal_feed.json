@@ -2,7 +2,7 @@
   "name": "Endurance Animal Feed",
   "url": "https://icarus.fandom.com/wiki/Endurance_Animal_Feed",
   "description": "Endurance Animal Feed is anAnimal FeedforPetsorMountswith a uniqueStatus Effect. Can be fed to mounts to satisfyHunger. Endurance Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Endurance Animal Feed inside anIce BoxorRefrigerator.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -10,5 +10,9 @@
   "category": "animal feed",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

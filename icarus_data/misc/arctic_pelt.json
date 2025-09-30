@@ -2,7 +2,7 @@
   "name": "Arctic Pelt",
   "url": "https://icarus.fandom.com/wiki/Arctic_Pelt",
   "description": "Arctic Pelts are a harvestedResourceused to craftArctic Armor, a significant upgrade overFur Armorfor prospectors adventuring in the ArcticBiomes.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -10,5 +10,12 @@
   "category": "hides",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wool": 20,
+      "Fiber": 30
+    },
+    "crafted_at": "Crafted at\n Textiles Bench"
+  }
 }

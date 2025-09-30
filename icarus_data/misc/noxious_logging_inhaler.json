@@ -2,7 +2,7 @@
   "name": "Noxious Logging Inhaler",
   "url": "https://icarus.fandom.com/wiki/Noxious_Logging_Inhaler",
   "description": "The Noxious Logging Inhaler is aMedicinethat allowsInfected Barkto be harvested when chopping trees and also boosts felling damage and resistance to collision damage from falling trees.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "medicine",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

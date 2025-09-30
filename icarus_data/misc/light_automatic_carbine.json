@@ -2,7 +2,7 @@
   "name": "Light Automatic Carbine",
   "url": "https://icarus.fandom.com/wiki/Light_Automatic_Carbine",
   "description": "The Light Automatic Carbine is a semi-automatic rifle the fires pistolAmmunitionsuch asArmor Piercing,Explosive,Incendiary,Obsidianor regularPistol Rounds.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -14,5 +14,15 @@
   "category": "firearms",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Refined Wood": 15,
+      "Titanium Ingot": 40,
+      "Epoy": 15,
+      "Steel Screw": 25,
+      "Vegetable Oil": 5
+    },
+    "crafted_at": "Fabricator"
+  }
 }

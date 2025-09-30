@@ -12,5 +12,14 @@
   "category": "arrows",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Carbon Fiber": 0.2,
+      "Steel Arrow": 0.4,
+      "Titanium Ingot": 0.2,
+      "Distilled Miasmic Coating": 0.2
+    },
+    "crafted_at": "Forge"
+  }
 }

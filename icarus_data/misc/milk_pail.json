@@ -2,7 +2,7 @@
   "name": "Milk Pail",
   "url": "https://icarus.fandom.com/wiki/Milk_Pail",
   "description": "Milk Pail is a container for liquidMilk. It holds 5 litres of Milk and unlike theGlass Milk Bottle, the Milk will spoil over time. Once the Milk has spoiled, the Milk Pail will empty and be available for reuse.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -10,5 +10,12 @@
   "category": "crafted resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Steel Ingot": 10,
+      "Steel Screw": 15
+    },
+    "crafted_at": "Anvil Bench"
+  }
 }

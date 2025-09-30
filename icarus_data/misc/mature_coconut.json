@@ -2,7 +2,7 @@
   "name": "Mature Coconut",
   "url": "https://icarus.fandom.com/wiki/Mature_Coconut",
   "description": "If a prospector lets aRipe Coconutdecay, it will ripen into a mature coconut.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "food",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

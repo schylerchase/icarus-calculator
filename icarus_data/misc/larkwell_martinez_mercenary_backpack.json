@@ -2,7 +2,7 @@
   "name": "Larkwell Martinez Mercenary Backpack",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Mercenary_Backpack",
   "description": "The Larkwell Martinez Mercenary Backpack is a must need for the scatter gun fan.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,5 +13,9 @@
   "category": "backpacks",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

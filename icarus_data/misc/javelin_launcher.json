@@ -2,7 +2,7 @@
   "name": "Javelin Launcher",
   "url": "https://icarus.fandom.com/wiki/Javelin_Launcher",
   "description": "The Javelin Launcher is aLegendary Weaponthat is a largeCrossbowthat firesJavelinsfor ammunition instead ofBolts. It can be purchased at theBio-lab.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,11 @@
   "category": "firearms",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Legendary Licence": 1
+    },
+    "crafted_at": "Unknown"
+  }
 }

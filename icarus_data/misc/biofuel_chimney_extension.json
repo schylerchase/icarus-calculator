@@ -2,7 +2,7 @@
   "name": "Biofuel Chimney Extension",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Chimney_Extension",
   "description": "A Biofuel Chimney Extension is a wide round section of metal chimney or stove pipe to place on aBiofuel Fireplaceor another existing Biofuel Chimney Extension to extend the chimney vertically. It is usually capped with aBiofuel Chimney Cap.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,12 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 4,
+      "Epoy": 2
+    },
+    "crafted_at": "Machining Bench"
+  }
 }

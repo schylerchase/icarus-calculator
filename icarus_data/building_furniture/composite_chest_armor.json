@@ -2,7 +2,7 @@
   "name": "Composite Chest Armor",
   "url": "https://icarus.fandom.com/wiki/Composite_Chest_Armor",
   "description": "Composite Chest Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,14 @@
   "category": "armors",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Aluminium Ingot": 6,
+      "Composites": 24,
+      "Steel Screw": 12,
+      "Carbon Fiber": 2
+    },
+    "crafted_at": "Electric Textiles Bench"
+  }
 }

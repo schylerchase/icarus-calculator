@@ -2,7 +2,7 @@
   "name": "Encrypted Satellite Upgrade",
   "url": "https://icarus.fandom.com/wiki/Encrypted_Satellite_Upgrade",
   "description": "The Encrypted Satellite Upgrade grants Prospectors access toOperationslocked behind encrypted signals.Note:anInfrasonic Relay Upgrademust also be slotted into aCONT4CT Deviceto access encrypted signals.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,17 @@
   "category": "items",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Glass": 25,
+      "Composites": 30,
+      "Gold Wire": 100,
+      "Platinum Sheath": 150,
+      "Titanium Plate": 20,
+      "Copper Wire": 50,
+      "Electronics": 6
+    },
+    "crafted_at": "Fabricator"
+  }
 }

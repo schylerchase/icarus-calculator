@@ -2,7 +2,7 @@
   "name": "Pavlova",
   "url": "https://icarus.fandom.com/wiki/Pavlova",
   "description": "Pavlova is late-gameFoodthat when consumed provides a considerable boost to health, stamina, speed, resistance to cave sickness and a chance to mine additional stone.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -10,5 +10,14 @@
   "category": "food",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Cream": 5,
+      "Sugar Cubes": 5,
+      "Egg": 2,
+      "Kiwifruit": 3
+    },
+    "crafted_at": "Unknown"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Carved Wood Wall Shelf",
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_Wall_Shelf",
   "description": "The Carved Wood Wall Shelf is a decorative item that has two varieties, select R when deploying.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Carpentry Bench"
+  }
 }
