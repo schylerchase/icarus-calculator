@@ -1038,7 +1038,7 @@
             // If no ingredients, it's likely a raw material or basic item
             if (requiredMaterials.length === 0) {
                 // Be very permissive for items without ingredients
-                const cat = recipe.category.toLowerCase();
+                const cat = (recipe.category || '').toLowerCase();
                 const isAvailable = MAP_RESOURCES[map]?.includes(item) || 
                        recipe.crafted_at === 'Character' ||
                        recipe.crafted_at === 'Character Crafting' ||
