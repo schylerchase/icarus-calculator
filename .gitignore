@@ -10,6 +10,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 FixCategories.py
+debug_page.html
 
 # VS Code
 .vscode/
