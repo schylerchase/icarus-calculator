@@ -2,9 +2,9 @@
   "name": "Inaris \"Aruda\" Arrow Bundle",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Aruda%22_Arrow_Bundle",
   "description": "Consuming the Inaris \"Aruda\" Arrow Bundle will add 25xInaris \"Aruda\" Arrows to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-  "item_type": "Ammunition",
+  "item_type": "unknown",
   "ingredients": {},
-  "crafted_at": "Machining Bench",
+  "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
     "weight": "<0.1 kg"

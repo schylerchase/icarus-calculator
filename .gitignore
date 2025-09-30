@@ -11,6 +11,8 @@ __pycache__/
 *$py.class
 FixCategories.py
 debug_page.html
+generate_manifest.py
+tree.txt
 
 # VS Code
 .vscode/

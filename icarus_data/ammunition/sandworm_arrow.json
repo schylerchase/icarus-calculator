@@ -2,9 +2,9 @@
   "name": "Sandworm Arrow",
   "url": "https://icarus.fandom.com/wiki/Sandworm_Arrow",
   "description": "An upgrade to thePoison Arrowthese are helpful in a 'fire and flee' situation. Firing multiple arrows will continue to stack the Wound debuff, decreasing health regeneration of the target by 80%.",
-  "item_type": "Ammunition",
+  "item_type": "unknown",
   "ingredients": {},
-  "crafted_at": "Machining Bench",
+  "crafted_at": "Unknown",
   "tier": 3,
   "stats": {
     "damage": "+20% Critical Damage",

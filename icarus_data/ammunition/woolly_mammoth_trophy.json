@@ -2,9 +2,9 @@
   "name": "Woolly Mammoth Trophy",
   "url": "https://icarus.fandom.com/wiki/Woolly_Mammoth_Trophy",
   "description": "Woolly Mammoth Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete theBestiary, it can also be used in tandem with otherFurnitureto increase theCozinessof your living quarters, increasing the duration and effectiveness of theWell Rested Buff.",
-  "item_type": "Ammunition",
+  "item_type": "unknown",
   "ingredients": {},
-  "crafted_at": "Machining Bench",
+  "crafted_at": "Unknown",
   "tier": 2,
   "stats": {
     "weight": "2.0 Kg",

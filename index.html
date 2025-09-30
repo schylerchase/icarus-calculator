@@ -738,10 +738,10 @@
                 React.createElement('div', { className: 'item-header', key: 'header' }, [
                     React.createElement('div', { key: 'info' }, [
                         React.createElement('div', { className: 'item-name', key: 'name' }, 
-                            `${getIcon(recipe.category)} ${item.name}`
+                            `${getIcon(item.category)} ${item.name}`
                         ),
                         React.createElement('div', { className: 'item-category', key: 'category' }, 
-                            recipe.category || 'unknown'
+                            item.category || 'unknown'
                         )
                     ]),
                     React.createElement('div', { className: 'availability-indicator', key: 'availability' }, 
@@ -752,10 +752,10 @@
                     React.createElement('span', { 
                         className: 'tier-badge', 
                         key: 'tier',
-                        style: { background: getTierColor(recipe.tier || 0) }
-                    }, `T${recipe.tier || 0}`),
+                        style: { background: getTierColor(item.tier || 0) }
+                    }, `T${item.tier || 0}`),
                     React.createElement('span', { className: 'crafted-location', key: 'crafted_at' }, 
-                        recipe.crafted_at || 'Unknown'
+                        item.crafted_at || 'unknown'
                     )
                 ]),
                 React.createElement('div', { className: 'quantity-controls', key: 'quantity-controls' }, [
@@ -839,61 +839,115 @@
                     setLoading(true);
                     setError(null);
                     setLoadingText('Fetching recipe database...');
-                    
-                    const pathVariations = [
-                        './icarus_data/',
-                        'icarus_data/',
-                        'https://raw.githubusercontent.com/schylerchase/icarus-calculator/refs/heads/main/icarus_data/'
-                    ];
-                    
-                    let successfulPath = null;
-                    
-                    // Test paths
-                    for (const basePath of pathVariations) {
-                        try {
-                            setLoadingText(`Testing path: ${basePath}...`);
-                            const testResponse = await fetch(`${basePath}all_items.json`);
-                            if (testResponse.ok) {
-                                successfulPath = basePath;
-                                setLoadingText(`Found data at: ${basePath}`);
-                                break;
-                            }
-                        } catch (e) {
-                            console.log(`Path ${basePath} failed:`, e.message);
-                        }
-                    }
-                    
-                    if (!successfulPath) {
-                        throw new Error('Cannot load JSON files. Please ensure icarus_data folder is accessible.');
-                    }
-                    
-                    // Load the complete dataset
+
+                    const successfulPath = './icarus_data/'; // adjust if needed
+
+                    setLoadingText('Loading manifest...');
+                    const manifestRes = await fetch(`${successfulPath}manifest.json`);
+                    if (!manifestRes.ok) throw new Error(`Failed to load manifest.json: ${manifestRes.status}`);
+                    let files = await manifestRes.json();
+
+                    // skip big/combined files if present
+                    files = files.filter(f => f && !f.startsWith('_') && f !== 'all_items.json');
+
                     setLoadingText('Loading all items...');
-                    const response = await fetch(`${successfulPath}all_items.json`);
-                    
-                    if (!response.ok) {
-                        throw new Error(`Failed to load all_items.json: ${response.status}`);
+                    const allItemsRaw = [];
+
+                    await Promise.all(files.map(async (file) => {
+                    try {
+                        const res = await fetch(`${successfulPath}${file}`);
+                        if (!res.ok) {
+                        console.warn(`Skipped ${file}: ${res.status}`);
+                        return;
+                        }
+                        const data = await res.json();
+
+                        // Accept { items: [...] }, plain array, or single object
+                        if (Array.isArray(data.items)) {
+                        data.items.forEach(i => allItemsRaw.push({ ...i, __sourceFile: file }));
+                        } else if (Array.isArray(data)) {
+                        data.forEach(i => allItemsRaw.push({ ...i, __sourceFile: file }));
+                        } else if (data && typeof data === 'object') {
+                        allItemsRaw.push({ ...data, __sourceFile: file });
+                        } else {
+                        console.warn(`${file} has unexpected format`, data);
+                        }
+                    } catch (err) {
+                        console.warn(`Could not load ${file}:`, err.message);
                     }
-                    
-                    const data = await response.json();
-                    
-                    if (!data.items || !Array.isArray(data.items)) {
-                        throw new Error('Invalid data format in all_items.json');
+                    }));
+
+                    // Deduplicate & merge intelligently by name (or url)
+                    const itemMap = new Map();
+
+                    const normalizeCrafted = raw => {
+                    const r = raw ?? '';
+                    const s = (typeof r === 'string') ? r.trim() : r;
+                    return (s && s.toLowerCase() !== 'unknown') ? s : undefined;
+                    };
+
+                    allItemsRaw.forEach(item => {
+                    const key = (item.name && String(item.name).trim()) || (item.url && String(item.url).trim());
+                    if (!key) return; // skip if no identifier
+
+                    const sourceFile = item.__sourceFile;
+
+                    const candidate = {
+                        ...item
+                    };
+                    candidate.crafted_at = normalizeCrafted(candidate.crafted_at ?? candidate.craftedAt);
+
+                    if (itemMap.has(key)) {
+                        const existing = itemMap.get(key);
+
+                        // Prefer a real crafted_at from candidate
+                        if ((!existing.crafted_at || existing.crafted_at === undefined) && candidate.crafted_at) {
+                        existing.crafted_at = candidate.crafted_at;
+                        existing.__craftedFrom = sourceFile;
+                        }
+
+                        // If existing lacks some fields, fill from candidate (optional)
+                        if (!existing.category && candidate.category) existing.category = candidate.category;
+                        if ((!existing.tier || existing.tier === 0) && candidate.tier) existing.tier = candidate.tier;
+                        // ... add merges for other fields if you want
+                    } else {
+                        // store first entry, mark source if crafted_at present
+                        if (candidate.crafted_at) candidate.__craftedFrom = sourceFile;
+                        itemMap.set(key, candidate);
                     }
-                    
-                    console.log(`✅ Loaded ${data.items.length} items from Fandom wiki`);
-                    setAllItems(data.items);
+                    });
+
+                    const uniqueItems = Array.from(itemMap.values());
+
+                    // Final normalization so UI fallback works
+                    uniqueItems.forEach(it => {
+                    if (!it.crafted_at) it.crafted_at = undefined;
+                    });
+
+                    console.log(`✅ Loaded ${uniqueItems.length} unique items (merged from ${allItemsRaw.length} raw entries).`);
+                    // Optional: show a few examples where crafted_at was taken from a specific file
+                    console.log('Sample items with crafted source:', uniqueItems
+                    .filter(i => i.__craftedFrom)
+                    .slice(0, 10)
+                    .map(i => ({ name: i.name, crafted_at: i.crafted_at, from: i.__craftedFrom })));
+
+                    setAllItems(uniqueItems);
                     setLoading(false);
-                    
+                    setLoadingText('');
                 } catch (err) {
                     console.error('Error loading recipes:', err);
                     setError({
-                        title: 'Failed to Load Recipe Database',
-                        message: err.message
+                    title: 'Failed to Load Recipe Database',
+                    message: err.message
                     });
                     setLoading(false);
+                    setLoadingText('');
                 }
-            };
+                };
+
+
+
+
 
             const categories = [...new Set(allItems.map(item => item.category).filter(Boolean))].sort();
             const tiers = [...new Set(allItems.map(item => item.tier).filter(t => t !== undefined))].sort();

@@ -2,9 +2,9 @@
   "name": "MXC Flange Arrow",
   "url": "https://icarus.fandom.com/wiki/MXC_Flange_Arrow",
   "description": "The MXC Flange Arrow is ammunition used with aBow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-  "item_type": "Ammunition",
+  "item_type": "unknown",
   "ingredients": {},
-  "crafted_at": "Machining Bench",
+  "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
     "weight": "0.015 kg"

@@ -2,9 +2,9 @@
   "name": "Poison Arrow",
   "url": "https://icarus.fandom.com/wiki/Poison_Arrow",
   "description": "The Poison Arrow is a damage over time upgrade to theStone Arrow, which is helpful when in a 'fire and flee' situation. DOT effect stacks.",
-  "item_type": "Ammunition",
+  "item_type": "unknown",
   "ingredients": {},
-  "crafted_at": "Machining Bench",
+  "crafted_at": "Unknown",
   "tier": 1,
   "stats": {
     "weight": "0.01 kg"

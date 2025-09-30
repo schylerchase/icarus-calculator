@@ -2,9 +2,9 @@
   "name": "12.7mm CHAC Round",
   "url": "https://icarus.fandom.com/wiki/12.7mm_CHAC_Round",
   "description": "12.7mm CHAC Round is a type ofSniper Ammunitionfor theAnti-materiel Riflethat does 600 damage.",
-  "item_type": "Ammunition",
+  "item_type": "unknown",
   "ingredients": {},
-  "crafted_at": "Machining Bench",
+  "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
     "weight": "0.02 kg"
