@@ -503,7 +503,7 @@
     {
       "name": "Advanced Pistol",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -846,7 +846,7 @@
     {
       "name": "Anti-materiel Rifle",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -1448,14 +1448,14 @@
     {
       "name": "Assault Rifle",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Automated Defense System: Pistol",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -1966,7 +1966,7 @@
     {
       "name": "Bolt Action Rifle",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -2694,21 +2694,21 @@
     {
       "name": "CHAC \"Boomstick\" Shotgun",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "CHAC \"Sentinel\" Pistol",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "CHAC \"Sovereign\" Rifle",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -3415,7 +3415,7 @@
     {
       "name": "Caveworm Bow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -3961,7 +3961,7 @@
     {
       "name": "Compound Bow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -4521,7 +4521,7 @@
     {
       "name": "Crossbow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -5991,7 +5991,7 @@
     {
       "name": "Gunpowder",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -6320,7 +6320,7 @@
     {
       "name": "Hunting Rifle",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -6467,7 +6467,7 @@
     {
       "name": "Inaris \"Heavy\" Crossbow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -6481,7 +6481,7 @@
     {
       "name": "Inaris \"Lune\" Crossbow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -6516,7 +6516,7 @@
     {
       "name": "Inaris \"Rapid\" Crossbow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -6551,7 +6551,7 @@
     {
       "name": "Inaris \"Sole\" Crossbow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -6565,7 +6565,7 @@
     {
       "name": "Inaris \"Viridian\" Pickaxe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -7069,7 +7069,7 @@
     {
       "name": "Iron Axe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -7104,7 +7104,7 @@
     {
       "name": "Iron Hammer",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -7139,7 +7139,7 @@
     {
       "name": "Iron Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -7181,7 +7181,7 @@
     {
       "name": "Iron Pickaxe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -7216,21 +7216,21 @@
     {
       "name": "Iron Sledgehammer",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Iron Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Iron Throwing Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -7300,7 +7300,7 @@
     {
       "name": "Kinetic Rifle",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -7573,7 +7573,7 @@
     {
       "name": "Larkwell Martinez Axe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -7594,35 +7594,35 @@
     {
       "name": "Larkwell Martinez Compound Bow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Larkwell Martinez Hammer",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Larkwell Martinez Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Larkwell Martinez Pickaxe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Larkwell Martinez Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -7846,14 +7846,14 @@
     {
       "name": "Longbow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "MXC Axe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -7923,14 +7923,14 @@
     {
       "name": "MXC Hammer",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "MXC Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -7951,21 +7951,21 @@
     {
       "name": "MXC Pickaxe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "MXC Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Machete",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -8322,42 +8322,42 @@
     {
       "name": "Miasmic Axe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Miasmic Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Miasmic Pickaxe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Miasmic Sledgehammer",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Miasmic Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Miasmic Throwing Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -8609,28 +8609,28 @@
     {
       "name": "Obsidian Sledgehammer",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Obsidian Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Obsidian Throwing Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "One-Shot Pistol",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -8679,28 +8679,28 @@
     {
       "name": "Pistol",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Platinum Axe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Platinum Crossbow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Platinum Hammer",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -8721,7 +8721,7 @@
     {
       "name": "Platinum Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -8735,21 +8735,21 @@
     {
       "name": "Platinum Pickaxe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Platinum Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Platinum Throwing Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -9491,7 +9491,7 @@
     {
       "name": "Recurve Bow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -10359,7 +10359,7 @@
     {
       "name": "Rusty Shotgun",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -10527,7 +10527,7 @@
     {
       "name": "Sandworm Bow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -10597,7 +10597,7 @@
     {
       "name": "Sandworm Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -10611,14 +10611,14 @@
     {
       "name": "Sandworm Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Sandworm Throwing Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -10870,7 +10870,7 @@
     {
       "name": "Semi-Automatic Pistol",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -10884,7 +10884,7 @@
     {
       "name": "Shengong \"Akira\" Hammer",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -10898,21 +10898,21 @@
     {
       "name": "Shengong \"Daokou\" Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong \"Dida\" Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong \"Dong\" Pickaxe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -10926,49 +10926,49 @@
     {
       "name": "Shengong \"Gong Bu\" Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong \"Heike\" Axe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong \"Ji\" Bow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong \"Jijing\" Bow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong \"Jiju\" Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong \"Jushi\" Pickaxe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong \"Kuang\" Pickaxe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -10989,7 +10989,7 @@
     {
       "name": "Shengong \"Xingxing\" Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -11010,105 +11010,105 @@
     {
       "name": "Shengong \"Zhang Hu\" Bow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong 'Lie' Axe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong 'Qie' Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong 'Sen' Axe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong 'Shui' Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong 'Sichou' Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong 'Sui Shi' Pickaxe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong 'Tetsuo' Hammer",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong CY7 Axe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong CZ4 Bow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong DL7 Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong HS2 Bow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong PF1 Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shengong UT5 Pickaxe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Shotgun",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -11213,7 +11213,7 @@
     {
       "name": "Smoke Grenade",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -11444,7 +11444,7 @@
     {
       "name": "Steel Axe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -11479,7 +11479,7 @@
     {
       "name": "Steel Hammer",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -11528,14 +11528,14 @@
     {
       "name": "Steel Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Steel Pickaxe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -11570,14 +11570,14 @@
     {
       "name": "Steel Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Steel Throwing Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -11626,7 +11626,7 @@
     {
       "name": "Stone Axe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -11822,7 +11822,7 @@
     {
       "name": "Stone Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -11885,7 +11885,7 @@
     {
       "name": "Stone Throwing Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -12088,7 +12088,7 @@
     {
       "name": "Submachine Gun",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -12123,14 +12123,14 @@
     {
       "name": "Tactical Bow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Taxidermy Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -12298,21 +12298,21 @@
     {
       "name": "Titanium Axe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Titanium Crossbow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Titanium Hammer",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -12333,7 +12333,7 @@
     {
       "name": "Titanium Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -12347,28 +12347,28 @@
     {
       "name": "Titanium Pickaxe",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Titanium Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Titanium Throwing Knife",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Tomato & Egg Bowl",
       "category": "weapons",
-      "type": "unknown",
+      "type": "ammunition",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -12396,7 +12396,7 @@
     {
       "name": "Trench Shotgun",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -12844,7 +12844,7 @@
     {
       "name": "Wood Bow",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -12928,7 +12928,7 @@
     {
       "name": "Wood Hammer",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -13026,7 +13026,7 @@
     {
       "name": "Wood Spear",
       "category": "weapons",
-      "type": "unknown",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
