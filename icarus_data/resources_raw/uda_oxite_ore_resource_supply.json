@@ -1,0 +1,22 @@
+{
+  "name": "UDA Oxite Ore Resource Supply",
+  "url": "https://icarus.fandom.com/wiki/UDA_Oxite_Ore_Resource_Supply",
+  "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the Short Range Radio .",
+  "item_type": "craftable",
+  "ingredients": {
+    "Ren": 50
+  },
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resource packs",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": 100,
+  "base_recipe": {
+    "ingredients": {
+      "Ren": 50
+    },
+    "crafted_at": "Unknown"
+  }
+}

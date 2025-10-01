@@ -1,7 +1,7 @@
 {
   "name": "Dirt Ramp",
   "url": "https://icarus.fandom.com/wiki/Dirt_Ramp",
-  "description": "Dirt Ramps are a Tier 1 buildable that serves as an alternative to Thatch Ramps / Wood Ramps that provides a more natural look to structures. Due to the nature of its building material, Dirt Ramps must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
+  "description": "Dirt Ramps are a Tier 1  buildable that serves as an alternative to Thatch Ramps / Wood Ramps that provides a more natural look to structures. Due to the nature of its building material, Dirt Ramps must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
   "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",

@@ -9,7 +9,7 @@
     "HoneycombSpoiled PlantsCharcoal": 25,
     "Vegetable OilSpoiled MeatSpoiled Plants": 10
   },
-  "crafted_at": "Chemistry Bench",
+  "crafted_at": "Workshop",
   "tier": 4,
   "stats": {},
   "category": "crafted resources",
@@ -23,6 +23,6 @@
       "HoneycombSpoiled PlantsCharcoal": 25,
       "Vegetable OilSpoiled MeatSpoiled Plants": 10
     },
-    "crafted_at": "Chemistry Bench"
+    "crafted_at": "Workshop"
   }
 }

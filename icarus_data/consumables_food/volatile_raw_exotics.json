@@ -4,7 +4,7 @@
   "description": "While the Exotics prospectors found on Olympus and Styx were originally believed to be the only known variation, the UDA has made a remarkable discovery. This unstable variant is different and appears to have an impact on the local flora not seen before.",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "minerals",
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

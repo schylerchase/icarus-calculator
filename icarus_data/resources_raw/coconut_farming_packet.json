@@ -4,7 +4,7 @@
   "description": "The Coconut Farming Packet is unlocked in the Workshop on the Space Station or the Orbital Exchange Interface and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five seeds that can be planted in Dirt Mounds or Crop Plots .",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "resources",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

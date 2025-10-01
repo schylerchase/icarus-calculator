@@ -4,7 +4,7 @@
   "description": "Milk is a late-game resource obtained from mature Cows raised from juvenile Calves purchased from the orbital Workshop . Calves must be raised to adulthood using similar mechanics to taming Mounts including feeding, watering and providing a bed for the animal to sleep on.",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "animal resources",
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

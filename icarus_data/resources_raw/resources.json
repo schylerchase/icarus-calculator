@@ -4,7 +4,7 @@
   "description": "Prospectors face a host of challenges when they drop onto Icarus. They must maintain an adequate supply of Oxygen , Water and Food , craft Shelter from the planet’s storms, and survive encounters with the Fauna . Prospectors will need to rely on a wide range of resources: some they will find in the wild, and others they will make themselves. How prospectors master the use of these resources will determine their overall success during their limited time on Icarus.",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "",
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

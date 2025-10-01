@@ -1,10 +1,10 @@
 {
   "name": "Survival Kit",
   "url": "https://icarus.fandom.com/wiki/Survival_Kit",
-  "description": "Survival Kits are a Tier 3 bandage that heals basic wounds, deep wounds, frostbite and heatstroke Status Effects . It replaces a number of basic items, but requires considerably more materials to craft.",
-  "item_type": "weapon",
+  "description": "Survival Kits are a Tier 3  bandage that heals basic wounds, deep wounds, frostbite and heatstroke Status Effects . It replaces a number of basic items, but requires considerably more materials to craft.",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 3,
   "stats": {},
   "category": "medicine",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

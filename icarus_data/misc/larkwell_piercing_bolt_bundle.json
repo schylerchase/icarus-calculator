@@ -2,9 +2,9 @@
   "name": "Larkwell Piercing Bolt Bundle",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Piercing_Bolt_Bundle",
   "description": "Consuming the Larkwell Piercing Bolt Bundle will add 25x Larkwell Martinez Piercing Bolt s to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed bolt bundles/remaining bolts cannot be taken back to the space station. Bolt bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "+25% Critical Damage",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

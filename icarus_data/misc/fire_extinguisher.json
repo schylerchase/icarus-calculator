@@ -1,7 +1,7 @@
 {
   "name": "Fire Extinguisher",
   "url": "https://icarus.fandom.com/wiki/Fire_Extinguisher",
-  "description": "The Fire Extinguisher is a Tier 3 tool used to hastily put out fires. As Prospectors use the Fire Extinguisher, its durability decreases and cannot be repaired at the Machining Bench when broken.",
+  "description": "The Fire Extinguisher is a Tier 3  tool used to hastily put out fires. As Prospectors use the Fire Extinguisher, its durability decreases and cannot be repaired at the Machining Bench when broken.",
   "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Machining Bench",

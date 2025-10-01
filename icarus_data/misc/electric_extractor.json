@@ -4,7 +4,7 @@
   "description": "The Electric Extractor is used to extract Exotics from Exotic Deposits. A connection providing at least 1,500 units of power is required.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Fabricator",
+  "crafted_at": "Workshop",
   "tier": 4,
   "stats": {
     "weight": "2.0 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Fabricator"
+    "crafted_at": "Workshop"
   }
 }

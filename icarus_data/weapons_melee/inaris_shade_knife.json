@@ -4,7 +4,7 @@
   "description": "The Inaris \"Shade\" Knife is a Workshop Knife geared towards combat, intrinsically dealing poison damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Inaris \"Shade\" Knife cannot be thrown, and there currently are no workshop Throwing Knives .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "33 - 35 Melee Damage50 - 50 Poison Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+    "crafted_at": "Workshop"
   }
 }

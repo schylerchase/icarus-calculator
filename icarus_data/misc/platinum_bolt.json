@@ -4,7 +4,7 @@
   "description": "The Platinum Bolt is ammunition used with a Crossbow . Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Forge Foundry",
+  "crafted_at": "Workshop",
   "tier": 3,
   "stats": {
     "weight": "0.015 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Forge Foundry"
+    "crafted_at": "Workshop"
   }
 }

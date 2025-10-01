@@ -4,7 +4,7 @@
   "description": "The MXC Fuel Canister is purchased from the Workshop on the Space Station and is used for Biofuel storage. It comes prefilled with fuel when purchased and can be refilled at the Biofuel Composter , Electric Composter or by interacting with a Portable Biofuel Tank deployed on the ground. It can be taken back to Orbit and will remain filled, allowing the Prospector to use it across multiple prospects. It does not fill when returned to station. It holds 10 liters of Biofuel.",
   "item_type": "weapon",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "1.0 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

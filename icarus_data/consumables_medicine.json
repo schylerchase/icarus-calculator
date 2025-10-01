@@ -1,29 +1,11 @@
 {
   "category": "Consumables Medicine",
-  "count": 26,
+  "count": 25,
   "items": [
     {
       "name": "Anti-Parasitic Paste",
       "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Paste",
       "description": "Anti-Parasitic Paste is one of the multiple, easily overlooked recipes available in the Tier 1  tech tree. Reduces the duration of the Parasites debuff upon consumption.",
-      "item_type": "weapon",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 1,
-      "stats": {},
-      "category": "medicine",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Unknown"
-      }
-    },
-    {
-      "name": "Anti-Poison Paste",
-      "url": "https://icarus.fandom.com/wiki/Anti-Poison_Paste",
-      "description": "Anti-Poison Paste is one of the multiple, easily overlooked recipes available in the tier 1 tech tree. Reduces the duration of Poison from critters like the Venomous Fish or the Caveworm .",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -78,9 +60,9 @@
       "name": "Antibiotic Tonic",
       "url": "https://icarus.fandom.com/wiki/Antibiotic_Tonic",
       "description": "Used alone to cure infections such as Cave Sickness , Infected Wound , and Food poisoning , or as a mid-stage ingredient to the prophylactic Antibiotic Pill .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 2,
       "stats": {},
       "category": "medicine",
@@ -89,16 +71,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Basic Bandage",
       "url": "https://icarus.fandom.com/wiki/Basic_Bandage",
       "description": "Basic Bandage is used to heal Wound and Exotic Wound Status Effects .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 1,
       "stats": {},
       "category": "medicine",
@@ -107,7 +89,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -168,9 +150,9 @@
       "name": "Cooling Bandage",
       "url": "https://icarus.fandom.com/wiki/Cooling_Bandage",
       "description": "The Cooling Bandage is used to heal Heatstroke, Heat Exhaustion and Exotic Overheat Status Effects . If the Prospector's core temperature is still extremely high, the cooling bandage will not remove these debuffs.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 1,
       "stats": {},
       "category": "medicine",
@@ -179,7 +161,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -279,9 +261,9 @@
       "name": "Heat Bandage",
       "url": "https://icarus.fandom.com/wiki/Heat_Bandage",
       "description": "Heat Bandage is used to heal Frostbite, Frosty and Exotic Chill Status Effects . If the Prospector's core temperature is still freezing, the heat bandage will not remove these debuffs.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 1,
       "stats": {},
       "category": "medicine",
@@ -290,7 +272,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -369,9 +351,9 @@
       "name": "Shengong \"Yeying\" Bandage",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Yeying%22_Bandage",
       "description": "The Shengong \"Yeying\" Bandage is an overly priced Basic Bandage purchased from the Workshop that will remove the Bleeding modifier when consumed.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -380,7 +362,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -405,9 +387,9 @@
       "name": "Stamina Consumption Paste",
       "url": "https://icarus.fandom.com/wiki/Stamina_Consumption_Paste",
       "description": "In-game description: A biotic compound that slows stamina loss temporarily. In-game flavor text: The time-jarring effects of exotics find their influence in many subtle, poorly understood ways on Icarus.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "",
@@ -416,7 +398,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {

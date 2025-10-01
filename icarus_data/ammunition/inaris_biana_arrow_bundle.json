@@ -4,7 +4,7 @@
   "description": "Consuming the Inaris \"Biana\" Arrow Bundle will add 25x Inaris \"Biana\" Arrow s to the Prospectors inventory, must be consumed after dropping into a Prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "0.5 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

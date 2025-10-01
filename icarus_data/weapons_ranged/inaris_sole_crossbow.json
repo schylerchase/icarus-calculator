@@ -2,9 +2,9 @@
   "name": "Inaris \"Sole\" Crossbow",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Sole%22_Crossbow",
   "description": "Using arrows and talents interchangeably with other crossbows, the Inaris \"Sole\" Crossbow is geared more towards elemental damage. When paired with Bolts that deal elemental damage ( Obsidian Bolts , Larkwell Martinez Charged Bolts , etc), the Inaris \"Sole\" Crossbow can pack a punch, making it a decent, if not expensive, upgrade to the previous Workshop Crossbows. Dealt elemental damage is not affected by Crossbow talents.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "+50% Projectile Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

@@ -26,7 +26,7 @@
     {
       "name": "Anti-Parasitic Paste",
       "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Paste",
-      "description": "Anti-Parasitic Paste is one of the multiple, easily overlooked recipes available in the Tier 1 tech tree. Reduces the duration of the Parasites debuff upon consumption.",
+      "description": "Anti-Parasitic Paste is one of the multiple, easily overlooked recipes available in the Tier 1  tech tree. Reduces the duration of the Parasites debuff upon consumption.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -99,9 +99,9 @@
       "name": "Antibiotic Tonic",
       "url": "https://icarus.fandom.com/wiki/Antibiotic_Tonic",
       "description": "Used alone to cure infections such as Cave Sickness , Infected Wound , and Food poisoning , or as a mid-stage ingredient to the prophylactic Antibiotic Pill .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 2,
       "stats": {},
       "category": "medicine",
@@ -110,16 +110,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Basic Bandage",
       "url": "https://icarus.fandom.com/wiki/Basic_Bandage",
       "description": "Basic Bandage is used to heal Wound and Exotic Wound Status Effects .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 1,
       "stats": {},
       "category": "medicine",
@@ -128,7 +128,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -213,9 +213,9 @@
       "name": "Berry Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Berry_Farming_Packet",
       "description": "The Berry Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Berry seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -224,7 +224,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "Blood Thinning Paste",
       "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Paste",
-      "description": "Blood Thinning Paste is one of the multiple, easily overlooked recipes available in the Tier 1 tech tree. Reduces the duration of Concussions and Contusions when you're unlucky enough to kiss a falling tree.",
+      "description": "Blood Thinning Paste is one of the multiple, easily overlooked recipes available in the Tier 1  tech tree. Reduces the duration of Concussions and Contusions when you're unlucky enough to kiss a falling tree.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -338,7 +338,7 @@
     {
       "name": "Carbon Paste",
       "url": "https://icarus.fandom.com/wiki/Carbon_Paste",
-      "description": "Carbon Paste is a crafted resource meant to be smelted in a Concrete Furnace or Electric Furnace to make Carbon Fiber and is a critical component in Tier 4 crafting.",
+      "description": "Carbon Paste is a crafted resource meant to be smelted in a Concrete Furnace or Electric Furnace to make Carbon Fiber and is a critical component in Tier 4  crafting.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -537,9 +537,9 @@
       "name": "Cooling Bandage",
       "url": "https://icarus.fandom.com/wiki/Cooling_Bandage",
       "description": "The Cooling Bandage is used to heal Heatstroke, Heat Exhaustion and Exotic Overheat Status Effects . If the Prospector's core temperature is still extremely high, the cooling bandage will not remove these debuffs.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 1,
       "stats": {},
       "category": "medicine",
@@ -548,13 +548,13 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Cured Leather",
       "url": "https://icarus.fandom.com/wiki/Cured_Leather",
-      "description": "Cured Leather is a crafted resource used in various Tier 3 Armors and Tools . Below is a list of armors that use Cured Leather:",
+      "description": "Cured Leather is a crafted resource used in various Tier 3  Armors and Tools . Below is a list of armors that use Cured Leather:",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafted atDrying RackSmokerAdvanced Textiles BenchElectric Textiles Bench",
@@ -762,9 +762,9 @@
       "name": "Fisher's Module",
       "url": "https://icarus.fandom.com/wiki/Fisher%27s_Module",
       "description": "This module increases the user's ability to catch Unique Fish and, somehow, increases the quality of caught fish. It can be researched and crafted on the Space Station in the Workshop . Multiple Fisher's Modules may be equipped if the Prospector has available slots on their Envirosuit, which will further increasing the user's ability to fish and become the Master Angler they wish to be.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -773,7 +773,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -984,9 +984,9 @@
       "name": "Heat Bandage",
       "url": "https://icarus.fandom.com/wiki/Heat_Bandage",
       "description": "Heat Bandage is used to heal Frostbite, Frosty and Exotic Chill Status Effects . If the Prospector's core temperature is still freezing, the heat bandage will not remove these debuffs.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 1,
       "stats": {},
       "category": "medicine",
@@ -995,7 +995,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1246,7 +1246,7 @@
       "description": "Raw Chicken can be obtained from the carcass of a once cryogenically frozen Chicken that can be purchased from the Workshop .",
       "item_type": "harvestable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "food",
@@ -1257,7 +1257,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1570,9 +1570,9 @@
       "name": "Shengong \"Yeying\" Bandage",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Yeying%22_Bandage",
       "description": "The Shengong \"Yeying\" Bandage is an overly priced Basic Bandage purchased from the Workshop that will remove the Bleeding modifier when consumed.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -1581,7 +1581,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1624,9 +1624,9 @@
       "name": "Stamina Consumption Paste",
       "url": "https://icarus.fandom.com/wiki/Stamina_Consumption_Paste",
       "description": "In-game description: A biotic compound that slows stamina loss temporarily. In-game flavor text: The time-jarring effects of exotics find their influence in many subtle, poorly understood ways on Icarus.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "",
@@ -1635,7 +1635,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1732,9 +1732,9 @@
       "name": "Strawberry Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Strawberry_Farming_Packet",
       "description": "The Strawberry Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Strawberry seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -1743,7 +1743,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1824,7 +1824,7 @@
       "description": "While the Exotics prospectors found on Olympus and Styx were originally believed to be the only known variation, the UDA has made a remarkable discovery. This unstable variant is different and appears to have an impact on the local flora not seen before.",
       "item_type": "harvestable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "minerals",
@@ -1835,7 +1835,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {

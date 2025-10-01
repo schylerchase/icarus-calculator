@@ -4,7 +4,7 @@
   "description": "The Shengong UT5 Pickaxe is a Workshop Pickaxe geared towards combat, intrinsically dealing electric damage with the chance to significantly hinder targets. Since the Shengong UT5 Pickaxe has the same mining radius and yield as the Larkwell Martinez Pickaxe , Prospectors are better off using the Inaris \"Neves\" Pickaxe for mining.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "23 - 25 Melee Damage50 - 50 Electric Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+    "crafted_at": "Workshop"
   }
 }

@@ -4,7 +4,7 @@
   "description": "The Aeroponic Crop Plot is a farming plot for growing Seeds that can later be harvested for Plant Resources once fully grown. Unless the Prospector has the Fresh Is Best talent when deploying a seed into the crop plot, the grown Plant Resource will eventually wither if not harvested.",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "2.0 kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

@@ -2,9 +2,9 @@
   "name": "Larkwell Martinez Heated Canteen",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Heated_Canteen",
   "description": "Filled at any water source, including a Rain Reservoir , the Larkwell Martinez Heated Canteen is water tight and will not leak. The Larkwell Martinez Heated Canteen remains filled between Prospects with the added ability to raise the Prospectors core temperature when consumed, making it a useful upgrade to the Shengong 'Hulu' Canteen .",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "1.0 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

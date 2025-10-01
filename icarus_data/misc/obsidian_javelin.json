@@ -1,7 +1,7 @@
 {
   "name": "Obsidian Javelin",
   "url": "https://icarus.fandom.com/wiki/Obsidian_Javelin",
-  "description": "The Obsidian Javelin is a variant of the Obsidian Spear that can only be thrown. Deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Excels when used against Fauna that have a weakness to fire. A list of Fauna that are weak to fire can be viewed here . When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with:",
+  "description": "The Obsidian Javelin is a variant of the Obsidian Spear that can only be thrown. Deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Excels when used against Fauna that have a weakness to fire. . When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with:",
   "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Anvil Bench Forge Foundry",

@@ -4,7 +4,7 @@
   "description": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike the Caveworm Javelin , the Caveworm Spear cannot be thrown.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Anvil Bench Forge Foundry",
+  "crafted_at": "Workshop",
   "tier": 2,
   "stats": {
     "damage": "+15% Critical Damage with Spears",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Anvil Bench Forge Foundry"
+    "crafted_at": "Workshop"
   }
 }

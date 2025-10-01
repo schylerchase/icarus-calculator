@@ -2,9 +2,9 @@
   "name": "Crystallized Miasma",
   "url": "https://icarus.fandom.com/wiki/Crystallized_Miasma",
   "description": "Crystallized Miasma is a resource required to make Distilled Miasmic Coating , a precursor resource used in making Miasmic Tools, Weapons, and Ammunition. Crystallized Miasma is collected from Fauna located in Swamps across Icarus - a map of Prometheus regions can be found here ).",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "resources",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

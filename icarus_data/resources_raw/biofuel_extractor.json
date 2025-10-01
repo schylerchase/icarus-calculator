@@ -4,7 +4,7 @@
   "description": "This device is used to extract Exotics from Exotic Deposits. Does not require electricity, but uses biofuel instead. The Biofuel Extractor runs 33% slower than the Electric Extractor , but can be crafted earlier in the Tech Tree .",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Machining Bench",
+  "crafted_at": "Workshop",
   "tier": 3,
   "stats": {
     "weight": "2.0 kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Machining Bench"
+    "crafted_at": "Workshop"
   }
 }

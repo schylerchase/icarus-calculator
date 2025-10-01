@@ -2,9 +2,9 @@
   "name": "Animal Highlighting Module",
   "url": "https://icarus.fandom.com/wiki/Animal_Highlighting_Module",
   "description": "Animal Highlighting Module is researched and created on the Space Station in the Workshop . Equip in an Envirosuit Module Slot after dropping down for a prospect.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "modules",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

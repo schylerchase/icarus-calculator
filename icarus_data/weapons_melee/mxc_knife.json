@@ -1,10 +1,10 @@
 {
   "name": "MXC Knife",
   "url": "https://icarus.fandom.com/wiki/MXC_Knife",
-  "description": "The MXC Knife is equivalent to Tier 2 Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the MXC Knife cannot be thrown. There currently are no Workshop throwing knives.",
+  "description": "The MXC Knife is equivalent to Tier 2  Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the MXC Knife cannot be thrown. There currently are no Workshop throwing knives.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "49 - 52 Melee Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+    "crafted_at": "Workshop"
   }
 }

@@ -4,7 +4,7 @@
   "description": "The Caveworm Javelin is a variant of the Caveworm Spear that can only be thrown. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Anvil Bench Forge Foundry",
+  "crafted_at": "Workshop",
   "tier": 2,
   "stats": {
     "damage": "+15% Critical Damage",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Anvil Bench Forge Foundry"
+    "crafted_at": "Workshop"
   }
 }

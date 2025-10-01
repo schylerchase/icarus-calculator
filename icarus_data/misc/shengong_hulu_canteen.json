@@ -2,9 +2,9 @@
   "name": "Shengong \"Hulu\" Canteen",
   "url": "https://icarus.fandom.com/wiki/Shengong_%22Hulu%22_Canteen",
   "description": "Filled at any water source, including a Rain Reservoir . Similar to the Canteen , the Shengong \"Hulu\" Canteen is water tight and will not leak. The Shengong \"Hulu\" Canteen will remain filled between Prospects, making it a valuable Workshop purchase early on.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "1.0 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

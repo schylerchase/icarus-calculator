@@ -1,14 +1,34 @@
 {
   "category": "Orbital Items",
-  "count": 35,
+  "count": 44,
   "items": [
+    {
+      "name": "12-Gauge CHAC Shell",
+      "url": "https://icarus.fandom.com/wiki/12-Gauge_CHAC_Shell",
+      "description": "12-Gauge CHAC Shell is an advanced purchaseable buckshot ammunition that does up to 450 damage. It pairs well with the CHAC \"Boomstick\" Shotgun that can also be purchased from the Workshop .",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "tier": 0,
+      "stats": {
+        "weight": "0.01 kg"
+      },
+      "category": "shotgun ammunition",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 450,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Workshop"
+      }
+    },
     {
       "name": "7.62mm CHAC Round",
       "url": "https://icarus.fandom.com/wiki/7.62mm_CHAC_Round",
       "description": "7.62mm CHAC Round is a purchaseable type of Rifle Ammunition for use in any Rifle .",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.01 kg"
@@ -19,7 +39,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -28,16 +48,16 @@
       "description": "Anti-Parasitic Vaccine I is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unqiue Status Effect , which makes surviving the enviroment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
       "harvested_from": [],
       "research_cost": 300,
-      "purchase_cost": 300,
+      "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -46,16 +66,16 @@
       "description": "Anti-Parasitic Vaccine II is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unqiue Status Effect , which makes surviving the enviroment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
       "harvested_from": [],
       "research_cost": 300,
-      "purchase_cost": 300,
+      "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -64,16 +84,34 @@
       "description": "Anti-Parasitic Vaccine III is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
       "harvested_from": [],
       "research_cost": 1000,
-      "purchase_cost": 1000,
+      "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
+      }
+    },
+    {
+      "name": "Anti-Poison Paste",
+      "url": "https://icarus.fandom.com/wiki/Anti-Poison_Paste",
+      "description": "Anti-Poison Paste is one of the multiple, easily overlooked recipes available in the tier 1 tech tree. Reduces the duration of Poison from critters like the Venomous Fish or the Caveworm .",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "tier": 1,
+      "stats": {},
+      "category": "medicine",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 1,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -82,16 +120,16 @@
       "description": "Anti-Poison Vaccine I is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
       "harvested_from": [],
       "research_cost": 300,
-      "purchase_cost": 300,
+      "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -100,16 +138,16 @@
       "description": "Anti-Poison Vaccine II is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
       "harvested_from": [],
       "research_cost": 300,
-      "purchase_cost": 300,
+      "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -118,16 +156,16 @@
       "description": "Anti-Poison Vaccine III is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
       "harvested_from": [],
       "research_cost": 1000,
-      "purchase_cost": 1000,
+      "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -136,16 +174,16 @@
       "description": "Bacterial Vaccine I is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
       "harvested_from": [],
       "research_cost": 300,
-      "purchase_cost": 300,
+      "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -154,16 +192,16 @@
       "description": "Bacterial Vaccine II is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
       "harvested_from": [],
       "research_cost": 300,
-      "purchase_cost": 300,
+      "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -172,16 +210,16 @@
       "description": "Bacterial Vaccine III is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
       "harvested_from": [],
       "research_cost": 1000,
-      "purchase_cost": 1000,
+      "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -190,16 +228,16 @@
       "description": "Blood Thinning Vaccine I is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
       "harvested_from": [],
       "research_cost": 300,
-      "purchase_cost": 300,
+      "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -208,16 +246,16 @@
       "description": "Blood Thinning Vaccine II is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
       "harvested_from": [],
       "research_cost": 300,
-      "purchase_cost": 300,
+      "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -226,25 +264,87 @@
       "description": "Blood Thinning Vaccine III is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
       "harvested_from": [],
       "research_cost": 1000,
-      "purchase_cost": 1000,
+      "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
+      }
+    },
+    {
+      "name": "CHAC \"Boomstick\" Shotgun",
+      "url": "https://icarus.fandom.com/wiki/CHAC_%22Boomstick%22_Shotgun",
+      "description": "The CHAC \"Boomstick\" Shotgun is an advanced purchaseable Shotgun with increase projectile and critical damage. It fires any Shotgun Ammunition and is comparable to other Tier 4  Firearms .",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "tier": 0,
+      "stats": {
+        "damage": "+25% Critical Damage",
+        "weight": "3.5 kg",
+        "durability": "25,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 4,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Workshop"
+      }
+    },
+    {
+      "name": "CHAC \"Sovereign\" Rifle",
+      "url": "https://icarus.fandom.com/wiki/CHAC_%22Sovereign%22_Rifle",
+      "description": "The CHAC \"Sovereign\" Rifle is a purchaseable rifle with a fast reload speed and moderate damage capability.",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "tier": 0,
+      "stats": {
+        "damage": "+25% Critical Damage",
+        "weight": "3.0 kg",
+        "durability": "25,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 7,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Workshop"
+      }
+    },
+    {
+      "name": "Crafting",
+      "url": "https://icarus.fandom.com/wiki/Character_Crafting",
+      "description": "Crafting is the skill that enables many of the other ways prospectors pursue their goals on Icarus. While they can gather Food with their bare hands, and can attempt to Hunt with their fists, everything they attempt on the moon's surface is facilitated by crafting.",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 10,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "KickFall Module",
       "url": "https://icarus.fandom.com/wiki/KickFall_Module",
-      "description": "This module increases resistance to fall damage by 40% when equipped in an Envirosuit module slot, reducing the amount of damage received when falling. It can be researched and crafted on the Space Station in the Workshop . Multiple KickFall Modules may be equipped if the Prospector has available slots on their Envirosuit. The resistance increase from each KickFall Module will stack and will grant near immunity to fall damage if four are equipped. Falling resistance now caps at 99%.",
+      "description": "This module increases resistance to fall damage by 40% when equipped in an Envirosuit module slot, reducing the amount of damage received when falling. It can be researched and crafted on the Space Station in the Workshop . Multiple Kick Fall Modules may be equipped if the Prospector has available slots on their Envirosuit. The resistance increase from each Kick Fall Module will stack and will grant near immunity to fall damage if four are equipped. Falling resistance now caps at 99%.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -253,7 +353,66 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
+      }
+    },
+    {
+      "name": "Kiwifruit",
+      "url": "https://icarus.fandom.com/wiki/Kiwifruit",
+      "description": "Kiwifruit are a fresh fruit that can be eaten raw for a small boost in stamina and resistance to cave sickness or used in additional Food recipes.",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 3,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Workshop"
+      }
+    },
+    {
+      "name": "MXC Fuel Canister",
+      "url": "https://icarus.fandom.com/wiki/MXC_Fuel_Canister",
+      "description": "The MXC Fuel Canister is purchased from the Workshop on the Space Station and is used for Biofuel storage. It comes prefilled with fuel when purchased and can be refilled at the Biofuel Composter , Electric Composter or by interacting with a Portable Biofuel Tank deployed on the ground. It can be taken back to Orbit and will remain filled, allowing the Prospector to use it across multiple prospects. It does not fill when returned to station. It holds 10 liters of Biofuel.",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "tier": 0,
+      "stats": {
+        "weight": "1.0 Kg",
+        "durability": "100"
+      },
+      "category": "tools",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 10,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Workshop"
+      }
+    },
+    {
+      "name": "MXC Hydrazine Canister",
+      "url": "https://icarus.fandom.com/wiki/MXC_Hydrazine_Canister",
+      "description": "The MXC Hydrazine Canister is purchased from the Workshop on the Space Station and stores 10,000 litres of hydrazine. The fuel is used in several other MXC devices by placing the canister in the device's inventory slot. The fuel canister cannot be refilled.",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "tier": 0,
+      "stats": {
+        "weight": "2.0 Kg"
+      },
+      "category": "tools",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 10,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -262,7 +421,7 @@
       "description": "The MXC Venom Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.015 kg"
@@ -273,7 +432,7 @@
       "purchase_cost": 3,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -282,7 +441,7 @@
       "description": "Consuming the bundle will add 5x MXC Venom Arrow to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.1 kg"
@@ -293,7 +452,27 @@
       "purchase_cost": 3,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
+      }
+    },
+    {
+      "name": "Shengong 'Liwei' O2 Tank",
+      "url": "https://icarus.fandom.com/wiki/Shengong_%27Liwei%27_O2_Tank",
+      "description": "It is worth noting that this Oxygen Container takes 65 Oxite to fill at a Oxite Dissolver , and will last significantly longer than an Oxygen Bladder , making it one of the most valuable early game purchases in the Workshop . Will remain filled between Prospects. It holds 6500 oxygen units making it useful for stockpile missions that require oxygen delivery.",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "tier": 0,
+      "stats": {
+        "weight": "0.1 kg"
+      },
+      "category": "oxygen containers",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 6500,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -302,7 +481,7 @@
       "description": "The Stone Pickaxe is the first Pickaxe available to prospectors and is used to break apart mineable Minerals , reducing them to usable resources. Stone, Sulfur, Oxite, Silica, Coal, Salt, Copper, Iron, Gold, and Exotic nodes can be mined with a Stone Pickaxe. To mine Aluminium, Platinum, and Titanium, prospectors must use a Steel Pickaxe or better.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 1,
       "stats": {
         "damage": "27 - 30 Melee Damage",
@@ -315,7 +494,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1078,16 +1257,16 @@
       "description": "The Stabilized Exotics needed to research this item are exclusive to the Prometheus map.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 100,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 100,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1140,16 +1319,16 @@
       "description": "",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 50,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 50,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1202,16 +1381,16 @@
       "description": "The Stabilized Exotics needed to research this item are exclusive to the Prometheus map.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 100,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 100,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1264,16 +1443,16 @@
       "description": "The Stabilized Exotics needed to research this item are exclusive to the Prometheus map.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 100,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 100,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1392,7 +1571,7 @@
       "description": "Aboard the Space Station , Prospectors can spend Ren and Exotics to research and craft new Orbital Tech .",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "",
@@ -1401,7 +1580,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     }
   ]

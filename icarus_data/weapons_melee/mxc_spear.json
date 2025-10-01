@@ -2,9 +2,9 @@
   "name": "MXC Spear",
   "url": "https://icarus.fandom.com/wiki/MXC_Spear",
   "description": "The MXC Spear is the first Spear that can be unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "+15% Critical Damage with Spears",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

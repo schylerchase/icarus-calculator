@@ -2,9 +2,9 @@
   "name": "Lily Farming Packet",
   "url": "https://icarus.fandom.com/wiki/Lily_Farming_Packet",
   "description": "The Lily Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Lily seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "resources",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

@@ -4,7 +4,7 @@
   "description": "The Noxious Mining Inhaler is a Medicine whose effects allow Noxious Crust to be harvested when mining and add a small boost to mining yield and radius.",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "medicine",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

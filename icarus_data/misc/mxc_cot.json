@@ -2,9 +2,9 @@
   "name": "MXC Cot",
   "url": "https://icarus.fandom.com/wiki/MXC_Cot",
   "description": "The MXC Cot is a portable ready-made Bed that can be purchased from the Workshop or brought down to the planet using Orbital Exchange Interface .",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "7.5 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

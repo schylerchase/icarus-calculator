@@ -1,6 +1,6 @@
 {
   "category": "Misc",
-  "count": 616,
+  "count": 614,
   "items": [
     {
       "name": "12-Gauge Casing",
@@ -62,9 +62,9 @@
       "name": "AdLift Module",
       "url": "https://icarus.fandom.com/wiki/AdLift_Module",
       "description": "This module increases the user's weight capacity by 15% when equipped in an Envirosuit module slot. It can be researched and crafted on the Space Station in the Workshop . Multiple Ad Lift Modules may be equipped if the prospector has available slots on their Envirosuit and will further increase the amount the user can carry.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -73,7 +73,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -303,9 +303,9 @@
       "name": "Animal Healthbar Module",
       "url": "https://icarus.fandom.com/wiki/Animal_Healthbar_Module",
       "description": "This module allows the wearer to see creature alert level and health when equipped in an Envirosuit module slot. The Animal Healthbar Module is researched and crafted on the Space Station in the Workshop and is equipped in the Prospectors loadout before starting a new prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -314,16 +314,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Animal Highlighting Module",
       "url": "https://icarus.fandom.com/wiki/Animal_Highlighting_Module",
       "description": "Animal Highlighting Module is researched and created on the Space Station in the Workshop . Equip in an Envirosuit Module Slot after dropping down for a prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -332,7 +332,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -453,9 +453,9 @@
       "name": "Archer's Backpack",
       "url": "https://icarus.fandom.com/wiki/Archer%27s_Backpack",
       "description": "The Archer's Backpack is a must need for the avid archer, quickly dispatch a flurry of arrows at your target with this innovative quiver system.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 Kg",
@@ -467,7 +467,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -949,9 +949,9 @@
       "name": "Avocado Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Avocado_Farming_Packet",
       "description": "The Avocado Farming Packet is unlocked in the Workshop on the Space Station or the Orbital Exchange Interface and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Avocado seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -960,16 +960,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "BEAST",
       "url": "https://icarus.fandom.com/wiki/BEAST",
       "description": "While holding the BEAST, Prospectors can left-click while looking at an animal to \"scan\" that animal (must be close to the target to initiate a scan). Unlike what the description says, the scanned animal will take additional damage until another scan is performed. Scanning animals using the BEAST also grants 3 bestiary points for the animal scanned.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 Kg"
@@ -980,7 +980,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1023,9 +1023,9 @@
       "name": "Banana Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Banana_Farming_Packet",
       "description": "The Banana Farming Packet is a packet of seeds for planting and growing Bananas . It is unlocked in the Workshop after completing the mission Ape Escape in the Great Hunts Campaigns .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -1034,7 +1034,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1241,9 +1241,9 @@
       "name": "Bean Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Bean_Farming_Packet",
       "description": "The Bean Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Bean seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -1252,7 +1252,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1438,7 +1438,7 @@
       "description": "The Biofuel Bio-Cleaner is a deployable Tier 3  cleaning device that can process organic materials collected from world bosses into Legendary Biomass and clean infected materials found on Prometheus , similar to the Tier 4  Organic Residue Cleanser .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Machining Bench Fabricator",
+      "crafted_at": "Workshop",
       "tier": 3,
       "stats": {
         "weight": "2.5 kg",
@@ -1450,7 +1450,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Machining Bench Fabricator"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1676,9 +1676,9 @@
       "name": "Biotech Maul",
       "url": "https://icarus.fandom.com/wiki/Biotech_Maul",
       "description": "The Biotech Maul is a heavy melee-focused Legendary Weapon that can be purchased at the Bio-lab .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "117 - 130 Melee Damage",
@@ -1691,7 +1691,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1856,9 +1856,9 @@
       "name": "Bramble Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Bramble_Farming_Packet",
       "description": "The Bramble Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Bramble seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -1867,7 +1867,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2451,7 +2451,7 @@
       "description": "The CONT4CT Device grants Prospectors access to SMPL3 missions and Operations . Though the CONT4CT Device can be crafted in Missions , they can only be used in Open Worlds and Outposts . Must be deployed outdoors.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Crafting Bench",
+      "crafted_at": "Workshop",
       "tier": 2,
       "stats": {
         "weight": "10.0 kg",
@@ -2463,16 +2463,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafting Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Cacoa Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Cacoa_Farming_Packet",
       "description": "The Cacoa Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Cocoa seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -2481,7 +2481,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2631,9 +2631,9 @@
       "name": "Carrot Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Carrot_Farming_Packet",
       "description": "The Carrot Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Carrot seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -2642,16 +2642,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Cave Survival Inhaler",
       "url": "https://icarus.fandom.com/wiki/Cave_Survival_Inhaler",
       "description": "The Cave Survival Inhaler is a Medicine that boosts resistance to Cave Sickness , increases health and stamina regeneration in caves and adds a 15% chance to harvest additional Stone when mining.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -2660,7 +2660,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2669,7 +2669,7 @@
       "description": "The Caveworm Javelin is a variant of the Caveworm Spear that can only be thrown. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Anvil Bench Forge Foundry",
+      "crafted_at": "Workshop",
       "tier": 2,
       "stats": {
         "damage": "+15% Critical Damage",
@@ -2681,7 +2681,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Anvil Bench Forge Foundry"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -3114,9 +3114,9 @@
       "name": "Coffee Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Coffee_Farming_Packet",
       "description": "The Coffee Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Coffee seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -3125,16 +3125,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Cold Survival Inhaler",
       "url": "https://icarus.fandom.com/wiki/Cold_Survival_Inhaler",
       "description": "The Cold Survival Inhaler is a Medicine that boosts resistance to cold, damage from frost and the Hypothermia Status Effect .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -3143,7 +3143,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -3230,7 +3230,7 @@
       "description": "Condensed Enzymes are a unique resource in Icarus, introduced as part of the horde events. These geysers are scattered across various biomes. To trigger the event, players need to deploy a Vapor Condenser (crafted at the Fabricator ) on top of an Enzyme Geysers . Successfully completing the event typically rewards players with Exotics ; however, once the reward cap of three Exotics is reached, further completions will yield Condensed Enzymes instead.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "the Fabricator) on top of an Enzyme Geysers",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "minerals",
@@ -3239,16 +3239,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "the Fabricator) on top of an Enzyme Geysers"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Corn Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Corn_Farming_Packet",
       "description": "The Corn Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Corn seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -3257,7 +3257,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -3300,24 +3300,6 @@
       "base_recipe": {
         "ingredients": {},
         "crafted_at": "Trophy Bench"
-      }
-    },
-    {
-      "name": "Crafting",
-      "url": "https://icarus.fandom.com/wiki/Character_Crafting",
-      "description": "Crafting is the skill that enables many of the other ways prospectors pursue their goals on Icarus. While they can gather Food with their bare hands, and can attempt to Hunt with their fists, everything they attempt on the moon's surface is facilitated by crafting.",
-      "item_type": "weapon",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 0,
-      "stats": {},
-      "category": "",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Unknown"
       }
     },
     {
@@ -3455,9 +3437,9 @@
       "name": "Crystallized Miasma",
       "url": "https://icarus.fandom.com/wiki/Crystallized_Miasma",
       "description": "Crystallized Miasma is a resource required to make Distilled Miasmic Coating , a precursor resource used in making Miasmic Tools, Weapons, and Ammunition. Crystallized Miasma is collected from Fauna located in Swamps across Icarus - a map of Prometheus regions can be found here ).",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -3466,7 +3448,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -3475,7 +3457,7 @@
       "description": "The Culinex Backpack provides six inventory slots, reduces consumption of food and water, adds +25% to the effectiveness of cooked food modifiers and increases the duration of cooked food modifiers by +25% for items cooked with the backpack equipped.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 Kg",
@@ -3487,7 +3469,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -3557,9 +3539,9 @@
       "name": "Defensive Combat Inhaler",
       "url": "https://icarus.fandom.com/wiki/Defensive_Combat_Inhaler",
       "description": "The Defensive Combat Inhaler is a melee combat-focused Medicine that boosts maximum health and returns 40% of physical damage back to the attacker.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -3568,7 +3550,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -3634,9 +3616,9 @@
       "name": "Detoxifier Module",
       "url": "https://icarus.fandom.com/wiki/Detoxifier_Module",
       "description": "This module increases poison resistance by 50% when equipped in an Envirosuit module slot, reducing the amount of damage received when poisoned. It can be researched and crafted on the Space Station in the Workshop . Multiple Detoxifier Modules may be equipped if the Prospector has available slots on their Envirosuit. The resistance increase from each Detoxifier Module will stack and will grant near immunity to poison if four are equipped.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -3645,7 +3627,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -3714,7 +3696,7 @@
       "description": "Distilled Miasmic Coating is a refined resource primarily used to craft a variety of Miasmic Tools, Weapons, and Ammunition that can give Prospectors an edge while on the surface of Icarus.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Chemistry Bench",
+      "crafted_at": "Workshop",
       "tier": 4,
       "stats": {},
       "category": "crafted resources",
@@ -3723,7 +3705,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Chemistry Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -3751,9 +3733,9 @@
       "name": "DoseUp Module",
       "url": "https://icarus.fandom.com/wiki/DoseUp_Module",
       "description": "This module reduces oxygen, food, and water consumption by 15% when equipped in an Envirosuit module slot. It can be researched and crafted on the Space Station in the Workshop . Multiple Dose Up Modules may be equipped if the Prospector has available slots on their Envirosuit and will further reduce the consumption of oxygen, food, and water.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -3762,7 +3744,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -4082,7 +4064,7 @@
       "description": "The Electric Extractor is used to extract Exotics from Exotic Deposits. A connection providing at least 1,500 units of power is required.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Fabricator",
+      "crafted_at": "Workshop",
       "tier": 4,
       "stats": {
         "weight": "2.0 Kg",
@@ -4094,7 +4076,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Fabricator"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -4282,7 +4264,7 @@
       "description": "The Encrypted Satellite Upgrade grants Prospectors access to Operations locked behind encrypted signals. Note: an Infrasonic Relay Upgrade must also be slotted into a CONT4CT Device to access encrypted signals.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Fabricator",
+      "crafted_at": "Workshop",
       "tier": 4,
       "stats": {
         "weight": "50.0 kg",
@@ -4294,7 +4276,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Fabricator"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -4319,9 +4301,9 @@
       "name": "Endurogel",
       "url": "https://icarus.fandom.com/wiki/Endurogel",
       "description": "Endurogel is a Consumable that restores a portion of stamina when consumed. It is a one time use consumable.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "consumables",
@@ -4330,7 +4312,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -4355,9 +4337,9 @@
       "name": "Enzyme Geysers",
       "url": "https://icarus.fandom.com/wiki/Enzyme_Geysers",
       "description": "Enzyme Geysers are natural formations found across several biomes in Icarus. These geysers are important resource nodes that offer valuable materials depending on the equipment used.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "minerals",
@@ -4366,7 +4348,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -4412,9 +4394,9 @@
       "name": "F.I.S.H.",
       "url": "https://icarus.fandom.com/wiki/F.I.S.H.",
       "description": "When held, the F.I.S.H. will scan the area and indicate which fish can be caught in the area with the base percent chance of catching each. As the Prospector catches each type, the icons for each will appear on the display.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 Kg"
@@ -4425,7 +4407,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -4751,9 +4733,9 @@
       "name": "Frontier Revolver",
       "url": "https://icarus.fandom.com/wiki/Frontier_Revolver",
       "description": "The Frontier Revolver is a Legendary Weapon that can be purchased at the Bio-lab .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -4766,7 +4748,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -4905,9 +4887,9 @@
       "name": "Gatherer's Backpack",
       "url": "https://icarus.fandom.com/wiki/Gatherer%27s_Backpack",
       "description": "The Gatherer's Backpack is a must need when mining ores, or felling trees!",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 Kg",
@@ -4919,7 +4901,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -5019,9 +5001,9 @@
       "name": "Go",
       "url": "https://icarus.fandom.com/wiki/Go",
       "description": "Go is a Consumable with a unique Status Effect : 'All Go'. Can be consumed to satisfy Thirst . It is a one time use emergency beverage to quench thirst.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "consumables",
@@ -5030,7 +5012,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -5138,9 +5120,9 @@
       "name": "Gorse Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Gorse_Farming_Packet",
       "description": "The Gorse Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Gorse seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -5149,7 +5131,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -5305,9 +5287,9 @@
       "name": "Healing Boost Module",
       "url": "https://icarus.fandom.com/wiki/Healing_Boost_Module",
       "description": "When equipped in a module slot of an Envirosuit , this module decreases the duration of negative afflictions received by other Prospectors near the user, however it does not affect the wearer. It can be researched and crafted on the Space Station in the Workshop .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -5316,7 +5298,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -5403,9 +5385,9 @@
       "name": "Heat Survival Inhaler",
       "url": "https://icarus.fandom.com/wiki/Heat_Survival_Inhaler",
       "description": "The Heat Survival Inhaler is a Medicine that boosts resistance to heat, damage from fire and the Hyperthermia Status Effect .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -5414,7 +5396,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -5442,9 +5424,9 @@
       "name": "Heavy Flamethrower",
       "url": "https://icarus.fandom.com/wiki/Heavy_Flamethrower",
       "description": "The Heavy Flamethrower is a heavy duty Biofuel -powered flamethrower Legendary Weapon . It can be purchased at the Bio-lab .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "25 Fire Damage",
@@ -5457,7 +5439,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -5740,9 +5722,9 @@
       "name": "Husk: Extermination",
       "url": "https://icarus.fandom.com/wiki/Husk:_Extermination",
       "description": "EXTERMINATE AND RESEARCH THE NATIVE SCORPION",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 2,
       "stats": {
         "damage": "No effect"
@@ -5753,7 +5735,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -5820,9 +5802,9 @@
       "name": "IC-001 Extractor",
       "url": "https://icarus.fandom.com/wiki/IC-001_Extractor",
       "description": "This device is used to extract Exotics from Exotic Deposits. It requires the IC-001 Prototype Power Source to operate and can extract approximately 330 exotics per power source. The speed of the IC-001 Extractor is the same as the Electric Extractor . Due to a bug, the IC-001 Extractor will operate at the same speed as the Biofuel Extractor .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "2.0 kg",
@@ -5834,7 +5816,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -5843,7 +5825,7 @@
       "description": "The IC-001 Prototype Power Source is unlocked in the Workshop on the Space Station . It is used to power the IC-001 Extractor . It can be used to extract 330 exotics before depleting and has a stack size of one.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Cannot be returned to Station",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 kg"
@@ -5854,7 +5836,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Cannot be returned to Station"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -5923,7 +5905,7 @@
       "description": "The Inaris \"Reaper\" Sickle is a Seed and plant harvesting Sickle that can be unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "33 - 35 Melee Damage",
@@ -5936,7 +5918,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -6129,9 +6111,9 @@
       "name": "Infected Bark",
       "url": "https://icarus.fandom.com/wiki/Infected_Bark",
       "description": "A piece of Wood warped beyond recognition that can be taken to an Organic Residue Cleanser or Biofuel Bio-Cleaner to be turned into five Epoxy per bark.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -6140,7 +6122,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -6149,7 +6131,7 @@
       "description": "The Infrasonic Relay Upgrade grants Prospectors access to Operations locked behind encoded signals. Operations are a variation of traditional Missions that are started in Open Worlds . Upon completing an Operation, Prospectors will be granted Ren ( ) and Exotics / Volatile Exotics for their efforts (rewards vary per Operation and is affected by Open World difficulty). To access Encrypted Signals , Prospectors will need to craft an Encrypted Satellite Upgrade .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Machining Bench",
+      "crafted_at": "Workshop",
       "tier": 3,
       "stats": {
         "weight": "50.0 kg",
@@ -6161,7 +6143,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Machining Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -6191,7 +6173,7 @@
       "description": "This backpack is specifically designed to benefit players moving into Electronics in Tier 3  and Tier 4  , with notable increases in copper, gold, and platinum yields when mining.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 kg",
@@ -6203,7 +6185,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -6270,9 +6252,9 @@
       "name": "Javelin Launcher",
       "url": "https://icarus.fandom.com/wiki/Javelin_Launcher",
       "description": "The Javelin Launcher is a Legendary Weapon that is a large Crossbow that fires Javelins for ammunition instead of Bolts . It can be purchased at the Bio-lab .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+25% Projectile Damage",
@@ -6285,7 +6267,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -6310,12 +6292,30 @@
       }
     },
     {
+      "name": "KickFall Module",
+      "url": "https://icarus.fandom.com/wiki/KickFall_Module",
+      "description": "This module increases resistance to fall damage by 40% when equipped in an Envirosuit module slot, reducing the amount of damage received when falling. It can be researched and crafted on the Space Station in the Workshop . Multiple Kick Fall Modules may be equipped if the Prospector has available slots on their Envirosuit. The resistance increase from each Kick Fall Module will stack and will grant near immunity to fall damage if four are equipped. Falling resistance now caps at 99%.",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "tier": 0,
+      "stats": {},
+      "category": "modules",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Workshop"
+      }
+    },
+    {
       "name": "Kiwi Fruit Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Kiwi_Fruit_Farming_Packet",
       "description": "The Kiwi Fruit Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Kiwifruit seeds, which then can be planted in Dirt Mounds or Crop Plots to grow Kiwifruit .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -6324,25 +6324,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
-      }
-    },
-    {
-      "name": "Kiwifruit",
-      "url": "https://icarus.fandom.com/wiki/Kiwifruit",
-      "description": "Kiwifruit are a fresh fruit that can be eaten raw for a small boost in stamina and resistance to cave sickness or used in additional Food recipes.",
-      "item_type": "weapon",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 0,
-      "stats": {},
-      "category": "",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -6424,9 +6406,9 @@
       "name": "Kumara Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Kumara_Farming_Packet",
       "description": "The Kumara Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Kumara seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -6435,7 +6417,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -6504,9 +6486,9 @@
       "name": "Larkwell Bolt Bundle",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Bolt_Bundle",
       "description": "Consuming the Larkwell Bolt Bundle will add 25x Larkwell Martinez Bolt s to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed bolt bundles cannot be taken back to the space station. Bolt bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 kg"
@@ -6517,16 +6499,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Charged Bolt Bundle",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Charged_Bolt_Bundle",
       "description": "Consuming the Larkwell Charged Bolt Bundle will add 25x Larkwell Martinez Charged Bolt s to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed bolt bundles/remaining bolts cannot be taken back to the space station. Bolt bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 kg"
@@ -6537,16 +6519,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Explosive Bolt Bundle",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Explosive_Bolt_Bundle",
       "description": "Consuming the Larkwell Explosive Bolt Bundle will add 25x Larkwell Martinez Explosive Bolt s to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed bolt bundles/remaining bolts cannot be taken back to the space station. Bolt bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 kg"
@@ -6557,16 +6539,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Martinez Bolt",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Bolt",
       "description": "The Larkwell Martinez Bolt is ammunition used with a Crossbow . Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.03 kg"
@@ -6577,16 +6559,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Martinez Charged Bolt",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Charged_Bolt",
       "description": "The Larkwell Martinez Charged Bolt is ammunition used with a Crossbow . Due to the one-time use payload, these bolts cannot be recovered once fired.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.03 kg"
@@ -6597,16 +6579,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Martinez Explosive Bolt",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Explosive_Bolt",
       "description": "The Larkwell Martinez Explosive Bolt is ammunition used with a Crossbow . Due to the one-time use payload, these bolts cannot be recovered once fired.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.03 kg"
@@ -6617,16 +6599,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Martinez Heated Canteen",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Heated_Canteen",
       "description": "Filled at any water source, including a Rain Reservoir , the Larkwell Martinez Heated Canteen is water tight and will not leak. The Larkwell Martinez Heated Canteen remains filled between Prospects with the added ability to raise the Prospectors core temperature when consumed, making it a useful upgrade to the Shengong 'Hulu' Canteen .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg"
@@ -6637,16 +6619,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Martinez Mercenary Backpack",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Mercenary_Backpack",
       "description": "The Larkwell Martinez Mercenary Backpack is a must need for the scatter gun fan.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 Kg",
@@ -6658,16 +6640,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Martinez Oxygen Tank",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Oxygen_Tank",
       "description": "It is worth noting that this Oxygen Container takes 65 Oxite to fill at a Oxite Dissolver and will last just as long as a Shengong 'Liwei' O2 Tank , but comes with the bonus of increased health regeneration and exposure resistance. Will remain filled between Prospects.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.2 kg"
@@ -6678,16 +6660,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Martinez Piercing Bolt",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Piercing_Bolt",
       "description": "The Larkwell Martinez Piercing Bolt is ammunition used with a Crossbow . Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -6699,7 +6681,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -6708,7 +6690,7 @@
       "description": "When using a Sickle, the Prospector will gain a significant increase in a given Plant Resource , when compared to picking that resource by hand.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "42 - 45 Melee Damage",
@@ -6721,16 +6703,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Martinez Tactical Backpack",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tactical_Backpack",
       "description": "The Larkwell Martinez Tactical Backpack is a massive boost to suit inventory.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 Kg",
@@ -6742,16 +6724,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Piercing Bolt Bundle",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Piercing_Bolt_Bundle",
       "description": "Consuming the Larkwell Piercing Bolt Bundle will add 25x Larkwell Martinez Piercing Bolt s to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed bolt bundles/remaining bolts cannot be taken back to the space station. Bolt bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -6763,7 +6745,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -6791,9 +6773,9 @@
       "name": "Lava Survival Inhaler",
       "url": "https://icarus.fandom.com/wiki/Lava_Survival_Inhaler",
       "description": "The Lava Survival Inhaler is a Medicine that boosts resistance to fire, increases health regeneration and exposure resistance while in a volcanic region. It also reduces water consumption.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -6802,7 +6784,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -6872,9 +6854,9 @@
       "name": "Lily Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Lily_Farming_Packet",
       "description": "The Lily Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Lily seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -6883,7 +6865,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -6911,9 +6893,9 @@
       "name": "Lowburn Module",
       "url": "https://icarus.fandom.com/wiki/Lowburn_Module",
       "description": "This module increases fire resistance by 50% when equipped in an Envirosuit module slot, reducing the amount of damage received when on fire. It can be researched and crafted on the Space Station in the Workshop . Multiple Lowburn Modules may be equipped if the Prospector has available slots on their Envirosuit. The resistance increase from each Lowburn Module will stack and will grant near immunity to fire if four are equipped.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -6922,7 +6904,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -6950,9 +6932,9 @@
       "name": "MXC Campfire",
       "url": "https://icarus.fandom.com/wiki/MXC_Campfire",
       "description": "The MXC Campfire is similar to a Campfire , only elevated to decrease the odds of Prospectors accidentally setting themselves on fire.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "5.0 kg",
@@ -6964,16 +6946,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "MXC Camping Cooker",
       "url": "https://icarus.fandom.com/wiki/MXC_Camping_Cooker",
       "description": "The MXC Camping Cooker is a portable version of the Potbelly Stove that is purchased from the Workshop on the Space Station and powered by Hydrazine . It does not require shelter to operate.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "20 Kg"
@@ -6984,16 +6966,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "MXC Camping Heater",
       "url": "https://icarus.fandom.com/wiki/MXC_Camping_Heater",
       "description": "The MXC Camping Heater is a portable heat source for use in cold regions such as the Arctic that can be purchased from the Workshop on the Space Station.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "20 Kg"
@@ -7004,16 +6986,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "MXC Cot",
       "url": "https://icarus.fandom.com/wiki/MXC_Cot",
       "description": "The MXC Cot is a portable ready-made Bed that can be purchased from the Workshop or brought down to the planet using Orbital Exchange Interface .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "7.5 Kg",
@@ -7025,16 +7007,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "MXC Crate",
       "url": "https://icarus.fandom.com/wiki/MXC_Crate",
       "description": "The MXC Crate is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Similar to the Medium Iron Crate , the MXC Crate does not require shelter. Has 25 slots.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "2.0 kg",
@@ -7046,7 +7028,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -7055,7 +7037,7 @@
       "description": "The MXC Firewhacker is the Workshop equivalent of a Fire Whacker with increased durability and reduced stamina consumption when used.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.1 kg",
@@ -7067,48 +7049,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
-      }
-    },
-    {
-      "name": "MXC Fuel Canister",
-      "url": "https://icarus.fandom.com/wiki/MXC_Fuel_Canister",
-      "description": "The MXC Fuel Canister is purchased from the Workshop on the Space Station and is used for Biofuel storage. It comes prefilled with fuel when purchased and can be refilled at the Biofuel Composter , Electric Composter or by interacting with a Portable Biofuel Tank deployed on the ground. It can be taken back to Orbit and will remain filled, allowing the Prospector to use it across multiple prospects. It does not fill when returned to station. It holds 10 liters of Biofuel.",
-      "item_type": "weapon",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 0,
-      "stats": {
-        "weight": "1.0 Kg",
-        "durability": "100"
-      },
-      "category": "tools",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Unknown"
-      }
-    },
-    {
-      "name": "MXC Hydrazine Canister",
-      "url": "https://icarus.fandom.com/wiki/MXC_Hydrazine_Canister",
-      "description": "The MXC Hydrazine Canister is purchased from the Workshop on the Space Station and stores 10,000 litres of hydrazine. The fuel is used in several other MXC devices by placing the canister in the device's inventory slot. The fuel canister cannot be refilled.",
-      "item_type": "weapon",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 0,
-      "stats": {
-        "weight": "2.0 Kg"
-      },
-      "category": "tools",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -7117,7 +7058,7 @@
       "description": "When using a Sickle, the Prospector will gain a significant increase in a given Plant Resource , when compared to picking that resource by hand.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "36 - 40 Melee Damage",
@@ -7130,16 +7071,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Mass Dampener Module",
       "url": "https://icarus.fandom.com/wiki/Mass_Dampener_Module",
       "description": "This module increases movement speed by 10% when equipped in an Envirosuit module slot. It can be researched and crafted on the Space Station in the Workshop . Multiple Mass Dampeners may be equipped if the Prospector has available slots on their Envirosuit. The speed increase from each Mass Dampener Module will stack and will further increase movement speed.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -7148,7 +7089,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -7276,9 +7217,9 @@
       "name": "MicroMeal",
       "url": "https://icarus.fandom.com/wiki/MicroMeal",
       "description": "Micro Meal is a Food with a unique Status Effect : 'Emergency Rations'. Can be eaten to satisfy Hunger . It is a one time use emergency ration to stave off starvation.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "consumables",
@@ -7287,16 +7228,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Migrating Sands",
       "url": "https://icarus.fandom.com/wiki/Migrating_Sands:_Survey",
       "description": "INVESTIGATE AN ANOMALY IN THE DESERT",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 1,
       "stats": {
         "damage": "No effect"
@@ -7307,7 +7248,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -7392,9 +7333,9 @@
       "name": "Mushroom Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Mushroom_Farming_Packet",
       "description": "The Mushroom Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Mushroom seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -7403,7 +7344,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -7490,9 +7431,9 @@
       "name": "Noxious Crust",
       "url": "https://icarus.fandom.com/wiki/Noxious_Crust",
       "description": "Noxious Crust is a by-product of mining using Miasmic Tools that can be taken to an Organic Residue Cleanser or Biofuel Bio-Cleaner to be turned into various Minerals .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -7501,7 +7442,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -7628,7 +7569,7 @@
       "description": "The Orbital Exchange Interface is required to send Exotics / Stabilized Exotics back to Orbit and to receive payment for them. Volatile Raw Exotics must be cleaned at a Organic Residue Cleanser before they can be sent up. Must be placed outdoors.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Crafting Bench Machining Bench Fabricator",
+      "crafted_at": "Workshop",
       "tier": 2,
       "stats": {
         "weight": "10.0 Kg",
@@ -7640,7 +7581,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafting Bench Machining Bench Fabricator"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -7686,7 +7627,7 @@
         "xHardened Horn": 5,
         "xHardened Magma": 3
       },
-      "crafted_at": "Fabricator",
+      "crafted_at": "Workshop",
       "tier": 4,
       "stats": {
         "weight": "2.5 kg",
@@ -7735,7 +7676,7 @@
           "xHardened Horn": 5,
           "xHardened Magma": 3
         },
-        "crafted_at": "Fabricator"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -7901,9 +7842,9 @@
       "name": "Oxygel",
       "url": "https://icarus.fandom.com/wiki/Oxygel",
       "description": "Oxygel is a Consumable that provides Oxygen when consumed. It is a one time use emergency ration of Oxygen.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "consumables",
@@ -7912,7 +7853,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -8021,9 +7962,9 @@
       "name": "Patcher I Module",
       "url": "https://icarus.fandom.com/wiki/Patcher_I_Module",
       "description": "This module increases the number of available inventory slots by 2 when equipped in an Envirosuit module slot. It can be researched and crafted on the Space Station in the Workshop . Multiple Patcher I Modules may be equipped if the Prospector has available slots on their Envirosuit.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -8032,16 +7973,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Patcher II Module",
       "url": "https://icarus.fandom.com/wiki/Patcher_II_Module",
       "description": "This module increases the number of available inventory slots by 5 when equipped in an Envirosuit module slot. It can be researched and crafted on the Space Station in the Workshop . Multiple Patcher II Modules may be equipped if the Prospector has available slots on their Envirosuit.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -8050,7 +7991,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -8075,9 +8016,9 @@
       "name": "Pheromone Module",
       "url": "https://icarus.fandom.com/wiki/Pheromone_Module",
       "description": "This module increases the movement speed and maximum stamina of mounts near the user. It can be researched and crafted on the Space Station in the Workshop . Multiple Pheromone Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase the benefit received from the equipped modules.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -8086,7 +8027,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -8243,7 +8184,7 @@
       "description": "The Platinum Bolt is ammunition used with a Crossbow . Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Forge Foundry",
+      "crafted_at": "Workshop",
       "tier": 3,
       "stats": {
         "weight": "0.015 kg"
@@ -8254,7 +8195,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Forge Foundry"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -8365,7 +8306,7 @@
       "description": "Used by 'attacking' plants such as shrubs, Reed Flower , Wheat , etc. Sickles significantly increase the yield of plants when harvesting.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Forge Foundry",
+      "crafted_at": "Workshop",
       "tier": 3,
       "stats": {
         "damage": "54 - 60",
@@ -8378,16 +8319,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Forge Foundry"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Player Tracker Module",
       "url": "https://icarus.fandom.com/wiki/Player_Tracker_Module",
       "description": "When this module is equipped in an Envirosuit module slot it allows a prospector to see other prospectors on the map. It can be researched and created on the Space Station in the Workshop .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -8396,7 +8337,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -8507,9 +8448,9 @@
       "name": "Potato Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Potato_Farming_Packet",
       "description": "The Potato Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Potato seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -8518,7 +8459,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -8597,9 +8538,9 @@
       "name": "Prometheus",
       "url": "https://icarus.fandom.com/wiki/Prometheus",
       "description": "Prometheus General information Location System: Proxima Centauri Star: Wolf 1061 Gas giant: Minos Moon: Wolf 1061ca / Icarus Difficulty Available by Purchasing New Frontiers Expansion",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "",
@@ -8608,7 +8549,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -8654,9 +8595,9 @@
       "name": "Protection Module",
       "url": "https://icarus.fandom.com/wiki/Protection_Module",
       "description": "This module increases the user's resistance to wounds received from aggressive Fauna, specifically the Basic Wound + Deep Wound debuff. It can be researched and crafted on the Space Station in the Workshop . Multiple Protection Modules may be equipped if the Prospector has available slots on their Envirosuit and will grant near immunity to Basic/Deep wounds if four are equipped.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -8665,16 +8606,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Pumpkin Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Pumpkin_Farming_Packet",
       "description": "The Pumpkin Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Pumpkin seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -8683,7 +8624,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -8854,9 +8795,9 @@
       "name": "Reed Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Reed_Farming_Packet",
       "description": "The Reed Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Reed seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -8865,7 +8806,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -8914,9 +8855,9 @@
       "name": "Regenerative Combat Inhaler",
       "url": "https://icarus.fandom.com/wiki/Regenerative_Combat_Inhaler",
       "description": "The Regenerative Combat Inhaler is a Medicine that boosts health regeneration and resistance to basic and deep wounds.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -8925,7 +8866,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -8970,9 +8911,9 @@
       "name": "Rhubarb Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Rhubarb_Farming_Packet",
       "description": "The Rhubarb Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Rhubarb seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -8981,7 +8922,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -9433,7 +9374,7 @@
       "description": "The Sandworm Javelin is a variant of the Sandworm Spear that can only be thrown. Considering the Sandworm Javelin deals the same amount of damage as a Bone Javelin , the Sandworm Javelin is overshadowed by higher-tier javelins and is not worth the effort. Crafted in batches of five and stacks up to twenty.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Forge Foundry",
+      "crafted_at": "Workshop",
       "tier": 3,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -9445,7 +9386,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Forge Foundry"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -9835,9 +9776,9 @@
       "name": "Shengong \"Hulu\" Canteen",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Hulu%22_Canteen",
       "description": "Filled at any water source, including a Rain Reservoir . Similar to the Canteen , the Shengong \"Hulu\" Canteen is water tight and will not leak. The Shengong \"Hulu\" Canteen will remain filled between Prospects, making it a valuable Workshop purchase early on.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg"
@@ -9848,27 +9789,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
-      }
-    },
-    {
-      "name": "Shengong 'Liwei' O2 Tank",
-      "url": "https://icarus.fandom.com/wiki/Shengong_%27Liwei%27_O2_Tank",
-      "description": "It is worth noting that this Oxygen Container takes 65 Oxite to fill at a Oxite Dissolver , and will last significantly longer than an Oxygen Bladder , making it one of the most valuable early game purchases in the Workshop . Will remain filled between Prospects. It holds 6500 oxygen units making it useful for stockpile missions that require oxygen delivery.",
-      "item_type": "weapon",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 0,
-      "stats": {
-        "weight": "0.1 kg"
-      },
-      "category": "oxygen containers",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -10375,9 +10296,9 @@
       "name": "Squash Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Squash_Farming_Packet",
       "description": "The Squash Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Squash seeds, which then can be planted in Dirt Mounds or crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -10386,16 +10307,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Stabilized Exotics",
       "url": "https://icarus.fandom.com/wiki/Stabilized_Exotics",
       "description": "Stabilized Exotics are a form of currency in the Workshop and the stabilized state that results from processing and cleaning Volatile Raw Exotics found on Prometheus .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "minerals",
@@ -10404,7 +10325,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -10485,9 +10406,9 @@
       "name": "Strength Boost Module",
       "url": "https://icarus.fandom.com/wiki/Strength_Boost_Module",
       "description": "When equipped in a module slot of an Envirosuit , this module increases the carry weight capacity of Prospectors near the user, however it does not affect the wearers max carry weight. It can be researched and crafted on the Space Station in the Workshop .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -10496,7 +10417,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -10616,9 +10537,9 @@
       "name": "Sugar Cane",
       "url": "https://icarus.fandom.com/wiki/Sugar_Cane",
       "description": "Sugar Cane does not naturally spawn on Icarus and is obtainable by planting Seeds obtained from a Sugar Cane Farming Packet ordered from the Workshop through the Orbital Exchange Interface .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "plant resources",
@@ -10627,16 +10548,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Sugar Cane Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Sugar_Cane_Farming_Packet",
       "description": "The Sugar Cane Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Sugar Cane Seeds , which then can be planted in Dirt Mounds or Crop Plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -10645,7 +10566,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -10764,9 +10685,9 @@
       "name": "Survival Backpack",
       "url": "https://icarus.fandom.com/wiki/Survival_Backpack",
       "description": "The Survival Backpack is a must need when taking long trips across Icarus, fit everything you need inside for survival! Innovative storage system that mitigates injuries.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 Kg",
@@ -10778,16 +10699,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Survival Kit",
       "url": "https://icarus.fandom.com/wiki/Survival_Kit",
       "description": "Survival Kits are a Tier 3  bandage that heals basic wounds, deep wounds, frostbite and heatstroke Status Effects . It replaces a number of basic items, but requires considerably more materials to craft.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 3,
       "stats": {},
       "category": "medicine",
@@ -10796,16 +10717,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Survival Module",
       "url": "https://icarus.fandom.com/wiki/Survival_Module",
       "description": "This module increases the user's resistance to cold/hot environments, reducing the damage taken from Hypothermia/Hyperthermia. It can be researched and crafted on the Space Station in the Workshop . Multiple Survival Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase the users resistance to hyperthermia/hypothermia.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -10814,7 +10735,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -10839,9 +10760,9 @@
       "name": "Suture Kit",
       "url": "https://icarus.fandom.com/wiki/Suture_Kit",
       "description": "A Suture Kit is used to treat a Deep Wound, Hemorrhage or Exotic Deep Wound.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 1,
       "stats": {},
       "category": "medicine",
@@ -10850,7 +10771,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -10864,7 +10785,7 @@
         "HoneycombSpoiled PlantsCharcoal": 25,
         "Vegetable OilSpoiled MeatSpoiled Plants": 10
       },
-      "crafted_at": "Chemistry Bench",
+      "crafted_at": "Workshop",
       "tier": 4,
       "stats": {},
       "category": "crafted resources",
@@ -10878,7 +10799,7 @@
           "HoneycombSpoiled PlantsCharcoal": 25,
           "Vegetable OilSpoiled MeatSpoiled Plants": 10
         },
-        "crafted_at": "Chemistry Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -10927,9 +10848,9 @@
       "name": "Tea Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Tea_Farming_Packet",
       "description": "The Tea Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Tea seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -10938,7 +10859,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -11231,9 +11152,9 @@
       "name": "Tomato Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Tomato_Farming_Packet",
       "description": "The Tomato Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Tomato seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -11242,7 +11163,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -11349,12 +11270,34 @@
       }
     },
     {
+      "name": "UDA Comet Coal Resource Supply",
+      "url": "https://icarus.fandom.com/wiki/UDA_Comet_Coal_Resource_Supply",
+      "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the CONT4CT Device .",
+      "item_type": "craftable",
+      "ingredients": {
+        "Ren": 50
+      },
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resource packs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 100,
+      "base_recipe": {
+        "ingredients": {
+          "Ren": 50
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
       "name": "UDA Synthetic Enzymes Resource Supply",
       "url": "https://icarus.fandom.com/wiki/UDA_Synthetic_Enzymes_Resource_Supply",
       "description": "The UDA Synthetic Enzymes Resource Supply pack is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Prospectors can also research, purchase, and request UDA Synthetic Enzymes Resource Supply packs using an Orbital Exchange Interface .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
@@ -11363,7 +11306,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -11391,9 +11334,9 @@
       "name": "UltraMeal",
       "url": "https://icarus.fandom.com/wiki/UltraMeal",
       "description": "Ultra Meal is a Food with a unique Status Effect : 'Emergency Rations'. Can be eaten to satisfy Hunger . It is a one time use emergency ration to stave off starvation.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "consumables",
@@ -11402,7 +11345,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -11704,9 +11647,9 @@
       "name": "Watermelon Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Watermelon_Farming_Packet",
       "description": "The Watermelon Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Watermelon seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -11715,7 +11658,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -11766,9 +11709,9 @@
       "name": "Wheat Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Wheat_Farming_Packet",
       "description": "The Wheat Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Wheat seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -11777,7 +11720,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -12018,12 +11961,30 @@
       }
     },
     {
+      "name": "Workshop",
+      "url": "https://icarus.fandom.com/wiki/Workshop",
+      "description": "Aboard the Space Station , Prospectors can spend Ren and Exotics to research and craft new Orbital Tech .",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Workshop"
+      }
+    },
+    {
       "name": "Workshop Repair Kit",
       "url": "https://icarus.fandom.com/wiki/Workshop_Repair_Kit",
       "description": "The Workshop Repair Kit is obtained by purchasing a Workshop Repair Kit Bundle from the Workshop on the Space Station and consuming the bundle. Workshop Repair Kits can be used to repair Workshop Items at a powered Repair Bench .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "miscellaneous",
@@ -12032,16 +11993,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Workshop Repair Kit Bundle",
       "url": "https://icarus.fandom.com/wiki/Workshop_Repair_Kit_Bundle",
       "description": "The Workshop Repair Kit Bundle is unlocked in the Workshop on the Space Station . Once opened, this bundle gives the Prospector five Workshop Repair Kit s that can be used to repair Orbital Workshop Tools/Weapons/Armor at a powered Repair Bench .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 Kg"
@@ -12052,16 +12013,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "World Boss Module",
       "url": "https://icarus.fandom.com/wiki/World_Boss_Module",
       "description": "The World Boss Module is researched and crafted on the Space Station in the Workshop . Must be equipped in a envirosuit module slot after dropping into a Prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -12070,7 +12031,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -12095,9 +12056,9 @@
       "name": "Xenon Backpack",
       "url": "https://icarus.fandom.com/wiki/Xenon_Backpack",
       "description": "The Xenon Backpack is designed to aid prospectors in hunting and vestige gathering, granting prospectors the ability to harvest vestiges from animals without needing to use a Taxidermy Knife ; an excellent choice for those seeking to complete the Bestiary .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 kg",
@@ -12109,16 +12070,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Xigo Puri-tab",
       "url": "https://icarus.fandom.com/wiki/Xigo_Puri-tab",
       "description": "Xigo Puri-tab is purchased in the Workshop on the Space Station . The purification tablet will convert any Water to Treated Water in a canteen or Liquid Container . The recipe for purifying water should be available in your character Crafting menu when you have a filled canteen and a Xigo Puri-tab in your inventory.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -12127,16 +12088,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Xigo Quick-Fix Bundle",
       "url": "https://icarus.fandom.com/wiki/Xigo_Quick-Fix_Bundle",
       "description": "The Xigo Quick-Fix Bundle provides 5 Xigo Quick-Fix Kits that act as Medicine to heal various types of wounds and remove afflictions.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -12145,16 +12106,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Xigo Quick-Fix Kit",
       "url": "https://icarus.fandom.com/wiki/Xigo_Quick-Fix_Kit",
       "description": "The Xigo Quick-Fix Kit is a consumable Medicine that heals wounds and removes certain Status Effects .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -12163,16 +12124,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Xigo SplintX",
       "url": "https://icarus.fandom.com/wiki/Xigo_SplintX",
       "description": "Xigo Splint X is a consumable medicine to heal a Broken Leg or Sprain Status Effect and provide a +10% Falling Resistance for a duration of 5 minutes.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -12181,16 +12142,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Xigo SplintX Bundle",
       "url": "https://icarus.fandom.com/wiki/Xigo_SplintX_Bundle",
       "description": "The Xigo Splint X Bundle provides 5 Xigo Splint Xs that act as Medicine to heal a Sprain or Broken Leg Status Effect and provide +10% Falling Resistance.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -12199,16 +12160,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Yeast Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Yeast_Farming_Packet",
       "description": "The Yeast Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Yeast seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -12217,7 +12178,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {

@@ -4,7 +4,7 @@
   "description": "The Shengong 'Lie' Axe is the Workshop equivalent of an Iron Axe , allowing Prospectors to fell trees faster while also increasing the amount received from felling trees.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "+50 Felling Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+    "crafted_at": "Workshop"
   }
 }

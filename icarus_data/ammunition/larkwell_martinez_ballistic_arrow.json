@@ -2,9 +2,9 @@
   "name": "Larkwell Martinez Ballistic Arrow",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Ballistic_Arrow",
   "description": "The Larkwell Martinez Ballistic Arrow is ammunition used with a Bow . Unlike bolts and javelins, they cannot be recovered after being fired into the ground or an animal carcass. Caution when using this ammunition is advised.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "0.05 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

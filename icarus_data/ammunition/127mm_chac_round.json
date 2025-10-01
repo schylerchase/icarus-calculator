@@ -4,7 +4,7 @@
   "description": "12.7mm CHAC Round is a type of Sniper Ammunition for the Anti-materiel Rifle that does 600 damage.",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "0.02 kg"
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

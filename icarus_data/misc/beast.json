@@ -2,9 +2,9 @@
   "name": "BEAST",
   "url": "https://icarus.fandom.com/wiki/BEAST",
   "description": "While holding the BEAST, Prospectors can left-click while looking at an animal to \"scan\" that animal (must be close to the target to initiate a scan). Unlike what the description says, the scanned animal will take additional damage until another scan is performed. Scanning animals using the BEAST also grants 3 bestiary points for the animal scanned.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "1.0 Kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

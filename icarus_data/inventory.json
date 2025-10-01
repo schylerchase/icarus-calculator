@@ -8,7 +8,7 @@
       "description": "Locates Deep Ore Deposits within the area that can be mined with a Biofuel Deep-Mining Drill or an Electric Deep-Mining Drill . Unlike the Deep Mining Ore Scanner , the Advanced Deep Mining Ore Scanner can be toggled to detect specific deep ore deposits.",
       "item_type": "harvestable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 Kg"
@@ -19,7 +19,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -69,7 +69,7 @@
       "description": "The Biofuel Radar is used to scan for Exotic / Volatile Raw Exotic deposits. Once activated, aggravated Fauna (varies per region) will attempt to destroy the radar by any means necessary. Radars of all types will show ALL exotic veins on the map in each scan, regardless of whether they have been depleted. Scans performed in an Outpost will not complete as there are no exotic veins in them. This can be used to spawn aggressive wildlife for resources or experience.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Machining Bench Fabricator",
+      "crafted_at": "Workshop",
       "tier": 3,
       "stats": {
         "weight": "2.0 Kg",
@@ -81,7 +81,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Machining Bench Fabricator"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -151,7 +151,7 @@
       "description": "The Electric Radar is used to scan for Exotic / Volatile Raw Exotic deposits. Once activated, aggravated Fauna (varies per region) will attempt to destroy the radar by any means necessary. Radars of all types will show ALL exotic veins on the map in each scan, regardless of whether they have been depleted. Scans performed in an Outpost will not complete as there are no exotic veins in them. This can be used to spawn aggressive wildlife for resources or experience.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Fabricator",
+      "crafted_at": "Workshop",
       "tier": 4,
       "stats": {
         "weight": "2.0 Kg",
@@ -163,7 +163,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Fabricator"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -174,7 +174,7 @@
       "ingredients": {
         "Exotics": 200
       },
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "2.0 Kg",
@@ -188,7 +188,7 @@
         "ingredients": {
           "Exotics": 200
         },
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {

@@ -4,7 +4,7 @@
   "description": "The Sandworm Spear is made with scales from Sandworms and can be used for melee combat with reach. Considering the Sandworm Spear deals the same amount of damage as a Bone Spear , the Sandworm Spear is overshadowed by higher-tier spears and currently not worth the effort.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Forge Foundry",
+  "crafted_at": "Workshop",
   "tier": 3,
   "stats": {
     "damage": "+25% Critical Damage with Spears",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Forge Foundry"
+    "crafted_at": "Workshop"
   }
 }

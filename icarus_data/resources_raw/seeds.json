@@ -4,7 +4,7 @@
   "description": "Seeds are a resource harvested from Flora or produced in a Seed Extractor that can be planted in Dirt Mounds or Crop Plots to produce more of that specific crop.",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "resources",
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

@@ -2,9 +2,9 @@
   "name": "Larkwell Martinez Compound Bow",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Compound_Bow",
   "description": "The Larkwell Martinez Compound Bow is a stronger, more durable variant of the Compound Bow using arrows and talents interchangeably with other bows.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "+125% Projectile Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

@@ -2,9 +2,9 @@
   "name": "Player Tracker Module",
   "url": "https://icarus.fandom.com/wiki/Player_Tracker_Module",
   "description": "When this module is equipped in an Envirosuit module slot it allows a prospector to see other prospectors on the map. It can be researched and created on the Space Station in the Workshop .",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "modules",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

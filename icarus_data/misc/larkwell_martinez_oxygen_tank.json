@@ -2,9 +2,9 @@
   "name": "Larkwell Martinez Oxygen Tank",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Oxygen_Tank",
   "description": "It is worth noting that this Oxygen Container takes 65 Oxite to fill at a Oxite Dissolver and will last just as long as a Shengong 'Liwei' O2 Tank , but comes with the bonus of increased health regeneration and exposure resistance. Will remain filled between Prospects.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "0.2 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

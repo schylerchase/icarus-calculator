@@ -105,9 +105,9 @@
       "name": "Berry Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Berry_Farming_Packet",
       "description": "The Berry Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Berry seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -116,7 +116,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -543,9 +543,9 @@
       "name": "Fisher's Module",
       "url": "https://icarus.fandom.com/wiki/Fisher%27s_Module",
       "description": "This module increases the user's ability to catch Unique Fish and, somehow, increases the quality of caught fish. It can be researched and crafted on the Space Station in the Workshop . Multiple Fisher's Modules may be equipped if the Prospector has available slots on their Envirosuit, which will further increasing the user's ability to fish and become the Master Angler they wish to be.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -554,7 +554,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -883,7 +883,7 @@
       "description": "Raw Chicken can be obtained from the carcass of a once cryogenically frozen Chicken that can be purchased from the Workshop .",
       "item_type": "harvestable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "food",
@@ -894,7 +894,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1279,9 +1279,9 @@
       "name": "Strawberry Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Strawberry_Farming_Packet",
       "description": "The Strawberry Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Strawberry seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "resources",
@@ -1290,7 +1290,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1371,7 +1371,7 @@
       "description": "While the Exotics prospectors found on Olympus and Styx were originally believed to be the only known variation, the UDA has made a remarkable discovery. This unstable variant is different and appears to have an impact on the local flora not seen before.",
       "item_type": "harvestable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "minerals",
@@ -1382,7 +1382,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {

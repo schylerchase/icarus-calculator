@@ -4,7 +4,7 @@
   "description": "The Inaris \"Ersa\" Axe is a Workshop Axe geared towards combat, intrinsically dealing Frost damage to targets. Ideally used with the Berserker talent, which increases axe melee damage.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "+60 Felling Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+    "crafted_at": "Workshop"
   }
 }

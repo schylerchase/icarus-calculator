@@ -4,7 +4,7 @@
   "description": "The Inaris \"Reaper\" Sickle is a Seed and plant harvesting Sickle that can be unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "33 - 35 Melee Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+    "crafted_at": "Workshop"
   }
 }

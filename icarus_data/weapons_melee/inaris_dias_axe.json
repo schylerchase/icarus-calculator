@@ -4,7 +4,7 @@
   "description": "The Inaris \"Dias\" Axe is the Workshop equivalent of an Steel Axe , allowing Prospectors to fell trees faster while also increasing the amount received from felling trees. Unlike other Axes , the Inaris \"Dias\" Axe is the only Axe that lowers the carry weight of wood by 50% when equipped, making it a valuable tool when transporting wood when paired with the Gatherer's Backpack .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "+50 Felling Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+    "crafted_at": "Workshop"
   }
 }

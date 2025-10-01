@@ -2,9 +2,9 @@
   "name": "Sugar Cane",
   "url": "https://icarus.fandom.com/wiki/Sugar_Cane",
   "description": "Sugar Cane does not naturally spawn on Icarus and is obtainable by planting Seeds obtained from a Sugar Cane Farming Packet ordered from the Workshop through the Orbital Exchange Interface .",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "plant resources",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

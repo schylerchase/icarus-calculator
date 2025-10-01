@@ -4,7 +4,7 @@
   "description": "The Vapor Condenser is a deployable that can be placed on Enzyme Geysers to extract Condensed Enzymes and Exotics (depending on the game mode).",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Fabricator",
+  "crafted_at": "Workshop",
   "tier": 4,
   "stats": {
     "weight": "5.0 kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Fabricator"
+    "crafted_at": "Workshop"
   }
 }

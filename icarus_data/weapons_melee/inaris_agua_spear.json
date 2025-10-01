@@ -2,9 +2,9 @@
   "name": "Inaris \"Agua\" Spear",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Agua%22_Spear",
   "description": "Element damage does not scale with Spear talents. The Inaris \"Agua\" Spear cannot be thrown, and there are currently no Workshop Javelins .",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "+25% Critical Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

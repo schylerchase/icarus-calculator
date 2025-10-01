@@ -4,7 +4,7 @@
   "description": "The Portable Biofuel Generator generates Electricity when supplied with biofuel from a Biofuel Can .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Fabricator",
+  "crafted_at": "Workshop",
   "tier": 4,
   "stats": {
     "weight": "2.0 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Fabricator"
+    "crafted_at": "Workshop"
   }
 }

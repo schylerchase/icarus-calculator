@@ -4,7 +4,7 @@
   "description": "The Cryogenically Frozen Calf is a deployable container containing a Calf that can be researched and obtained in the Workshop and called down to the planet using the Orbital Exchange Interface .",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "10.0 Kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

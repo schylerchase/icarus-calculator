@@ -5,7 +5,7 @@
     {
       "name": "Advanced Alteration Bench",
       "url": "https://icarus.fandom.com/wiki/Advanced_Alteration_Bench",
-      "description": "The Advanced Alteration Bench is a late game technology that allows prospectors to create Attachment Packs ( Tier 3 ) and Advanced Attachment Packs ( Tier 4 ) to upgrade armor pieces, ranged weapons, and tools. An active power connection providing at least 1,500 electricity to craft Attachment Packs is required. A power connection is not required to add and remove Attachment packs from items.",
+      "description": "The Advanced Alteration Bench is a late game technology that allows prospectors to create Attachment Packs ( Tier 3  ) and Advanced Attachment Packs ( Tier 4  ) to upgrade armor pieces, ranged weapons, and tools. An active power connection providing at least 1,500 electricity to craft Attachment Packs is required. A power connection is not required to add and remove Attachment packs from items.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Fabricator",
@@ -446,7 +446,7 @@
     {
       "name": "Anvil Bench",
       "url": "https://icarus.fandom.com/wiki/Anvil_Bench",
-      "description": "The Anvil Bench is unlocked near the start of the Tier 2 Tech Tree . It enables the Prospector to craft higher quality tools such as the Iron Pickaxe and Steel Pickaxe . It is also where these tools can be repaired. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under a severely damaged roof) in storms.",
+      "description": "The Anvil Bench is unlocked near the start of the Tier 2  Tech Tree . It enables the Prospector to craft higher quality tools such as the Iron Pickaxe and Steel Pickaxe . It is also where these tools can be repaired. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under a severely damaged roof) in storms.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafting Bench",
@@ -803,7 +803,7 @@
     {
       "name": "Beeswax Wood Floor",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Floor",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "the Carpentry Bench with the following resources:",
@@ -823,8 +823,8 @@
     },
     {
       "name": "Beeswax Wood Ramp",
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Ramp",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "url": "https://icarus.fandom.com/wiki/Reinforced_Wood_Stairs",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Carpentry Bench",
@@ -845,7 +845,7 @@
     {
       "name": "Beeswax Wood Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Roof_Corner",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Carpentry Bench",
@@ -866,7 +866,7 @@
     {
       "name": "Beeswax Wood Wall",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Wall",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Carpentry Bench",
@@ -887,7 +887,7 @@
     {
       "name": "Beeswax Wood Wall Angled",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Wall_Angled",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Carpentry Bench",
@@ -929,7 +929,7 @@
     {
       "name": "Bone Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Chest_Armor",
-      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
+      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1  armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1182,9 +1182,9 @@
       "name": "CX-400 Chest Armor",
       "url": "https://icarus.fandom.com/wiki/CX-400_Chest_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.5 kg",
@@ -1196,7 +1196,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1742,7 +1742,7 @@
     {
       "name": "Concrete Furnace",
       "url": "https://icarus.fandom.com/wiki/Concrete_Furnace",
-      "description": "Made at the Machining Bench , this Tier 3 furnace allows the smelting of mid-tier ores such as Steel Ingot + Super Cooled Ice into Cold Steel Ingots and Titanium Ore into Titanium Ingots .",
+      "description": "Made at the Machining Bench , this Tier 3  furnace allows the smelting of mid-tier ores such as Steel Ingot + Super Cooled Ice into Cold Steel Ingots and Titanium Ore into Titanium Ingots .",
       "item_type": "craftable",
       "ingredients": {
         "Iron Ore": 2,
@@ -2013,7 +2013,7 @@
     {
       "name": "Crafting Bench",
       "url": "https://icarus.fandom.com/wiki/Crafting_Bench",
-      "description": "The Crafting Bench allows the prospector to craft Tier 2 items. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under severely damaged roof) in storms.",
+      "description": "The Crafting Bench allows the prospector to craft Tier 2  items. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under severely damaged roof) in storms.",
       "item_type": "craftable",
       "ingredients": {
         "Fiber": 60,
@@ -2104,7 +2104,7 @@
     {
       "name": "Dirt Corner",
       "url": "https://icarus.fandom.com/wiki/Dirt_Corner",
-      "description": "Dirt Corners are a Tier 1 buildable that are used in tandem with Dirt Ramps , allowing for the creation of rounded ramps. Due to the nature of its building material, Dirt Corners must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
+      "description": "Dirt Corners are a Tier 1  buildable that are used in tandem with Dirt Ramps , allowing for the creation of rounded ramps. Due to the nature of its building material, Dirt Corners must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2125,7 +2125,7 @@
     {
       "name": "Dirt Foundation",
       "url": "https://icarus.fandom.com/wiki/Dirt_Foundation",
-      "description": "Dirt Foundations are a Tier 1 buildable that serves as an alternative to Thatch Beams / Wood Beams that provides a more natural look to structures. Due to the nature of its building material, Dirt Foundations must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
+      "description": "Dirt Foundations are a Tier 1  buildable that serves as an alternative to Thatch Beams / Wood Beams that provides a more natural look to structures. Due to the nature of its building material, Dirt Foundations must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2146,7 +2146,7 @@
     {
       "name": "Dirt Ramp",
       "url": "https://icarus.fandom.com/wiki/Dirt_Ramp",
-      "description": "Dirt Ramps are a Tier 1 buildable that serves as an alternative to Thatch Ramps / Wood Ramps that provides a more natural look to structures. Due to the nature of its building material, Dirt Ramps must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
+      "description": "Dirt Ramps are a Tier 1  buildable that serves as an alternative to Thatch Ramps / Wood Ramps that provides a more natural look to structures. Due to the nature of its building material, Dirt Ramps must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2188,7 +2188,7 @@
     {
       "name": "Electric Furnace",
       "url": "https://icarus.fandom.com/wiki/Electric_Furnace",
-      "description": "The Electric Furnace is the end-game furnace capable of smelting Composite Paste into Composites , a material required for most Tier 4 blueprints, and can refine all other minerals faster than the lower tier furnaces.",
+      "description": "The Electric Furnace is the end-game furnace capable of smelting Composite Paste into Composites , a material required for most Tier 4  blueprints, and can refine all other minerals faster than the lower tier furnaces.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Fabricator",
@@ -2330,7 +2330,7 @@
     {
       "name": "Forge",
       "url": "https://icarus.fandom.com/wiki/Forge",
-      "description": "The Forge is the Tier 3 variant of the Anvil Bench that will allow the Prospector to craft higher quality tools such as the Platinum Pickaxe , Cold Steel Knife , etc and items crafted at the Anvil Bench ( Iron Axe , Copper Nails , etc). It is also where these tools can be repaired. Unlike other benches, the Forge can be deployed and used outdoors as it does not require shelter. Can be used indoors or outdoors.",
+      "description": "The Forge is the Tier 3  variant of the Anvil Bench that will allow the Prospector to craft higher quality tools such as the Platinum Pickaxe , Cold Steel Knife , etc and items crafted at the Anvil Bench ( Iron Axe , Copper Nails , etc). It is also where these tools can be repaired. Unlike other benches, the Forge can be deployed and used outdoors as it does not require shelter. Can be used indoors or outdoors.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Machining Bench",
@@ -2661,7 +2661,7 @@
     {
       "name": "Heavy Obsidian Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Chest_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "description": "Heavy Obsidian Armor is a Tier 2  armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
@@ -3147,7 +3147,7 @@
       "description": "The LM Beastmaster Chest Armor is part of the LM Beastmaster Armor Set , which can be unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mounts and tamed creatures.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -3159,7 +3159,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -3168,7 +3168,7 @@
       "description": "",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -3180,13 +3180,13 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Leather Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Chest_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1  counterparts, serving as a decent all-around armor for Tier 2  .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
@@ -3248,9 +3248,9 @@
       "name": "MXC Furnace",
       "url": "https://icarus.fandom.com/wiki/MXC_Furnace",
       "description": "The MXC Furnace is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. The MXC Furnace functions like a smaller, more lightweight Stone Furnace , and allows for processing of Iron Ore , Copper Ore , and Steel Bloom into ingots.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "5.0 kg",
@@ -3262,13 +3262,13 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Machining Bench",
       "url": "https://icarus.fandom.com/wiki/Machining_Bench",
-      "description": "Mid-level crafting system made at the Crafting Bench , the Machining Bench provides access to Tier 3 Blueprints. Prospectors can use it to create Deployables and Firearms .",
+      "description": "Mid-level crafting system made at the Crafting Bench , the Machining Bench provides access to Tier 3  Blueprints. Prospectors can use it to create Deployables and Firearms .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafting Bench",
@@ -3382,9 +3382,9 @@
       "name": "Naneo Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Naneo_Chest_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.5 kg",
@@ -3396,7 +3396,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -3468,7 +3468,7 @@
       "description": "The Portable Biofuel Generator generates Electricity when supplied with biofuel from a Biofuel Can .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Fabricator",
+      "crafted_at": "Workshop",
       "tier": 4,
       "stats": {
         "weight": "2.0 Kg",
@@ -3480,7 +3480,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Fabricator"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -3549,7 +3549,7 @@
     {
       "name": "Ranching Station",
       "url": "https://icarus.fandom.com/wiki/Ranching_Station",
-      "description": "The Ranching Station allows the prospector to craft various Tier 2 equipment to use and maintain mounts and pets. This includes several Food Troughs / Water Troughs , Animal Beds , Saddles / Carts , Animal Feed , and other Ranching Deployables . Must be placed outside.",
+      "description": "The Ranching Station allows the prospector to craft various Tier 2  equipment to use and maintain mounts and pets. This includes several Food Troughs / Water Troughs , Animal Beds , Saddles / Carts , Animal Feed , and other Ranching Deployables . Must be placed outside.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafting Bench Machining Bench Fabricator",
@@ -3631,7 +3631,7 @@
     {
       "name": "Reinforced Door",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Door",
-      "description": "The Reinforced Door is part of the Reinforced Wood Building Trim Set , which is learned in the Tier 2 Tech Tree after unlocking the Carpentry Bench . Can be repaired with a Hammer .",
+      "description": "The Reinforced Door is part of the Reinforced Wood Building Trim Set , which is learned in the Tier 2  Tech Tree after unlocking the Carpentry Bench . Can be repaired with a Hammer .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Carpentry Bench",
@@ -3817,7 +3817,7 @@
     {
       "name": "Reinforced Ladder",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Ladder",
-      "description": "Reinforced Building Pieces at learned in the Tier 2 Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
+      "description": "Reinforced Building Pieces at learned in the Tier 2  Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3838,7 +3838,7 @@
     {
       "name": "Reinforced Railing",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Railing",
-      "description": "Reinforced Building Pieces at learned in the Tier 2 Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
+      "description": "Reinforced Building Pieces at learned in the Tier 2  Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3859,7 +3859,7 @@
     {
       "name": "Reinforced Trapdoor",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Trapdoor",
-      "description": "Reinforced Building Pieces at learned in the Tier 2 Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
+      "description": "Reinforced Building Pieces at learned in the Tier 2  Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3880,7 +3880,7 @@
     {
       "name": "Reinforced Window",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Window",
-      "description": "Reinforced Building Pieces at learned in the Tier 2 Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
+      "description": "Reinforced Building Pieces at learned in the Tier 2  Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3901,10 +3901,10 @@
     {
       "name": "Repair Bench",
       "url": "https://icarus.fandom.com/wiki/Repair_Bench",
-      "description": "The Repair Bench has the ability to repair all items you’re wearing or have placed on the bench with a single click, regardless of where they were crafted. When combined with a power connection (1,500 electricity ) it can also repair Tier 4 and Orbital Workshop items. To repair Orbital Workshop Items, a Workshop Repair Kit is required.",
+      "description": "The Repair Bench has the ability to repair all items you’re wearing or have placed on the bench with a single click, regardless of where they were crafted. When combined with a power connection (1,500 electricity ) it can also repair Tier 4  and Orbital Workshop items. To repair Orbital Workshop Items, a Workshop Repair Kit is required.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Machining Bench",
+      "crafted_at": "Workshop",
       "tier": 3,
       "stats": {
         "weight": "20.0 kg",
@@ -3916,7 +3916,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Machining Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -4130,9 +4130,9 @@
       "name": "ST-700 Chest Armor",
       "url": "https://icarus.fandom.com/wiki/ST-700_Chest_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.5 kg",
@@ -4144,7 +4144,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -4549,7 +4549,7 @@
     {
       "name": "Scorpion Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Chest_Armor",
-      "description": "Scorpion Chest Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Chest Armor is a Tier 2  crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Textiles Bench Electric Textiles Bench",
@@ -4692,7 +4692,7 @@
     },
     {
       "name": "Stone Brick Ramp",
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Roof_Peak",
+      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Roof",
       "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
       "item_type": "weapon",
       "ingredients": {},
@@ -5160,7 +5160,7 @@
     {
       "name": "Thatch Railing",
       "url": "https://icarus.fandom.com/wiki/Thatch_Railing",
-      "description": "The Thatch Railing is part of the Thatch Building Trim Set , which is learned in the Tier 1 Tech Tree after unlocking the Thatch Building Base Set .",
+      "description": "The Thatch Railing is part of the Thatch Building Trim Set , which is learned in the Tier 1  Tech Tree after unlocking the Thatch Building Base Set .",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5403,7 +5403,7 @@
     {
       "name": "Wayfarer Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Wayfarer_Chest_Armor",
-      "description": "Wayfarer Chest Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
+      "description": "Wayfarer Chest Armor is a mid-game Tier 3  crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
@@ -5486,7 +5486,7 @@
     },
     {
       "name": "Wood Floor",
-      "url": "https://icarus.fandom.com/wiki/Wood_Floor",
+      "url": "https://icarus.fandom.com/wiki/Wood_Floor_Trapdoor",
       "description": "Wood Floor is crafted in the Character Crafting with the following resources:",
       "item_type": "weapon",
       "ingredients": {},

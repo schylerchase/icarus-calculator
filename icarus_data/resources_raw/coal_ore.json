@@ -2,9 +2,9 @@
   "name": "Coal Ore",
   "url": "https://icarus.fandom.com/wiki/Coal_Ore",
   "description": "Coal Ore is a Mineral found on Icarus in the open and caves. It's most basic use is as a fuel in a Campfire or Stone Furnace , though this is somewhat inefficient as it is more valuable as component for crafting.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "minerals",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

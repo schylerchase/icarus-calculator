@@ -2,9 +2,9 @@
   "name": "Inaris \"Gris\" Spear",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Gris%22_Spear",
   "description": "The Inaris \"Gris\" Spear is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "61 - 65 Melee Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "Material Processor",
   "url": "https://icarus.fandom.com/wiki/Material_Processor",
-  "description": "The Material Processor serves as a much faster and more advanced Tier 4 version of the Mortar and Pestle that uses electricity to craft items.",
+  "description": "The Material Processor serves as a much faster and more advanced Tier 4  version of the Mortar and Pestle that uses electricity to craft items.",
   "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Fabricator",

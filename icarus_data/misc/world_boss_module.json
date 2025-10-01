@@ -2,9 +2,9 @@
   "name": "World Boss Module",
   "url": "https://icarus.fandom.com/wiki/World_Boss_Module",
   "description": "The World Boss Module is researched and crafted on the Space Station in the Workshop . Must be equipped in a envirosuit module slot after dropping into a Prospect.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "modules",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

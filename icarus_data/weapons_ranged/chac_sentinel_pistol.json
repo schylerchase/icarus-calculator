@@ -1,10 +1,10 @@
 {
   "name": "CHAC \"Sentinel\" Pistol",
   "url": "https://icarus.fandom.com/wiki/CHAC_%22Sentinel%22_Pistol",
-  "description": "The CHAC \"Sentinel\" Pistol is an advanced handgun with increased projectile and critical damage that is comparable, or better than other Tier 4 Firearms .",
-  "item_type": "weapon",
+  "description": "The CHAC \"Sentinel\" Pistol is an advanced handgun with increased projectile and critical damage that is comparable, or better than other Tier 4  Firearms .",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "+25% Critical Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

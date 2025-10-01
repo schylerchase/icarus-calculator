@@ -2,9 +2,9 @@
   "name": "Defensive Combat Inhaler",
   "url": "https://icarus.fandom.com/wiki/Defensive_Combat_Inhaler",
   "description": "The Defensive Combat Inhaler is a melee combat-focused Medicine that boosts maximum health and returns 40% of physical damage back to the attacker.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "medicine",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

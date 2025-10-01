@@ -4,7 +4,7 @@
   "description": "The Encrypted Satellite Upgrade grants Prospectors access to Operations locked behind encrypted signals. Note: an Infrasonic Relay Upgrade must also be slotted into a CONT4CT Device to access encrypted signals.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Fabricator",
+  "crafted_at": "Workshop",
   "tier": 4,
   "stats": {
     "weight": "50.0 kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Fabricator"
+    "crafted_at": "Workshop"
   }
 }

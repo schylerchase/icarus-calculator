@@ -6,9 +6,9 @@
       "name": "Composite Dropship Recall Beacon",
       "url": "https://icarus.fandom.com/wiki/Composite_Dropship_Recall_Beacon",
       "description": "The Composite Dropship Recall Beacon will fire a flare that calls the Prospectors dropship to that location when thrown, which can either be used for immediate extraction or left there for use later on. Multiple Recall Beacons can be used per session, however, these are one-use items, so use them carefully. Items stored in the dropships inventory will not be lost when the dropship is called, allowing Prospectors to transport equipment/resources over large distances.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 4,
       "stats": {
         "weight": "0.5 kg"
@@ -19,7 +19,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -47,9 +47,9 @@
       "name": "Miner's Module",
       "url": "https://icarus.fandom.com/wiki/Miner%27s_Module",
       "description": "This module is the Workshop equivalent of the Supplemental Respiration Attachment , with the added damage bonus to Caveworms . It can be researched and crafted on the Space Station in the Workshop . Multiple Miner's Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase benefits received from the modules.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -58,7 +58,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {

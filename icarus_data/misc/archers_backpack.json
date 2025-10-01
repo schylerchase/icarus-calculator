@@ -2,9 +2,9 @@
   "name": "Archer's Backpack",
   "url": "https://icarus.fandom.com/wiki/Archer%27s_Backpack",
   "description": "The Archer's Backpack is a must need for the avid archer, quickly dispatch a flurry of arrows at your target with this innovative quiver system.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "0.5 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

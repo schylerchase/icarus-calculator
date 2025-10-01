@@ -4,7 +4,7 @@
   "description": "The Electric Radar is used to scan for Exotic / Volatile Raw Exotic deposits. Once activated, aggravated Fauna (varies per region) will attempt to destroy the radar by any means necessary. Radars of all types will show ALL exotic veins on the map in each scan, regardless of whether they have been depleted. Scans performed in an Outpost will not complete as there are no exotic veins in them. This can be used to spawn aggressive wildlife for resources or experience.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Fabricator",
+  "crafted_at": "Workshop",
   "tier": 4,
   "stats": {
     "weight": "2.0 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Fabricator"
+    "crafted_at": "Workshop"
   }
 }

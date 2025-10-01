@@ -1,11 +1,11 @@
 {
   "category": "Weapons",
-  "count": 149,
+  "count": 150,
   "items": [
     {
       "name": "Advanced Pistol",
       "url": "https://icarus.fandom.com/wiki/Advanced_Pistol",
-      "description": "The Advanced Pistol is the most advanced Tier 4 handgun with the largest ammo capacity, durability and rate of fire. It fires Pistol Ammunition such as Armor Piercing , Explosive , Incendiary , Obsidian or regular 9mm Rounds .",
+      "description": "The Advanced Pistol is the most advanced Tier 4  handgun with the largest ammo capacity, durability and rate of fire. It fires Pistol Ammunition such as Armor Piercing , Explosive , Incendiary , Obsidian or regular 9mm Rounds .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Fabricator",
@@ -28,9 +28,9 @@
       "name": "Anti-materiel Rifle",
       "url": "https://icarus.fandom.com/wiki/Anti-materiel_Rifle",
       "description": "The Anti-materiel Rifle is a bolt-action, anti-materiel rifle with a long effective range and an included scope for viewing the target. It fires Sniper Ammunition purchased from the Workshop .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "10.0 Kg",
@@ -42,7 +42,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -220,7 +220,7 @@
     {
       "name": "CHAC \"Boomstick\" Shotgun",
       "url": "https://icarus.fandom.com/wiki/CHAC_%22Boomstick%22_Shotgun",
-      "description": "The CHAC \"Boomstick\" Shotgun is an advanced purchaseable Shotgun with increase projectile and critical damage. It fires any Shotgun Ammunition and is comparable to other Tier 4 Firearms .",
+      "description": "The CHAC \"Boomstick\" Shotgun is an advanced purchaseable Shotgun with increase projectile and critical damage. It fires any Shotgun Ammunition and is comparable to other Tier 4  Firearms .",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -242,10 +242,10 @@
     {
       "name": "CHAC \"Sentinel\" Pistol",
       "url": "https://icarus.fandom.com/wiki/CHAC_%22Sentinel%22_Pistol",
-      "description": "The CHAC \"Sentinel\" Pistol is an advanced handgun with increased projectile and critical damage that is comparable, or better than other Tier 4 Firearms .",
-      "item_type": "weapon",
+      "description": "The CHAC \"Sentinel\" Pistol is an advanced handgun with increased projectile and critical damage that is comparable, or better than other Tier 4  Firearms .",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -258,7 +258,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -355,7 +355,7 @@
       "description": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike the Caveworm Javelin , the Caveworm Spear cannot be thrown.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Anvil Bench Forge Foundry",
+      "crafted_at": "Workshop",
       "tier": 2,
       "stats": {
         "damage": "+15% Critical Damage with Spears",
@@ -368,7 +368,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Anvil Bench Forge Foundry"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -461,7 +461,7 @@
     {
       "name": "Cold Steel Sledgehammer",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Sledgehammer",
-      "description": "Cold Steel Sledgehammer is a Tier 3 Sledgehammer made with Cold Steel Ingots . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Cold Steel Sledgehammer is a Tier 3  Sledgehammer made with Cold Steel Ingots . Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "harvestable",
       "ingredients": {},
       "crafted_at": "Crafted AtForge",
@@ -674,9 +674,9 @@
       "name": "Inaris \"Agua\" Spear",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Agua%22_Spear",
       "description": "Element damage does not scale with Spear talents. The Inaris \"Agua\" Spear cannot be thrown, and there are currently no Workshop Javelins .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -689,7 +689,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -698,7 +698,7 @@
       "description": "The Inaris \"Cerulean\" Knife is a Workshop Knife geared towards combat, intrinsically dealing frost damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Inaris \"Cerulean\" Knife cannot be thrown, and there currently are no workshop Throwing Knives .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "33 - 35 Melee Damage50 - 50 Frost Damage",
@@ -711,7 +711,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -720,7 +720,7 @@
       "description": "The Inaris \"Claret\" Pickaxe is a Workshop Pickaxe geared towards combat, intrinsically dealing fire damage to targets. Since the Inaris \"Claret\" Pickaxe has the same mining radius and yield as the Larkwell Martinez Pickaxe , Prospectors are better off using the Inaris \"Neves\" Pickaxe for mining.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "23 - 25 Melee Damage50 - 50 Fire Damage",
@@ -733,16 +733,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Inaris \"Cobalt\" Spear",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Cobalt%22_Spear",
       "description": "Element damage does not scale with Spear talents. The Inaris \"Cobalt\" Spear cannot be thrown, and there are currently no Workshop Javelins .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -755,7 +755,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -764,7 +764,7 @@
       "description": "The Inaris \"Crimson\" Knife is a Workshop Knife geared towards combat, intrinsically dealing fire damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. Despite what the flavor text says, the Inaris \"Crimson\" Knife cannot be thrown. There currently are no workshop Throwing Knives .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "33 - 35 Melee Damage50 - 50 Fire Damage",
@@ -777,7 +777,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -786,7 +786,7 @@
       "description": "The Inaris \"Dawn\" Axe is a Workshop Axe geared towards combat, intrinsically dealing Fire damage to targets. Ideally used with the Berserker talent, which increases axe melee damage.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+60 Felling Damage",
@@ -799,7 +799,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -808,7 +808,7 @@
       "description": "The Inaris \"Dias\" Axe is the Workshop equivalent of an Steel Axe , allowing Prospectors to fell trees faster while also increasing the amount received from felling trees. Unlike other Axes , the Inaris \"Dias\" Axe is the only Axe that lowers the carry weight of wood by 50% when equipped, making it a valuable tool when transporting wood when paired with the Gatherer's Backpack .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+50 Felling Damage",
@@ -821,16 +821,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Inaris \"Dusk\" Spear",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Dusk%22_Spear",
       "description": "Element damage does not scale with Spear talents. The Inaris \"Dusk\" Spear cannot be thrown, and there are currently no Workshop Javelins .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -843,7 +843,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -852,7 +852,7 @@
       "description": "The Inaris \"Ersa\" Axe is a Workshop Axe geared towards combat, intrinsically dealing Frost damage to targets. Ideally used with the Berserker talent, which increases axe melee damage.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+60 Felling Damage",
@@ -865,16 +865,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Inaris \"Gris\" Spear",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Gris%22_Spear",
       "description": "The Inaris \"Gris\" Spear is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "61 - 65 Melee Damage",
@@ -887,16 +887,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Inaris \"Heavy\" Crossbow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Heavy%22_Crossbow",
       "description": "The Inaris \"Heavy\" Crossbow is the opposite of the Inaris \"Rapid\" Crossbow , trading reload speed for a significant boost to overall damage. The Inaris \"Heavy\" Crossbow can use Crossbow Bolts crafted on planet as well as Bolts crafted in the Workshop .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+10% Critical Damage",
@@ -909,16 +909,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Inaris \"Lune\" Crossbow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Lune%22_Crossbow",
       "description": "The Inaris \"Lune\" Crossbow can use Crossbow Bolts crafted on planet as well as Workshop Bolts . Firing faster and dealing more damage than its predecessors, the Inaris \"Lune\" Crossbow, as a whole, is a must for avid Crossbow users.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+70% Projectile Damage",
@@ -931,7 +931,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -940,7 +940,7 @@
       "description": "The Inaris \"Neves\" Pickaxe is the Workshop equivalent of a Titanium Pickaxe , allowing Prospectors to mine higher tier metals ( Aluminium Ore , Platinum Ore , etc) at earlier stages of a Prospect while greatly increasing yield. Unlike other pickaxes, the Inaris \"Neves\" Pickaxe is the only pickaxe that reduces the over-encumbrance penalty by 50% when equipped, which makes mobility while over-encumbered bearable when paired with the talent Carry On and Mass Dampener Module s.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "42 - 45 Melee Damage",
@@ -953,7 +953,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -962,7 +962,7 @@
       "description": "The Inaris \"Night\" Pickaxe is a Workshop Pickaxe geared towards combat and harvesting Noxious Crust . It deals poison damage to targets, a large amount of damage to armor, has a penalty for mining yield, but also produces Noxious Crust that can be cleaned to produce additional Minerals .",
       "item_type": "harvestable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "23 - 25 Melee Damage50 - 50 Poison Damage",
@@ -975,16 +975,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Inaris \"Rapid\" Crossbow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Rapid%22_Crossbow",
       "description": "The Inaris \"Rapid\" Crossbow is unlocked in the Workshop on the Space Station . The Inaris \"Rapid\" Crossbow can use crossbow bolts crafted on planet as well as the bolts crafted in the Workshop .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+25% Projectile Damage",
@@ -997,7 +997,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1006,7 +1006,7 @@
       "description": "The Inaris \"Sali\" Axe is a Workshop Axe geared towards combat, intrinsically dealing poison damage to targets and generating Infected Bark when harvesting trees.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+60 Felling Damage",
@@ -1019,7 +1019,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1028,7 +1028,7 @@
       "description": "The Inaris \"Shade\" Knife is a Workshop Knife geared towards combat, intrinsically dealing poison damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Inaris \"Shade\" Knife cannot be thrown, and there currently are no workshop Throwing Knives .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "33 - 35 Melee Damage50 - 50 Poison Damage",
@@ -1041,16 +1041,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Inaris \"Sole\" Crossbow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Sole%22_Crossbow",
       "description": "Using arrows and talents interchangeably with other crossbows, the Inaris \"Sole\" Crossbow is geared more towards elemental damage. When paired with Bolts that deal elemental damage ( Obsidian Bolts , Larkwell Martinez Charged Bolts , etc), the Inaris \"Sole\" Crossbow can pack a punch, making it a decent, if not expensive, upgrade to the previous Workshop Crossbows. Dealt elemental damage is not affected by Crossbow talents.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+50% Projectile Damage",
@@ -1063,7 +1063,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1072,7 +1072,7 @@
       "description": "Grants immunity to normal wounds while held, making it a useful tool when fighting several wolves simultaneously. Does not prevent Deep Wounds . Unlike Throwing Knives , the Inaris \"Ventura\" Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "61 - 65 Melee Damage",
@@ -1085,7 +1085,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1094,7 +1094,7 @@
       "description": "The Inaris \"Viridian\" Pickaxe is a Workshop Pickaxe geared towards combat, intrinsically dealing frost damage to targets.",
       "item_type": "harvestable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "23 - 25 Melee Damage50 - 50 Frost Damage",
@@ -1107,13 +1107,13 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Iron Axe",
       "url": "https://icarus.fandom.com/wiki/Iron_Axe",
-      "description": "The Iron Axe is the 2nd axe you will unlock during your time on Icarus. It is located at the bottom of the Tier 2 tech tree, right after the Anvil Bench .",
+      "description": "The Iron Axe is the 2nd axe you will unlock during your time on Icarus. It is located at the bottom of the Tier 2  tech tree, right after the Anvil Bench .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Anvil Bench",
@@ -1181,7 +1181,7 @@
       "description": "The Iron Pickaxe is the 2nd pickaxe prospectors can unlock during their time on Icarus. The blueprint is located at the bottom of the tier 2 tech tree and is considerably better than the previous Stone Pickaxe , granting a 125% boost to mining efficiency. Like all iron tools, the iron pickaxe is repairable at an Anvil Bench .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Anvil Bench",
+      "crafted_at": "Workshop",
       "tier": 2,
       "stats": {
         "damage": "40",
@@ -1194,13 +1194,13 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Anvil Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Iron Sledgehammer",
       "url": "https://icarus.fandom.com/wiki/Iron_Sledgehammer",
-      "description": "Iron Sledgehammer is a Tier 2 Sledgehammer made with Iron .",
+      "description": "Iron Sledgehammer is a Tier 2  Sledgehammer made with Iron .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Anvil Bench Forge Foundry",
@@ -1222,7 +1222,7 @@
     {
       "name": "Iron Spear",
       "url": "https://icarus.fandom.com/wiki/Iron_Spear",
-      "description": "The Iron Spear is the first Spear available to prospectors once they reach Tier 2 and serves as an upgrade to its Tier 1 counterparts. Unlike the Iron Javelin , the Iron Spear cannot be thrown.",
+      "description": "The Iron Spear is the first Spear available to prospectors once they reach Tier 2  and serves as an upgrade to its Tier 1  counterparts. Unlike the Iron Javelin , the Iron Spear cannot be thrown.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Anvil Bench Forge Foundry",
@@ -1266,9 +1266,9 @@
       "name": "Kinetic Rifle",
       "url": "https://icarus.fandom.com/wiki/Kinetic_Rifle",
       "description": "The Kinetic Rifle is a Legendary Weapon Rifle that can be purchased at the Bio-lab .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "5.0 kg",
@@ -1280,7 +1280,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1289,7 +1289,7 @@
       "description": "The Larkwell Martinez Axe is the Workshop equivalent of an Steel Axe , allowing Prospectors to fell trees faster while also increasing the amount received from felling trees. Similar to the Inaris \"Dias\" Axe , the Larkwell Martinez Axe also reduces the carry weight of wood when equipped.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+60 Felling Damage",
@@ -1302,16 +1302,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Martinez Compound Bow",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Compound_Bow",
       "description": "The Larkwell Martinez Compound Bow is a stronger, more durable variant of the Compound Bow using arrows and talents interchangeably with other bows.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+125% Projectile Damage",
@@ -1324,7 +1324,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1333,7 +1333,7 @@
       "description": "Example: If a Prospector were to upgrade a Wood Wall to a Stone Wall , a Stone Wall must be in the inventory of the Prospector when upgrading.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1345,7 +1345,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1354,7 +1354,7 @@
       "description": "The Larkwell Martinez Knife is the hardest-hitting Workshop knife available. Unlike Throwing Knives , the Larkwell Martinez Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "66 - 70 Melee Damage",
@@ -1367,7 +1367,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1376,7 +1376,7 @@
       "description": "The Larkwell Martinez Pickaxe is the Workshop equivalent of a Platinum Pickaxe , allowing Prospectors to mine higher tier metals ( Aluminium Ore , Platinum Ore , etc) at earlier stages of a Prospect while increasing yield. Similar to the Inaris \"Neves\" Pickaxe , the Larkwell Martinez Pickaxe reduces the over-encumbrance penalty by 10% when equipped.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "47 - 50 Melee Damage",
@@ -1389,16 +1389,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Martinez Spear",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Spear",
       "description": "The Larkwell Martinez Spear is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "80 - 85 Melee Damage",
@@ -1411,7 +1411,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1442,7 +1442,7 @@
       "description": "The MXC Axe is the Workshop equivalent of a Stone Axe , providing a minor boost to felling damage and yield.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+30 Felling Damage",
@@ -1455,7 +1455,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1464,7 +1464,7 @@
       "description": "Example: If a Prospector were to upgrade a Wood Wall to a Stone Wall , a Stone Wall must be in the inventory of the Prospector when upgrading.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.1 kg",
@@ -1476,16 +1476,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "MXC Knife",
       "url": "https://icarus.fandom.com/wiki/MXC_Knife",
-      "description": "The MXC Knife is equivalent to Tier 2 Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the MXC Knife cannot be thrown. There currently are no Workshop throwing knives.",
+      "description": "The MXC Knife is equivalent to Tier 2  Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the MXC Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "49 - 52 Melee Damage",
@@ -1498,7 +1498,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1507,7 +1507,7 @@
       "description": "The MXC Pickaxe is the workshop equivalent of a Stone Pickaxe , providing a minor boost to mining yield and efficiency.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "33 - 35 Melee Damage",
@@ -1520,16 +1520,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "MXC Spear",
       "url": "https://icarus.fandom.com/wiki/MXC_Spear",
       "description": "The MXC Spear is the first Spear that can be unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+15% Critical Damage with Spears",
@@ -1542,7 +1542,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1570,7 +1570,7 @@
     {
       "name": "Miasmic Axe",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Axe",
-      "description": "Miasmic Axe is a Tier 4 Axe made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Miasmic Axe is a Tier 4  Axe made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1592,7 +1592,7 @@
     {
       "name": "Miasmic Knife",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Knife",
-      "description": "Miasmic Knife is a Tier 4 Knife made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Miasmic Knife is a Tier 4  Knife made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1614,7 +1614,7 @@
     {
       "name": "Miasmic Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Pickaxe",
-      "description": "Miasmic Pickaxe is a Tier 4 Pickaxe made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Miasmic Pickaxe is a Tier 4  Pickaxe made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "harvestable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1638,7 +1638,7 @@
     {
       "name": "Miasmic Sledgehammer",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Sledgehammer",
-      "description": "Miasmic Sledgehammer is a Tier 4 Sledgehammer made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Miasmic Sledgehammer is a Tier 4  Sledgehammer made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "harvestable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1709,7 +1709,7 @@
     {
       "name": "Obsidian Sledgehammer",
       "url": "https://icarus.fandom.com/wiki/Obsidian_Sledgehammer",
-      "description": "Obsidian Sledgehammer is a Tier 2 Sledgehammer made with Shaped Obsidian . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Obsidian Sledgehammer is a Tier 2  Sledgehammer made with Shaped Obsidian . Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Anvil Bench Forge Foundry",
@@ -1774,7 +1774,7 @@
     {
       "name": "One-Shot Pistol",
       "url": "https://icarus.fandom.com/wiki/One-Shot_Pistol",
-      "description": "The One-Shot Pistol is an inexpensive early-game Tier 2 handgun that holds one bullet.",
+      "description": "The One-Shot Pistol is an inexpensive early-game Tier 2  handgun that holds one bullet.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafting Bench Machining Bench Fabricator",
@@ -1924,7 +1924,7 @@
     {
       "name": "Platinum Spear",
       "url": "https://icarus.fandom.com/wiki/Platinum_Spear",
-      "description": "The Platinum Spear is the first Spear available to prospectors once they reach Tier 3 and serves as an, albeit expensive, upgrade to its Tier 2 counterparts. Unlike the Platinum Javelin , the Platinum Spear cannot be thrown.",
+      "description": "The Platinum Spear is the first Spear available to prospectors once they reach Tier 3  and serves as an, albeit expensive, upgrade to its Tier 2  counterparts. Unlike the Platinum Javelin , the Platinum Spear cannot be thrown.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Forge Foundry",
@@ -2057,7 +2057,7 @@
       "description": "The Sandworm Spear is made with scales from Sandworms and can be used for melee combat with reach. Considering the Sandworm Spear deals the same amount of damage as a Bone Spear , the Sandworm Spear is overshadowed by higher-tier spears and currently not worth the effort.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Forge Foundry",
+      "crafted_at": "Workshop",
       "tier": 3,
       "stats": {
         "damage": "+25% Critical Damage with Spears",
@@ -2070,7 +2070,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Forge Foundry"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2097,7 +2097,7 @@
     {
       "name": "Semi-Automatic Pistol",
       "url": "https://icarus.fandom.com/wiki/Semi-Automatic_Pistol",
-      "description": "The Semi-Automatic Pistol is a Tier 3 handgun with more ammo capacity than the Pistol . It fires pistol Pistol Ammunition such as Armor Piercing , Explosive , Incendiary , Obsidian or regular 9mm Rounds .",
+      "description": "The Semi-Automatic Pistol is a Tier 3  handgun with more ammo capacity than the Pistol . It fires pistol Pistol Ammunition such as Armor Piercing , Explosive , Incendiary , Obsidian or regular 9mm Rounds .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Machining Bench Fabricator",
@@ -2121,7 +2121,7 @@
       "description": "Example: If a Prospector were to upgrade a Wood Wall to a Stone Wall , a Stone Wall must be in the inventory of the Prospector when upgrading.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.1 kg",
@@ -2133,16 +2133,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong \"Daokou\" Knife",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Daokou%22_Knife",
-      "description": "The Shengong \"Daokou\" Knife is equivalent to Tier 2 Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the Shengong \"Daokou\" Knife cannot be thrown. There currently are no Workshop throwing knives.",
+      "description": "The Shengong \"Daokou\" Knife is equivalent to Tier 2  Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the Shengong \"Daokou\" Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "57 - 60 Melee Damage",
@@ -2155,16 +2155,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong \"Dida\" Spear",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Dida%22_Spear",
       "description": "The Shengong \"Dida\" Spear is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+20% Critical Damage with Spears",
@@ -2177,7 +2177,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2186,7 +2186,7 @@
       "description": "The Shengong \"Dong\" Pickaxe is the Workshop equivalent of a Steel Pickaxe , allowing Prospectors to mine higher tier metals ( Aluminium Ore , Platinum Ore , etc) at earlier stages of a Prospect while increasing yield.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "38 - 40 Melee Damage",
@@ -2199,16 +2199,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong \"Gong Bu\" Spear",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Gong_Bu%22_Spear",
       "description": "The Shengong \"Gong Bu\" Spear is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+20% Critical Damage with Spears",
@@ -2221,7 +2221,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2230,7 +2230,7 @@
       "description": "The Shengong \"Heike\" Axe is the Workshop equivalent of an Iron Axe , allowing Prospectors to fell trees faster while also increasing the amount received from felling trees.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+50 Felling Damage",
@@ -2243,16 +2243,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong \"Ji\" Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Ji%22_Bow",
       "description": "The Shengong \"Ji\" Bow is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+75% Projectile Damage",
@@ -2265,16 +2265,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong \"Jijing\" Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Jijing%22_Bow",
       "description": "The Shengong \"Jijing\" Bow is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "-5% Critical Damage with Bows/Crossbows",
@@ -2287,16 +2287,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong \"Jiju\" Spear",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Jiju%22_Spear",
       "description": "The Shengong \"Jiju\" Spear is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+20% Critical Damage with Spears",
@@ -2309,7 +2309,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2318,7 +2318,7 @@
       "description": "The Shengong \"Jushi\" Pickaxe is the Workshop equivalent of a Steel Pickaxe , allowing Prospectors to mine higher tier metals ( Aluminium Ore , Platinum Ore , etc) at earlier stages of a Prospect while increasing yield.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "38 - 40 Melee Damage",
@@ -2331,7 +2331,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2340,7 +2340,7 @@
       "description": "The Shengong \"Kuang\" Pickaxe is the Workshop equivalent of a Steel Pickaxe , allowing Prospectors to mine higher tier metals ( Aluminium Ore , Platinum Ore , etc) at earlier stages of a Prospect while increasing yield.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "38 - 40 Melee Damage",
@@ -2353,16 +2353,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong \"Xingxing\" Spear",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Xingxing%22_Spear",
       "description": "The Shengong \"Xingxing\" Spear is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+20% Critical Damage with Spears",
@@ -2375,16 +2375,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong \"Zhang Hu\" Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Zhang_Hu%22_Bow",
       "description": "The Shengong \"Zhang Hu\" Bow is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+75% Projectile Damage",
@@ -2397,7 +2397,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2406,7 +2406,7 @@
       "description": "The Shengong 'Lie' Axe is the Workshop equivalent of an Iron Axe , allowing Prospectors to fell trees faster while also increasing the amount received from felling trees.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+50 Felling Damage",
@@ -2419,7 +2419,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2428,7 +2428,7 @@
       "description": "This knife and others, such as the Shengong 'Sichou' Knife , with the additional attribute that gives increased skinning yield actually has a 230% Yield from Skinning. This is because the additional attribute is multiplicative and not additive, making them better than the Titanium Knife or Inaris \"Ventura\" Knife at skinning. Unlike Throwing Knives , the Shengong 'Qie' Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "57 - 60 Melee Damage",
@@ -2441,7 +2441,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2450,7 +2450,7 @@
       "description": "The Shengong 'Sen' Axe is the Workshop equivalent of an Iron Axe , allowing Prospectors to fell trees faster while also increasing the amount received from felling trees.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+50 Felling Damage",
@@ -2463,16 +2463,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong 'Shui' Knife",
       "url": "https://icarus.fandom.com/wiki/Shengong_%27Shui%27_Knife",
-      "description": "The Shengong 'Shui' Knife is equivalent to Tier 2 Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the Shengong 'Shui' Knife cannot be thrown. There currently are no Workshop throwing knives.",
+      "description": "The Shengong 'Shui' Knife is equivalent to Tier 2  Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the Shengong 'Shui' Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "62 - 66 Melee Damage",
@@ -2485,7 +2485,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2494,7 +2494,7 @@
       "description": "This knife and others, such as the Shengong 'Qie' Knife , with the additional attribute that gives increased skinning yield actually has a 230% Yield from Skinning. This is because the additional attribute is multiplicative and not additive, making them better than the Titanium Knife or Inaris \"Ventura\" Knife at skinning. Unlike Throwing Knives , the Shengong 'Sichou' Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "62 - 66 Melee Damage",
@@ -2507,7 +2507,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2516,7 +2516,7 @@
       "description": "The Shengong 'Sui Shi' Pickaxe is the Workshop equivalent of a Steel Pickaxe , allowing Prospectors to mine higher tier metals ( Aluminium Ore , Platinum Ore , etc) at earlier stages of a Prospect while increasing yield.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "38 - 40 Melee Damage",
@@ -2529,7 +2529,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2538,7 +2538,7 @@
       "description": "Example: If a Prospector were to upgrade a Wood Wall to a Stone Wall , a Stone Wall must be in the inventory of the Prospector when upgrading.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.1 kg",
@@ -2550,7 +2550,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2559,7 +2559,7 @@
       "description": "The Shengong CY7 Axe is a Workshop Axe geared towards combat, intrinsically dealing electric damage with the chance to significantly hinder targets. Ideally used with the Berserker talent, which increases axe melee damage.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+60 Felling Damage",
@@ -2572,16 +2572,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong CZ4 Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_CZ4_Bow",
       "description": "Using arrows and talents interchangeably with other bows, the Shengong CZ4 Bow is geared more towards elemental damage. When paired with arrows that deal elemental damage ( Obsidian Arrows , Inaris \"Netch\" Arrows , etc), the Shengong CZ4 Bow can pack a punch, making it a decent, if not expensive, upgrade to the previous Shengong Bows. Dealt elemental damage is not affected by Bow talents.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+100% Projectile Damage",
@@ -2594,7 +2594,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2603,7 +2603,7 @@
       "description": "The Shengong DL7 Knife is a Workshop Knife geared towards combat, intrinsically dealing electric damage with a chance to significantly hinder targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Shengong DL7 Knife cannot be thrown, and there currently are no workshop Throwing Knives .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "33 - 35 Melee Damage50 - 50 Electric Damage",
@@ -2616,16 +2616,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong HS2 Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_HS2_Bow",
       "description": "The Shengong HS2 Bow is a stronger variant of the Shengong Bows using arrows and talents interchangeably with other bows. Despite the Shengong HS2 Bow dealing 35% less damage than the Larkwell Martinez Compound Bow , the Shengong HS2 Bow is unmatched in reload speed and fire rate; perfect for the Prospector who wants to fill the skies with arrows.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+90% Projectile Damage",
@@ -2638,16 +2638,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong PF1 Spear",
       "url": "https://icarus.fandom.com/wiki/Shengong_PF1_Spear",
       "description": "Element damage does not scale with Spear talents. The Shengong PF1 Spear cannot be thrown, and there are currently no Workshop Javelins .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -2660,7 +2660,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2669,7 +2669,7 @@
       "description": "The Shengong UT5 Pickaxe is a Workshop Pickaxe geared towards combat, intrinsically dealing electric damage with the chance to significantly hinder targets. Since the Shengong UT5 Pickaxe has the same mining radius and yield as the Larkwell Martinez Pickaxe , Prospectors are better off using the Inaris \"Neves\" Pickaxe for mining.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "23 - 25 Melee Damage50 - 50 Electric Damage",
@@ -2682,7 +2682,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2730,7 +2730,7 @@
     {
       "name": "Steel Axe",
       "url": "https://icarus.fandom.com/wiki/Steel_Axe",
-      "description": "The Steel Axe is a mid-game Tool available in Icarus. Prospectors can unlock it in Tier 2 of the Tech Tree , after reaching Level 20.",
+      "description": "The Steel Axe is a mid-game Tool available in Icarus. Prospectors can unlock it in Tier 2  of the Tech Tree , after reaching Level 20.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Anvil Bench",
@@ -2902,6 +2902,28 @@
       }
     },
     {
+      "name": "Stone Pickaxe",
+      "url": "https://icarus.fandom.com/wiki/Stone_Pickaxe",
+      "description": "The Stone Pickaxe is the first Pickaxe available to prospectors and is used to break apart mineable Minerals , reducing them to usable resources. Stone, Sulfur, Oxite, Silica, Coal, Salt, Copper, Iron, Gold, and Exotic nodes can be mined with a Stone Pickaxe. To mine Aluminium, Platinum, and Titanium, prospectors must use a Steel Pickaxe or better.",
+      "item_type": "harvestable",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "tier": 1,
+      "stats": {
+        "damage": "27 - 30 Melee Damage",
+        "weight": "0.5 Kg",
+        "durability": "20,000"
+      },
+      "category": "pickaxes",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 1,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Workshop"
+      }
+    },
+    {
       "name": "Stone Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Stone_Throwing_Knife",
       "description": "The Stone Throwing Knife is a variant of the Stone Knife that can be thrown. Unlike the Stone Knife , the Stone Throwing Knife cannot be used to skin fauna. Crafted in batches of 5 and stacks up to fifty.",
@@ -2948,9 +2970,9 @@
       "name": "Tactical Bow",
       "url": "https://icarus.fandom.com/wiki/Tactical_Bow",
       "description": "The Tactical Bow is an advanced bow that is part of the Great Hunts Campaigns DLC on Prometheus . It fires any type of Arrow and can be upgraded in the Bio-lab .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+100% Projectile Damage",
@@ -2963,7 +2985,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -3100,7 +3122,7 @@
     {
       "name": "Titanium Spear",
       "url": "https://icarus.fandom.com/wiki/Titanium_Spear",
-      "description": "The Titanium Spear is the first Spear available to prospectors once they reach Tier 4 and serves as an, albeit expensive, upgrade to its Tier 3 counterparts. Unlike the Titanium Javelin , the Titanium Spear cannot be thrown.",
+      "description": "The Titanium Spear is the first Spear available to prospectors once they reach Tier 4  and serves as an, albeit expensive, upgrade to its Tier 3  counterparts. Unlike the Titanium Javelin , the Titanium Spear cannot be thrown.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3183,7 +3205,7 @@
     {
       "name": "Wood Bow",
       "url": "https://icarus.fandom.com/wiki/Wood_Bow",
-      "description": "The Wood Bow is the first bow a player can get access to. It can be unlocked via the Tech Tree in Tier 1 with no prerequisite tech required.",
+      "description": "The Wood Bow is the first bow a player can get access to. It can be unlocked via the Tech Tree in Tier 1  with no prerequisite tech required.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",

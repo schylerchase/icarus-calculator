@@ -4,7 +4,7 @@
   "description": "Locates Deep Ore Deposits within the area that can be mined with a Biofuel Deep-Mining Drill or an Electric Deep-Mining Drill . Unlike the Deep Mining Ore Scanner , the Advanced Deep Mining Ore Scanner can be toggled to detect specific deep ore deposits.",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "1.0 Kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

@@ -4,15 +4,15 @@
   "description": "",
   "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "resource packs",
   "harvested_from": [],
-  "research_cost": 50,
-  "purchase_cost": null,
+  "research_cost": null,
+  "purchase_cost": 50,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

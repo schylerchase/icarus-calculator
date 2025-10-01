@@ -6,7 +6,7 @@
   "ingredients": {
     "Exotics": 200
   },
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "2.0 Kg",
@@ -20,6 +20,6 @@
     "ingredients": {
       "Exotics": 200
     },
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

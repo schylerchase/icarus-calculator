@@ -2,9 +2,9 @@
   "name": "Heavy Flamethrower",
   "url": "https://icarus.fandom.com/wiki/Heavy_Flamethrower",
   "description": "The Heavy Flamethrower is a heavy duty Biofuel -powered flamethrower Legendary Weapon . It can be purchased at the Bio-lab .",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "25 Fire Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

@@ -2,9 +2,9 @@
   "name": "Noxious Crust",
   "url": "https://icarus.fandom.com/wiki/Noxious_Crust",
   "description": "Noxious Crust is a by-product of mining using Miasmic Tools that can be taken to an Organic Residue Cleanser or Biofuel Bio-Cleaner to be turned into various Minerals .",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "resources",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

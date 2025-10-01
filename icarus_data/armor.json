@@ -179,7 +179,7 @@
     {
       "name": "Armor Attachment Pack",
       "url": "https://icarus.fandom.com/wiki/Armor_Attachment_Pack",
-      "description": "Armor Attachment Pack is a Tier 3 Tech needed for the Alteration Bench that allows Prospectors to alter their armor pieces with Attachment Packs .",
+      "description": "Armor Attachment Pack is a Tier 3  Tech needed for the Alteration Bench that allows Prospectors to alter their armor pieces with Attachment Packs .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Alteration Bench Advanced Alteration Bench",
@@ -291,7 +291,7 @@
     {
       "name": "Bone Arm Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Arm_Armor",
-      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
+      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1  armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -312,7 +312,7 @@
     {
       "name": "Bone Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Feet_Armor",
-      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
+      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1  armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -333,7 +333,7 @@
     {
       "name": "Bone Head Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Head_Armor",
-      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
+      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1  armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -354,7 +354,7 @@
     {
       "name": "Bone Leg Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Leg_Armor",
-      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
+      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1  armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -478,9 +478,9 @@
       "name": "CX-400 Arms Armor",
       "url": "https://icarus.fandom.com/wiki/CX-400_Arms_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 kg",
@@ -492,16 +492,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "CX-400 Feet Armor",
       "url": "https://icarus.fandom.com/wiki/CX-400_Feet_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 kg",
@@ -513,16 +513,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "CX-400 Head Armor",
       "url": "https://icarus.fandom.com/wiki/CX-400_Head_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -534,16 +534,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "CX-400 Legs Armor",
       "url": "https://icarus.fandom.com/wiki/CX-400_Legs_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.5 kg",
@@ -555,7 +555,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1013,10 +1013,10 @@
     {
       "name": "Exotic Harvester",
       "url": "https://icarus.fandom.com/wiki/Exotic_Harvester",
-      "description": "The Exotic Harvester is used to extract Volatile Raw Exotics from Volatile Raw Exotic deposits. Requires 1,500 kWh to operate.",
+      "description": "The Exotic Harvester is used to extract Volatile Raw Exotics from Volatile Raw Exotic deposits. Requires 1,500 k Wh to operate.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Fabricator",
+      "crafted_at": "Workshop",
       "tier": 4,
       "stats": {
         "weight": "3.0 kg",
@@ -1028,7 +1028,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Fabricator"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1037,7 +1037,7 @@
       "description": "As part of the ICARUS: Supporters Edition (unavailable for purchase), prospectors received an exclusive UDA envirosuit with a built-in water slot – giving an edge to prospectors who dare pursue fortune on the moon's surface. There’s no better way to show your commitment than to wear it with pride. The First Cohort Envirosuit is researched and crafted in the Workshop on the Space Station .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "the Workshop on the Space Station",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "envirosuits",
@@ -1046,7 +1046,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "the Workshop on the Space Station"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1238,7 +1238,7 @@
     {
       "name": "Heavy Obsidian Arm Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Arm_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "description": "Heavy Obsidian Armor is a Tier 2  armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
@@ -1259,7 +1259,7 @@
     {
       "name": "Heavy Obsidian Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Feet_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "description": "Heavy Obsidian Armor is a Tier 2  armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
@@ -1280,7 +1280,7 @@
     {
       "name": "Heavy Obsidian Head Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Head_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "description": "Heavy Obsidian Armor is a Tier 2  armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
@@ -1301,7 +1301,7 @@
     {
       "name": "Heavy Obsidian Leg Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Leg_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "description": "Heavy Obsidian Armor is a Tier 2  armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
@@ -1443,9 +1443,9 @@
       "name": "Inaris \"Lua\" Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Lua%22_Envirosuit",
       "description": "The Inaris \"Lua\" Envirosuit is purchased in the Workshop on the Space Station .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 kg"
@@ -1456,7 +1456,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1519,7 +1519,7 @@
       "description": "The LM Beastmaster Arm Armor is part of the LM Beastmaster Armor Set , which can be unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mounts and tamed creatures.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1531,7 +1531,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1540,7 +1540,7 @@
       "description": "The LM Beastmaster Feet Armor is part of the LM Beastmaster Armor Set , which can be unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mounts and tamed creatures.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1552,7 +1552,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1561,7 +1561,7 @@
       "description": "The LM Beastmaster Head Armor is part of the LM Beastmaster Armor Set , which can be unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mounts and tamed creatures.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1573,7 +1573,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1582,7 +1582,7 @@
       "description": "The LM Beastmaster Leg Armor is part of the LM Beastmaster Armor Set , which can be unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mounts and tamed creatures.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1594,16 +1594,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell \"Bulwark\" Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Larkwell_%22Bulwark%22_Envirosuit",
       "description": "The Larkwell \"Bulwark\" Envirosuit offers more resistance to cold/hot environments with the added bonus of exposure resistance, making it a decent upgrade to the Shengong 'Bihu' Envirosuit and the Shengong 'Dongtian' Envirosuit . Requires Red Exotics .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.1 kg"
@@ -1614,7 +1614,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1623,7 +1623,7 @@
       "description": "Despite the Larkwell \"Haulier\" Envirosuit not having a water slot, Prospectors adore this Envirosuit for its larger inventory size and mod-ability. Requires Red Exotics .",
       "item_type": "harvestable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.1 kg"
@@ -1636,7 +1636,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1645,7 +1645,7 @@
       "description": "",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1657,7 +1657,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1666,7 +1666,7 @@
       "description": "",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1678,7 +1678,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1687,7 +1687,7 @@
       "description": "",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1699,7 +1699,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1708,7 +1708,7 @@
       "description": "",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1720,7 +1720,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1744,7 +1744,7 @@
     {
       "name": "Leather Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Arms_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1  counterparts, serving as a decent all-around armor for Tier 2  .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
@@ -1765,7 +1765,7 @@
     {
       "name": "Leather Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Feet_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1  counterparts, serving as a decent all-around armor for Tier 2  .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
@@ -1786,7 +1786,7 @@
     {
       "name": "Leather Head Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Head_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1  counterparts, serving as a decent all-around armor for Tier 2  .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
@@ -1807,7 +1807,7 @@
     {
       "name": "Leather Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Legs_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1  counterparts, serving as a decent all-around armor for Tier 2  .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
@@ -1847,9 +1847,9 @@
       "name": "Naneo Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Naneo_Arms_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 kg",
@@ -1861,16 +1861,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Naneo Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Naneo_Feet_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 kg",
@@ -1882,16 +1882,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Naneo Head Armor",
       "url": "https://icarus.fandom.com/wiki/Naneo_Head_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1903,16 +1903,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Naneo Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Naneo_Legs_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.5 kg",
@@ -1924,7 +1924,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2141,9 +2141,9 @@
       "name": "ST-700 Arms Armor",
       "url": "https://icarus.fandom.com/wiki/ST-700_Arms_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 kg",
@@ -2155,16 +2155,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "ST-700 Feet Armor",
       "url": "https://icarus.fandom.com/wiki/ST-700_Feet_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "0.5 kg",
@@ -2176,16 +2176,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "ST-700 Head Armor",
       "url": "https://icarus.fandom.com/wiki/ST-700_Head_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -2197,16 +2197,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "ST-700 Legs Armor",
       "url": "https://icarus.fandom.com/wiki/ST-700_Legs_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.5 kg",
@@ -2218,7 +2218,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2308,7 +2308,7 @@
     {
       "name": "Scorpion Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Arms_Armor",
-      "description": "Scorpion Arms Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Arms Armor is a Tier 2  crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Textiles Bench Electric Textiles Bench",
@@ -2329,7 +2329,7 @@
     {
       "name": "Scorpion Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Feet_Armor",
-      "description": "Scorpion Feet Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Feet Armor is a Tier 2  crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Textiles Bench Electric Textiles Bench",
@@ -2350,7 +2350,7 @@
     {
       "name": "Scorpion Head Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Head_Armor",
-      "description": "Scorpion Head Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Head Armor is a Tier 2  crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Textiles Bench Electric Textiles Bench",
@@ -2371,7 +2371,7 @@
     {
       "name": "Scorpion Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Legs_Armor",
-      "description": "Scorpion Legs Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Legs Armor is a Tier 2  crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Textiles Bench Electric Textiles Bench",
@@ -2451,9 +2451,9 @@
       "name": "Shengong \"Bihu\" Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Bihu%22_Envirosuit",
       "description": "The Shengong \"Bihu\" Envirosuit is purchased in the Workshop on the Space Station .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "envirosuits",
@@ -2462,16 +2462,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong \"Dongtian\" Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Dongtian%22_Envirosuit",
       "description": "The Shengong \"Dongtian\" Envirosuit is purchased in the Workshop on the Space Station .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "envirosuits",
@@ -2480,7 +2480,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2595,9 +2595,9 @@
       "name": "Suit Conditioning Module",
       "url": "https://icarus.fandom.com/wiki/Suit_Conditioning_Module",
       "description": "This module increases the user's resistance to cold/hot environments, reducing the chances of Hypothermia/Hyperthermia. It can be researched and crafted on the Space Station in the Workshop . Multiple Suit Conditioning Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase the users cold/heat resistance.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "modules",
@@ -2606,7 +2606,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2702,7 +2702,7 @@
     {
       "name": "Wayfarer Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Wayfarer_Arms_Armor",
-      "description": "Wayfarer Arms Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
+      "description": "Wayfarer Arms Armor is a mid-game Tier 3  crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
@@ -2723,7 +2723,7 @@
     {
       "name": "Wayfarer Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Wayfarer_Feet_Armor",
-      "description": "Wayfarer Feet Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
+      "description": "Wayfarer Feet Armor is a mid-game Tier 3  crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
@@ -2744,7 +2744,7 @@
     {
       "name": "Wayfarer Head Armor",
       "url": "https://icarus.fandom.com/wiki/Wayfarer_Head_Armor",
-      "description": "Wayfarer Head Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
+      "description": "Wayfarer Head Armor is a mid-game Tier 3  crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
@@ -2765,7 +2765,7 @@
     {
       "name": "Wayfarer Leg Armor",
       "url": "https://icarus.fandom.com/wiki/Wayfarer_Leg_Armor",
-      "description": "Wayfarer Leg Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
+      "description": "Wayfarer Leg Armor is a mid-game Tier 3  crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
@@ -2844,9 +2844,9 @@
       "name": "Xigo \"Duo\" S5 Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Xigo_%22Duo%22_S5_Envirosuit",
       "description": "The Xigo \"Duo\" S5 Envirosuit is purchased in the Workshop on the Space Station .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "envirosuits",
@@ -2855,16 +2855,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Xigo \"Fermi\" S5 Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Xigo_%22Fermi%22_S5_Envirosuit",
       "description": "The Xigo \"Fermi\" S5 Envirosuit is purchased in the Workshop on the Space Station .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "envirosuits",
@@ -2873,16 +2873,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Xigo \"Gustav\" S5 Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Xigo_%22Gustav%22_S5_Envirosuit",
       "description": "The Xigo \"Gustav\" S5 Envirosuit is purchased in the Workshop on the Space Station .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "envirosuits",
@@ -2891,16 +2891,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Xigo \"Hark\" S5 Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Xigo_%22Hark%22_S5_Envirosuit",
       "description": "The Xigo \"Hark\" S5 Envirosuit is purchased in the Workshop on the Space Station .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "envirosuits",
@@ -2909,7 +2909,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2934,9 +2934,9 @@
       "name": "Xigo S5-II Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Xigo_S5-II_Envirosuit",
       "description": "The Xigo S5-II Envirosuit is the first unlockable envirosuit Prospectors can unlock in the Workshop on the Space Station .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "envirosuits",
@@ -2945,16 +2945,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Xigo S5-X Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Xigo_S5-X_Envirosuit",
       "description": "The Xigo S5-X Envirosuit is purchased in the Workshop on the Space Station .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
       "category": "envirosuits",
@@ -2963,7 +2963,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {

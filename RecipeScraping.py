@@ -422,22 +422,45 @@ def extract_item_data(page_url, quiet=True):
                 locations = harvest_match.group(1).strip()
                 item_data['harvested_from'] = [loc.strip() for loc in re.split(r',|and', locations)]
         
-        # Look for orbital/workshop info - be more strict
-        if 'workshop' in page_text.lower() and ('exotic' in page_text.lower() or 'orbital' in page_text.lower()):
-            research_match = re.search(r'research.*?(\d+)', page_text, re.IGNORECASE)
+        # Look for orbital/workshop info
+        is_workshop_item = False
+        
+        # Check for workshop/orbital keywords
+        if 'workshop' in page_text.lower():
+            # Look for phrases that indicate it's a workshop item
+            workshop_phrases = [
+                'purchased from the workshop',
+                'crafted in the workshop',
+                'researched and then crafted in the workshop',
+                'unlocked in the workshop',
+                'purchased and equipped'
+            ]
+            
+            if any(phrase in page_text.lower() for phrase in workshop_phrases):
+                is_workshop_item = True
+            elif 'exotic' in page_text.lower() or 'orbital' in page_text.lower():
+                is_workshop_item = True
+        
+        if is_workshop_item:
+            # Try to extract research cost
+            research_match = re.search(r'research.*?cost.*?(\d+)', page_text, re.IGNORECASE)
             if research_match:
                 item_data['research_cost'] = int(research_match.group(1))
                 item_data['item_type'] = 'orbital'
             
-            purchase_match = re.search(r'(?:cost|price).*?(\d+)', page_text, re.IGNORECASE)
-            if purchase_match:
+            # Try to extract purchase/crafting cost  
+            purchase_match = re.search(r'(?:crafting|purchase|cost|price).*?(?:cost)?.*?(\d+)', page_text, re.IGNORECASE)
+            if purchase_match and not research_match:  # Don't double-count research cost
                 item_data['purchase_cost'] = int(purchase_match.group(1))
                 if item_data['item_type'] == 'unknown':
                     item_data['item_type'] = 'orbital'
-        
-        # Only mark as orbital if we actually found research/purchase costs
-        if item_data['item_type'] == 'orbital' and not (item_data['research_cost'] or item_data['purchase_cost']):
-            item_data['item_type'] = 'unknown'
+            
+            # If we found workshop phrases but no costs, still mark as workshop
+            if not item_data['research_cost'] and not item_data['purchase_cost']:
+                item_data['crafted_at'] = 'Workshop'
+                item_data['base_recipe']['crafted_at'] = 'Workshop'
+                if item_data['item_type'] == 'unknown':
+                    item_data['item_type'] = 'orbital'
         
         # Determine type from categories
         categories = []

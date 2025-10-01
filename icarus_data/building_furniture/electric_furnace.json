@@ -1,7 +1,7 @@
 {
   "name": "Electric Furnace",
   "url": "https://icarus.fandom.com/wiki/Electric_Furnace",
-  "description": "The Electric Furnace is the end-game furnace capable of smelting Composite Paste into Composites , a material required for most Tier 4 blueprints, and can refine all other minerals faster than the lower tier furnaces.",
+  "description": "The Electric Furnace is the end-game furnace capable of smelting Composite Paste into Composites , a material required for most Tier 4  blueprints, and can refine all other minerals faster than the lower tier furnaces.",
   "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Fabricator",

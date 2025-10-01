@@ -1,7 +1,7 @@
 {
   "name": "Foundry",
   "url": "https://icarus.fandom.com/wiki/Foundry",
-  "description": "The Foundry is the Tier 4 variant of the Anvil Bench that will allow the Prospector to craft the highest quality tools/weapons available on planet, such as the Titanium Pickaxe , Compound Bow , etc. The Foundry is also capable of crafting Tier 2 / Tier 3 tools and weapons, removing the need for a Anvil Bench and Forge .",
+  "description": "The Foundry is the Tier 4  variant of the Anvil Bench that will allow the Prospector to craft the highest quality tools/weapons available on planet, such as the Titanium Pickaxe , Compound Bow , etc. The Foundry is also capable of crafting Tier 2  / Tier 3  tools and weapons, removing the need for a Anvil Bench and Forge .",
   "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Fabricator",

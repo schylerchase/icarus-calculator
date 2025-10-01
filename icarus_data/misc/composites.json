@@ -1,7 +1,7 @@
 {
   "name": "Composites",
   "url": "https://icarus.fandom.com/wiki/Composites",
-  "description": "Composites are an end-game crafted material used to make Tier 4 Armors and various Weapons / Deployables . Prospectors require a Material Processor , an Electric Furnace , and Power .",
+  "description": "Composites are an end-game crafted material used to make Tier 4  Armors and various Weapons / Deployables . Prospectors require a Material Processor , an Electric Furnace , and Power .",
   "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Electric Furnace",

@@ -2,9 +2,9 @@
   "name": "MXC Nerve Arrow",
   "url": "https://icarus.fandom.com/wiki/MXC_Nerve_Arrow",
   "description": "The MXC Nerve Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "0.015 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

@@ -4,7 +4,7 @@
   "description": "The Sandworm Javelin is a variant of the Sandworm Spear that can only be thrown. Considering the Sandworm Javelin deals the same amount of damage as a Bone Javelin , the Sandworm Javelin is overshadowed by higher-tier javelins and is not worth the effort. Crafted in batches of five and stacks up to twenty.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Forge Foundry",
+  "crafted_at": "Workshop",
   "tier": 3,
   "stats": {
     "damage": "+25% Critical Damage",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Forge Foundry"
+    "crafted_at": "Workshop"
   }
 }

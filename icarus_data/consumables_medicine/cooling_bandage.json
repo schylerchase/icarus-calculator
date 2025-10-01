@@ -2,9 +2,9 @@
   "name": "Cooling Bandage",
   "url": "https://icarus.fandom.com/wiki/Cooling_Bandage",
   "description": "The Cooling Bandage is used to heal Heatstroke, Heat Exhaustion and Exotic Overheat Status Effects . If the Prospector's core temperature is still extremely high, the cooling bandage will not remove these debuffs.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 1,
   "stats": {},
   "category": "medicine",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

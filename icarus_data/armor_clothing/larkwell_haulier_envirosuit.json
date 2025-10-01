@@ -4,7 +4,7 @@
   "description": "Despite the Larkwell \"Haulier\" Envirosuit not having a water slot, Prospectors adore this Envirosuit for its larger inventory size and mod-ability. Requires Red Exotics .",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "0.1 kg"
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

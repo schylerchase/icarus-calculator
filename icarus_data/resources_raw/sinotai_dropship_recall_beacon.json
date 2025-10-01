@@ -4,7 +4,7 @@
   "description": "The Sinotai Dropship Recall Beacon will fire a flare that calls the Prospectors dropship to that location when thrown, which can either be used for immediate extraction or left there for use later on. Multiple Recall Beacons can be used per session, however, these are one-use items, so use them carefully. Items stored in the dropships inventory will not be lost when the dropship is called, allowing Prospectors to transport equipment/resources over large distances.",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "0.5 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

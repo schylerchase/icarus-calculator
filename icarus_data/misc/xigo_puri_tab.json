@@ -2,9 +2,9 @@
   "name": "Xigo Puri-tab",
   "url": "https://icarus.fandom.com/wiki/Xigo_Puri-tab",
   "description": "Xigo Puri-tab is purchased in the Workshop on the Space Station . The purification tablet will convert any Water to Treated Water in a canteen or Liquid Container . The recipe for purifying water should be available in your character Crafting menu when you have a filled canteen and a Xigo Puri-tab in your inventory.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "medicine",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

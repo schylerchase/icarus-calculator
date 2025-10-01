@@ -4,7 +4,7 @@
   "description": "Wood is a basic crafting ingredient obtained from Trees using an axe or harvested by hand in the Desert via Cacti. Wood can also be used as a Fuel source for Campfire , Fireplace , and Stone Furnace .",
   "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "resources",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

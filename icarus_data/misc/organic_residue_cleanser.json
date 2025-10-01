@@ -1,7 +1,7 @@
 {
   "name": "Organic Residue Cleanser",
   "url": "https://icarus.fandom.com/wiki/Organic_Residue_Cleanser",
-  "description": "The Organic Residue Cleanser is a Tier 4 deployable cleaning device used to clean and process Volatile Raw Exotics , frozen and infected materials and organic materials collected from world bosess.",
+  "description": "The Organic Residue Cleanser is a Tier 4  deployable cleaning device used to clean and process Volatile Raw Exotics , frozen and infected materials and organic materials collected from world bosess.",
   "item_type": "craftable",
   "ingredients": {
     "Volatile Raw Exotics": 2,
@@ -41,7 +41,7 @@
     "xHardened Horn": 5,
     "xHardened Magma": 3
   },
-  "crafted_at": "Fabricator",
+  "crafted_at": "Workshop",
   "tier": 4,
   "stats": {
     "weight": "2.5 kg",
@@ -90,6 +90,6 @@
       "xHardened Horn": 5,
       "xHardened Magma": 3
     },
-    "crafted_at": "Fabricator"
+    "crafted_at": "Workshop"
   }
 }

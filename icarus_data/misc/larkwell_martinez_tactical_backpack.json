@@ -2,9 +2,9 @@
   "name": "Larkwell Martinez Tactical Backpack",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tactical_Backpack",
   "description": "The Larkwell Martinez Tactical Backpack is a massive boost to suit inventory.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "0.5 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

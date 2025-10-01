@@ -1,7 +1,7 @@
 {
   "name": "Basic Battery Rack",
   "url": "https://icarus.fandom.com/wiki/Basic_Battery_Rack",
-  "description": "The Basic Battery Rack is a power-storing device that must be placed indoors. It can store up to 1,000kWs of power and can charge/output power at a max rate of 1,500 Watts per second.",
+  "description": "The Basic Battery Rack is a power-storing device that must be placed indoors. It can store up to 1,000k Ws of power and can charge/output power at a max rate of 1,500 Watts per second.",
   "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Fabricator",

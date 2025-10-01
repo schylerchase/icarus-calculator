@@ -4,7 +4,7 @@
   "description": "The CONT4CT Device grants Prospectors access to SMPL3 missions and Operations . Though the CONT4CT Device can be crafted in Missions , they can only be used in Open Worlds and Outposts . Must be deployed outdoors.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Crafting Bench",
+  "crafted_at": "Workshop",
   "tier": 2,
   "stats": {
     "weight": "10.0 kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafting Bench"
+    "crafted_at": "Workshop"
   }
 }

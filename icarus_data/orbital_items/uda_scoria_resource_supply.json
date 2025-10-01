@@ -4,15 +4,15 @@
   "description": "The Stabilized Exotics needed to research this item are exclusive to the Prometheus map.",
   "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "resource packs",
   "harvested_from": [],
-  "research_cost": 100,
-  "purchase_cost": null,
+  "research_cost": null,
+  "purchase_cost": 100,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

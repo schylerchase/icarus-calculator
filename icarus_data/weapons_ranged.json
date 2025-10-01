@@ -1,6 +1,6 @@
 {
   "category": "Weapons Ranged",
-  "count": 39,
+  "count": 37,
   "items": [
     {
       "name": "Advanced Pistol",
@@ -28,9 +28,9 @@
       "name": "Anti-materiel Rifle",
       "url": "https://icarus.fandom.com/wiki/Anti-materiel_Rifle",
       "description": "The Anti-materiel Rifle is a bolt-action, anti-materiel rifle with a long effective range and an included scope for viewing the target. It fires Sniper Ammunition purchased from the Workshop .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "10.0 Kg",
@@ -42,7 +42,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -110,34 +110,12 @@
       }
     },
     {
-      "name": "CHAC \"Boomstick\" Shotgun",
-      "url": "https://icarus.fandom.com/wiki/CHAC_%22Boomstick%22_Shotgun",
-      "description": "The CHAC \"Boomstick\" Shotgun is an advanced purchaseable Shotgun with increase projectile and critical damage. It fires any Shotgun Ammunition and is comparable to other Tier 4  Firearms .",
-      "item_type": "weapon",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 0,
-      "stats": {
-        "damage": "+25% Critical Damage",
-        "weight": "3.5 kg",
-        "durability": "25,000"
-      },
-      "category": "firearms",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Unknown"
-      }
-    },
-    {
       "name": "CHAC \"Sentinel\" Pistol",
       "url": "https://icarus.fandom.com/wiki/CHAC_%22Sentinel%22_Pistol",
       "description": "The CHAC \"Sentinel\" Pistol is an advanced handgun with increased projectile and critical damage that is comparable, or better than other Tier 4  Firearms .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -150,29 +128,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
-      }
-    },
-    {
-      "name": "CHAC \"Sovereign\" Rifle",
-      "url": "https://icarus.fandom.com/wiki/CHAC_%22Sovereign%22_Rifle",
-      "description": "The CHAC \"Sovereign\" Rifle is a purchaseable rifle with a fast reload speed and moderate damage capability.",
-      "item_type": "weapon",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 0,
-      "stats": {
-        "damage": "+25% Critical Damage",
-        "weight": "3.0 kg",
-        "durability": "25,000"
-      },
-      "category": "firearms",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -284,9 +240,9 @@
       "name": "Inaris \"Heavy\" Crossbow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Heavy%22_Crossbow",
       "description": "The Inaris \"Heavy\" Crossbow is the opposite of the Inaris \"Rapid\" Crossbow , trading reload speed for a significant boost to overall damage. The Inaris \"Heavy\" Crossbow can use Crossbow Bolts crafted on planet as well as Bolts crafted in the Workshop .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+10% Critical Damage",
@@ -299,16 +255,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Inaris \"Lune\" Crossbow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Lune%22_Crossbow",
       "description": "The Inaris \"Lune\" Crossbow can use Crossbow Bolts crafted on planet as well as Workshop Bolts . Firing faster and dealing more damage than its predecessors, the Inaris \"Lune\" Crossbow, as a whole, is a must for avid Crossbow users.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+70% Projectile Damage",
@@ -321,16 +277,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Inaris \"Rapid\" Crossbow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Rapid%22_Crossbow",
       "description": "The Inaris \"Rapid\" Crossbow is unlocked in the Workshop on the Space Station . The Inaris \"Rapid\" Crossbow can use crossbow bolts crafted on planet as well as the bolts crafted in the Workshop .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+25% Projectile Damage",
@@ -343,16 +299,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Inaris \"Sole\" Crossbow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Sole%22_Crossbow",
       "description": "Using arrows and talents interchangeably with other crossbows, the Inaris \"Sole\" Crossbow is geared more towards elemental damage. When paired with Bolts that deal elemental damage ( Obsidian Bolts , Larkwell Martinez Charged Bolts , etc), the Inaris \"Sole\" Crossbow can pack a punch, making it a decent, if not expensive, upgrade to the previous Workshop Crossbows. Dealt elemental damage is not affected by Crossbow talents.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+50% Projectile Damage",
@@ -365,16 +321,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Kinetic Rifle",
       "url": "https://icarus.fandom.com/wiki/Kinetic_Rifle",
       "description": "The Kinetic Rifle is a Legendary Weapon Rifle that can be purchased at the Bio-lab .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "5.0 kg",
@@ -386,16 +342,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Larkwell Martinez Compound Bow",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Compound_Bow",
       "description": "The Larkwell Martinez Compound Bow is a stronger, more durable variant of the Compound Bow using arrows and talents interchangeably with other bows.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+125% Projectile Damage",
@@ -408,7 +364,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -586,9 +542,9 @@
       "name": "Shengong \"Ji\" Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Ji%22_Bow",
       "description": "The Shengong \"Ji\" Bow is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+75% Projectile Damage",
@@ -601,16 +557,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong \"Jijing\" Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Jijing%22_Bow",
       "description": "The Shengong \"Jijing\" Bow is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "-5% Critical Damage with Bows/Crossbows",
@@ -623,16 +579,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong \"Zhang Hu\" Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Zhang_Hu%22_Bow",
       "description": "The Shengong \"Zhang Hu\" Bow is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+75% Projectile Damage",
@@ -645,16 +601,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong CZ4 Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_CZ4_Bow",
       "description": "Using arrows and talents interchangeably with other bows, the Shengong CZ4 Bow is geared more towards elemental damage. When paired with arrows that deal elemental damage ( Obsidian Arrows , Inaris \"Netch\" Arrows , etc), the Shengong CZ4 Bow can pack a punch, making it a decent, if not expensive, upgrade to the previous Shengong Bows. Dealt elemental damage is not affected by Bow talents.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+100% Projectile Damage",
@@ -667,16 +623,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
       "name": "Shengong HS2 Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_HS2_Bow",
       "description": "The Shengong HS2 Bow is a stronger variant of the Shengong Bows using arrows and talents interchangeably with other bows. Despite the Shengong HS2 Bow dealing 35% less damage than the Larkwell Martinez Compound Bow , the Shengong HS2 Bow is unmatched in reload speed and fire rate; perfect for the Prospector who wants to fill the skies with arrows.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+90% Projectile Damage",
@@ -689,7 +645,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -740,9 +696,9 @@
       "name": "Tactical Bow",
       "url": "https://icarus.fandom.com/wiki/Tactical_Bow",
       "description": "The Tactical Bow is an advanced bow that is part of the Great Hunts Campaigns DLC on Prometheus . It fires any type of Arrow and can be upgraded in the Bio-lab .",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "damage": "+100% Projectile Damage",
@@ -755,7 +711,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {

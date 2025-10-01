@@ -2,9 +2,9 @@
   "name": "Shengong \"Zhang Hu\" Bow",
   "url": "https://icarus.fandom.com/wiki/Shengong_%22Zhang_Hu%22_Bow",
   "description": "The Shengong \"Zhang Hu\" Bow is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "damage": "+75% Projectile Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

@@ -2,9 +2,9 @@
   "name": "Stamina Consumption Paste",
   "url": "https://icarus.fandom.com/wiki/Stamina_Consumption_Paste",
   "description": "In-game description: A biotic compound that slows stamina loss temporarily. In-game flavor text: The time-jarring effects of exotics find their influence in many subtle, poorly understood ways on Icarus.",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

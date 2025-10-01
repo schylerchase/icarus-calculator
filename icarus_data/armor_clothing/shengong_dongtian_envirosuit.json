@@ -2,9 +2,9 @@
   "name": "Shengong \"Dongtian\" Envirosuit",
   "url": "https://icarus.fandom.com/wiki/Shengong_%22Dongtian%22_Envirosuit",
   "description": "The Shengong \"Dongtian\" Envirosuit is purchased in the Workshop on the Space Station .",
-  "item_type": "weapon",
+  "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
   "category": "envirosuits",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop"
   }
 }

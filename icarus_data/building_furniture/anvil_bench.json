@@ -1,7 +1,7 @@
 {
   "name": "Anvil Bench",
   "url": "https://icarus.fandom.com/wiki/Anvil_Bench",
-  "description": "The Anvil Bench is unlocked near the start of the Tier 2 Tech Tree . It enables the Prospector to craft higher quality tools such as the Iron Pickaxe and Steel Pickaxe . It is also where these tools can be repaired. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under a severely damaged roof) in storms.",
+  "description": "The Anvil Bench is unlocked near the start of the Tier 2  Tech Tree . It enables the Prospector to craft higher quality tools such as the Iron Pickaxe and Steel Pickaxe . It is also where these tools can be repaired. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under a severely damaged roof) in storms.",
   "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Crafting Bench",

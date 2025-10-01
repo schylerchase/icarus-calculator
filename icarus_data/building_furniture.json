@@ -594,9 +594,9 @@
       "name": "CX-400 Chest Armor",
       "url": "https://icarus.fandom.com/wiki/CX-400_Chest_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.5 kg",
@@ -608,7 +608,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1609,7 +1609,7 @@
       "description": "The LM Beastmaster Chest Armor is part of the LM Beastmaster Armor Set , which can be unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mounts and tamed creatures.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1621,7 +1621,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1630,7 +1630,7 @@
       "description": "",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1642,7 +1642,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1670,9 +1670,9 @@
       "name": "MXC Furnace",
       "url": "https://icarus.fandom.com/wiki/MXC_Furnace",
       "description": "The MXC Furnace is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. The MXC Furnace functions like a smaller, more lightweight Stone Furnace , and allows for processing of Iron Ore , Copper Ore , and Steel Bloom into ingots.",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "5.0 kg",
@@ -1684,7 +1684,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1804,9 +1804,9 @@
       "name": "Naneo Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Naneo_Chest_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.5 kg",
@@ -1818,7 +1818,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -1890,7 +1890,7 @@
       "description": "The Portable Biofuel Generator generates Electricity when supplied with biofuel from a Biofuel Can .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Fabricator",
+      "crafted_at": "Workshop",
       "tier": 4,
       "stats": {
         "weight": "2.0 Kg",
@@ -1902,7 +1902,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Fabricator"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2016,7 +2016,7 @@
       "description": "The Repair Bench has the ability to repair all items you’re wearing or have placed on the bench with a single click, regardless of where they were crafted. When combined with a power connection (1,500 electricity ) it can also repair Tier 4  and Orbital Workshop items. To repair Orbital Workshop Items, a Workshop Repair Kit is required.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Machining Bench",
+      "crafted_at": "Workshop",
       "tier": 3,
       "stats": {
         "weight": "20.0 kg",
@@ -2028,7 +2028,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Machining Bench"
+        "crafted_at": "Workshop"
       }
     },
     {
@@ -2242,9 +2242,9 @@
       "name": "ST-700 Chest Armor",
       "url": "https://icarus.fandom.com/wiki/ST-700_Chest_Armor",
       "description": "",
-      "item_type": "weapon",
+      "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
         "weight": "1.5 kg",
@@ -2256,7 +2256,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop"
       }
     },
     {

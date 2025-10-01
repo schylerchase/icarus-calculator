@@ -1,10 +1,10 @@
 {
   "name": "Ion Backpack",
   "url": "https://icarus.fandom.com/wiki/Ion_Backpack",
-  "description": "This backpack is specifically designed to benefit players moving into Electronics in Tier 3 and Tier 4 , with notable increases in copper, gold, and platinum yields when mining.",
+  "description": "This backpack is specifically designed to benefit players moving into Electronics in Tier 3  and Tier 4  , with notable increases in copper, gold, and platinum yields when mining.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
+  "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
     "weight": "0.5 kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+    "crafted_at": "Workshop"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "Forge",
   "url": "https://icarus.fandom.com/wiki/Forge",
-  "description": "The Forge is the Tier 3 variant of the Anvil Bench that will allow the Prospector to craft higher quality tools such as the Platinum Pickaxe , Cold Steel Knife , etc and items crafted at the Anvil Bench ( Iron Axe , Copper Nails , etc). It is also where these tools can be repaired. Unlike other benches, the Forge can be deployed and used outdoors as it does not require shelter. Can be used indoors or outdoors.",
+  "description": "The Forge is the Tier 3  variant of the Anvil Bench that will allow the Prospector to craft higher quality tools such as the Platinum Pickaxe , Cold Steel Knife , etc and items crafted at the Anvil Bench ( Iron Axe , Copper Nails , etc). It is also where these tools can be repaired. Unlike other benches, the Forge can be deployed and used outdoors as it does not require shelter. Can be used indoors or outdoors.",
   "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Machining Bench",
