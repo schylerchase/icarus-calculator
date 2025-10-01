@@ -13,7 +13,6 @@ FixCategories.py
 debug_page.html
 generate_manifest.py
 tree.txt
-bundle.py
 
 # VS Code
 .vscode/
