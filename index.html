@@ -505,6 +505,59 @@
             border-bottom: 1px solid rgba(255,255,255,0.1);
         }
 
+        .recipe-step {
+            margin-bottom: 15px;
+            padding: 12px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 8px;
+            border-left: 4px solid #4ecdc4;
+        }
+
+        .recipe-step-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .recipe-item-name {
+            font-weight: 700;
+            font-size: 14px;
+            color: #ffffff;
+        }
+
+        .recipe-item-meta {
+            font-size: 11px;
+            color: #b0b3b8;
+        }
+
+        .ingredients-list {
+            margin-left: 20px;
+            margin-top: 10px;
+            padding-left: 15px;
+            border-left: 2px solid rgba(255,255,255,0.1);
+        }
+
+        .ingredient-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 6px 10px;
+            margin-bottom: 6px;
+            background: rgba(255,255,255,0.03);
+            border-radius: 6px;
+            font-size: 13px;
+        }
+
+        .ingredient-name {
+            color: #ffffff;
+        }
+
+        .ingredient-amount {
+            color: #00d4ff;
+            font-weight: 700;
+        }
+
         .resource-item {
             display: flex;
             justify-content: space-between;
@@ -627,39 +680,63 @@
     <script type="text/babel">
         const { useState, useEffect } = React;
 
-        // List of JSON files to attempt loading from icarus_data directory
         const JSON_FILES = [
-            'ammunition.json',
-            'armor.json',
-            'building.json',
-            'consumables.json',
-            'cooking.json',
-            'decoration.json',
-            'deployables.json',
-            'electricity_sources.json',
-            'farming.json',
-            'fuel_sources.json',
-            'furniture.json',
-            'inventory.json',
-            'light_sources.json',
-            'materials.json',
-            'medicine.json',
-            'raw_materials.json',
-            'specialized_equipment.json',
-            'storage.json',
-            'tools.json',
-            'water_sources.json',
+            'ammunition.json', 'armor.json', 'building.json', 'consumables.json',
+            'cooking.json', 'decoration.json', 'deployables.json', 'electricity_sources.json',
+            'farming.json', 'fuel_sources.json', 'furniture.json', 'inventory.json',
+            'light_sources.json', 'materials.json', 'medicine.json', 'raw_materials.json',
+            'specialized_equipment.json', 'storage.json', 'tools.json', 'water_sources.json',
             'weapons.json'
         ];
 
-        // SIMPLIFIED: Only track what's EXCLUSIVE to Prometheus
-        const PROMETHEUS_EXCLUSIVE = [
-            'Obsidian',
-            'Shaped Obsidian',
-            'Scoria',
-            'Super-cooled Ice',
-            'Supercooled Ice'
-        ];
+        const MAP_RESOURCES = {
+            "Olympus": [
+                "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
+                "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
+                "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore",
+                "Exotics", "Exotic Matter", "Frozen Ore",
+                "Iron Ingot", "Steel Ingot", "Steel Bloom", "Aluminum Ingot", "Copper Ingot", 
+                "Platinum Ingot", "Titanium Ingot", "Refined Gold", "Steel Screw", "Copper Wire",
+                "Gold Wire", "Electronics", "Carbon Fiber", "Composites", "Epoxy", "Organic Resin",
+                "Concrete Mix", "Glass", "Rope", "Wool", "Charcoal", "Biofuel Can", "Iron Nail", "Copper Nail",
+                "Brown Bear Fur", "Brown Bear Leather", "Brown Bear Bone",
+                "Wolf Fur", "Wolf Leather", "Wolf Bone",
+                "Deer Fur", "Deer Leather", "Deer Bone",
+                "Mammoth Tusk", "Caveworm Chitin",
+                "Pumpkin", "Corn", "Wheat", "Carrot", "Potato", "Tomato", "Beans", "Berry", "Apple",
+                "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
+            ],
+            "Styx": [
+                "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
+                "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
+                "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore", "Frozen Ore",
+                "Exotics", "Exotic Matter", "Caveworm Chitin",
+                "Iron Ingot", "Steel Ingot", "Steel Bloom", "Aluminum Ingot", "Copper Ingot", 
+                "Platinum Ingot", "Titanium Ingot", "Refined Gold", "Steel Screw", "Copper Wire",
+                "Gold Wire", "Electronics", "Carbon Fiber", "Composites", "Epoxy", "Organic Resin",
+                "Concrete Mix", "Glass", "Rope", "Wool", "Charcoal", "Biofuel Can", "Iron Nail", "Copper Nail",
+                "Brown Bear Fur", "Brown Bear Leather", "Brown Bear Bone",
+                "Wolf Fur", "Wolf Leather", "Wolf Bone",
+                "Deer Fur", "Deer Leather", "Deer Bone",
+                "Pumpkin", "Corn", "Wheat", "Carrot", "Potato", "Tomato", "Beans", "Berry", "Apple",
+                "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
+            ],
+            "Prometheus": [
+                "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
+                "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
+                "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore",
+                "Exotics", "Exotic Matter", "Obsidian", "Shaped Obsidian", "Caveworm Chitin",
+                "Iron Ingot", "Steel Ingot", "Steel Bloom", "Aluminum Ingot", "Copper Ingot", 
+                "Platinum Ingot", "Titanium Ingot", "Refined Gold", "Steel Screw", "Copper Wire",
+                "Gold Wire", "Electronics", "Carbon Fiber", "Composites", "Epoxy", "Organic Resin",
+                "Concrete Mix", "Glass", "Rope", "Wool", "Charcoal", "Biofuel Can", "Iron Nail", "Copper Nail",
+                "Brown Bear Fur", "Brown Bear Leather", "Brown Bear Bone",
+                "Wolf Fur", "Wolf Leather", "Wolf Bone",
+                "Deer Fur", "Deer Leather", "Deer Bone",
+                "Pumpkin", "Corn", "Wheat", "Carrot", "Potato", "Tomato", "Beans", "Berry", "Apple",
+                "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
+            ]
+        };
 
         function ItemCard({ item, recipe, isSelected, isAvailable, onClick, onQuantityChange, currentQuantity }) {
             const getTierColor = (tier) => {
@@ -674,35 +751,20 @@
             };
 
             const getIcon = (category) => {
-                switch(category) {
-                    case "Tools": return "🔧";
-                    case "Weapons": return "⚔️";
-                    case "Armor": return "🛡️";
-                    case "Deployables": return "🏭";
-                    case "Specialized Equipment": return "⚙️";
-                    case "Building": return "🏗️";
-                    case "Cooking": return "🍳";
-                    case "Storage": return "📦";
-                    case "Furniture": return "🪑";
-                    case "Materials": return "🔩";
-                    case "Raw Materials": return "⛏️";
-                    case "Water Sources": return "💧";
-                    case "Electricity Sources": return "⚡";
-                    case "Fuel Sources": return "⛽";
-                    case "Light Sources": return "💡";
-                    case "Farming": return "🌱";
-                    case "Consumables": return "🧪";
-                    case "Medicine": return "💊";
-                    case "Ammunition": return "🏹";
-                    case "Inventory": return "🎒";
-                    case "Decoration": return "🎨";
-                    default: return "📋";
-                }
+                const icons = {
+                    "Tools": "🔧", "Weapons": "⚔️", "Armor": "🛡️", "Deployables": "🏭",
+                    "Specialized Equipment": "⚙️", "Building": "🏗️", "Cooking": "🍳",
+                    "Storage": "📦", "Furniture": "🪑", "Materials": "🔩",
+                    "Raw Materials": "⛏️", "Water Sources": "💧", "Electricity Sources": "⚡",
+                    "Fuel Sources": "⛽", "Light Sources": "💡", "Farming": "🌱",
+                    "Consumables": "🧪", "Medicine": "💊", "Ammunition": "🏹",
+                    "Inventory": "🎒", "Decoration": "🎨"
+                };
+                return icons[category] || "📋";
             };
 
             return React.createElement('div', {
-                className: `item-card ${isSelected ? 'selected' : ''} ${!isAvailable ? 'unavailable' : ''}`,
-                'data-item': item
+                className: `item-card ${isSelected ? 'selected' : ''} ${!isAvailable ? 'unavailable' : ''}`
             }, [
                 React.createElement('div', { className: 'item-header', key: 'header' }, [
                     React.createElement('div', { key: 'info' }, [
@@ -814,7 +876,7 @@
         }
 
         function CartItem({ item, details, onRemove, recipes }) {
-            return React.createElement('div', { className: 'cart-item', 'data-item': item }, [
+            return React.createElement('div', { className: 'cart-item' }, [
                 React.createElement('div', { className: 'cart-item-info', key: 'info' }, [
                     React.createElement('div', { className: 'cart-item-name', key: 'name' }, item),
                     React.createElement('div', { className: 'cart-item-details', key: 'details' }, 
@@ -842,7 +904,6 @@
             const [tierFilter, setTierFilter] = useState('All');
             const [shoppingCart, setShoppingCart] = useState({});
             const [results, setResults] = useState(null);
-            const [checkedItems, setCheckedItems] = useState({});
             const [itemQuantities, setItemQuantities] = useState({});
 
             useEffect(() => {
@@ -883,15 +944,7 @@
                     }
                     
                     if (!successfulPath) {
-                        throw new Error(`CORS Error: Cannot load JSON files directly from file:// protocol. 
-                        
-Please use one of these solutions:
-1. Start a local HTTP server:
-   - Python: 'python -m http.server 8000' then open http://localhost:8000/index.html
-   - Node.js: 'npx http-server' then open the provided URL
-   - VS Code: Install 'Live Server' extension and right-click HTML file
-                        
-2. Or place files on a web server`);
+                        throw new Error(`Cannot load JSON files. Please use a local HTTP server.`);
                     }
                     
                     for (const filename of JSON_FILES) {
@@ -901,24 +954,16 @@ Please use one of these solutions:
                             const response = await fetch(`${successfulPath}${filename}`);
                             if (!response.ok) {
                                 errors.push(`${filename}: HTTP ${response.status}`);
-                                console.warn(`Failed to load ${filename}: ${response.status}`);
                                 continue;
                             }
                             
                             const data = await response.json();
-                            console.log(`Loaded ${filename}:`, data);
                             
                             if (data.items && Array.isArray(data.items)) {
                                 data.items.forEach(item => {
-                                    // Prefer base_recipe data, fallback to root level
-                                    const baseRecipe = item.base_recipe || {};
-                                    const craftedAt = baseRecipe.crafted_at || item.crafted_at || 'Unknown';
-                                    const recipeIngredients = baseRecipe.ingredients || item.ingredients || {};
-                                    
-                                    // Build ingredients (excluding "Max" key)
                                     const ingredients = {};
-                                    if (recipeIngredients && typeof recipeIngredients === 'object') {
-                                        Object.entries(recipeIngredients).forEach(([key, value]) => {
+                                    if (item.ingredients && typeof item.ingredients === 'object') {
+                                        Object.entries(item.ingredients).forEach(([key, value]) => {
                                             if (key !== 'Max' && typeof value === 'number') {
                                                 ingredients[key] = value;
                                             }
@@ -927,7 +972,7 @@ Please use one of these solutions:
                                     
                                     allRecipes[item.name] = {
                                         ingredients: ingredients,
-                                        crafted_at: craftedAt,
+                                        crafted_at: item.crafted_at || 'Unknown',
                                         category: item.category || 'Unknown',
                                         tier: item.tier || 0,
                                         map_exclusive: item.map_exclusive || null
@@ -938,50 +983,20 @@ Please use one of these solutions:
                             loadedCount++;
                         } catch (fileError) {
                             errors.push(`${filename}: ${fileError.message}`);
-                            console.warn(`Error loading ${filename}:`, fileError);
                         }
                     }
                     
-                    setLoadingText(`Processing ${Object.keys(allRecipes).length} recipes...`);
-                    
-                    const successfulFiles = loadedCount;
-                    const totalFiles = JSON_FILES.length;
-                    
                     if (Object.keys(allRecipes).length === 0) {
-                        throw new Error(`No recipes could be loaded. 
-                        
-Files attempted: ${JSON_FILES.length}
-Successfully loaded: ${loadedCount}
-Errors encountered: ${errors.length}
-
-Detailed errors:
-${errors.join('\n')}
-
-This indicates all JSON files are missing or invalid.`);
+                        throw new Error(`No recipes could be loaded.`);
                     }
                     
                     setRecipes(allRecipes);
                     setLoading(false);
                     
-                    if (successfulFiles < totalFiles) {
-                        setResults({
-                            type: 'success',
-                            message: `Loaded ${Object.keys(allRecipes).length} recipes from ${successfulFiles}/${totalFiles} files. Some files were missing but calculator is functional!`
-                        });
-                        setTimeout(() => setResults(null), 5000);
-                    }
-                    
-                    console.log(`Successfully loaded ${Object.keys(allRecipes).length} recipes from ${loadedCount}/${totalFiles} files`);
-                    
                 } catch (err) {
-                    console.error('Error loading recipes:', err);
                     setError({
                         title: 'Failed to Load Recipe Database',
-                        message: err.message,
-                        details: `Current URL: ${window.location.href}
-                        Protocol: ${window.location.protocol}
-                        
-                        If using file:// protocol, you need to serve files via HTTP.`
+                        message: err.message
                     });
                     setLoading(false);
                 }
@@ -990,50 +1005,11 @@ This indicates all JSON files are missing or invalid.`);
             const categories = [...new Set(Object.values(recipes).map(r => r.category))].sort();
             const tiers = [...new Set(Object.values(recipes).map(r => r.tier))].sort();
 
-            const toggleChecked = (itemKey) => {
-                setCheckedItems(prev => ({
-                    ...prev,
-                    [itemKey]: !prev[itemKey]
-                }));
-            };
-
-            const clearAllChecks = () => {
-                setCheckedItems({});
-            };
-
             const handleQuantityChange = (item, quantity) => {
                 setItemQuantities(prev => ({
                     ...prev,
                     [item]: Math.max(0, quantity)
                 }));
-            };
-
-            const getCompletionStats = () => {
-                if (!results || results.type !== 'hierarchical') return null;
-                
-                const allItems = [];
-                const addToList = (tree, prefix = '') => {
-                    Object.entries(tree).forEach(([item, data]) => {
-                        const key = `${prefix}${item}`;
-                        allItems.push(key);
-                        if (data.ingredients) {
-                            Object.keys(data.ingredients).forEach(ingredient => {
-                                const ingredientKey = `${key}-${ingredient}`;
-                                allItems.push(ingredientKey);
-                            });
-                        }
-                    });
-                };
-                
-                addToList(results.craftingTree);
-                Object.keys(results.rawMaterials).forEach(material => {
-                    allItems.push(`raw-${material}`);
-                });
-                
-                const completed = allItems.filter(item => checkedItems[item]).length;
-                const total = allItems.length;
-                
-                return { completed, total, percentage: total > 0 ? Math.round((completed / total) * 100) : 0 };
             };
 
             const filteredItems = Object.entries(recipes).filter(([item, recipe]) => {
@@ -1043,30 +1019,38 @@ This indicates all JSON files are missing or invalid.`);
                 return matchesSearch && matchesCategory && matchesTier;
             });
 
-            // FIXED AVAILABILITY CHECKER - Whitelist approach
-            const checkItemAvailability = (item, map, debugPath = []) => {
+            const checkItemAvailability = (item, map) => {
                 const recipe = recipes[item];
-                if (!recipe) return true; // No recipe = assume available
+                if (!recipe) return false;
                 
-                // Prevent infinite recursion
-                if (debugPath.includes(item)) return false;
-                
-                // If checking Olympus/Styx and item IS Prometheus-exclusive
-                if ((map === 'Olympus' || map === 'Styx') && PROMETHEUS_EXCLUSIVE.includes(item)) {
+                if (recipe.map_exclusive && recipe.map_exclusive !== map) {
                     return false;
                 }
                 
-                // Check ingredients recursively
                 const requiredMaterials = Object.keys(recipe.ingredients || {});
                 
+                if (requiredMaterials.length === 0) {
+                    return MAP_RESOURCES[map]?.includes(item) || 
+                           recipe.crafted_at === 'Character' ||
+                           recipe.category === 'Raw Materials' ||
+                           recipe.tier <= 1;
+                }
+                
                 for (const material of requiredMaterials) {
-                    // Check if this material or any sub-ingredients require Prometheus materials
-                    if (!checkItemAvailability(material, map, [...debugPath, item])) {
+                    const alwaysAvailableMaterials = [
+                        'Fiber', 'Wood', 'Stone', 'Stick', 'Sticks', 'Leather', 'Fur', 'Bone',
+                        'Iron Ore', 'Copper Ore', 'Coal', 'Iron Ingot', 'Steel Ingot'
+                    ];
+                    
+                    if (alwaysAvailableMaterials.includes(material) || MAP_RESOURCES[map]?.includes(material)) {
+                        continue;
+                    }
+                    
+                    if (!checkItemAvailability(material, map)) {
                         return false;
                     }
                 }
                 
-                // If we made it here, item is available on this map
                 return true;
             };
 
@@ -1098,7 +1082,6 @@ This indicates all JSON files are missing or invalid.`);
 
             const clearCart = () => {
                 setShoppingCart({});
-                setCheckedItems({});
                 setItemQuantities({});
                 setResults({ type: 'success', message: 'Cart cleared!' });
                 setTimeout(() => setResults(null), 2000);
@@ -1111,65 +1094,65 @@ This indicates all JSON files are missing or invalid.`);
                     return;
                 }
 
-                setResults({ type: 'loading', message: 'Calculating...' });
-
-                setTimeout(() => {
-                    const craftingTree = {};
-                    const rawMaterials = {};
+                const craftingSteps = [];
+                const rawMaterials = {};
+                const processed = new Set();
+                
+                const processItem = (item, quantity) => {
+                    if (processed.has(item)) return;
                     
-                    const buildCraftingTree = (item, quantity, path = []) => {
-                        const recipe = recipes[item];
-                        if (!recipe) return;
-                        
-                        if (path.includes(item)) return;
-                        
-                        if (Object.keys(recipe.ingredients).length === 0) {
-                            rawMaterials[item] = (rawMaterials[item] || 0) + quantity;
-                            return;
-                        }
-                        
-                        if (!craftingTree[item]) {
-                            craftingTree[item] = {
-                                totalNeeded: 0,
-                                craftedAt: recipe.crafted_at,
-                                tier: recipe.tier,
-                                category: recipe.category,
-                                ingredients: {}
-                            };
-                        }
-                        
-                        craftingTree[item].totalNeeded += quantity;
-                        
-                        Object.entries(recipe.ingredients).forEach(([material, amount]) => {
-                            const totalAmount = amount * quantity;
-                            
-                            if (!craftingTree[item].ingredients[material]) {
-                                craftingTree[item].ingredients[material] = 0;
-                            }
-                            craftingTree[item].ingredients[material] += totalAmount;
-                            
-                            buildCraftingTree(material, totalAmount, [...path, item]);
-                        });
-                    };
-
-                    Object.entries(shoppingCart).forEach(([item, details]) => {
-                        buildCraftingTree(item, details.quantity);
+                    const recipe = recipes[item];
+                    if (!recipe) return;
+                    
+                    const ingredients = recipe.ingredients || {};
+                    
+                    if (Object.keys(ingredients).length === 0) {
+                        rawMaterials[item] = (rawMaterials[item] || 0) + quantity;
+                        return;
+                    }
+                    
+                    processed.add(item);
+                    
+                    craftingSteps.push({
+                        item,
+                        quantity,
+                        recipe,
+                        ingredients: Object.entries(ingredients).map(([mat, amt]) => ({
+                            material: mat,
+                            amount: amt * quantity,
+                            isAvailable: checkItemAvailability(mat, currentMap)
+                        }))
                     });
-
-                    setResults({
-                        type: 'hierarchical',
-                        craftingTree,
-                        rawMaterials,
-                        cartItems: shoppingCart
+                    
+                    Object.entries(ingredients).forEach(([material, amount]) => {
+                        const totalAmount = amount * quantity;
+                        const matRecipe = recipes[material];
+                        
+                        if (matRecipe && Object.keys(matRecipe.ingredients || {}).length > 0) {
+                            processItem(material, totalAmount);
+                        } else {
+                            rawMaterials[material] = (rawMaterials[material] || 0) + totalAmount;
+                        }
                     });
-                }, 100);
+                };
+
+                Object.entries(shoppingCart).forEach(([item, details]) => {
+                    processItem(item, details.quantity);
+                });
+
+                setResults({
+                    type: 'detailed',
+                    craftingSteps,
+                    rawMaterials,
+                    cartItems: shoppingCart
+                });
             };
 
             if (loading) {
                 return React.createElement('div', { className: 'app-container' }, [
                     React.createElement('div', { className: 'app-header', key: 'header' }, [
                         React.createElement('h1', { className: 'app-title', key: 'title' }, "🚀 ICARUS COMPLETE"),
-                        React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator with Complete Game Database")
+                        React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator")
                     ]),
                     React.createElement('div', { className: 'loading-screen', key: 'loading' }, [
                         React.createElement('div', { className: 'loading-spinner', key: 'spinner' }),
@@ -1182,21 +1165,11 @@ This indicates all JSON files are missing or invalid.`);
             if (error) {
                 return React.createElement('div', { className: 'app-container' }, [
                     React.createElement('div', { className: 'app-header', key: 'header' }, [
-                        React.createElement('h1', { className: 'app-title', key: 'title' }, "🚀 ICARUS COMPLETE"),
-                        React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator")
+                        React.createElement('h1', { className: 'app-title', key: 'title' }, "🚀 ICARUS COMPLETE")
                     ]),
                     React.createElement('div', { className: 'error-screen', key: 'error' }, [
                         React.createElement('div', { className: 'error-title', key: 'title' }, `❌ ${error.title}`),
                         React.createElement('div', { className: 'error-message', key: 'message' }, error.message),
-                        error.details && React.createElement('div', { 
-                            key: 'details',
-                            style: { 
-                                fontSize: '0.9rem', 
-                                color: '#b0b3b8', 
-                                marginBottom: '20px',
-                                fontFamily: 'monospace'
-                            } 
-                        }, error.details),
                         React.createElement('button', {
                             key: 'retry',
                             className: 'retry-button',
@@ -1206,406 +1179,202 @@ This indicates all JSON files are missing or invalid.`);
                 ]);
             }
 
-            const renderTabContent = () => {
-                switch (activeTab) {
-                    case 'calculator':
-                        return React.createElement('div', { key: 'calculator-content' }, [
-                            React.createElement('div', { className: 'search-controls', key: 'controls' }, [
-                                React.createElement('input', {
-                                    key: 'search',
-                                    type: 'text',
-                                    placeholder: 'Search items...',
-                                    className: 'search-input',
-                                    value: searchTerm,
-                                    onChange: (e) => setSearchTerm(e.target.value)
-                                }),
-                                React.createElement('select', {
-                                    key: 'category',
-                                    className: 'filter-select',
-                                    value: categoryFilter,
-                                    onChange: (e) => setCategoryFilter(e.target.value)
-                                }, [
-                                    React.createElement('option', { key: 'all', value: 'All' }, 'All Categories'),
-                                    ...categories.map(cat => 
-                                        React.createElement('option', { key: cat, value: cat }, cat)
-                                    )
-                                ]),
-                                React.createElement('select', {
-                                    key: 'tier',
-                                    className: 'filter-select',
-                                    value: tierFilter,
-                                    onChange: (e) => setTierFilter(e.target.value)
-                                }, [
-                                    React.createElement('option', { key: 'all', value: 'All' }, 'All Tiers'),
-                                    ...tiers.map(tier => 
-                                        React.createElement('option', { key: tier, value: tier.toString() }, `Tier ${tier}`)
-                                    )
-                                ])
-                            ]),
-                            React.createElement('div', { className: 'map-selector', key: 'map-selector' }, [
-                                React.createElement('span', { className: 'map-label', key: 'label' }, 'Map:'),
-                                ['Olympus', 'Styx', 'Prometheus'].map(map =>
-                                    React.createElement('button', {
-                                        key: map,
-                                        className: `map-btn ${currentMap === map ? 'active' : ''}`,
-                                        onClick: () => setCurrentMap(map)
-                                    }, map)
-                                )
-                            ]),
-                            React.createElement('div', { className: 'items-grid', key: 'items' },
-                                filteredItems.map(([item, recipe]) =>
-                                    React.createElement(ItemCard, {
-                                        key: item,
-                                        item,
-                                        recipe,
-                                        isSelected: !!shoppingCart[item],
-                                        isAvailable: checkItemAvailability(item, currentMap),
-                                        onClick: addToCart,
-                                        onQuantityChange: handleQuantityChange,
-                                        currentQuantity: itemQuantities[item] || 0
-                                    })
-                                )
-                            ),
-                            results && renderResults()
-                        ]);
-
-                    case 'map':
-                        return React.createElement('div', { className: 'map-info', key: 'map-info' }, [
-                            React.createElement('h3', { key: 'title' }, `🗺️ ${currentMap} Map Info`),
-                            React.createElement('p', { key: 'description' }, 
-                                currentMap === 'Olympus' ? "The starter map with Forest, Arctic, and Desert biomes. All standard materials available!" :
-                                currentMap === 'Prometheus' ? "🌋 Volcanic DLC map with EXCLUSIVE Obsidian, Scoria, and Super-cooled Ice!" :
-                                currentMap === 'Styx' ? "💎 Advanced DLC map with all standard materials (same as Olympus)." : ""
-                            ),
-                            currentMap === 'Prometheus' && React.createElement('div', { className: 'resource-grid', key: 'exclusive' }, [
-                                React.createElement('h4', { 
-                                    key: 'exclusive-title',
-                                    style: { 
-                                        gridColumn: '1 / -1', 
-                                        color: '#ff6b6b', 
-                                        marginTop: '15px',
-                                        marginBottom: '10px' 
-                                    }
-                                }, '🔥 Prometheus Exclusive Materials:'),
-                                ...PROMETHEUS_EXCLUSIVE.map(resource =>
-                                    React.createElement('div', {
-                                        key: resource,
-                                        className: 'resource-badge',
-                                        style: { borderColor: '#ff6b6b', color: '#ff6b6b' }
-                                    }, resource)
-                                )
-                            ])
-                        ]);
-
-                    default:
-                        return null;
-                }
-            };
-
             const renderResults = () => {
                 if (!results) return null;
                 
-                switch (results.type) {
-                    case 'success':
-                        return React.createElement('div', { className: 'success-banner' }, `✅ ${results.message}`);
-                    
-                    case 'loading':
-                        return React.createElement('div', { 
-                            style: { 
-                                background: 'rgba(0, 212, 255, 0.1)', 
-                                color: '#00d4ff', 
-                                padding: '15px', 
-                                borderRadius: '10px', 
-                                marginTop: '15px',
-                                textAlign: 'center',
-                                fontWeight: '600'
-                            } 
-                        }, `⏳ ${results.message}`);
-                    
-                    case 'hierarchical':
-                        const renderCraftingStep = (item, data, depth = 0, parentKey = '') => {
-                            const recipe = recipes[item];
-                            const isAvailable = checkItemAvailability(item, currentMap);
-                            const indent = depth * 20;
-                            const itemKey = parentKey ? `${parentKey}-${item}` : item;
-                            const isChecked = checkedItems[itemKey];
-                            
-                            return React.createElement('div', {
-                                key: `${item}-${depth}`,
-                                style: {
-                                    marginLeft: `${indent}px`,
-                                    marginBottom: '8px',
-                                    padding: '8px',
-                                    background: depth === 0 ? 'rgba(0, 212, 255, 0.1)' : 
-                                               depth === 1 ? 'rgba(255, 255, 255, 0.05)' : 
-                                               'rgba(255, 255, 255, 0.02)',
-                                    border: `1px solid ${depth === 0 ? 'rgba(0, 212, 255, 0.3)' : 'rgba(255, 255, 255, 0.1)'}`,
-                                    borderRadius: '6px',
-                                    borderLeft: `4px solid ${getTierColor(recipe?.tier || 0)}`,
-                                    opacity: isChecked ? 0.6 : 1,
-                                    transition: 'opacity 0.3s ease'
-                                }
-                            }, [
-                                React.createElement('div', {
-                                    key: 'header',
-                                    style: {
-                                        display: 'flex',
-                                        justifyContent: 'space-between',
-                                        alignItems: 'center',
-                                        marginBottom: Object.keys(data.ingredients || {}).length > 0 ? '8px' : '0'
-                                    }
-                                }, [
-                                    React.createElement('div', {
-                                        key: 'left-content',
-                                        style: { display: 'flex', alignItems: 'center', gap: '8px' }
-                                    }, [
-                                        React.createElement('input', {
-                                            key: 'checkbox',
-                                            type: 'checkbox',
-                                            checked: isChecked || false,
-                                            onChange: () => toggleChecked(itemKey),
-                                            style: {
-                                                width: '16px',
-                                                height: '16px',
-                                                cursor: 'pointer',
-                                                accentColor: '#00d4ff'
-                                            }
-                                        }),
-                                        React.createElement('span', {
-                                            key: 'name',
-                                            style: {
-                                                fontWeight: depth === 0 ? '700' : '600',
-                                                color: isAvailable ? '#ffffff' : '#ff6b6b',
-                                                fontSize: depth === 0 ? '14px' : '13px',
-                                                textDecoration: isChecked ? 'line-through' : 'none'
-                                            }
-                                        }, `${isAvailable ? '✅' : '❌'} ${data.totalNeeded}x ${item}`)
-                                    ]),
-                                    React.createElement('span', {
-                                        key: 'info',
-                                        style: {
-                                            fontSize: '11px',
-                                            color: '#b0b3b8'
-                                        }
-                                    }, `${recipe?.crafted_at || 'Raw'} • T${recipe?.tier || 0}`)
-                                ]),
-                                Object.keys(data.ingredients || {}).length > 0 && React.createElement('div', {
-                                    key: 'ingredients',
-                                    style: { marginLeft: '10px' }
-                                }, Object.entries(data.ingredients).map(([ingredient, amount]) => {
-                                    const ingredientData = results.craftingTree[ingredient];
-                                    if (ingredientData) {
-                                        return renderCraftingStep(ingredient, ingredientData, depth + 1, itemKey);
-                                    } else {
-                                        const isRawAvailable = !PROMETHEUS_EXCLUSIVE.includes(ingredient) || currentMap === 'Prometheus';
-                                        const rawKey = `${itemKey}-${ingredient}`;
-                                        const isRawChecked = checkedItems[rawKey];
-                                        
-                                        return React.createElement('div', {
-                                            key: ingredient,
-                                            style: {
-                                                marginLeft: `${(depth + 1) * 20}px`,
-                                                marginBottom: '4px',
-                                                padding: '4px 8px',
-                                                background: 'rgba(255, 255, 255, 0.02)',
-                                                border: '1px solid rgba(255, 255, 255, 0.05)',
-                                                borderRadius: '4px',
-                                                fontSize: '12px',
-                                                color: isRawAvailable ? '#ffffff' : '#ff6b6b',
-                                                borderLeft: '3px solid #888',
-                                                opacity: isRawChecked ? 0.6 : 1,
-                                                transition: 'opacity 0.3s ease',
-                                                display: 'flex',
-                                                alignItems: 'center',
-                                                gap: '8px'
-                                            }
-                                        }, [
-                                            React.createElement('input', {
-                                                key: 'raw-checkbox',
-                                                type: 'checkbox',
-                                                checked: isRawChecked || false,
-                                                onChange: () => toggleChecked(rawKey),
-                                                style: {
-                                                    width: '14px',
-                                                    height: '14px',
-                                                    cursor: 'pointer',
-                                                    accentColor: '#00d4ff'
-                                                }
-                                            }),
-                                            React.createElement('span', {
-                                                key: 'raw-text',
-                                                style: {
-                                                    textDecoration: isRawChecked ? 'line-through' : 'none'
-                                                }
-                                            }, `${isRawAvailable ? '✅' : '❌'} ${amount}x ${ingredient} (Raw Material)`)
-                                        ]);
-                                    }
-                                }))
-                            ]);
-                        };
+                if (results.type === 'success') {
+                    return React.createElement('div', { className: 'success-banner' }, `✅ ${results.message}`);
+                }
+                
+                if (results.type === 'error') {
+                    return React.createElement('div', { 
+                        style: { 
+                            background: 'rgba(255, 107, 107, 0.2)', 
+                            color: '#ff6b6b', 
+                            padding: '15px', 
+                            borderRadius: '10px', 
+                            marginTop: '15px',
+                            textAlign: 'center'
+                        } 
+                    }, `❌ ${results.message}`);
+                }
+                
+                if (results.type === 'detailed') {
+                    const getTierColor = (tier) => {
+                        const colors = {0: "#888", 1: "#4ecdc4", 2: "#45b7d1", 3: "#f39c12", 4: "#e74c3c"};
+                        return colors[tier] || "#4ecdc4";
+                    };
 
-                        const getTierColor = (tier) => {
-                            switch(tier) {
-                                case 0: return "#888";
-                                case 1: return "#4ecdc4";
-                                case 2: return "#45b7d1";
-                                case 3: return "#f39c12";
-                                case 4: return "#e74c3c";
-                                default: return "#4ecdc4";
-                            }
-                        };
-
-                        const unavailableRawMaterials = Object.keys(results.rawMaterials).filter(material => 
-                            !checkItemAvailability(material, currentMap)
-                        );
-
-                        const completionStats = getCompletionStats();
+                    return React.createElement('div', { className: 'results-panel' }, [
+                        React.createElement('div', { className: 'results-title', key: 'title' }, 
+                            '🧮 Crafting Recipe & Requirements'
+                        ),
                         
-                        return React.createElement('div', { className: 'results-panel' }, [
-                            React.createElement('div', { 
-                                className: 'results-title', 
-                                key: 'title',
-                                style: { display: 'flex', justifyContent: 'space-between', alignItems: 'center' }
-                            }, [
-                                React.createElement('span', { key: 'title-text' }, '🧮 Complete Crafting Breakdown'),
-                                React.createElement('div', { 
-                                    key: 'progress-controls',
-                                    style: { display: 'flex', alignItems: 'center', gap: '10px' }
-                                }, [
-                                    completionStats && React.createElement('span', {
-                                        key: 'progress',
-                                        style: {
-                                            fontSize: '12px',
-                                            color: completionStats.percentage === 100 ? '#4ecdc4' : '#b0b3b8',
-                                            fontWeight: '600'
-                                        }
-                                    }, `${completionStats.completed}/${completionStats.total} (${completionStats.percentage}%)`),
-                                    React.createElement('button', {
-                                        key: 'clear-checks',
-                                        onClick: clearAllChecks,
-                                        style: {
-                                            background: 'rgba(255, 107, 107, 0.2)',
-                                            color: '#ff6b6b',
-                                            border: '1px solid rgba(255, 107, 107, 0.3)',
-                                            borderRadius: '6px',
-                                            padding: '4px 8px',
-                                            fontSize: '11px',
-                                            cursor: 'pointer',
-                                            fontWeight: '600'
-                                        }
-                                    }, 'Clear All ✕')
-                                ])
-                            ]),
-                            
-                            React.createElement('div', {
-                                key: 'targets',
-                                style: { marginBottom: '20px' }
-                            }, [
-                                React.createElement('h4', {
-                                    key: 'targets-title',
-                                    style: { 
-                                        color: '#00d4ff', 
-                                        fontSize: '14px', 
-                                        marginBottom: '10px',
-                                        fontWeight: '600'
-                                    }
-                                }, '🎯 Target Items:'),
-                                ...Object.entries(results.cartItems).map(([item, details]) => {
-                                    const craftingData = results.craftingTree[item];
-                                    if (craftingData) {
-                                        return renderCraftingStep(item, craftingData, 0);
-                                    }
-                                    return null;
-                                }).filter(Boolean)
-                            ]),
-
-                            React.createElement('div', {
-                                key: 'raw-summary'
-                            }, [
-                                React.createElement('h4', {
-                                    key: 'raw-title',
-                                    style: { 
-                                        color: '#00d4ff', 
-                                        fontSize: '14px', 
-                                        marginBottom: '10px',
-                                        fontWeight: '600'
-                                    }
-                                }, '⛏️ Total Raw Materials Summary:'),
-                                ...Object.entries(results.rawMaterials).map(([material, amount]) => {
-                                    const isAvailable = checkItemAvailability(material, currentMap);
-                                    const rawKey = `raw-${material}`;
-                                    const isRawChecked = checkedItems[rawKey];
-                                    
-                                    return React.createElement('div', { 
-                                        key: material, 
-                                        className: 'resource-item',
-                                        style: { 
-                                            opacity: isRawChecked ? 0.6 : (isAvailable ? 1 : 0.6),
-                                            transition: 'opacity 0.3s ease',
-                                            display: 'flex',
-                                            alignItems: 'center',
-                                            gap: '8px'
-                                        }
-                                    }, [
-                                        React.createElement('input', {
-                                            key: 'summary-checkbox',
-                                            type: 'checkbox',
-                                            checked: isRawChecked || false,
-                                            onChange: () => toggleChecked(rawKey),
-                                            style: {
-                                                width: '16px',
-                                                height: '16px',
-                                                cursor: 'pointer',
-                                                accentColor: '#00d4ff'
-                                            }
-                                        }),
-                                        React.createElement('span', { 
-                                            className: 'resource-name', 
-                                            key: 'name',
-                                            style: {
-                                                textDecoration: isRawChecked ? 'line-through' : 'none'
-                                            }
-                                        }, `${isAvailable ? '✅' : '❌'} ${material}`),
-                                        React.createElement('span', { 
-                                            className: 'resource-amount', 
-                                            key: 'amount',
-                                            style: {
-                                                textDecoration: isRawChecked ? 'line-through' : 'none'
-                                            }
-                                        }, `${amount}x`)
-                                    ])
-                                })
-                            ]),
-
-                            unavailableRawMaterials.length > 0 && React.createElement('div', {
-                                key: 'warning',
+                        React.createElement('div', { key: 'steps' }, [
+                            React.createElement('h4', {
+                                key: 'steps-title',
                                 style: {
-                                    marginTop: '15px',
-                                    padding: '10px',
-                                    background: 'rgba(255, 107, 107, 0.1)',
-                                    border: '1px solid rgba(255, 107, 107, 0.3)',
-                                    borderRadius: '8px',
-                                    fontSize: '12px',
-                                    color: '#ff6b6b'
+                                    color: '#00d4ff',
+                                    fontSize: '14px',
+                                    marginBottom: '15px',
+                                    fontWeight: '600'
                                 }
-                            }, `⚠️ ${unavailableRawMaterials.length} raw materials not available on ${currentMap}`)
-                        ]);
+                            }, '📋 Crafting Steps:'),
+                            ...results.craftingSteps.map((step, index) => 
+                                React.createElement('div', {
+                                    key: index,
+                                    className: 'recipe-step',
+                                    style: {
+                                        borderLeftColor: getTierColor(step.recipe.tier)
+                                    }
+                                }, [
+                                    React.createElement('div', { className: 'recipe-step-header', key: 'header' }, [
+                                        React.createElement('div', { key: 'name' }, [
+                                            React.createElement('div', { className: 'recipe-item-name', key: 'item' },
+                                                `${step.quantity}x ${step.item}`
+                                            ),
+                                            React.createElement('div', { className: 'recipe-item-meta', key: 'meta' },
+                                                `${step.recipe.crafted_at} • Tier ${step.recipe.tier}`
+                                            )
+                                        ])
+                                    ]),
+                                    step.ingredients.length > 0 && React.createElement('div', {
+                                        key: 'ingredients',
+                                        className: 'ingredients-list'
+                                    }, step.ingredients.map((ing, i) =>
+                                        React.createElement('div', {
+                                            key: i,
+                                            className: 'ingredient-item'
+                                        }, [
+                                            React.createElement('span', { 
+                                                className: 'ingredient-name', 
+                                                key: 'name',
+                                                style: { color: ing.isAvailable ? '#ffffff' : '#ff6b6b' }
+                                            }, `${ing.isAvailable ? '✅' : '❌'} ${ing.material}`),
+                                            React.createElement('span', { 
+                                                className: 'ingredient-amount', 
+                                                key: 'amount' 
+                                            }, `${ing.amount}x`)
+                                        ])
+                                    ))
+                                ])
+                            )
+                        ]),
 
-                    case 'error':
-                        return React.createElement('div', { 
-                            style: { 
-                                background: 'rgba(255, 107, 107, 0.2)', 
-                                color: '#ff6b6b', 
-                                padding: '15px', 
-                                borderRadius: '10px', 
-                                marginTop: '15px',
-                                textAlign: 'center',
-                                fontWeight: '600'
-                            } 
-                        }, `❌ ${results.message}`);
-                    
-                    default:
-                        return null;
+                        React.createElement('div', { key: 'raw', style: { marginTop: '20px' } }, [
+                            React.createElement('h4', {
+                                key: 'raw-title',
+                                style: {
+                                    color: '#00d4ff',
+                                    fontSize: '14px',
+                                    marginBottom: '10px',
+                                    fontWeight: '600'
+                                }
+                            }, '⛏️ Total Raw Materials:'),
+                            ...Object.entries(results.rawMaterials).map(([material, amount]) => {
+                                const isAvailable = MAP_RESOURCES[currentMap]?.includes(material);
+                                return React.createElement('div', { 
+                                    key: material, 
+                                    className: 'resource-item'
+                                }, [
+                                    React.createElement('span', { 
+                                        className: 'resource-name', 
+                                        key: 'name',
+                                        style: { color: isAvailable ? '#ffffff' : '#ff6b6b' }
+                                    }, `${isAvailable ? '✅' : '❌'} ${material}`),
+                                    React.createElement('span', { 
+                                        className: 'resource-amount', 
+                                        key: 'amount' 
+                                    }, `${amount}x`)
+                                ]);
+                            })
+                        ])
+                    ]);
+                }
+                
+                return null;
+            };
+
+            const renderTabContent = () => {
+                if (activeTab === 'calculator') {
+                    return React.createElement('div', { key: 'calculator-content' }, [
+                        React.createElement('div', { className: 'search-controls', key: 'controls' }, [
+                            React.createElement('input', {
+                                key: 'search',
+                                type: 'text',
+                                placeholder: 'Search items...',
+                                className: 'search-input',
+                                value: searchTerm,
+                                onChange: (e) => setSearchTerm(e.target.value)
+                            }),
+                            React.createElement('select', {
+                                key: 'category',
+                                className: 'filter-select',
+                                value: categoryFilter,
+                                onChange: (e) => setCategoryFilter(e.target.value)
+                            }, [
+                                React.createElement('option', { key: 'all', value: 'All' }, 'All Categories'),
+                                ...categories.map(cat => 
+                                    React.createElement('option', { key: cat, value: cat }, cat)
+                                )
+                            ]),
+                            React.createElement('select', {
+                                key: 'tier',
+                                className: 'filter-select',
+                                value: tierFilter,
+                                onChange: (e) => setTierFilter(e.target.value)
+                            }, [
+                                React.createElement('option', { key: 'all', value: 'All' }, 'All Tiers'),
+                                ...tiers.map(tier => 
+                                    React.createElement('option', { key: tier, value: tier.toString() }, `Tier ${tier}`)
+                                )
+                            ])
+                        ]),
+                        React.createElement('div', { className: 'map-selector', key: 'map-selector' }, [
+                            React.createElement('span', { className: 'map-label', key: 'label' }, 'Map:'),
+                            ...Object.keys(MAP_RESOURCES).map(map =>
+                                React.createElement('button', {
+                                    key: map,
+                                    className: `map-btn ${currentMap === map ? 'active' : ''}`,
+                                    onClick: () => setCurrentMap(map)
+                                }, map)
+                            )
+                        ]),
+                        React.createElement('div', { className: 'items-grid', key: 'items' },
+                            filteredItems.map(([item, recipe]) =>
+                                React.createElement(ItemCard, {
+                                    key: item,
+                                    item,
+                                    recipe,
+                                    isSelected: !!shoppingCart[item],
+                                    isAvailable: checkItemAvailability(item, currentMap),
+                                    onClick: addToCart,
+                                    onQuantityChange: handleQuantityChange,
+                                    currentQuantity: itemQuantities[item] || 0
+                                })
+                            )
+                        ),
+                        renderResults()
+                    ]);
+                }
+
+                if (activeTab === 'map') {
+                    return React.createElement('div', { className: 'map-info', key: 'map-info' }, [
+                        React.createElement('h3', { key: 'title' }, `🗺️ ${currentMap} Resources`),
+                        React.createElement('p', { key: 'description' }, 
+                            currentMap === 'Olympus' ? "Starter map with all standard resources" :
+                            currentMap === 'Prometheus' ? "Volcanic DLC map with unique Obsidian" :
+                            "Advanced DLC map with full resource access"
+                        ),
+                        React.createElement('div', { className: 'resource-grid', key: 'resources' },
+                            MAP_RESOURCES[currentMap]?.map(resource =>
+                                React.createElement('div', {
+                                    key: resource,
+                                    className: 'resource-badge'
+                                }, resource)
+                            )
+                        )
+                    ]);
                 }
             };
 
@@ -1618,7 +1387,7 @@ This indicates all JSON files are missing or invalid.`);
                     React.createElement('h1', { className: 'app-title', key: 'title' }, "🚀 ICARUS COMPLETE"),
                     React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator"),
                     React.createElement('div', { className: 'stats-header', key: 'stats' }, 
-                        `📊 Database: ${totalItems} Items • ${availableCount}/${totalCount} Available on ${currentMap}`
+                        `📊 ${totalItems} Items • ${availableCount}/${totalCount} Available on ${currentMap}`
                     )
                 ]),
 
@@ -1636,7 +1405,6 @@ This indicates all JSON files are missing or invalid.`);
                                 onClick: () => setActiveTab('map')
                             }, "🗺️ Map Info")
                         ]),
-
                         React.createElement('div', { className: 'tab-content', key: 'tab-content' }, 
                             renderTabContent()
                         )
@@ -1644,13 +1412,13 @@ This indicates all JSON files are missing or invalid.`);
 
                     React.createElement('div', { className: 'shopping-cart', key: 'cart' }, [
                         React.createElement('div', { className: 'cart-header', key: 'cart-header' }, [
-                            React.createElement('h3', { className: 'cart-title', key: 'title' }, "🛒 Shopping Cart"),
+                            React.createElement('h3', { className: 'cart-title', key: 'title' }, "🛒 Cart"),
                             React.createElement('span', { className: 'cart-count', key: 'count' }, Object.keys(shoppingCart).length)
                         ]),
 
                         React.createElement('div', { className: 'cart-items', key: 'cart-items' },
                             Object.keys(shoppingCart).length === 0 ? 
-                                React.createElement('div', { className: 'cart-empty' }, "Add items to your cart to get started!") :
+                                React.createElement('div', { className: 'cart-empty' }, "Add items to start") :
                                 Object.entries(shoppingCart).map(([item, details]) =>
                                     React.createElement(CartItem, {
                                         key: item,
@@ -1675,15 +1443,6 @@ This indicates all JSON files are missing or invalid.`);
                                 onClick: clearCart,
                                 disabled: Object.keys(shoppingCart).length === 0
                             }, "🗑️ Clear")
-                        ]),
-
-                        React.createElement('div', { 
-                            className: 'stats-panel',
-                            key: 'stats'
-                        }, [
-                            React.createElement('div', { key: 'available' }, `Available on ${currentMap}: ${availableCount}/${totalCount}`),
-                            React.createElement('div', { key: 'total' }, `Total Database: ${totalItems} items`),
-                            React.createElement('div', { key: 'cart' }, `Cart Items: ${Object.keys(shoppingCart).length}`)
                         ])
                     ])
                 ])
