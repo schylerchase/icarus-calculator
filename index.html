@@ -1026,82 +1026,40 @@
                 // Prevent infinite recursion
                 if (path.includes(item)) return true;
                 
-                // Check for map-exclusive items first
+                // Check for map-exclusive items
                 if (recipe.map_exclusive && recipe.map_exclusive !== map) {
                     return false;
                 }
                 
                 const requiredMaterials = Object.keys(recipe.ingredients || {});
                 
-                // If no ingredients, it's likely a raw material or basic item
+                // If no ingredients, check if it's a basic item or raw material
                 if (requiredMaterials.length === 0) {
-                    return MAP_RESOURCES[map]?.includes(item) || 
-                           recipe.crafted_at === 'Character' ||
-                           recipe.crafted_at === 'Character Crafting' ||
-                           recipe.category === 'Raw Materials' ||
-                           recipe.category === 'Consumables' ||
-                           recipe.tier <= 1;
+                    // Very permissive for items without ingredients
+                    return true;
                 }
                 
-                // For items with ingredients, be very permissive with basic materials
+                // For items with ingredients, check for truly unavailable materials
+                // Only Obsidian/Shaped Obsidian are map-exclusive to Prometheus
                 for (const material of requiredMaterials) {
-                    // Comprehensive list of materials that should always be considered available
-                    const alwaysAvailableMaterials = [
-                        // Basic gathered materials
-                        'Fiber', 'Wood', 'Stone', 'Stick', 'Sticks', 'Leather', 'Fur', 'Bone', 'Clay', 'Wool',
-                        
-                        // Basic ores (available in caves on all maps)
-                        'Iron Ore', 'Copper Ore', 'Coal', 'Gold Ore', 'Aluminum Ore', 'Platinum Ore', 'Titanium Ore',
-                        
-                        // Basic processed materials
-                        'Iron Ingot', 'Steel Ingot', 'Copper Ingot', 'Steel Bloom', 'Oxite', 'Sulfur', 'Tree Sap',
-                        'Aluminum Ingot', 'Platinum Ingot', 'Titanium Ingot', 'Refined Gold',
-                        
-                        // Basic creature materials
-                        'Brown Bear Leather', 'Brown Bear Fur', 'Brown Bear Bone',
-                        'Wolf Leather', 'Wolf Fur', 'Wolf Bone',
-                        'Deer Leather', 'Deer Fur', 'Deer Bone',
-                        
-                        // Basic crafted materials
-                        'Rope', 'Glass', 'Charcoal', 'Carbon Paste', 'Iron Nail', 'Copper Nail', 'Steel Screw',
-                        'Copper Wire', 'Gold Wire', 'Electronics', 'Carbon Fiber', 'Composites', 'Epoxy',
-                        'Organic Resin', 'Concrete Mix', 'Silica',
-                        
-                        // Water and consumables
-                        'Water', 'Ice', 'Salt',
-                        
-                        // Food/farming materials
-                        'Pumpkin', 'Corn', 'Wheat', 'Carrot', 'Potato', 'Tomato', 'Beans', 'Berry', 'Apple',
-                        'Reed Flower', 'Reed', 'Flower', 'Mushroom', 'Fruit', 'Vegetable', 'Grain', 'Seed'
-                    ];
+                    // Check if this material is map-exclusive
+                    const matRecipe = recipes[material];
+                    if (matRecipe && matRecipe.map_exclusive && matRecipe.map_exclusive !== map) {
+                        return false;
+                    }
                     
-                    // Handle common plural/singular variations
-                    const materialVariations = [
-                        material,
-                        material.replace(/s$/, ''),
-                        material + 's',
-                        material.replace('Sticks', 'Stick'),
-                        material.replace('Stick', 'Sticks')
-                    ];
-                    
-                    // Check if any variation of the material is available
-                    const isBasicMaterial = materialVariations.some(variation => 
-                        alwaysAvailableMaterials.includes(variation) || 
-                        MAP_RESOURCES[map]?.includes(variation)
-                    );
-                    
-                    if (isBasicMaterial) {
-                        continue;
+                    // Check for Obsidian on non-Prometheus maps
+                    if ((material === 'Obsidian' || material === 'Shaped Obsidian') && map !== 'Prometheus') {
+                        return false;
                     }
                     
                     // Recursively check the material
-                    const materialAvailable = checkItemAvailability(material, map, [...path, item]);
-                    
-                    if (!materialAvailable) {
+                    if (matRecipe && !checkItemAvailability(material, map, [...path, item])) {
                         return false;
                     }
                 }
                 
+                // If we got here, the item is available
                 return true;
             };
 
@@ -1145,55 +1103,57 @@
                     return;
                 }
 
-                const craftingSteps = [];
+                const craftingTree = {};
                 const rawMaterials = {};
-                const processed = new Set();
                 
-                const processItem = (item, quantity) => {
-                    if (processed.has(item)) return;
-                    
+                const buildCraftingTree = (item, quantity, path = []) => {
                     const recipe = recipes[item];
                     if (!recipe) return;
                     
-                    const ingredients = recipe.ingredients || {};
+                    // Avoid circular dependencies
+                    if (path.includes(item)) return;
                     
-                    if (Object.keys(ingredients).length === 0) {
+                    if (Object.keys(recipe.ingredients).length === 0) {
+                        // Raw material
                         rawMaterials[item] = (rawMaterials[item] || 0) + quantity;
                         return;
                     }
                     
-                    processed.add(item);
+                    // Crafted item - add to tree
+                    if (!craftingTree[item]) {
+                        craftingTree[item] = {
+                            totalNeeded: 0,
+                            craftedAt: recipe.crafted_at,
+                            tier: recipe.tier,
+                            category: recipe.category,
+                            ingredients: {}
+                        };
+                    }
                     
-                    craftingSteps.push({
-                        item,
-                        quantity,
-                        recipe,
-                        ingredients: Object.entries(ingredients).map(([mat, amt]) => ({
-                            material: mat,
-                            amount: amt * quantity,
-                            isAvailable: checkItemAvailability(mat, currentMap)
-                        }))
-                    });
+                    craftingTree[item].totalNeeded += quantity;
                     
-                    Object.entries(ingredients).forEach(([material, amount]) => {
+                    // Process ingredients
+                    Object.entries(recipe.ingredients).forEach(([material, amount]) => {
                         const totalAmount = amount * quantity;
-                        const matRecipe = recipes[material];
                         
-                        if (matRecipe && Object.keys(matRecipe.ingredients || {}).length > 0) {
-                            processItem(material, totalAmount);
-                        } else {
-                            rawMaterials[material] = (rawMaterials[material] || 0) + totalAmount;
+                        if (!craftingTree[item].ingredients[material]) {
+                            craftingTree[item].ingredients[material] = 0;
                         }
+                        craftingTree[item].ingredients[material] += totalAmount;
+                        
+                        // Recursively process this material
+                        buildCraftingTree(material, totalAmount, [...path, item]);
                     });
                 };
 
+                // Build the tree for all cart items
                 Object.entries(shoppingCart).forEach(([item, details]) => {
-                    processItem(item, details.quantity);
+                    buildCraftingTree(item, details.quantity);
                 });
 
                 setResults({
-                    type: 'detailed',
-                    craftingSteps,
+                    type: 'hierarchical',
+                    craftingTree,
                     rawMaterials,
                     cartItems: shoppingCart
                 });
@@ -1250,96 +1210,195 @@
                     }, `❌ ${results.message}`);
                 }
                 
-                if (results.type === 'detailed') {
+                if (results.type === 'hierarchical') {
                     const getTierColor = (tier) => {
-                        const colors = {0: "#888", 1: "#4ecdc4", 2: "#45b7d1", 3: "#f39c12", 4: "#e74c3c"};
-                        return colors[tier] || "#4ecdc4";
+                        switch(tier) {
+                            case 0: return "#888";
+                            case 1: return "#4ecdc4";
+                            case 2: return "#45b7d1";
+                            case 3: return "#f39c12";
+                            case 4: return "#e74c3c";
+                            default: return "#4ecdc4";
+                        }
                     };
 
-                    return React.createElement('div', { className: 'results-panel' }, [
-                        React.createElement('div', { className: 'results-title', key: 'title' }, 
-                            '🧮 Crafting Recipe & Requirements'
-                        ),
+                    const renderCraftingStep = (item, data, depth = 0, parentKey = '') => {
+                        const recipe = recipes[item];
+                        const isAvailable = checkItemAvailability(item, currentMap);
+                        const indent = depth * 20;
+                        const itemKey = parentKey ? `${parentKey}-${item}` : item;
                         
-                        React.createElement('div', { key: 'steps' }, [
-                            React.createElement('h4', {
-                                key: 'steps-title',
+                        return React.createElement('div', {
+                            key: `${item}-${depth}`,
+                            style: {
+                                marginLeft: `${indent}px`,
+                                marginBottom: '8px',
+                                padding: '12px',
+                                background: depth === 0 ? 'rgba(0, 212, 255, 0.1)' : 
+                                           depth === 1 ? 'rgba(255, 255, 255, 0.05)' : 
+                                           'rgba(255, 255, 255, 0.02)',
+                                border: `1px solid ${depth === 0 ? 'rgba(0, 212, 255, 0.3)' : 'rgba(255, 255, 255, 0.1)'}`,
+                                borderRadius: '8px',
+                                borderLeft: `4px solid ${getTierColor(recipe?.tier || 0)}`
+                            }
+                        }, [
+                            React.createElement('div', {
+                                key: 'header',
                                 style: {
-                                    color: '#00d4ff',
-                                    fontSize: '14px',
-                                    marginBottom: '15px',
-                                    fontWeight: '600'
+                                    display: 'flex',
+                                    justifyContent: 'space-between',
+                                    alignItems: 'center',
+                                    marginBottom: Object.keys(data.ingredients || {}).length > 0 ? '8px' : '0'
                                 }
-                            }, '📋 Crafting Steps:'),
-                            ...results.craftingSteps.map((step, index) => 
+                            }, [
                                 React.createElement('div', {
-                                    key: index,
-                                    className: 'recipe-step',
-                                    style: {
-                                        borderLeftColor: getTierColor(step.recipe.tier)
-                                    }
+                                    key: 'left-content',
+                                    style: { display: 'flex', alignItems: 'center', gap: '8px' }
                                 }, [
-                                    React.createElement('div', { className: 'recipe-step-header', key: 'header' }, [
-                                        React.createElement('div', { key: 'name' }, [
-                                            React.createElement('div', { className: 'recipe-item-name', key: 'item' },
-                                                `${step.quantity}x ${step.item}`
-                                            ),
-                                            React.createElement('div', { className: 'recipe-item-meta', key: 'meta' },
-                                                `${step.recipe.crafted_at} • Tier ${step.recipe.tier}`
-                                            )
-                                        ])
-                                    ]),
-                                    step.ingredients.length > 0 && React.createElement('div', {
-                                        key: 'ingredients',
-                                        className: 'ingredients-list'
-                                    }, step.ingredients.map((ing, i) =>
-                                        React.createElement('div', {
-                                            key: i,
-                                            className: 'ingredient-item'
-                                        }, [
-                                            React.createElement('span', { 
-                                                className: 'ingredient-name', 
-                                                key: 'name',
-                                                style: { color: ing.isAvailable ? '#ffffff' : '#ff6b6b' }
-                                            }, `${ing.isAvailable ? '✅' : '❌'} ${ing.material}`),
-                                            React.createElement('span', { 
-                                                className: 'ingredient-amount', 
-                                                key: 'amount' 
-                                            }, `${ing.amount}x`)
-                                        ])
-                                    ))
-                                ])
-                            )
-                        ]),
+                                    React.createElement('span', {
+                                        key: 'name',
+                                        style: {
+                                            fontWeight: depth === 0 ? '700' : '600',
+                                            color: isAvailable ? '#ffffff' : '#ff6b6b',
+                                            fontSize: depth === 0 ? '14px' : '13px'
+                                        }
+                                    }, `${isAvailable ? '✅' : '❌'} ${data.totalNeeded}x ${item}`)
+                                ]),
+                                React.createElement('span', {
+                                    key: 'info',
+                                    style: {
+                                        fontSize: '11px',
+                                        color: '#b0b3b8'
+                                    }
+                                }, `${recipe?.crafted_at || 'Raw'} • T${recipe?.tier || 0}`)
+                            ]),
+                            Object.keys(data.ingredients || {}).length > 0 && React.createElement('div', {
+                                key: 'ingredients',
+                                style: { marginLeft: '10px', marginTop: '8px' }
+                            }, Object.entries(data.ingredients).map(([ingredient, amount]) => {
+                                const ingredientData = results.craftingTree[ingredient];
+                                if (ingredientData) {
+                                    return renderCraftingStep(ingredient, ingredientData, depth + 1, itemKey);
+                                } else {
+                                    // Raw material
+                                    const isRawAvailable = MAP_RESOURCES[currentMap]?.includes(ingredient);
+                                    const rawKey = `${itemKey}-${ingredient}`;
+                                    
+                                    return React.createElement('div', {
+                                        key: ingredient,
+                                        style: {
+                                            marginLeft: `${(depth + 1) * 20}px`,
+                                            marginBottom: '4px',
+                                            padding: '6px 10px',
+                                            background: 'rgba(255, 255, 255, 0.02)',
+                                            border: '1px solid rgba(255, 255, 255, 0.05)',
+                                            borderRadius: '6px',
+                                            fontSize: '12px',
+                                            color: isRawAvailable ? '#ffffff' : '#ff6b6b',
+                                            borderLeft: '3px solid #888',
+                                            display: 'flex',
+                                            alignItems: 'center',
+                                            justifyContent: 'space-between'
+                                        }
+                                    }, [
+                                        React.createElement('span', {
+                                            key: 'raw-text'
+                                        }, `${isRawAvailable ? '✅' : '❌'} ${ingredient}`),
+                                        React.createElement('span', {
+                                            key: 'raw-amount',
+                                            style: {
+                                                color: '#00d4ff',
+                                                fontWeight: '700',
+                                                fontSize: '11px'
+                                            }
+                                        }, `${amount}x`)
+                                    ]);
+                                }
+                            }))
+                        ]);
+                    };
 
-                        React.createElement('div', { key: 'raw', style: { marginTop: '20px' } }, [
+                    const unavailableRawMaterials = Object.keys(results.rawMaterials).filter(material => 
+                        !MAP_RESOURCES[currentMap]?.includes(material)
+                    );
+                    
+                    return React.createElement('div', { className: 'results-panel' }, [
+                        React.createElement('div', { 
+                            className: 'results-title', 
+                            key: 'title',
+                            style: { display: 'flex', justifyContent: 'space-between', alignItems: 'center' }
+                        }, React.createElement('span', { key: 'title-text' }, '🧮 Complete Crafting Breakdown')),
+                        
+                        // Target items from cart
+                        React.createElement('div', {
+                            key: 'targets',
+                            style: { marginBottom: '20px' }
+                        }, [
                             React.createElement('h4', {
-                                key: 'raw-title',
-                                style: {
-                                    color: '#00d4ff',
-                                    fontSize: '14px',
+                                key: 'targets-title',
+                                style: { 
+                                    color: '#00d4ff', 
+                                    fontSize: '14px', 
                                     marginBottom: '10px',
                                     fontWeight: '600'
                                 }
-                            }, '⛏️ Total Raw Materials:'),
+                            }, '🎯 Crafting Steps:'),
+                            ...Object.entries(results.cartItems).map(([item, details]) => {
+                                const craftingData = results.craftingTree[item];
+                                if (craftingData) {
+                                    return renderCraftingStep(item, craftingData, 0);
+                                }
+                                return null;
+                            }).filter(Boolean)
+                        ]),
+
+                        // Raw materials summary
+                        React.createElement('div', {
+                            key: 'raw-summary'
+                        }, [
+                            React.createElement('h4', {
+                                key: 'raw-title',
+                                style: { 
+                                    color: '#00d4ff', 
+                                    fontSize: '14px', 
+                                    marginBottom: '10px',
+                                    fontWeight: '600'
+                                }
+                            }, '⛏️ Total Raw Materials Summary:'),
                             ...Object.entries(results.rawMaterials).map(([material, amount]) => {
                                 const isAvailable = MAP_RESOURCES[currentMap]?.includes(material);
+                                
                                 return React.createElement('div', { 
                                     key: material, 
-                                    className: 'resource-item'
+                                    className: 'resource-item',
+                                    style: { 
+                                        opacity: isAvailable ? 1 : 0.6
+                                    }
                                 }, [
                                     React.createElement('span', { 
                                         className: 'resource-name', 
-                                        key: 'name',
-                                        style: { color: isAvailable ? '#ffffff' : '#ff6b6b' }
+                                        key: 'name'
                                     }, `${isAvailable ? '✅' : '❌'} ${material}`),
                                     React.createElement('span', { 
                                         className: 'resource-amount', 
-                                        key: 'amount' 
+                                        key: 'amount'
                                     }, `${amount}x`)
-                                ]);
+                                ])
                             })
-                        ])
+                        ]),
+
+                        unavailableRawMaterials.length > 0 && React.createElement('div', {
+                            key: 'warning',
+                            style: {
+                                marginTop: '15px',
+                                padding: '10px',
+                                background: 'rgba(255, 107, 107, 0.1)',
+                                border: '1px solid rgba(255, 107, 107, 0.3)',
+                                borderRadius: '8px',
+                                fontSize: '12px',
+                                color: '#ff6b6b'
+                            }
+                        }, `⚠️ ${unavailableRawMaterials.length} materials not available on ${currentMap}`)
                     ]);
                 }
                 
