@@ -1,0 +1,21 @@
+{
+  "name": "Medicine Bench",
+  "url": "https://icarus.fandom.com/wiki/Medicine_Bench",
+  "description": "Allows for the crafting ofMedicinal Pastes and Tonicssuch asAntibiotic Pill,Survival KitsandHealth Recovery Elixirto cure and prevent ailments and afflictions. It can also be used to craftVolatile SubstanceandFertilizer.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "1.0kg",
+    "durability": "750"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
+}

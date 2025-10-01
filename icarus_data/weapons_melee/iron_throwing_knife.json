@@ -1,0 +1,17 @@
+{
+  "name": "Iron Throwing Knife",
+  "url": "https://icarus.fandom.com/wiki/Iron_Throwing_Knife",
+  "description": "The Iron Throwing Knife is a variant of theIron Knifethat can be thrown. Unlike theIron Knife, the Iron Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "damage": "41 - 48",
+    "weight": "0.2 kg"
+  },
+  "category": "throwing knives",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

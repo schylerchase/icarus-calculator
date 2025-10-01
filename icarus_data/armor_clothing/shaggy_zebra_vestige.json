@@ -1,0 +1,18 @@
+{
+  "name": "Shaggy Zebra Vestige",
+  "url": "https://icarus.fandom.com/wiki/Shaggy_Zebra_Vestige",
+  "description": "Shaggy Zebra Vestiges are used at theTrophy Benchto create aShaggy Zebra Trophy, which can help prospectors complete theBestiary.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "animal resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

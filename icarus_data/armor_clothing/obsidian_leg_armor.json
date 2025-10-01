@@ -1,0 +1,26 @@
+{
+  "name": "Obsidian Leg Armor",
+  "url": "https://icarus.fandom.com/wiki/Obsidian_Leg_Armor",
+  "description": "Obsidian Armor is a sidegrade ofComposite Armor, providing slightly more physical resistance and a substantial bonus to heat resistance.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "1.0 kg",
+    "durability": "6,000"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Platinum Weave": 12,
+      "Composites": 2,
+      "Steel Screw": 3,
+      "Shaped Obsidian": 12
+    },
+    "crafted_at": "Electric Textiles Bench"
+  }
+}

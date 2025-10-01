@@ -1,0 +1,23 @@
+{
+  "name": "Cloth Chest Armor",
+  "url": "https://icarus.fandom.com/wiki/Cloth_Chest_Armor",
+  "description": "Cloth Armor, while not being very protective in a fight, provides relatively good protection from the heat in deserts. It also makes traveling slightly quicker.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {
+    "weight": "0.75 kg",
+    "durability": "1,000"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 120
+    },
+    "crafted_at": "Character"
+  }
+}

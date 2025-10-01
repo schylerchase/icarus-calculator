@@ -1,0 +1,21 @@
+{
+  "name": "Cured Leather",
+  "url": "https://icarus.fandom.com/wiki/Cured_Leather",
+  "description": "Cured Leather is a crafted resource used in variousTier 3ArmorsandTools. Below is a list of armors that use Cured Leather:",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Leather": 6,
+      "Tree Sap": 2
+    },
+    "crafted_at": "Crafted at\n Drying Rack Smoker Advanced Textiles Bench"
+  }
+}

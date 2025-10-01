@@ -1,0 +1,20 @@
+{
+  "name": "Elegant Curtain Door",
+  "url": "https://icarus.fandom.com/wiki/Elegant_Curtain_Door",
+  "description": "The Elegant Curtain Door is a luxury decorative covering for a doorway.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "1.0 Kg"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Advanced Textiles Bench"
+  }
+}

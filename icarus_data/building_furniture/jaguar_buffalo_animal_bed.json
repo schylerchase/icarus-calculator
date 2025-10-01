@@ -1,0 +1,26 @@
+{
+  "name": "Jaguar Buffalo Animal Bed",
+  "url": "https://icarus.fandom.com/wiki/Jaguar_Buffalo_Animal_Bed",
+  "description": "The Jaguar Buffalo Animal Bed is a bed forMountsandPetsthat has a Jaguar and Buffalo theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.5 Kg",
+    "durability": "1,000"
+  },
+  "category": "animal bed",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Cured Leather": 10,
+      "Fur": 35,
+      "Jaguar Vestige": 1,
+      "Buffalo Vestige": 1
+    },
+    "crafted_at": "Ranching Station"
+  }
+}

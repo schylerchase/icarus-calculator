@@ -1,0 +1,26 @@
+{
+  "name": "Snare Trap",
+  "url": "https://icarus.fandom.com/wiki/Snare_Trap",
+  "description": "The Snare Trap is a deployable item used to trap and tame certain animals on Icarus. It must be filled with suitableAnimal Baitand placed in an area to attract the desired animal.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "2.5 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 4,
+      "Stick": 8,
+      "Rope": 2,
+      "Stone": 4
+    },
+    "crafted_at": "Craft Baits at the Ranching Station"
+  }
+}

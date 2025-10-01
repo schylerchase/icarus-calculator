@@ -1,0 +1,24 @@
+{
+  "name": "Electric Extractor",
+  "url": "https://icarus.fandom.com/wiki/Electric_Extractor",
+  "description": "The Electric Extractor is used to extractExoticsfrom Exotic Deposits. A connection providing at least 1,500 units ofpoweris required.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "2.0 Kg",
+    "durability": "2,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 20,
+      "Electronics": 5
+    },
+    "crafted_at": "Fabricator"
+  }
+}

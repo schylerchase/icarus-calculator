@@ -1,0 +1,18 @@
+{
+  "name": "Carbon Fiber",
+  "url": "https://icarus.fandom.com/wiki/Carbon_Fiber",
+  "description": "While being aTier 3component, Carbon Fiber is only used to makeCarbon Arrows, theCarbon Spear/Javelin, and theCarbon Fibre Round Shieldin the Tier 3 Tech Tree; however, it is a critical component widely used inTier 4crafting.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Concrete Furnace"
+  }
+}

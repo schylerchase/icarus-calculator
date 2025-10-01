@@ -1,0 +1,24 @@
+{
+  "name": "Sandworm Trophy",
+  "url": "https://icarus.fandom.com/wiki/Sandworm_Trophy",
+  "description": "The Sandworm Trophy is a decorative deployable that can be placed on a wall to display the head of a once mightySandworm.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "5.0 Kg",
+    "durability": "2000"
+  },
+  "category": "trophies",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Refined Wood": 30,
+      "Sandworm Vestige": 1
+    },
+    "crafted_at": "Crafted At\n Trophy Bench"
+  }
+}

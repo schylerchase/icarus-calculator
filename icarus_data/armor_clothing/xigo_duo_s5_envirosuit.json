@@ -1,0 +1,18 @@
+{
+  "name": "Xigo \"Duo\" S5 Envirosuit",
+  "url": "https://icarus.fandom.com/wiki/Xigo_%22Duo%22_S5_Envirosuit",
+  "description": "The Xigo \"Duo\" S5 Envirosuit is purchased in theWorkshopon theSpace Station.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "envirosuits",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

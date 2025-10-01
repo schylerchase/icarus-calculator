@@ -1,0 +1,20 @@
+{
+  "name": "Inaris \"Rouge\" Arrow",
+  "url": "https://icarus.fandom.com/wiki/Inaris_%22Rouge%22_Arrow",
+  "description": "The Inaris \"Rouge\" Arrow is ammunition used with aBow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. The elemental damage dealt by these arrows are not effected by Bow talents.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.05 kg"
+  },
+  "category": "arrows",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Stone Ramp",
+  "url": "https://icarus.fandom.com/wiki/Stone_Ramp",
+  "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "<unkown>",
+    "durability": "<unkown>"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Masonry Bench"
+  }
+}

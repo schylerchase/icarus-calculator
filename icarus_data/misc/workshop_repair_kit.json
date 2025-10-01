@@ -1,0 +1,18 @@
+{
+  "name": "Workshop Repair Kit",
+  "url": "https://icarus.fandom.com/wiki/Workshop_Repair_Kit",
+  "description": "The Workshop Repair Kit is obtained by purchasing aWorkshop Repair Kit Bundlefrom theWorkshopon theSpace Stationand consuming the bundle. Workshop Repair Kits can be used to repair Workshop Items at a poweredRepair Bench.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "miscellaneous",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

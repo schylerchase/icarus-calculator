@@ -1,0 +1,18 @@
+{
+  "name": "Potato and Carrot Fries",
+  "url": "https://icarus.fandom.com/wiki/Potato_and_Carrot_Fries",
+  "description": "Potato and Carrot Fries is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Carved Wood Nightstand",
+  "url": "https://icarus.fandom.com/wiki/Carved_Wood_Nightstand",
+  "description": "The Carved Wood Nightstand is a decorative nightstand with 10 inventory slots. It has five build variants available by using the 'R' key when deploying.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Carpentry Bench"
+  }
+}

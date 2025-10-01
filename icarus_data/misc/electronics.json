@@ -1,0 +1,23 @@
+{
+  "name": "Electronics",
+  "url": "https://icarus.fandom.com/wiki/Electronics",
+  "description": "Electronics are used in a variety of high-end buildings and components.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Gold Wire": 5,
+      "Copper Wire": 15,
+      "Organic Resin": 2,
+      "Epoy": 2
+    },
+    "crafted_at": "Machining Bench"
+  }
+}

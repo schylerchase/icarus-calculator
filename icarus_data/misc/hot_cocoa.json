@@ -1,0 +1,18 @@
+{
+  "name": "Hot Cocoa",
+  "url": "https://icarus.fandom.com/wiki/Hot_Cocoa",
+  "description": "Mid-game warm beverage made by combining a filledLiquid Containersuch as aThermosandCocoa Seeds.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "drinks",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

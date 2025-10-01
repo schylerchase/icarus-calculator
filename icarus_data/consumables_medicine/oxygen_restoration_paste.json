@@ -1,0 +1,22 @@
+{
+  "name": "Oxygen Restoration Paste",
+  "url": "https://icarus.fandom.com/wiki/Oxygen_Restoration_Paste",
+  "description": "In-game description:An organic co-factor that rapidly restores oxygen.In-game flavor text:Helper molecule",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Sponge": 1,
+      "Charcoal": 2,
+      "Oite": 2
+    },
+    "crafted_at": "Unknown"
+  }
+}

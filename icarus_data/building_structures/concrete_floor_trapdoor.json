@@ -1,0 +1,22 @@
+{
+  "name": "Concrete Floor Trapdoor",
+  "url": "https://icarus.fandom.com/wiki/Concrete_Floor_Trapdoor",
+  "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Steel Rebar": 10,
+      "Concrete Mi": 4,
+      "Steel Screw": 4
+    },
+    "crafted_at": "Machining Bench"
+  }
+}

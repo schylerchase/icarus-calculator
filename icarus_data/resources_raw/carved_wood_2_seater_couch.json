@@ -1,0 +1,21 @@
+{
+  "name": "Carved Wood 2-Seater Couch",
+  "url": "https://icarus.fandom.com/wiki/Carved_Wood_2-Seater_Couch",
+  "description": "The Carved Wood 2-Seater Couch is a decorative item.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Carpentry Bench"
+  }
+}

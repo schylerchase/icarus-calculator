@@ -1,0 +1,18 @@
+{
+  "name": "Obsidian Sledgehammer",
+  "url": "https://icarus.fandom.com/wiki/Obsidian_Sledgehammer",
+  "description": "Obsidian Sledgehammer is aTier 2Sledgehammermade withShaped Obsidian. Due to the materials required, crafting the item requires the New Frontiers DLC.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "damage": "24 - 32 Melee Damage",
+    "weight": "0.5 Kg",
+    "durability": "60,000"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

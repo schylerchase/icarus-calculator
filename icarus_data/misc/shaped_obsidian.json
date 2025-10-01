@@ -1,0 +1,18 @@
+{
+  "name": "Shaped Obsidian",
+  "url": "https://icarus.fandom.com/wiki/Shaped_Obsidian",
+  "description": "Shaped Obsidian is a refined resource used to craftOrganic Residue Cleansers,Obsidian Armorand a variety of Tools, Weapons, and Ammunition.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Concrete Furnace"
+  }
+}

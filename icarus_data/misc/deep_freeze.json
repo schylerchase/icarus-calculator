@@ -1,0 +1,27 @@
+{
+  "name": "Deep Freeze",
+  "url": "https://icarus.fandom.com/wiki/Deep_Freeze",
+  "description": "The Deep Freeze is a high-tier item and completely stops the spoil timer for items stored inside. It requires 2,500 units ofPowerto keep temperatures below freezing, so a strong power source and consistent stream of electricity are critical.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "25.0 Kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Aluminium Ingot": 20,
+      "Electronics": 15,
+      "Carbon Fiber": 10,
+      "Steel Screw": 15,
+      "Platinum Ingot": 20
+    },
+    "crafted_at": "Fabricator"
+  }
+}

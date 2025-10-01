@@ -1,0 +1,18 @@
+{
+  "name": "Shengong \"Dongtian\" Envirosuit",
+  "url": "https://icarus.fandom.com/wiki/Shengong_%22Dongtian%22_Envirosuit",
+  "description": "The Shengong \"Dongtian\" Envirosuit is purchased in theWorkshopon theSpace Station.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "envirosuits",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

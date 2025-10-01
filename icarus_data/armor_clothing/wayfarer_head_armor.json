@@ -1,0 +1,23 @@
+{
+  "name": "Wayfarer Head Armor",
+  "url": "https://icarus.fandom.com/wiki/Wayfarer_Head_Armor",
+  "description": "Wayfarer Head Armor is a mid-gameTier 3crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "1.0 kg",
+    "durability": "4,500"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Platinum Weave": 4
+    },
+    "crafted_at": "Advanced Textiles Bench"
+  }
+}

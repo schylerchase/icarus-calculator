@@ -1,0 +1,25 @@
+{
+  "name": "Choc-Chip Cookie",
+  "url": "https://icarus.fandom.com/wiki/Choc-Chip_Cookie",
+  "description": "Choc-Chip Cookie is late-gameFoodthat when consumed provides a considerable boost to stamina, charge speed, reload speed and a chance to mine additional stone.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Flour": 2,
+      "Sugar Cubes": 2,
+      "Egg": 1,
+      "Vegetable Oil": 1,
+      "Cocoa Seed": 2,
+      "Water": 2
+    },
+    "crafted_at": "Unknown"
+  }
+}

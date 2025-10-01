@@ -1,0 +1,21 @@
+{
+  "name": "Fruit Salad",
+  "url": "https://icarus.fandom.com/wiki/Fruit_Salad",
+  "description": "Fruit Salad is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wild Berry": 1,
+      "Watermelon": 1
+    },
+    "crafted_at": "Unknown"
+  }
+}

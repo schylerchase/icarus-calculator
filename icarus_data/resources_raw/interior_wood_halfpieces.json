@@ -1,0 +1,21 @@
+{
+  "name": "Interior Wood Halfpieces",
+  "url": "https://icarus.fandom.com/wiki/Interior_Wood_Halfpieces",
+  "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.25 Kg",
+    "durability": "1000"
+  },
+  "category": "interior wood building advanced set",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

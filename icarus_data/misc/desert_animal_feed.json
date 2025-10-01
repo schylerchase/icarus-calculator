@@ -1,0 +1,18 @@
+{
+  "name": "Desert Animal Feed",
+  "url": "https://icarus.fandom.com/wiki/Desert_Animal_Feed",
+  "description": "Desert Animal Feed is anAnimal FeedforPetsorMountswith a uniqueStatus Effect. Can be fed to mounts to satisfyHunger. Desert Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Desert Animal Feed inside anIce BoxorRefrigerator.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "animal feed",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

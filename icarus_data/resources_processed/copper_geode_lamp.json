@@ -1,0 +1,21 @@
+{
+  "name": "Copper Geode Lamp",
+  "url": "https://icarus.fandom.com/wiki/Copper_Geode_Lamp",
+  "description": "The Copper Geode Lamp is a simple low output lamp that does not require fuel to operate but does require water to craft.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.5 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Masonry Bench"
+  }
+}

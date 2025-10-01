@@ -1,0 +1,24 @@
+{
+  "name": "Clay Brick Ramp",
+  "url": "https://icarus.fandom.com/wiki/Clay_Brick_Ramp",
+  "description": "Fired Clay Brick building material providing a more traditional brick aesthetic that is only available on Prometheus.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "2.5 Kg",
+    "durability": "3,500"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Clay Brick": 30,
+      "Tree Sap": 5
+    },
+    "crafted_at": "Unknown"
+  }
+}

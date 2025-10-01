@@ -1,0 +1,21 @@
+{
+  "name": "Art Deco Wall Shelf",
+  "url": "https://icarus.fandom.com/wiki/Art_Deco_Wall_Shelf",
+  "description": "The Art Deco Wall Shelf is an gilded item of significant worth.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "10 Kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
+}

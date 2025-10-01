@@ -1,0 +1,25 @@
+{
+  "name": "Glass Food Trough",
+  "url": "https://icarus.fandom.com/wiki/Glass_Food_Trough",
+  "description": "The Glass Food Trough is a decorative upgrade to theFood Troughand allows multiple creatures to eat from it simultaneously, similar to theLarge Food Trough. Glass Food Troughs benefit from theExtra Space I/Extra Space IItalent.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "3.0 Kg",
+    "durability": "1,500"
+  },
+  "category": "food troughs",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Steel Ingot": 25,
+      "Glass": 30,
+      "Steel Screw": 15
+    },
+    "crafted_at": "Ranching Station"
+  }
+}

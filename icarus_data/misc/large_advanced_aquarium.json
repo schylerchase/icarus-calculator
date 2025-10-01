@@ -1,0 +1,21 @@
+{
+  "name": "Large Advanced Aquarium",
+  "url": "https://icarus.fandom.com/wiki/Large_Advanced_Aquarium",
+  "description": "The Large Advanced Aquarium allows Prospectors to store and display their favorite catches. Fish stored in the Large Advanced Aquarium will not spoil so long as it is connected to a power network providing at least 1,000 units ofPowerand a water network providing at least 750 units ofWater. The Large Advanced Aquarium will not function if these requirements are not met. The Large Advanced Aquarium can store 12 fish.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "5.0 kg",
+    "durability": "2,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Fabricator"
+  }
+}

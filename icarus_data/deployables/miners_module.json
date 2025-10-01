@@ -1,0 +1,18 @@
+{
+  "name": "Miner's Module",
+  "url": "https://icarus.fandom.com/wiki/Miner%27s_Module",
+  "description": "This module is theWorkshopequivalent of theSupplemental Respiration Attachment, with the added damage bonus toCaveworms. It can be researched and crafted on theSpace Stationin theWorkshop. Multiple Miner's Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase benefits received from the modules.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "modules",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

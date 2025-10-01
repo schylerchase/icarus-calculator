@@ -1,0 +1,25 @@
+{
+  "name": "Sandworm Head Armor",
+  "url": "https://icarus.fandom.com/wiki/Sandworm_Head_Armor",
+  "description": "Sandworm Head Armor is made from the scales dropped from aSandworm. Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set ofSandworm Armor.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "0.75 kg",
+    "durability": "6,000"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 40,
+      "Leather": 10,
+      "Sandworm Scale": 10
+    },
+    "crafted_at": "Crafted At\n Advanced Textiles Bench"
+  }
+}

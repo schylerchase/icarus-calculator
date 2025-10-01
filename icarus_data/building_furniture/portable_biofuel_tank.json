@@ -1,0 +1,21 @@
+{
+  "name": "Portable Biofuel Tank",
+  "url": "https://icarus.fandom.com/wiki/Portable_Biofuel_Tank",
+  "description": "Portable Biofuel Tank is used forBiofuelstorage. It is either filled at theBiofuel ComposterorElectric Composter.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "150.0 Kg",
+    "durability": "100"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Fabricator"
+  }
+}

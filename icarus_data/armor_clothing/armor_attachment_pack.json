@@ -1,0 +1,20 @@
+{
+  "name": "Armor Attachment Pack",
+  "url": "https://icarus.fandom.com/wiki/Armor_Attachment_Pack",
+  "description": "Armor Attachment Pack is aTier 3Techneeded for theAlteration Benchthat allows Prospectors to alter their armor pieces withAttachment Packs.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "1.0 kg"
+  },
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted at\n Alteration Bench"
+  }
+}

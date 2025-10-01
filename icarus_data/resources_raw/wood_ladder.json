@@ -1,0 +1,24 @@
+{
+  "name": "Wood Ladder",
+  "url": "https://icarus.fandom.com/wiki/Wood_Ladder",
+  "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Wood Ladders can be use with Trapdoor holes (hold R while holding a floor building piece and select the Trapdoor variant from the radial wheel). Does not snap to trapdoor holes.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.1 kg",
+    "durability": "250"
+  },
+  "category": "wood building trim set",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 6,
+      "Wood": 10
+    },
+    "crafted_at": "Unknown"
+  }
+}

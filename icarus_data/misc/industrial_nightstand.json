@@ -1,0 +1,21 @@
+{
+  "name": "Industrial Nightstand",
+  "url": "https://icarus.fandom.com/wiki/Industrial_Nightstand",
+  "description": "A minimalist Industrial Nightstand",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "10 Kg",
+    "durability": "750"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
+}

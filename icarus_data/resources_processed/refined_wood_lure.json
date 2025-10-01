@@ -1,0 +1,25 @@
+{
+  "name": "Refined Wood Lure",
+  "url": "https://icarus.fandom.com/wiki/Refined_Wood_Lure",
+  "description": "The Refined Wood Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Refined Wood Lure degrades with use and will eventually break after ten uses.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "0.25 Kg",
+    "durability": "100"
+  },
+  "category": "lures",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Refined Wood": 2,
+      "Copper Nail": 2,
+      "Organic Resin": 2
+    },
+    "crafted_at": "Fishing Bench"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Water Consumption Paste",
+  "url": "https://icarus.fandom.com/wiki/Water_Consumption_Paste",
+  "description": "In-game description:A natural preparation, temporarily reducing the body's need for water.In-game flavor text:The key word here is 'temporarily'.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Sponge": 1,
+      "Charcoal": 2,
+      "Reed Flower": 4
+    },
+    "crafted_at": "Unknown"
+  }
+}

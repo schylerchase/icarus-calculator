@@ -1,0 +1,17 @@
+{
+  "name": "MXC Hammer",
+  "url": "https://icarus.fandom.com/wiki/MXC_Hammer",
+  "description": "Hammers are used to repairBuilding PiecesandDeployables. Hammers are also used to upgradeBuilding Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.1 kg",
+    "durability": "30,000"
+  },
+  "category": "hammers",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

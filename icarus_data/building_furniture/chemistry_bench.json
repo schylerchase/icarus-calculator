@@ -1,0 +1,27 @@
+{
+  "name": "Chemistry Bench",
+  "url": "https://icarus.fandom.com/wiki/Chemistry_Bench",
+  "description": "Grants the Prospector the ability to swiftly createMedicine,Fertilizer,Volatile SubstanceandDistilled Miasmic Coating.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "20.0 kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Steel Ingot": 20,
+      "Refined Wood": 30,
+      "Electronics": 20,
+      "Composites": 10,
+      "Glass": 10
+    },
+    "crafted_at": "Fabricator"
+  }
+}

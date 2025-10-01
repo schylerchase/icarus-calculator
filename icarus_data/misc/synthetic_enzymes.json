@@ -1,0 +1,22 @@
+{
+  "name": "Synthetic Enzymes",
+  "url": "https://icarus.fandom.com/wiki/Synthetic_Enzymes",
+  "description": "Synthetic Enzymes are a crafted variant ofCondensed Enzymesthat can be used as fuel in aLocalized Terraforming Device. UnlikeCondensed Enzymes, the synthetic version is less potent as a fuel but does not require constructing, placing or defending aVapor Condenseron anEnzyme Geyser.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Organic Resin": 1,
+      "Spoiled Meat": 2,
+      "Charcoal": 2
+    },
+    "crafted_at": "Crafted at\n Chemistry Bench"
+  }
+}

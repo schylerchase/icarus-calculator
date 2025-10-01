@@ -1,0 +1,26 @@
+{
+  "name": "Wood Shield",
+  "url": "https://icarus.fandom.com/wiki/Wood_Shield",
+  "description": "The Wood Shield is crafted at the Anvil, Forge, or Foundry with the following resources:",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.5 kg",
+    "durability": "1,250"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 15,
+      "Fiber": 20,
+      "Leather": 5,
+      "Iron Ingot": 3
+    },
+    "crafted_at": "Anvil Bench"
+  }
+}

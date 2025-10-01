@@ -1,0 +1,18 @@
+{
+  "name": "Raw Gamey Meat",
+  "url": "https://icarus.fandom.com/wiki/Raw_Gamey_Meat",
+  "description": "Raw Gamey Meat can be obtained by Skinning animals with aKnife. Eating Raw Gamey Meat will replenishHealththere is a possibility of negativeStatus Effectswhen doing so. It is better toCookfirst before eating.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

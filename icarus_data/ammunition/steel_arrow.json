@@ -1,0 +1,25 @@
+{
+  "name": "Steel Arrow",
+  "url": "https://icarus.fandom.com/wiki/Steel_Arrow",
+  "description": "The Steel Arrow is ammunition used with aBow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "damage": "+20% Critical Damage",
+    "weight": "0.01 kg"
+  },
+  "category": "arrows",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Epoy": 0.2,
+      "Stick": 1,
+      "Steel Ingot": 0.2
+    },
+    "crafted_at": "Anvil Bench"
+  }
+}

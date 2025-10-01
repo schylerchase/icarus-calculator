@@ -1,0 +1,21 @@
+{
+  "name": "Bread Dough",
+  "url": "https://icarus.fandom.com/wiki/Bread_Dough",
+  "description": "Bread Dough is the precursor to the mid/late-gameFoodBread. Bread Dough will eventually decay, but can be preserved in anIce Box,Refrigerator, orDeep Freeze.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Flour": 5,
+      "Yeast": 1
+    },
+    "crafted_at": "Mortar and Pestle"
+  }
+}

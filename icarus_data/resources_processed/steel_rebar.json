@@ -1,0 +1,18 @@
+{
+  "name": "Steel Rebar",
+  "url": "https://icarus.fandom.com/wiki/Steel_Rebar",
+  "description": "Steel Rebar is a critical component ofConcrete Structures, and is solely used for this purpose.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
+}

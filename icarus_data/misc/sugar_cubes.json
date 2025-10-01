@@ -1,0 +1,20 @@
+{
+  "name": "Sugar Cubes",
+  "url": "https://icarus.fandom.com/wiki/Sugar_Cubes",
+  "description": "Sugar Cubes are an intermediate crafting resource produced by processingSugar Canein aMortar and Pestleor aMaterial Processor",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Sugar Cane": 5
+    },
+    "crafted_at": "Mortar and Pestle"
+  }
+}

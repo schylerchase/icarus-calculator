@@ -1,0 +1,21 @@
+{
+  "name": "Stone Furnace",
+  "url": "https://icarus.fandom.com/wiki/Stone_Furnace",
+  "description": "The Stone Furnace is used for smelting metals such asIron Ore,Copper Ore, orSteel Bloom. Will take damage in storms if left un-sheltered.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "30 kg",
+    "durability": "1,000"
+  },
+  "category": "craftingdeployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafting Bench"
+  }
+}

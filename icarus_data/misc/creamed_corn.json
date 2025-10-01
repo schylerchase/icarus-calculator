@@ -1,0 +1,18 @@
+{
+  "name": "Creamed Corn",
+  "url": "https://icarus.fandom.com/wiki/Creamed_Corn",
+  "description": "Creamed Corn is aFoodthat satisfiesHunger. It provides the uniqueStatus Effect,Creamed Corn, which increases maximumHealthandStaminaand reduces the Stamina consumed by actions.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

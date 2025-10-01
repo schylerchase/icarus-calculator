@@ -1,0 +1,25 @@
+{
+  "name": "Large Water Trough",
+  "url": "https://icarus.fandom.com/wiki/Large_Water_Trough",
+  "description": "The Large Water Trough is an upgrade to theWater Troughthat allows multiple creatures to drink from it simultaneously and can be connected toWaterusing aWater Pipe Tool. The Large Water Trough can only store water and cannot provide water to the rest of the network likeWater BarrelsorMetal Rain Reservoirs.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "3.0 Kg",
+    "durability": "1,500"
+  },
+  "category": "water troughs",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 80,
+      "Tree Sap": 12,
+      "Iron Nail": 32
+    },
+    "crafted_at": "Ranching Station"
+  }
+}

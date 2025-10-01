@@ -1,0 +1,18 @@
+{
+  "name": "Sandworm Bow",
+  "url": "https://icarus.fandom.com/wiki/Sandworm_Bow",
+  "description": "The Sandworm Bow is made with scales from theSandworm, using arrows and talents interchangeably with other bows.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "damage": "+75% Projectile Damage",
+    "weight": "1.0 kg",
+    "durability": "15,000"
+  },
+  "category": "bows",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

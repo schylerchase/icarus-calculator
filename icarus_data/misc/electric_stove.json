@@ -1,0 +1,21 @@
+{
+  "name": "Electric Stove",
+  "url": "https://icarus.fandom.com/wiki/Electric_Stove",
+  "description": "The Electric Stove is a late-game technology that provides a more robust cooking experience and expands the recipes available compared to theBiofuel Stove. It requires 1,000 units ofPowerto function and must be snapped to a side of aMarble Kitchen BenchorKitchen Bench.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "20.0 kg",
+    "durability": "750"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Fabricator"
+  }
+}

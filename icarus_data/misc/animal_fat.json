@@ -1,0 +1,20 @@
+{
+  "name": "Animal Fat",
+  "url": "https://icarus.fandom.com/wiki/Animal_Fat",
+  "description": "Animal fat is produced from the rendering down of raw meat and is used inCookingto make late-gameFoodssuch asPastry,Fried Chunky Vegetablesand,Freshwater Fillet Curry. It is used to create and power theLantern.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Raw Meat": 1
+    },
+    "crafted_at": "Crafted at\n Cooking Station Kitchen Bench"
+  }
+}

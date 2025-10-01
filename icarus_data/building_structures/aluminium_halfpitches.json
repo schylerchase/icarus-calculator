@@ -1,0 +1,21 @@
+{
+  "name": "Aluminium Halfpitches",
+  "url": "https://icarus.fandom.com/wiki/Aluminium_Halfpitches",
+  "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with aRepair Hammer.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "<unknown>",
+    "durability": "<unknown>"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
+}

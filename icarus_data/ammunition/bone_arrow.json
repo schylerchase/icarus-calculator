@@ -1,0 +1,25 @@
+{
+  "name": "Bone Arrow",
+  "url": "https://icarus.fandom.com/wiki/Bone_Arrow",
+  "description": "The Bone Arrow is ammunition used with aBow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {
+    "damage": "+10% Critical Damage",
+    "weight": "0.01 kg"
+  },
+  "category": "arrows",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Stick": 1,
+      "Leather": 1,
+      "Bone": 5
+    },
+    "crafted_at": "Character"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "MXC Pickaxe",
+  "url": "https://icarus.fandom.com/wiki/MXC_Pickaxe",
+  "description": "The MXC Pickaxe is the workshop equivalent of aStone Pickaxe, providing a minor boost to mining yield and efficiency.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "damage": "33 - 35 Melee Damage",
+    "weight": "0.1 kg",
+    "durability": "30,000"
+  },
+  "category": "pickaxes",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

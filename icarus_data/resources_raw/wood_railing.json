@@ -1,0 +1,24 @@
+{
+  "name": "Wood Railing",
+  "url": "https://icarus.fandom.com/wiki/Wood_Railing",
+  "description": "The Wood Railing is part of theWood Building Trim Set, which is learned in theTier 1Tech Tree after unlocking theWood Building Base Set.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "1.0 kg",
+    "durability": "250"
+  },
+  "category": "wood building trim set",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 8,
+      "Wood": 8
+    },
+    "crafted_at": "Unknown"
+  }
+}

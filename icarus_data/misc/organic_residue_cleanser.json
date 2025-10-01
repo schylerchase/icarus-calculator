@@ -1,0 +1,21 @@
+{
+  "name": "Organic Residue Cleanser",
+  "url": "https://icarus.fandom.com/wiki/Organic_Residue_Cleanser",
+  "description": "The Organic Residue Cleanser is aTier 4deployable cleaning device used to clean and processVolatile Raw Exotics, frozen and infected materials and organic materials collected from world bosess.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "2.5 kg",
+    "durability": "2,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Fabricator"
+  }
+}

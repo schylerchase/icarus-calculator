@@ -1,0 +1,21 @@
+{
+  "name": "Brutalist Sitting Bench",
+  "url": "https://icarus.fandom.com/wiki/Brutalist_Sitting_Bench",
+  "description": "The Brutalist Sitting Bench is made soley from concrete and seats two prospectors.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "10 Kg",
+    "durability": "1000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
+}

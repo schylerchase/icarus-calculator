@@ -1,0 +1,21 @@
+{
+  "name": "Small Iron Crate",
+  "url": "https://icarus.fandom.com/wiki/Small_Iron_Crate",
+  "description": "A Small Iron Crate, use it to safely store valuable resources. Unlike theSmall Wood Crate, it does not require shelter and can be placed outside (immune to storm damage).",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "3.0 kg",
+    "durability": "750"
+  },
+  "category": "deployables:storage containers",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Iron Lure",
+  "url": "https://icarus.fandom.com/wiki/Iron_Lure",
+  "description": "The Iron Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. Like allLures, the Iron Lure degrades with use and will eventually break after ten uses.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "0.25 Kg",
+    "durability": "100"
+  },
+  "category": "lures",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 2,
+      "Iron Nail": 2,
+      "Rope": 2
+    },
+    "crafted_at": "Fishing Bench"
+  }
+}

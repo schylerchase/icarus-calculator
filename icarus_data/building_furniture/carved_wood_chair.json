@@ -1,0 +1,21 @@
+{
+  "name": "Carved Wood Chair",
+  "url": "https://icarus.fandom.com/wiki/Carved_Wood_Chair",
+  "description": "The Carved Wood Chair is a decorative chair of two varieties, select R when deploying.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Carpentry Bench"
+  }
+}

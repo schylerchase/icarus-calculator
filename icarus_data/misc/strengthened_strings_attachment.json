@@ -1,0 +1,20 @@
+{
+  "name": "Strengthened Strings Attachment",
+  "url": "https://icarus.fandom.com/wiki/Strengthened_Strings_Attachment",
+  "description": "Strengthened Strings Attachment is a mid-to-end game item available once the prospector has unlocked theRanged Attachment Packtech.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "1 kg"
+  },
+  "category": "attachment packs",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted at\n Alteration Bench"
+  }
+}

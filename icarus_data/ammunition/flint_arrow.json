@@ -1,0 +1,25 @@
+{
+  "name": "Flint Arrow",
+  "url": "https://icarus.fandom.com/wiki/Flint_Arrow",
+  "description": "The Flint Arrow is ammunition used with aBow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "damage": "+15% Critical Damage",
+    "weight": "0.01 kg"
+  },
+  "category": "arrows",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Leather": 0.2,
+      "Stick": 1,
+      "Iron Ore": 0.2
+    },
+    "crafted_at": "Anvil Bench"
+  }
+}

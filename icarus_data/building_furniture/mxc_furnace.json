@@ -1,0 +1,21 @@
+{
+  "name": "MXC Furnace",
+  "url": "https://icarus.fandom.com/wiki/MXC_Furnace",
+  "description": "The MXC Furnace is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospector's loadout before starting a new prospect. The MXC Furnace functions like a smaller, more lightweightStone Furnace, and allows for processing ofIron Ore,Copper Ore, andSteel Bloominto ingots.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "5.0 kg",
+    "durability": "30,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Stone Furnace"
+  }
+}

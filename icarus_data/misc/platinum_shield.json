@@ -1,0 +1,26 @@
+{
+  "name": "Platinum Shield",
+  "url": "https://icarus.fandom.com/wiki/Platinum_Shield",
+  "description": "The Platinum Shield is crafted at theForgeorFoundrywith the following resources:",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "2.0 kg",
+    "durability": "5000"
+  },
+  "category": "shields",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Platinum Ingot": 20,
+      "Cured Leather": 3,
+      "Epoy": 5,
+      "Steel Screw": 10
+    },
+    "crafted_at": "Forge"
+  }
+}

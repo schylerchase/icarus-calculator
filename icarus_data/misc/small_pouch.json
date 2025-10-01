@@ -1,0 +1,20 @@
+{
+  "name": "Small Pouch",
+  "url": "https://icarus.fandom.com/wiki/Small_Pouch",
+  "description": "The Small Pouch is a generic six slot container that can be placed in inventory to help organize items. It does not affect the overall weight of items or carrying capacity.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "0.5 Kg"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Textiles Bench"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Teenage Caveworm Vestige",
+  "url": "https://icarus.fandom.com/wiki/Teenage_Caveworm_Vestige",
+  "description": "Teenage Caveworm Vestiges are used at theTrophy Benchto create aTeenage Caveworm Trophy.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "animal resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

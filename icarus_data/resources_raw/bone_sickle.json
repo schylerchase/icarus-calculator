@@ -1,0 +1,26 @@
+{
+  "name": "Bone Sickle",
+  "url": "https://icarus.fandom.com/wiki/Bone_Sickle",
+  "description": "Used by 'attacking' plants such as shrubs,Reed Flower,Wheat, etc. Sickles significantly increase the yield of plants when harvesting.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {
+    "damage": "40",
+    "weight": "0.5kg",
+    "durability": "10,000"
+  },
+  "category": "sickles",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 2,
+      "Leather": 2,
+      "Bone": 20
+    },
+    "crafted_at": "Character"
+  }
+}

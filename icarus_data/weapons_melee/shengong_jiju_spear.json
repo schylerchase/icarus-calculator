@@ -1,0 +1,18 @@
+{
+  "name": "Shengong \"Jiju\" Spear",
+  "url": "https://icarus.fandom.com/wiki/Shengong_%22Jiju%22_Spear",
+  "description": "The Shengong \"Jiju\" Spear is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospector's loadout before starting a new prospect.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "damage": "+20% Critical Damage with Spears",
+    "weight": "0.1 kg",
+    "durability": "50,000"
+  },
+  "category": "spears",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

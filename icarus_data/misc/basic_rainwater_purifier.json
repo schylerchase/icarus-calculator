@@ -1,0 +1,21 @@
+{
+  "name": "Basic Rainwater Purifier",
+  "url": "https://icarus.fandom.com/wiki/Basic_Rainwater_Purifier",
+  "description": "Basic Rainwater Purifiers can be crafted using Character Crafting with the following resources:",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {
+    "weight": "1 kg",
+    "durability": "1,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Character"
+  }
+}

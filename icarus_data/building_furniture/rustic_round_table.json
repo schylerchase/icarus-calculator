@@ -1,0 +1,21 @@
+{
+  "name": "Rustic Round Table",
+  "url": "https://icarus.fandom.com/wiki/Rustic_Round_Table",
+  "description": "The Rustic Round Table is a simple wooden table.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "10 Kg",
+    "durability": "500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
+}

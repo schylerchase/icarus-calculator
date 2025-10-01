@@ -1,0 +1,24 @@
+{
+  "name": "Leather Chest Armor",
+  "url": "https://icarus.fandom.com/wiki/Leather_Chest_Armor",
+  "description": "Leather armor may not offer much protection when fighting against Icarus'Fauna, but it offers more physical protection and thermal insulation than itsTier 1counterparts, serving as a decent all-around armor forTier 2.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "2.0 kg",
+    "durability": "3,750"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 60,
+      "Leather": 24
+    },
+    "crafted_at": "Crafted At\n Textiles Bench"
+  }
+}

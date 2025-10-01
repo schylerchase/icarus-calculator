@@ -1,0 +1,20 @@
+{
+  "name": "Leather Curtain Door",
+  "url": "https://icarus.fandom.com/wiki/Leather_Curtain_Door",
+  "description": "A Leather Curtain Door made of wood and Leather, use it to keep the weather out.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.0 Kg"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
+}

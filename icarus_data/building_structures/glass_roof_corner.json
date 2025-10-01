@@ -1,0 +1,25 @@
+{
+  "name": "Glass Roof Corner",
+  "url": "https://icarus.fandom.com/wiki/Glass_Roof_Corner",
+  "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items. Can be crafted as Reinforced Glass, increasing resistance to weather up to the level of Stone building peices and increasing HP from 500 to 2500.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "<unknown>",
+    "durability": "<unknown>"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 3,
+      "Glass": 10,
+      "Epoy": 6
+    },
+    "crafted_at": "Glassworking Bench"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Advanced Aquarium",
+  "url": "https://icarus.fandom.com/wiki/Advanced_Aquarium",
+  "description": "The Advanced Aquarium allows Prospectors to store and display their favorite catches. Fish stored in the Advanced Aquarium will not spoil so long as it is connected to a power network providing at least 1,000 units ofPowerand a water network providing at least 500 units ofWater. The Advanced Aquarium will not function if these requirements are not met. The Advanced Aquarium can store 4 fish.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "2.5 kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Fabricator"
+  }
+}

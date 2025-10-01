@@ -1,0 +1,22 @@
+{
+  "name": "Health Buff Paste",
+  "url": "https://icarus.fandom.com/wiki/Health_Buff_Paste",
+  "description": "In-game description:An organic preparation that temporarily increases health.In-game flavor text:Like so many things on Icarus, the exact ingredients would probably render this concoction illegal on Earth.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Lily": 2,
+      "Wheat": 2,
+      "Tree Sap": 1
+    },
+    "crafted_at": "Unknown"
+  }
+}

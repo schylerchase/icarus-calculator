@@ -1,0 +1,21 @@
+{
+  "name": "Brutalist Bookshelf",
+  "url": "https://icarus.fandom.com/wiki/Brutalist_Bookshelf",
+  "description": "The Brutalist Bookshelf is mode from concrete and iron.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "10 Kg",
+    "durability": "1000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
+}

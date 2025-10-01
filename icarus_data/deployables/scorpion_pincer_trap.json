@@ -1,0 +1,25 @@
+{
+  "name": "Scorpion Pincer Trap",
+  "url": "https://icarus.fandom.com/wiki/Scorpion_Pincer_Trap",
+  "description": "Scorpion Pincer Traps are sturdy defenses used around your base or while at objectives for protection of equipment. The recipe blueprint to craft this defensive trap is only unlocked after completing the prospectCarapace: Research. The blueprint unlocks account-wide once the mission is completed.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.5 kg",
+    "durability": "<Unknown>"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Stone": 4,
+      "Stick": 4,
+      "Scorpion Pincer": 1
+    },
+    "crafted_at": "Crafting Bench"
+  }
+}

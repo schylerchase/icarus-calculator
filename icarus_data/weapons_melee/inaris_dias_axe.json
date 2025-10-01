@@ -1,0 +1,22 @@
+{
+  "name": "Inaris \"Dias\" Axe",
+  "url": "https://icarus.fandom.com/wiki/Inaris_%22Dias%22_Axe",
+  "description": "The Inaris \"Dias\" Axe is the Workshop equivalent of anSteel Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees. Unlike otherAxes, the Inaris \"Dias\" Axe is the only Axe that lowers the carry weight of wood by 50% when equipped, making it a valuable tool when transporting wood when paired with theGatherer's Backpack.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "damage": "+50 Felling Damage",
+    "weight": "1.0 kg",
+    "durability": "60,000"
+  },
+  "category": "axes",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

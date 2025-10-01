@@ -1,0 +1,24 @@
+{
+  "name": "Wood Window",
+  "url": "https://icarus.fandom.com/wiki/Wood_Window",
+  "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Wood Windows may be snapped into walls such asWood Wallthat have been placed in 'window' configuration. Holding 'R' while placing aWood Wall, for example, allows for additional placement styles, such as the window frame.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "1.0 kg",
+    "durability": "500"
+  },
+  "category": "wood building trim set",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 8,
+      "Wood": 10
+    },
+    "crafted_at": "Unknown"
+  }
+}

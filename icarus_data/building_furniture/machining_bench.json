@@ -1,0 +1,21 @@
+{
+  "name": "Machining Bench",
+  "url": "https://icarus.fandom.com/wiki/Machining_Bench",
+  "description": "Mid-level crafting system made at theCrafting Bench, the Machining Bench provides access toTier 3Blueprints. Prospectors can use it to createDeployablesandFirearms.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "25.0 kg",
+    "durability": "1000"
+  },
+  "category": "deployablesbenches",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Composite Head Armor",
+  "url": "https://icarus.fandom.com/wiki/Composite_Head_Armor",
+  "description": "Composite Head Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "1.5 kg",
+    "durability": "10,000"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Aluminium Ingot": 4,
+      "Composites": 12,
+      "Steel Screw": 6,
+      "Carbon Fiber": 2
+    },
+    "crafted_at": "Electric Textiles Bench"
+  }
+}

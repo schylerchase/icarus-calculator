@@ -1,0 +1,23 @@
+{
+  "name": "Dirt Ramp",
+  "url": "https://icarus.fandom.com/wiki/Dirt_Ramp",
+  "description": "Dirt Ramps are aTier 1buildable that serves as an alternative toThatch Ramps/Wood Rampsthat provides a more natural look to structures. Due to the nature of its building material, Dirt Ramps must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "2.5 Kg",
+    "durability": "2,500"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Dirt": 10
+    },
+    "crafted_at": "Character"
+  }
+}

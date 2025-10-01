@@ -1,0 +1,20 @@
+{
+  "name": "Ammo Casing",
+  "url": "https://icarus.fandom.com/wiki/Ammo_Casing",
+  "description": "The Ammo Casing is a vital component used in the crafting of9mm Roundsand7.62mm Rounds.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 1
+    },
+    "crafted_at": "Machining Bench or Fabricator"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Stone Arrow",
+  "url": "https://icarus.fandom.com/wiki/Stone_Arrow",
+  "description": "The Stone Arrow is ammunition used with aBow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {
+    "weight": "0.01 kg"
+  },
+  "category": "arrows",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 1,
+      "Stick": 1,
+      "Stone": 1
+    },
+    "crafted_at": "Character"
+  }
+}

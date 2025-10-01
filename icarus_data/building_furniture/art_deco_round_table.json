@@ -1,0 +1,21 @@
+{
+  "name": "Art Deco Round Table",
+  "url": "https://icarus.fandom.com/wiki/Art_Deco_Round_Table",
+  "description": "The Art Deco Round Table is an gilded item of significant worth.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "10 Kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
+}

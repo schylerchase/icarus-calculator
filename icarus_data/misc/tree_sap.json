@@ -1,0 +1,18 @@
+{
+  "name": "Tree Sap",
+  "url": "https://icarus.fandom.com/wiki/Tree_Sap",
+  "description": "Tree Sap is used in crafting of items such asEpoxy, andConcrete Mix, making this early-game resource very important throughout all aspects of crafting. Tree Sap can also by found while harvesting some plants, like the palms of theDesert.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Mortar and Pestle"
+  }
+}

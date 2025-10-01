@@ -1,0 +1,18 @@
+{
+  "name": "Strength Boost Module",
+  "url": "https://icarus.fandom.com/wiki/Strength_Boost_Module",
+  "description": "When equipped in a module slot of anEnvirosuit, this module increases the carry weight capacity of  Prospectors near the user, however it does not affect the wearers max carry weight. It can be researched and crafted on theSpace Stationin theWorkshop.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "modules",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

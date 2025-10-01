@@ -1,0 +1,21 @@
+{
+  "name": "Water Purifier",
+  "url": "https://icarus.fandom.com/wiki/Water_Purifier",
+  "description": "Water Purifiers can be crafted from the Machining Bench with the following resources once the appropriate blueprint point has been spent:",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "2.5 kg",
+    "durability": "1,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
+}

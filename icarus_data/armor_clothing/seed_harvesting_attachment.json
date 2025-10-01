@@ -1,0 +1,20 @@
+{
+  "name": "Seed Harvesting Attachment",
+  "url": "https://icarus.fandom.com/wiki/Seed_Harvesting_Attachment",
+  "description": "Seed Harvesting Attachment is a mid game item for attaching to aHarvesting Cartthat allows collection ofSeedswhile harvesting crops planted inDirt MoundsorCrop Plots. It has no effect on plants found in the wild.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "1.0 kg"
+  },
+  "category": "attachment packs",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted at\n Ranching Station"
+  }
+}

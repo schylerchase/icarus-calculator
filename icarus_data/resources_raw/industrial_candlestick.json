@@ -1,0 +1,21 @@
+{
+  "name": "Industrial Candlestick",
+  "url": "https://icarus.fandom.com/wiki/Industrial_Candlestick",
+  "description": "The Industrial Candlestick is a decorative item from the Industrial Furniture Pack DLC.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "10 Kg",
+    "durability": "750"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
+}

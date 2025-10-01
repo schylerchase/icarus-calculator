@@ -1,0 +1,18 @@
+{
+  "name": "12.7mm CHAC Ammo Box",
+  "url": "https://icarus.fandom.com/wiki/12.7mm_CHAC_Ammo_Box",
+  "description": "The 12.7mm CHAC Ammo Box provides 2512.7mm CHAC RoundsofSniper Ammunition that works with the Anti-materiel Rifle.",
+  "item_type": "Ammunition",
+  "ingredients": {},
+  "crafted_at": "Machining Bench",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": "10 Legendary Biomass",
+  "purchase_cost": "100 Ren",
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
+}

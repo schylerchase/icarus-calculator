@@ -1,0 +1,18 @@
+{
+  "name": "Shengong 'Shui' Knife",
+  "url": "https://icarus.fandom.com/wiki/Shengong_%27Shui%27_Knife",
+  "description": "The Shengong 'Shui' Knife is equivalent toTier 2Tech like theIron Knife, giving Prospectors the ability to skin larger animals, such asBuffaloandGrizzly Bears. UnlikeThrowing Knives, the Shengong 'Shui' Knife cannot be thrown. There currently are no Workshop throwing knives.",
+  "item_type": "unknown",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "damage": "62 - 66 Melee Damage",
+    "weight": "0.1kg",
+    "durability": "50,000"
+  },
+  "category": "knives",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null
+}

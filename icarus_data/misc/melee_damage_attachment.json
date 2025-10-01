@@ -1,0 +1,20 @@
+{
+  "name": "Melee Damage Attachment",
+  "url": "https://icarus.fandom.com/wiki/Melee_Damage_Attachment",
+  "description": "Melee Damage Attachment is a mid-to-end game item available once the prospector has unlocked theTool Attachment Packtech.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "1 kg"
+  },
+  "category": "attachment packs",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted at\n Alteration Bench"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Concrete Railing",
+  "url": "https://icarus.fandom.com/wiki/Concrete_Railing",
+  "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Aluminium Ore": 2,
+      "Wood": 2,
+      "Steel Screw": 6
+    },
+    "crafted_at": "Machining Bench"
+  }
+}

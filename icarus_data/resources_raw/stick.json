@@ -1,0 +1,18 @@
+{
+  "name": "Stick",
+  "url": "https://icarus.fandom.com/wiki/Stick",
+  "description": "Sticks are harvested by picking them up off of the ground, or when harvesting small trees and saplings. Sticks can also be crafted from wood at theCarpentry Bench, or in theCharacter Craftingmenu if you have theWood Breakdowntalent (and its matching Blueprint in Tier 1).",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted at\n Carpentry Bench"
+  }
+}

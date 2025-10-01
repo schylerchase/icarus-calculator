@@ -1,0 +1,25 @@
+{
+  "name": "Wooden Shovel",
+  "url": "https://icarus.fandom.com/wiki/Wooden_Shovel",
+  "description": "The Wooden Shovel is an early-gameToolused to createDirt Mounds(right-click), harvestIce/Dirt/Sand(left-click), or remove ash/snow buildup on structures in theArctic/Volcanicbiomes on Icarus.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {
+    "weight": "0.5 kg",
+    "durability": "5,000"
+  },
+  "category": "shovels",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 15,
+      "Stick": 10,
+      "Fiber": 15
+    },
+    "crafted_at": "Character"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "9mm Obsidian Round",
+  "url": "https://icarus.fandom.com/wiki/9mm_Obsidian_Round",
+  "description": "9mm Obsidian Rounds are an alternative to9mm Incendiary Roundsthat deals fire damage on hit and has a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 9mm Obsidian Rounds excel when used against Fauna that have a weakness to fire, dealing more damage than9mm Rounds. A list of fauna that are weak to fire can be viewedhere.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "0.01 kg"
+  },
+  "category": "ammo",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "mm Round": 5,
+      "Shaped Obsidian": 1
+    },
+    "crafted_at": "Machining Bench"
+  }
+}

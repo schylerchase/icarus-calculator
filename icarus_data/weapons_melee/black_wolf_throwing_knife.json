@@ -1,0 +1,26 @@
+{
+  "name": "Black Wolf Throwing Knife",
+  "url": "https://icarus.fandom.com/wiki/Black_Wolf_Throwing_Knife",
+  "description": "The Black Wolf Throwing Knife is a variant of theBlack Wolf Knifethat can be thrown. Unlike theBlack Wolf Knife, the Black Wolf Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "damage": "63 - 70",
+    "weight": "0.2 kg"
+  },
+  "category": "throwing knives",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Black Wolf Tooth": 4,
+      "Leather": 4,
+      "Iron Ore": 2,
+      "Iron Nail": 6
+    },
+    "crafted_at": "Forge"
+  }
+}

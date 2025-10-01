@@ -1,0 +1,25 @@
+{
+  "name": "Wolf Lure",
+  "url": "https://icarus.fandom.com/wiki/Wolf_Lure",
+  "description": "The Wolf Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone increase is the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Wolf Lure degrades with use and will eventually break after ten uses.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "0.25 Kg",
+    "durability": "100"
+  },
+  "category": "lures",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fur": 2,
+      "Iron Nail": 2,
+      "Leather": 2
+    },
+    "crafted_at": "Fishing Bench"
+  }
+}

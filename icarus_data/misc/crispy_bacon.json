@@ -1,0 +1,21 @@
+{
+  "name": "Crispy Bacon",
+  "url": "https://icarus.fandom.com/wiki/Crispy_Bacon",
+  "description": "Crispy Bacon is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Raw Bacon": 1,
+      "Animal Fat": 1
+    },
+    "crafted_at": "Unknown"
+  }
+}

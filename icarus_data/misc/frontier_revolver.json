@@ -1,0 +1,24 @@
+{
+  "name": "Frontier Revolver",
+  "url": "https://icarus.fandom.com/wiki/Frontier_Revolver",
+  "description": "The Frontier Revolver is aLegendary Weaponthat can be purchased at theBio-lab.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "damage": "+25% Critical Damage",
+    "weight": "2.5 kg",
+    "durability": "35,000"
+  },
+  "category": "firearms",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Legendary Licence": 1
+    },
+    "crafted_at": "Unknown"
+  }
+}

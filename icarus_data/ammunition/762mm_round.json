@@ -1,0 +1,34 @@
+{
+  "name": "7.62mm Round",
+  "url": "https://icarus.fandom.com/wiki/7.62mm_Round",
+  "description": "",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "0.01 kg"
+  },
+  "category": "ammo",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Ammo Casing": 1,
+      "Gunpowder": 2
+    },
+    "crafted_at": "Machining Bench"
+  },
+  "talent_recipes": [
+    {
+      "talent_name": "Rifle Reduction",
+      "talent_effect": "-25% reduced resource cost",
+      "ingredients": {
+        "Ammo Casing": 4,
+        "Gunpowder": 8
+      },
+      "crafted_at": "Machining Bench"
+    }
+  ]
+}

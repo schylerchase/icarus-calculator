@@ -1,0 +1,27 @@
+{
+  "name": "Ice Box",
+  "url": "https://icarus.fandom.com/wiki/Ice_Box",
+  "description": "The Ice Box will slow the decay of food placed inside, increasing the time until food spoils by 6x when filled withIce. Items in Ice Box reduce their spoil rate by 500% and the container has 12 inventory slots.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "8.0 kg",
+    "durability": "250"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 40,
+      "Leather": 24,
+      "Rope": 8,
+      "Iron Ingot": 8,
+      "Copper Nail": 4
+    },
+    "crafted_at": "Machining Bench"
+  }
+}

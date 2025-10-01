@@ -1,0 +1,21 @@
+{
+  "name": "Stamina Consumption Paste",
+  "url": "https://icarus.fandom.com/wiki/Stamina_Consumption_Paste",
+  "description": "In-game description:A biotic compound that slows stamina loss temporarily.In-game flavor text:The time-jarring effects of exotics find their influence in many subtle, poorly understood ways on Icarus.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Reed Flower": 2,
+      "Tree Sap": 2
+    },
+    "crafted_at": "Unknown"
+  }
+}

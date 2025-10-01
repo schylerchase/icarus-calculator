@@ -1,0 +1,27 @@
+{
+  "name": "Cold Steel Axe",
+  "url": "https://icarus.fandom.com/wiki/Cold_Steel_Axe",
+  "description": "The Cold Steel Axe is a mid/late-gameAxethat is introduced withChapter - New Frontier. The Cold Steel Axe can be crafted while on the surface of Icarus.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "damage": "+75 Felling Damage",
+    "weight": "0.5Kg",
+    "durability": "187,500"
+  },
+  "category": "axes",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Cold Steel Ingot": 3,
+      "Refined Wood": 5,
+      "Steel Screw": 5,
+      "Fur": 3
+    },
+    "crafted_at": "Forge"
+  }
+}

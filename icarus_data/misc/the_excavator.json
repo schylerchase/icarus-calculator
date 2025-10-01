@@ -1,0 +1,21 @@
+{
+  "name": "The Excavator",
+  "url": "https://icarus.fandom.com/wiki/The_Excavator",
+  "description": "The Excavator is a WorkshopShovelthat can be used to dig upDirt,SandandIceor used to createDirt Moundswith very high resistance to tier 6Weather Events.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.5 Kg",
+    "durability": "50,000"
+  },
+  "category": "shovels",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

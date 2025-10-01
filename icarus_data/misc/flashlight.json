@@ -1,0 +1,25 @@
+{
+  "name": "Flashlight",
+  "url": "https://icarus.fandom.com/wiki/Flashlight",
+  "description": "The Flashlight is a late-gameLight Source, capable of illuminating an entire cave. Can be equipped in the \"L\" light slot on the hotbar.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "weight": "0.25 kg"
+  },
+  "category": "tools",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Glass": 4,
+      "Aluminium Ingot": 4,
+      "Epoy": 4,
+      "Electronics": 2
+    },
+    "crafted_at": "Fabricator"
+  }
+}

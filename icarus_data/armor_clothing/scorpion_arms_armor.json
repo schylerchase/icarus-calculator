@@ -1,0 +1,25 @@
+{
+  "name": "Scorpion Arms Armor",
+  "url": "https://icarus.fandom.com/wiki/Scorpion_Arms_Armor",
+  "description": "Scorpion Arms Armor is aTier 2crafted armor requiring aTextiles Bench; however, it is difficult to acquire due to the challenge of defeatingHusk: Exterminationand requiringScorpion Carapace. It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {
+    "weight": "0.9 kg",
+    "durability": "<Unknown>"
+  },
+  "category": "armors",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 40,
+      "Leather": 8,
+      "Scorpion Carapace": 6
+    },
+    "crafted_at": "Crafted At\n Textiles Bench"
+  }
+}

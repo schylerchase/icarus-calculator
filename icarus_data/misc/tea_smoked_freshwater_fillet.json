@@ -1,0 +1,21 @@
+{
+  "name": "Tea Smoked Freshwater Fillet",
+  "url": "https://icarus.fandom.com/wiki/Tea_Smoked_Freshwater_Fillet",
+  "description": "Tea Smoked Freshwater Fillet is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Freshwater Fish Fillet": 1,
+      "Tea": 5
+    },
+    "crafted_at": "Unknown"
+  }
+}

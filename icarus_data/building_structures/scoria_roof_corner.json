@@ -1,0 +1,26 @@
+{
+  "name": "Scoria Roof Corner",
+  "url": "https://icarus.fandom.com/wiki/Scoria_Roof_Corner",
+  "description": "Scoria building material, while not as robust as Scoria Brick Building Pieces, it is still an effective choice.",
+  "item_type": "craftable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "2.5 Kg",
+    "durability": "3,000"
+  },
+  "category": "building pieces",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 3,
+      "Scoria": 5,
+      "Leather": 2,
+      "Iron Nail": 4
+    },
+    "crafted_at": "Unknown"
+  }
+}

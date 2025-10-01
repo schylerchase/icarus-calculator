@@ -1,0 +1,21 @@
+{
+  "name": "Dirt Mounds",
+  "url": "https://icarus.fandom.com/wiki/Dirt_Mounds",
+  "description": "AShovelcan be used on grass/dirt/mud to create a dirt mound by right-clicking. Dirt mounds can also be made in bulk by using aSeeding Cart.",
+  "item_type": "ammunition",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {
+    "weight": "0.25 Kg",
+    "durability": "1,000"
+  },
+  "category": "farming",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}
