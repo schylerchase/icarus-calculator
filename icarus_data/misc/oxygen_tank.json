@@ -1,10 +1,10 @@
 {
   "name": "Oxygen Tank",
   "url": "https://icarus.fandom.com/wiki/Oxygen_Tank",
-  "description": "The Oxygen Tank is filled at theOxite DissolverandMetal Oxite Dissolverand is equipped in anEnvirosuitoxygen slot enabling automaticOxygenreplenishment. It holds 5000 oxygen units, 5 times as much as aOxygen Bladder; great for long trips across Icarus.",
-  "item_type": "ammunition",
+  "description": "The Oxygen Tank is filled at the Oxite Dissolver and Metal Oxite Dissolver and is equipped in an Envirosuit oxygen slot enabling automatic Oxygen replenishment. It holds 5000 oxygen units, 5 times as much as a Oxygen Bladder ; great for long trips across Icarus.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {},
   "category": "oxygen containers",

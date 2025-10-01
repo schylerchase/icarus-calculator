@@ -1,10 +1,10 @@
 {
   "name": "Platinum Lightning Rod",
   "url": "https://icarus.fandom.com/wiki/Platinum_Lightning_Rod",
-  "description": "The Platinum Lightning Rod absorbs lightning strikes fromWeather Eventsand optionally captures the energy and directs it to a connectedElectricitynetwork.",
-  "item_type": "ammunition",
+  "description": "The Platinum Lightning Rod absorbs lightning strikes from Weather Events and optionally captures the energy and directs it to a connected Electricity network.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "2.0 kg",

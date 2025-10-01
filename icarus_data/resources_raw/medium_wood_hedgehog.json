@@ -2,9 +2,9 @@
   "name": "Medium Wood Hedgehog",
   "url": "https://icarus.fandom.com/wiki/Medium_Wood_Hedgehog",
   "description": "The Medium Wood Hedgehog are sturdy defenses used around your base or while at objectives for protection of equipment.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
     "weight": "2.0 kg",

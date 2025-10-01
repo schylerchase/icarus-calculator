@@ -1,8 +1,8 @@
 {
   "name": "Worm Scale",
   "url": "https://icarus.fandom.com/wiki/Worm_Scale",
-  "description": "Worm Scales are a resource that drops fromCaveworms. Only after completingUnearthed: Researchcan these scales andPoison Sacksbe used to craft new weaponry at aCrafting Bench.",
-  "item_type": "ammunition",
+  "description": "Worm Scales are a resource that drops from Caveworms . Only after completing Unearthed: Research can these scales and Poison Sacks be used to craft new weaponry at a Crafting Bench .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

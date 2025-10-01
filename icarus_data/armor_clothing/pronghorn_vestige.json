@@ -1,8 +1,8 @@
 {
   "name": "Pronghorn Vestige",
   "url": "https://icarus.fandom.com/wiki/Pronghorn_Vestige",
-  "description": "Pronghorn Vestiges are used at theTrophy Benchto create aPronghorn Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Pronghorn Vestiges are used at the Trophy Bench to create a Pronghorn Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

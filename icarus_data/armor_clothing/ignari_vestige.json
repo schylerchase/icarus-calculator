@@ -1,8 +1,8 @@
 {
   "name": "Ignari Vestige",
   "url": "https://icarus.fandom.com/wiki/Ignari_Vestige",
-  "description": "Ignari Vestiges are used at theTrophy Benchto create anIgnari Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Ignari Vestiges are used at the Trophy Bench to create an Ignari Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

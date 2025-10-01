@@ -1,10 +1,10 @@
 {
   "name": "Inaris \"Ventura\" Knife",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Ventura%22_Knife",
-  "description": "Grants immunity to normal wounds while held, making it a useful tool when fighting severalwolvessimultaneously. Does not preventDeep Wounds. UnlikeThrowing Knives, the Inaris \"Ventura\" Knife cannot be thrown. There currently are no Workshop throwing knives.",
-  "item_type": "ammunition",
+  "description": "Grants immunity to normal wounds while held, making it a useful tool when fighting several wolves simultaneously. Does not prevent Deep Wounds . Unlike Throwing Knives , the Inaris \"Ventura\" Knife cannot be thrown. There currently are no Workshop throwing knives.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "61 - 65 Melee Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
   }
 }

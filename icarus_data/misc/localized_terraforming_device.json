@@ -1,10 +1,10 @@
 {
   "name": "Localized Terraforming Device",
   "url": "https://icarus.fandom.com/wiki/Localized_Terraforming_Device",
-  "description": "The Localized Terraforming Device is aDeployabledevice used to restore trees to the Icarus landscape. It is powered byElectricityand charged up for use withCondensed EnzymesorSynthetic Enzymes. Once charged, the device is triggered and creates a localized storm cloud around the device that once cleared, reveals newly restored trees.",
+  "description": "The Localized Terraforming Device is a Deployable device used to restore trees to the Icarus landscape. It is powered by Electricity and charged up for use with Condensed Enzymes or Synthetic Enzymes . Once charged, the device is triggered and creates a localized storm cloud around the device that once cleared, reveals newly restored trees.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "30 Kg",
@@ -15,13 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Titanium Plate": 4,
-      "Electronics": 20,
-      "Steel Screw": 10,
-      "Composites": 8,
-      "Epoy": 22
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

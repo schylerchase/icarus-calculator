@@ -1,8 +1,8 @@
 {
   "name": "Steel Bloom",
   "url": "https://icarus.fandom.com/wiki/Steel_Bloom",
-  "description": "Steel Bloom is a crafted resource that can be smelted in aStone Furnace,Concrete FurnaceorElectric Furnaceto make aSteel Ingot. It can made made fromIron OreorIron IngotandCoal OreorCharcoal.",
-  "item_type": "ammunition",
+  "description": "Steel Bloom is a crafted resource that can be smelted in a Stone Furnace , Concrete Furnace or Electric Furnace to make a Steel Ingot . It can made made from Iron Ore or Iron Ingot and Coal Ore or Charcoal .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Mortar and Pestle"
+    "crafted_at": "Unknown"
   }
 }

@@ -1,10 +1,10 @@
 {
   "name": "Refined Wood",
   "url": "https://icarus.fandom.com/wiki/Refined_Wood",
-  "description": "Refined Wood is used for the construction ofInterior Wood Buildings, Refined Wood Deployables, and various Tools.",
-  "item_type": "ammunition",
+  "description": "Refined Wood is used for the construction of Interior Wood Buildings , Refined Wood Deployables, and various Tools.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {},
   "category": "crafted resources",

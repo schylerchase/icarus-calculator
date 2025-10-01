@@ -1,8 +1,8 @@
 {
   "name": "Super Cooled Ice",
   "url": "https://icarus.fandom.com/wiki/Super_Cooled_Ice",
-  "description": "Super Cooled Ice is a resource required to makeCold Steel Ingots, a precursor resource used in making Cold SteelTools,Weapons, andAmmo.",
-  "item_type": "ammunition",
+  "description": "Super Cooled Ice is a resource required to make Cold Steel Ingots , a precursor resource used in making Cold Steel Tools , Weapons , and Ammo .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Concrete Furnace"
+    "crafted_at": "Unknown"
   }
 }

@@ -1,10 +1,10 @@
 {
   "name": "Water Pipe Tool",
   "url": "https://icarus.fandom.com/wiki/Water_Pipe_Tool",
-  "description": "The Water Pipe Tool connects theBiofuel Water Pump/Electric Water PumptoDeployables/Water Storageto provideWater.",
+  "description": "The Water Pipe Tool connects the Biofuel Water Pump / Electric Water Pump to Deployables / Water Storage to provide Water .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.1 kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Copper Wire": 50,
-      "Gold Wire": 50,
-      "Platinum Sheath": 4
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

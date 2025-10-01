@@ -1,10 +1,12 @@
 {
   "name": "Stone Brick",
   "url": "https://icarus.fandom.com/wiki/Stone_Brick",
-  "description": "Stone Bricks are a refined resource primarily used to craftStone Brick Building Piecesat anAdvanced Masonry Bench/Electric Masonry Bench.",
-  "item_type": "ammunition",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "description": "Stone Bricks are a refined resource primarily used to craft Stone Brick Building Pieces at an Advanced Masonry Bench / Electric Masonry Bench .",
+  "item_type": "craftable",
+  "ingredients": {
+    "Stone": 1
+  },
+  "crafted_at": "Advanced Masonry Bench Electric Masonry Bench",
   "tier": 3,
   "stats": {},
   "category": "crafted resources",
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Crafted at\n Advanced Masonry Bench"
+    "ingredients": {
+      "Stone": 1
+    },
+    "crafted_at": "Advanced Masonry Bench Electric Masonry Bench"
   }
 }

@@ -1,10 +1,10 @@
 {
   "name": "Wolfskin Animal Bed",
   "url": "https://icarus.fandom.com/wiki/Wolfskin_Animal_Bed",
-  "description": "The Wolfskin Animal Bed is a bed forMountsandPetsthat has a wolf theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+  "description": "The Wolfskin Animal Bed is a bed for Mounts and Pets that has a wolf theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "1.5 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Cured Leather": 10,
-      "Leather": 35,
-      "Wolf Vestige": 1
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

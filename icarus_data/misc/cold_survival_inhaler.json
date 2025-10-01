@@ -1,8 +1,8 @@
 {
   "name": "Cold Survival Inhaler",
   "url": "https://icarus.fandom.com/wiki/Cold_Survival_Inhaler",
-  "description": "The Cold Survival Inhaler is aMedicinethat boosts resistance to cold, damage from frost and the HypothermiaStatus Effect.",
-  "item_type": "ammunition",
+  "description": "The Cold Survival Inhaler is a Medicine that boosts resistance to cold, damage from frost and the Hypothermia Status Effect .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

@@ -1,8 +1,8 @@
 {
   "name": "12-Gauge CHAC Shell Box",
   "url": "https://icarus.fandom.com/wiki/12-Gauge_CHAC_Shell_Box",
-  "description": "The 12-Gauge CHAC Shell Box provides 25 rounds of the12-Gauge CHAC Shellthat works with anyShotgunand pairs well with theCHAC \"Boomstick\" Shotgunthat can also be purchased from theWorkshop.",
-  "item_type": "ammunition",
+  "description": "The 12-Gauge CHAC Shell Box provides 25 rounds of the 12-Gauge CHAC Shell that works with any Shotgun and pairs well with the CHAC \"Boomstick\" Shotgun that can also be purchased from the Workshop .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

@@ -1,8 +1,8 @@
 {
   "name": "Xigo SplintX",
   "url": "https://icarus.fandom.com/wiki/Xigo_SplintX",
-  "description": "Xigo SplintX is a consumable medicine to heal a Broken Leg or SprainStatus Effectand provide a +10% Falling Resistance for a duration of 5 minutes.",
-  "item_type": "ammunition",
+  "description": "Xigo SplintX is a consumable medicine to heal a Broken Leg or Sprain Status Effect and provide a +10% Falling Resistance for a duration of 5 minutes.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

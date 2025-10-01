@@ -1,10 +1,10 @@
 {
   "name": "Plumbed Sink",
   "url": "https://icarus.fandom.com/wiki/Plumbed_Sink",
-  "description": "The Plumbed Sink is bench that can be connected to other Marble Appliances and, when connected to active water connection, provides a short buff when interacted with. The Buff increases crafting speed, movement speed, health regeneration, and reduced water and food consumption. 250 units ofWateris required for the Plumbed Sink to function.",
-  "item_type": "ammunition",
+  "description": "The Plumbed Sink is bench that can be connected to other Marble Appliances and, when connected to active water connection, provides a short buff when interacted with. The Buff increases crafting speed, movement speed, health regeneration, and reduced water and food consumption. 250 units of Water is required for the Plumbed Sink to function.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "20.0 kg",

@@ -1,8 +1,8 @@
 {
   "name": "Health Regeneration Paste",
   "url": "https://icarus.fandom.com/wiki/Health_Regeneration_Paste",
-  "description": "In-game description:A herbal confection that speeds healing.In-game flavor text:The lily's high concentration of bioactive ingredients is thought to inhibit the reuptake of certain cytochromes, briefly flooding your body with oxidating enzymes.",
-  "item_type": "craftable",
+  "description": "In-game description: A herbal confection that speeds healing. In-game flavor text: The lily's high concentration of bioactive ingredients is thought to inhibit the reuptake of certain cytochromes, briefly flooding your body with oxidating enzymes.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -12,10 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Lily": 2,
-      "Tree Sap": 1
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

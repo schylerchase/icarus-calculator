@@ -1,10 +1,10 @@
 {
   "name": "Hunting Rifle",
   "url": "https://icarus.fandom.com/wiki/Hunting_Rifle",
-  "description": "The Hunting Rifle is a side-gate loading lever-action rifle, the apex of firearms on Icarus, and a significant upgrade in the long-range firepower available to the Prospector. Like its predecessor theBolt Action Rifle, it fires the7.62mm Round. It and theTrench Shotgunare effective game-changers in surviving theFaunaof Icarus. The Hunting Rifle can fire 100 rounds before breaking, and the talentGunsmithcan increase this to up to a maximum of 125 rounds, so bring aFabricatorfor long trips.",
+  "description": "An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench / Advanced Alteration Bench .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "damage": "+100% Critical Damage",
@@ -16,13 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 12,
-      "Cured Leather": 1,
-      "Titanium Ingot": 40,
-      "Epoy": 4,
-      "Steel Screw": 16
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

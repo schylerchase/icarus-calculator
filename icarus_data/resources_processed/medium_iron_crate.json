@@ -1,10 +1,10 @@
 {
   "name": "Medium Iron Crate",
   "url": "https://icarus.fandom.com/wiki/Medium_Iron_Crate",
-  "description": "A Medium Iron Crate, use it to safely store valuable resources. Unlike theMedium Wood Crate, it does not require shelter and can be placed outside (immune to storm damage).",
-  "item_type": "ammunition",
+  "description": "A Medium Iron Crate, use it to safely store valuable resources. Unlike the Medium Wood Crate , it does not require shelter and can be placed outside (immune to storm damage).",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "6.0 kg",

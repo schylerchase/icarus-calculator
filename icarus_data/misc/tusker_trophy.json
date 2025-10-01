@@ -1,10 +1,10 @@
 {
   "name": "Tusker Trophy",
   "url": "https://icarus.fandom.com/wiki/Tusker_Trophy",
-  "description": "Tusker Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete theBestiary, it can also be used in tandem with otherFurnitureto increase theCozinessof your living quarters, increasing the duration and effectiveness of theWell Rested Buff.",
+  "description": "Tusker Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete the Bestiary , it can also be used in tandem with other Furniture to increase the Coziness of your living quarters, increasing the duration and effectiveness of the Well Rested Buff .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Trophy Bench",
   "tier": 2,
   "stats": {
     "weight": "2.0 Kg",
@@ -15,10 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 30,
-      "Tusker Vestige": 1
-    },
+    "ingredients": {},
     "crafted_at": "Trophy Bench"
   }
 }

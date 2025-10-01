@@ -1,8 +1,8 @@
 {
   "name": "Aluminium Ingot",
   "url": "https://icarus.fandom.com/wiki/Aluminium_Ingot",
-  "description": "Aluminium Ingot is the refined resource crafted fromAluminium Ore.",
-  "item_type": "ammunition",
+  "description": "Aluminium Ingot is the refined resource crafted from Aluminium Ore .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Fabricator"
+    "crafted_at": "Unknown"
   }
 }

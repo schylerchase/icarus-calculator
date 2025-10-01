@@ -1,8 +1,8 @@
 {
   "name": "Inaris \"Lua\" Envirosuit",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Lua%22_Envirosuit",
-  "description": "The Inaris \"Lua\" Envirosuit is purchased in theWorkshopon theSpace Station.",
-  "item_type": "ammunition",
+  "description": "The Inaris \"Lua\" Envirosuit is purchased in the Workshop on the Space Station .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

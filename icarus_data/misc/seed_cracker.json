@@ -2,9 +2,9 @@
   "name": "Seed Cracker",
   "url": "https://icarus.fandom.com/wiki/Seed_Cracker",
   "description": "A snack made with just seed.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "BenchCooking Station",
   "tier": 0,
   "stats": {},
   "category": "food",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "BenchCooking Station"
   }
 }

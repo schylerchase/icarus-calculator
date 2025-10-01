@@ -1,8 +1,8 @@
 {
   "name": "Tusker Vestige",
   "url": "https://icarus.fandom.com/wiki/Tusker_Vestige",
-  "description": "Tusker Vestiges are used at theTrophy Benchto create aTusker Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Tusker Vestiges are used at the Trophy Bench to create a Tusker Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

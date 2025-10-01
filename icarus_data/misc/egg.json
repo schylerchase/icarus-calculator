@@ -1,8 +1,8 @@
 {
   "name": "Egg",
   "url": "https://icarus.fandom.com/wiki/Egg",
-  "description": "An egg from aChicken.",
-  "item_type": "ammunition",
+  "description": "An egg from a Chicken .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

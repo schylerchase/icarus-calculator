@@ -1,10 +1,10 @@
 {
   "name": "C0NT4CT Radio",
   "url": "https://icarus.fandom.com/wiki/C0NT4CT_Radio",
-  "description": "The C0NT4CT Radio is a portable device that when in range, provides the same access to missions as aCONT4CT DeviceinOpen Worldprospects.",
+  "description": "The C0NT4CT Radio is a portable device that when in range, provides the same access to missions as a CONT4CT Device in Open World prospects.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "1 Kg"
@@ -14,12 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Platinum Sheath": 20,
-      "Gold Wire": 35,
-      "Copper Wire": 25,
-      "Electronics": 5
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

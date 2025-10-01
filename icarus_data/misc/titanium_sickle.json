@@ -1,8 +1,8 @@
 {
   "name": "Titanium Sickle",
   "url": "https://icarus.fandom.com/wiki/Titanium_Sickle",
-  "description": "Used by 'attacking' plants such as shrubs,Reed Flower,Wheat,Carrots, etc. Sickles significantly increase the yield of plants when harvesting.",
-  "item_type": "ammunition",
+  "description": "Used by 'attacking' plants such as shrubs, Reed Flower , Wheat , Carrots , etc. Sickles significantly increase the yield of plants when harvesting.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,

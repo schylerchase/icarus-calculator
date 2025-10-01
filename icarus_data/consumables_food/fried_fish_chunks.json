@@ -1,8 +1,8 @@
 {
   "name": "Fried Fish Chunks",
   "url": "https://icarus.fandom.com/wiki/Fried_Fish_Chunks",
-  "description": "Fried Fish Chunks is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "ammunition",
+  "description": "Fried Fish Chunks is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

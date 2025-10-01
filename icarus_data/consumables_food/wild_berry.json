@@ -1,14 +1,18 @@
 {
   "name": "Wild Berry",
   "url": "https://icarus.fandom.com/wiki/Wild_Berry",
-  "description": "Wild Berry are a common form ofPlantlifefound in theForestandRiverlandslocationson Icarus. When consumed by prospectors, they replenish bothHungerandThirst.",
-  "item_type": "ammunition",
+  "description": "Wild Berry are a common form of Plantlife found in the Forest and Riverlands locations on Icarus. When consumed by prospectors, they replenish both Hunger and Thirst .",
+  "item_type": "harvestable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
   "category": "food",
-  "harvested_from": [],
+  "harvested_from": [
+    "the Forest",
+    "Riverl",
+    "s locations on Icarus"
+  ],
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {

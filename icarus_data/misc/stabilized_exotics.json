@@ -1,8 +1,8 @@
 {
   "name": "Stabilized Exotics",
   "url": "https://icarus.fandom.com/wiki/Stabilized_Exotics",
-  "description": "Stabilized Exotics are a form of currency in theWorkshopand the stabilized state that results from processing and cleaningVolatile Raw Exoticsfound onPrometheus.",
-  "item_type": "ammunition",
+  "description": "Stabilized Exotics are a form of currency in the Workshop and the stabilized state that results from processing and cleaning Volatile Raw Exotics found on Prometheus .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

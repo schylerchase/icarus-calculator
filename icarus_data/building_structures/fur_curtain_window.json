@@ -2,9 +2,9 @@
   "name": "Fur Curtain Window",
   "url": "https://icarus.fandom.com/wiki/Fur_Curtain_Window",
   "description": "A Fur Curtain Window to decorate windows and keep the weather out.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
     "weight": "1.0 Kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Textiles Bench"
+    "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

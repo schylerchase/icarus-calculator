@@ -1,0 +1,20 @@
+{
+  "name": "Cryogenically Frozen Chicken",
+  "url": "https://icarus.fandom.com/wiki/Cryogenically_Frozen_Chicken",
+  "description": "The Cryogenically Frozen Chicken is a deployable container containing a Chicken that can be researched and obtained in the Workshop and called down to the planet using the Orbital Exchange Interface .",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "1.0 Kg"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

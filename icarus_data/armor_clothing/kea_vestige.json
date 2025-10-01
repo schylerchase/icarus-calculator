@@ -1,8 +1,8 @@
 {
   "name": "Kea Vestige",
   "url": "https://icarus.fandom.com/wiki/Kea_Vestige",
-  "description": "Kea Vestiges are used at theTrophy Benchto create aKea Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Kea Vestiges are used at the Trophy Bench to create a Kea Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

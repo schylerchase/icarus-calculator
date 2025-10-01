@@ -2,25 +2,26 @@
   "total_items": 1644,
   "failed_items": 0,
   "categories": {
-    "ammunition": 92,
+    "ammunition": 89,
     "armor_clothing": 151,
     "building_furniture": 123,
     "building_structures": 163,
     "consumables_food": 76,
     "consumables_medicine": 26,
-    "deployables": 8,
-    "misc": 691,
-    "resources_processed": 42,
-    "resources_raw": 110,
+    "deployables": 7,
+    "misc": 616,
+    "orbital_items": 36,
+    "resources_processed": 39,
+    "resources_raw": 157,
     "tools": 12,
-    "weapons_melee": 111,
+    "weapons_melee": 110,
     "weapons_ranged": 39
   },
-  "scrape_date": "2025-09-30 10:31:52",
+  "scrape_date": "2025-09-30 23:19:45",
   "source": "https://icarus.fandom.com",
   "structure": {
     "individual_files": "1644 files in category subfolders",
-    "category_collections": "13 category JSON files",
+    "category_collections": "14 category JSON files",
     "master_index": "index.json with item metadata and file paths"
   }
 }

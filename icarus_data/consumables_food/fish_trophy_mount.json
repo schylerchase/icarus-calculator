@@ -1,10 +1,10 @@
 {
   "name": "Fish Trophy Mount",
   "url": "https://icarus.fandom.com/wiki/Fish_Trophy_Mount",
-  "description": "The Fish Trophy Mount can be used to display impressive catches with details of the quality, weight, and length of the fish shown. When holding down R, Prospectors can choose between 3 different variants. Fish stored in the Fish Trophy Mount will not spoil. All Fish obtained using aFishing Rodor Fishing Trap can be placed in the Fish Trophy Mount.",
+  "description": "The Fish Trophy Mount can be used to display impressive catches with details of the quality, weight, and length of the fish shown. When holding down R, Prospectors can choose between 3 different variants. Fish stored in the Fish Trophy Mount will not spoil. All Fish obtained using a Fishing Rod or Fishing Trap can be placed in the Fish Trophy Mount.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench Electric Carpentry Bench",
   "tier": 2,
   "stats": {
     "weight": "1.0 kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 15,
-      "Copper Ingot": 5,
-      "Iron Nail": 10
-    },
-    "crafted_at": "Carpentry Bench"
+    "ingredients": {},
+    "crafted_at": "Carpentry Bench Electric Carpentry Bench"
   }
 }

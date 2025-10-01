@@ -1,8 +1,8 @@
 {
   "name": "Dried Fatty T-Bone",
   "url": "https://icarus.fandom.com/wiki/Dried_Fatty_T-Bone",
-  "description": "Dried Fatty T-Bone is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "craftable",
+  "description": "Dried Fatty T-Bone is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -12,9 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Raw Fatty Tbone": 1
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

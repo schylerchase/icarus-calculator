@@ -1,8 +1,8 @@
 {
   "name": "Lowburn Module",
   "url": "https://icarus.fandom.com/wiki/Lowburn_Module",
-  "description": "This module increases fire resistance by 50% when equipped in anEnvirosuitmodule slot, reducing the amount of damage received when on fire. It can be researched and crafted on theSpace Stationin theWorkshop. Multiple Lowburn Modules may be equipped if the Prospector has available slots on their Envirosuit. The resistance increase from each Lowburn Module will stack and will grant near immunity to fire if four are equipped.",
-  "item_type": "ammunition",
+  "description": "This module increases fire resistance by 50% when equipped in an Envirosuit module slot, reducing the amount of damage received when on fire. It can be researched and crafted on the Space Station in the Workshop . Multiple Lowburn Modules may be equipped if the Prospector has available slots on their Envirosuit. The resistance increase from each Lowburn Module will stack and will grant near immunity to fire if four are equipped.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

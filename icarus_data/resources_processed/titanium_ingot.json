@@ -1,8 +1,8 @@
 {
   "name": "Titanium Ingot",
   "url": "https://icarus.fandom.com/wiki/Titanium_Ingot",
-  "description": "Titanium Ingot is the refined resource crafted fromTitanium Ore, is used widely inTier 4crafting recipes.",
-  "item_type": "ammunition",
+  "description": "Titanium Ingot is the refined resource crafted from Titanium Ore , is used widely in Tier 4 crafting recipes.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Concrete Furnace"
+    "crafted_at": "Unknown"
   }
 }

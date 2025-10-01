@@ -1,8 +1,8 @@
 {
   "name": "Sugar Cane",
   "url": "https://icarus.fandom.com/wiki/Sugar_Cane",
-  "description": "Sugar Cane does not naturally spawn on Icarus and is obtainable by plantingSeedsobtained from aSugar Cane Farming Packetordered from theWorkshopthrough theOrbital Exchange Interface.",
-  "item_type": "ammunition",
+  "description": "Sugar Cane does not naturally spawn on Icarus and is obtainable by planting Seeds obtained from a Sugar Cane Farming Packet ordered from the Workshop through the Orbital Exchange Interface .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Mortar and Pestle"
+    "crafted_at": "Unknown"
   }
 }

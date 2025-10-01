@@ -1,10 +1,10 @@
 {
   "name": "Steel Throwing Knife",
   "url": "https://icarus.fandom.com/wiki/Steel_Throwing_Knife",
-  "description": "The Steel Throwing Knife is a variant of theSteel Knifethat can be thrown. Unlike theSteel Knife, the Steel Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
+  "description": "The Steel Throwing Knife is a variant of the Steel Knife that can be thrown. Unlike the Steel Knife , the Steel Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
     "damage": "45 - 50",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 4,
-      "Epoy": 2,
-      "Steel Ingot": 6,
-      "Iron Nail": 4
-    },
-    "crafted_at": "Anvil Bench"
+    "ingredients": {},
+    "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

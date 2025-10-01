@@ -1,0 +1,20 @@
+{
+  "name": "Seeds",
+  "url": "https://icarus.fandom.com/wiki/Seeds",
+  "description": "Seeds are a resource harvested from Flora or produced in a Seed Extractor that can be planted in Dirt Mounds or Crop Plots to produce more of that specific crop.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [
+    "Flora or produced in a Seed Extractor that can be planted in Dirt Mounds or Crop Plots to produce more of that specific crop"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

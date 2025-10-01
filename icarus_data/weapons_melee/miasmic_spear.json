@@ -1,8 +1,8 @@
 {
   "name": "Miasmic Spear",
   "url": "https://icarus.fandom.com/wiki/Miasmic_Spear",
-  "description": "Element damage does not scale with Spear talents. Unlike theMiasmic Javelin, the Miasmic Spear cannot be thrown.",
-  "item_type": "ammunition",
+  "description": "Element damage does not scale with Spear talents. Unlike the Miasmic Javelin , the Miasmic Spear cannot be thrown.",
+  "item_type": "harvestable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -12,11 +12,13 @@
     "durability": "120,000"
   },
   "category": "spears",
-  "harvested_from": [],
+  "harvested_from": [
+    "Icarus wildlife"
+  ],
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Foundry"
+    "crafted_at": "Unknown"
   }
 }

@@ -1,10 +1,10 @@
 {
   "name": "Glass Bottle",
   "url": "https://icarus.fandom.com/wiki/Glass_Bottle",
-  "description": "The Glass Bottle is a resource used to makeBeer,Wine, andHoney Mead.",
+  "description": "The Glass Bottle is a resource used to make Beer , Wine , and Honey Mead .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Glassworking Bench",
   "tier": 3,
   "stats": {},
   "category": "crafted resources",
@@ -12,9 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Glass": 5
-    },
+    "ingredients": {},
     "crafted_at": "Glassworking Bench"
   }
 }

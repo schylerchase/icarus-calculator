@@ -1,0 +1,18 @@
+{
+  "name": "Sandworm",
+  "url": "https://icarus.fandom.com/wiki/Sandworm",
+  "description": "A monstrous beast that lives beneath the sand on Olympus and Styx.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "fauna",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

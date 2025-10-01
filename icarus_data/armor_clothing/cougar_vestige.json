@@ -1,8 +1,8 @@
 {
   "name": "Cougar Vestige",
   "url": "https://icarus.fandom.com/wiki/Cougar_Vestige",
-  "description": "Cougar Vestiges are used at theTrophy Benchto create aCougar Trophy, which can help prospectors complete theBestiary. They are also used at any textiles bench to makeCougar Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of theWell Rested Buff.",
-  "item_type": "ammunition",
+  "description": "Cougar Vestiges are used at the Trophy Bench to create a Cougar Trophy , which can help prospectors complete the Bestiary . They are also used at any textiles bench to make Cougar Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

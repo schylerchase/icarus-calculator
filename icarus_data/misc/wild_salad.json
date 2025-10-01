@@ -1,10 +1,10 @@
 {
   "name": "Wild Salad",
   "url": "https://icarus.fandom.com/wiki/Wild_Salad",
-  "description": "Wild Salad is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+  "description": "Wild Salad is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Kitchen Bench Marble Kitchen Bench",
   "tier": 2,
   "stats": {},
   "category": "food",
@@ -12,10 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Pumpkin": 1,
-      "Squash": 1
-    },
-    "crafted_at": "Unknown"
+    "ingredients": {},
+    "crafted_at": "Kitchen Bench Marble Kitchen Bench"
   }
 }

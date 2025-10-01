@@ -1,8 +1,8 @@
 {
   "name": "Stone",
   "url": "https://icarus.fandom.com/wiki/Stone",
-  "description": "Stone is one of the most abundantMineralsavailable on Icarus. Prospectors will make extensive use of stone from the moment they exit their drop-pods, as it is widely used in the early game for bothToolsandWeapons.",
-  "item_type": "ammunition",
+  "description": "Stone is one of the most abundant Minerals available on Icarus. Prospectors will make extensive use of stone from the moment they exit their drop-pods, as it is widely used in the early game for both Tools and Weapons .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

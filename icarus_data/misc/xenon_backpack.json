@@ -1,8 +1,8 @@
 {
   "name": "Xenon Backpack",
   "url": "https://icarus.fandom.com/wiki/Xenon_Backpack",
-  "description": "The Xenon Backpack is designed to aid prospectors in hunting and vestige gathering, granting prospectors the ability to harvest vestiges from animals without needing to use aTaxidermy Knife; an excellent choice for those seeking to complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "The Xenon Backpack is designed to aid prospectors in hunting and vestige gathering, granting prospectors the ability to harvest vestiges from animals without needing to use a Taxidermy Knife ; an excellent choice for those seeking to complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

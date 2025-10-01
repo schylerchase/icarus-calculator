@@ -1,10 +1,10 @@
 {
   "name": "Sandworm Spear",
   "url": "https://icarus.fandom.com/wiki/Sandworm_Spear",
-  "description": "The Sandworm Spear is made with scales fromSandwormsand can be used for melee combat with reach. Considering the Sandworm Spear deals the same amount of damage as aBone Spear, the Sandworm Spear is overshadowed by higher-tier spears and currently not worth the effort.",
+  "description": "The Sandworm Spear is made with scales from Sandworms and can be used for melee combat with reach. Considering the Sandworm Spear deals the same amount of damage as a Bone Spear , the Sandworm Spear is overshadowed by higher-tier spears and currently not worth the effort.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "damage": "+25% Critical Damage with Spears",
@@ -16,11 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 16,
-      "Leather": 4,
-      "Sandworm Scale": 10
-    },
-    "crafted_at": "Forge"
+    "ingredients": {},
+    "crafted_at": "Forge Foundry"
   }
 }

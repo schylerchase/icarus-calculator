@@ -2,7 +2,7 @@
   "name": "F.I.S.H.",
   "url": "https://icarus.fandom.com/wiki/F.I.S.H.",
   "description": "When held, the F.I.S.H. will scan the area and indicate which fish can be caught in the area with the base percent chance of catching each. As the Prospector catches each type, the icons for each will appear on the display.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

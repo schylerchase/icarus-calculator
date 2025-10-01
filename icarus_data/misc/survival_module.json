@@ -1,8 +1,8 @@
 {
   "name": "Survival Module",
   "url": "https://icarus.fandom.com/wiki/Survival_Module",
-  "description": "This module increases the user's resistance to cold/hot environments, reducing the damage taken from Hypothermia/Hyperthermia. It can be researched and crafted on theSpace Stationin theWorkshop. Multiple Survival Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase the users resistance to hyperthermia/hypothermia.",
-  "item_type": "ammunition",
+  "description": "This module increases the user's resistance to cold/hot environments, reducing the damage taken from Hypothermia/Hyperthermia. It can be researched and crafted on the Space Station in the Workshop . Multiple Survival Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase the users resistance to hyperthermia/hypothermia.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

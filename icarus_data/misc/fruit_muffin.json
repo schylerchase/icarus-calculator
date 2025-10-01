@@ -1,8 +1,8 @@
 {
   "name": "Fruit Muffin",
   "url": "https://icarus.fandom.com/wiki/Fruit_Muffin",
-  "description": "Fruit Muffin is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "ammunition",
+  "description": "Fruit Muffin is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,

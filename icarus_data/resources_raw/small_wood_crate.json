@@ -1,8 +1,8 @@
 {
   "name": "Small Wood Crate",
   "url": "https://icarus.fandom.com/wiki/Small_Wood_Crate",
-  "description": "The Small Wood Crate is the first available storage container that can be made by the prospector. While limited in inventory space, anything here will not be lost upon the death of the prospector or count against inventory weight. Like most otherDeployables, this must be underShelteror it will be destroyed when exposed toWeatherevents. It is possible to loot the contents if this crate is destroyed, but only for a limited time.",
-  "item_type": "ammunition",
+  "description": "The Small Wood Crate is the first available storage container that can be made by the prospector. While limited in inventory space, anything here will not be lost upon the death of the prospector or count against inventory weight. Like most other Deployables , this must be under Shelter or it will be destroyed when exposed to Weather events. It is possible to loot the contents if this crate is destroyed, but only for a limited time.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Character"
+    "crafted_at": "Unknown"
   }
 }

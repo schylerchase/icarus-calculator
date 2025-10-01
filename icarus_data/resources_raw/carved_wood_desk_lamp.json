@@ -2,9 +2,9 @@
   "name": "Carved Wood Desk Lamp",
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_Desk_Lamp",
   "description": "The Carved Wood Desk Lamp is a decorative item that requires 150 kwh of electricity",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
     "weight": "1 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Carpentry Bench"
+    "crafted_at": "Carpentry Bench"
   }
 }

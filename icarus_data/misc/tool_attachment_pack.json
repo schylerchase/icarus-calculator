@@ -1,10 +1,10 @@
 {
   "name": "Tool Attachment Pack",
   "url": "https://icarus.fandom.com/wiki/Tool_Attachment_Pack",
-  "description": "Tool Attachment Pack is aTier 3Techneeded for theAlteration Benchthat allows Prospectors to alter their Tools withAttachment Packs.",
-  "item_type": "ammunition",
+  "description": "Tool Attachment Pack is a Tier 3 Tech needed for the Alteration Bench that allows Prospectors to alter their Tools with Attachment Packs .",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Alteration Bench Advanced Alteration Bench",
   "tier": 3,
   "stats": {
     "weight": "1.0 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted at\n Alteration Bench"
+    "crafted_at": "Alteration Bench Advanced Alteration Bench"
   }
 }

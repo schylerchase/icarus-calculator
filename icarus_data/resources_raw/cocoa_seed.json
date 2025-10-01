@@ -1,0 +1,22 @@
+{
+  "name": "Cocoa Seed",
+  "url": "https://icarus.fandom.com/wiki/Cocoa_Seed",
+  "description": "Cocoa Seed are a common form of Plantlife found in the Forest and Riverlands locations on Icarus.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [
+    "the Forest",
+    "Riverl",
+    "s locations on Icarus"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

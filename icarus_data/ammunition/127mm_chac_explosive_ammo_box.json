@@ -1,8 +1,8 @@
 {
   "name": "12.7mm CHAC Explosive Ammo Box",
   "url": "https://icarus.fandom.com/wiki/12.7mm_CHAC_Explosive_Ammo_Box",
-  "description": "The 12.7mm CHAC Explosive Ammo Box provides 2512.7mm CHAC Explosive RoundsofSniper Ammunitionthat works with theAnti-materiel Rifle.",
-  "item_type": "ammunition",
+  "description": "The 12.7mm CHAC Explosive Ammo Box provides 25 12.7mm CHAC Explosive Rounds of Sniper Ammunition that works with the Anti-materiel Rifle .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

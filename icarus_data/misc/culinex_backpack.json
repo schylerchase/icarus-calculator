@@ -2,9 +2,9 @@
   "name": "Culinex Backpack",
   "url": "https://icarus.fandom.com/wiki/Culinex_Backpack",
   "description": "The Culinex Backpack provides six inventory slots, reduces consumption of food and water, adds +25% to the effectiveness of cooked food modifiers and increases the duration of cooked food modifiers by +25% for items cooked with the backpack equipped.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "weight": "0.5 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
   }
 }

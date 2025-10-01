@@ -1,10 +1,10 @@
 {
   "name": "Calibrated Grip Attachment",
   "url": "https://icarus.fandom.com/wiki/Calibrated_Grip_Attachment",
-  "description": "Calibrated Grip Attachment is a mid-to-end game item available once the prospector has unlocked theArmor Attachment Packtech. It is worth noting that The Wear Rate reduction applies to weapons as well as tools.",
-  "item_type": "ammunition",
+  "description": "Calibrated Grip Attachment is a mid-to-end game item available once the prospector has unlocked the Armor Attachment Pack tech. It is worth noting that The Wear Rate reduction applies to weapons as well as tools.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Alteration Bench",
   "tier": 3,
   "stats": {
     "weight": "1 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted at\n Alteration Bench"
+    "crafted_at": "Alteration Bench"
   }
 }

@@ -1,10 +1,10 @@
 {
   "name": "Small Green Pouch",
   "url": "https://icarus.fandom.com/wiki/Small_Green_Pouch",
-  "description": "The Small Green Pouch is a green variant of theSmall Pouch, a generic six slot container that can be placed in inventory to help organize items. It does not affect the overall weight of items or carrying capacity.",
-  "item_type": "ammunition",
+  "description": "The Small Green Pouch is a green variant of the Small Pouch , a generic six slot container that can be placed in inventory to help organize items. It does not affect the overall weight of items or carrying capacity.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
     "weight": "0.5 Kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Textiles Bench"
+    "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

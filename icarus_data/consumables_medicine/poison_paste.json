@@ -1,8 +1,8 @@
 {
   "name": "Poison Paste",
   "url": "https://icarus.fandom.com/wiki/Poison_Paste",
-  "description": "Poison Paste is used for making a variety of items, such as medicines likeAnti-Poison Pillor ammo likePoison Arrow.",
-  "item_type": "craftable",
+  "description": "Poison Paste is used for making a variety of items, such as medicines like Anti-Poison Pill or ammo like Poison Arrow .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -12,10 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Spoiled Meat": 2,
-      "Sulfur": 1
-    },
-    "crafted_at": "Mortar and Pestle"
+    "ingredients": {},
+    "crafted_at": "Unknown"
   }
 }

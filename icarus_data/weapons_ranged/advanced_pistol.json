@@ -1,10 +1,10 @@
 {
   "name": "Advanced Pistol",
   "url": "https://icarus.fandom.com/wiki/Advanced_Pistol",
-  "description": "The Advanced Pistol is the most advancedTier 4handgun with the largest ammo capacity, durability and rate of fire. It firesPistol Ammunitionsuch asArmor Piercing,Explosive,Incendiary,Obsidianor regular9mm Rounds.",
+  "description": "The Advanced Pistol is the most advanced Tier 4 handgun with the largest ammo capacity, durability and rate of fire. It fires Pistol Ammunition such as Armor Piercing , Explosive , Incendiary , Obsidian or regular 9mm Rounds .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "damage": "+15% Critical Damage",
@@ -16,13 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 6,
-      "Cured Leather": 1,
-      "Titanium Ingot": 16,
-      "Epoy": 4,
-      "Steel Screw": 8
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

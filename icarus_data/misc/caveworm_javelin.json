@@ -1,10 +1,10 @@
 {
   "name": "Caveworm Javelin",
   "url": "https://icarus.fandom.com/wiki/Caveworm_Javelin",
-  "description": "The Caveworm Javelin is a variant of theCaveworm Spearthat can only be thrown. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty.",
+  "description": "The Caveworm Javelin is a variant of the Caveworm Spear that can only be thrown. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
     "damage": "+15% Critical Damage",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 10,
-      "Leather": 4,
-      "Worm Scale": 10,
-      "Poison Sack": 10
-    },
-    "crafted_at": "Anvil Bench"
+    "ingredients": {},
+    "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

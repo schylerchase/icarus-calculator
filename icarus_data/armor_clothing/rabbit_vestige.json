@@ -1,8 +1,8 @@
 {
   "name": "Rabbit Vestige",
   "url": "https://icarus.fandom.com/wiki/Rabbit_Vestige",
-  "description": "Rabbit Vestiges are used at theTrophy Benchto create aRabbit Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Rabbit Vestiges are used at the Trophy Bench to create a Rabbit Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

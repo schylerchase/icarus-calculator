@@ -1,8 +1,8 @@
 {
   "name": "Miasmic Axe",
   "url": "https://icarus.fandom.com/wiki/Miasmic_Axe",
-  "description": "Miasmic Axe is aTier 4Axemade withDistilled Miasmic Coatingderived fromCrystallized Miasmafound in theSwampsonPrometheus. Due to the materials required, crafting the item requires the New Frontiers DLC.",
-  "item_type": "craftable",
+  "description": "Miasmic Axe is a Tier 4 Axe made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -16,14 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Carbon Fiber": 4,
-      "Steel Screw": 8,
-      "Epoy": 4,
-      "Titanium Ingot": 6,
-      "Distilled Miasmic Coating": 6,
-      "Refined Wood": 10
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

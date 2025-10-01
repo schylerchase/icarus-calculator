@@ -1,8 +1,8 @@
 {
   "name": "UDA Synthetic Enzymes Resource Supply",
   "url": "https://icarus.fandom.com/wiki/UDA_Synthetic_Enzymes_Resource_Supply",
-  "description": "The UDA Synthetic Enzymes Resource Supply pack is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. Prospectors can also research, purchase, and request UDA Synthetic Enzymes Resource Supply packs using anOrbital Exchange Interface.",
-  "item_type": "ammunition",
+  "description": "The UDA Synthetic Enzymes Resource Supply pack is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Prospectors can also research, purchase, and request UDA Synthetic Enzymes Resource Supply packs using an Orbital Exchange Interface .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

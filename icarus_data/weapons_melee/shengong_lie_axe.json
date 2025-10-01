@@ -1,10 +1,10 @@
 {
   "name": "Shengong 'Lie' Axe",
   "url": "https://icarus.fandom.com/wiki/Shengong_%27Lie%27_Axe",
-  "description": "The Shengong 'Lie' Axe is the Workshop equivalent of anIron Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees.",
-  "item_type": "ammunition",
+  "description": "The Shengong 'Lie' Axe is the Workshop equivalent of an Iron Axe , allowing Prospectors to fell trees faster while also increasing the amount received from felling trees.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "+50 Felling Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
   }
 }

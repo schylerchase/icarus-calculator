@@ -1,8 +1,8 @@
 {
   "name": "Hyena Vestige",
   "url": "https://icarus.fandom.com/wiki/Hyena_Vestige",
-  "description": "Hyena Vestiges are used at theTrophy Benchto create aHyena Trophy, which can help prospectors complete theBestiary. They are also used at any textiles bench to makeHyena Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of theWell Rested Buff.",
-  "item_type": "ammunition",
+  "description": "Hyena Vestiges are used at the Trophy Bench to create a Hyena Trophy , which can help prospectors complete the Bestiary . They are also used at any textiles bench to make Hyena Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

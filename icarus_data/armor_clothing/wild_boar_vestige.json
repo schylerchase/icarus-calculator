@@ -1,8 +1,8 @@
 {
   "name": "Wild Boar Vestige",
   "url": "https://icarus.fandom.com/wiki/Wild_Boar_Vestige",
-  "description": "Wild Boar Vestiges are used at theTrophy Benchto create aWild Boar Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Wild Boar Vestiges are used at the Trophy Bench to create a Wild Boar Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

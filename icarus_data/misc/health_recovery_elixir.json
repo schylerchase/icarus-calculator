@@ -1,8 +1,8 @@
 {
   "name": "Health Recovery Elixir",
   "url": "https://icarus.fandom.com/wiki/Health_Recovery_Elixir",
-  "description": "Health Recovery Elixir is a craftableMedicinethat immediately boosts your health by 500 points when consumed.",
-  "item_type": "ammunition",
+  "description": "Health Recovery Elixir is a craftable Medicine that immediately boosts your health by 500 points when consumed.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,

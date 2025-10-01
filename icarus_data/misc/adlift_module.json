@@ -1,8 +1,8 @@
 {
   "name": "AdLift Module",
   "url": "https://icarus.fandom.com/wiki/AdLift_Module",
-  "description": "This module increases the user's weight capacity by 15% when equipped in anEnvirosuitmodule slot. It can be researched and crafted on theSpace Stationin theWorkshop. Multiple AdLift Modules may be equipped if the prospector has available slots on their Envirosuit and will further increase the amount the user can carry.",
-  "item_type": "ammunition",
+  "description": "This module increases the user's weight capacity by 15% when equipped in an Envirosuit module slot. It can be researched and crafted on the Space Station in the Workshop . Multiple AdLift Modules may be equipped if the prospector has available slots on their Envirosuit and will further increase the amount the user can carry.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

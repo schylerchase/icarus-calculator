@@ -1,8 +1,8 @@
 {
   "name": "Jarred Honey",
   "url": "https://icarus.fandom.com/wiki/Jarred_Honey",
-  "description": "Jarred Honey is a long-lastingFoodwith a uniqueStatus Effect, which can be stacked with other food buffs.",
-  "item_type": "craftable",
+  "description": "Jarred Honey is a long-lasting Food with a unique Status Effect , which can be stacked with other food buffs.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -12,10 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Honey": 5,
-      "Glass Jar": 1
-    },
-    "crafted_at": "Kitchen Bench"
+    "ingredients": {},
+    "crafted_at": "Unknown"
   }
 }

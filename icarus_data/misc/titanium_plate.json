@@ -4,7 +4,7 @@
   "description": "Titanium Plate is used in a variety of high-end resources and components.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {},
   "category": "resources",
@@ -12,9 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Titanium Ingot": 3
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

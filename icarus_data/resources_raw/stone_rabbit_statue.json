@@ -2,9 +2,9 @@
   "name": "Stone Rabbit Statue",
   "url": "https://icarus.fandom.com/wiki/Stone_Rabbit_Statue",
   "description": "The Stone Rabbit Statue is a decorative stone item.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Masonry Bench",
   "tier": 2,
   "stats": {
     "weight": "1 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Masonry Bench"
+    "crafted_at": "Masonry Bench"
   }
 }

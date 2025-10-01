@@ -1,10 +1,10 @@
 {
   "name": "Assault Rifle",
   "url": "https://icarus.fandom.com/wiki/Assault_Rifle",
-  "description": "The Assault Rifle is an automatic firearm with reduced critical damage, +15 round ammo capacity and a high rate of fire. It usesAssault Rifle Ammunitionsuch asArmor Piercing,Explosive,Incendiary,Obsidianor regular5.56mm Rounds.",
+  "description": "The Assault Rifle is an automatic firearm with reduced critical damage, +15 round ammo capacity and a high rate of fire. It uses Assault Rifle Ammunition such as Armor Piercing , Explosive , Incendiary , Obsidian or regular 5.56mm Rounds .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "damage": "-75% Critical Damage",
@@ -16,14 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 50,
-      "Titanium Plate": 10,
-      "Titanium Ingot": 15,
-      "Epoy": 20,
-      "Steel Screw": 50,
-      "Vegetable Oil": 8
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

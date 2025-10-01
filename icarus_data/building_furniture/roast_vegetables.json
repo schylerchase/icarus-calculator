@@ -1,8 +1,8 @@
 {
   "name": "Roast Vegetables",
   "url": "https://icarus.fandom.com/wiki/Roast_Vegetables",
-  "description": "Roast Vegetables is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "ammunition",
+  "description": "Roast Vegetables is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

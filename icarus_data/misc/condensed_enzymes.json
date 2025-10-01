@@ -1,10 +1,10 @@
 {
   "name": "Condensed Enzymes",
   "url": "https://icarus.fandom.com/wiki/Condensed_Enzymes",
-  "description": "Condensed Enzymes are a unique resource in Icarus, introduced as part of the horde events. These geysers are scattered across various biomes. To trigger the event, players need to deploy aVapor Condenser(crafted at theFabricator) on top of anEnzyme Geysers. Successfully completing the event typically rewards players withExotics; however, once the reward cap of three Exotics is reached, further completions will yield Condensed Enzymes instead.",
-  "item_type": "ammunition",
+  "description": "Condensed Enzymes are a unique resource in Icarus, introduced as part of the horde events. These geysers are scattered across various biomes. To trigger the event, players need to deploy a Vapor Condenser (crafted at the Fabricator ) on top of an Enzyme Geysers . Successfully completing the event typically rewards players with Exotics ; however, once the reward cap of three Exotics is reached, further completions will yield Condensed Enzymes instead.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "the Fabricator) on top of an Enzyme Geysers",
   "tier": 0,
   "stats": {},
   "category": "minerals",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Fabricator"
+    "crafted_at": "the Fabricator) on top of an Enzyme Geysers"
   }
 }

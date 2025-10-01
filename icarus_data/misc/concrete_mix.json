@@ -1,8 +1,8 @@
 {
   "name": "Concrete Mix",
   "url": "https://icarus.fandom.com/wiki/Concrete_Mix",
-  "description": "Concrete Mix is used widely in crafting of items such asConcrete Building Pieces,Concrete Furnace, and theFabricator.",
-  "item_type": "ammunition",
+  "description": "Concrete Mix is used widely in crafting of items such as Concrete Building Pieces , Concrete Furnace , and the Fabricator .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Fabricator"
+    "crafted_at": "Unknown"
   }
 }

@@ -1,8 +1,8 @@
 {
   "name": "Salt",
   "url": "https://icarus.fandom.com/wiki/Salt",
-  "description": "Salt is aMineraland can be found in the wilderness in similar areas toSulfur,OxiteandSilica.",
-  "item_type": "ammunition",
+  "description": "Salt is a Mineral and can be found in the wilderness in similar areas to Sulfur , Oxite and Silica .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

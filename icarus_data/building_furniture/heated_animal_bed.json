@@ -1,10 +1,10 @@
 {
   "name": "Heated Animal Bed",
   "url": "https://icarus.fandom.com/wiki/Heated_Animal_Bed",
-  "description": "The Heated Animal Bed is a bed forMountsandPetsthat has a luxurious theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+  "description": "The Heated Animal Bed is a bed for Mounts and Pets that has a luxurious theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "1.5 Kg",
@@ -15,10 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Platinum Weave": 25,
-      "Gold Wire": 20
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

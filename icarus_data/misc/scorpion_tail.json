@@ -1,8 +1,8 @@
 {
   "name": "Scorpion Tail",
   "url": "https://icarus.fandom.com/wiki/Scorpion_Tail",
-  "description": "Scorpion Tail drops fromScorpions.",
-  "item_type": "ammunition",
+  "description": "Scorpion Tail drops from Scorpions .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

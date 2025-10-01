@@ -1,0 +1,845 @@
+{
+  "category": "Weapons Ranged",
+  "count": 39,
+  "items": [
+    {
+      "name": "Advanced Pistol",
+      "url": "https://icarus.fandom.com/wiki/Advanced_Pistol",
+      "description": "The Advanced Pistol is the most advanced Tier 4  handgun with the largest ammo capacity, durability and rate of fire. It fires Pistol Ammunition such as Armor Piercing , Explosive , Incendiary , Obsidian or regular 9mm Rounds .",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "tier": 4,
+      "stats": {
+        "damage": "+15% Critical Damage",
+        "weight": "1.8 kg",
+        "durability": "15,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Fabricator"
+      }
+    },
+    {
+      "name": "Anti-materiel Rifle",
+      "url": "https://icarus.fandom.com/wiki/Anti-materiel_Rifle",
+      "description": "The Anti-materiel Rifle is a bolt-action, anti-materiel rifle with a long effective range and an included scope for viewing the target. It fires Sniper Ammunition purchased from the Workshop .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "10.0 Kg",
+        "durability": "7,500"
+      },
+      "category": "sniper rifles",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Assault Rifle",
+      "url": "https://icarus.fandom.com/wiki/Assault_Rifle",
+      "description": "The Assault Rifle is an automatic firearm with reduced critical damage, +15 round ammo capacity and a high rate of fire. It uses Assault Rifle Ammunition such as Armor Piercing , Explosive , Incendiary , Obsidian or regular 5.56mm Rounds .",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "tier": 4,
+      "stats": {
+        "damage": "-75% Critical Damage",
+        "weight": "5.5 Kg",
+        "durability": "55,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Fabricator"
+      }
+    },
+    {
+      "name": "Automated Defense System: Pistol",
+      "url": "https://icarus.fandom.com/wiki/Automated_Defense_System:_Pistol",
+      "description": "Automated Defense System: Pistol is a deployable base defense turret that fires Pistol Ammunition at hostile Fauna .",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "tier": 4,
+      "stats": {
+        "weight": "20 Kg",
+        "durability": "10,000"
+      },
+      "category": "defenses",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Fabricator"
+      }
+    },
+    {
+      "name": "Bolt Action Rifle",
+      "url": "https://icarus.fandom.com/wiki/Bolt_Action_Rifle",
+      "description": "The Bolt Action Rifle is the first long-range Firearm that prospectors can create. It can utilize the 7.62mm Round , the Incendiary Rifle Round , etc. Along with the Shotgun , it provides Prospectors with a significant increase in survivability when encountering the Fauna of Icarus. The Bolt Action Rifle can fire 75 rounds before breaking, and the talent Gunsmith can increase this to up to a maximum of 90 rounds, so bring a Machining Bench for long trips.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "tier": 3,
+      "stats": {
+        "weight": "4.0 kg",
+        "durability": "7,500"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Machining Bench"
+      }
+    },
+    {
+      "name": "CHAC \"Boomstick\" Shotgun",
+      "url": "https://icarus.fandom.com/wiki/CHAC_%22Boomstick%22_Shotgun",
+      "description": "The CHAC \"Boomstick\" Shotgun is an advanced purchaseable Shotgun with increase projectile and critical damage. It fires any Shotgun Ammunition and is comparable to other Tier 4  Firearms .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+25% Critical Damage",
+        "weight": "3.5 kg",
+        "durability": "25,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "CHAC \"Sentinel\" Pistol",
+      "url": "https://icarus.fandom.com/wiki/CHAC_%22Sentinel%22_Pistol",
+      "description": "The CHAC \"Sentinel\" Pistol is an advanced handgun with increased projectile and critical damage that is comparable, or better than other Tier 4  Firearms .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+25% Critical Damage",
+        "weight": "1.0 kg",
+        "durability": "25,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "CHAC \"Sovereign\" Rifle",
+      "url": "https://icarus.fandom.com/wiki/CHAC_%22Sovereign%22_Rifle",
+      "description": "The CHAC \"Sovereign\" Rifle is a purchaseable rifle with a fast reload speed and moderate damage capability.",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+25% Critical Damage",
+        "weight": "3.0 kg",
+        "durability": "25,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Caveworm Bow",
+      "url": "https://icarus.fandom.com/wiki/Caveworm_Bow",
+      "description": "Using arrows and talents interchangeably with other bows, the Caveworm Bow is harder hitting than the Longbow and is equal in strength to the Recurve Bow .",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Anvil Bench Forge Foundry",
+      "tier": 2,
+      "stats": {
+        "damage": "+50% Damage",
+        "weight": "1.0 kg",
+        "durability": "8,500"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Anvil Bench Forge Foundry"
+      }
+    },
+    {
+      "name": "Compound Bow",
+      "url": "https://icarus.fandom.com/wiki/Compound_Bow",
+      "description": "The tail-end of the 20th Century brought about many advancements in technology and archery didn't get left behind. A Compound Bow works like a simple block and tackle, multiplying input energy over distance with it's Cam and Idler Wheel pulleys, instead of traditional bow limbs; which allows the Compound Bow to hit harder than the Recurve Bow .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {
+        "damage": "+100% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "20,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Crossbow",
+      "description": "The earliest known Crossbows were invented on Earth in the first millennium BC, not later than the 7th century BC in ancient China, not later than the 1st century AD in Greece; on Icarus, Prospectors will test this ancient technology in many challenges to see if it still holds up.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Anvil Bench Forge Foundry",
+      "tier": 2,
+      "stats": {
+        "weight": "1.0 kg",
+        "durability": "10,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Anvil Bench Forge Foundry"
+      }
+    },
+    {
+      "name": "Gunpowder",
+      "url": "https://icarus.fandom.com/wiki/Gunpowder",
+      "description": "Gunpowder is a precursor resource used in making Ammunition , weapons like the Frag Grenade , and Volatile Substance .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "crafted resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Hunting Rifle",
+      "url": "https://icarus.fandom.com/wiki/Hunting_Rifle",
+      "description": "An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench / Advanced Alteration Bench .",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "tier": 4,
+      "stats": {
+        "damage": "+100% Critical Damage",
+        "weight": "4.0 kg",
+        "durability": "10,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Fabricator"
+      }
+    },
+    {
+      "name": "Inaris \"Heavy\" Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Inaris_%22Heavy%22_Crossbow",
+      "description": "The Inaris \"Heavy\" Crossbow is the opposite of the Inaris \"Rapid\" Crossbow , trading reload speed for a significant boost to overall damage. The Inaris \"Heavy\" Crossbow can use Crossbow Bolts crafted on planet as well as Bolts crafted in the Workshop .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+10% Critical Damage",
+        "weight": "1.5 kg",
+        "durability": "60,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Inaris \"Lune\" Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Inaris_%22Lune%22_Crossbow",
+      "description": "The Inaris \"Lune\" Crossbow can use Crossbow Bolts crafted on planet as well as Workshop Bolts . Firing faster and dealing more damage than its predecessors, the Inaris \"Lune\" Crossbow, as a whole, is a must for avid Crossbow users.",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+70% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "60,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Inaris \"Rapid\" Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Inaris_%22Rapid%22_Crossbow",
+      "description": "The Inaris \"Rapid\" Crossbow is unlocked in the Workshop on the Space Station . The Inaris \"Rapid\" Crossbow can use crossbow bolts crafted on planet as well as the bolts crafted in the Workshop .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+25% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "60,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Inaris \"Sole\" Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Inaris_%22Sole%22_Crossbow",
+      "description": "Using arrows and talents interchangeably with other crossbows, the Inaris \"Sole\" Crossbow is geared more towards elemental damage. When paired with Bolts that deal elemental damage ( Obsidian Bolts , Larkwell Martinez Charged Bolts , etc), the Inaris \"Sole\" Crossbow can pack a punch, making it a decent, if not expensive, upgrade to the previous Workshop Crossbows. Dealt elemental damage is not affected by Crossbow talents.",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+50% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "60,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Kinetic Rifle",
+      "url": "https://icarus.fandom.com/wiki/Kinetic_Rifle",
+      "description": "The Kinetic Rifle is a Legendary Weapon Rifle that can be purchased at the Bio-lab .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "5.0 kg",
+        "durability": "35,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Larkwell Martinez Compound Bow",
+      "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Compound_Bow",
+      "description": "The Larkwell Martinez Compound Bow is a stronger, more durable variant of the Compound Bow using arrows and talents interchangeably with other bows.",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+125% Projectile Damage",
+        "weight": "2.0 kg",
+        "durability": "40,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Longbow",
+      "url": "https://icarus.fandom.com/wiki/Longbow",
+      "description": "Using arrows and talents interchangeably with other Bows , the Longbow hits harder than the Wood Bow .",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Anvil Bench",
+      "tier": 2,
+      "stats": {
+        "damage": "+25% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "7,500"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Anvil Bench"
+      }
+    },
+    {
+      "name": "One-Shot Pistol",
+      "url": "https://icarus.fandom.com/wiki/One-Shot_Pistol",
+      "description": "The One-Shot Pistol is an inexpensive early-game Tier 2  handgun that holds one bullet.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Crafting Bench Machining Bench Fabricator",
+      "tier": 2,
+      "stats": {
+        "weight": "1.0 kg",
+        "durability": "3,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Crafting Bench Machining Bench Fabricator"
+      }
+    },
+    {
+      "name": "Pistol",
+      "url": "https://icarus.fandom.com/wiki/Pistol",
+      "description": "The Pistol is a single-shot 9mm handgun and is a decent upgrade in firepower available to prospectors. It fires 35 rounds of Pistol Ammunition before breaking, so bring a Machining Bench / Repair Bench for long trips.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "tier": 3,
+      "stats": {
+        "weight": "0.8 kg",
+        "durability": "3,500"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Machining Bench"
+      }
+    },
+    {
+      "name": "Platinum Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Platinum_Crossbow",
+      "description": "The Platinum Crossbow is a mid/late game weapon that can penetrate hardened points with a chance to slow targets but has a slower fire rate than Bows .",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Forge Foundry",
+      "tier": 3,
+      "stats": {
+        "weight": "1.0 kg",
+        "durability": "15,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Forge Foundry"
+      }
+    },
+    {
+      "name": "Recurve Bow",
+      "url": "https://icarus.fandom.com/wiki/Recurve_Bow",
+      "description": "The pinnacle of Instinctive Archery, made of Steel and Aluminium , the Recurve Bow hits harder than the Longbow .",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Forge Foundry",
+      "tier": 3,
+      "stats": {
+        "damage": "+50% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "12,500"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Forge Foundry"
+      }
+    },
+    {
+      "name": "Rusty Shotgun",
+      "url": "https://icarus.fandom.com/wiki/Rusty_Shotgun",
+      "description": "A crude version of the Shotgun that fires slower and holds fewer rounds. It uses any type of Shotgun Ammunition .",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "tier": 3,
+      "stats": {
+        "weight": "3.0 kg",
+        "durability": "6,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Machining Bench"
+      }
+    },
+    {
+      "name": "Sandworm Bow",
+      "url": "https://icarus.fandom.com/wiki/Sandworm_Bow",
+      "description": "The Sandworm Bow is made with scales from the Sandworm , using arrows and talents interchangeably with other bows.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Forge Foundry",
+      "tier": 3,
+      "stats": {
+        "damage": "+75% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "15,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Forge Foundry"
+      }
+    },
+    {
+      "name": "Semi-Automatic Pistol",
+      "url": "https://icarus.fandom.com/wiki/Semi-Automatic_Pistol",
+      "description": "The Semi-Automatic Pistol is a Tier 3  handgun with more ammo capacity than the Pistol . It fires pistol Pistol Ammunition such as Armor Piercing , Explosive , Incendiary , Obsidian or regular 9mm Rounds .",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Machining Bench Fabricator",
+      "tier": 3,
+      "stats": {
+        "weight": "1.5 kg",
+        "durability": "7,500"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Machining Bench Fabricator"
+      }
+    },
+    {
+      "name": "Shengong \"Ji\" Bow",
+      "url": "https://icarus.fandom.com/wiki/Shengong_%22Ji%22_Bow",
+      "description": "The Shengong \"Ji\" Bow is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows.",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+75% Projectile Damage",
+        "weight": "0.1kg",
+        "durability": "50,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Shengong \"Jijing\" Bow",
+      "url": "https://icarus.fandom.com/wiki/Shengong_%22Jijing%22_Bow",
+      "description": "The Shengong \"Jijing\" Bow is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows.",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "-5% Critical Damage with Bows/Crossbows",
+        "weight": "0.1kg",
+        "durability": "50,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Shengong \"Zhang Hu\" Bow",
+      "url": "https://icarus.fandom.com/wiki/Shengong_%22Zhang_Hu%22_Bow",
+      "description": "The Shengong \"Zhang Hu\" Bow is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows.",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+75% Projectile Damage",
+        "weight": "0.1kg",
+        "durability": "50,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Shengong CZ4 Bow",
+      "url": "https://icarus.fandom.com/wiki/Shengong_CZ4_Bow",
+      "description": "Using arrows and talents interchangeably with other bows, the Shengong CZ4 Bow is geared more towards elemental damage. When paired with arrows that deal elemental damage ( Obsidian Arrows , Inaris \"Netch\" Arrows , etc), the Shengong CZ4 Bow can pack a punch, making it a decent, if not expensive, upgrade to the previous Shengong Bows. Dealt elemental damage is not affected by Bow talents.",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+100% Projectile Damage",
+        "weight": "0.1 kg",
+        "durability": "50,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Shengong HS2 Bow",
+      "url": "https://icarus.fandom.com/wiki/Shengong_HS2_Bow",
+      "description": "The Shengong HS2 Bow is a stronger variant of the Shengong Bows using arrows and talents interchangeably with other bows. Despite the Shengong HS2 Bow dealing 35% less damage than the Larkwell Martinez Compound Bow , the Shengong HS2 Bow is unmatched in reload speed and fire rate; perfect for the Prospector who wants to fill the skies with arrows.",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+90% Projectile Damage",
+        "weight": "0.1 kg",
+        "durability": "50,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Shotgun",
+      "url": "https://icarus.fandom.com/wiki/Shotgun",
+      "description": "The Shotgun is one of the first Firearms available to prospectors. Using 12-Gauge Buckshot Shell for ammunition, the Shotgun is more powerful than the Bolt Action Rifle at close range. However, damage decreases rapidly as range increases, and prospectors should not rely on it for long-range encounters with the Fauna of Icarus. The Shotgun can fire 100 rounds before breaking, and the talent Gunsmith can increase this to up to a maximum of 125 rounds, so bring a Machining Bench for long trips.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Machining Bench",
+      "tier": 3,
+      "stats": {
+        "damage": "+15% Projectile Damage",
+        "weight": "4.0 kg",
+        "durability": "10,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Machining Bench"
+      }
+    },
+    {
+      "name": "Submachine Gun",
+      "url": "https://icarus.fandom.com/wiki/Submachine_Gun",
+      "description": "The Submachine Gun is a compact firearm with low projectile and critical damage, but a high rate of fire. It uses Pistol Ammunition such as Armor Piercing , Explosive , Incendiary , Obsidian or regular 9mm Rounds .",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "tier": 4,
+      "stats": {
+        "damage": "-75% Critical Damage",
+        "weight": "3.0 kg",
+        "durability": "45,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Fabricator"
+      }
+    },
+    {
+      "name": "Tactical Bow",
+      "url": "https://icarus.fandom.com/wiki/Tactical_Bow",
+      "description": "The Tactical Bow is an advanced bow that is part of the Great Hunts Campaigns DLC on Prometheus . It fires any type of Arrow and can be upgraded in the Bio-lab .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "damage": "+100% Projectile Damage",
+        "weight": "3.0 kg",
+        "durability": "30,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Titanium Crossbow",
+      "url": "https://icarus.fandom.com/wiki/Titanium_Crossbow",
+      "description": "The Titanium Crossbow is an upgrade to the Platinum Crossbow that offers a boost to projectile damage and a slightly larger ammo count; has a chance to slow targets and can fully penetrate hardened points, but has a slower fire rate than Bows .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {
+        "damage": "+50% Projectile Damage",
+        "weight": "1.0 kg",
+        "durability": "20,000"
+      },
+      "category": "crossbows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Tomato & Egg Bowl",
+      "url": "https://icarus.fandom.com/wiki/Tomato_%26_Egg_Bowl",
+      "description": "Tomato & Egg Bowl is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Trench Shotgun",
+      "url": "https://icarus.fandom.com/wiki/Trench_Shotgun",
+      "description": "An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench / Advanced Alteration Bench . Devastating up close when paired with the Barrel Widening Attachment / Narrow Barrel Attachment s and the Larkwell Martinez Mercenary Backpack .",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Fabricator",
+      "tier": 4,
+      "stats": {
+        "damage": "+30% Projectile Damage",
+        "weight": "4.5 kg",
+        "durability": "10,000"
+      },
+      "category": "firearms",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Fabricator"
+      }
+    },
+    {
+      "name": "Wood Bow",
+      "url": "https://icarus.fandom.com/wiki/Wood_Bow",
+      "description": "The Wood Bow is the first bow a player can get access to. It can be unlocked via the Tech Tree in Tier 1  with no prerequisite tech required.",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {
+        "weight": "1.0kg",
+        "durability": "5,000"
+      },
+      "category": "bows",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    }
+  ]
+}

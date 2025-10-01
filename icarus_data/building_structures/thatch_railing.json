@@ -1,8 +1,8 @@
 {
   "name": "Thatch Railing",
   "url": "https://icarus.fandom.com/wiki/Thatch_Railing",
-  "description": "The Thatch Railing is part of theThatch Building Trim Set, which is learned in theTier 1Tech Tree after unlocking theThatch Building Base Set.",
-  "item_type": "craftable",
+  "description": "The Thatch Railing is part of the Thatch Building Trim Set , which is learned in the Tier 1 Tech Tree after unlocking the Thatch Building Base Set .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -15,10 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 8,
-      "Stick": 2
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

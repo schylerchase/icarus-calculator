@@ -1,8 +1,8 @@
 {
   "name": "Refined Gold",
   "url": "https://icarus.fandom.com/wiki/Refined_Gold",
-  "description": "Refined Gold is the refined resource crafted fromGold Ore.",
-  "item_type": "ammunition",
+  "description": "Refined Gold is the refined resource crafted from Gold Ore .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Concrete Furnace"
+    "crafted_at": "Unknown"
   }
 }

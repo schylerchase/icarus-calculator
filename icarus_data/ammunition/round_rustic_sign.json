@@ -2,7 +2,7 @@
   "name": "Round Rustic Sign",
   "url": "https://icarus.fandom.com/wiki/Round_Rustic_Sign",
   "description": "A Round Rustic Sign made of wood.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Character"
+    "crafted_at": "Unknown"
   }
 }

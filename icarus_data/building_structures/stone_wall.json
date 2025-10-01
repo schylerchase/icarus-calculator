@@ -2,9 +2,9 @@
   "name": "Stone Wall",
   "url": "https://icarus.fandom.com/wiki/Stone_Wall",
   "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "the Masonry Bench with the following resources:",
   "tier": 0,
   "stats": {
     "weight": "<unkown>",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Masonry Bench"
+    "crafted_at": "the Masonry Bench with the following resources:"
   }
 }

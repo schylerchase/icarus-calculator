@@ -2,9 +2,9 @@
   "name": "Art Deco 2-Seater Couch",
   "url": "https://icarus.fandom.com/wiki/Art_Deco_2-Seater_Couch",
   "description": "The Art Deco 2-Seater Couch is an gilded item of significant worth.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
     "weight": "10 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Decoration Bench"
+    "crafted_at": "Decoration Bench"
   }
 }

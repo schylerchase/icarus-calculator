@@ -1,10 +1,12 @@
 {
   "name": "Steel Screw",
   "url": "https://icarus.fandom.com/wiki/Steel_Screw",
-  "description": "Steel Screw is used in crafting high end tools, weapons, and structures likeAluminium Buildings.",
-  "item_type": "ammunition",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "description": "Steel Screw is used in crafting high end tools, weapons, and structures like Aluminium Buildings .",
+  "item_type": "craftable",
+  "ingredients": {
+    "Steel Ingot": 100
+  },
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {},
   "category": "resources",
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 100
+    },
     "crafted_at": "Machining Bench"
   }
 }

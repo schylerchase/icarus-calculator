@@ -1,10 +1,10 @@
 {
   "name": "Electric Deep-Mining Drill",
   "url": "https://icarus.fandom.com/wiki/Electric_Deep-Mining_Drill",
-  "description": "The Electric Deep-Mining Drill will mineDeep Mining Ore Depositswhen supplied with 2,000 units ofPower. The Electric Deep-Mining Drill has more inventory slots, twenty in all, 15 more slots than its biofuel counterpart. This allows 1000 or 2000 ore to be accumulated before needing to be emptied, depending on the ore type.",
-  "item_type": "ammunition",
+  "description": "The Electric Deep-Mining Drill will mine Deep Mining Ore Deposits when supplied with 2,000 units of Power . The Electric Deep-Mining Drill has more inventory slots, twenty in all, 15 more slots than its biofuel counterpart. This allows 1000 or 2000 ore to be accumulated before needing to be emptied, depending on the ore type.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "10.0 kg",

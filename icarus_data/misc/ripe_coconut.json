@@ -1,8 +1,8 @@
 {
   "name": "Ripe Coconut",
   "url": "https://icarus.fandom.com/wiki/Ripe_Coconut",
-  "description": "If a Prospector lets aYoung Coconutdecay, it will ripen into a ripe coconut. Let a ripe coconut decay, and it will ripen again into aMature Coconut.",
-  "item_type": "ammunition",
+  "description": "If a Prospector lets a Young Coconut decay, it will ripen into a ripe coconut. Let a ripe coconut decay, and it will ripen again into a Mature Coconut .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

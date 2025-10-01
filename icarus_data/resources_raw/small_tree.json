@@ -1,0 +1,18 @@
+{
+  "name": "Small Tree",
+  "url": "https://icarus.fandom.com/wiki/Small_Tree",
+  "description": "A small, immature tree, most often growing in wooded areas of the Forest Biome on Icarus. Can be harvested by hand for Sticks and Fiber , but more efficiently with an Axe .",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "plantlife",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

@@ -1,10 +1,10 @@
 {
   "name": "Longbow",
   "url": "https://icarus.fandom.com/wiki/Longbow",
-  "description": "Using arrows and talents interchangeably with otherBows, the Longbow hits harder than theWood Bow.",
+  "description": "Using arrows and talents interchangeably with other Bows , the Longbow hits harder than the Wood Bow .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Anvil Bench",
   "tier": 2,
   "stats": {
     "damage": "+25% Projectile Damage",
@@ -16,11 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 24,
-      "Leather": 32,
-      "Bone": 4
-    },
+    "ingredients": {},
     "crafted_at": "Anvil Bench"
   }
 }

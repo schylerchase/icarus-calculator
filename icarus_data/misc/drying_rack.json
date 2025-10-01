@@ -1,8 +1,8 @@
 {
   "name": "Drying Rack",
   "url": "https://icarus.fandom.com/wiki/Drying_Rack",
-  "description": "The Drying Rack is an early-game cooking bench that provides a way for Prospectors to preserve foods, while also giving the Prospector a variety of unique status effects from various dried foods. The Drying Rack can also be used to createCured Leather.",
-  "item_type": "craftable",
+  "description": "The Drying Rack is an early-game cooking bench that provides a way for Prospectors to preserve foods, while also giving the Prospector a variety of unique status effects from various dried foods. The Drying Rack can also be used to create Cured Leather .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 50,
-      "Stick": 25,
-      "Fiber": 50
-    },
-    "crafted_at": "Character"
+    "ingredients": {},
+    "crafted_at": "Unknown"
   }
 }

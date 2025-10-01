@@ -1,8 +1,8 @@
 {
   "name": "Larkwell Martinez Charged Bolt",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Charged_Bolt",
-  "description": "The Larkwell Martinez Charged Bolt is ammunition used with aCrossbow. Due to the one-time use payload, these bolts cannot be recovered once fired.",
-  "item_type": "ammunition",
+  "description": "The Larkwell Martinez Charged Bolt is ammunition used with a Crossbow . Due to the one-time use payload, these bolts cannot be recovered once fired.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

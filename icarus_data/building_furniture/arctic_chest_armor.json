@@ -1,10 +1,10 @@
 {
   "name": "Arctic Chest Armor",
   "url": "https://icarus.fandom.com/wiki/Arctic_Chest_Armor",
-  "description": "Arctic Armor is a major upgrade toFur Armor, offering unrivaled cold resistance.",
+  "description": "Arctic Armor is a major upgrade to Fur Armor , offering unrivaled cold resistance.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
   "tier": 3,
   "stats": {
     "weight": "4.0 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Cured Leather": 5,
-      "Arctic Pelt": 8,
-      "Fur": 20,
-      "Rope": 6
-    },
-    "crafted_at": "Advanced Textiles Bench"
+    "ingredients": {},
+    "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
   }
 }

@@ -1,8 +1,8 @@
 {
   "name": "Organic Resin",
   "url": "https://icarus.fandom.com/wiki/Organic_Resin",
-  "description": "Organic Resin is used in crafting of items such asElectronics, andComposite Paste, making it a critical component inTier 4crafting.",
-  "item_type": "ammunition",
+  "description": "Organic Resin is used in crafting of items such as Electronics , and Composite Paste , making it a critical component in Tier 4 crafting.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Mortar and Pestle"
+    "crafted_at": "Unknown"
   }
 }

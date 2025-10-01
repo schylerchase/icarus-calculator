@@ -4,7 +4,7 @@
   "description": "The earliest known Crossbows were invented on Earth in the first millennium BC, not later than the 7th century BC in ancient China, not later than the 1st century AD in Greece; on Icarus, Prospectors will test this ancient technology in many challenges to see if it still holds up.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
     "weight": "1.0 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 18,
-      "Leather": 12,
-      "Iron Ingot": 12,
-      "Iron Nail": 2
-    },
-    "crafted_at": "Anvil Bench"
+    "ingredients": {},
+    "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

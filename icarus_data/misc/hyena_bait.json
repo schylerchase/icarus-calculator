@@ -1,10 +1,10 @@
 {
   "name": "Hyena Bait",
   "url": "https://icarus.fandom.com/wiki/Hyena_Bait",
-  "description": "Hyena Bait is a single-useCrafted Resourceused to attract and captureWild Hyenaswhen used with aSnare Trap. Hyena Bait does not decay and can only be used inDesertandVolcanicBiomes. Stacks up to ten.",
+  "description": "Hyena Bait is a single-use Crafted Resource used to attract and capture Wild Hyenas when used with a Snare Trap . Hyena Bait does not decay and can only be used in Desert and Volcanic Biomes. Stacks up to ten.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {},
   "category": "crafted resources",
@@ -12,11 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Raw Fatty Tbone": 1,
-      "Animal Fat": 2,
-      "Spoiled Meat": 5
-    },
-    "crafted_at": "Crafted at\n Ranching Station"
+    "ingredients": {},
+    "crafted_at": "Ranching Station"
   }
 }

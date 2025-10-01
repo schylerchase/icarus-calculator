@@ -1,10 +1,10 @@
 {
   "name": "Inaris \"Sali\" Axe",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Sali%22_Axe",
-  "description": "The Inaris \"Sali\" Axe is a Workshop Axe geared towards combat, intrinsically dealing poison damage to targets and generatingInfected Barkwhen harvesting trees.",
-  "item_type": "ammunition",
+  "description": "The Inaris \"Sali\" Axe is a Workshop Axe geared towards combat, intrinsically dealing poison damage to targets and generating Infected Bark when harvesting trees.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "+60 Felling Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
   }
 }

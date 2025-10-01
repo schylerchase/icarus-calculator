@@ -1,8 +1,8 @@
 {
   "name": "MXC Camping Cooker",
   "url": "https://icarus.fandom.com/wiki/MXC_Camping_Cooker",
-  "description": "The MXC Camping Cooker is a portable version of thePotbelly Stovethat is purchased from theWorkshopon the Space Station and powered byHydrazine. It does not require shelter to operate.",
-  "item_type": "ammunition",
+  "description": "The MXC Camping Cooker is a portable version of the Potbelly Stove that is purchased from the Workshop on the Space Station and powered by Hydrazine . It does not require shelter to operate.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

@@ -1,10 +1,10 @@
 {
   "name": "Oxygen Bladder",
   "url": "https://icarus.fandom.com/wiki/Oxygen_Bladder",
-  "description": "Oxygen Bladder is filled at theOxite Dissolver, and is equipped in anEnvirosuitoxygen slot enabling automaticOxygenreplenishment. It holds 1000 oxygen units.",
-  "item_type": "ammunition",
+  "description": "Oxygen Bladder is filled at the Oxite Dissolver , and is equipped in an Envirosuit oxygen slot enabling automatic Oxygen replenishment. It holds 1000 oxygen units.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {},
   "category": "oxygen containers",

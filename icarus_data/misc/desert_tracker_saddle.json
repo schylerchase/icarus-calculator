@@ -1,10 +1,10 @@
 {
   "name": "Desert Tracker Saddle",
   "url": "https://icarus.fandom.com/wiki/Desert_Tracker_Saddle",
-  "description": "The Desert Tracker Saddle is a saddle formountsthat has desert theme. It is available as part of theCreature Comforts DLCand is a cosmetic change to theBasic Riding Saddlethat provides no additional attributes.",
+  "description": "The Desert Tracker Saddle is a saddle for mounts that has desert theme. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides no additional attributes.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "1.5 Kg"
@@ -14,11 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Leather": 20,
-      "Fiber": 14,
-      "Rope": 2
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

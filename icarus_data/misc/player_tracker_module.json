@@ -1,8 +1,8 @@
 {
   "name": "Player Tracker Module",
   "url": "https://icarus.fandom.com/wiki/Player_Tracker_Module",
-  "description": "When this module is equipped in anEnvirosuitmodule slot it allows a prospector to see other prospectors on the map. It can be researched and created on theSpace Stationin theWorkshop.",
-  "item_type": "ammunition",
+  "description": "When this module is equipped in an Envirosuit module slot it allows a prospector to see other prospectors on the map. It can be researched and created on the Space Station in the Workshop .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

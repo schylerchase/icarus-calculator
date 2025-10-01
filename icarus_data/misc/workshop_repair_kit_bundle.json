@@ -1,8 +1,8 @@
 {
   "name": "Workshop Repair Kit Bundle",
   "url": "https://icarus.fandom.com/wiki/Workshop_Repair_Kit_Bundle",
-  "description": "The Workshop Repair Kit Bundle is unlocked in theWorkshopon theSpace Station. Once opened, this bundle gives the Prospector fiveWorkshop Repair Kits that can be used to repairOrbital Workshop Tools/Weapons/Armorat a poweredRepair Bench.",
-  "item_type": "ammunition",
+  "description": "The Workshop Repair Kit Bundle is unlocked in the Workshop on the Space Station . Once opened, this bundle gives the Prospector five Workshop Repair Kit s that can be used to repair Orbital Workshop Tools/Weapons/Armor at a powered Repair Bench .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

@@ -1,10 +1,10 @@
 {
   "name": "IC-001 Prototype Power Source",
   "url": "https://icarus.fandom.com/wiki/IC-001_Prototype_Power_Source",
-  "description": "The IC-001 Prototype Power Source is unlocked in theWorkshopon theSpace Station. It is used to power theIC-001 Extractor. It can be used to extract 330 exotics before depleting and has a stack size of one.",
-  "item_type": "ammunition",
+  "description": "The IC-001 Prototype Power Source is unlocked in the Workshop on the Space Station . It is used to power the IC-001 Extractor . It can be used to extract 330 exotics before depleting and has a stack size of one.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Cannot be returned to Station",
   "tier": 0,
   "stats": {
     "weight": "0.5 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Cannot be returned to Station"
   }
 }

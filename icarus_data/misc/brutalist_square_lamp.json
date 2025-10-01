@@ -1,10 +1,10 @@
 {
   "name": "Brutalist Square Lamp",
   "url": "https://icarus.fandom.com/wiki/Brutalist_Square_Lamp",
-  "description": "The Brutalist Square Lamp is a table lamp with a concrete base and a square shade (despite the appearance of the in-game item icon) in the Brutalist design aesthetic. It requires 150 units ofElectricityto operate and provides aLight Sourceand bonus toCoziness.",
-  "item_type": "ammunition",
+  "description": "The Brutalist Square Lamp is a table lamp with a concrete base and a square shade (despite the appearance of the in-game item icon) in the Brutalist design aesthetic. It requires 150 units of Electricity to operate and provides a Light Source and bonus to Coziness .",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
     "weight": "5 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Decoration Bench"
+    "crafted_at": "Decoration Bench"
   }
 }

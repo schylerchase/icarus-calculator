@@ -1,8 +1,8 @@
 {
   "name": "Heat Bandage",
   "url": "https://icarus.fandom.com/wiki/Heat_Bandage",
-  "description": "Heat Bandage is used to heal Frostbite, Frosty and Exotic ChillStatus Effects. If the Prospector's core temperature is still freezing, the heat bandage will not remove these debuffs.",
-  "item_type": "ammunition",
+  "description": "Heat Bandage is used to heal Frostbite, Frosty and Exotic Chill Status Effects . If the Prospector's core temperature is still freezing, the heat bandage will not remove these debuffs.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Character"
+    "crafted_at": "Unknown"
   }
 }

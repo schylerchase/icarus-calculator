@@ -1,8 +1,8 @@
 {
   "name": "12.7mm CHAC Explosive Round",
   "url": "https://icarus.fandom.com/wiki/12.7mm_CHAC_Explosive_Round",
-  "description": "12.7mm CHAC Explosive Round is a type of explosiveSniper Ammunitionfor theAnti-materiel Riflethat does 500 projectile damage and 400 explosive damage.",
-  "item_type": "ammunition",
+  "description": "12.7mm CHAC Explosive Round is a type of explosive Sniper Ammunition for the Anti-materiel Rifle that does 500 projectile damage and 400 explosive damage.",
+  "item_type": "harvestable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,7 +10,9 @@
     "weight": "0.02 kg"
   },
   "category": "sniper ammunition",
-  "harvested_from": [],
+  "harvested_from": [
+    "world bosses"
+  ],
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {

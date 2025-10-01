@@ -1,10 +1,10 @@
 {
   "name": "Larkwell Martinez Axe",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Axe",
-  "description": "The Larkwell Martinez Axe is the Workshop equivalent of anSteel Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees. Similar to theInaris \"Dias\" Axe, the Larkwell Martinez Axe also reduces the carry weight of wood when equipped.",
-  "item_type": "ammunition",
+  "description": "The Larkwell Martinez Axe is the Workshop equivalent of an Steel Axe , allowing Prospectors to fell trees faster while also increasing the amount received from felling trees. Similar to the Inaris \"Dias\" Axe , the Larkwell Martinez Axe also reduces the carry weight of wood when equipped.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "+60 Felling Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
   }
 }

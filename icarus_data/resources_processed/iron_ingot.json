@@ -1,10 +1,10 @@
 {
   "name": "Iron Ingot",
   "url": "https://icarus.fandom.com/wiki/Iron_Ingot",
-  "description": "Iron Ingot is the refined resource crafted fromIron Oreand is one of the most used materials in theTier 2Tech Tree and beyond.",
-  "item_type": "ammunition",
+  "description": "Iron Ingot is the refined resource crafted from Iron Ore and is one of the most used materials in the Tier 2 Tech Tree and beyond.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Stone Furnace Concrete Furnace Electric Furnace",
   "tier": 2,
   "stats": {},
   "category": "crafted resources",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Concrete Furnace"
+    "crafted_at": "Stone Furnace Concrete Furnace Electric Furnace"
   }
 }

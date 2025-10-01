@@ -1,10 +1,10 @@
 {
   "name": "Biofuel Oxite Dissolver",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Oxite_Dissolver",
-  "description": "More efficient than theOxite Dissolver, this is used in tandem withOxygen Containersplaced into the oxidizer. The front slots of the deployable only acceptOxygen Containersand will automatically fill said containers fromOxiteplaced into the machine when supplied with Biofuel from aBiofuel Can. A fullBiofuel Canwill last three minutes and twenty seconds, producing 0.2 Liters of Oxygen every two seconds.",
+  "description": "More efficient than the Oxite Dissolver , this is used in tandem with Oxygen Containers placed into the oxidizer. The front slots of the deployable only accept Oxygen Containers and will automatically fill said containers from Oxite placed into the machine when supplied with Biofuel from a Biofuel Can . A full Biofuel Can will last three minutes and twenty seconds, producing 0.2 Liters of Oxygen every two seconds.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
     "weight": "8.0 Kg",
@@ -15,13 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Steel Ingot": 15,
-      "Glass": 4,
-      "Epoy": 12,
-      "Electronics": 20,
-      "Copper Wire": 50
-    },
-    "crafted_at": "Machining Bench"
+    "ingredients": {},
+    "crafted_at": "Machining Bench Fabricator"
   }
 }

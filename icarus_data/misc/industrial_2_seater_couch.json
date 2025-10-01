@@ -2,9 +2,9 @@
   "name": "Industrial 2-Seater Couch",
   "url": "https://icarus.fandom.com/wiki/Industrial_2-Seater_Couch",
   "description": "A minimalist Industrial 2-Seater Couch with metal arms that seats two people.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
     "weight": "10.0 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Decoration Bench"
+    "crafted_at": "Decoration Bench"
   }
 }

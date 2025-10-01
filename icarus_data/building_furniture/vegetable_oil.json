@@ -1,8 +1,8 @@
 {
   "name": "Vegetable Oil",
   "url": "https://icarus.fandom.com/wiki/Vegetable_Oil",
-  "description": "Vegetable Oil is an intermediary resource used to createBiofuel,Cured Leather, aSubmachine Gunand variousFoodrecipes.",
-  "item_type": "craftable",
+  "description": "Vegetable Oil is an intermediary resource used to create Biofuel , Cured Leather , a Submachine Gun and various Food recipes.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -12,9 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Seeds": 15
-    },
-    "crafted_at": "Mortar and Pestle"
+    "ingredients": {},
+    "crafted_at": "Unknown"
   }
 }

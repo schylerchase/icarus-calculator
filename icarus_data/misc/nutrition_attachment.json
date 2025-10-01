@@ -1,10 +1,10 @@
 {
   "name": "Nutrition Attachment",
   "url": "https://icarus.fandom.com/wiki/Nutrition_Attachment",
-  "description": "The Nutrition Attachment is an armor alteration that adds an extra stomach slot forFoodand increases the duration of foodStatus Effects.",
+  "description": "The Nutrition Attachment is an armor alteration that adds an extra stomach slot for Food and increases the duration of food Status Effects .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Advanced Alteration Bench",
   "tier": 4,
   "stats": {
     "weight": "1.0 kg"
@@ -14,10 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Composites": 4,
-      "Electronics": 4
-    },
+    "ingredients": {},
     "crafted_at": "Advanced Alteration Bench"
   }
 }

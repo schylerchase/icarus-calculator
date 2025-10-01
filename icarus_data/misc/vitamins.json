@@ -1,10 +1,10 @@
 {
   "name": "Vitamins",
   "url": "https://icarus.fandom.com/wiki/Vitamins",
-  "description": "Vitamins are a late-gameTier 4preventativeMedicinethat increases resistance to a number of conditions and is useful in allBiomes. It does not consume a stomach slot so it can be combined with otherFoodbuffs.",
-  "item_type": "ammunition",
+  "description": "Vitamins are a late-game Tier 4 preventative Medicine that increases resistance to a number of conditions and is useful in all Biomes . It does not consume a stomach slot so it can be combined with other Food buffs.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "the Chemistry Bench with the following resources:",
   "tier": 4,
   "stats": {},
   "category": "medicine",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "the Chemistry Bench with the following resources:"
   }
 }

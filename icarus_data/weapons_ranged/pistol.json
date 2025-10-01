@@ -1,10 +1,10 @@
 {
   "name": "Pistol",
   "url": "https://icarus.fandom.com/wiki/Pistol",
-  "description": "The Pistol is a single-shot 9mm handgun and is a decent upgrade in firepower available to prospectors. It fires 35 rounds ofPistol Ammunitionbefore breaking, so bring aMachining Bench/Repair Benchfor long trips.",
+  "description": "The Pistol is a single-shot 9mm handgun and is a decent upgrade in firepower available to prospectors. It fires 35 rounds of Pistol Ammunition before breaking, so bring a Machining Bench / Repair Bench for long trips.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.8 kg",
@@ -15,13 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 6,
-      "Cured Leather": 1,
-      "Steel Ingot": 20,
-      "Epoy": 4,
-      "Steel Screw": 8
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

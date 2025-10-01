@@ -1,8 +1,8 @@
 {
   "name": "Chala Vestige",
   "url": "https://icarus.fandom.com/wiki/Chala_Vestige",
-  "description": "Chala Vestiges are used at theTrophy Benchto create aChala Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Chala Vestiges are used at the Trophy Bench to create a Chala Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

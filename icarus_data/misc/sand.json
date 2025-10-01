@@ -1,8 +1,8 @@
 {
   "name": "Sand",
   "url": "https://icarus.fandom.com/wiki/Sand",
-  "description": "Sand is aResourcefound on the surface of Icarus inDesertbiomes. Sand is collected with aShoveland can be used to makeGlassin aConcrete Furnace/Electric Furnace.",
-  "item_type": "ammunition",
+  "description": "Sand is a Resource found on the surface of Icarus in Desert biomes. Sand is collected with a Shovel and can be used to make Glass in a Concrete Furnace / Electric Furnace .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Concrete Furnace"
+    "crafted_at": "Unknown"
   }
 }

@@ -1,8 +1,8 @@
 {
   "name": "Fiber",
   "url": "https://icarus.fandom.com/wiki/Fiber",
-  "description": "In-game description:A bundle of soft fiber, highly useful.",
-  "item_type": "ammunition",
+  "description": "In-game description: A bundle of soft fiber, highly useful.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

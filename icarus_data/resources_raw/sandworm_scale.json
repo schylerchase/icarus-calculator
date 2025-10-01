@@ -1,0 +1,23 @@
+{
+  "name": "Sandworm Scale",
+  "url": "https://icarus.fandom.com/wiki/Sandworm_Scale",
+  "description": "Harvested from Sandworms , attacking the body of a Sandworm will break off scales which fall to the ground. However, be quick about retrieval as these scales are lost to the dunes quickly.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [
+    "S",
+    "worms",
+    "attacking the body of a S",
+    "worm will break off scales which fall to the ground"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

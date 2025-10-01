@@ -1,8 +1,8 @@
 {
   "name": "Stonejaw Vestige",
   "url": "https://icarus.fandom.com/wiki/Stonejaw_Vestige",
-  "description": "Stonejaw Vestiges are used at theTrophy Benchto create aStonejaw Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Stonejaw Vestiges are used at the Trophy Bench to create a Stonejaw Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

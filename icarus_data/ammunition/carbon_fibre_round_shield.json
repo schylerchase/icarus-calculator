@@ -2,9 +2,9 @@
   "name": "Carbon Fibre Round Shield",
   "url": "https://icarus.fandom.com/wiki/Carbon_Fibre_Round_Shield",
   "description": "The Carbon Fibre Round Shield is crafted at the Forge/Foundry with the following resources:",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "weight": "1.5 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Carbon Fiber": 14,
-      "Platinum Sheath": 8,
-      "Steel Screw": 20,
-      "Epoy": 4
-    },
-    "crafted_at": "Forge"
+    "ingredients": {},
+    "crafted_at": "Forge Foundry"
   }
 }

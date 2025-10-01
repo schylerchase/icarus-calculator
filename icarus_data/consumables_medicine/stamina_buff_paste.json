@@ -1,8 +1,8 @@
 {
   "name": "Stamina Buff Paste",
   "url": "https://icarus.fandom.com/wiki/Stamina_Buff_Paste",
-  "description": "In-game description:A herbal concoction, temporarily increasing stamina.In-game flavor text:While lacking some of the pharmaceutical refinements, this paste produces similar physiological affects to the 'wakers' once offered to long haul space pilots.",
-  "item_type": "craftable",
+  "description": "In-game description: A herbal concoction, temporarily increasing stamina. In-game flavor text: While lacking some of the pharmaceutical refinements, this paste produces similar physiological affects to the 'wakers' once offered to long haul space pilots.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -12,11 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Reed Flower": 2,
-      "Wheat": 2,
-      "Tree Sap": 1
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

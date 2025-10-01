@@ -2,7 +2,7 @@
   "name": "Anti-Poison Pill",
   "url": "https://icarus.fandom.com/wiki/Anti-Poison_Pill",
   "description": "Anti-Poison Pills are used to cure, and prevent for a short time, further ailments from contact with poisonous substances.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Kitchen Bench"
+    "crafted_at": "Unknown"
   }
 }

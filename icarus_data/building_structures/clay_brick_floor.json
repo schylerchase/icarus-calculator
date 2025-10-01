@@ -2,7 +2,7 @@
   "name": "Clay Brick Floor",
   "url": "https://icarus.fandom.com/wiki/Clay_Brick_Floor",
   "description": "Fired Clay Brick building material providing a more traditional brick aesthetic that is only available on Prometheus.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -15,10 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Clay Brick": 30,
-      "Tree Sap": 5
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

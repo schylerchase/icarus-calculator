@@ -1,8 +1,8 @@
 {
   "name": "Copper Ore",
   "url": "https://icarus.fandom.com/wiki/Copper_Ore",
-  "description": "Copper Ore is an early-gameMineralResource. It is widely used in the construction ofInterior Wood Building Pieces, and prospectors can make extensive use of copper once they reach level 20 and unlockTier 3, as it is a crucial component inElectronics. In the late game, copper is used in various deployables like theRefrigeratorand theMaterial Processor.",
-  "item_type": "ammunition",
+  "description": "Copper Ore is an early-game Mineral Resource . It is widely used in the construction of Interior Wood Building Pieces , and prospectors can make extensive use of copper once they reach level 20 and unlock Tier 3 , as it is a crucial component in Electronics . In the late game, copper is used in various deployables like the Refrigerator and the Material Processor .",
+  "item_type": "harvestable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Fabricator"
+    "crafted_at": "Unknown"
   }
 }

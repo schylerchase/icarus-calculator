@@ -1,8 +1,8 @@
 {
   "name": "Compound Bow",
   "url": "https://icarus.fandom.com/wiki/Compound_Bow",
-  "description": "The tail-end of the 20th Century brought about many advancements in technology and archery didn't get left behind. A Compound Bow works like a simple block and tackle, multiplying input energy over distance with it's Cam and Idler Wheel pulleys, instead of traditional bow limbs; which allows the Compound Bow to hit harder than theRecurve Bow.",
-  "item_type": "ammunition",
+  "description": "The tail-end of the 20th Century brought about many advancements in technology and archery didn't get left behind. A Compound Bow works like a simple block and tackle, multiplying input energy over distance with it's Cam and Idler Wheel pulleys, instead of traditional bow limbs; which allows the Compound Bow to hit harder than the Recurve Bow .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,

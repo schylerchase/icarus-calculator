@@ -1,8 +1,8 @@
 {
   "name": "Larkwell Explosive Bolt Bundle",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Explosive_Bolt_Bundle",
-  "description": "Consuming the Larkwell Explosive Bolt Bundle will add 25xLarkwell Martinez Explosive Bolts to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed bolt bundles/remaining bolts cannot be taken back to the space station. Bolt bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-  "item_type": "ammunition",
+  "description": "Consuming the Larkwell Explosive Bolt Bundle will add 25x Larkwell Martinez Explosive Bolt s to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed bolt bundles/remaining bolts cannot be taken back to the space station. Bolt bundles that have not been consumed can be taken back to the space station for use in another prospect.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

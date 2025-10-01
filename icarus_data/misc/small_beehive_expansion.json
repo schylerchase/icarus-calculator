@@ -4,7 +4,7 @@
   "description": "The Small Beehive Expansion increases the Small Beehive generic inventory slots by 6 and reduces the energy transmutation cost by 10%.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 2,
   "stats": {
     "durability": "1000"
@@ -14,12 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Honeycomb": 15,
-      "Refined Wood": 20,
-      "Aluminium Ingot": 13,
-      "Steel Screw": 10
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

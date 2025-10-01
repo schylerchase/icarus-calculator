@@ -1,0 +1,18 @@
+{
+  "name": "UDA Scoria Resource Supply",
+  "url": "https://icarus.fandom.com/wiki/UDA_Scoria_Resource_Supply",
+  "description": "The Stabilized Exotics needed to research this item are exclusive to the Prometheus map.",
+  "item_type": "orbital",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resource packs",
+  "harvested_from": [],
+  "research_cost": 100,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

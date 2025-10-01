@@ -1,10 +1,10 @@
 {
   "name": "Repair Bench",
   "url": "https://icarus.fandom.com/wiki/Repair_Bench",
-  "description": "The Repair Bench has the ability to repair all items you’re wearing or have placed on the bench with a single click, regardless of where they were crafted. When combined with a power connection (1,500electricity) it can also repairTier 4and Orbital Workshop items. To repair Orbital Workshop Items, aWorkshop Repair Kitis required.",
+  "description": "The Repair Bench has the ability to repair all items you’re wearing or have placed on the bench with a single click, regardless of where they were crafted. When combined with a power connection (1,500 electricity ) it can also repair Tier 4 and Orbital Workshop items. To repair Orbital Workshop Items, a Workshop Repair Kit is required.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "20.0 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Aluminium Ingot": 20,
-      "Cured Leather": 20,
-      "Refined Wood": 50,
-      "Stone": 12
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

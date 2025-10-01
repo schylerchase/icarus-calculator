@@ -1,8 +1,8 @@
 {
   "name": "Xigo SplintX Bundle",
   "url": "https://icarus.fandom.com/wiki/Xigo_SplintX_Bundle",
-  "description": "The Xigo SplintX Bundle provides 5Xigo SplintXsthat act asMedicineto heal a Sprain or Broken LegStatus Effectand provide +10% Falling Resistance.",
-  "item_type": "ammunition",
+  "description": "The Xigo SplintX Bundle provides 5 Xigo SplintXs that act as Medicine to heal a Sprain or Broken Leg Status Effect and provide +10% Falling Resistance.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

@@ -1,8 +1,8 @@
 {
   "name": "Blood Thinning Pill",
   "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Pill",
-  "description": "Blood Thinning Pills are used to cure, and prevent for a short time, furtherContusionsandConcussions.",
-  "item_type": "craftable",
+  "description": "Blood Thinning Pills are used to cure, and prevent for a short time, further Contusions and Concussions .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -12,11 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Blood Thinning Tonic": 1,
-      "Tree Sap": 1,
-      "Charcoal": 5
-    },
-    "crafted_at": "Kitchen Bench"
+    "ingredients": {},
+    "crafted_at": "Unknown"
   }
 }

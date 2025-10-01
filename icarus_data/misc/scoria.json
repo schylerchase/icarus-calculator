@@ -1,8 +1,8 @@
 {
   "name": "Scoria",
   "url": "https://icarus.fandom.com/wiki/Scoria",
-  "description": "A rough-textured rock ejected from the planet's surface during volcanic activity. Scoria is found in theVolcanicBiomein Icarus. In order to collect it, one needs to first break it apart using aSledgehammer.",
-  "item_type": "ammunition",
+  "description": "A rough-textured rock ejected from the planet's surface during volcanic activity. Scoria is found in the Volcanic Biome in Icarus. In order to collect it, one needs to first break it apart using a Sledgehammer .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

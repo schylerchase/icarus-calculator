@@ -1,8 +1,8 @@
 {
   "name": "Medium Wood Crate",
   "url": "https://icarus.fandom.com/wiki/Medium_Wood_Crate",
-  "description": "Larger than theSmall Wood Crate, the Medium Wood Crate also possesses an increased inventory space with 20 slots. Like most otherDeployables, this must be underShelteror it will be destroyed when exposed toWeatherevents. It is possible to loot the contents if this crate is destroyed, but only for a limited time.",
-  "item_type": "ammunition",
+  "description": "Larger than the Small Wood Crate , the Medium Wood Crate also possesses an increased inventory space with 20 slots. Like most other Deployables , this must be under Shelter or it will be destroyed when exposed to Weather events. It is possible to loot the contents if this crate is destroyed, but only for a limited time.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Character"
+    "crafted_at": "Unknown"
   }
 }

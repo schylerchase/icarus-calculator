@@ -1,8 +1,8 @@
 {
   "name": "Raw Soft Meat",
   "url": "https://icarus.fandom.com/wiki/Raw_Soft_Meat",
-  "description": "Raw Soft Meat can be obtained by Skinning animals with aKnife. Eating Raw Soft Meat will replenishHealththere is a possibility of negativeStatus Effectswhen doing so. It is better toCookfirst before eating.",
-  "item_type": "ammunition",
+  "description": "Raw Soft Meat can be obtained by Skinning animals with a Knife . Eating Raw Soft Meat will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

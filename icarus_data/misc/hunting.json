@@ -1,8 +1,8 @@
 {
   "name": "Hunting",
   "url": "https://icarus.fandom.com/wiki/Hunting",
-  "description": "Hunting is an important task for most Icarus prospectors. It provides a source ofFoodItems, but also a number ofResourcesessential to survival.",
-  "item_type": "ammunition",
+  "description": "Hunting is an important task for most Icarus prospectors. It provides a source of Food Items , but also a number of Resources essential to survival.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

@@ -1,8 +1,8 @@
 {
   "name": "Ice",
   "url": "https://icarus.fandom.com/wiki/Ice",
-  "description": "Like stone, prospectors can harvest individual pieces by hand while in theArctic. However, it is much more efficient to gather Ice from snowpack with aShovel.Deep Freezerscan also be used to generate Ice.",
-  "item_type": "ammunition",
+  "description": "Like stone, prospectors can harvest individual pieces by hand while in the Arctic . However, it is much more efficient to gather Ice from snowpack with a Shovel . Deep Freezers can also be used to generate Ice.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,

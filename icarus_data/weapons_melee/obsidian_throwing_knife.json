@@ -1,10 +1,10 @@
 {
   "name": "Obsidian Throwing Knife",
   "url": "https://icarus.fandom.com/wiki/Obsidian_Throwing_Knife",
-  "description": "The Obsidian Throwing Knife is a variant of theObsidian Knifethat can only be thrown and is unlocked upon researching theObsidian Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
-  "item_type": "ammunition",
+  "description": "The Obsidian Throwing Knife is a variant of the Obsidian Knife that can only be thrown and is unlocked upon researching the Obsidian Knife . Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
     "damage": "33 - 33 Fire",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Anvil Bench"
+    "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

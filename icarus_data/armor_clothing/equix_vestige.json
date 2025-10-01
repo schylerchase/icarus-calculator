@@ -1,8 +1,8 @@
 {
   "name": "Equix Vestige",
   "url": "https://icarus.fandom.com/wiki/Equix_Vestige",
-  "description": "Equix Vestiges are used at theTrophy Benchto create anEquix Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Equix Vestiges are used at the Trophy Bench to create an Equix Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

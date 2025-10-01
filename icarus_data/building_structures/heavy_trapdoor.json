@@ -2,9 +2,9 @@
   "name": "Heavy Trapdoor",
   "url": "https://icarus.fandom.com/wiki/Heavy_Trapdoor",
   "description": "The Heavy Trapdoor is part of the Concrete Buildings category, however lacking the need for concrete in construction, it is however an equal in longevity and durability.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "the Machining Bench with the following resources:",
   "tier": 0,
   "stats": {
     "weight": "<unkown>",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Machining Bench"
+    "crafted_at": "the Machining Bench with the following resources:"
   }
 }

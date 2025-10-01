@@ -1,10 +1,10 @@
 {
   "name": "Glass",
   "url": "https://icarus.fandom.com/wiki/Glass",
-  "description": "Glass is a crafted resource refined fromSilica OreorSand.",
-  "item_type": "ammunition",
+  "description": "Glass is a crafted resource refined from Silica Ore or Sand .",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Concrete Furnace Electric Furnace",
   "tier": 3,
   "stats": {},
   "category": "crafted resources",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Concrete Furnace"
+    "crafted_at": "Concrete Furnace Electric Furnace"
   }
 }

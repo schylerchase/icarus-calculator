@@ -1,8 +1,8 @@
 {
   "name": "Broiled Kumara",
   "url": "https://icarus.fandom.com/wiki/Broiled_Kumara",
-  "description": "Broiled Kumara is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "ammunition",
+  "description": "Broiled Kumara is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,

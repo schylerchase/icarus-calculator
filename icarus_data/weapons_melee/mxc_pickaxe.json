@@ -1,10 +1,10 @@
 {
   "name": "MXC Pickaxe",
   "url": "https://icarus.fandom.com/wiki/MXC_Pickaxe",
-  "description": "The MXC Pickaxe is the workshop equivalent of aStone Pickaxe, providing a minor boost to mining yield and efficiency.",
-  "item_type": "ammunition",
+  "description": "The MXC Pickaxe is the workshop equivalent of a Stone Pickaxe , providing a minor boost to mining yield and efficiency.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "33 - 35 Melee Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
   }
 }

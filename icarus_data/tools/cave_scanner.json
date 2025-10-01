@@ -4,7 +4,7 @@
   "description": "Locates caves with audible beeping. While the cave scanner is equipped and in hand the scanner's lights will blink and it will beep so long as a cave is somewhat nearby. The frequency of blinking/beeping increases as the Prospector approaches a cave. Furthermore, the scanner will beep more rapidly if the Prospector is looking in the direction of a cave.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "1.0 Kg"
@@ -14,12 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Iron Ingot": 10,
-      "Gold Wire": 25,
-      "Iron Nail": 12,
-      "Copper Wire": 25
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

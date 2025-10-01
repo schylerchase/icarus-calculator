@@ -1,10 +1,10 @@
 {
   "name": "Biofuel Chimney Cap",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Chimney_Cap",
-  "description": "A Biofuel Chimney Cap is the final cap piece to place on aBiofuel Chimney Extensionor directly on aBiofuel Fireplace. Two variants, a half height and full height, are available by holding the 'R' key when deploying.",
+  "description": "A Biofuel Chimney Cap is the final cap piece to place on a Biofuel Chimney Extension or directly on a Biofuel Fireplace . Two variants, a half height and full height, are available by holding the 'R' key when deploying.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
     "weight": "2.0 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Iron Ingot": 4,
-      "Epoy": 4,
-      "Steel Ingot": 2
-    },
-    "crafted_at": "Machining Bench"
+    "ingredients": {},
+    "crafted_at": "Machining Bench Fabricator"
   }
 }

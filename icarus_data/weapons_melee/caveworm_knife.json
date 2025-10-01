@@ -1,10 +1,10 @@
 {
   "name": "Caveworm Knife",
   "url": "https://icarus.fandom.com/wiki/Caveworm_Knife",
-  "description": "The Caveworm Knife is made with resources obtained fromCaveworms. Though the Caveworm Knife can be used as a melee weapon or tool to skin fauna, the Caveworm Knife has very little durability, which can prove problematic while on the go as it can only be repaired at anAnvil Bench.",
+  "description": "The Caveworm Knife is made with resources obtained from Caveworms . Though the Caveworm Knife can be used as a melee weapon or tool to skin fauna, the Caveworm Knife has very little durability, which can prove problematic while on the go as it can only be repaired at an Anvil Bench .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
     "damage": "49 - 55",
@@ -16,12 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 2,
-      "Leather": 2,
-      "Worm Scale": 5,
-      "Poison Sack": 5
-    },
-    "crafted_at": "Anvil Bench"
+    "ingredients": {},
+    "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

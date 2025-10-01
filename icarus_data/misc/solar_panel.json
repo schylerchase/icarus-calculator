@@ -1,10 +1,10 @@
 {
   "name": "Solar Panel",
   "url": "https://icarus.fandom.com/wiki/Solar_Panel",
-  "description": "The Solar Panel generatesElectricitywhen positioned in direct sunlight. Use anElectricity Toolto connect it toBenchesto provide power. Contrary to its description, the Solar Panel needs to \"see\" the sun itself, not just be in a sunlit area to work. The panel will only provide power if it has an unobstructed view of the sun in the sky; anything that casts a shadow on it can interfere with power production. Solar Panel can be placed underwater.",
+  "description": "The Solar Panel generates Electricity when positioned in direct sunlight. Use an Electricity Tool to connect it to Benches to provide power. Contrary to its description, the Solar Panel needs to \"see\" the sun itself, not just be in a sunlit area to work. The panel will only provide power if it has an unobstructed view of the sun in the sky; anything that casts a shadow on it can interfere with power production. Solar Panel can be placed underwater.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "10.0 Kg",
@@ -15,13 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Electronics": 30,
-      "Steel Screw": 10,
-      "Glass": 60,
-      "Composites": 18,
-      "Carbon Fiber": 8
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

@@ -1,12 +1,9 @@
 {
   "name": "9mm Round",
   "url": "https://icarus.fandom.com/wiki/9mm_Round",
-  "description": "The basic ammunition used by thePistols. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. With the talentPistol Proficiency, Prospectors can craft this ammo at a -25% reduced resource cost. Also, with the talentFreebies, Prospectors have a 5% chance to craft double ammo. The ability to craft double ammo works in tandem, on a successful proc chance, with the reduced resource cost recipe netting a total of six extra rounds of ammunition.",
-  "item_type": "Ammunition",
-  "ingredients": {
-    "Ammo Casing": 1,
-    "Gunpowder": 1
-  },
+  "description": "The basic ammunition used by the Pistols . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. With the talent Pistol Proficiency , Prospectors can craft this ammo at a -25% reduced resource cost. Also, with the talent Freebies , Prospectors have a 5% chance to craft double ammo. The ability to craft double ammo works in tandem, on a successful proc chance, with the reduced resource cost recipe netting a total of six extra rounds of ammunition.",
+  "item_type": "craftable",
+  "ingredients": {},
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -17,21 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Ammo Casing": 1,
-      "Gunpowder": 1
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
-  },
-  "talent_recipes": [
-    {
-      "talent_name": "Pistol Proficiency",
-      "talent_effect": "-25% reduced resource cost",
-      "ingredients": {
-        "Ammo Casing": 4,
-        "Gunpowder": 4
-      },
-      "crafted_at": "Machining Bench"
-    }
-  ]
+  }
 }

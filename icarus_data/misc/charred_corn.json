@@ -1,8 +1,8 @@
 {
   "name": "Charred Corn",
   "url": "https://icarus.fandom.com/wiki/Charred_Corn",
-  "description": "Charred Corn is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "ammunition",
+  "description": "Charred Corn is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,

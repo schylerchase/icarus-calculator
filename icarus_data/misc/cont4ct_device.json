@@ -1,10 +1,10 @@
 {
   "name": "CONT4CT Device",
   "url": "https://icarus.fandom.com/wiki/CONT4CT_Device",
-  "description": "The CONT4CT Device grants Prospectors access to SMPL3 missions andOperations. Though the CONT4CT Device can be crafted inMissions, they can only be used inOpen WorldsandOutposts. Must be deployed outdoors.",
+  "description": "The CONT4CT Device grants Prospectors access to SMPL3 missions and Operations . Though the CONT4CT Device can be crafted in Missions , they can only be used in Open Worlds and Outposts . Must be deployed outdoors.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
     "weight": "10.0 kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 10,
-      "Rope": 8,
-      "Iron Ingot": 15
-    },
-    "crafted_at": "Crafted At\n Crafting Bench"
+    "ingredients": {},
+    "crafted_at": "Crafting Bench"
   }
 }

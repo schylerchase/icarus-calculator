@@ -1,10 +1,10 @@
 {
   "name": "Directional Worklamp",
   "url": "https://icarus.fandom.com/wiki/Directional_Worklamp",
-  "description": "The Directional Worklamp provides lighting for a Prospector's base. Requires 150 units ofpowerto function.",
+  "description": "The Directional Worklamp provides lighting for a Prospector's base. Requires 150 units of power to function.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "1.0 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Aluminium Ingot": 10,
-      "Glass": 5,
-      "Composites": 5,
-      "Electronics": 2
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

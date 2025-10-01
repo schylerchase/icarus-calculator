@@ -1,8 +1,8 @@
 {
   "name": "Elephant Vestige",
   "url": "https://icarus.fandom.com/wiki/Elephant_Vestige",
-  "description": "Elephant Vestiges are used at theTrophy Benchto create anElephant Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Elephant Vestiges are used at the Trophy Bench to create an Elephant Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

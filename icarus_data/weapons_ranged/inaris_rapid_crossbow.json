@@ -1,8 +1,8 @@
 {
   "name": "Inaris \"Rapid\" Crossbow",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Rapid%22_Crossbow",
-  "description": "The Inaris \"Rapid\" Crossbow is unlocked in theWorkshopon theSpace Station. The Inaris \"Rapid\" Crossbow can use crossbow bolts crafted on planet as well as the bolts crafted in theWorkshop.",
-  "item_type": "ammunition",
+  "description": "The Inaris \"Rapid\" Crossbow is unlocked in the Workshop on the Space Station . The Inaris \"Rapid\" Crossbow can use crossbow bolts crafted on planet as well as the bolts crafted in the Workshop .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

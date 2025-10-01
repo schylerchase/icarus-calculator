@@ -2,9 +2,9 @@
   "name": "Composite Legs Armor",
   "url": "https://icarus.fandom.com/wiki/Composite_Legs_Armor",
   "description": "Composite Legs Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Electric Textiles Bench",
   "tier": 4,
   "stats": {
     "weight": "2.5 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Aluminium Ingot": 6,
-      "Composites": 18,
-      "Steel Screw": 8,
-      "Carbon Fiber": 2
-    },
+    "ingredients": {},
     "crafted_at": "Electric Textiles Bench"
   }
 }

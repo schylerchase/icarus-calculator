@@ -1,10 +1,10 @@
 {
   "name": "Iron Shears",
   "url": "https://icarus.fandom.com/wiki/Iron_Shears",
-  "description": "The Iron Shears are use to shearSheepto obtainWool. Can cause 30-40 Melee damage",
+  "description": "The Iron Shears are use to shear Sheep to obtain Wool . Can cause 30-40 Melee damage",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Anvil Bench",
   "tier": 2,
   "stats": {
     "weight": "1.0kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 10,
-      "Leather": 10,
-      "Iron Ingot": 6,
-      "Iron Nail": 2
-    },
+    "ingredients": {},
     "crafted_at": "Anvil Bench"
   }
 }

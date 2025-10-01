@@ -1,10 +1,10 @@
 {
   "name": "Herbalism Bench",
   "url": "https://icarus.fandom.com/wiki/Herbalism_Bench",
-  "description": "Allows for the crafting ofMedicinal Pastes and Tonicssuch asAntibiotic Tonicto cure ailments and afflictions.",
-  "item_type": "ammunition",
+  "description": "Allows for the crafting of Medicinal Pastes and Tonics such as Antibiotic Tonic to cure ailments and afflictions.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafting Bench Machining Bench Fabricator",
   "tier": 2,
   "stats": {
     "weight": "20.0kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Machining Bench"
+    "crafted_at": "Crafting Bench Machining Bench Fabricator"
   }
 }

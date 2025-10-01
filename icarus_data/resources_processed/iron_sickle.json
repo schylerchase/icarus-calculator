@@ -1,10 +1,10 @@
 {
   "name": "Iron Sickle",
   "url": "https://icarus.fandom.com/wiki/Iron_Sickle",
-  "description": "Used by 'attacking' plants such as shrubs,Reed Flower,Wheat, etc. Sickles significantly increase the yield of plants when harvesting.",
+  "description": "Used by 'attacking' plants such as shrubs, Reed Flower , Wheat , etc. Sickles significantly increase the yield of plants when harvesting.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "the Anvil Bench with the following resources:",
   "tier": 2,
   "stats": {
     "damage": "50",
@@ -16,11 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 4,
-      "Leather": 4,
-      "Iron Ingot": 10
-    },
-    "crafted_at": "Anvil Bench"
+    "ingredients": {},
+    "crafted_at": "the Anvil Bench with the following resources:"
   }
 }

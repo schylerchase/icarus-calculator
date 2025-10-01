@@ -1,10 +1,10 @@
 {
   "name": "Electric Chimney Cap",
   "url": "https://icarus.fandom.com/wiki/Electric_Chimney_Cap",
-  "description": "A Electric Chimney Cap is the final cap piece to place on anElectric Chimney Extensionor directly on anElectric Fireplace.",
+  "description": "A Electric Chimney Cap is the final cap piece to place on an Electric Chimney Extension or directly on an Electric Fireplace .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "2.0 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Aluminium Ingot": 6,
-      "Epoy": 2,
-      "Titanium Ingot": 4
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

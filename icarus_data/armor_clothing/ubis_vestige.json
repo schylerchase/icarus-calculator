@@ -1,8 +1,8 @@
 {
   "name": "Ubis Vestige",
   "url": "https://icarus.fandom.com/wiki/Ubis_Vestige",
-  "description": "Ubis Vestiges are used at theTrophy Benchto create aUbis Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Ubis Vestiges are used at the Trophy Bench to create a Ubis Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

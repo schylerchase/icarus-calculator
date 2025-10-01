@@ -1,8 +1,8 @@
 {
   "name": "Tomato Soup",
   "url": "https://icarus.fandom.com/wiki/Tomato_Soup",
-  "description": "Tomato Soup is a consumableFoodcrafted fromTomatoesandWater. AsTomatoesare only found onPrometheus, this recipe requires the New Frontiers DLC to obtain the ingredients.",
-  "item_type": "ammunition",
+  "description": "Tomato Soup is a consumable Food crafted from Tomatoes and Water . As Tomatoes are only found on Prometheus , this recipe requires the New Frontiers DLC to obtain the ingredients.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

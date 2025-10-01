@@ -1,10 +1,10 @@
 {
   "name": "Obsidian Feet Armor",
   "url": "https://icarus.fandom.com/wiki/Obsidian_Feet_Armor",
-  "description": "Obsidian Armor is a sidegrade ofComposite Armor, providing slightly more physical resistance and a substantial bonus to heat resistance.",
-  "item_type": "ammunition",
+  "description": "Obsidian Armor is a sidegrade of Composite Armor , providing slightly more physical resistance and a substantial bonus to heat resistance.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Electric Textiles Bench",
   "tier": 4,
   "stats": {
     "weight": "1.0 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Platinum Weave": 3,
-      "Composites": 2,
-      "Steel Screw": 3,
-      "Shaped Obsidian": 5
-    },
+    "ingredients": {},
     "crafted_at": "Electric Textiles Bench"
   }
 }

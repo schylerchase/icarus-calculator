@@ -1,8 +1,8 @@
 {
   "name": "Sauteed Rhubarb",
   "url": "https://icarus.fandom.com/wiki/Sauteed_Rhubarb",
-  "description": "Sauteed Rhubarb is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "craftable",
+  "description": "Sauteed Rhubarb is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -12,9 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Rhubarb": 1
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

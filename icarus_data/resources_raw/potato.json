@@ -1,0 +1,18 @@
+{
+  "name": "Potato",
+  "url": "https://icarus.fandom.com/wiki/Potato",
+  "description": "A plant which grows in the Swamp and Tundra Biomes on Prometheus. They can be harvested most efficiently with the use of Sickles .",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

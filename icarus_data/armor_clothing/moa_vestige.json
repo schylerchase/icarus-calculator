@@ -1,8 +1,8 @@
 {
   "name": "Moa Vestige",
   "url": "https://icarus.fandom.com/wiki/Moa_Vestige",
-  "description": "Moa Vestiges are used at theTrophy Benchto create aMoa Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Moa Vestiges are used at the Trophy Bench to create a Moa Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

@@ -1,10 +1,10 @@
 {
   "name": "Arctic Explorer Saddle",
   "url": "https://icarus.fandom.com/wiki/Arctic_Explorer_Saddle",
-  "description": "The Arctic Explorer Saddle is a saddle forMountsthat has an artic theme. It is available as part of theCreature Comforts DLCand is a cosmetic change to theBasic Riding Saddlethat provides no additional attributes.",
+  "description": "The Arctic Explorer Saddle is a saddle for Mounts that has an artic theme. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides no additional attributes.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "1.5 Kg"
@@ -14,11 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Leather": 10,
-      "Fur": 6,
-      "Rope": 2
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

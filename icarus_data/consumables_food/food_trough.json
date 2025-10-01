@@ -1,10 +1,10 @@
 {
   "name": "Food Trough",
   "url": "https://icarus.fandom.com/wiki/Food_Trough",
-  "description": "The Food Trough is a basic trough used to feedMounts/Petsand is recommended if prospectors wish to idly tame a juvenile. Food Troughs benefit from theExtra Space I/Extra Space IItalent.",
+  "description": "The Food Trough is a basic trough used to feed Mounts / Pets and is recommended if prospectors wish to idly tame a juvenile. Food Troughs benefit from the Extra Space I / Extra Space II talent.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "3.0 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 60,
-      "Stick": 8,
-      "Iron Nail": 16
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

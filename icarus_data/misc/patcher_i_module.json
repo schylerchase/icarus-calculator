@@ -1,8 +1,8 @@
 {
   "name": "Patcher I Module",
   "url": "https://icarus.fandom.com/wiki/Patcher_I_Module",
-  "description": "This module increases the number of available inventory slots by 2 when equipped in anEnvirosuitmodule slot. It can be researched and crafted on theSpace Stationin theWorkshop. Multiple Patcher I Modules may be equipped if the Prospector has available slots on their Envirosuit.",
-  "item_type": "ammunition",
+  "description": "This module increases the number of available inventory slots by 2 when equipped in an Envirosuit module slot. It can be researched and crafted on the Space Station in the Workshop . Multiple Patcher I Modules may be equipped if the Prospector has available slots on their Envirosuit.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

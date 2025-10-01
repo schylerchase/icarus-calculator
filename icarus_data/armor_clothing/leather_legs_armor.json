@@ -1,10 +1,10 @@
 {
   "name": "Leather Legs Armor",
   "url": "https://icarus.fandom.com/wiki/Leather_Legs_Armor",
-  "description": "Leather armor may not offer much protection when fighting against Icarus'Fauna, but it offers more physical protection and thermal insulation than itsTier 1counterparts, serving as a decent all-around armor forTier 2.",
-  "item_type": "ammunition",
+  "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
     "weight": "2.0 kg",
@@ -15,10 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 60,
-      "Leather": 18
-    },
-    "crafted_at": "Crafted At\n Textiles Bench"
+    "ingredients": {},
+    "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

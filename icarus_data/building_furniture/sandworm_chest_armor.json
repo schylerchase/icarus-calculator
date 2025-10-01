@@ -1,10 +1,10 @@
 {
   "name": "Sandworm Chest Armor",
   "url": "https://icarus.fandom.com/wiki/Sandworm_Chest_Armor",
-  "description": "Sandworm Chest Armor is made from the scales dropped from aSandworm. Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set ofSandworm Armor.",
+  "description": "Sandworm Chest Armor is made from the scales dropped from a Sandworm . Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
   "tier": 3,
   "stats": {
     "weight": "1.00 kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 60,
-      "Leather": 12,
-      "Sandworm Scale": 20
-    },
-    "crafted_at": "Crafted At\n Advanced Textiles Bench"
+    "ingredients": {},
+    "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
   }
 }

@@ -1,10 +1,10 @@
 {
   "name": "Burlap Animal Bed",
   "url": "https://icarus.fandom.com/wiki/Burlap_Animal_Bed",
-  "description": "The Burlap Animal Bed is a bed forMountsandPetsthat has a basic theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+  "description": "The Burlap Animal Bed is a bed for Mounts and Pets that has a basic theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "1.5 Kg",
@@ -15,9 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 200
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

@@ -1,10 +1,10 @@
 {
   "name": "Inaris \"Cerulean\" Knife",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Cerulean%22_Knife",
-  "description": "The Inaris \"Cerulean\" Knife is a Workshop Knife geared towards combat, intrinsically dealing frost damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Inaris \"Cerulean\" Knife cannot be thrown, and there currently are no workshopThrowing Knives.",
-  "item_type": "ammunition",
+  "description": "The Inaris \"Cerulean\" Knife is a Workshop Knife geared towards combat, intrinsically dealing frost damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Inaris \"Cerulean\" Knife cannot be thrown, and there currently are no workshop Throwing Knives .",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "33 - 35 Melee Damage50 - 50 Frost Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
   }
 }

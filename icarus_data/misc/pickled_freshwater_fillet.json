@@ -1,8 +1,8 @@
 {
   "name": "Pickled Freshwater Fillet",
   "url": "https://icarus.fandom.com/wiki/Pickled_Freshwater_Fillet",
-  "description": "Pickled Freshwater Fillet is aFoodthat satisfiesHunger. It provides the uniqueStatus Effect,Pickled Freshwater Fillet, which increases maximumHealth, improvesStaminaand Health regeneration, and improves shared experience gain. Pickled Freshwater Fillet does not decay and is therefore useful for long-term storage.",
-  "item_type": "craftable",
+  "description": "Pickled Freshwater Fillet is a Food that satisfies Hunger . It provides the unique Status Effect , Pickled Freshwater Fillet , which increases maximum Health , improves Stamina and Health regeneration, and improves shared experience gain. Pickled Freshwater Fillet does not decay and is therefore useful for long-term storage.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -12,11 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Freshwater Fish Fillet": 1,
-      "Glass Jar": 1,
-      "Salt": 5
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

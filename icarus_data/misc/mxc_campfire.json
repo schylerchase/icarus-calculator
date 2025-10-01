@@ -1,8 +1,8 @@
 {
   "name": "MXC Campfire",
   "url": "https://icarus.fandom.com/wiki/MXC_Campfire",
-  "description": "The MXC Campfire is similar to aCampfire, only elevated to decrease the odds of Prospectors accidentally setting themselves on fire.",
-  "item_type": "ammunition",
+  "description": "The MXC Campfire is similar to a Campfire , only elevated to decrease the odds of Prospectors accidentally setting themselves on fire.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

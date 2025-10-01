@@ -1,0 +1,22 @@
+{
+  "name": "Stone Pickaxe",
+  "url": "https://icarus.fandom.com/wiki/Stone_Pickaxe",
+  "description": "The Stone Pickaxe is the first Pickaxe available to prospectors and is used to break apart mineable Minerals , reducing them to usable resources. Stone, Sulfur, Oxite, Silica, Coal, Salt, Copper, Iron, Gold, and Exotic nodes can be mined with a Stone Pickaxe. To mine Aluminium, Platinum, and Titanium, prospectors must use a Steel Pickaxe or better.",
+  "item_type": "orbital",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 1,
+  "stats": {
+    "damage": "27 - 30 Melee Damage",
+    "weight": "0.5 Kg",
+    "durability": "20,000"
+  },
+  "category": "pickaxes",
+  "harvested_from": [],
+  "research_cost": 1,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

@@ -1,10 +1,10 @@
 {
   "name": "Simple Creature Deterrent",
   "url": "https://icarus.fandom.com/wiki/Simple_Creature_Deterrent",
-  "description": "While useful for protecting Prospectors from predators, the Simple Creature Deterrent also prevents the spawning ofFaunaso be aware that deer, pronghorns, rabbits, chamois, or other animals will not spawn within the indicated radius.",
+  "description": "While useful for protecting Prospectors from predators, the Simple Creature Deterrent also prevents the spawning of Fauna so be aware that deer, pronghorns, rabbits, chamois, or other animals will not spawn within the indicated radius.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Textiles Bench Electric Textiles Bench",
   "tier": 2,
   "stats": {
     "weight": "5.0 kg",
@@ -15,14 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Cloth Head Armor": 1,
-      "Cloth Arms Armor": 1,
-      "Stone": 20,
-      "Wood": 25,
-      "Tree Sap": 20,
-      "Spoiled Meat": 10
-    },
-    "crafted_at": "Crafted At\n Textiles Bench"
+    "ingredients": {},
+    "crafted_at": "Textiles Bench Electric Textiles Bench"
   }
 }

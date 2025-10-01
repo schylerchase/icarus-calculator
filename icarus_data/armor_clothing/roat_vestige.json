@@ -1,8 +1,8 @@
 {
   "name": "Roat Vestige",
   "url": "https://icarus.fandom.com/wiki/Roat_Vestige",
-  "description": "Roat Vestiges are used at theTrophy Benchto create aRoat Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Roat Vestiges are used at the Trophy Bench to create a Roat Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

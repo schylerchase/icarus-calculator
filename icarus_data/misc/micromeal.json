@@ -1,8 +1,8 @@
 {
   "name": "MicroMeal",
   "url": "https://icarus.fandom.com/wiki/MicroMeal",
-  "description": "MicroMeal is aFoodwith a uniqueStatus Effect: 'Emergency Rations'. Can be eaten to satisfyHunger. It is a one time use emergency ration to stave off starvation.",
-  "item_type": "ammunition",
+  "description": "MicroMeal is a Food with a unique Status Effect : 'Emergency Rations'. Can be eaten to satisfy Hunger . It is a one time use emergency ration to stave off starvation.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

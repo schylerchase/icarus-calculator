@@ -1,8 +1,8 @@
 {
   "name": "Honey Tea",
   "url": "https://icarus.fandom.com/wiki/Honey_Tea",
-  "description": "Mid-game warm beverage made by combining a filledLiquid Containersuch as aThermosandHoney.",
-  "item_type": "ammunition",
+  "description": "Mid-game warm beverage made by combining a filled Liquid Container such as a Thermos and Honey .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

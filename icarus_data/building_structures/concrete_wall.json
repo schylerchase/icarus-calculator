@@ -2,7 +2,7 @@
   "name": "Concrete Wall",
   "url": "https://icarus.fandom.com/wiki/Concrete_Wall",
   "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Steel Rebar": 10,
-      "Concrete Mi": 4,
-      "Steel Screw": 4
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

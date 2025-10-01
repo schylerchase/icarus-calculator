@@ -1,8 +1,8 @@
 {
   "name": "Composite Javelin",
   "url": "https://icarus.fandom.com/wiki/Composite_Javelin",
-  "description": "The Composite Javelin is a variant of theComposite Spearthat can only be thrown and is the highest damage dealing Javelin currently available. Despite the heavy tech investment to reachComposites, Composite Javelins are far cheaper to craft than theTitanium Javelinand are worth the investment for the increased damage and low projectile break chance.",
-  "item_type": "ammunition",
+  "description": "The Composite Javelin is a variant of the Composite Spear that can only be thrown and is the highest damage dealing Javelin currently available. Despite the heavy tech investment to reach Composites , Composite Javelins are far cheaper to craft than the Titanium Javelin and are worth the investment for the increased damage and low projectile break chance.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Foundry"
+    "crafted_at": "Unknown"
   }
 }

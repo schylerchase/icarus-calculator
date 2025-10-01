@@ -1,10 +1,10 @@
 {
   "name": "Biofuel Lamp",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Lamp",
-  "description": "Provides exceptional lightning compared to theTorchorLantern. Can be equipped in the \"L\" light slot on the hotbar.",
+  "description": "Provides exceptional lightning compared to the Torch or Lantern . Can be equipped in the \"L\" light slot on the hotbar.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.25 kg"
@@ -14,12 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Rope": 4,
-      "Glass": 12,
-      "Aluminium Ingot": 8,
-      "Epoy": 4
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

@@ -1,10 +1,10 @@
 {
   "name": "Rustic Bed",
   "url": "https://icarus.fandom.com/wiki/Rustic_Bed",
-  "description": "The Rustic Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game.  In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod.",
-  "item_type": "ammunition",
+  "description": "The Rustic Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
     "weight": "15 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Decoration Bench"
+    "crafted_at": "Decoration Bench"
   }
 }

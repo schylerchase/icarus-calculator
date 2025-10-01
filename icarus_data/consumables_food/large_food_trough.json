@@ -1,10 +1,10 @@
 {
   "name": "Large Food Trough",
   "url": "https://icarus.fandom.com/wiki/Large_Food_Trough",
-  "description": "The Large Food Trough is a slight upgrade to theFood Troughthat allows for multiple creatures to eat from it simultaneously. Large Food Troughs benefit from theExtra Space I/Extra Space IItalent.",
+  "description": "The Large Food Trough is a slight upgrade to the Food Trough that allows for multiple creatures to eat from it simultaneously. Large Food Troughs benefit from the Extra Space I / Extra Space II talent.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "3.0 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 80,
-      "Tree Sap": 12,
-      "Iron Nail": 32
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

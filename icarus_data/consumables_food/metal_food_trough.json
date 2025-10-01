@@ -1,10 +1,10 @@
 {
   "name": "Metal Food Trough",
   "url": "https://icarus.fandom.com/wiki/Metal_Food_Trough",
-  "description": "The Metal Food Trough is a decorative upgrade to theFood Troughand allows multiple creatures to eat from it simultaneously, similar to theLarge Food Trough. Metal Food Troughs benefit from theExtra Space I/Extra Space IItalent.",
+  "description": "The Metal Food Trough is a decorative upgrade to the Food Trough and allows multiple creatures to eat from it simultaneously, similar to the Large Food Trough . Metal Food Troughs benefit from the Extra Space I / Extra Space II talent.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 3,
   "stats": {
     "weight": "3.0 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Aluminium Ingot": 30,
-      "Iron Ingot": 15,
-      "Steel Screw": 15
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

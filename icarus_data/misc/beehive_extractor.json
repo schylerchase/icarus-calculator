@@ -1,10 +1,10 @@
 {
   "name": "Beehive Extractor",
   "url": "https://icarus.fandom.com/wiki/Beehive_Extractor",
-  "description": "ABeekeepingelement that attaches to a smallBeehiveto automatically extractHoneyandBeeswaxfromHoneycomb. Requires power and is attached through the small Beehive GUI.",
+  "description": "A Beekeeping element that attaches to a small Beehive to automatically extract Honey and Beeswax from Honeycomb . Requires power and is attached through the small Beehive GUI.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "5.0 Kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Copper Wire": 30,
-      "Titanium Plate": 2,
-      "Glass": 15,
-      "Electronics": 8
-    },
-    "crafted_at": "Machining Bench"
+    "ingredients": {},
+    "crafted_at": "Fabricator"
   }
 }

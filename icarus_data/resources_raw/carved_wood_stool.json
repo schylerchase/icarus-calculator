@@ -2,9 +2,9 @@
   "name": "Carved Wood Stool",
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_Stool",
   "description": "The Carved Wood Stool is a decorative item.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
     "weight": "1 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Carpentry Bench"
+    "crafted_at": "Carpentry Bench"
   }
 }

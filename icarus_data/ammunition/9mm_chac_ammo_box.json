@@ -1,8 +1,8 @@
 {
   "name": "9mm CHAC Ammo Box",
   "url": "https://icarus.fandom.com/wiki/9mm_CHAC_Ammo_Box",
-  "description": "The 9mm CHAC Ammo Box provides 25 rounds of9mm CHAC Ammothat works with anyPistoland pairs well with theCHAC \"Sentinel\" Pistolthat can also be purchased from theWorkshop.",
-  "item_type": "ammunition",
+  "description": "The 9mm CHAC Ammo Box provides 25 rounds of 9mm CHAC Ammo that works with any Pistol and pairs well with the CHAC \"Sentinel\" Pistol that can also be purchased from the Workshop .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

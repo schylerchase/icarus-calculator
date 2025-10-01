@@ -1,8 +1,8 @@
 {
   "name": "Bone Throwing Knife",
   "url": "https://icarus.fandom.com/wiki/Bone_Throwing_Knife",
-  "description": "The Bone Throwing Knife is a variant of theBone Knifethat can be thrown. Unlike theBone Knife, the Bone Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
-  "item_type": "craftable",
+  "description": "The Bone Throwing Knife is a variant of the Bone Knife that can be thrown. Unlike the Bone Knife , the Bone Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 2,
-      "Leather": 2,
-      "Bone": 15
-    },
-    "crafted_at": "Character"
+    "ingredients": {},
+    "crafted_at": "Unknown"
   }
 }

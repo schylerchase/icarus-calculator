@@ -1,8 +1,8 @@
 {
   "name": "Wood Rag Torch",
   "url": "https://icarus.fandom.com/wiki/Wood_Rag_Torch",
-  "description": "The first available source ofLight Source. Can be equipped in the \"L\" light slot on the hotbar. When lit, the Wood Rag Torch also provides heat in addition to light. The Wood Rag Torch will last about 33 minutes and 20 seconds when lit before extinguishing. The Wood Rag Torch allows prospectors to see approximately 6 meters, or 3 standard floor pieces, from their position.",
-  "item_type": "craftable",
+  "description": "The first available source of Light Source . Can be equipped in the \"L\" light slot on the hotbar. When lit, the Wood Rag Torch also provides heat in addition to light. The Wood Rag Torch will last about 33 minutes and 20 seconds when lit before extinguishing. The Wood Rag Torch allows prospectors to see approximately 6 meters, or 3 standard floor pieces, from their position.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -15,10 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 40,
-      "Stick": 8
-    },
-    "crafted_at": "Character"
+    "ingredients": {},
+    "crafted_at": "Unknown"
   }
 }

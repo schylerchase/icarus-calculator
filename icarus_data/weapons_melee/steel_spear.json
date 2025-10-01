@@ -1,10 +1,10 @@
 {
   "name": "Steel Spear",
   "url": "https://icarus.fandom.com/wiki/Steel_Spear",
-  "description": "The Steel Spear is an upgrade to theIron Spearthat deals more damage/critical damage to targets and has twice the durability. Unlike theSteel Javelin, the Steel Spear cannot be thrown.",
-  "item_type": "ammunition",
+  "description": "The Steel Spear is an upgrade to the Iron Spear that deals more damage/critical damage to targets and has twice the durability. Unlike the Steel Javelin , the Steel Spear cannot be thrown.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
     "damage": "+25% Critical Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Anvil Bench"
+    "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

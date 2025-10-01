@@ -1,8 +1,8 @@
 {
   "name": "MXC Hydrazine Canister",
   "url": "https://icarus.fandom.com/wiki/MXC_Hydrazine_Canister",
-  "description": "The MXC Hydrazine Canister is purchased from theWorkshopon the Space Station and stores 10,000 litres of hydrazine. The fuel is used in several other MXC devices by placing the canister in the device's inventory slot. The fuel canister cannot be refilled.",
-  "item_type": "ammunition",
+  "description": "The MXC Hydrazine Canister is purchased from the Workshop on the Space Station and stores 10,000 litres of hydrazine. The fuel is used in several other MXC devices by placing the canister in the device's inventory slot. The fuel canister cannot be refilled.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

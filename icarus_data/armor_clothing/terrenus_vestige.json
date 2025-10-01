@@ -1,8 +1,8 @@
 {
   "name": "Terrenus Vestige",
   "url": "https://icarus.fandom.com/wiki/Terrenus_Vestige",
-  "description": "Terrenus Vestiges are used at theTrophy Benchto create aTerrenus Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Terrenus Vestiges are used at the Trophy Bench to create a Terrenus Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

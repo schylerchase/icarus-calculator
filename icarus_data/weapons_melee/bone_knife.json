@@ -1,8 +1,8 @@
 {
   "name": "Bone Knife",
   "url": "https://icarus.fandom.com/wiki/Bone_Knife",
-  "description": "The Bone Knife is an upgrade in damage and durability from theStone Knife, the Bone Knife can be used as either a melee weapon or tool.",
-  "item_type": "craftable",
+  "description": "The Bone Knife is an upgrade in damage and durability from the Stone Knife , the Bone Knife can be used as either a melee weapon or tool.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -16,11 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 2,
-      "Leather": 2,
-      "Bone": 20
-    },
-    "crafted_at": "Character"
+    "ingredients": {},
+    "crafted_at": "Unknown"
   }
 }

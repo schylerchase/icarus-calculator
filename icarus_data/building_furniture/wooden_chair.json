@@ -2,9 +2,9 @@
   "name": "Wooden Chair",
   "url": "https://icarus.fandom.com/wiki/Wooden_Chair",
   "description": "A Wooden Chair made of refined wood and copper nails.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench Electric Carpentry Bench",
   "tier": 2,
   "stats": {
     "weight": "0.5 kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Carpentry Bench"
+    "crafted_at": "Carpentry Bench Electric Carpentry Bench"
   }
 }

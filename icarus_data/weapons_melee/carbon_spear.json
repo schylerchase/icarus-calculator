@@ -1,10 +1,10 @@
 {
   "name": "Carbon Spear",
   "url": "https://icarus.fandom.com/wiki/Carbon_Spear",
-  "description": "The Carbon Spear is an upgrade to thePlatinum Spearthat deals more damage and is cheaper to craft. Unlike theCarbon Javelin, the Carbon Spear cannot be thrown.",
-  "item_type": "ammunition",
+  "description": "The Carbon Spear is an upgrade to the Platinum Spear that deals more damage and is cheaper to craft. Unlike the Carbon Javelin , the Carbon Spear cannot be thrown.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "damage": "+25% Critical Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Forge"
+    "crafted_at": "Forge Foundry"
   }
 }

@@ -1,10 +1,10 @@
 {
   "name": "Mountaineering Animal Feed",
   "url": "https://icarus.fandom.com/wiki/Mountaineering_Animal_Feed",
-  "description": "Mountaineering Animal Feed is anAnimal FeedforPetsorMountswith a uniqueStatus Effect. Can be fed to mounts to satisfyHunger. Mountaineering Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Mountaineering Animal Feed inside anIce BoxorRefrigerator.",
-  "item_type": "ammunition",
+  "description": "Mountaineering Animal Feed is an Animal Feed for Pets or Mounts with a unique Status Effect . Can be fed to mounts to satisfy Hunger . Mountaineering Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Mountaineering Animal Feed inside an Ice Box or Refrigerator .",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "BenchRanching Station",
   "tier": 2,
   "stats": {},
   "category": "animal feed",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "BenchRanching Station"
   }
 }

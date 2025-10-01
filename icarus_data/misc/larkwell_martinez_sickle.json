@@ -1,10 +1,10 @@
 {
   "name": "Larkwell Martinez Sickle",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Sickle",
-  "description": "When using a Sickle, the Prospector will gain a significant increase in a givenPlant Resource, when compared to picking that resource by hand.",
-  "item_type": "ammunition",
+  "description": "When using a Sickle, the Prospector will gain a significant increase in a given Plant Resource , when compared to picking that resource by hand.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "42 - 45 Melee Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
   }
 }

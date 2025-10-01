@@ -1,8 +1,8 @@
 {
   "name": "Raw White Meat",
   "url": "https://icarus.fandom.com/wiki/Raw_White_Meat",
-  "description": "Eating Raw White Meat will replenishHealththere is a possibility of negativeStatus Effectswhen doing so. It is better toCookfirst before eating.",
-  "item_type": "ammunition",
+  "description": "Eating Raw White Meat will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

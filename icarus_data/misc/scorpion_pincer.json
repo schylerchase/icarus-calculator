@@ -1,8 +1,8 @@
 {
   "name": "Scorpion Pincer",
   "url": "https://icarus.fandom.com/wiki/Scorpion_Pincer",
-  "description": "Scorpion Pincer drops fromScorpions.",
-  "item_type": "ammunition",
+  "description": "Scorpion Pincer drops from Scorpions .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

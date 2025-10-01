@@ -1,10 +1,10 @@
 {
   "name": "Larkwell Martinez Pickaxe",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Pickaxe",
-  "description": "The Larkwell Martinez Pickaxe is the Workshop equivalent of aPlatinum Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield. Similar to theInaris \"Neves\" Pickaxe, the Larkwell Martinez Pickaxe reduces the over-encumbrance penalty by 10% when equipped.",
-  "item_type": "ammunition",
+  "description": "The Larkwell Martinez Pickaxe is the Workshop equivalent of a Platinum Pickaxe , allowing Prospectors to mine higher tier metals ( Aluminium Ore , Platinum Ore , etc) at earlier stages of a Prospect while increasing yield. Similar to the Inaris \"Neves\" Pickaxe , the Larkwell Martinez Pickaxe reduces the over-encumbrance penalty by 10% when equipped.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "47 - 50 Melee Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
   }
 }

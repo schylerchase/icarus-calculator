@@ -1,0 +1,18 @@
+{
+  "name": "Cow",
+  "url": "https://icarus.fandom.com/wiki/Cow",
+  "description": "A Cow is the mature version of a Calf that can be purchased and brought down to the planet primarily to produce Milk .",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "fauna",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

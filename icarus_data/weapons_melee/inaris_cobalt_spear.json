@@ -1,8 +1,8 @@
 {
   "name": "Inaris \"Cobalt\" Spear",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Cobalt%22_Spear",
-  "description": "Element damage does not scale with Spear talents. The Inaris \"Cobalt\" Spear cannot be thrown, and there are currently no WorkshopJavelins.",
-  "item_type": "ammunition",
+  "description": "Element damage does not scale with Spear talents. The Inaris \"Cobalt\" Spear cannot be thrown, and there are currently no Workshop Javelins .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

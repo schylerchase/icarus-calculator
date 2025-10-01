@@ -1,0 +1,23 @@
+{
+  "name": "Exotics",
+  "url": "https://icarus.fandom.com/wiki/Exotics",
+  "description": "Exotics are one the most valuable Mineral harvested on Icarus and are a potential reward for completing certain Missions / Operations . They were the reason terraforming failed on Icarus, and now their unique properties are sought after by the various Factions seeking to exploit Icarus.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "minerals",
+  "harvested_from": [
+    "any mission except Potshot: Training; the yield per vein",
+    "the number of veins present",
+    "",
+    "where they are located vary per mission"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

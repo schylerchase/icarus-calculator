@@ -1,10 +1,10 @@
 {
   "name": "Platinum Pickaxe",
   "url": "https://icarus.fandom.com/wiki/Platinum_Pickaxe",
-  "description": "The Platinum Pickaxe is a mid/late-gamePickaxethat can be crafted while on the surface of Icarus.",
+  "description": "The Platinum Pickaxe is a mid/late-game Pickaxe that can be crafted while on the surface of Icarus.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "damage": "45 - 50",
@@ -16,11 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 2,
-      "Cured Leather": 1,
-      "Platinum Ingot": 12
-    },
-    "crafted_at": "Forge"
+    "ingredients": {},
+    "crafted_at": "Forge Foundry"
   }
 }

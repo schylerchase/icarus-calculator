@@ -4,7 +4,7 @@
   "description": "Bullseye Targets are deployable items used for target practice and to test weapon damage.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench Electric Carpentry Bench",
   "tier": 2,
   "stats": {
     "weight": "12.5 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 10,
-      "Stick": 25,
-      "Wild Berry": 3,
-      "Iron Ingot}": 2
-    },
-    "crafted_at": "Crafted At\n Carpentry Bench"
+    "ingredients": {},
+    "crafted_at": "Carpentry Bench Electric Carpentry Bench"
   }
 }

@@ -1,10 +1,10 @@
 {
   "name": "Art Deco Fireplace Extension",
   "url": "https://icarus.fandom.com/wiki/Art_Deco_Fireplace_Extension",
-  "description": "The Art Deco Fireplace Extension is a gilded section of chimney that is placed on anArt Deco Fireplaceand usually capped with anArt Deco Fireplace Cap. Two build variants are available via the 'R' key.",
-  "item_type": "ammunition",
+  "description": "The Art Deco Fireplace Extension is a gilded section of chimney that is placed on an Art Deco Fireplace and usually capped with an Art Deco Fireplace Cap . Two build variants are available via the 'R' key.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
     "weight": "5 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Decoration Bench"
+    "crafted_at": "Decoration Bench"
   }
 }

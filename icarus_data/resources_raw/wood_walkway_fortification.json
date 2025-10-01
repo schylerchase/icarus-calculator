@@ -1,10 +1,10 @@
 {
   "name": "Wood Walkway Fortification",
   "url": "https://icarus.fandom.com/wiki/Wood_Walkway_Fortification",
-  "description": "The Wood Walkway Fortification is attached toWood Wall Fortificationsand serves as a platform that Prospectors can stand on, providing them a vantage point to see over their walls. Similar toMedium Wood Hedgehogs, the Wood Walkway Fortification does not take damage during storms.",
-  "item_type": "ammunition",
+  "description": "The Wood Walkway Fortification is attached to Wood Wall Fortifications and serves as a platform that Prospectors can stand on, providing them a vantage point to see over their walls. Similar to Medium Wood Hedgehogs , the Wood Walkway Fortification does not take damage during storms.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
     "weight": "2.0 kg",

@@ -1,10 +1,10 @@
 {
   "name": "5.56mm Armor Piercing Round",
   "url": "https://icarus.fandom.com/wiki/5.56mm_Armor_Piercing_Round",
-  "description": "5.56mm Armor Piercing Round is used by theAssault Rifle.",
-  "item_type": "ammunition",
+  "description": "5.56mm Armor Piercing Round is used by the Assault Rifle .",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.01 kg"
@@ -14,10 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      ".mm Round": 1,
-      "Platinum Sheath": 1
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

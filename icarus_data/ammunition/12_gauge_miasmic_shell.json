@@ -1,10 +1,10 @@
 {
   "name": "12-Gauge Miasmic Shell",
   "url": "https://icarus.fandom.com/wiki/12-Gauge_Miasmic_Shell",
-  "description": "12-Gauge Miasmic Shell, a Miasmic variant of ammunition used byShotguns.",
-  "item_type": "ammunition",
+  "description": "12-Gauge Miasmic Shell, a Miasmic variant of ammunition used by Shotguns .",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
     "weight": "0.01 Kg"
@@ -14,10 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "-Gauge Buckshot Shell": 5,
-      "Distilled Miasmic Coating": 1
-    },
-    "crafted_at": "Machining Bench"
+    "ingredients": {},
+    "crafted_at": "Machining Bench Fabricator"
   }
 }

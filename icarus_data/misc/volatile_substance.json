@@ -1,10 +1,10 @@
 {
   "name": "Volatile Substance",
   "url": "https://icarus.fandom.com/wiki/Volatile_Substance",
-  "description": "Volatile Substance is a precursor resource used in making explosiveAmmunitionand weapons like theFrag Grenade. Volatile Substance is highly unstable and has a spoil timer of 600 seconds. Once spoiled, the item will then becomeInert Volatile Substance.",
+  "description": "Volatile Substance is a precursor resource used in making explosive Ammunition and weapons like the Frag Grenade . Volatile Substance is highly unstable and has a spoil timer of 600 seconds. Once spoiled, the item will then become Inert Volatile Substance .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted atMortar and PestleHerbalism BenchChemistry BenchMedicine Bench",
   "tier": 2,
   "stats": {},
   "category": "crafted resources",
@@ -12,11 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Gunpowder": 2,
-      "Oite": 2,
-      "Spoiled Plants": 2
-    },
-    "crafted_at": "Mortar and Pestle"
+    "ingredients": {},
+    "crafted_at": "Crafted atMortar and PestleHerbalism BenchChemistry BenchMedicine Bench"
   }
 }

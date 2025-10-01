@@ -5,15 +5,10 @@
     {
       "name": "12-Gauge Buckshot Shell",
       "url": "https://icarus.fandom.com/wiki/12-Gauge_Buckshot_Shell",
-      "description": "12-Gauge Buckshot Shell, the basic ammunition used by Shotguns. Unlike arrows, javelins, and bolts, this ammunition is destroyed on impact and cannot be recovered.",
-      "item_type": "Ammunition",
-      "ingredients": {
-        "12-Gauge Casing": 1,
-        "Copper Nail": 2,
-        "Gunpower": 1,
-        "Epoxy": 1
-      },
-      "crafted_at": "Machining Bench",
+      "description": "12-Gauge Buckshot Shell, the basic ammunition used by Shotguns . Unlike arrows, javelins, and bolts, this ammunition is destroyed on impact and cannot be recovered.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Machining Bench Fabricator",
       "tier": 3,
       "stats": {
         "weight": "0.012 Kg"
@@ -23,20 +18,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "12-Gauge Casing": 1,
-          "Copper Nail": 2,
-          "Gunpower": 1,
-          "Epoxy": 1
-        },
-        "crafted_at": "Machining Bench"
+        "ingredients": {},
+        "crafted_at": "Machining Bench Fabricator"
       }
     },
     {
       "name": "12-Gauge CHAC Shell",
       "url": "https://icarus.fandom.com/wiki/12-Gauge_CHAC_Shell",
-      "description": "12-Gauge CHAC Shell is an advanced purchaseable buckshot ammunition that does up to 450 damage. It pairs well with the CHAC \"Boomstick\" Shotgunthat can also be purchased from the Workshop.",
-      "item_type": "ammunition",
+      "description": "12-Gauge CHAC Shell is an advanced purchaseable buckshot ammunition that does up to 450 damage. It pairs well with the CHAC \"Boomstick\" Shotgun that can also be purchased from the Workshop .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -55,8 +45,8 @@
     {
       "name": "12-Gauge CHAC Shell Box",
       "url": "https://icarus.fandom.com/wiki/12-Gauge_CHAC_Shell_Box",
-      "description": "The 12-Gauge CHAC Shell Box provides 25 rounds of the12-Gauge CHAC Shellthat works with any Shotgunand pairs well with the CHAC \"Boomstick\" Shotgunthat can also be purchased from the Workshop.",
-      "item_type": "ammunition",
+      "description": "The 12-Gauge CHAC Shell Box provides 25 rounds of the 12-Gauge CHAC Shell that works with any Shotgun and pairs well with the CHAC \"Boomstick\" Shotgun that can also be purchased from the Workshop .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -73,10 +63,10 @@
     {
       "name": "12-Gauge Cold Steel Shell",
       "url": "https://icarus.fandom.com/wiki/12-Gauge_Cold_Steel_Shell",
-      "description": "12-Gauge Cold Steel Shell is a Cold Steel variant of ammunition for Shotguns. It inflicts extra Frost damage and a chance to slow the target and weaken their attacks.",
-      "item_type": "ammunition",
+      "description": "12-Gauge Cold Steel Shell is a Cold Steel variant of ammunition for Shotguns . It inflicts extra Frost damage and a chance to slow the target and weaken their attacks.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench Fabricator",
       "tier": 3,
       "stats": {
         "weight": "0.01 Kg"
@@ -86,20 +76,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "-Gauge Buckshot Shell": 5,
-          "Cold Steel Ingot": 1
-        },
-        "crafted_at": "Machining Bench"
+        "ingredients": {},
+        "crafted_at": "Machining Bench Fabricator"
       }
     },
     {
       "name": "12-Gauge Explosive Shell",
       "url": "https://icarus.fandom.com/wiki/12-Gauge_Explosive_Shell",
-      "description": "12-Gauge Explosive Shells are used by Shotguns. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Damages area around target. Caution when using this ammunition is advised. 12-Gauge Explosive Shells have 6 pellets per shell.",
-      "item_type": "ammunition",
+      "description": "12-Gauge Explosive Shells are used by Shotguns . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Damages area around target. Caution when using this ammunition is advised. 12-Gauge Explosive Shells have 6 pellets per shell.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.012 kg"
@@ -109,20 +96,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "-Gauge Buckshot Shell": 5,
-          "Volatile Substance": 1
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "12-Gauge Miasmic Shell",
       "url": "https://icarus.fandom.com/wiki/12-Gauge_Miasmic_Shell",
-      "description": "12-Gauge Miasmic Shell, a Miasmic variant of ammunition used by Shotguns.",
-      "item_type": "ammunition",
+      "description": "12-Gauge Miasmic Shell, a Miasmic variant of ammunition used by Shotguns .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench Fabricator",
       "tier": 3,
       "stats": {
         "weight": "0.01 Kg"
@@ -132,20 +116,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "-Gauge Buckshot Shell": 5,
-          "Distilled Miasmic Coating": 1
-        },
-        "crafted_at": "Machining Bench"
+        "ingredients": {},
+        "crafted_at": "Machining Bench Fabricator"
       }
     },
     {
       "name": "12-Gauge Obsidian Shell",
       "url": "https://icarus.fandom.com/wiki/12-Gauge_Obsidian_Shell",
-      "description": "12-Gauge Obsidian Shells are a variant of12-Gauge Buckshot Shellsthat deal fire damage on hit and have a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 12-Gauge Obsidian Shells can decimate Fauna that have a weakness to fire, especially when the 'Burning' modifier occurs.",
-      "item_type": "ammunition",
+      "description": "12-Gauge Obsidian Shells are a variant of 12-Gauge Buckshot Shells that deal fire damage on hit and have a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 12-Gauge Obsidian Shells can decimate Fauna that have a weakness to fire, especially when the 'Burning' modifier occurs. A list of fauna that are weak to fire can be viewed here .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -155,36 +136,33 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "-Gauge Buckshot Shell": 5,
-          "Shaped Obsidian": 1
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "12.7mm CHAC Ammo Box",
       "url": "https://icarus.fandom.com/wiki/12.7mm_CHAC_Ammo_Box",
-      "description": "The 12.7mm CHAC Ammo Box provides 2512.7mm CHAC Roundsof Sniper Ammunition that works with the Anti-materiel Rifle.",
-      "item_type": "Ammunition",
+      "description": "The 12.7mm CHAC Ammo Box provides 25 12.7mm CHAC Rounds of Sniper Ammunition that works with the Anti-materiel Rifle .",
+      "item_type": "weapon",
       "ingredients": {},
-      "crafted_at": "Machining Bench",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resources",
       "harvested_from": [],
-      "research_cost": "10 Legendary Biomass",
-      "purchase_cost": "100 Ren",
+      "research_cost": null,
+      "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Machining Bench"
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "12.7mm CHAC Explosive Ammo Box",
       "url": "https://icarus.fandom.com/wiki/12.7mm_CHAC_Explosive_Ammo_Box",
-      "description": "The 12.7mm CHAC Explosive Ammo Box provides 2512.7mm CHAC Explosive Roundsof Sniper Ammunitionthat works with the Anti-materiel Rifle.",
-      "item_type": "ammunition",
+      "description": "The 12.7mm CHAC Explosive Ammo Box provides 25 12.7mm CHAC Explosive Rounds of Sniper Ammunition that works with the Anti-materiel Rifle .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -201,8 +179,8 @@
     {
       "name": "12.7mm CHAC Explosive Round",
       "url": "https://icarus.fandom.com/wiki/12.7mm_CHAC_Explosive_Round",
-      "description": "12.7mm CHAC Explosive Round is a type of explosive Sniper Ammunitionfor the Anti-materiel Riflethat does 500 projectile damage and 400 explosive damage.",
-      "item_type": "ammunition",
+      "description": "12.7mm CHAC Explosive Round is a type of explosive Sniper Ammunition for the Anti-materiel Rifle that does 500 projectile damage and 400 explosive damage.",
+      "item_type": "harvestable",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -210,7 +188,9 @@
         "weight": "0.02 kg"
       },
       "category": "sniper ammunition",
-      "harvested_from": [],
+      "harvested_from": [
+        "world bosses"
+      ],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
@@ -221,8 +201,8 @@
     {
       "name": "12.7mm CHAC Incendiary Ammo Box",
       "url": "https://icarus.fandom.com/wiki/12.7mm_CHAC_Incendiary_Ammo_Box",
-      "description": "The 12.7mm CHAC Incendiary Ammo Box provides 2512.7mm CHAC Incendiary Roundsof Sniper Ammunitionthat works with the Anti-materiel Rifle.",
-      "item_type": "ammunition",
+      "description": "The 12.7mm CHAC Incendiary Ammo Box provides 25 12.7mm CHAC Incendiary Rounds of Sniper Ammunition that works with the Anti-materiel Rifle .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -239,8 +219,8 @@
     {
       "name": "12.7mm CHAC Incendiary Round",
       "url": "https://icarus.fandom.com/wiki/12.7mm_CHAC_Incendiary_Round",
-      "description": "12.7mm CHAC Incendiary Round is a type of explosive Sniper Ammunitionfor the Anti-materiel Riflethat does 500 projectile damage and +25% fire damage.",
-      "item_type": "ammunition",
+      "description": "12.7mm CHAC Incendiary Round is a type of explosive Sniper Ammunition for the Anti-materiel Rifle that does 500 projectile damage and +25% fire damage.",
+      "item_type": "harvestable",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -248,7 +228,9 @@
         "weight": "0.02 kg"
       },
       "category": "sniper ammunition",
-      "harvested_from": [],
+      "harvested_from": [
+        "world bosses"
+      ],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
@@ -259,8 +241,8 @@
     {
       "name": "12.7mm CHAC Round",
       "url": "https://icarus.fandom.com/wiki/12.7mm_CHAC_Round",
-      "description": "12.7mm CHAC Round is a type of Sniper Ammunitionfor the Anti-materiel Riflethat does 600 damage.",
-      "item_type": "ammunition",
+      "description": "12.7mm CHAC Round is a type of Sniper Ammunition for the Anti-materiel Rifle that does 600 damage.",
+      "item_type": "harvestable",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -268,7 +250,9 @@
         "weight": "0.02 kg"
       },
       "category": "sniper ammunition",
-      "harvested_from": [],
+      "harvested_from": [
+        "world bosses"
+      ],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
@@ -279,10 +263,10 @@
     {
       "name": "5.56mm Armor Piercing Round",
       "url": "https://icarus.fandom.com/wiki/5.56mm_Armor_Piercing_Round",
-      "description": "5.56mm Armor Piercing Round is used by the Assault Rifle.",
-      "item_type": "ammunition",
+      "description": "5.56mm Armor Piercing Round is used by the Assault Rifle .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -292,20 +276,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          ".mm Round": 1,
-          "Platinum Sheath": 1
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "5.56mm Cold Steel Round",
       "url": "https://icarus.fandom.com/wiki/5.56mm_Cold_Steel_Round",
-      "description": "5.56mm Cold Steel Round is a Cold Steel variant of ammunition for the Assault Rifle. It inflicts extra Frost damage and a chance to slow the target and weaken their attacks.",
-      "item_type": "ammunition",
+      "description": "5.56mm Cold Steel Round is a Cold Steel variant of ammunition for the Assault Rifle . It inflicts extra Frost damage and a chance to slow the target and weaken their attacks.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtMachining BenchFabricator",
       "tier": 3,
       "stats": {
         "weight": "0.01 Kg"
@@ -315,20 +296,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          ".mm Round": 5,
-          "Cold Steel Ingot": 1
-        },
-        "crafted_at": "Machining Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtMachining BenchFabricator"
       }
     },
     {
       "name": "5.56mm Explosive Round",
       "url": "https://icarus.fandom.com/wiki/5.56mm_Explosive_Round",
-      "description": "The 5.56mm Explosive Round is used by the Assault Rifle. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Damages area around target. Caution when using this ammunition is advised.",
-      "item_type": "ammunition",
+      "description": "The 5.56mm Explosive Round is used by the Assault Rifle . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Damages area around target. Caution when using this ammunition is advised.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -338,20 +316,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          ".mm Round": 5,
-          "Volatile Substance": 1
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "5.56mm Incendiary Round",
       "url": "https://icarus.fandom.com/wiki/5.56mm_Incendiary_Round",
-      "description": "The 5.56mm Incendiary Rounds are used in the fully-automatic Tier 4 Assault Rifle. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered.",
-      "item_type": "ammunition",
+      "description": "The 5.56mm Incendiary Rounds are used in the fully-automatic Tier 4 Assault Rifle . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -361,43 +336,39 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          ".mm Round": 1,
-          "Gunpowder": 5
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "5.56mm Miasmic Round",
       "url": "https://icarus.fandom.com/wiki/5.56mm_Miasmic_Round",
-      "description": "5.56mm Miasmic Round, a Miasmic variant of ammunition used by the Assault Rifle.",
-      "item_type": "ammunition",
+      "description": "5.56mm Miasmic Round, a Miasmic variant of ammunition used by the Assault Rifle .",
+      "item_type": "harvestable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtMachining BenchFabricator",
       "tier": 3,
       "stats": {
         "weight": "0.01 Kg"
       },
       "category": "rifle ammunition",
-      "harvested_from": [],
+      "harvested_from": [
+        "Icarus wildlife"
+      ],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          ".mm Round": 5,
-          "Distilled Miasmic Coating": 1
-        },
-        "crafted_at": "Machining Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtMachining BenchFabricator"
       }
     },
     {
       "name": "5.56mm Obsidian Round",
       "url": "https://icarus.fandom.com/wiki/5.56mm_Obsidian_Round",
-      "description": "5.56mm Obsidian Rounds are an alternative to5.56mm Incendiary Roundsthat deal fire damage on hit and has a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 5.56mm Obsidian Rounds excel when used against Fauna that have a weakness to fire, dealing more damage than5.56mm Rounds.",
-      "item_type": "ammunition",
+      "description": "5.56mm Obsidian Rounds are an alternative to 5.56mm Incendiary Rounds that deal fire damage on hit and has a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 5.56mm Obsidian Rounds excel when used against Fauna that have a weakness to fire, dealing more damage than 5.56mm Rounds . A list of fauna that are weak to fire can be viewed here .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -407,20 +378,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          ".mm Round": 5,
-          "Shaped Obsidian": 1
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "5.56mm Round",
       "url": "https://icarus.fandom.com/wiki/5.56mm_Round",
-      "description": "The 5.56mm Rounds are used in the fully-automatic Tier 4 Assault Rifle. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered.",
-      "item_type": "ammunition",
+      "description": "The 5.56mm Rounds are used in the fully-automatic Tier 4 Assault Rifle . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -430,20 +398,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Ammo Casing": 2,
-          "Gunpowder": 3
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "7.62mm Armor Piercing Round",
       "url": "https://icarus.fandom.com/wiki/7.62mm_Armor_Piercing_Round",
-      "description": "7.62mm Armor Piercing Rounds are used by the Bolt Action Rifleand the Hunting Rifle. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Unlike standard ammunition, the 7.62mm Armor Piercing Round can pierce hardened points and will deal 250 damage, similar to hitting a non-hardened point.",
-      "item_type": "ammunition",
+      "description": "7.62mm Armor Piercing Rounds are used by the Bolt Action Rifle and the Hunting Rifle . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Unlike standard ammunition, the 7.62mm Armor Piercing Round can pierce hardened points and will deal 250 damage, similar to hitting a non-hardened point.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -453,18 +418,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          ".mm Round": 1,
-          "Platinum Sheath": 1
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "7.62mm CHAC Ammo Box",
       "url": "https://icarus.fandom.com/wiki/7.62mm_CHAC_Ammo_Box",
-      "description": "The 7.62mm CHAC Ammo Box provides 257.62mm CHAC Roundsof Rifle Ammunitionthat works with Rifles.",
-      "item_type": "ammunition",
+      "description": "The 7.62mm CHAC Ammo Box provides 25 7.62mm CHAC Rounds of Rifle Ammunition that works with Rifles .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -481,10 +443,10 @@
     {
       "name": "7.62mm Cold Steel Round",
       "url": "https://icarus.fandom.com/wiki/7.62mm_Cold_Steel_Round",
-      "description": "7.62mm Cold Steel Round is a Cold Steel variant of ammunition for Rifles. It inflicts extra Frost damage and a chance to slow the target and weaken their attacks.",
-      "item_type": "ammunition",
+      "description": "7.62mm Cold Steel Round is a Cold Steel variant of ammunition for Rifles . It inflicts extra Frost damage and a chance to slow the target and weaken their attacks.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtMachining BenchFabricator",
       "tier": 3,
       "stats": {
         "weight": "0.01 Kg"
@@ -494,20 +456,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          ".mm Round": 5,
-          "Cold Steel Ingot": 1
-        },
-        "crafted_at": "Machining Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtMachining BenchFabricator"
       }
     },
     {
       "name": "7.62mm Explosive Round",
       "url": "https://icarus.fandom.com/wiki/7.62mm_Explosive_Round",
-      "description": "7.62mm Explosive Rounds are used by the Bolt Action Rifleand the Hunting Rifle. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Damages area around target. Caution when using this ammunition is advised.",
-      "item_type": "ammunition",
+      "description": "7.62mm Explosive Rounds are used by the Bolt Action Rifle and the Hunting Rifle . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Damages area around target. Caution when using this ammunition is advised.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -517,20 +476,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          ".mm Round": 1,
-          "Volatile Substance": 1
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "7.62mm Incendiary Round",
       "url": "https://icarus.fandom.com/wiki/7.62mm_Incendiary_Round",
-      "description": "7.62mm Incendiary Rounds are used by the Bolt Action Rifle/Hunting Rifle. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Hitting a target will set it ablaze, dealing damage for approximately 20 seconds. Deals 8-11 damage a second to normal targets, and 16-22 damage a second to targets that are weak to fire..",
-      "item_type": "ammunition",
+      "description": "7.62mm Incendiary Rounds are used by the Bolt Action Rifle / Hunting Rifle . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Hitting a target will set it ablaze, dealing damage for approximately 20 seconds. Deals 8-11 damage a second to normal targets, and 16-22 damage a second to targets that are weak to fire. A list of fauna that are weak to fire can be viewed here (TBA - no information yet).",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -540,43 +496,39 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          ".mm Round": 1,
-          "Gunpowder": 5
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "7.62mm Miasmic Round",
       "url": "https://icarus.fandom.com/wiki/7.62mm_Miasmic_Round",
-      "description": "7.62mm Miasmic Round, a Miasmic variant of ammunition used by Rifles.",
-      "item_type": "ammunition",
+      "description": "7.62mm Miasmic Round, a Miasmic variant of ammunition used by Rifles .",
+      "item_type": "harvestable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtMachining BenchFabricator",
       "tier": 3,
       "stats": {
         "weight": "0.01 Kg"
       },
       "category": "rifle ammunition",
-      "harvested_from": [],
+      "harvested_from": [
+        "Icarus wildlife"
+      ],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          ".mm Round": 5,
-          "Distilled Miasmic Coating": 1
-        },
-        "crafted_at": "Machining Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtMachining BenchFabricator"
       }
     },
     {
       "name": "7.62mm Obsidian Round",
       "url": "https://icarus.fandom.com/wiki/7.62mm_Obsidian_Round",
-      "description": "7.62mm Obsidian Rounds are an alternative to7.62mm Incendiary Roundsthat deals fire damage on hit and has a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 7.62mm Obsidian Rounds excel when used against Fauna that have a weakness to fire, dealing more damage than7.62mm Rounds.",
-      "item_type": "ammunition",
+      "description": "7.62mm Obsidian Rounds are an alternative to 7.62mm Incendiary Rounds that deals fire damage on hit and has a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 7.62mm Obsidian Rounds excel when used against Fauna that have a weakness to fire, dealing more damage than 7.62mm Rounds . A list of fauna that are weak to fire can be viewed here .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -586,10 +538,7 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          ".mm Round": 5,
-          "Shaped Obsidian": 1
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
@@ -599,7 +548,7 @@
       "description": "",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -609,31 +558,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Ammo Casing": 1,
-          "Gunpowder": 2
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
-      },
-      "talent_recipes": [
-        {
-          "talent_name": "Rifle Reduction",
-          "talent_effect": "-25% reduced resource cost",
-          "ingredients": {
-            "Ammo Casing": 4,
-            "Gunpowder": 8
-          },
-          "crafted_at": "Machining Bench"
-        }
-      ]
+      }
     },
     {
       "name": "9mm Armor Piercing Round",
       "url": "https://icarus.fandom.com/wiki/9mm_Armor_Piercing_Round",
-      "description": "9mm Armor Piercing Rounds are used by the Pistol. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Unlike standard ammunition, the 9mm Armor Piercing Round can pierce hardened points and will deal 100 damage, similar to hitting a non-hardened point.",
-      "item_type": "ammunition",
+      "description": "9mm Armor Piercing Rounds are used by the Pistol . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Unlike standard ammunition, the 9mm Armor Piercing Round can pierce hardened points and will deal 100 damage, similar to hitting a non-hardened point.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -643,10 +578,7 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "mm Round": 1,
-          "Platinum Sheath": 1
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
@@ -654,7 +586,7 @@
       "name": "9mm CHAC Ammo",
       "url": "https://icarus.fandom.com/wiki/9mm_CHAC_Ammo",
       "description": "9mm CHAC Ammo is an advanced pistol ammunition that does 200 damage.",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -673,8 +605,8 @@
     {
       "name": "9mm CHAC Ammo Box",
       "url": "https://icarus.fandom.com/wiki/9mm_CHAC_Ammo_Box",
-      "description": "The 9mm CHAC Ammo Box provides 25 rounds of9mm CHAC Ammothat works with any Pistoland pairs well with the CHAC \"Sentinel\" Pistolthat can also be purchased from the Workshop.",
-      "item_type": "ammunition",
+      "description": "The 9mm CHAC Ammo Box provides 25 rounds of 9mm CHAC Ammo that works with any Pistol and pairs well with the CHAC \"Sentinel\" Pistol that can also be purchased from the Workshop .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -691,10 +623,10 @@
     {
       "name": "9mm Cold Steel Round",
       "url": "https://icarus.fandom.com/wiki/9mm_Cold_Steel_Round",
-      "description": "9mm Cold Steel Round is a Cold Steel variant of ammunition for Pistols. It inflicts extra Frost damage and a chance to slow the target and weaken their attacks.",
-      "item_type": "ammunition",
+      "description": "9mm Cold Steel Round is a Cold Steel variant of ammunition for Pistols . It inflicts extra Frost damage and a chance to slow the target and weaken their attacks.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtMachining BenchFabricator",
       "tier": 3,
       "stats": {
         "weight": "0.01 Kg"
@@ -704,20 +636,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "mm Round": 5,
-          "Cold Steel Ingot": 1
-        },
-        "crafted_at": "Machining Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtMachining BenchFabricator"
       }
     },
     {
       "name": "9mm Explosive Round",
       "url": "https://icarus.fandom.com/wiki/9mm_Explosive_Round",
-      "description": "9mm Explosive Rounds are used by the Pistol. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Damages area around target. Caution when using this ammunition is advised.",
-      "item_type": "ammunition",
+      "description": "9mm Explosive Rounds are used by the Pistol . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Damages area around target. Caution when using this ammunition is advised.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -727,20 +656,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "mm Round": 1,
-          "Volatile Substance": 1
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "9mm Incendiary Round",
       "url": "https://icarus.fandom.com/wiki/9mm_Incendiary_Round",
-      "description": "9mm Incendiary Rounds are used by the Pistol. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Hitting a target will set it ablaze, dealing damage for approximately 20 seconds. Deals 8-11 damage a second to normal targets, and 16-22 damage a second to targets that are weak to fire.",
-      "item_type": "ammunition",
+      "description": "9mm Incendiary Rounds are used by the Pistol . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Hitting a target will set it ablaze, dealing damage for approximately 20 seconds. Deals 8-11 damage a second to normal targets, and 16-22 damage a second to targets that are weak to fire. A list of Fauna that are weak to fire can be viewed here .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -750,43 +676,39 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "mm Round": 1,
-          "Gunpowder": 5
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "9mm Miasmic Round",
       "url": "https://icarus.fandom.com/wiki/9mm_Miasmic_Round",
-      "description": "9mm Miasmic Round, a Miasmic variant of ammunition used by Pistols.",
-      "item_type": "ammunition",
+      "description": "9mm Miasmic Round, a Miasmic variant of ammunition used by Pistols .",
+      "item_type": "harvestable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtMachining BenchFabricator",
       "tier": 3,
       "stats": {
         "weight": "0.01 Kg"
       },
       "category": "pistol ammunition",
-      "harvested_from": [],
+      "harvested_from": [
+        "Icarus wildlife"
+      ],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "mm Round": 5,
-          "Distilled Miasmic Coating": 1
-        },
-        "crafted_at": "Machining Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtMachining BenchFabricator"
       }
     },
     {
       "name": "9mm Obsidian Round",
       "url": "https://icarus.fandom.com/wiki/9mm_Obsidian_Round",
-      "description": "9mm Obsidian Rounds are an alternative to9mm Incendiary Roundsthat deals fire damage on hit and has a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 9mm Obsidian Rounds excel when used against Fauna that have a weakness to fire, dealing more damage than9mm Rounds.",
-      "item_type": "ammunition",
+      "description": "9mm Obsidian Rounds are an alternative to 9mm Incendiary Rounds that deals fire damage on hit and has a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 9mm Obsidian Rounds excel when used against Fauna that have a weakness to fire, dealing more damage than 9mm Rounds . A list of fauna that are weak to fire can be viewed here .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "0.01 kg"
@@ -796,22 +718,16 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "mm Round": 5,
-          "Shaped Obsidian": 1
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "9mm Round",
       "url": "https://icarus.fandom.com/wiki/9mm_Round",
-      "description": "The basic ammunition used by the Pistols. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. With the talent Pistol Proficiency, Prospectors can craft this ammo at a -25% reduced resource cost. Also, with the talent Freebies, Prospectors have a 5% chance to craft double ammo. The ability to craft double ammo works in tandem, on a successful proc chance, with the reduced resource cost recipe netting a total of six extra rounds of ammunition.",
-      "item_type": "Ammunition",
-      "ingredients": {
-        "Ammo Casing": 1,
-        "Gunpowder": 1
-      },
+      "description": "The basic ammunition used by the Pistols . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. With the talent Pistol Proficiency , Prospectors can craft this ammo at a -25% reduced resource cost. Also, with the talent Freebies , Prospectors have a 5% chance to craft double ammo. The ability to craft double ammo works in tandem, on a successful proc chance, with the reduced resource cost recipe netting a total of six extra rounds of ammunition.",
+      "item_type": "craftable",
+      "ingredients": {},
       "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
@@ -822,31 +738,42 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Ammo Casing": 1,
-          "Gunpowder": 1
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
-      },
-      "talent_recipes": [
-        {
-          "talent_name": "Pistol Proficiency",
-          "talent_effect": "-25% reduced resource cost",
-          "ingredients": {
-            "Ammo Casing": 4,
-            "Gunpowder": 4
-          },
-          "crafted_at": "Machining Bench"
-        }
-      ]
+      }
     },
     {
       "name": "Aluminium Arrow",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Arrow",
-      "description": "The Aluminium Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
-      "item_type": "ammunition",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "description": "The Aluminium Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
+      "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -858,20 +785,41 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Copper Ingot": 0.2,
-          "Aluminium Ingot": 0.2,
-          "Epoy": 0.2
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
-        "crafted_at": "Forge"
+        "crafted_at": "Forge Foundry"
       }
     },
     {
       "name": "Ammo Casing",
       "url": "https://icarus.fandom.com/wiki/Ammo_Casing",
-      "description": "The Ammo Casing is a vital component used in the crafting of9mm Roundsand7.62mm Rounds.",
-      "item_type": "ammunition",
+      "description": "The Ammo Casing is a vital component used in the crafting of 9mm Rounds and 7.62mm Rounds .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench Fabricator",
       "tier": 3,
       "stats": {},
       "category": "crafted resources",
@@ -879,19 +827,42 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Iron Ingot": 1
-        },
-        "crafted_at": "Machining Bench or Fabricator"
+        "ingredients": {},
+        "crafted_at": "Machining Bench Fabricator"
       }
     },
     {
       "name": "Black Wolf Arrow",
       "url": "https://icarus.fandom.com/wiki/Black_Wolf_Arrow",
-      "description": "The Black Wolf Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 10.",
-      "item_type": "ammunition",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "description": "The Black Wolf Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 10.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
+      "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
         "damage": "+15% Critical Damage",
@@ -903,19 +874,65 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Wood": 0.1,
-          "Iron Ore": 0.1,
-          "Black Wolf Tooth": 0.2
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
-        "crafted_at": "Forge"
+        "crafted_at": "Forge Foundry"
       }
     },
     {
       "name": "Bone Arrow",
       "url": "https://icarus.fandom.com/wiki/Bone_Arrow",
-      "description": "The Bone Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-      "item_type": "ammunition",
-      "ingredients": {},
+      "description": "The Bone Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -928,20 +945,66 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Stick": 1,
-          "Leather": 1,
-          "Bone": 5
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
-        "crafted_at": "Character"
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Carbon Arrow",
       "url": "https://icarus.fandom.com/wiki/Carbon_Arrow",
-      "description": "The Carbon Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
-      "item_type": "ammunition",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "description": "The Carbon Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
+      "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -953,20 +1016,41 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Copper Ingot": 0.2,
-          "Carbon Fiber": 0.2,
-          "Epoy": 0.2
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
-        "crafted_at": "Forge"
+        "crafted_at": "Forge Foundry"
       }
     },
     {
       "name": "Carbon Fibre Round Shield",
       "url": "https://icarus.fandom.com/wiki/Carbon_Fibre_Round_Shield",
       "description": "The Carbon Fibre Round Shield is crafted at the Forge/Foundry with the following resources:",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
         "weight": "1.5 kg",
@@ -977,22 +1061,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Carbon Fiber": 14,
-          "Platinum Sheath": 8,
-          "Steel Screw": 20,
-          "Epoy": 4
-        },
-        "crafted_at": "Forge"
+        "ingredients": {},
+        "crafted_at": "Forge Foundry"
       }
     },
     {
       "name": "Carved Wood Narrow Wardrobe",
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Narrow_Wardrobe",
       "description": "Carved Wood Narrow Wardrobe is a decorative narrow wardrobe with 10 inventory slots. It has two build variants available by selecting 'R' when deploying.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
         "weight": "1.0 Kg",
@@ -1010,10 +1089,35 @@
     {
       "name": "Caveworm Arrow",
       "url": "https://icarus.fandom.com/wiki/Caveworm_Arrow",
-      "description": "The Caveworm Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Similar to the Poison Arrow, these are helpful in a 'fire and flee' situation. Firing multiple arrows will continue to stack the Poisoned debuff, dealing damage over time.",
-      "item_type": "ammunition",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "description": "The Caveworm Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Similar to the Poison Arrow , these are helpful in a 'fire and flee' situation. Firing multiple arrows will continue to stack the Poisoned debuff, dealing damage over time.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
+      "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
         "damage": "+15% Critical Damage",
@@ -1025,21 +1129,41 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Leather": 5,
-          "Stick": 5,
-          "Caveworm Scale": 2,
-          "Poison Sack": 5
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
-        "crafted_at": "Crafting Bench"
+        "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
     {
       "name": "Cold Steel Arrow",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Arrow",
-      "description": "The Cold Steel Arrow is ammunition used with a Bow, introduced in Chapter - New Frontier. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
-      "item_type": "ammunition",
+      "description": "The Cold Steel Arrow is ammunition used with a Bow , introduced in Chapter - New Frontier . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtForge",
       "tier": 3,
       "stats": {
         "weight": "0.1 kg"
@@ -1049,22 +1173,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Cold Steel Ingot": 0.2,
-          "Copper Nail": 1,
-          "Fur": 1,
-          "Refined Wood": 1
-        },
-        "crafted_at": "Forge"
+        "ingredients": {},
+        "crafted_at": "Crafted AtForge"
       }
     },
     {
       "name": "Columbian Mammoth Trophy",
       "url": "https://icarus.fandom.com/wiki/Columbian_Mammoth_Trophy",
-      "description": "Columbian Mammoth Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete the Bestiary, it can also be used in tandem with other Furnitureto increase the Cozinessof your living quarters, increasing the duration and effectiveness of the Well Rested Buff.",
-      "item_type": "ammunition",
+      "description": "Columbian Mammoth Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete the Bestiary , it can also be used in tandem with other Furniture to increase the Coziness of your living quarters, increasing the duration and effectiveness of the Well Rested Buff .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Trophy Bench",
       "tier": 2,
       "stats": {
         "weight": "2.0 Kg",
@@ -1075,18 +1194,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Refined Wood": 30,
-          "Columbian Mammoth Vestige": 1
-        },
+        "ingredients": {},
         "crafted_at": "Trophy Bench"
       }
     },
     {
       "name": "Columbian Mammoth Vestige",
       "url": "https://icarus.fandom.com/wiki/Columbian_Mammoth_Vestige",
-      "description": "Columbian Mammoth Vestiges are used at the Trophy Benchto create a Columbian Mammoth Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Columbian Mammoth Vestiges are used at the Trophy Bench to create a Columbian Mammoth Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1103,9 +1219,34 @@
     {
       "name": "Composite Arrow",
       "url": "https://icarus.fandom.com/wiki/Composite_Arrow",
-      "description": "The Composite Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
-      "item_type": "ammunition",
-      "ingredients": {},
+      "description": "The Composite Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -1118,19 +1259,41 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Composites": 0.2,
-          "Steel Screw": 0.4
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
-        "crafted_at": "Foundry"
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Crude Ammo",
       "url": "https://icarus.fandom.com/wiki/Crude_Ammo",
-      "description": "Crude Ammo is a crude, low-tech ammunition that works with all categories of Pistols.",
-      "item_type": "ammunition",
+      "description": "Crude Ammo is a crude, low-tech ammunition that works with all categories of Pistols .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench Machining Bench Fabricator",
       "tier": 2,
       "stats": {
         "weight": "0.01 kg"
@@ -1140,20 +1303,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Gunpowder": 1,
-          "Iron Ingot": 2
-        },
-        "crafted_at": "Machining Bench"
+        "ingredients": {},
+        "crafted_at": "Crafting Bench Machining Bench Fabricator"
       }
     },
     {
       "name": "Decorative Shell",
       "url": "https://icarus.fandom.com/wiki/Decorative_Shell",
-      "description": "The Decorative Shell is an item unlocked by completing the Fracturemission. There are two varieties of pottery selectable by 'R'.",
-      "item_type": "ammunition",
+      "description": "The Decorative Shell is an item unlocked by completing the Fracture mission. There are two varieties of pottery selectable by 'R'.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Masonry Bench",
       "tier": 2,
       "stats": {
         "weight": "1 Kg",
@@ -1165,15 +1325,40 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Masonry Bench"
+        "crafted_at": "Masonry Bench"
       }
     },
     {
       "name": "Fire Arrow",
       "url": "https://icarus.fandom.com/wiki/Fire_Arrow",
-      "description": "Want to turn that forest filled with bears into an inferno? The fire arrow is your friend. Need a light at the top of that cave? Fire arrow. While not as bright as the Flare Arrow, it will continue burning upon impact. Similar to the Poison Arrow, the Fire Arrow is a DOT upgrade to the Stone Arrow, which is helpful when in a 'fire and flee' situation. These arrows cannot be recovered once fired.",
-      "item_type": "ammunition",
-      "ingredients": {},
+      "description": "Want to turn that forest filled with bears into an inferno? The fire arrow is your friend. Need a light at the top of that cave? Fire arrow. While not as bright as the Flare Arrow , it will continue burning upon impact. Similar to the Poison Arrow , the Fire Arrow is a DOT upgrade to the Stone Arrow , which is helpful when in a 'fire and flee' situation. These arrows cannot be recovered once fired.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -1185,18 +1370,65 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Stone Arrow": 1,
-          "Gunpowder": 2
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
-        "crafted_at": "Character"
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Flare Arrow",
       "url": "https://icarus.fandom.com/wiki/Flare_Arrow",
       "description": "Flare Arrows are used to light up dark areas/cave roofs and can be shot high into the air to illuminate the darkness or to signal fellow Prospectors from a distance. These arrows cannot be recovered once fired.",
-      "item_type": "ammunition",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -1208,19 +1440,66 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Stone Arrow": 1,
-          "Sulfur": 2
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
-        "crafted_at": "Character"
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Flint Arrow",
       "url": "https://icarus.fandom.com/wiki/Flint_Arrow",
-      "description": "The Flint Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
-      "item_type": "ammunition",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "description": "The Flint Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
+      "crafted_at": "Anvil Bench",
       "tier": 2,
       "stats": {
         "damage": "+15% Critical Damage",
@@ -1232,9 +1511,30 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Leather": 0.2,
-          "Stick": 1,
-          "Iron Ore": 0.2
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
         "crafted_at": "Anvil Bench"
       }
@@ -1242,8 +1542,8 @@
     {
       "name": "Inaris \"Aruda\" Arrow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Aruda%22_Arrow",
-      "description": "The Inaris \"Aruda\" Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-      "item_type": "ammunition",
+      "description": "The Inaris \"Aruda\" Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1262,8 +1562,8 @@
     {
       "name": "Inaris \"Aruda\" Arrow Bundle",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Aruda%22_Arrow_Bundle",
-      "description": "Consuming the Inaris \"Aruda\" Arrow Bundle will add 25x Inaris \"Aruda\" Arrows to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "ammunition",
+      "description": "Consuming the Inaris \"Aruda\" Arrow Bundle will add 25x Inaris \"Aruda\" Arrow s to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1282,8 +1582,8 @@
     {
       "name": "Inaris \"Biana\" Arrow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Biana%22_Arrow",
-      "description": "The Inaris \"Biana\" Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. The elemental damage dealt by these arrows are not effected by Bow talents.",
-      "item_type": "ammunition",
+      "description": "The Inaris \"Biana\" Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. The elemental damage dealt by these arrows are not effected by Bow talents.",
+      "item_type": "harvestable",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1302,8 +1602,8 @@
     {
       "name": "Inaris \"Biana\" Arrow Bundle",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Biana%22_Arrow_Bundle",
-      "description": "Consuming the Inaris \"Biana\" Arrow Bundle will add 25x Inaris \"Biana\" Arrows to the Prospectors inventory, must be consumed after dropping into a Prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "ammunition",
+      "description": "Consuming the Inaris \"Biana\" Arrow Bundle will add 25x Inaris \"Biana\" Arrow s to the Prospectors inventory, must be consumed after dropping into a Prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
+      "item_type": "harvestable",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1322,8 +1622,8 @@
     {
       "name": "Inaris \"Netch\" Arrow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Netch%22_Arrow",
-      "description": "The Inaris \"Netch\" Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. The elemental damage dealt by these arrows are not effected by Bow talents.",
-      "item_type": "ammunition",
+      "description": "The Inaris \"Netch\" Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. The elemental damage dealt by these arrows are not effected by Bow talents.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1342,8 +1642,8 @@
     {
       "name": "Inaris \"Netch\" Arrow Bundle",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Netch%22_Arrow_Bundle",
-      "description": "Consuming the Inaris \"Netch\" Arrow Bundle will add 25x Inaris \"Biana\" Arrows to the Prospectors inventory, must be consumed after dropping into a Prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "ammunition",
+      "description": "Consuming the Inaris \"Netch\" Arrow Bundle will add 25x Inaris \"Biana\" Arrow s to the Prospectors inventory, must be consumed after dropping into a Prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1362,8 +1662,8 @@
     {
       "name": "Inaris \"Rouge\" Arrow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Rouge%22_Arrow",
-      "description": "The Inaris \"Rouge\" Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. The elemental damage dealt by these arrows are not effected by Bow talents.",
-      "item_type": "ammunition",
+      "description": "The Inaris \"Rouge\" Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. The elemental damage dealt by these arrows are not effected by Bow talents.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1382,8 +1682,8 @@
     {
       "name": "Inaris \"Rouge\" Arrow Bundle",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Rouge%22_Arrow_Bundle",
-      "description": "Consuming the Inaris \"Rouge\" Arrow Bundle will add 25x Inaris \"Rouge\" Arrows to the Prospectors inventory, must be consumed after dropping into a Prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "ammunition",
+      "description": "Consuming the Inaris \"Rouge\" Arrow Bundle will add 25x Inaris \"Rouge\" Arrow s to the Prospectors inventory, must be consumed after dropping into a Prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1402,8 +1702,8 @@
     {
       "name": "Larkwell Arrow Bundle",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Arrow_Bundle",
-      "description": "Consuming the Larkwell Arrow Bundle will add 25x Larkwell Martinez Arrows to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "ammunition",
+      "description": "Consuming the Larkwell Arrow Bundle will add 25x Larkwell Martinez Arrow s to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1422,8 +1722,8 @@
     {
       "name": "Larkwell Ballistic Arrow Bundle",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Ballistic_Arrow_Bundle",
-      "description": "Consuming the Larkwell Ballistic Arrow Bundle will add 25x Larkwell Martinez Ballistic Arrows to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "ammunition",
+      "description": "Consuming the Larkwell Ballistic Arrow Bundle will add 25x Larkwell Martinez Ballistic Arrow s to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1442,8 +1742,8 @@
     {
       "name": "Larkwell Bleed Arrow Bundle",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Bleed_Arrow_Bundle",
-      "description": "Consuming the Larkwell Bleed Arrow Bundle will add 25x Larkwell Martinez Bleed Arrows to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "ammunition",
+      "description": "Consuming the Larkwell Bleed Arrow Bundle will add 25x Larkwell Martinez Bleed Arrow s to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1462,8 +1762,8 @@
     {
       "name": "Larkwell Martinez Arrow",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Arrow",
-      "description": "The Larkwell Martinez Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-      "item_type": "ammunition",
+      "description": "The Larkwell Martinez Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1482,8 +1782,8 @@
     {
       "name": "Larkwell Martinez Ballistic Arrow",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Ballistic_Arrow",
-      "description": "The Larkwell Martinez Ballistic Arrow is ammunition used with a Bow. Unlike bolts and javelins, they cannot be recovered after being fired into the ground or an animal carcass. Caution when using this ammunition is advised.",
-      "item_type": "ammunition",
+      "description": "The Larkwell Martinez Ballistic Arrow is ammunition used with a Bow . Unlike bolts and javelins, they cannot be recovered after being fired into the ground or an animal carcass. Caution when using this ammunition is advised.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1502,8 +1802,8 @@
     {
       "name": "Larkwell Martinez Bleed Arrow",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Bleed_Arrow",
-      "description": "The Larkwell Martinez Bleed Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-      "item_type": "ammunition",
+      "description": "The Larkwell Martinez Bleed Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1522,8 +1822,8 @@
     {
       "name": "Larkwell Martinez Tazer Arrow",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tazer_Arrow",
-      "description": "The Larkwell Martinez Tazer Arrow is ammunition used with a Bow. Unlike bolts and javelins, they cannot be recovered after being fired into the ground or an animal carcass.",
-      "item_type": "ammunition",
+      "description": "The Larkwell Martinez Tazer Arrow is ammunition used with a Bow . Unlike bolts and javelins, they cannot be recovered after being fired into the ground or an animal carcass.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1542,8 +1842,8 @@
     {
       "name": "Larkwell Tazer Arrow Bundle",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Tazer_Arrow_Bundle",
-      "description": "Consuming the Larkwell Tazer Arrow Bundle will add 25x Larkwell Martinez Tazer Arrows to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "ammunition",
+      "description": "Consuming the Larkwell Tazer Arrow Bundle will add 25x Larkwell Martinez Tazer Arrow s to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1562,8 +1862,8 @@
     {
       "name": "MXC Flange Arrow",
       "url": "https://icarus.fandom.com/wiki/MXC_Flange_Arrow",
-      "description": "The MXC Flange Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-      "item_type": "ammunition",
+      "description": "The MXC Flange Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1582,8 +1882,8 @@
     {
       "name": "MXC Flange Arrow Bundle",
       "url": "https://icarus.fandom.com/wiki/MXC_Flange_Arrow_Bundle",
-      "description": "Consuming the bundle will add 5x MXC Flange Arrowto the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "ammunition",
+      "description": "Consuming the bundle will add 5x MXC Flange Arrow to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1602,8 +1902,8 @@
     {
       "name": "MXC Nerve Arrow",
       "url": "https://icarus.fandom.com/wiki/MXC_Nerve_Arrow",
-      "description": "The MXC Nerve Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-      "item_type": "ammunition",
+      "description": "The MXC Nerve Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1622,8 +1922,8 @@
     {
       "name": "MXC Nerve Arrow Bundle",
       "url": "https://icarus.fandom.com/wiki/MXC_Nerve_Arrow_Bundle",
-      "description": "Consuming the bundle will add 5x MXC Nerve Arrowto the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "ammunition",
+      "description": "Consuming the bundle will add 5x MXC Nerve Arrow to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1642,8 +1942,8 @@
     {
       "name": "Mammoth Tusk",
       "url": "https://icarus.fandom.com/wiki/Mammoth_Tusk",
-      "description": "Mammoth Tusks are a resource obtained from the Woolly Mammoth/Columbian Mammoth. Requires an Iron Knifeor better to skin and harvest the downed beast.",
-      "item_type": "ammunition",
+      "description": "Mammoth Tusks are a resource obtained from the Woolly Mammoth / Columbian Mammoth . Requires an Iron Knife or better to skin and harvest the downed beast.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1654,14 +1954,14 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Mortar and Pestle"
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Miasmic Arrow",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Arrow",
-      "description": "The Miasmic Arrow is ammunition used with a Bow, requiring Distilled Miasmic Coatingintroduced on the Prometheusmap.",
-      "item_type": "ammunition",
+      "description": "The Miasmic Arrow is ammunition used with a Bow , requiring Distilled Miasmic Coating introduced on the Prometheus map.",
+      "item_type": "harvestable",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 4,
@@ -1669,26 +1969,23 @@
         "weight": "0.03 kg"
       },
       "category": "arrows",
-      "harvested_from": [],
+      "harvested_from": [
+        "Icarus wildlife"
+      ],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Carbon Fiber": 0.2,
-          "Steel Arrow": 0.4,
-          "Titanium Ingot": 0.2,
-          "Distilled Miasmic Coating": 0.2
-        },
-        "crafted_at": "Forge"
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Narrow Barrel Attachment",
       "url": "https://icarus.fandom.com/wiki/Narrow_Barrel_Attachment",
-      "description": "Narrow Barrel Attachment is a mid-to-end game item available once the prospector has unlocked the Ranged Attachment Packtech.",
-      "item_type": "ammunition",
+      "description": "Narrow Barrel Attachment is a mid-to-end game item available once the prospector has unlocked the Ranged Attachment Pack tech.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Alteration Bench",
       "tier": 3,
       "stats": {
         "weight": "1 kg"
@@ -1699,16 +1996,41 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted at\n Alteration Bench"
+        "crafted_at": "Alteration Bench"
       }
     },
     {
       "name": "Obsidian Arrow",
       "url": "https://icarus.fandom.com/wiki/Obsidian_Arrow",
-      "description": "The Obsidian Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
-      "item_type": "ammunition",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "description": "The Obsidian Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
+      "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
         "weight": "0.03 kg"
@@ -1719,19 +2041,65 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Leather": 1,
-          "Refined Wood": 1,
-          "Shaped Obsidian": 0.2
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
-        "crafted_at": "Anvil Bench"
+        "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
     {
       "name": "Poison Arrow",
       "url": "https://icarus.fandom.com/wiki/Poison_Arrow",
-      "description": "The Poison Arrow is a damage over time upgrade to the Stone Arrow, which is helpful when in a 'fire and flee' situation. DOT effect stacks.",
-      "item_type": "ammunition",
-      "ingredients": {},
+      "description": "The Poison Arrow is a damage over time upgrade to the Stone Arrow , which is helpful when in a 'fire and flee' situation. DOT effect stacks.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -1743,17 +2111,39 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Stone Arrow": 1,
-          "Poison Paste": 2
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
-        "crafted_at": "Character"
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Round Rustic Sign",
       "url": "https://icarus.fandom.com/wiki/Round_Rustic_Sign",
       "description": "A Round Rustic Sign made of wood.",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1767,16 +2157,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Character"
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Rustic Narrow Wardrobe",
       "url": "https://icarus.fandom.com/wiki/Rustic_Narrow_Wardrobe",
       "description": "The Rustic Narrow Wardrobe smaller wardrobe but still has 10 slot capacity and two variations selectable by holding R.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -1788,16 +2178,41 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Sandworm Arrow",
       "url": "https://icarus.fandom.com/wiki/Sandworm_Arrow",
-      "description": "An upgrade to the Poison Arrowthese are helpful in a 'fire and flee' situation. Firing multiple arrows will continue to stack the Wound debuff, decreasing health regeneration of the target by 80%.",
-      "item_type": "ammunition",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "description": "An upgrade to the Poison Arrow these are helpful in a 'fire and flee' situation. Firing multiple arrows will continue to stack the Wound debuff, decreasing health regeneration of the target by 80%.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
+      "crafted_at": "{ Forge Foundry",
       "tier": 3,
       "stats": {
         "damage": "+20% Critical Damage",
@@ -1809,18 +2224,39 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Stick": 1,
-          "Leather": 1,
-          "Sandworm Scale": 2
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
-        "crafted_at": "Crafting Bench"
+        "crafted_at": "{ Forge Foundry"
       }
     },
     {
       "name": "Shengong \"Wenhe\" Arrow",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Wenhe%22_Arrow",
-      "description": "The Shengong \"Wenhe\" Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-      "item_type": "ammunition",
+      "description": "The Shengong \"Wenhe\" Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1839,8 +2275,8 @@
     {
       "name": "Shengong \"Wenhe\" Arrow Bundle",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Wenhe%22_Arrow_Bundle",
-      "description": "Consuming the Shengong \"Wenhe\" Arrow Bundle will add 25x Shengong \"Wenhe\" Arrowsto the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-      "item_type": "ammunition",
+      "description": "Consuming the Shengong \"Wenhe\" Arrow Bundle will add 25x Shengong \"Wenhe\" Arrows to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1859,10 +2295,35 @@
     {
       "name": "Steel Arrow",
       "url": "https://icarus.fandom.com/wiki/Steel_Arrow",
-      "description": "The Steel Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
-      "item_type": "ammunition",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "description": "The Steel Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
+      "crafted_at": "Anvil Bench",
       "tier": 2,
       "stats": {
         "damage": "+20% Critical Damage",
@@ -1874,9 +2335,30 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Epoy": 0.2,
-          "Stick": 1,
-          "Steel Ingot": 0.2
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
         "crafted_at": "Anvil Bench"
       }
@@ -1884,9 +2366,34 @@
     {
       "name": "Stone Arrow",
       "url": "https://icarus.fandom.com/wiki/Stone_Arrow",
-      "description": "The Stone Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-      "item_type": "ammunition",
-      "ingredients": {},
+      "description": "The Stone Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -1898,19 +2405,65 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Fiber": 1,
-          "Stick": 1,
-          "Stone": 1
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
-        "crafted_at": "Character"
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Titanium Arrow",
       "url": "https://icarus.fandom.com/wiki/Titanium_Arrow",
-      "description": "The Titanium Arrow is ammunition used with a Bow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
-      "item_type": "ammunition",
-      "ingredients": {},
+      "description": "The Titanium Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Arrow": 31,
+        "Bone Arrow": 54,
+        "Flare Arrow": 13,
+        "Poison Arrow": 13,
+        "Fire Arrow": 13,
+        "Flint Arrow": 63,
+        "Steel Arrow": 67,
+        "Aluminium Arrow": 72,
+        "Carbon Arrow": 81,
+        "Titanium Arrow": 81,
+        "Composite Arrow": 90,
+        "Sandworm Arrow": 54,
+        "Caveworm Arrow": 54,
+        "Black Wolf Arrow": 18,
+        "Shengong \"Wenhe\" Arrow": 66,
+        "MXC Nerve Arrow": 66,
+        "MXC Venom Arrow": 66,
+        "MXC Flange Arrow": 66,
+        "Inaris \"Aruda\" Arrow": 76,
+        "Larkwell Martinez Arrow": 99,
+        "Larkwell Martinez Ballistic Arrow": 57,
+        "Larkwell Martinez Tazer Arrow": 28,
+        "Larkwell Martinez Bleed Arrow": 61,
+        "Obsidian Arrow": 18
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -1923,9 +2476,30 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Carbon Fiber": 0.2,
-          "Steel Screw": 0.4,
-          "Titanium Ingot": 0.2
+          "Stone Arrow": 31,
+          "Bone Arrow": 54,
+          "Flare Arrow": 13,
+          "Poison Arrow": 13,
+          "Fire Arrow": 13,
+          "Flint Arrow": 63,
+          "Steel Arrow": 67,
+          "Aluminium Arrow": 72,
+          "Carbon Arrow": 81,
+          "Titanium Arrow": 81,
+          "Composite Arrow": 90,
+          "Sandworm Arrow": 54,
+          "Caveworm Arrow": 54,
+          "Black Wolf Arrow": 18,
+          "Shengong \"Wenhe\" Arrow": 66,
+          "MXC Nerve Arrow": 66,
+          "MXC Venom Arrow": 66,
+          "MXC Flange Arrow": 66,
+          "Inaris \"Aruda\" Arrow": 76,
+          "Larkwell Martinez Arrow": 99,
+          "Larkwell Martinez Ballistic Arrow": 57,
+          "Larkwell Martinez Tazer Arrow": 28,
+          "Larkwell Martinez Bleed Arrow": 61,
+          "Obsidian Arrow": 18
         },
         "crafted_at": "Unknown"
       }
@@ -1933,10 +2507,10 @@
     {
       "name": "Woolly Mammoth Trophy",
       "url": "https://icarus.fandom.com/wiki/Woolly_Mammoth_Trophy",
-      "description": "Woolly Mammoth Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete the Bestiary, it can also be used in tandem with other Furnitureto increase the Cozinessof your living quarters, increasing the duration and effectiveness of the Well Rested Buff.",
-      "item_type": "ammunition",
+      "description": "Woolly Mammoth Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete the Bestiary , it can also be used in tandem with other Furniture to increase the Coziness of your living quarters, increasing the duration and effectiveness of the Well Rested Buff .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Trophy Bench",
       "tier": 2,
       "stats": {
         "weight": "2.0 Kg",
@@ -1947,18 +2521,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Refined Wood": 30,
-          "Woolly Mammoth Vestige": 1
-        },
+        "ingredients": {},
         "crafted_at": "Trophy Bench"
       }
     },
     {
       "name": "Woolly Mammoth Vestige",
       "url": "https://icarus.fandom.com/wiki/Woolly_Mammoth_Vestige",
-      "description": "Woolly Mammoth Vestiges are used at the Trophy Benchto create a Mammoth Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Woolly Mammoth Vestiges are used at the Trophy Bench to create a Mammoth Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,

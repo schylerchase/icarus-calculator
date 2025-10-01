@@ -1,8 +1,8 @@
 {
   "name": "Chewy Coconut Cookie",
   "url": "https://icarus.fandom.com/wiki/Chewy_Coconut_Cookie",
-  "description": "Chewy Coconut Cookie is a late-gameFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "craftable",
+  "description": "Chewy Coconut Cookie is a late-game Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -12,12 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Flour": 2,
-      "Sugar Cubes": 2,
-      "Mature Coconut": 1,
-      "Vegetable Oil": 1
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

@@ -1,10 +1,10 @@
 {
   "name": "Cold Steel Spear",
   "url": "https://icarus.fandom.com/wiki/Cold_Steel_Spear",
-  "description": "Element damage does not scale with Spear talents. Unlike theCold Steel Javelin, the Cold Steel Spear cannot be thrown.",
-  "item_type": "ammunition",
+  "description": "Element damage does not scale with Spear talents. Unlike the Cold Steel Javelin , the Cold Steel Spear cannot be thrown.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted AtForge",
   "tier": 3,
   "stats": {
     "damage": "+25% Critical Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Forge"
+    "crafted_at": "Crafted AtForge"
   }
 }

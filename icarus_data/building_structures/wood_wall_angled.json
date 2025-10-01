@@ -1,8 +1,8 @@
 {
   "name": "Wood Wall Angled",
   "url": "https://icarus.fandom.com/wiki/Wood_Wall_Angled",
-  "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Wood wall angles may be snapped into existing floors or walls such asWood Wall. Holding 'R' while placing the angled wood wall for additional placement styles or directionality.",
-  "item_type": "ammunition",
+  "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection to Deployables and Storage containers. Wood wall angles may be snapped into existing floors or walls such as Wood Wall . Holding 'R' while placing the angled wood wall for additional placement styles or directionality.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

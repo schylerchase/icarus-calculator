@@ -2,7 +2,7 @@
   "name": "Fire Whacker",
   "url": "https://icarus.fandom.com/wiki/Fire_Whacker",
   "description": "The Fire Whacker is used to put out brush fires on the ground, other players who are on fire, or structures that are ablaze from lightning strikes. The Fire Whacker can also be used to put yourself out - aim down at your feet and start whacking; cannot be in/on source of fire while attempting to use the fire whacker on yourself.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 10,
-      "Stick": 4,
-      "Stone": 2
-    },
-    "crafted_at": "Character"
+    "ingredients": {},
+    "crafted_at": "Unknown"
   }
 }

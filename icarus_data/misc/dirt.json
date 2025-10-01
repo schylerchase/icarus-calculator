@@ -1,8 +1,8 @@
 {
   "name": "Dirt",
   "url": "https://icarus.fandom.com/wiki/Dirt",
-  "description": "Dirt is aResourcefound on the surface of Icarus inForest,Grassland, andSwampbiomes. Dirt is collected with aShoveland can be used to make a variety of items.",
-  "item_type": "ammunition",
+  "description": "Dirt is a Resource found on the surface of Icarus in Forest , Grassland , and Swamp biomes. Dirt is collected with a Shovel and can be used to make a variety of items.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,

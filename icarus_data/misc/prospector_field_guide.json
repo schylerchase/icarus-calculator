@@ -1,8 +1,8 @@
 {
   "name": "Prospector Field Guide",
   "url": "https://icarus.fandom.com/wiki/Prospector_Field_Guide",
-  "description": "The Prospector Field Guide is an in-game tool (default keybind:J) designed to provide players with comprehensive information on bestiaries, fishing records, and craftable items. This guide will be expanded to include detailed entries for every item, offering valuable insights to improve the crafting experience.",
-  "item_type": "ammunition",
+  "description": "The Prospector Field Guide is an in-game tool ( default keybind: J) designed to provide players with comprehensive information on bestiaries, fishing records, and craftable items. This guide will be expanded to include detailed entries for every item, offering valuable insights to improve the crafting experience.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

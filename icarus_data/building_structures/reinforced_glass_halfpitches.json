@@ -1,8 +1,8 @@
 {
   "name": "Reinforced Glass Halfpitches",
   "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Halfpitches",
-  "description": "Reinforced Glass Halfpitches are building pieces made fromReinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
-  "item_type": "craftable",
+  "description": "Reinforced Glass Halfpitches are building pieces made from Reinforced Glass that provides more durability and resistance to weather than standard glass buildings.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Steel Ingot": 1,
-      "Glass": 10,
-      "Epoy": 3
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

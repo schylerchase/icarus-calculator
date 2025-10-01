@@ -1,8 +1,8 @@
 {
   "name": "Oxygen",
   "url": "https://icarus.fandom.com/wiki/Oxygen",
-  "description": "Oxygen is one of the three survival meters that must be maintained by prospectors while attempting aProspecton Icarus.",
-  "item_type": "ammunition",
+  "description": "Oxygen is one of the three survival meters that must be maintained by prospectors while attempting a Prospect on Icarus.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

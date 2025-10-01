@@ -1,8 +1,8 @@
 {
   "name": "Shelter",
   "url": "https://icarus.fandom.com/wiki/Shelter",
-  "description": "Shelter is an essential condition of survival on Icarus, and governs how a prospector can withstand the frequentStormson Icarus.",
-  "item_type": "ammunition",
+  "description": "Shelter is an essential condition of survival on Icarus, and governs how a prospector can withstand the frequent Storms on Icarus.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

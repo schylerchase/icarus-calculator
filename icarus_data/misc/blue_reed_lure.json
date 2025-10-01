@@ -1,10 +1,10 @@
 {
   "name": "Blue Reed Lure",
   "url": "https://icarus.fandom.com/wiki/Blue_Reed_Lure",
-  "description": "The Blue Reed Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. Like allLures, the Blue Reed Lure degrades with use and will eventually break after ten uses.",
+  "description": "The Blue Reed Lure can be attached to a Fishing Rod or a Basic Fishing Trap / Advanced Fishing Trap to provide an increase to different attributes detailed in the infobox. Like all Lures , the Blue Reed Lure degrades with use and will eventually break after ten uses.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Basic Fishing Bench",
   "tier": 2,
   "stats": {
     "weight": "0.25 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Reed Flower": 2,
-      "Iron Nail": 2,
-      "Rope": 2
-    },
-    "crafted_at": "Fishing Bench"
+    "ingredients": {},
+    "crafted_at": "Basic Fishing Bench"
   }
 }

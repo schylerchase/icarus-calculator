@@ -1,10 +1,10 @@
 {
   "name": "Rusty Shotgun",
   "url": "https://icarus.fandom.com/wiki/Rusty_Shotgun",
-  "description": "A crude version of theShotgunthat fires slower and holds fewer rounds. It uses any type ofShotgun Ammunition.",
+  "description": "A crude version of the Shotgun that fires slower and holds fewer rounds. It uses any type of Shotgun Ammunition .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "3.0 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 15,
-      "Leather": 10,
-      "Steel Ingot": 10,
-      "Tree Sap": 10
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

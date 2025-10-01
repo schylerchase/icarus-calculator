@@ -1,8 +1,8 @@
 {
   "name": "Wood Hammer",
   "url": "https://icarus.fandom.com/wiki/Wood_Hammer",
-  "description": "Hammers are used to repairBuilding PiecesandDeployables. Hammers are also used to upgradeBuilding Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
-  "item_type": "craftable",
+  "description": "Example: If a Prospector were to upgrade a Wood Wall to a Stone Wall , a Stone Wall must be in the inventory of the Prospector when upgrading.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 10,
-      "Stick": 4,
-      "Stone": 6
-    },
-    "crafted_at": "Character Crafting"
+    "ingredients": {},
+    "crafted_at": "Unknown"
   }
 }

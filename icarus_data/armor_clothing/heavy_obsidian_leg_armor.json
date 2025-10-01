@@ -1,10 +1,10 @@
 {
   "name": "Heavy Obsidian Leg Armor",
   "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Leg_Armor",
-  "description": "Heavy Obsidian Armor is aTier 2armor specialized in heat resistance with a slightly higher physical resistance thanLeather Armorand a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
-  "item_type": "ammunition",
+  "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
     "weight": "2.0 kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Leather": 2,
-      "Obsidian": 2,
-      "Rope": 2
-    },
-    "crafted_at": "Textiles Bench"
+    "ingredients": {},
+    "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

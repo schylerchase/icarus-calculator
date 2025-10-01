@@ -1,8 +1,8 @@
 {
   "name": "Regenerative Combat Inhaler",
   "url": "https://icarus.fandom.com/wiki/Regenerative_Combat_Inhaler",
-  "description": "The Regenerative Combat Inhaler is aMedicinethat boosts health regeneration and resistance to basic and deep wounds.",
-  "item_type": "ammunition",
+  "description": "The Regenerative Combat Inhaler is a Medicine that boosts health regeneration and resistance to basic and deep wounds.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

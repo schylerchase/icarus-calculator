@@ -1,8 +1,8 @@
 {
   "name": "Seed Extractor",
   "url": "https://icarus.fandom.com/wiki/Seed_Extractor",
-  "description": "The Seed Extractor is a small deployable bench used to process fruits and plants to extractSeedsforFarming.",
-  "item_type": "craftable",
+  "description": "The Seed Extractor is a small deployable bench used to process fruits and plants to extract Seeds for Farming .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 15,
-      "Fiber": 20,
-      "Stone": 25,
-      "Charcoal": 10
-    },
-    "crafted_at": "Character"
+    "ingredients": {},
+    "crafted_at": "Unknown"
   }
 }

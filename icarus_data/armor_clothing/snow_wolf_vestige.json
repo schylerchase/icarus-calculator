@@ -1,8 +1,8 @@
 {
   "name": "Snow Wolf Vestige",
   "url": "https://icarus.fandom.com/wiki/Snow_Wolf_Vestige",
-  "description": "Snow Wolf Vestiges are used at theTrophy Benchto create aSnow Wolf Trophy, which can help prospectors complete theBestiary. They are also used at any textiles bench to makeSnow Wolf Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of theWell Rested Buff.",
-  "item_type": "ammunition",
+  "description": "Snow Wolf Vestiges are used at the Trophy Bench to create a Snow Wolf Trophy , which can help prospectors complete the Bestiary . They are also used at any textiles bench to make Snow Wolf Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

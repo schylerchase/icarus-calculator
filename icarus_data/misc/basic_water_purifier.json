@@ -2,7 +2,7 @@
   "name": "Basic Water Purifier",
   "url": "https://icarus.fandom.com/wiki/Basic_Water_Purifier",
   "description": "Basic Water Purifiers can be crafted using Character Crafting with the following resources:",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Character"
+    "crafted_at": "Unknown"
   }
 }

@@ -4,7 +4,7 @@
   "description": "Copper Wire is used in a variety of high-end buildings and components and is crafted in batches of 5.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {},
   "category": "resources",
@@ -12,9 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Copper Ingot": 0.2
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

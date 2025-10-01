@@ -1,8 +1,8 @@
 {
   "name": "Needler Vestige",
   "url": "https://icarus.fandom.com/wiki/Needler_Vestige",
-  "description": "Needler Vestiges are used at theTrophy Benchto create aNeedler Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Needler Vestiges are used at the Trophy Bench to create a Needler Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

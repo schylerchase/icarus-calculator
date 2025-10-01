@@ -1,0 +1,24 @@
+{
+  "name": "Miasmic Sickle",
+  "url": "https://icarus.fandom.com/wiki/Miasmic_Sickle",
+  "description": "Miasmic Sickle is a Tier 4 Sickle made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {
+    "damage": "28 - 32",
+    "weight": "0.5 Kg",
+    "durability": "120,000"
+  },
+  "category": "sickles",
+  "harvested_from": [
+    "Icarus wildlife"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

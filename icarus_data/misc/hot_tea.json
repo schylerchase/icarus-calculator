@@ -1,8 +1,8 @@
 {
   "name": "Hot Tea",
   "url": "https://icarus.fandom.com/wiki/Hot_Tea",
-  "description": "Mid-game warm beverage made by combining a filledLiquid Containersuch as aThermosandTea.",
-  "item_type": "ammunition",
+  "description": "Mid-game warm beverage made by combining a filled Liquid Container such as a Thermos and Tea .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

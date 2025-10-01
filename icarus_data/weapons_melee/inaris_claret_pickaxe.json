@@ -1,10 +1,10 @@
 {
   "name": "Inaris \"Claret\" Pickaxe",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Claret%22_Pickaxe",
-  "description": "The Inaris \"Claret\" Pickaxe is a Workshop Pickaxe geared towards combat, intrinsically dealing fire damage to targets. Since the Inaris \"Claret\" Pickaxe has the same mining radius and yield as theLarkwell Martinez Pickaxe, Prospectors are better off using theInaris \"Neves\" Pickaxefor mining.",
-  "item_type": "ammunition",
+  "description": "The Inaris \"Claret\" Pickaxe is a Workshop Pickaxe geared towards combat, intrinsically dealing fire damage to targets. Since the Inaris \"Claret\" Pickaxe has the same mining radius and yield as the Larkwell Martinez Pickaxe , Prospectors are better off using the Inaris \"Neves\" Pickaxe for mining.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "23 - 25 Melee Damage50 - 50 Fire Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
   }
 }

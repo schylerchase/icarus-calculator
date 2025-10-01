@@ -1,8 +1,8 @@
 {
   "name": "Stryder Vestige",
   "url": "https://icarus.fandom.com/wiki/Stryder_Vestige",
-  "description": "Stryder Vestiges are used at theTrophy Benchto create aStryder Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Stryder Vestiges are used at the Trophy Bench to create a Stryder Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

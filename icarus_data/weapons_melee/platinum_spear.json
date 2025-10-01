@@ -1,10 +1,10 @@
 {
   "name": "Platinum Spear",
   "url": "https://icarus.fandom.com/wiki/Platinum_Spear",
-  "description": "The Platinum Spear is the firstSpearavailable to prospectors once they reach Tier 3 and serves as an, albeit expensive, upgrade to its Tier 2 counterparts. Unlike thePlatinum Javelin, the Platinum Spear cannot be thrown.",
-  "item_type": "ammunition",
+  "description": "The Platinum Spear is the first Spear available to prospectors once they reach Tier 3 and serves as an, albeit expensive, upgrade to its Tier 2 counterparts. Unlike the Platinum Javelin , the Platinum Spear cannot be thrown.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "damage": "+25% Critical Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Forge"
+    "crafted_at": "Forge Foundry"
   }
 }

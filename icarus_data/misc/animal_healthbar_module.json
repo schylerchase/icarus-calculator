@@ -1,8 +1,8 @@
 {
   "name": "Animal Healthbar Module",
   "url": "https://icarus.fandom.com/wiki/Animal_Healthbar_Module",
-  "description": "This module allows the wearer to see creature alert level and health when equipped in anEnvirosuitmodule slot. The Animal Healthbar Module is researched and crafted on theSpace Stationin theWorkshopand is equipped in the Prospectors loadout before starting a new prospect.",
-  "item_type": "ammunition",
+  "description": "This module allows the wearer to see creature alert level and health when equipped in an Envirosuit module slot. The Animal Healthbar Module is researched and crafted on the Space Station in the Workshop and is equipped in the Prospectors loadout before starting a new prospect.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

@@ -2,7 +2,7 @@
   "name": "Composite Dropship Recall Beacon",
   "url": "https://icarus.fandom.com/wiki/Composite_Dropship_Recall_Beacon",
   "description": "The Composite Dropship Recall Beacon will fire a flare that calls the Prospectors dropship to that location when thrown, which can either be used for immediate extraction or left there for use later on. Multiple Recall Beacons can be used per session, however, these are one-use items, so use them carefully. Items stored in the dropships inventory will not be lost when the dropship is called, allowing Prospectors to transport equipment/resources over large distances.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Fabricator"
+    "crafted_at": "Unknown"
   }
 }

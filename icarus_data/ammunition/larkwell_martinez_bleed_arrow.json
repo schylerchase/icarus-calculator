@@ -1,8 +1,8 @@
 {
   "name": "Larkwell Martinez Bleed Arrow",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Bleed_Arrow",
-  "description": "The Larkwell Martinez Bleed Arrow is ammunition used with aBow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-  "item_type": "ammunition",
+  "description": "The Larkwell Martinez Bleed Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

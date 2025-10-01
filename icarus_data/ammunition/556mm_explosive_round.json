@@ -1,10 +1,10 @@
 {
   "name": "5.56mm Explosive Round",
   "url": "https://icarus.fandom.com/wiki/5.56mm_Explosive_Round",
-  "description": "The 5.56mm Explosive Round is used by theAssault Rifle. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Damages area around target. Caution when using this ammunition is advised.",
-  "item_type": "ammunition",
+  "description": "The 5.56mm Explosive Round is used by the Assault Rifle . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Damages area around target. Caution when using this ammunition is advised.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.01 kg"
@@ -14,10 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      ".mm Round": 5,
-      "Volatile Substance": 1
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

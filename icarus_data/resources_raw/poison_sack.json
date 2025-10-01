@@ -1,0 +1,21 @@
+{
+  "name": "Poison Sack",
+  "url": "https://icarus.fandom.com/wiki/Poison_Sack",
+  "description": "Poison Sacks are a resource that drops from Caveworms . Only after completing Unearthed: Research can these sacks and Caveworm Scales be used to craft new weaponry at a Crafting Bench .",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [
+    "native creatures\n\n\nFlavor Text\nH",
+    "le with care\n\n\n\nHarvesting Information\n\nSource\n Caveworms\n\n\nLocation\nCaves\n\n\n\nMisc Info\n\n\n\n\nWeight\nStack Size\n\n\n\n\n1"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

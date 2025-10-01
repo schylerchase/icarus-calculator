@@ -1,10 +1,10 @@
 {
   "name": "Creamed Corn",
   "url": "https://icarus.fandom.com/wiki/Creamed_Corn",
-  "description": "Creamed Corn is aFoodthat satisfiesHunger. It provides the uniqueStatus Effect,Creamed Corn, which increases maximumHealthandStaminaand reduces the Stamina consumed by actions.",
-  "item_type": "ammunition",
+  "description": "Creamed Corn is a Food that satisfies Hunger . It provides the unique Status Effect , Creamed Corn , which increases maximum Health and Stamina and reduces the Stamina consumed by actions.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Kitchen Bench Marble Kitchen Bench",
   "tier": 2,
   "stats": {},
   "category": "food",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Kitchen Bench Marble Kitchen Bench"
   }
 }

@@ -1,8 +1,8 @@
 {
   "name": "Shengong \"Yeying\" Bandage",
   "url": "https://icarus.fandom.com/wiki/Shengong_%22Yeying%22_Bandage",
-  "description": "The Shengong \"Yeying\" Bandage is an overly pricedBasic Bandagepurchased from the Workshop that will remove theBleedingmodifier when consumed.",
-  "item_type": "ammunition",
+  "description": "The Shengong \"Yeying\" Bandage is an overly priced Basic Bandage purchased from the Workshop that will remove the Bleeding modifier when consumed.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

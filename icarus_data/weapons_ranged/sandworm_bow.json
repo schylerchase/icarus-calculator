@@ -1,10 +1,10 @@
 {
   "name": "Sandworm Bow",
   "url": "https://icarus.fandom.com/wiki/Sandworm_Bow",
-  "description": "The Sandworm Bow is made with scales from theSandworm, using arrows and talents interchangeably with other bows.",
-  "item_type": "ammunition",
+  "description": "The Sandworm Bow is made with scales from the Sandworm , using arrows and talents interchangeably with other bows.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "damage": "+75% Projectile Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Forge"
+    "crafted_at": "Forge Foundry"
   }
 }

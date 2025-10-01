@@ -1,10 +1,10 @@
 {
   "name": "Bearhide Saddle",
   "url": "https://icarus.fandom.com/wiki/Bearhide_Saddle",
-  "description": "The Bearhide Saddle is a saddle forMountsthat has a bear theme. It is available as part of theCreature Comforts DLCand is a cosmetic change to theBasic Riding Saddlethat provides no additional attributes.",
+  "description": "The Bearhide Saddle is a saddle for Mounts that has a bear theme. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides no additional attributes.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "1.5 Kg"
@@ -14,12 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Leather": 14,
-      "Fur": 6,
-      "Rope": 2,
-      "Bear Vestige": 1
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

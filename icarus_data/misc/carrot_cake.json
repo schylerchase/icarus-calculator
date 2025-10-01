@@ -1,8 +1,8 @@
 {
   "name": "Carrot Cake",
   "url": "https://icarus.fandom.com/wiki/Carrot_Cake",
-  "description": "Carrot Cake is a deployableFooditem that when placed on a surface will provide 8Carrot Cake Piecesthat can be picked up and consumed by Prospectors.",
-  "item_type": "craftable",
+  "description": "Carrot Cake is a deployable Food item that when placed on a surface will provide 8 Carrot Cake Pieces that can be picked up and consumed by Prospectors.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -15,14 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Butter": 1,
-      "Flour": 20,
-      "Sugar Cubes": 10,
-      "Egg": 2,
-      "Vegetable Oil": 2,
-      "Carrot": 5
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

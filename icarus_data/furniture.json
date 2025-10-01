@@ -5,10 +5,10 @@
     {
       "name": "Advanced Alteration Bench",
       "url": "https://icarus.fandom.com/wiki/Advanced_Alteration_Bench",
-      "description": "The Advanced Alteration Bench is a late game technology that allows prospectors to create Attachment Packs (Tier 3 ) and Advanced Attachment Packs (Tier 4 ) to upgrade armor pieces, ranged weapons, and tools. An active power connection providing at least 1,500electricityto craft Attachment Packs is required. A power connection is not required to add and remove Attachment packs from items.",
+      "description": "The Advanced Alteration Bench is a late game technology that allows prospectors to create Attachment Packs ( Tier 3 ) and Advanced Attachment Packs ( Tier 4 ) to upgrade armor pieces, ranged weapons, and tools. An active power connection providing at least 1,500 electricity to craft Attachment Packs is required. A power connection is not required to add and remove Attachment packs from items.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "20.0 kg",
@@ -19,23 +19,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Steel Ingot": 30,
-          "Glass": 4,
-          "Electronics": 10,
-          "Concrete Mi": 25,
-          "Steel Screw": 8
-        },
+        "ingredients": {},
         "crafted_at": "Fabricator"
       }
     },
     {
       "name": "Advanced Masonry Bench",
       "url": "https://icarus.fandom.com/wiki/Advanced_Masonry_Bench",
-      "description": "The Advanced Masonry Bench enables the construction of Scoria Brick Building Piecesand Clay Brick Building Piecesand is able to craft items made the Masonry Benchat a faster rate, but only once the prospector researches the blueprint sets for those building pieces.",
-      "item_type": "ammunition",
+      "description": "The Advanced Masonry Bench enables the construction of Scoria Brick Building Pieces and Clay Brick Building Pieces and is able to craft items made the Masonry Bench at a faster rate, but only once the prospector researches the blueprint sets for those building pieces.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "25.0 kg",
@@ -53,10 +47,10 @@
     {
       "name": "Advanced Textiles Bench",
       "url": "https://icarus.fandom.com/wiki/Advanced_Textiles_Bench",
-      "description": "Allows for the crafting of more advanced Armorsets,Cured Leatherand Platinum Weave. The Advanced Textiles Bench is also able to craft items made at the Textiles Bench, removing the need for multiple benches.",
-      "item_type": "ammunition",
+      "description": "Allows for the crafting of more advanced Armor sets, Cured Leather and Platinum Weave . The Advanced Textiles Bench is also able to craft items made at the Textiles Bench , removing the need for multiple benches.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "20.0 kg",
@@ -77,7 +71,7 @@
       "description": "The Alteration Bench is a mid-to-late game technology that allows Prospectors to create Attachment Packs to upgrade armor pieces, ranged weapons, and tools.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "20.0 kg",
@@ -88,23 +82,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Iron Ingot": 24,
-          "Refined Wood": 10,
-          "Epoy": 6,
-          "Rope": 6,
-          "Copper Nail": 40
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Animal_Bed",
-      "description": "The Animal Bed serves as a place for juvenile animals to sleep while taming and is required to tame juvenile animals. Tamed Mountsand Petscan also use the Animal Bed when tired.",
+      "description": "The Animal Bed serves as a place for juvenile animals to sleep while taming and is required to tame juvenile animals. Tamed Mounts and Pets can also use the Animal Bed when tired.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "1.5 Kg",
@@ -115,20 +103,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 60,
-          "Fur": 20
-        },
+        "ingredients": {},
         "crafted_at": "Ranching Station"
       }
     },
     {
       "name": "Anvil Bench",
       "url": "https://icarus.fandom.com/wiki/Anvil_Bench",
-      "description": "The Anvil Bench is unlocked near the start of the Tier 2 Tech Tree. It enables the Prospector to craft higher quality tools such as the Iron Pickaxeand Steel Pickaxe. It is also where these tools can be repaired. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under a severely damaged roof) in storms.",
+      "description": "The Anvil Bench is unlocked near the start of the Tier 2 Tech Tree . It enables the Prospector to craft higher quality tools such as the Iron Pickaxe and Steel Pickaxe . It is also where these tools can be repaired. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under a severely damaged roof) in storms.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
         "weight": "20.0 kg",
@@ -139,21 +124,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Iron Ingot": 40,
-          "Wood": 20,
-          "Stone": 10
-        },
-        "crafted_at": "Anvil Bench"
+        "ingredients": {},
+        "crafted_at": "Crafting Bench"
       }
     },
     {
       "name": "Arctic Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Arctic_Chest_Armor",
-      "description": "Arctic Armor is a major upgrade to Fur Armor, offering unrivaled cold resistance.",
+      "description": "Arctic Armor is a major upgrade to Fur Armor , offering unrivaled cold resistance.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "4.0 kg",
@@ -164,22 +145,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Cured Leather": 5,
-          "Arctic Pelt": 8,
-          "Fur": 20,
-          "Rope": 6
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Art Deco 10-Seater Table",
       "url": "https://icarus.fandom.com/wiki/Art_Deco_10-Seater_Table",
       "description": "The Art Deco 10-Seater Table is an gilded item of significant worth.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -191,16 +167,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Art Deco 6-Seater Table",
       "url": "https://icarus.fandom.com/wiki/Art_Deco_6-Seater_Table",
       "description": "The Art Deco 6-Seater Table is an gilded item of significant worth.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -212,16 +188,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Art Deco Bed",
       "url": "https://icarus.fandom.com/wiki/Art_Deco_Bed",
       "description": "The Art Deco Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod. The Art Deco Bed has the best sleep quality of any bed.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -233,16 +209,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Art Deco Dining Chair",
       "url": "https://icarus.fandom.com/wiki/Art_Deco_Dining_Chair",
       "description": "The Art Deco Dining Chair is an gilded item of significant worth.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -254,16 +230,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Art Deco Lounge Chair",
       "url": "https://icarus.fandom.com/wiki/Art_Deco_Lounge_Chair",
       "description": "The Art Deco Lounge Chair is an gilded item of significant worth.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -275,16 +251,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Art Deco Round Table",
       "url": "https://icarus.fandom.com/wiki/Art_Deco_Round_Table",
       "description": "The Art Deco Round Table is an gilded item of significant worth.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -296,16 +272,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Art Deco Sitting Bench",
       "url": "https://icarus.fandom.com/wiki/Art_Deco_Sitting_Bench",
       "description": "The Art Deco Sitting Bench is an gilded item of significant worth.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -317,16 +293,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Basic Fishing Bench",
       "url": "https://icarus.fandom.com/wiki/Basic_Fishing_Bench",
-      "description": "The Basic Fishing Bench is where Prospectors can craft the Wooden Fishing Rodand the Refined Wood Fishing Rod, as well as various Lureson the left hand side of the bench. The right side of the bench is used to fillet any fish caught using a Fishing Rodor Fishing Trap. Does not require shelter to be used.",
+      "description": "The Basic Fishing Bench is where Prospectors can craft the Wooden Fishing Rod and the Refined Wood Fishing Rod , as well as various Lures on the left hand side of the bench. The right side of the bench is used to fillet any fish caught using a Fishing Rod or Fishing Trap. Does not require shelter to be used.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
         "weight": "20.0 Kg",
@@ -337,20 +313,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Wood": 25,
-          "Rope": 10,
-          "Iron Ingot": 5,
-          "Copper Nail": 12
-        },
+        "ingredients": {},
         "crafted_at": "Crafting Bench"
       }
     },
     {
       "name": "Bedroll",
       "url": "https://icarus.fandom.com/wiki/Bedroll",
-      "description": "The Bedroll allows prospectors to sleep provided it is sufficiently sheltered, a campfire/heater/dehumidifier/etc is nearby, and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Sleeping will provide the Well Rested Status Effect. Prospectors can set their respawn location to a bedroll, however if this bedroll is picked up or destroyed, the prospector's spawn location will reset back to their drop pod.",
-      "item_type": "craftable",
+      "description": "The Bedroll allows prospectors to sleep provided it is sufficiently sheltered, a campfire/heater/dehumidifier/etc is nearby, and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Sleeping will provide the Well Rested Status Effect . Prospectors can set their respawn location to a bedroll, however if this bedroll is picked up or destroyed, the prospector's spawn location will reset back to their drop pod.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 1,
@@ -363,22 +334,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 20,
-          "Stick": 10,
-          "Fur": 20,
-          "Leather": 10
-        },
-        "crafted_at": "Character"
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Black Tusker Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Black_Tusker_Animal_Bed",
-      "description": "The Black Tusker Animal Bed is a bed for Mountsand Petsthat has a tusker theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
+      "description": "The Black Tusker Animal Bed is a bed for Mounts and Pets that has a tusker theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "1.5 Kg",
@@ -389,11 +355,7 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Cured Leather": 10,
-          "Fur": 40,
-          "Tusker Vestige": 1
-        },
+        "ingredients": {},
         "crafted_at": "Ranching Station"
       }
     },
@@ -401,7 +363,7 @@
       "name": "Bone Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Chest_Armor",
       "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
-      "item_type": "craftable",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 1,
@@ -414,20 +376,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Bone": 60,
-          "Leather": 15
-        },
-        "crafted_at": "Character"
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Brown Bear Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Brown_Bear_Chest_Armor",
-      "description": "Brown Bear Armor is an upgrade to Bone Armor, offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachments and Attack Speed Attachments, further increasing knife attack speed.",
+      "description": "Brown Bear Armor is an upgrade to Bone Armor , offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachment s and Attack Speed Attachment s, further increasing knife attack speed.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "4.0 kg",
@@ -438,21 +397,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 5,
-          "Fur": 20,
-          "Rope": 6
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Brutalist 10-Seater Table",
       "url": "https://icarus.fandom.com/wiki/Brutalist_10-Seater_Table",
       "description": "The Brutalist 10-Seater Table seats ten and is mode from concrete, copper nails and glass.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -464,16 +419,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Brutalist 6-Seater Table",
       "url": "https://icarus.fandom.com/wiki/Brutalist_6-Seater_Table",
       "description": "The Brutalist 6-Seater Table seats six, is mode from concrete, copper nails and glass.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -485,16 +440,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Brutalist Bed",
       "url": "https://icarus.fandom.com/wiki/Brutalist_Bed",
       "description": "The Brutalist Bed is mode from concrete and platinum weave, and has an increased sleep quality.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -506,16 +461,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Brutalist Coffee Table",
       "url": "https://icarus.fandom.com/wiki/Brutalist_Coffee_Table",
       "description": "The Brutalist Coffee Table is mode from concrete, iron and glass.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -527,16 +482,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Brutalist Dining Chair",
       "url": "https://icarus.fandom.com/wiki/Brutalist_Dining_Chair",
       "description": "The Brutalist Dining Chair seats one and is mode from concrete and leather.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -548,16 +503,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Brutalist Lounge Chair",
       "url": "https://icarus.fandom.com/wiki/Brutalist_Lounge_Chair",
-      "description": "The Brutalist Lounge Chair is a minimalist chair made with concrete and leather in the Brutalist design aesthetic. It serves as a seat for Prospectors and provides a small bonus to Coziness.",
-      "item_type": "ammunition",
+      "description": "The Brutalist Lounge Chair is a minimalist chair made with concrete and leather in the Brutalist design aesthetic. It serves as a seat for Prospectors and provides a small bonus to Coziness .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "7 Kg",
@@ -569,16 +524,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Brutalist Octagonal Table",
       "url": "https://icarus.fandom.com/wiki/Brutalist_Octagonal_Table",
       "description": "The Brutalist Octagonal Table seats six and is mode from concrete and copper nails.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -590,16 +545,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Brutalist Sitting Bench",
       "url": "https://icarus.fandom.com/wiki/Brutalist_Sitting_Bench",
       "description": "The Brutalist Sitting Bench is made soley from concrete and seats two prospectors.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -611,16 +566,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Burlap Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Burlap_Animal_Bed",
-      "description": "The Burlap Animal Bed is a bed for Mountsand Petsthat has a basic theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
+      "description": "The Burlap Animal Bed is a bed for Mounts and Pets that has a basic theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "1.5 Kg",
@@ -631,9 +586,7 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 200
-        },
+        "ingredients": {},
         "crafted_at": "Ranching Station"
       }
     },
@@ -641,7 +594,7 @@
       "name": "CX-400 Chest Armor",
       "url": "https://icarus.fandom.com/wiki/CX-400_Chest_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -662,12 +615,33 @@
       "name": "Carpentry Bench",
       "url": "https://icarus.fandom.com/wiki/Carpentry_Bench",
       "description": "While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under severely damaged roof) in storms.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
         "weight": "20.0 kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Crafting Bench"
+      }
+    },
+    {
+      "name": "Carved Wood Armchair",
+      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Armchair",
+      "description": "The Carved Wood Armchair is a decorative item.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Carpentry Bench",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
         "durability": "500"
       },
       "category": "deployables",
@@ -680,33 +654,12 @@
       }
     },
     {
-      "name": "Carved Wood Armchair",
-      "url": "https://icarus.fandom.com/wiki/Carved_Wood_Armchair",
-      "description": "The Carved Wood Armchair is a decorative item.",
-      "item_type": "ammunition",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 2,
-      "stats": {
-        "weight": "1 Kg",
-        "durability": "500"
-      },
-      "category": "deployables",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Crafted At\n Carpentry Bench"
-      }
-    },
-    {
       "name": "Carved Wood Bed",
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Bed",
       "description": "The Carved Wood Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
         "weight": "10 kg",
@@ -725,9 +678,9 @@
       "name": "Carved Wood Chair",
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Chair",
       "description": "The Carved Wood Chair is a decorative chair of two varieties, select R when deploying.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
         "weight": "1 Kg",
@@ -739,16 +692,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Carpentry Bench"
+        "crafted_at": "Carpentry Bench"
       }
     },
     {
       "name": "Carved Wood Coffee Table",
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Coffee_Table",
       "description": "The Carved Wood Coffee Table is a decorative item with two varieties, select R when deploying.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
         "weight": "1 Kg",
@@ -760,16 +713,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Carpentry Bench"
+        "crafted_at": "Carpentry Bench"
       }
     },
     {
       "name": "Carved Wood Large Table",
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Large_Table",
       "description": "The Carved Wood Large Table is a long wood table with room for 10 seats. The item has two build variants that can be selected with the 'R' key when deploying.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
         "weight": "1 Kg",
@@ -781,16 +734,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Carpentry Bench"
+        "crafted_at": "Carpentry Bench"
       }
     },
     {
       "name": "Carved Wood Round Table",
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Round_Table",
       "description": "The Carved Wood Round Table is a decorative round wood table.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
         "weight": "1 Kg",
@@ -802,16 +755,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Carpentry Bench"
+        "crafted_at": "Carpentry Bench"
       }
     },
     {
       "name": "Carved Wood Sitting Bench",
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Sitting_Bench",
-      "description": "The Carved Wood Sitting Bench is a decorative wooden bench that provides seating and a small bonus to Coziness.",
-      "item_type": "ammunition",
+      "description": "The Carved Wood Sitting Bench is a decorative wooden bench that provides seating and a small bonus to Coziness .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
         "weight": "1 Kg",
@@ -823,16 +776,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Carpentry Bench"
+        "crafted_at": "Carpentry Bench"
       }
     },
     {
       "name": "Carved Wood Table",
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Table",
-      "description": "The Carved Wood Table is a decorative table with seating for six and a bonus to Coziness.",
-      "item_type": "ammunition",
+      "description": "The Carved Wood Table is a decorative table with seating for six and a bonus to Coziness .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
         "weight": "1 Kg",
@@ -844,16 +797,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Carpentry Bench"
+        "crafted_at": "Carpentry Bench"
       }
     },
     {
       "name": "Charging Station",
       "url": "https://icarus.fandom.com/wiki/Charging_Station",
-      "description": "The Charging Station charges basic battery powered devices like the Flashlightand requires 500Wattsto function.",
+      "description": "The Charging Station charges basic battery powered devices like the Flashlight and requires 500 Watts to function.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "10.0 Kg",
@@ -864,24 +817,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Electronics": 6,
-          "Concrete Mi": 8,
-          "Steel Screw": 18,
-          "Glass": 6,
-          "Copper Wire": 65,
-          "Aluminium Ingot": 6
-        },
+        "ingredients": {},
         "crafted_at": "Fabricator"
       }
     },
     {
       "name": "Chemistry Bench",
       "url": "https://icarus.fandom.com/wiki/Chemistry_Bench",
-      "description": "Grants the Prospector the ability to swiftly create Medicine,Fertilizer,Volatile Substanceand Distilled Miasmic Coating.",
+      "description": "Grants the Prospector the ability to swiftly create Medicine , Fertilizer , Volatile Substance and Distilled Miasmic Coating .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "20.0 kg",
@@ -892,13 +838,7 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Steel Ingot": 20,
-          "Refined Wood": 30,
-          "Electronics": 20,
-          "Composites": 10,
-          "Glass": 10
-        },
+        "ingredients": {},
         "crafted_at": "Fabricator"
       }
     },
@@ -906,7 +846,7 @@
       "name": "Cloth Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Cloth_Chest_Armor",
       "description": "Cloth Armor, while not being very protective in a fight, provides relatively good protection from the heat in deserts. It also makes traveling slightly quicker.",
-      "item_type": "craftable",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 1,
@@ -919,10 +859,8 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 120
-        },
-        "crafted_at": "Character"
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -931,7 +869,7 @@
       "description": "Composite Chest Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
         "weight": "2.5 kg",
@@ -942,22 +880,44 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Aluminium Ingot": 6,
-          "Composites": 24,
-          "Steel Screw": 12,
-          "Carbon Fiber": 2
-        },
+        "ingredients": {},
         "crafted_at": "Electric Textiles Bench"
       }
     },
     {
       "name": "Concrete Furnace",
       "url": "https://icarus.fandom.com/wiki/Concrete_Furnace",
-      "description": "Made at the Machining Bench, this Tier 3  furnace allows the smelting of mid-tier ores such as Steel Ingot+Super Cooled Iceinto Cold Steel Ingotsand Titanium Oreinto Titanium Ingots.",
+      "description": "Made at the Machining Bench , this Tier 3 furnace allows the smelting of mid-tier ores such as Steel Ingot + Super Cooled Ice into Cold Steel Ingots and Titanium Ore into Titanium Ingots .",
       "item_type": "craftable",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "ingredients": {
+        "Iron Ore": 2,
+        "Iron Ingot": 1,
+        "Copper Ore": 2,
+        "Copper Ingot": 1,
+        "Gold Ore": 2,
+        "Refined Gold": 1,
+        "Silica Ore": 1,
+        "Glass": 1,
+        "Carbon Paste": 1,
+        "Carbon Fiber": 1,
+        "Steel Bloom": 1,
+        "Steel Ingot": 1,
+        "Aluminium Ore": 1,
+        "Aluminium Ingot": 1,
+        "Platinum Ore": 5,
+        "Platinum Ingot": 1,
+        "Titanium Ore": 5,
+        "Titanium Ingot": 1,
+        "Clay+ . L ofWater": 1,
+        "Clay Brick": 5,
+        "Obsidian": 2,
+        "Shaped Obsidian": 1,
+        "Steel Ingot+ Super Cooled Ice": 1,
+        "Cold Steel Ingot": 1,
+        "Scoria": 1,
+        "Scoria Brick": 5
+      },
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "40.0 kg",
@@ -969,10 +929,32 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Iron Ingot": 12,
-          "Rope": 8,
-          "Epoy": 12,
-          "Concrete Mi": 20
+          "Iron Ore": 2,
+          "Iron Ingot": 1,
+          "Copper Ore": 2,
+          "Copper Ingot": 1,
+          "Gold Ore": 2,
+          "Refined Gold": 1,
+          "Silica Ore": 1,
+          "Glass": 1,
+          "Carbon Paste": 1,
+          "Carbon Fiber": 1,
+          "Steel Bloom": 1,
+          "Steel Ingot": 1,
+          "Aluminium Ore": 1,
+          "Aluminium Ingot": 1,
+          "Platinum Ore": 5,
+          "Platinum Ingot": 1,
+          "Titanium Ore": 5,
+          "Titanium Ingot": 1,
+          "Clay+ . L ofWater": 1,
+          "Clay Brick": 5,
+          "Obsidian": 2,
+          "Shaped Obsidian": 1,
+          "Steel Ingot+ Super Cooled Ice": 1,
+          "Cold Steel Ingot": 1,
+          "Scoria": 1,
+          "Scoria Brick": 5
         },
         "crafted_at": "Machining Bench"
       }
@@ -981,9 +963,14 @@
       "name": "Cooking Station",
       "url": "https://icarus.fandom.com/wiki/Cooking_Station",
       "description": "The Cooking Station is an early-game cooking bench that provides a way to for prospectors to process raw foods into resources, while also giving the prospector access to a variety of new foods with unique status effects.",
-      "item_type": "ammunition",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 8,
+        "Stick": 8,
+        "Stone": 24,
+        "Iron Ingot": 4
+      },
+      "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
         "weight": "2.0 Kg",
@@ -994,16 +981,26 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Crafted At\n Crafting Bench"
+        "ingredients": {
+          "Fiber": 8,
+          "Stick": 8,
+          "Stone": 24,
+          "Iron Ingot": 4
+        },
+        "crafted_at": "Crafting Bench"
       }
     },
     {
       "name": "Crafting Bench",
       "url": "https://icarus.fandom.com/wiki/Crafting_Bench",
       "description": "The Crafting Bench allows the prospector to craft Tier 2 items. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under severely damaged roof) in storms.",
-      "item_type": "ammunition",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 60,
+        "Wood": 50,
+        "Stone": 12,
+        "Leather": 20
+      },
       "crafted_at": "Unknown",
       "tier": 2,
       "stats": {
@@ -1015,15 +1012,20 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Character"
+        "ingredients": {
+          "Fiber": 60,
+          "Wood": 50,
+          "Stone": 12,
+          "Leather": 20
+        },
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Crumbed Saltwater Fillet",
       "url": "https://icarus.fandom.com/wiki/Crumbed_Saltwater_Fillet",
-      "description": "Crumbed Saltwater Fillet is a Foodwith a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
-      "item_type": "ammunition",
+      "description": "Crumbed Saltwater Fillet is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 3,
@@ -1040,10 +1042,10 @@
     {
       "name": "Cured Leather Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Cured_Leather_Chest_Armor",
-      "description": "Cured Leather Armor is an upgrade to Leather Armor, providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
+      "description": "Cured Leather Armor is an upgrade to Leather Armor , providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "2.0 kg",
@@ -1054,20 +1056,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 3,
-          "Cured Leather": 13
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Decoration Bench",
       "url": "https://icarus.fandom.com/wiki/Decoration_Bench",
-      "description": "Although prospectors may not use this bench often, it is required to complete Homestead: Construction.",
+      "description": "Although prospectors may not use this bench often, it is required to complete Homestead: Construction .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
         "weight": "20.0 kg",
@@ -1078,22 +1077,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 60,
-          "Wood": 50,
-          "Stone": 12,
-          "Leather": 20
-        },
+        "ingredients": {},
         "crafted_at": "Crafting Bench"
       }
     },
     {
       "name": "Electric Carpentry Bench",
       "url": "https://icarus.fandom.com/wiki/Electric_Carpentry_Bench",
-      "description": "The Electric Carpentry Bench allows for manufacturing of refined wood deployables at a faster rate than the Carpentry Bench. Prospectors can use the Electric Carpentry Bench to craft furniture, like an improved Wooden Bed, and storage items like an Interior Wood Cupboard. The Electric Carpentry Bench can also create Interior Wood building pieces.",
+      "description": "The Electric Carpentry Bench allows for manufacturing of refined wood deployables at a faster rate than the Carpentry Bench . Prospectors can use the Electric Carpentry Bench to craft furniture, like an improved Wooden Bed , and storage items like an Interior Wood Cupboard . The Electric Carpentry Bench can also create Interior Wood building pieces.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "20.0 kg",
@@ -1104,23 +1098,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Steel Ingot": 60,
-          "Composites": 10,
-          "Iron Ingot": 40,
-          "Steel Screw": 10,
-          "Electronics": 20
-        },
+        "ingredients": {},
         "crafted_at": "Fabricator"
       }
     },
     {
       "name": "Electric Furnace",
       "url": "https://icarus.fandom.com/wiki/Electric_Furnace",
-      "description": "The Electric Furnace is the end-game furnace capable of smelting Composite Pasteinto Composites, a material required for most Tier 4 blueprints, and can refine all other minerals faster than the lower tier furnaces.",
+      "description": "The Electric Furnace is the end-game furnace capable of smelting Composite Paste into Composites , a material required for most Tier 4 blueprints, and can refine all other minerals faster than the lower tier furnaces.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "50.0 kg",
@@ -1131,23 +1119,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Steel Ingot": 30,
-          "Glass": 4,
-          "Electronics": 60,
-          "Concrete Mi": 80,
-          "Steel Screw": 8
-        },
+        "ingredients": {},
         "crafted_at": "Fabricator"
       }
     },
     {
       "name": "Electric Masonry Bench",
       "url": "https://icarus.fandom.com/wiki/Electric_Masonry_Bench",
-      "description": "The Electric Masonry Bench enables the construction of Stone Building Piecesand Concrete Building Piecesat a faster rate than the Masonry Benchand Cement Mixer, but only once the Prospector researches the blueprints for building pieces. The Electric Masonry Bench can also craft all building pieces made at the Masonry Bench/Advanced Masonry Bench.",
-      "item_type": "ammunition",
+      "description": "The Electric Masonry Bench enables the construction of Stone Building Pieces and Concrete Building Pieces at a faster rate than the Masonry Bench and Cement Mixer , but only once the Prospector researches the blueprints for building pieces. The Electric Masonry Bench can also craft all building pieces made at the Masonry Bench / Advanced Masonry Bench .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "35.0 kg",
@@ -1165,10 +1147,10 @@
     {
       "name": "Electric Textiles Bench",
       "url": "https://icarus.fandom.com/wiki/Electric_Textiles_Bench",
-      "description": "A power connection providing at least 2,500 ofpoweris required to utilize this bench. Allows for the crafting of more advanced Armorsets and items that can be made at the Textiles Benchand Advanced Textiles Bench.",
+      "description": "A power connection providing at least 2,500 of power is required to utilize this bench. Allows for the crafting of more advanced Armor sets and items that can be made at the Textiles Bench and Advanced Textiles Bench .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "20.0 kg",
@@ -1179,22 +1161,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Steel Ingot": 30,
-          "Electronics": 8,
-          "Concrete Mi": 15,
-          "Steel Screw": 18
-        },
+        "ingredients": {},
         "crafted_at": "Fabricator"
       }
     },
     {
       "name": "Fabricator",
       "url": "https://icarus.fandom.com/wiki/Fabricator",
-      "description": "The Fabricator is the late-game crafting bench, it enables the crafting of Weaponsand Toolslike the Combat Knifeand a Titanium Pickaxe. It also enables the creation of power sources, such as the Biofuel Generator, and the Refrigerator.",
+      "description": "The Fabricator is the late-game crafting bench, it enables the crafting of Weapons and Tools like the Combat Knife and a Titanium Pickaxe . It also enables the creation of power sources, such as the Biofuel Generator , and the Refrigerator .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 4,
       "stats": {
         "weight": "30.0 kg",
@@ -1205,23 +1182,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Aluminium Ingot": 40,
-          "Electronics": 30,
-          "Concrete Mi": 30,
-          "Carbon Fiber": 8,
-          "Steel Screw": 30
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "Forge",
       "url": "https://icarus.fandom.com/wiki/Forge",
-      "description": "The Forge is the Tier 3 variant of the Anvil Benchthat will allow the Prospector to craft higher quality tools such as the Platinum Pickaxe,Cold Steel Knife, etc and items crafted at the Anvil Bench(Iron Axe,Copper Nails, etc). It is also where these tools can be repaired. Unlike other benches, the Forge can be deployed and used outdoors as it does not require shelter. Can be used indoors or outdoors.",
+      "description": "The Forge is the Tier 3 variant of the Anvil Bench that will allow the Prospector to craft higher quality tools such as the Platinum Pickaxe , Cold Steel Knife , etc and items crafted at the Anvil Bench ( Iron Axe , Copper Nails , etc). It is also where these tools can be repaired. Unlike other benches, the Forge can be deployed and used outdoors as it does not require shelter. Can be used indoors or outdoors.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "30.0 kg",
@@ -1232,20 +1203,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Iron Ingot": 20,
-          "Stone": 150,
-          "Epoy": 8,
-          "Steel Ingot": 20
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "Fried Chunky Vegetables",
       "url": "https://icarus.fandom.com/wiki/Fried_Chunky_Vegetables",
-      "description": "Fried Chunky Vegetables is a Foodwith a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
-      "item_type": "ammunition",
+      "description": "Fried Chunky Vegetables is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 3,
@@ -1262,10 +1228,10 @@
     {
       "name": "Fur Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Fur_Chest_Armor",
-      "description": "Fur armor is a sidegrade to Leather Armor, offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
+      "description": "Fur armor is a sidegrade to Leather Armor , offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "4.0 kg",
@@ -1276,12 +1242,8 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 8,
-          "Fur": 24,
-          "Rope": 4
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
@@ -1290,7 +1252,7 @@
       "description": "Ghillie Chest Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "0.75 kg",
@@ -1301,21 +1263,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 160,
-          "Stick": 8,
-          "Rope": 4
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Glassworking Bench",
       "url": "https://icarus.fandom.com/wiki/Glassworking_Bench",
-      "description": "The Glassworking Bench is a mid-to-late game technology that allows Prospectors to create Glassresources and construction elements, like the Glass Windowand Glass Roof. In addition, Prospectors can create containers for food and beverages, such as the Glass Bottleand Glass Jar.",
+      "description": "The Glassworking Bench is a mid-to-late game technology that allows Prospectors to create Glass resources and construction elements, like the Glass Window and Glass Roof . In addition, Prospectors can create containers for food and beverages, such as the Glass Bottle and Glass Jar .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench Fabricator",
       "tier": 3,
       "stats": {
         "weight": "25.0 Kg",
@@ -1326,23 +1284,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Iron Ingot": 24,
-          "Refined Wood": 10,
-          "Epoy": 6,
-          "Rope": 6,
-          "Copper Nail": 40
-        },
-        "crafted_at": "Machining Bench"
+        "ingredients": {},
+        "crafted_at": "Machining Bench Fabricator"
       }
     },
     {
       "name": "Heated Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Heated_Animal_Bed",
-      "description": "The Heated Animal Bed is a bed for Mountsand Petsthat has a luxurious theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
+      "description": "The Heated Animal Bed is a bed for Mounts and Pets that has a luxurious theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "1.5 Kg",
@@ -1353,20 +1305,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 25,
-          "Gold Wire": 20
-        },
+        "ingredients": {},
         "crafted_at": "Ranching Station"
       }
     },
     {
       "name": "Heavy Obsidian Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Chest_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armorand a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "2.0 kg",
@@ -1377,21 +1326,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 4,
-          "Obsidian": 12,
-          "Rope": 4
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Herbalism Bench",
       "url": "https://icarus.fandom.com/wiki/Herbalism_Bench",
-      "description": "Allows for the crafting of Medicinal Pastes and Tonicssuch as Antibiotic Tonicto cure ailments and afflictions.",
-      "item_type": "ammunition",
+      "description": "Allows for the crafting of Medicinal Pastes and Tonics such as Antibiotic Tonic to cure ailments and afflictions.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench Machining Bench Fabricator",
       "tier": 2,
       "stats": {
         "weight": "20.0kg",
@@ -1403,16 +1348,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Machining Bench"
+        "crafted_at": "Crafting Bench Machining Bench Fabricator"
       }
     },
     {
       "name": "Hunter Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Hunter_Chest_Armor",
-      "description": "An upgrade to Ghillie Armorwith over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
+      "description": "An upgrade to Ghillie Armor with over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "1.0 kg",
@@ -1423,22 +1368,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 5,
-          "Cured Leather": 6,
-          "Rope": 6,
-          "Epoy": 16
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Industrial Bed",
       "url": "https://icarus.fandom.com/wiki/Industrial_Bed",
       "description": "The Industrial Bed is made from metal and has an increased sleep quality.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -1450,16 +1390,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Industrial Chair",
       "url": "https://icarus.fandom.com/wiki/Industrial_Chair",
       "description": "A minimalist Industrial Chair",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -1471,16 +1411,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Industrial Coffee Table",
       "url": "https://icarus.fandom.com/wiki/Industrial_Coffee_Table",
       "description": "A minimalist Industrial Coffee Table",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -1492,16 +1432,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Industrial Dining Chair",
       "url": "https://icarus.fandom.com/wiki/Industrial_Dining_Chair",
       "description": "A minimalist Industrial Dining Chair",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -1513,16 +1453,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Industrial Large Table",
       "url": "https://icarus.fandom.com/wiki/Industrial_Large_Table",
       "description": "A minimalist Industrial Large Table",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -1534,16 +1474,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Industrial Round Table",
       "url": "https://icarus.fandom.com/wiki/Industrial_Round_Table",
       "description": "A minimalist Industrial Round Table",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -1555,16 +1495,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Industrial Sitting Bench",
       "url": "https://icarus.fandom.com/wiki/Industrial_Sitting_Bench",
       "description": "A minimalist Industrial Sitting Bench",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -1576,16 +1516,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Industrial Table",
       "url": "https://icarus.fandom.com/wiki/Industrial_Table",
       "description": "A minimalist Industrial Table",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -1597,16 +1537,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Jaguar Buffalo Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Jaguar_Buffalo_Animal_Bed",
-      "description": "The Jaguar Buffalo Animal Bed is a bed for Mountsand Petsthat has a Jaguar and Buffalo theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
+      "description": "The Jaguar Buffalo Animal Bed is a bed for Mounts and Pets that has a Jaguar and Buffalo theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "1.5 Kg",
@@ -1617,12 +1557,7 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Cured Leather": 10,
-          "Fur": 35,
-          "Jaguar Vestige": 1,
-          "Buffalo Vestige": 1
-        },
+        "ingredients": {},
         "crafted_at": "Ranching Station"
       }
     },
@@ -1632,7 +1567,7 @@
       "description": "The Kitchen Bench is a mid/late-game crafting bench that expands on cooking foods and it is also the path for creating more advanced medicines.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "20.0 kg",
@@ -1643,22 +1578,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Refined Wood": 30,
-          "Iron Ingot": 8,
-          "Epoy": 20,
-          "Copper Nail": 20
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "Kitchen Storage Block",
       "url": "https://icarus.fandom.com/wiki/Kitchen_Storage_Block",
-      "description": "A Kitchen Storage Block made of refined wood and copper nails, use it to store your kitchen essentials. Must be snapped to a Kitchen Benchto be placed. It has 40 inventory slots.",
-      "item_type": "ammunition",
+      "description": "A Kitchen Storage Block made of refined wood and copper nails, use it to store your kitchen essentials. Must be snapped to a Kitchen Bench to be placed. It has 40 inventory slots.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "10.0 kg",
@@ -1676,10 +1606,10 @@
     {
       "name": "LM Beastmaster Chest Armor",
       "url": "https://icarus.fandom.com/wiki/LM_Beastmaster_Chest_Armor",
-      "description": "The LM Beastmaster Chest Armor is part of the LM Beastmaster Armor Set, which can be unlocked in the Workshopon the Space Stationand is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mountsand tamed creatures.",
-      "item_type": "ammunition",
+      "description": "The LM Beastmaster Chest Armor is part of the LM Beastmaster Armor Set , which can be unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mounts and tamed creatures.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1691,16 +1621,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
       }
     },
     {
       "name": "Larkwell Martinez Tachyon Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tachyon_Chest_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1712,16 +1642,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
       }
     },
     {
       "name": "Leather Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Chest_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus'Fauna, but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "2.0 kg",
@@ -1732,18 +1662,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 60,
-          "Leather": 24
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "MXC Furnace",
       "url": "https://icarus.fandom.com/wiki/MXC_Furnace",
-      "description": "The MXC Furnace is unlocked in the Workshopon the Space Stationand is equipped in the Prospector's loadout before starting a new prospect. The MXC Furnace functions like a smaller, more lightweight Stone Furnace, and allows for processing of Iron Ore,Copper Ore, and Steel Bloominto ingots.",
-      "item_type": "ammunition",
+      "description": "The MXC Furnace is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. The MXC Furnace functions like a smaller, more lightweight Stone Furnace , and allows for processing of Iron Ore , Copper Ore , and Steel Bloom into ingots.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1757,16 +1684,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Stone Furnace"
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Machining Bench",
       "url": "https://icarus.fandom.com/wiki/Machining_Bench",
-      "description": "Mid-level crafting system made at the Crafting Bench, the Machining Bench provides access to Tier 3 Blueprints. Prospectors can use it to create Deployablesand Firearms.",
-      "item_type": "ammunition",
+      "description": "Mid-level crafting system made at the Crafting Bench , the Machining Bench provides access to Tier 3 Blueprints. Prospectors can use it to create Deployables and Firearms .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench",
       "tier": 3,
       "stats": {
         "weight": "25.0 kg",
@@ -1778,16 +1705,20 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Machining Bench"
+        "crafted_at": "Crafting Bench"
       }
     },
     {
       "name": "Marble Kitchen Bench",
       "url": "https://icarus.fandom.com/wiki/Marble_Kitchen_Bench",
-      "description": "The Marble Kitchen Bench is a late-game crafting bench that expands on cooking foods and contains the recipes that can be found in the Cooking Station. Crafts 50% faster than the Kitchen Bench. A water connection is not required for the Marble Kitchen Bench to function.",
-      "item_type": "ammunition",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "description": "The Marble Kitchen Bench is a late-game crafting bench that expands on cooking foods and contains the recipes that can be found in the Cooking Station . Crafts 50% faster than the Kitchen Bench . A water connection is not required for the Marble Kitchen Bench to function.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Cooking StationKitchen BenchMarble Kitchen Bench": 5,
+        "Kitchen BenchMarble Kitchen Bench": 10,
+        "Marble Kitchen Bench": 2
+      },
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "20.0 kg",
@@ -1798,17 +1729,21 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Marble Kitchen Bench"
+        "ingredients": {
+          "Cooking StationKitchen BenchMarble Kitchen Bench": 5,
+          "Kitchen BenchMarble Kitchen Bench": 10,
+          "Marble Kitchen Bench": 2
+        },
+        "crafted_at": "Fabricator"
       }
     },
     {
       "name": "Marble Kitchen Storage",
       "url": "https://icarus.fandom.com/wiki/Marble_Kitchen_Storage",
-      "description": "The Marble Kitchen Storage is used to store kitchen essentials and must be snapped to a Kitchen Benchto be placed. The Marble Kitchen Storage has 40 slots.",
-      "item_type": "ammunition",
+      "description": "The Marble Kitchen Storage is used to store kitchen essentials and must be snapped to a Kitchen Bench to be placed. The Marble Kitchen Storage has 40 slots.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "20.0 kg",
@@ -1820,16 +1755,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Machining Bench"
+        "crafted_at": "Fabricator"
       }
     },
     {
       "name": "Masonry Bench",
       "url": "https://icarus.fandom.com/wiki/Masonry_Bench",
-      "description": "The Masonry Bench enables the construction of Stone Building Piecesand Scoria Building Pieces, but only once the prospector researches the blueprint sets for those building pieces.",
-      "item_type": "ammunition",
+      "description": "The Masonry Bench enables the construction of Stone Building Pieces and Scoria Building Pieces , but only once the prospector researches the blueprint sets for those building pieces.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
         "weight": "20.0 kg",
@@ -1847,10 +1782,10 @@
     {
       "name": "Medicine Bench",
       "url": "https://icarus.fandom.com/wiki/Medicine_Bench",
-      "description": "Allows for the crafting of Medicinal Pastes and Tonicssuch as Antibiotic Pill,Survival Kitsand Health Recovery Elixirto cure and prevent ailments and afflictions. It can also be used to craft Volatile Substanceand Fertilizer.",
-      "item_type": "ammunition",
+      "description": "Allows for the crafting of Medicinal Pastes and Tonics such as Antibiotic Pill , Survival Kits and Health Recovery Elixir to cure and prevent ailments and afflictions. It can also be used to craft Volatile Substance and Fertilizer .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench Fabricator",
       "tier": 3,
       "stats": {
         "weight": "1.0kg",
@@ -1862,14 +1797,14 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Machining Bench"
+        "crafted_at": "Machining Bench Fabricator"
       }
     },
     {
       "name": "Naneo Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Naneo_Chest_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1889,10 +1824,10 @@
     {
       "name": "Obsidian Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Obsidian_Chest_Armor",
-      "description": "Obsidian Armor is a sidegrade of Composite Armor, providing slightly more physical resistance and a substantial bonus to heat resistance.",
+      "description": "Obsidian Armor is a sidegrade of Composite Armor , providing slightly more physical resistance and a substantial bonus to heat resistance.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
         "weight": "1.0 kg",
@@ -1903,22 +1838,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 15,
-          "Composites": 8,
-          "Steel Screw": 6,
-          "Shaped Obsidian": 15
-        },
+        "ingredients": {},
         "crafted_at": "Electric Textiles Bench"
       }
     },
     {
       "name": "Plumbed Sink",
       "url": "https://icarus.fandom.com/wiki/Plumbed_Sink",
-      "description": "The Plumbed Sink is bench that can be connected to other Marble Appliances and, when connected to active water connection, provides a short buff when interacted with. The Buff increases crafting speed, movement speed, health regeneration, and reduced water and food consumption. 250 units of Wateris required for the Plumbed Sink to function.",
-      "item_type": "ammunition",
+      "description": "The Plumbed Sink is bench that can be connected to other Marble Appliances and, when connected to active water connection, provides a short buff when interacted with. The Buff increases crafting speed, movement speed, health regeneration, and reduced water and food consumption. 250 units of Water is required for the Plumbed Sink to function.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "20.0 kg",
@@ -1939,7 +1869,7 @@
       "description": "When deployed, the Portable Beacon will display a map marker that is visible on the map and compass, which is helpful for marking locations of caves/bases/predator spawns/or anything else a Prospector wishes to mark. When interacting with the Portable Beacon, Prospectors can choose from a list of available icons and colors to customize the icon displayed. Must be placed outdoors.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "10.0 kg",
@@ -1950,23 +1880,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Gold Wire": 30,
-          "Copper Wire": 25,
-          "Steel Ingot": 10,
-          "Platinum Sheath": 20,
-          "Glass": 10
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "Portable Biofuel Generator",
       "url": "https://icarus.fandom.com/wiki/Portable_Biofuel_Generator",
-      "description": "The Portable Biofuel Generator generates Electricitywhen supplied with biofuel from a Biofuel Can.",
-      "item_type": "ammunition",
+      "description": "The Portable Biofuel Generator generates Electricity when supplied with biofuel from a Biofuel Can .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "2.0 Kg",
@@ -1984,10 +1908,10 @@
     {
       "name": "Portable Biofuel Tank",
       "url": "https://icarus.fandom.com/wiki/Portable_Biofuel_Tank",
-      "description": "Portable Biofuel Tank is used for Biofuelstorage. It is either filled at the Biofuel Composteror Electric Composter.",
-      "item_type": "ammunition",
+      "description": "Portable Biofuel Tank is used for Biofuel storage. It is either filled at the Biofuel Composter or Electric Composter .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "150.0 Kg",
@@ -2005,10 +1929,10 @@
     {
       "name": "Portable Icebox Backpack",
       "url": "https://icarus.fandom.com/wiki/Portable_Icebox_Backpack",
-      "description": "A handy backpack to prevent your food from spoiling on long journeys. Will run for 1 hour on a full charge. Can be recharged at a Charging Station.",
+      "description": "A handy backpack to prevent your food from spoiling on long journeys. Will run for 1 hour on a full charge. Can be recharged at a Charging Station .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "0.5 Kg",
@@ -2019,22 +1943,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Aluminium Ingot": 25,
-          "Electronics": 10,
-          "Carbon Fiber": 5,
-          "Steel Screw": 10
-        },
+        "ingredients": {},
         "crafted_at": "Fabricator"
       }
     },
     {
       "name": "Portable Water Tank",
       "url": "https://icarus.fandom.com/wiki/Portable_Water_Tank",
-      "description": "Portable Water Tank is a deployable that can be connected to a water network once placed to store 150,000 of water and can output 1,000 water per second to keep the network operational. It is the equivalent to a Water Barrelwith having half of the storage, but it can be picked up into your character's Backpack/Equipment Slot (G).",
-      "item_type": "ammunition",
+      "description": "Portable Water Tank is a deployable that can be connected to a water network once placed to store 150,000 of water and can output 1,000 water per second to keep the network operational. It is the equivalent to a Water Barrel with having half of the storage, but it can be picked up into your character's Backpack/Equipment Slot (G).",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "150.0 Kg",
@@ -2052,10 +1971,10 @@
     {
       "name": "Ranching Station",
       "url": "https://icarus.fandom.com/wiki/Ranching_Station",
-      "description": "The Ranching Station allows the prospector to craft various Tier 2 equipment to use and maintain mounts and pets. This includes several Food Troughs/Water Troughs,Animal Beds,Saddles/Carts,Animal Feed, and other Ranching Deployables. Must be placed outside.",
+      "description": "The Ranching Station allows the prospector to craft various Tier 2 equipment to use and maintain mounts and pets. This includes several Food Troughs / Water Troughs , Animal Beds , Saddles / Carts , Animal Feed , and other Ranching Deployables . Must be placed outside.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench Machining Bench Fabricator",
       "tier": 2,
       "stats": {
         "weight": "20.0 Kg",
@@ -2066,23 +1985,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Rope": 10,
-          "Wood": 30,
-          "Leather": 20,
-          "Fur": 10,
-          "Iron Nail": 15
-        },
-        "crafted_at": "Crafting Bench"
+        "ingredients": {},
+        "crafted_at": "Crafting Bench Machining Bench Fabricator"
       }
     },
     {
       "name": "Regent Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Regent_Animal_Bed",
-      "description": "The Regent Animal Bed is a bed for Mountsand Petsthat has a luxurious theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
+      "description": "The Regent Animal Bed is a bed for Mounts and Pets that has a luxurious theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "1.5 Kg",
@@ -2093,21 +2006,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 30,
-          "Fur": 40,
-          "Black Jaguar Vestige": 1
-        },
+        "ingredients": {},
         "crafted_at": "Ranching Station"
       }
     },
     {
       "name": "Repair Bench",
       "url": "https://icarus.fandom.com/wiki/Repair_Bench",
-      "description": "The Repair Bench has the ability to repair all items you’re wearing or have placed on the bench with a single click, regardless of where they were crafted. When combined with a power connection (1,500electricity) it can also repair Tier 4 and Orbital Workshop items. To repair Orbital Workshop Items, a Workshop Repair Kitis required.",
+      "description": "The Repair Bench has the ability to repair all items you’re wearing or have placed on the bench with a single click, regardless of where they were crafted. When combined with a power connection (1,500 electricity ) it can also repair Tier 4 and Orbital Workshop items. To repair Orbital Workshop Items, a Workshop Repair Kit is required.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
         "weight": "20.0 kg",
@@ -2118,20 +2027,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Aluminium Ingot": 20,
-          "Cured Leather": 20,
-          "Refined Wood": 50,
-          "Stone": 12
-        },
+        "ingredients": {},
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "Roast Vegetables",
       "url": "https://icarus.fandom.com/wiki/Roast_Vegetables",
-      "description": "Roast Vegetables is a Foodwith a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
-      "item_type": "ammunition",
+      "description": "Roast Vegetables is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2148,10 +2052,10 @@
     {
       "name": "Royal Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Royal_Animal_Bed",
-      "description": "The Royal Animal Bed is a bed for Mountsand Petsthat has a luxurious theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
+      "description": "The Royal Animal Bed is a bed for Mounts and Pets that has a luxurious theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "1.5 Kg",
@@ -2162,11 +2066,7 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 30,
-          "Fur": 40,
-          "Jaguar Vestige": 1
-        },
+        "ingredients": {},
         "crafted_at": "Ranching Station"
       }
     },
@@ -2174,9 +2074,9 @@
       "name": "Rustic Armchair",
       "url": "https://icarus.fandom.com/wiki/Rustic_Armchair",
       "description": "The Rustic Armchair seats one prospector",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "5 Kg",
@@ -2188,16 +2088,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Rustic Bed",
       "url": "https://icarus.fandom.com/wiki/Rustic_Bed",
       "description": "The Rustic Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "15 Kg",
@@ -2209,16 +2109,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Rustic Coffee Table",
       "url": "https://icarus.fandom.com/wiki/Rustic_Coffee_Table",
       "description": "The Rustic Coffee Table allows prospectors to store 10 items",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -2230,16 +2130,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Rustic Dining Chair",
       "url": "https://icarus.fandom.com/wiki/Rustic_Dining_Chair",
       "description": "The Rustic Dining Chair a rustic chair that seats one prospector.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "5 Kg",
@@ -2251,16 +2151,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Rustic Large Table",
       "url": "https://icarus.fandom.com/wiki/Rustic_Large_Table",
       "description": "The Rustic Large Table is a simple long wooden table.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "15 Kg",
@@ -2272,16 +2172,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Rustic Round Table",
       "url": "https://icarus.fandom.com/wiki/Rustic_Round_Table",
       "description": "The Rustic Round Table is a simple wooden table.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -2293,16 +2193,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Rustic Sitting Bench",
       "url": "https://icarus.fandom.com/wiki/Rustic_Sitting_Bench",
       "description": "The Rustic Sitting Bench seats two prospectors.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "20 Kg",
@@ -2314,16 +2214,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Rustic Table",
       "url": "https://icarus.fandom.com/wiki/Rustic_Table",
       "description": "The Rustic Table is a simple wooden table.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
         "weight": "15 Kg",
@@ -2335,14 +2235,14 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Decoration Bench"
+        "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "ST-700 Chest Armor",
       "url": "https://icarus.fandom.com/wiki/ST-700_Chest_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -2362,10 +2262,10 @@
     {
       "name": "Salting Station",
       "url": "https://icarus.fandom.com/wiki/Salting_Station",
-      "description": "The Salting Station is an early-game cooking bench that provides a way to for Prospectors to preserve foods using Salt. Once a food is salted, it will receive the Preserved modifier, increasing spoil time by 100%. Salting a food item will reset its spoil timer, even if the item is nearly spoiled. This technique can be used to further extend the spoilage.",
+      "description": "The Salting Station is an early-game cooking bench that provides a way to for Prospectors to preserve foods using Salt . Once a food is salted, it will receive the Preserved modifier, increasing spoil time by 100%. Salting a food item will reset its spoil timer, even if the item is nearly spoiled. This technique can be used to further extend the spoilage.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
         "weight": "20.0 Kg",
@@ -2376,22 +2276,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 60,
-          "Stone": 25,
-          "Wood": 50,
-          "Charcoal": 25
-        },
+        "ingredients": {},
         "crafted_at": "Crafting Bench"
       }
     },
     {
       "name": "Sandworm Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Sandworm_Chest_Armor",
-      "description": "Sandworm Chest Armor is made from the scales dropped from a Sandworm. Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor.",
+      "description": "Sandworm Chest Armor is made from the scales dropped from a Sandworm . Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "1.00 kg",
@@ -2402,21 +2297,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 60,
-          "Leather": 12,
-          "Sandworm Scale": 20
-        },
-        "crafted_at": "Crafted At\n Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Scorpion Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Chest_Armor",
-      "description": "Scorpion Chest Armor is a Tier 2 crafted armor requiring a Textiles Bench; however, it is difficult to acquire due to the challenge of defeating Husk: Exterminationand requiring Scorpion Carapace. It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Chest Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Textiles Bench Electric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "1.2 kg",
@@ -2427,21 +2318,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 50,
-          "Leather": 18,
-          "Scorpion Carapace": 20
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Skinning Bench",
       "url": "https://icarus.fandom.com/wiki/Skinning_Bench",
-      "description": "The Skinning Bench is used to process, the small to medium carcasses, of the Faunafound on Icarus. While the yields from the skinning bench differ from skinning wildlife with Knives, most notably is the ability to always obtain rarer cuts of meat from fauna such as Raw Stringy Meat.",
-      "item_type": "ammunition",
+      "description": "The Skinning Bench is used to process, the small to medium carcasses, of the Fauna found on Icarus. While the yields from the skinning bench differ from skinning wildlife with Knives , most notably is the ability to always obtain rarer cuts of meat from fauna such as Raw Stringy Meat .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
         "weight": "20.0 Kg",
@@ -2453,16 +2340,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Crafting Bench"
+        "crafted_at": "Crafting Bench"
       }
     },
     {
       "name": "Snow Leopard Skin Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Snow_Leopard_Skin_Animal_Bed",
-      "description": "The Snow Leopard Skin Animal Bed is a bed for Mountsand Petsthat has a snow leopard theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
+      "description": "The Snow Leopard Skin Animal Bed is a bed for Mounts and Pets that has a snow leopard theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "1.5 Kg",
@@ -2473,21 +2360,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Cured Leather": 10,
-          "Leather": 35,
-          "Snow Leopard Vestige": 1
-        },
+        "ingredients": {},
         "crafted_at": "Ranching Station"
       }
     },
     {
       "name": "Sprinters Animal Feed",
       "url": "https://icarus.fandom.com/wiki/Sprinters_Animal_Feed",
-      "description": "Sprinters Animal Feed is a Animal Feedfor Petsor Mountswith a unique Status Effect. Can be fed to mounts to satisfy Hunger. Sprinters Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Sprinters Animal Feed inside an Ice Boxor Refrigerator.",
-      "item_type": "ammunition",
+      "description": "Sprinters Animal Feed is a Animal Feed for Pets or Mounts with a unique Status Effect . Can be fed to mounts to satisfy Hunger . Sprinters Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Sprinters Animal Feed inside an Ice Box or Refrigerator .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "BenchRanching Station",
       "tier": 2,
       "stats": {},
       "category": "animal feed",
@@ -2496,16 +2379,29 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "BenchRanching Station"
       }
     },
     {
       "name": "Stone Furnace",
       "url": "https://icarus.fandom.com/wiki/Stone_Furnace",
-      "description": "The Stone Furnace is used for smelting metals such as Iron Ore,Copper Ore, or Steel Bloom. Will take damage in storms if left un-sheltered.",
-      "item_type": "ammunition",
-      "ingredients": {},
-      "crafted_at": "Unknown",
+      "description": "The Stone Furnace is used for smelting metals such as Iron Ore , Copper Ore , or Steel Bloom . Will take damage in storms if left un-sheltered.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Iron Ore": 2,
+        "Iron Ingot": 1,
+        "Copper Ore": 2,
+        "Copper Ingot": 1,
+        "Steel Bloom": 1,
+        "Steel Ingot": 1,
+        "Clay+ . L ofWater": 1,
+        "Clay Brick": 5,
+        "Obsidian": 2,
+        "Shaped Obsidian": 1,
+        "Scoria": 1,
+        "Scoria Brick": 5
+      },
+      "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
         "weight": "30 kg",
@@ -2516,17 +2412,30 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ore": 2,
+          "Iron Ingot": 1,
+          "Copper Ore": 2,
+          "Copper Ingot": 1,
+          "Steel Bloom": 1,
+          "Steel Ingot": 1,
+          "Clay+ . L ofWater": 1,
+          "Clay Brick": 5,
+          "Obsidian": 2,
+          "Shaped Obsidian": 1,
+          "Scoria": 1,
+          "Scoria Brick": 5
+        },
         "crafted_at": "Crafting Bench"
       }
     },
     {
       "name": "Striker Terrenus Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Striker_Terrenus_Animal_Bed",
-      "description": "The Striker Terrenus Animal Bed is a bed for Mountsand Petsthat has an... unsettling theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
+      "description": "The Striker Terrenus Animal Bed is a bed for Mounts and Pets that has an... unsettling theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "1.5 Kg",
@@ -2537,22 +2446,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Cured Leather": 10,
-          "Fur": 35,
-          "Arid Striker Vestige": 1,
-          "Terrenus Vestige": 1
-        },
+        "ingredients": {},
         "crafted_at": "Ranching Station"
       }
     },
     {
       "name": "Textiles Bench",
       "url": "https://icarus.fandom.com/wiki/Textiles_Bench",
-      "description": "Allows for the crafting of various Armorsets, such as the Leather Armor Set,Fur Armor Set,Ghillie Armor Set,Sandworm Armor Set, and the Scorpion Armor Set. Items like the Basic Riding Saddle,Simple Creature Deterrentand Ropecan also be made at the Textiles Bench.",
+      "description": "Allows for the crafting of various Armor sets, such as the Leather Armor Set , Fur Armor Set , Ghillie Armor Set , Sandworm Armor Set , and the Scorpion Armor Set . Items like the Basic Riding Saddle , Simple Creature Deterrent and Rope can also be made at the Textiles Bench.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
         "weight": "20.0kg",
@@ -2563,22 +2467,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 60,
-          "Stick": 20,
-          "Wood": 50,
-          "Stone": 12
-        },
+        "ingredients": {},
         "crafted_at": "Crafting Bench"
       }
     },
     {
       "name": "Trophy Bench",
       "url": "https://icarus.fandom.com/wiki/Trophy_Bench",
-      "description": "The Trophy Bench allows prospectors to create Trophiesfrom various Vestiges, for eventual display around a building or outpost.",
+      "description": "The Trophy Bench allows prospectors to create Trophies from various Vestiges , for eventual display around a building or outpost.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
         "weight": "20.0kg",
@@ -2589,20 +2488,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Wood": 60,
-          "Copper Nail": 50,
-          "Iron Ingot": 2,
-          "Rope": 12
-        },
+        "ingredients": {},
         "crafted_at": "Crafting Bench"
       }
     },
     {
       "name": "Vegetable Oil",
       "url": "https://icarus.fandom.com/wiki/Vegetable_Oil",
-      "description": "Vegetable Oil is an intermediary resource used to create Biofuel,Cured Leather, a Submachine Gunand various Foodrecipes.",
-      "item_type": "craftable",
+      "description": "Vegetable Oil is an intermediary resource used to create Biofuel , Cured Leather , a Submachine Gun and various Food recipes.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2612,17 +2506,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Seeds": 15
-        },
-        "crafted_at": "Mortar and Pestle"
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Vegetable Pie",
       "url": "https://icarus.fandom.com/wiki/Vegetable_Pie",
-      "description": "Vegetable Pie is a Foodwith a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
-      "item_type": "ammunition",
+      "description": "Vegetable Pie is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 3,
@@ -2639,8 +2531,8 @@
     {
       "name": "Vegetable Roll",
       "url": "https://icarus.fandom.com/wiki/Vegetable_Roll",
-      "description": "Vegetable Roll is a Foodwith a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
-      "item_type": "ammunition",
+      "description": "Vegetable Roll is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 3,
@@ -2660,7 +2552,7 @@
       "description": "Wayfarer Chest Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "2.0 kg",
@@ -2671,19 +2563,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 10
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Wolfskin Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Wolfskin_Animal_Bed",
-      "description": "The Wolfskin Animal Bed is a bed for Mountsand Petsthat has a wolf theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
+      "description": "The Wolfskin Animal Bed is a bed for Mounts and Pets that has a wolf theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "1.5 Kg",
@@ -2694,21 +2584,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Cured Leather": 10,
-          "Leather": 35,
-          "Wolf Vestige": 1
-        },
+        "ingredients": {},
         "crafted_at": "Ranching Station"
       }
     },
     {
       "name": "Wood Table",
       "url": "https://icarus.fandom.com/wiki/Wood_Table",
-      "description": "The Wood Table is a decorative item that can be used for deployables like the Mortar and Pestleand provides a bonus to Coziness.",
-      "item_type": "ammunition",
+      "description": "The Wood Table is a decorative item that can be used for deployables like the Mortar and Pestle and provides a bonus to Coziness .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Carpentry Bench Electric Carpentry Bench",
       "tier": 2,
       "stats": {
         "weight": "2 Kg",
@@ -2720,16 +2606,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Mortar and Pestle"
+        "crafted_at": "Carpentry Bench Electric Carpentry Bench"
       }
     },
     {
       "name": "Wooden Bed",
       "url": "https://icarus.fandom.com/wiki/Wooden_Bed",
       "description": "The Wooden Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
         "weight": "10 Kg",
@@ -2748,9 +2634,9 @@
       "name": "Wooden Chair",
       "url": "https://icarus.fandom.com/wiki/Wooden_Chair",
       "description": "A Wooden Chair made of refined wood and copper nails.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Carpentry Bench Electric Carpentry Bench",
       "tier": 2,
       "stats": {
         "weight": "0.5 kg",
@@ -2762,16 +2648,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted At\n Carpentry Bench"
+        "crafted_at": "Carpentry Bench Electric Carpentry Bench"
       }
     },
     {
       "name": "Zebra Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Zebra_Animal_Bed",
-      "description": "The Zebra Animal Bed is a bed for Mountsand Petsthat has a zebra theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
+      "description": "The Zebra Animal Bed is a bed for Mounts and Pets that has a zebra theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "1.5 Kg",
@@ -2782,11 +2668,7 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Cured Leather": 10,
-          "Fur": 35,
-          "Zebra Vestige": 1
-        },
+        "ingredients": {},
         "crafted_at": "Ranching Station"
       }
     }

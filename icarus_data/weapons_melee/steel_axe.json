@@ -1,10 +1,10 @@
 {
   "name": "Steel Axe",
   "url": "https://icarus.fandom.com/wiki/Steel_Axe",
-  "description": "The Steel Axe is a mid-gameToolavailable in Icarus. Prospectors can unlock it inTier 2of theTech Tree, after reaching Level 20.",
-  "item_type": "ammunition",
+  "description": "The Steel Axe is a mid-game Tool available in Icarus. Prospectors can unlock it in Tier 2 of the Tech Tree , after reaching Level 20.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Anvil Bench",
   "tier": 3,
   "stats": {
     "damage": "50",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Anvil Bench"
   }
 }

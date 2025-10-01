@@ -1,10 +1,10 @@
 {
   "name": "Platinum Hammer",
   "url": "https://icarus.fandom.com/wiki/Platinum_Hammer",
-  "description": "Hammers are used to repairBuilding PiecesandDeployables. Hammers are also used to upgradeBuilding Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
+  "description": "Example: If a Prospector were to upgrade a Wood Wall to a Stone Wall , a Stone Wall must be in the inventory of the Prospector when upgrading.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "weight": "1.0kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 5,
-      "Epoy": 4,
-      "Platinum Ingot": 6,
-      "Steel Screw": 2
-    },
-    "crafted_at": "Forge"
+    "ingredients": {},
+    "crafted_at": "Forge Foundry"
   }
 }

@@ -6,7 +6,7 @@
       "name": "Composite Dropship Recall Beacon",
       "url": "https://icarus.fandom.com/wiki/Composite_Dropship_Recall_Beacon",
       "description": "The Composite Dropship Recall Beacon will fire a flare that calls the Prospectors dropship to that location when thrown, which can either be used for immediate extraction or left there for use later on. Multiple Recall Beacons can be used per session, however, these are one-use items, so use them carefully. Items stored in the dropships inventory will not be lost when the dropship is called, allowing Prospectors to transport equipment/resources over large distances.",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 4,
@@ -19,16 +19,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Fabricator"
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Makeshift Landmine",
       "url": "https://icarus.fandom.com/wiki/Makeshift_Landmine",
-      "description": "Prospectorsonmounts and mounts themselves do not trigger Landmines. Prospectors, however, can trigger and detonate Landmines with a Yellow/Red indicator. All Landmines can be picked up and disarmed, regardless of their current state. Press and hold X to pickup and disarm Landmines.Note:once triggered, Makeshift Landmines will detonate if a Prospector/animal (excluding mounts) is nearby. They can be picked up and disarmed, but Prospectors run the risk of detonating the Landmine.",
+      "description": "Prospectors on mounts and mounts themselves do not trigger Landmines. Prospectors, however, can trigger and detonate Landmines with a Yellow/Red indicator. All Landmines can be picked up and disarmed, regardless of their current state. Press and hold X to pickup and disarm Landmines. Note: once triggered, Makeshift Landmines will detonate if a Prospector/animal (excluding mounts) is nearby. They can be picked up and disarmed, but Prospectors run the risk of detonating the Landmine.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "1.0 kg",
@@ -39,21 +39,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Composites": 2,
-          "Electronics": 1,
-          "Copper Nail": 12,
-          "Gunpowder": 4,
-          "Volatile Substance": 1
-        },
+        "ingredients": {},
         "crafted_at": "Fabricator"
       }
     },
     {
       "name": "Miner's Module",
       "url": "https://icarus.fandom.com/wiki/Miner%27s_Module",
-      "description": "This module is the Workshopequivalent of the Supplemental Respiration Attachment, with the added damage bonus to Caveworms. It can be researched and crafted on the Space Stationin the Workshop. Multiple Miner's Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase benefits received from the modules.",
-      "item_type": "ammunition",
+      "description": "This module is the Workshop equivalent of the Supplemental Respiration Attachment , with the added damage bonus to Caveworms . It can be researched and crafted on the Space Station in the Workshop . Multiple Miner's Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase benefits received from the modules.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -70,10 +64,10 @@
     {
       "name": "Prototype Trail Beacon",
       "url": "https://icarus.fandom.com/wiki/Prototype_Trail_Beacon",
-      "description": "The Prototype Trail Beacon is a small portable self-powered beacon that is deployed with the Prototype Trail Beacon Toolto form a breadcrumb trail in the uncharted areas of the Null Sector Regionon Prometheus.",
+      "description": "The Prototype Trail Beacon is a small portable self-powered beacon that is deployed with the Prototype Trail Beacon Tool to form a breadcrumb trail in the uncharted areas of the Null Sector Region on Prometheus .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench Fabricator",
       "tier": 3,
       "stats": {
         "weight": "0.5 Kg",
@@ -84,23 +78,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Gold Wire": 10,
-          "Copper Wire": 5,
-          "Steel Ingot": 4,
-          "Steel Screw": 4,
-          "Glass": 2
-        },
-        "crafted_at": "Machining Bench"
+        "ingredients": {},
+        "crafted_at": "Machining Bench Fabricator"
       }
     },
     {
       "name": "Prototype Trail Beacon Tool",
       "url": "https://icarus.fandom.com/wiki/Prototype_Trail_Beacon_Tool",
-      "description": "The Prototype Trail Beacon Tool is a handheld device used to place a breadcrumb trail of Prototype Trail Beaconswhen exploring the Null Sector Regionon the Prometheusmap.",
+      "description": "The Prototype Trail Beacon Tool is a handheld device used to place a breadcrumb trail of Prototype Trail Beacons when exploring the Null Sector Region on the Prometheus map.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Machining Bench Fabricator",
       "tier": 3,
       "stats": {
         "weight": "1.0 Kg",
@@ -111,23 +99,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Gold Wire": 10,
-          "Copper Wire": 15,
-          "Steel Ingot": 2,
-          "Platinum Sheath": 4,
-          "Glass": 2
-        },
-        "crafted_at": "Machining Bench"
+        "ingredients": {},
+        "crafted_at": "Machining Bench Fabricator"
       }
     },
     {
       "name": "Scorpion Pincer Trap",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Pincer_Trap",
-      "description": "Scorpion Pincer Traps are sturdy defenses used around your base or while at objectives for protection of equipment. The recipe blueprint to craft this defensive trap is only unlocked after completing the prospect Carapace: Research. The blueprint unlocks account-wide once the mission is completed.",
+      "description": "Scorpion Pincer Traps are sturdy defenses used around your base or while at objectives for protection of equipment. The recipe blueprint to craft this defensive trap is only unlocked after completing the prospect Carapace: Research . The blueprint unlocks account-wide once the mission is completed.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
         "weight": "1.5 kg",
@@ -138,21 +120,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Stone": 4,
-          "Stick": 4,
-          "Scorpion Pincer": 1
-        },
+        "ingredients": {},
         "crafted_at": "Crafting Bench"
       }
     },
     {
       "name": "Snare Trap",
       "url": "https://icarus.fandom.com/wiki/Snare_Trap",
-      "description": "The Snare Trap is a deployable item used to trap and tame certain animals on Icarus. It must be filled with suitable Animal Baitand placed in an area to attract the desired animal.",
+      "description": "The Snare Trap is a deployable item used to trap and tame certain animals on Icarus. It must be filled with suitable Animal Bait and placed in an area to attract the desired animal.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "2.5 Kg",
@@ -163,13 +141,8 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 4,
-          "Stick": 8,
-          "Rope": 2,
-          "Stone": 4
-        },
-        "crafted_at": "Craft Baits at the Ranching Station"
+        "ingredients": {},
+        "crafted_at": "Ranching Station"
       }
     }
   ]

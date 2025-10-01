@@ -1,0 +1,20 @@
+{
+  "name": "Mushroom",
+  "url": "https://icarus.fandom.com/wiki/Mushroom",
+  "description": "Mushrooms can only be harvested in caves in the Arctic biomes, and are harvested by hand. Caves with Mushrooms are almost exclusively caves with pit traps, this can make them easier to find on interactive maps. Also the Mushroom Farming Packet can be purchased in the Workshop . Consuming this item will yield 5 Mushrooms.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [
+    "the Arctic locations on Icarus"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

@@ -1,8 +1,8 @@
 {
   "name": "Raw Fatty T-Bone",
   "url": "https://icarus.fandom.com/wiki/Raw_Fatty_T-Bone",
-  "description": "Raw Fatty T-Bone can be obtained by Skinning bears with aKnife.",
-  "item_type": "ammunition",
+  "description": "Raw Fatty T-Bone can be obtained by Skinning bears with a Knife .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

@@ -1,10 +1,10 @@
 {
   "name": "Cold Steel Knife",
   "url": "https://icarus.fandom.com/wiki/Cold_Steel_Knife",
-  "description": "The Cold Steel Knife is a mid/late-gameKnifethat is introduced with the addition ofCold Steel Ingotson thePrometheusmap.",
-  "item_type": "craftable",
+  "description": "The Cold Steel Knife is a mid/late-game Knife that is introduced with the addition of Cold Steel Ingots on the Prometheus map.",
+  "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted AtForge",
   "tier": 3,
   "stats": {
     "damage": "35 - 35 Frost Damage",
@@ -16,12 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Cold Steel Ingot": 5,
-      "Refined Wood": 5,
-      "Steel Screw": 10,
-      "Fur": 5
-    },
-    "crafted_at": "Forge"
+    "ingredients": {},
+    "crafted_at": "Crafted AtForge"
   }
 }

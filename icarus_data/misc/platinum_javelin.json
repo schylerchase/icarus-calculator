@@ -1,10 +1,10 @@
 {
   "name": "Platinum Javelin",
   "url": "https://icarus.fandom.com/wiki/Platinum_Javelin",
-  "description": "The Platinum Javelin is a variant of thePlatinum Spearthat can only be thrown; a substantial upgrade to the Tier 2 Javelins.",
-  "item_type": "ammunition",
+  "description": "The Platinum Javelin is a variant of the Platinum Spear that can only be thrown; a substantial upgrade to the Tier 2 Javelins.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "damage": "+25% Critical Damage",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Forge"
+    "crafted_at": "Forge Foundry"
   }
 }

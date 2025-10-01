@@ -1,8 +1,8 @@
 {
   "name": "Miasmic Arrow",
   "url": "https://icarus.fandom.com/wiki/Miasmic_Arrow",
-  "description": "The Miasmic Arrow is ammunition used with aBow, requiringDistilled Miasmic Coatingintroduced on thePrometheusmap.",
-  "item_type": "ammunition",
+  "description": "The Miasmic Arrow is ammunition used with a Bow , requiring Distilled Miasmic Coating introduced on the Prometheus map.",
+  "item_type": "harvestable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -10,16 +10,13 @@
     "weight": "0.03 kg"
   },
   "category": "arrows",
-  "harvested_from": [],
+  "harvested_from": [
+    "Icarus wildlife"
+  ],
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Carbon Fiber": 0.2,
-      "Steel Arrow": 0.4,
-      "Titanium Ingot": 0.2,
-      "Distilled Miasmic Coating": 0.2
-    },
-    "crafted_at": "Forge"
+    "ingredients": {},
+    "crafted_at": "Unknown"
   }
 }

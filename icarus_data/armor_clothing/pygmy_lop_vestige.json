@@ -1,8 +1,8 @@
 {
   "name": "Pygmy Lop Vestige",
   "url": "https://icarus.fandom.com/wiki/Pygmy_Lop_Vestige",
-  "description": "Pygmy Lop Vestiges are used at theTrophy Benchto create aPygmy Lop Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Pygmy Lop Vestiges are used at the Trophy Bench to create a Pygmy Lop Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

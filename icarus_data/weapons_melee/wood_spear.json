@@ -1,8 +1,8 @@
 {
   "name": "Wood Spear",
   "url": "https://icarus.fandom.com/wiki/Wood_Spear",
-  "description": "The Wood Spear is the firstSpearavailable to prospectors and serves as an alternative to theStone Knife, dealing increased critical damage but with a slower attack speed. Like other spears, the Wood Spear increase the range to which prospectors can attack fauna, providing a unique advantage when up high.",
-  "item_type": "craftable",
+  "description": "The Wood Spear is the first Spear available to prospectors and serves as an alternative to the Stone Knife , dealing increased critical damage but with a slower attack speed. Like other spears, the Wood Spear increase the range to which prospectors can attack fauna, providing a unique advantage when up high.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -16,10 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 12,
-      "Stick": 18
-    },
-    "crafted_at": "Character"
+    "ingredients": {},
+    "crafted_at": "Unknown"
   }
 }

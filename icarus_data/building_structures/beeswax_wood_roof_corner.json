@@ -1,10 +1,10 @@
 {
   "name": "Beeswax Wood Roof Corner",
   "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Roof_Corner",
-  "description": "Reinforced wood building pieces can be unlocked inTier 2of theTech Tree. These building pieces are more resistant to damage than their earlierWoodversions with the inclusion ofBeeswax",
+  "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench",
   "tier": 0,
   "stats": {
     "weight": "0.5 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 6,
-      "Wood": 10,
-      "Beeswa": 10
-    },
+    "ingredients": {},
     "crafted_at": "Carpentry Bench"
   }
 }

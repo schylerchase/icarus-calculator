@@ -1,8 +1,8 @@
 {
   "name": "Rhubarb Farming Packet",
   "url": "https://icarus.fandom.com/wiki/Rhubarb_Farming_Packet",
-  "description": "The Rhubarb Farming Packet is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Rhubarb seeds, which then can be planted inDirt Moundsor Crop plots to growPlant Resources.",
-  "item_type": "ammunition",
+  "description": "The Rhubarb Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Rhubarb seeds, which then can be planted in Dirt Mounds or Crop plots to grow Plant Resources .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

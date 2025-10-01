@@ -1,8 +1,8 @@
 {
   "name": "Titanium Pickaxe",
   "url": "https://icarus.fandom.com/wiki/Titanium_Pickaxe",
-  "description": "The Titanium Pickaxe is the highest-tieredPickaxethat can be crafted while on the surface of Icarus. When combined with aTool Attachment Pack/Advanced Tool Attachment Pack, the Titanium Pickaxe surpasses theInaris \"Neves\" Pickaxein terms of mining.",
-  "item_type": "craftable",
+  "description": "The Titanium Pickaxe is the highest-tiered Pickaxe that can be crafted while on the surface of Icarus. When combined with a Tool Attachment Pack / Advanced Tool Attachment Pack , the Titanium Pickaxe surpasses the Inaris \"Neves\" Pickaxe in terms of mining.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -16,12 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Carbon Fiber": 4,
-      "Steel Screw": 8,
-      "Epoy": 4,
-      "Titanium Ingot": 12
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

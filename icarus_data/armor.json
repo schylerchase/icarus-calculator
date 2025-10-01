@@ -5,8 +5,8 @@
     {
       "name": "Alpha Wolf Vestige",
       "url": "https://icarus.fandom.com/wiki/Alpha_Wolf_Vestige",
-      "description": "Alpha Wolf Vestiges are used at the Trophy Benchto create an Alpha Wolf Trophy, which can help help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Alpha Wolf Vestiges are used at the Trophy Bench to create an Alpha Wolf Trophy , which can help help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -23,8 +23,8 @@
     {
       "name": "Antelope Vestige",
       "url": "https://icarus.fandom.com/wiki/Antelope_Vestige",
-      "description": "Antelope Vestiges are used at the Trophy Benchto create an Antelope Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Antelope Vestiges are used at the Trophy Bench to create an Antelope Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -41,10 +41,10 @@
     {
       "name": "Arctic Arm Armor",
       "url": "https://icarus.fandom.com/wiki/Arctic_Arm_Armor",
-      "description": "Arctic Armor is a major upgrade to Fur Armor, offering unrivaled cold resistance.",
-      "item_type": "ammunition",
+      "description": "Arctic Armor is a major upgrade to Fur Armor , offering unrivaled cold resistance.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "1.0 kg",
@@ -55,22 +55,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Cured Leather": 3,
-          "Arctic Pelt": 4,
-          "Fur": 8,
-          "Rope": 2
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Arctic Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Arctic_Feet_Armor",
-      "description": "Arctic Armor is a major upgrade to Fur Armor, offering unrivaled cold resistance.",
-      "item_type": "ammunition",
+      "description": "Arctic Armor is a major upgrade to Fur Armor , offering unrivaled cold resistance.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "1.0 kg",
@@ -81,22 +76,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Cured Leather": 3,
-          "Arctic Pelt": 2,
-          "Fur": 8,
-          "Rope": 2
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Arctic Head Armor",
       "url": "https://icarus.fandom.com/wiki/Arctic_Head_Armor",
-      "description": "Arctic Armor is a major upgrade to Fur Armor, offering unrivaled cold resistance.",
-      "item_type": "ammunition",
+      "description": "Arctic Armor is a major upgrade to Fur Armor , offering unrivaled cold resistance.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "2.0 kg",
@@ -107,22 +97,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Cured Leather": 3,
-          "Fur": 10,
-          "Rope": 4,
-          "Polar Bear Vestige": 1
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Arctic Leg Armor",
       "url": "https://icarus.fandom.com/wiki/Arctic_Leg_Armor",
-      "description": "Arctic Armor is a major upgrade to Fur Armor, offering unrivaled cold resistance.",
-      "item_type": "ammunition",
+      "description": "Arctic Armor is a major upgrade to Fur Armor , offering unrivaled cold resistance.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "4.0 kg",
@@ -133,20 +118,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Cured Leather": 4,
-          "Arctic Pelt": 6,
-          "Fur": 16,
-          "Rope": 6
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Arctic Scorpion Vestige",
       "url": "https://icarus.fandom.com/wiki/Arctic_Scorpion_Vestige",
-      "description": "Arctic Scorpion Vestiges are used at the Trophy Benchto create an Arctic Scorpion Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Arctic Scorpion Vestiges are used at the Trophy Bench to create an Arctic Scorpion Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -163,8 +143,8 @@
     {
       "name": "Arctic Vesper Vestige",
       "url": "https://icarus.fandom.com/wiki/Arctic_Vesper_Vestige",
-      "description": "Arctic Vesper Vestiges are used at the Trophy Benchto create a Arctic Vesper Trophy, which can help prospectors complete the Bestiary. The trophy can serve as a decoration providing Coziness.",
-      "item_type": "ammunition",
+      "description": "Arctic Vesper Vestiges are used at the Trophy Bench to create a Arctic Vesper Trophy , which can help prospectors complete the Bestiary . The trophy can serve as a decoration providing Coziness .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -181,8 +161,8 @@
     {
       "name": "Arid Striker Vestige",
       "url": "https://icarus.fandom.com/wiki/Arid_Striker_Vestige",
-      "description": "Arid Striker Vestiges are used at the Trophy Benchto create an Arid Striker Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Arid Striker Vestiges are used at the Trophy Bench to create an Arid Striker Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -199,10 +179,10 @@
     {
       "name": "Armor Attachment Pack",
       "url": "https://icarus.fandom.com/wiki/Armor_Attachment_Pack",
-      "description": "Armor Attachment Pack is a Tier 3 Techneeded for the Alteration Benchthat allows Prospectors to alter their armor pieces with Attachment Packs.",
-      "item_type": "ammunition",
+      "description": "Armor Attachment Pack is a Tier 3 Tech needed for the Alteration Bench that allows Prospectors to alter their armor pieces with Attachment Packs .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Alteration Bench Advanced Alteration Bench",
       "tier": 3,
       "stats": {
         "weight": "1.0 kg"
@@ -213,16 +193,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted at\n Alteration Bench"
+        "crafted_at": "Alteration Bench Advanced Alteration Bench"
       }
     },
     {
       "name": "Armored Saddle",
       "url": "https://icarus.fandom.com/wiki/Armored_Saddle",
-      "description": "The Armored Saddle is a saddle for Mountsthat has a medieval aesthetic. It is available as part of the Creature Comforts DLCand is a cosmetic change to the Basic Riding Saddlethat provides no additional attributes.",
-      "item_type": "ammunition",
+      "description": "The Armored Saddle is a saddle for Mounts that has a medieval aesthetic. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides no additional attributes.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "1.5 Kg"
@@ -232,19 +212,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Iron Ingot": 10,
-          "Fur": 6,
-          "Rope": 2
-        },
+        "ingredients": {},
         "crafted_at": "Ranching Station"
       }
     },
     {
       "name": "Ashen Drake Vestige",
       "url": "https://icarus.fandom.com/wiki/Ashen_Drake_Vestige",
-      "description": "Ashen Drake Vestiges are used at the Trophy Benchto create an Ashen Drake Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Ashen Drake Vestiges are used at the Trophy Bench to create an Ashen Drake Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -261,8 +237,8 @@
     {
       "name": "Bear Vestige",
       "url": "https://icarus.fandom.com/wiki/Bear_Vestige",
-      "description": "Bear Vestiges are used at the Trophy Benchto create a Bear Trophy, which can help prospectors complete the Bestiary. They are also used at the Advanced Textiles Bench/Electric Textiles Benchto make Bear Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff.",
-      "item_type": "ammunition",
+      "description": "Bear Vestiges are used at the Trophy Bench to create a Bear Trophy , which can help prospectors complete the Bestiary . They are also used at the Advanced Textiles Bench / Electric Textiles Bench to make Bear Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -279,8 +255,8 @@
     {
       "name": "Black Jaguar Vestige",
       "url": "https://icarus.fandom.com/wiki/Black_Jaguar_Vestige",
-      "description": "Black Jaguar Vestiges are used at the Trophy Benchto create a Black Jaguar Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Black Jaguar Vestiges are used at the Trophy Bench to create a Black Jaguar Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -297,8 +273,8 @@
     {
       "name": "Blueback Vestige",
       "url": "https://icarus.fandom.com/wiki/Blueback_Vestige",
-      "description": "Blueback Vestiges are used at the Trophy Benchto create a Blueback Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Blueback Vestiges are used at the Trophy Bench to create a Blueback Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -316,7 +292,7 @@
       "name": "Bone Arm Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Arm_Armor",
       "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 1,
@@ -329,23 +305,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Bone": 15,
-          "Leather": 8
-        },
-        "crafted_at": "Character"
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Bone Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Feet_Armor",
       "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
-      "item_type": "Armors",
-      "ingredients": {
-        "Bone": 15,
-        "Leather": 8
-      },
-      "crafted_at": "Character Crafting",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
         "weight": "1.0 kg",
@@ -356,23 +326,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Bone": 15,
-          "Leather": 8
-        },
-        "crafted_at": "Character Crafting"
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Bone Head Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Head_Armor",
       "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
-      "item_type": "Armors",
-      "ingredients": {
-        "Bone": 20,
-        "Leather": 5
-      },
-      "crafted_at": "Character Crafting",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
         "weight": "1.0 kg",
@@ -383,18 +347,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Bone": 20,
-          "Leather": 5
-        },
-        "crafted_at": "Character Crafting"
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Bone Leg Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Leg_Armor",
       "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 1,
@@ -407,20 +368,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Bone": 40,
-          "Leather": 12
-        },
-        "crafted_at": "Character"
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Brown Bear Arm Armor",
       "url": "https://icarus.fandom.com/wiki/Brown_Bear_Arm_Armor",
-      "description": "Brown Bear Armor is an upgrade to Bone Armor, offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachments and Attack Speed Attachments, further increasing knife attack speed.",
-      "item_type": "ammunition",
+      "description": "Brown Bear Armor is an upgrade to Bone Armor , offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachment s and Attack Speed Attachment s, further increasing knife attack speed.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "1.0 kg",
@@ -431,21 +389,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 3,
-          "Fur": 15,
-          "Rope": 2
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Brown Bear Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Brown_Bear_Feet_Armor",
-      "description": "Brown Bear Armor is an upgrade to Bone Armor, offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachments and Attack Speed Attachments, further increasing knife attack speed.",
-      "item_type": "ammunition",
+      "description": "Brown Bear Armor is an upgrade to Bone Armor , offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachment s and Attack Speed Attachment s, further increasing knife attack speed.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "1.0 kg",
@@ -456,21 +410,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 3,
-          "Fur": 15,
-          "Rope": 2
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Brown Bear Head Armor",
       "url": "https://icarus.fandom.com/wiki/Brown_Bear_Head_Armor",
-      "description": "Brown Bear Armor is an upgrade to Bone Armor, offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachments and Attack Speed Attachments, further increasing knife attack speed.",
-      "item_type": "ammunition",
+      "description": "Brown Bear Armor is an upgrade to Bone Armor , offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachment s and Attack Speed Attachment s, further increasing knife attack speed.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "2.0 kg",
@@ -481,22 +431,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 3,
-          "Fur": 10,
-          "Rope": 4,
-          "Bear Vestige": 1
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Brown Bear Leg Armor",
       "url": "https://icarus.fandom.com/wiki/Brown_Bear_Leg_Armor",
-      "description": "Brown Bear Armor is an upgrade to Bone Armor, offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachments and Attack Speed Attachments, further increasing knife attack speed.",
-      "item_type": "ammunition",
+      "description": "Brown Bear Armor is an upgrade to Bone Armor , offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachment s and Attack Speed Attachment s, further increasing knife attack speed.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "4.0 kg",
@@ -507,19 +452,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 4,
-          "Fur": 16,
-          "Rope": 6
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Buffalo Vestige",
       "url": "https://icarus.fandom.com/wiki/Buffalo_Vestige",
-      "description": "Buffalo Vestiges are used at the Trophy Benchto create a Buffalo Trophy, which can help prospectors complete the Bestiary. They are also used at the Advanced Textiles Bench/Electric Textiles Benchto make Buffalo Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff.",
-      "item_type": "ammunition",
+      "description": "Buffalo Vestiges are used at the Trophy Bench to create a Buffalo Trophy , which can help prospectors complete the Bestiary . They are also used at the Advanced Textiles Bench / Electric Textiles Bench to make Buffalo Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -537,7 +478,7 @@
       "name": "CX-400 Arms Armor",
       "url": "https://icarus.fandom.com/wiki/CX-400_Arms_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -558,7 +499,7 @@
       "name": "CX-400 Feet Armor",
       "url": "https://icarus.fandom.com/wiki/CX-400_Feet_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -579,7 +520,7 @@
       "name": "CX-400 Head Armor",
       "url": "https://icarus.fandom.com/wiki/CX-400_Head_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -600,7 +541,7 @@
       "name": "CX-400 Legs Armor",
       "url": "https://icarus.fandom.com/wiki/CX-400_Legs_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -620,10 +561,10 @@
     {
       "name": "Carcass Harvesting Attachment",
       "url": "https://icarus.fandom.com/wiki/Carcass_Harvesting_Attachment",
-      "description": "Carcass Harvesting Attachment is a mid-to-end game item available once the prospector has unlocked the Tool Attachment Packtech.",
-      "item_type": "ammunition",
+      "description": "Carcass Harvesting Attachment is a mid-to-end game item available once the prospector has unlocked the Tool Attachment Pack tech.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Alteration Bench",
       "tier": 3,
       "stats": {
         "weight": "1 kg"
@@ -634,14 +575,14 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted at\n Alteration Bench"
+        "crafted_at": "Alteration Bench"
       }
     },
     {
       "name": "Caveworm Vestige",
       "url": "https://icarus.fandom.com/wiki/Caveworm_Vestige",
-      "description": "Caveworm Vestiges are used at the Trophy Benchto create a Caveworm Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Caveworm Vestiges are used at the Trophy Bench to create a Caveworm Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -658,8 +599,8 @@
     {
       "name": "Chala Vestige",
       "url": "https://icarus.fandom.com/wiki/Chala_Vestige",
-      "description": "Chala Vestiges are used at the Trophy Benchto create a Chala Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Chala Vestiges are used at the Trophy Bench to create a Chala Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -676,8 +617,8 @@
     {
       "name": "Chamois Vestige",
       "url": "https://icarus.fandom.com/wiki/Chamois_Vestige",
-      "description": "Chamois Vestiges are used at the Trophy Benchto create a Chamois Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Chamois Vestiges are used at the Trophy Bench to create a Chamois Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -695,7 +636,7 @@
       "name": "Cloth Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Cloth_Arms_Armor",
       "description": "Cloth Armor, while not being very protective in a fight, provides relatively good protection from the heat in deserts. It also makes traveling slightly quicker.",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 1,
@@ -708,17 +649,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 80
-        },
-        "crafted_at": "Character"
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Cloth Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Cloth_Feet_Armor",
       "description": "Cloth Armor, while not being very protective in a fight, provides relatively good protection from the heat in deserts. It also makes traveling slightly quicker.",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 1,
@@ -731,17 +670,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 40
-        },
-        "crafted_at": "Character"
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Cloth Head Armor",
       "url": "https://icarus.fandom.com/wiki/Cloth_Head_Armor",
       "description": "Cloth Armor, while not being very protective in a fight, provides relatively good protection from the heat in deserts. It also makes traveling slightly quicker.",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 1,
@@ -754,17 +691,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 80
-        },
-        "crafted_at": "Character"
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Cloth Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Cloth_Legs_Armor",
       "description": "Cloth Armor, while not being very protective in a fight, provides relatively good protection from the heat in deserts. It also makes traveling slightly quicker.",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 1,
@@ -777,19 +712,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 120
-        },
-        "crafted_at": "Character"
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Composite Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Composite_Arms_Armor",
       "description": "Composite Arms Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
         "weight": "0.75 kg",
@@ -800,12 +733,7 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Aluminium Ingot": 2,
-          "Composites": 8,
-          "Steel Screw": 6,
-          "Carbon Fiber": 2
-        },
+        "ingredients": {},
         "crafted_at": "Electric Textiles Bench"
       }
     },
@@ -813,9 +741,9 @@
       "name": "Composite Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Composite_Feet_Armor",
       "description": "Composite Feet Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
         "weight": "0.75 kg",
@@ -826,12 +754,7 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Aluminium Ingot": 4,
-          "Composites": 12,
-          "Steel Screw": 6,
-          "Carbon Fiber": 2
-        },
+        "ingredients": {},
         "crafted_at": "Electric Textiles Bench"
       }
     },
@@ -839,9 +762,9 @@
       "name": "Composite Head Armor",
       "url": "https://icarus.fandom.com/wiki/Composite_Head_Armor",
       "description": "Composite Head Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
         "weight": "1.5 kg",
@@ -852,12 +775,7 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Aluminium Ingot": 4,
-          "Composites": 12,
-          "Steel Screw": 6,
-          "Carbon Fiber": 2
-        },
+        "ingredients": {},
         "crafted_at": "Electric Textiles Bench"
       }
     },
@@ -865,9 +783,9 @@
       "name": "Composite Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Composite_Legs_Armor",
       "description": "Composite Legs Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
         "weight": "2.5 kg",
@@ -878,20 +796,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Aluminium Ingot": 6,
-          "Composites": 18,
-          "Steel Screw": 8,
-          "Carbon Fiber": 2
-        },
+        "ingredients": {},
         "crafted_at": "Electric Textiles Bench"
       }
     },
     {
       "name": "Cougar Vestige",
       "url": "https://icarus.fandom.com/wiki/Cougar_Vestige",
-      "description": "Cougar Vestiges are used at the Trophy Benchto create a Cougar Trophy, which can help prospectors complete the Bestiary. They are also used at any textiles bench to make Cougar Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff.",
-      "item_type": "ammunition",
+      "description": "Cougar Vestiges are used at the Trophy Bench to create a Cougar Trophy , which can help prospectors complete the Bestiary . They are also used at any textiles bench to make Cougar Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -908,8 +821,8 @@
     {
       "name": "Crocodile Vestige",
       "url": "https://icarus.fandom.com/wiki/Crocodile_Vestige",
-      "description": "Crocodile Vestiges are used at the Trophy Benchto create a Crocodile Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Crocodile Vestiges are used at the Trophy Bench to create a Crocodile Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -926,10 +839,10 @@
     {
       "name": "Cured Leather Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Cured_Leather_Arms_Armor",
-      "description": "Cured Leather Armor is an upgrade to Leather Armor, providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
-      "item_type": "ammunition",
+      "description": "Cured Leather Armor is an upgrade to Leather Armor , providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "1.0 kg",
@@ -940,20 +853,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 1,
-          "Cured Leather": 7
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Cured Leather Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Cured_Leather_Feet_Armor",
-      "description": "Cured Leather Armor is an upgrade to Leather Armor, providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
-      "item_type": "ammunition",
+      "description": "Cured Leather Armor is an upgrade to Leather Armor , providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "1.0 kg",
@@ -964,20 +874,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 1,
-          "Cured Leather": 4
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Cured Leather Head Armor",
       "url": "https://icarus.fandom.com/wiki/Cured_Leather_Head_Armor",
-      "description": "Cured Leather Armor is an upgrade to Leather Armor, providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
-      "item_type": "ammunition",
+      "description": "Cured Leather Armor is an upgrade to Leather Armor , providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "1.0 kg",
@@ -988,20 +895,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 1,
-          "Cured Leather": 6
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Cured Leather Leg Armor",
       "url": "https://icarus.fandom.com/wiki/Cured_Leather_Leg_Armor",
-      "description": "Cured Leather Armor is an upgrade to Leather Armor, providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
-      "item_type": "ammunition",
+      "description": "Cured Leather Armor is an upgrade to Leather Armor , providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "2.0 kg",
@@ -1012,18 +916,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 2,
-          "Cured Leather": 10
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Deer Vestige",
       "url": "https://icarus.fandom.com/wiki/Deer_Vestige",
-      "description": "Deer Vestiges are used at the Trophy Benchto create a Deer Trophy, which can help prospectors complete the Bestiary. They are also used at any textiles bench to make Deer Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff.",
-      "item_type": "ammunition",
+      "description": "Deer Vestiges are used at the Trophy Bench to create a Deer Trophy , which can help prospectors complete the Bestiary . They are also used at any textiles bench to make Deer Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1040,8 +941,8 @@
     {
       "name": "Drac Vestige",
       "url": "https://icarus.fandom.com/wiki/Drac_Vestige",
-      "description": "Drac Vestiges are used at the Trophy Benchto create a Drac Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Drac Vestiges are used at the Trophy Bench to create a Drac Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1058,8 +959,8 @@
     {
       "name": "Dreadwing Vestige",
       "url": "https://icarus.fandom.com/wiki/Dreadwing_Vestige",
-      "description": "Dreadwing Vestiges are used at the Trophy Benchto create a Dreadwing Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Dreadwing Vestiges are used at the Trophy Bench to create a Dreadwing Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1076,8 +977,8 @@
     {
       "name": "Elephant Vestige",
       "url": "https://icarus.fandom.com/wiki/Elephant_Vestige",
-      "description": "Elephant Vestiges are used at the Trophy Benchto create an Elephant Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Elephant Vestiges are used at the Trophy Bench to create an Elephant Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1094,8 +995,8 @@
     {
       "name": "Equix Vestige",
       "url": "https://icarus.fandom.com/wiki/Equix_Vestige",
-      "description": "Equix Vestiges are used at the Trophy Benchto create an Equix Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Equix Vestiges are used at the Trophy Bench to create an Equix Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1112,10 +1013,10 @@
     {
       "name": "Exotic Harvester",
       "url": "https://icarus.fandom.com/wiki/Exotic_Harvester",
-      "description": "The Exotic Harvester is used to extract Volatile Raw Exoticsfrom Volatile Raw Exotic deposits. Requires 1,500 k Wh to operate.",
-      "item_type": "ammunition",
+      "description": "The Exotic Harvester is used to extract Volatile Raw Exotics from Volatile Raw Exotic deposits. Requires 1,500 kWh to operate.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
         "weight": "3.0 kg",
@@ -1133,10 +1034,10 @@
     {
       "name": "First Cohort Envirosuit",
       "url": "https://icarus.fandom.com/wiki/First_Cohort_Envirosuit",
-      "description": "As part of the ICARUS: Supporters Edition (unavailable for purchase), prospectors received an exclusive UDA envirosuit with a built-in water slot – giving an edge to prospectors who dare pursue fortune on the moon's surface. There’s no better way to show your commitment than to wear it with pride. The First Cohort Envirosuit is researched and crafted in the Workshopon the Space Station.",
-      "item_type": "ammunition",
+      "description": "As part of the ICARUS: Supporters Edition (unavailable for purchase), prospectors received an exclusive UDA envirosuit with a built-in water slot – giving an edge to prospectors who dare pursue fortune on the moon's surface. There’s no better way to show your commitment than to wear it with pride. The First Cohort Envirosuit is researched and crafted in the Workshop on the Space Station .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "the Workshop on the Space Station",
       "tier": 0,
       "stats": {},
       "category": "envirosuits",
@@ -1145,16 +1046,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop on the Space Station"
+        "crafted_at": "the Workshop on the Space Station"
       }
     },
     {
       "name": "Fur Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Fur_Arms_Armor",
-      "description": "Fur armor is a sidegrade to Leather Armor, offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
-      "item_type": "ammunition",
+      "description": "Fur armor is a sidegrade to Leather Armor , offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "1.0 kg",
@@ -1165,21 +1066,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 4,
-          "Fur": 6,
-          "Rope": 1
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Fur Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Fur_Feet_Armor",
-      "description": "Fur armor is a sidegrade to Leather Armor, offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
-      "item_type": "ammunition",
+      "description": "Fur armor is a sidegrade to Leather Armor , offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "1.0 kg",
@@ -1190,21 +1087,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 6,
-          "Fur": 12,
-          "Rope": 2
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Fur Head Armor",
       "url": "https://icarus.fandom.com/wiki/Fur_Head_Armor",
-      "description": "Fur armor is a sidegrade to Leather Armor, offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
-      "item_type": "ammunition",
+      "description": "Fur armor is a sidegrade to Leather Armor , offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "2.0 kg",
@@ -1215,21 +1108,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 4,
-          "Fur": 12,
-          "Rope": 2
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Fur Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Fur_Legs_Armor",
-      "description": "Fur armor is a sidegrade to Leather Armor, offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
-      "item_type": "ammunition",
+      "description": "Fur armor is a sidegrade to Leather Armor , offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "4.0 kg",
@@ -1240,21 +1129,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 8,
-          "Fur": 18,
-          "Rope": 3
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Ghillie Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Ghillie_Arms_Armor",
       "description": "Ghillie Arms Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "0.25 kg",
@@ -1265,21 +1150,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 120,
-          "Stick": 4,
-          "Rope": 1
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Ghillie Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Ghillie_Feet_Armor",
       "description": "Ghillie Feet Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "0.25 kg",
@@ -1290,21 +1171,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 80,
-          "Stick": 6,
-          "Rope": 2
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Ghillie Head Armor",
       "url": "https://icarus.fandom.com/wiki/Ghillie_Head_Armor",
       "description": "Ghillie Head Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "0.5 kg",
@@ -1315,21 +1192,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 120,
-          "Stick": 2,
-          "Rope": 2
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Ghillie Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Ghillie_Legs_Armor",
       "description": "Ghillie Legs Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "0.75 kg",
@@ -1340,19 +1213,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 160,
-          "Stick": 8,
-          "Rope": 3
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Glaci Vestige",
       "url": "https://icarus.fandom.com/wiki/Glaci_Vestige",
-      "description": "Glaci Vestiges are used at the Trophy Benchto create a Glaci Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Glaci Vestiges are used at the Trophy Bench to create a Glaci Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1369,10 +1238,10 @@
     {
       "name": "Heavy Obsidian Arm Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Arm_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armorand a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
-      "item_type": "ammunition",
+      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "2.0 kg",
@@ -1383,21 +1252,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 2,
-          "Obsidian": 2,
-          "Rope": 2
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Heavy Obsidian Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Feet_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armorand a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
-      "item_type": "ammunition",
+      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "2.0 kg",
@@ -1408,21 +1273,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 2,
-          "Obsidian": 1,
-          "Rope": 4
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Heavy Obsidian Head Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Head_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armorand a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
-      "item_type": "ammunition",
+      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "2.0 kg",
@@ -1433,21 +1294,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 4,
-          "Obsidian": 3,
-          "Rope": 4
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Heavy Obsidian Leg Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Leg_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armorand a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
-      "item_type": "ammunition",
+      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "2.0 kg",
@@ -1458,21 +1315,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Leather": 2,
-          "Obsidian": 2,
-          "Rope": 2
-        },
-        "crafted_at": "Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Hunter Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Hunter_Arms_Armor",
-      "description": "An upgrade to Ghillie Armorwith over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
-      "item_type": "ammunition",
+      "description": "An upgrade to Ghillie Armor with over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "0.38 kg",
@@ -1483,21 +1336,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 2,
-          "Cured Leather": 4,
-          "Epoy": 4
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Hunter Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Hunter_Feet_Armor",
-      "description": "An upgrade to Ghillie Armorwith over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
-      "item_type": "ammunition",
+      "description": "An upgrade to Ghillie Armor with over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "0.38 kg",
@@ -1508,22 +1357,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 1,
-          "Cured Leather": 2,
-          "Rope": 4,
-          "Epoy": 4
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Hunter Head Armor",
       "url": "https://icarus.fandom.com/wiki/Hunter_Head_Armor",
-      "description": "An upgrade to Ghillie Armorwith over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
-      "item_type": "ammunition",
+      "description": "An upgrade to Ghillie Armor with over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "0.75 kg",
@@ -1534,22 +1378,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 2,
-          "Cured Leather": 3,
-          "Rope": 4,
-          "Epoy": 8
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Hunter Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Hunter_Legs_Armor",
-      "description": "An upgrade to Ghillie Armorwith over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
-      "item_type": "ammunition",
+      "description": "An upgrade to Ghillie Armor with over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "1.0 kg",
@@ -1560,20 +1399,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 4,
-          "Cured Leather": 4,
-          "Rope": 6,
-          "Epoy": 8
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Hyena Vestige",
       "url": "https://icarus.fandom.com/wiki/Hyena_Vestige",
-      "description": "Hyena Vestiges are used at the Trophy Benchto create a Hyena Trophy, which can help prospectors complete the Bestiary. They are also used at any textiles bench to make Hyena Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff.",
-      "item_type": "ammunition",
+      "description": "Hyena Vestiges are used at the Trophy Bench to create a Hyena Trophy , which can help prospectors complete the Bestiary . They are also used at any textiles bench to make Hyena Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1590,8 +1424,8 @@
     {
       "name": "Ignari Vestige",
       "url": "https://icarus.fandom.com/wiki/Ignari_Vestige",
-      "description": "Ignari Vestiges are used at the Trophy Benchto create an Ignari Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Ignari Vestiges are used at the Trophy Bench to create an Ignari Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1608,8 +1442,8 @@
     {
       "name": "Inaris \"Lua\" Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Lua%22_Envirosuit",
-      "description": "The Inaris \"Lua\" Envirosuit is purchased in the Workshopon the Space Station.",
-      "item_type": "ammunition",
+      "description": "The Inaris \"Lua\" Envirosuit is purchased in the Workshop on the Space Station .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1628,8 +1462,8 @@
     {
       "name": "Jaguar Vestige",
       "url": "https://icarus.fandom.com/wiki/Jaguar_Vestige",
-      "description": "Jaguar Vestiges are used at the Trophy Benchto create a Jaguar Trophy, which can help prospectors complete the Bestiary. They are also used at the Advanced Textiles Bench/Electric Textiles Benchto make Jaguar Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff.",
-      "item_type": "ammunition",
+      "description": "Jaguar Vestiges are used at the Trophy Bench to create a Jaguar Trophy , which can help prospectors complete the Bestiary . They are also used at the Advanced Textiles Bench / Electric Textiles Bench to make Jaguar Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1646,8 +1480,8 @@
     {
       "name": "Kea Vestige",
       "url": "https://icarus.fandom.com/wiki/Kea_Vestige",
-      "description": "Kea Vestiges are used at the Trophy Benchto create a Kea Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Kea Vestiges are used at the Trophy Bench to create a Kea Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1664,8 +1498,8 @@
     {
       "name": "Komodo Vestige",
       "url": "https://icarus.fandom.com/wiki/Komodo_Vestige",
-      "description": "Komodo Vestiges are used at the Trophy Benchto create a Komodo Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Komodo Vestiges are used at the Trophy Bench to create a Komodo Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1682,10 +1516,10 @@
     {
       "name": "LM Beastmaster Arm Armor",
       "url": "https://icarus.fandom.com/wiki/LM_Beastmaster_Arm_Armor",
-      "description": "The LM Beastmaster Arm Armor is part of the LM Beastmaster Armor Set, which can be unlocked in the Workshopon the Space Stationand is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mountsand tamed creatures.",
-      "item_type": "ammunition",
+      "description": "The LM Beastmaster Arm Armor is part of the LM Beastmaster Armor Set , which can be unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mounts and tamed creatures.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1697,16 +1531,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
       }
     },
     {
       "name": "LM Beastmaster Feet Armor",
       "url": "https://icarus.fandom.com/wiki/LM_Beastmaster_Feet_Armor",
-      "description": "The LM Beastmaster Feet Armor is part of the LM Beastmaster Armor Set, which can be unlocked in the Workshopon the Space Stationand is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mountsand tamed creatures.",
-      "item_type": "ammunition",
+      "description": "The LM Beastmaster Feet Armor is part of the LM Beastmaster Armor Set , which can be unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mounts and tamed creatures.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1718,16 +1552,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
       }
     },
     {
       "name": "LM Beastmaster Head Armor",
       "url": "https://icarus.fandom.com/wiki/LM_Beastmaster_Head_Armor",
-      "description": "The LM Beastmaster Head Armor is part of the LM Beastmaster Armor Set, which can be unlocked in the Workshopon the Space Stationand is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mountsand tamed creatures.",
-      "item_type": "ammunition",
+      "description": "The LM Beastmaster Head Armor is part of the LM Beastmaster Armor Set , which can be unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mounts and tamed creatures.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1739,16 +1573,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
       }
     },
     {
       "name": "LM Beastmaster Leg Armor",
       "url": "https://icarus.fandom.com/wiki/LM_Beastmaster_Leg_Armor",
-      "description": "The LM Beastmaster Leg Armor is part of the LM Beastmaster Armor Set, which can be unlocked in the Workshopon the Space Stationand is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mountsand tamed creatures.",
-      "item_type": "ammunition",
+      "description": "The LM Beastmaster Leg Armor is part of the LM Beastmaster Armor Set , which can be unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mounts and tamed creatures.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1760,14 +1594,14 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
       }
     },
     {
       "name": "Larkwell \"Bulwark\" Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Larkwell_%22Bulwark%22_Envirosuit",
-      "description": "The Larkwell \"Bulwark\" Envirosuit offers more resistance to cold/hot environments with the added bonus of exposure resistance, making it a decent upgrade to the Shengong 'Bihu' Envirosuitand the Shengong 'Dongtian' Envirosuit. Requires Red Exotics.",
-      "item_type": "ammunition",
+      "description": "The Larkwell \"Bulwark\" Envirosuit offers more resistance to cold/hot environments with the added bonus of exposure resistance, making it a decent upgrade to the Shengong 'Bihu' Envirosuit and the Shengong 'Dongtian' Envirosuit . Requires Red Exotics .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1786,8 +1620,8 @@
     {
       "name": "Larkwell \"Haulier\" Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Larkwell_%22Haulier%22_Envirosuit",
-      "description": "Despite the Larkwell \"Haulier\" Envirosuit not having a water slot, Prospectors adore this Envirosuit for its larger inventory size and mod-ability. Requires Red Exotics.",
-      "item_type": "ammunition",
+      "description": "Despite the Larkwell \"Haulier\" Envirosuit not having a water slot, Prospectors adore this Envirosuit for its larger inventory size and mod-ability. Requires Red Exotics .",
+      "item_type": "harvestable",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -1795,7 +1629,9 @@
         "weight": "0.1 kg"
       },
       "category": "envirosuits",
-      "harvested_from": [],
+      "harvested_from": [
+        "a Larkwell Survey"
+      ],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
@@ -1807,9 +1643,9 @@
       "name": "Larkwell Martinez Tachyon Arm Armor",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tachyon_Arm_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1821,16 +1657,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
       }
     },
     {
       "name": "Larkwell Martinez Tachyon Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tachyon_Feet_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1842,16 +1678,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
       }
     },
     {
       "name": "Larkwell Martinez Tachyon Head Armor",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tachyon_Head_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1863,16 +1699,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
       }
     },
     {
       "name": "Larkwell Martinez Tachyon Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tachyon_Legs_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
       "tier": 0,
       "stats": {
         "weight": "1.0 kg",
@@ -1884,14 +1720,14 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Unknown"
+        "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
       }
     },
     {
       "name": "Lava Broodling Vestige",
       "url": "https://icarus.fandom.com/wiki/Lava_Broodling_Vestige",
-      "description": "Lava Broodling Vestiges are used at the Trophy Benchto create a Lava Broodling Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Lava Broodling Vestiges are used at the Trophy Bench to create a Lava Broodling Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -1908,10 +1744,10 @@
     {
       "name": "Leather Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Arms_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus'Fauna, but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
-      "item_type": "ammunition",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "1.0 kg",
@@ -1922,20 +1758,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 40,
-          "Leather": 8
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Leather Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Feet_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus'Fauna, but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
-      "item_type": "ammunition",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "1.0 kg",
@@ -1946,20 +1779,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 20,
-          "Leather": 12
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Leather Head Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Head_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus'Fauna, but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
-      "item_type": "ammunition",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "1.0 kg",
@@ -1970,20 +1800,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 40,
-          "Leather": 12
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Leather Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Legs_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus'Fauna, but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
-      "item_type": "ammunition",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "2.0 kg",
@@ -1994,18 +1821,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 60,
-          "Leather": 18
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Moa Vestige",
       "url": "https://icarus.fandom.com/wiki/Moa_Vestige",
-      "description": "Moa Vestiges are used at the Trophy Benchto create a Moa Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Moa Vestiges are used at the Trophy Bench to create a Moa Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2023,7 +1847,7 @@
       "name": "Naneo Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Naneo_Arms_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -2044,7 +1868,7 @@
       "name": "Naneo Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Naneo_Feet_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -2065,7 +1889,7 @@
       "name": "Naneo Head Armor",
       "url": "https://icarus.fandom.com/wiki/Naneo_Head_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -2086,7 +1910,7 @@
       "name": "Naneo Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Naneo_Legs_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -2106,8 +1930,8 @@
     {
       "name": "Needler Vestige",
       "url": "https://icarus.fandom.com/wiki/Needler_Vestige",
-      "description": "Needler Vestiges are used at the Trophy Benchto create a Needler Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Needler Vestiges are used at the Trophy Bench to create a Needler Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2124,10 +1948,10 @@
     {
       "name": "Obsidian Arm Armor",
       "url": "https://icarus.fandom.com/wiki/Obsidian_Arm_Armor",
-      "description": "Obsidian Armor is a sidegrade of Composite Armor, providing slightly more physical resistance and a substantial bonus to heat resistance.",
-      "item_type": "ammunition",
+      "description": "Obsidian Armor is a sidegrade of Composite Armor , providing slightly more physical resistance and a substantial bonus to heat resistance.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
         "weight": "1.0 kg",
@@ -2138,22 +1962,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 5,
-          "Composites": 3,
-          "Steel Screw": 2,
-          "Shaped Obsidian": 5
-        },
+        "ingredients": {},
         "crafted_at": "Electric Textiles Bench"
       }
     },
     {
       "name": "Obsidian Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Obsidian_Feet_Armor",
-      "description": "Obsidian Armor is a sidegrade of Composite Armor, providing slightly more physical resistance and a substantial bonus to heat resistance.",
-      "item_type": "ammunition",
+      "description": "Obsidian Armor is a sidegrade of Composite Armor , providing slightly more physical resistance and a substantial bonus to heat resistance.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
         "weight": "1.0 kg",
@@ -2164,22 +1983,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 3,
-          "Composites": 2,
-          "Steel Screw": 3,
-          "Shaped Obsidian": 5
-        },
+        "ingredients": {},
         "crafted_at": "Electric Textiles Bench"
       }
     },
     {
       "name": "Obsidian Head Armor",
       "url": "https://icarus.fandom.com/wiki/Obsidian_Head_Armor",
-      "description": "Obsidian Armor is a sidegrade of Composite Armor, providing slightly more physical resistance and a substantial bonus to heat resistance.",
-      "item_type": "ammunition",
+      "description": "Obsidian Armor is a sidegrade of Composite Armor , providing slightly more physical resistance and a substantial bonus to heat resistance.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
         "weight": "1.0 kg",
@@ -2190,22 +2004,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 10,
-          "Composites": 5,
-          "Steel Screw": 5,
-          "Shaped Obsidian": 5
-        },
+        "ingredients": {},
         "crafted_at": "Electric Textiles Bench"
       }
     },
     {
       "name": "Obsidian Leg Armor",
       "url": "https://icarus.fandom.com/wiki/Obsidian_Leg_Armor",
-      "description": "Obsidian Armor is a sidegrade of Composite Armor, providing slightly more physical resistance and a substantial bonus to heat resistance.",
-      "item_type": "ammunition",
+      "description": "Obsidian Armor is a sidegrade of Composite Armor , providing slightly more physical resistance and a substantial bonus to heat resistance.",
+      "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
         "weight": "1.0 kg",
@@ -2216,20 +2025,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 12,
-          "Composites": 2,
-          "Steel Screw": 3,
-          "Shaped Obsidian": 12
-        },
+        "ingredients": {},
         "crafted_at": "Electric Textiles Bench"
       }
     },
     {
       "name": "Polar Bear Vestige",
       "url": "https://icarus.fandom.com/wiki/Polar_Bear_Vestige",
-      "description": "Polar Bear Vestiges are used at the Trophy Benchto create a Polar Bear Trophy, which can help prospectors complete the Bestiary. They are also used at the Advanced Textiles Bench/Electric Textiles Benchto make Polar Bear Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff.",
-      "item_type": "ammunition",
+      "description": "Polar Bear Vestiges are used at the Trophy Bench to create a Polar Bear Trophy , which can help prospectors complete the Bestiary . They are also used at the Advanced Textiles Bench / Electric Textiles Bench to make Polar Bear Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2246,8 +2050,8 @@
     {
       "name": "Pronghorn Vestige",
       "url": "https://icarus.fandom.com/wiki/Pronghorn_Vestige",
-      "description": "Pronghorn Vestiges are used at the Trophy Benchto create a Pronghorn Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Pronghorn Vestiges are used at the Trophy Bench to create a Pronghorn Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2264,8 +2068,8 @@
     {
       "name": "Pygmy Lop Vestige",
       "url": "https://icarus.fandom.com/wiki/Pygmy_Lop_Vestige",
-      "description": "Pygmy Lop Vestiges are used at the Trophy Benchto create a Pygmy Lop Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Pygmy Lop Vestiges are used at the Trophy Bench to create a Pygmy Lop Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2282,8 +2086,8 @@
     {
       "name": "Rabbit Vestige",
       "url": "https://icarus.fandom.com/wiki/Rabbit_Vestige",
-      "description": "Rabbit Vestiges are used at the Trophy Benchto create a Rabbit Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Rabbit Vestiges are used at the Trophy Bench to create a Rabbit Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2300,8 +2104,8 @@
     {
       "name": "Redback Vestige",
       "url": "https://icarus.fandom.com/wiki/Redback_Vestige",
-      "description": "Redback Vestiges are used at the Trophy Benchto create a Redback Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Redback Vestiges are used at the Trophy Bench to create a Redback Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2318,8 +2122,8 @@
     {
       "name": "Roat Vestige",
       "url": "https://icarus.fandom.com/wiki/Roat_Vestige",
-      "description": "Roat Vestiges are used at the Trophy Benchto create a Roat Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Roat Vestiges are used at the Trophy Bench to create a Roat Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2337,7 +2141,7 @@
       "name": "ST-700 Arms Armor",
       "url": "https://icarus.fandom.com/wiki/ST-700_Arms_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -2358,7 +2162,7 @@
       "name": "ST-700 Feet Armor",
       "url": "https://icarus.fandom.com/wiki/ST-700_Feet_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -2379,7 +2183,7 @@
       "name": "ST-700 Head Armor",
       "url": "https://icarus.fandom.com/wiki/ST-700_Head_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -2400,7 +2204,7 @@
       "name": "ST-700 Legs Armor",
       "url": "https://icarus.fandom.com/wiki/ST-700_Legs_Armor",
       "description": "",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -2420,10 +2224,10 @@
     {
       "name": "Sandworm Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Sandworm_Arms_Armor",
-      "description": "Sandworm Arms Armor is made from the scales dropped from a Sandworm. Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor.",
+      "description": "Sandworm Arms Armor is made from the scales dropped from a Sandworm . Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "0.38 kg",
@@ -2434,21 +2238,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 40,
-          "Leather": 4,
-          "Sandworm Scale": 6
-        },
-        "crafted_at": "Crafted At\n Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Sandworm Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Sandworm_Feet_Armor",
-      "description": "Sandworm Feet Armor is made from the scales dropped from a Sandworm. Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor.",
+      "description": "Sandworm Feet Armor is made from the scales dropped from a Sandworm . Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "0.38 kg",
@@ -2459,21 +2259,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 20,
-          "Leather": 6,
-          "Sandworm Scale": 6
-        },
-        "crafted_at": "Crafted At\n Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Sandworm Head Armor",
       "url": "https://icarus.fandom.com/wiki/Sandworm_Head_Armor",
-      "description": "Sandworm Head Armor is made from the scales dropped from a Sandworm. Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor.",
+      "description": "Sandworm Head Armor is made from the scales dropped from a Sandworm . Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "0.75 kg",
@@ -2484,21 +2280,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 40,
-          "Leather": 10,
-          "Sandworm Scale": 10
-        },
-        "crafted_at": "Crafted At\n Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Sandworm Leg Armor",
       "url": "https://icarus.fandom.com/wiki/Sandworm_Leg_Armor",
-      "description": "Sandworm Leg Armor is made from the scales dropped from a Sandworm. Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor.",
+      "description": "Sandworm Leg Armor is made from the scales dropped from a Sandworm . Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor .",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "1.00 kg",
@@ -2509,21 +2301,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 60,
-          "Leather": 9,
-          "Sandworm Scale": 10
-        },
-        "crafted_at": "Crafted At\n Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Scorpion Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Arms_Armor",
-      "description": "Scorpion Arms Armor is a Tier 2 crafted armor requiring a Textiles Bench; however, it is difficult to acquire due to the challenge of defeating Husk: Exterminationand requiring Scorpion Carapace. It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Arms Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Textiles Bench Electric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "0.9 kg",
@@ -2534,21 +2322,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 40,
-          "Leather": 8,
-          "Scorpion Carapace": 6
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Scorpion Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Feet_Armor",
-      "description": "Scorpion Feet Armor is a Tier 2 crafted armor requiring a Textiles Bench; however, it is difficult to acquire due to the challenge of defeating Husk: Exterminationand requiring Scorpion Carapace. It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Feet Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Textiles Bench Electric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "0.9 kg",
@@ -2559,21 +2343,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 35,
-          "Leather": 15,
-          "Scorpion Carapace": 4
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Scorpion Head Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Head_Armor",
-      "description": "Scorpion Head Armor is a Tier 2 crafted armor requiring a Textiles Bench; however, it is difficult to acquire due to the challenge of defeating Husk: Exterminationand requiring Scorpion Carapace. It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Head Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Textiles Bench Electric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "1.0 kg",
@@ -2584,21 +2364,17 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 40,
-          "Leather": 15,
-          "Scorpion Carapace": 10
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Scorpion Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Legs_Armor",
-      "description": "Scorpion Legs Armor is a Tier 2 crafted armor requiring a Textiles Bench; however, it is difficult to acquire due to the challenge of defeating Husk: Exterminationand requiring Scorpion Carapace. It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Legs Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Textiles Bench Electric Textiles Bench",
       "tier": 2,
       "stats": {
         "weight": "1.2 kg",
@@ -2609,19 +2385,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Fiber": 60,
-          "Leather": 12,
-          "Scorpion Carapace": 10
-        },
-        "crafted_at": "Crafted At\n Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Scorpion Vestige",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Vestige",
-      "description": "Scorpion Vestiges are used at the Trophy Benchto create a Scorpion Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Scorpion Vestiges are used at the Trophy Bench to create a Scorpion Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2638,28 +2410,30 @@
     {
       "name": "Seed Harvesting Attachment",
       "url": "https://icarus.fandom.com/wiki/Seed_Harvesting_Attachment",
-      "description": "Seed Harvesting Attachment is a mid game item for attaching to a Harvesting Cartthat allows collection of Seedswhile harvesting crops planted in Dirt Moundsor Crop Plots. It has no effect on plants found in the wild.",
-      "item_type": "ammunition",
+      "description": "Seed Harvesting Attachment is a mid game item for attaching to a Harvesting Cart that allows collection of Seeds while harvesting crops planted in Dirt Mounds or Crop Plots . It has no effect on plants found in the wild.",
+      "item_type": "harvestable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
         "weight": "1.0 kg"
       },
       "category": "attachment packs",
-      "harvested_from": [],
+      "harvested_from": [
+        "the wild"
+      ],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Crafted at\n Ranching Station"
+        "crafted_at": "Ranching Station"
       }
     },
     {
       "name": "Shaggy Zebra Vestige",
       "url": "https://icarus.fandom.com/wiki/Shaggy_Zebra_Vestige",
-      "description": "Shaggy Zebra Vestiges are used at the Trophy Benchto create a Shaggy Zebra Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Shaggy Zebra Vestiges are used at the Trophy Bench to create a Shaggy Zebra Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2676,8 +2450,8 @@
     {
       "name": "Shengong \"Bihu\" Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Bihu%22_Envirosuit",
-      "description": "The Shengong \"Bihu\" Envirosuit is purchased in the Workshopon the Space Station.",
-      "item_type": "ammunition",
+      "description": "The Shengong \"Bihu\" Envirosuit is purchased in the Workshop on the Space Station .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -2694,8 +2468,8 @@
     {
       "name": "Shengong \"Dongtian\" Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Dongtian%22_Envirosuit",
-      "description": "The Shengong \"Dongtian\" Envirosuit is purchased in the Workshopon the Space Station.",
-      "item_type": "ammunition",
+      "description": "The Shengong \"Dongtian\" Envirosuit is purchased in the Workshop on the Space Station .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -2712,8 +2486,8 @@
     {
       "name": "Snow Leopard Vestige",
       "url": "https://icarus.fandom.com/wiki/Snow_Leopard_Vestige",
-      "description": "Snow Leopard Vestiges are used at the Trophy Benchto create a Snow Leopard Trophy, which can help prospectors complete the Bestiary. They are also used at the Advanced Textiles Bench/Electric Textiles Benchto make Snow Leopard Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff.",
-      "item_type": "ammunition",
+      "description": "Snow Leopard Vestiges are used at the Trophy Bench to create a Snow Leopard Trophy , which can help prospectors complete the Bestiary . They are also used at the Advanced Textiles Bench / Electric Textiles Bench to make Snow Leopard Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2730,8 +2504,8 @@
     {
       "name": "Snow Rabbit Vestige",
       "url": "https://icarus.fandom.com/wiki/Snow_Rabbit_Vestige",
-      "description": "Snow Rabbit Vestiges are used at the Trophy Benchto create a Snow Rabbit Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Snow Rabbit Vestiges are used at the Trophy Bench to create a Snow Rabbit Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2748,8 +2522,8 @@
     {
       "name": "Snow Stalker Vestige",
       "url": "https://icarus.fandom.com/wiki/Snow_Stalker_Vestige",
-      "description": "Snow Stalker Vestiges are used at the Trophy Benchto create a Snow Stalker Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Snow Stalker Vestiges are used at the Trophy Bench to create a Snow Stalker Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2766,8 +2540,8 @@
     {
       "name": "Snow Wolf Vestige",
       "url": "https://icarus.fandom.com/wiki/Snow_Wolf_Vestige",
-      "description": "Snow Wolf Vestiges are used at the Trophy Benchto create a Snow Wolf Trophy, which can help prospectors complete the Bestiary. They are also used at any textiles bench to make Snow Wolf Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff.",
-      "item_type": "ammunition",
+      "description": "Snow Wolf Vestiges are used at the Trophy Bench to create a Snow Wolf Trophy , which can help prospectors complete the Bestiary . They are also used at any textiles bench to make Snow Wolf Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2784,8 +2558,8 @@
     {
       "name": "Stonejaw Vestige",
       "url": "https://icarus.fandom.com/wiki/Stonejaw_Vestige",
-      "description": "Stonejaw Vestiges are used at the Trophy Benchto create a Stonejaw Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Stonejaw Vestiges are used at the Trophy Bench to create a Stonejaw Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2802,8 +2576,8 @@
     {
       "name": "Stryder Vestige",
       "url": "https://icarus.fandom.com/wiki/Stryder_Vestige",
-      "description": "Stryder Vestiges are used at the Trophy Benchto create a Stryder Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Stryder Vestiges are used at the Trophy Bench to create a Stryder Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2820,8 +2594,8 @@
     {
       "name": "Suit Conditioning Module",
       "url": "https://icarus.fandom.com/wiki/Suit_Conditioning_Module",
-      "description": "This module increases the user's resistance to cold/hot environments, reducing the chances of Hypothermia/Hyperthermia. It can be researched and crafted on the Space Stationin the Workshop. Multiple Suit Conditioning Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase the users cold/heat resistance.",
-      "item_type": "ammunition",
+      "description": "This module increases the user's resistance to cold/hot environments, reducing the chances of Hypothermia/Hyperthermia. It can be researched and crafted on the Space Station in the Workshop . Multiple Suit Conditioning Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase the users cold/heat resistance.",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -2838,8 +2612,8 @@
     {
       "name": "Teenage Caveworm Vestige",
       "url": "https://icarus.fandom.com/wiki/Teenage_Caveworm_Vestige",
-      "description": "Teenage Caveworm Vestiges are used at the Trophy Benchto create a Teenage Caveworm Trophy.",
-      "item_type": "ammunition",
+      "description": "Teenage Caveworm Vestiges are used at the Trophy Bench to create a Teenage Caveworm Trophy .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2856,8 +2630,8 @@
     {
       "name": "Terrenus Vestige",
       "url": "https://icarus.fandom.com/wiki/Terrenus_Vestige",
-      "description": "Terrenus Vestiges are used at the Trophy Benchto create a Terrenus Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Terrenus Vestiges are used at the Trophy Bench to create a Terrenus Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2874,8 +2648,8 @@
     {
       "name": "Tusker Vestige",
       "url": "https://icarus.fandom.com/wiki/Tusker_Vestige",
-      "description": "Tusker Vestiges are used at the Trophy Benchto create a Tusker Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Tusker Vestiges are used at the Trophy Bench to create a Tusker Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2892,8 +2666,8 @@
     {
       "name": "Ubis Vestige",
       "url": "https://icarus.fandom.com/wiki/Ubis_Vestige",
-      "description": "Ubis Vestiges are used at the Trophy Benchto create a Ubis Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Ubis Vestiges are used at the Trophy Bench to create a Ubis Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2910,8 +2684,8 @@
     {
       "name": "Viscid Vestige",
       "url": "https://icarus.fandom.com/wiki/Viscid_Vestige",
-      "description": "Viscid Vestiges are used at the Trophy Benchto create a Viscid Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Viscid Vestiges are used at the Trophy Bench to create a Viscid Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -2931,7 +2705,7 @@
       "description": "Wayfarer Arms Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "1.0 kg",
@@ -2942,10 +2716,8 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 4
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
@@ -2954,7 +2726,7 @@
       "description": "Wayfarer Feet Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "1.0 kg",
@@ -2965,10 +2737,8 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 2
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
@@ -2977,7 +2747,7 @@
       "description": "Wayfarer Head Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "1.0 kg",
@@ -2988,10 +2758,8 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 4
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
@@ -3000,7 +2768,7 @@
       "description": "Wayfarer Leg Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
         "weight": "2.0 kg",
@@ -3011,17 +2779,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Platinum Weave": 8
-        },
-        "crafted_at": "Advanced Textiles Bench"
+        "ingredients": {},
+        "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Wild Boar Vestige",
       "url": "https://icarus.fandom.com/wiki/Wild_Boar_Vestige",
-      "description": "Wild Boar Vestiges are used at the Trophy Benchto create a Wild Boar Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Wild Boar Vestiges are used at the Trophy Bench to create a Wild Boar Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -3038,8 +2804,8 @@
     {
       "name": "Wolf Vestige",
       "url": "https://icarus.fandom.com/wiki/Wolf_Vestige",
-      "description": "Wolf Vestiges are used at the Trophy Benchto create a Wolf Trophy, which can help prospectors complete the Bestiary. They are also used at any textiles bench to make Wolf Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff.",
-      "item_type": "ammunition",
+      "description": "Wolf Vestiges are used at the Trophy Bench to create a Wolf Trophy , which can help prospectors complete the Bestiary . They are also used at any textiles bench to make Wolf Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,
@@ -3056,10 +2822,10 @@
     {
       "name": "Wooden Armor Stand",
       "url": "https://icarus.fandom.com/wiki/Wooden_Armor_Stand",
-      "description": "The Wooden Armor Stand is a deployable item to store a set of Armorfor display purposes and to easily swap out the armor set.",
+      "description": "The Wooden Armor Stand is a deployable item to store a set of Armor for display purposes and to easily swap out the armor set.",
       "item_type": "craftable",
       "ingredients": {},
-      "crafted_at": "Unknown",
+      "crafted_at": "Carpentry Bench Electric Carpentry Bench",
       "tier": 2,
       "stats": {
         "weight": "15 Kg",
@@ -3070,19 +2836,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Refined Wood": 50,
-          "Copper Nail": 15,
-          "Vegetable Oil": 1
-        },
-        "crafted_at": "Crafted At\n Carpentry Bench"
+        "ingredients": {},
+        "crafted_at": "Carpentry Bench Electric Carpentry Bench"
       }
     },
     {
       "name": "Xigo \"Duo\" S5 Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Xigo_%22Duo%22_S5_Envirosuit",
-      "description": "The Xigo \"Duo\" S5 Envirosuit is purchased in the Workshopon the Space Station.",
-      "item_type": "ammunition",
+      "description": "The Xigo \"Duo\" S5 Envirosuit is purchased in the Workshop on the Space Station .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -3099,8 +2861,8 @@
     {
       "name": "Xigo \"Fermi\" S5 Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Xigo_%22Fermi%22_S5_Envirosuit",
-      "description": "The Xigo \"Fermi\" S5 Envirosuit is purchased in the Workshopon the Space Station.",
-      "item_type": "ammunition",
+      "description": "The Xigo \"Fermi\" S5 Envirosuit is purchased in the Workshop on the Space Station .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -3117,8 +2879,8 @@
     {
       "name": "Xigo \"Gustav\" S5 Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Xigo_%22Gustav%22_S5_Envirosuit",
-      "description": "The Xigo \"Gustav\" S5 Envirosuit is purchased in the Workshopon the Space Station.",
-      "item_type": "ammunition",
+      "description": "The Xigo \"Gustav\" S5 Envirosuit is purchased in the Workshop on the Space Station .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -3135,8 +2897,8 @@
     {
       "name": "Xigo \"Hark\" S5 Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Xigo_%22Hark%22_S5_Envirosuit",
-      "description": "The Xigo \"Hark\" S5 Envirosuit is purchased in the Workshopon the Space Station.",
-      "item_type": "ammunition",
+      "description": "The Xigo \"Hark\" S5 Envirosuit is purchased in the Workshop on the Space Station .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -3154,7 +2916,7 @@
       "name": "Xigo S5 Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Xigo_S5_Envirosuit",
       "description": "The Xigo S5 Envirosuit is the default Envirosuit automatically equipped in the Prospector's loadout if an envirosuit is not equipped prior to starting a new prospect.",
-      "item_type": "ammunition",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -3171,8 +2933,8 @@
     {
       "name": "Xigo S5-II Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Xigo_S5-II_Envirosuit",
-      "description": "The Xigo S5-II Envirosuit is the first unlockable envirosuit Prospectors can unlock in the Workshopon the Space Station.",
-      "item_type": "ammunition",
+      "description": "The Xigo S5-II Envirosuit is the first unlockable envirosuit Prospectors can unlock in the Workshop on the Space Station .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -3189,8 +2951,8 @@
     {
       "name": "Xigo S5-X Envirosuit",
       "url": "https://icarus.fandom.com/wiki/Xigo_S5-X_Envirosuit",
-      "description": "The Xigo S5-X Envirosuit is purchased in the Workshopon the Space Station.",
-      "item_type": "ammunition",
+      "description": "The Xigo S5-X Envirosuit is purchased in the Workshop on the Space Station .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
@@ -3207,8 +2969,8 @@
     {
       "name": "Zebra Vestige",
       "url": "https://icarus.fandom.com/wiki/Zebra_Vestige",
-      "description": "Zebra Vestiges are used at the Trophy Benchto create a Zebra Trophy, which can help prospectors complete the Bestiary.",
-      "item_type": "ammunition",
+      "description": "Zebra Vestiges are used at the Trophy Bench to create a Zebra Trophy , which can help prospectors complete the Bestiary .",
+      "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 2,

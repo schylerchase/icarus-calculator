@@ -1,8 +1,8 @@
 {
   "name": "MXC Cot",
   "url": "https://icarus.fandom.com/wiki/MXC_Cot",
-  "description": "The MXC Cot is a portable ready-madeBedthat can be purchased from theWorkshopor brought down to the planet usingOrbital Exchange Interface.",
-  "item_type": "ammunition",
+  "description": "The MXC Cot is a portable ready-made Bed that can be purchased from the Workshop or brought down to the planet using Orbital Exchange Interface .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

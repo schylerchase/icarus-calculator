@@ -1,8 +1,8 @@
 {
   "name": "Crispy Potato",
   "url": "https://icarus.fandom.com/wiki/Crispy_Potato",
-  "description": "Crispy Potato is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "ammunition",
+  "description": "Crispy Potato is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,

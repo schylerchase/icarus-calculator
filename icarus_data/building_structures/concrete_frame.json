@@ -4,7 +4,7 @@
   "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "the Machining Bench with the following resources:",
   "tier": 0,
   "stats": {},
   "category": "building pieces",
@@ -12,11 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Steel Rebar": 20,
-      "Concrete Mi": 8,
-      "Steel Screw": 10
-    },
-    "crafted_at": "Machining Bench"
+    "ingredients": {},
+    "crafted_at": "the Machining Bench with the following resources:"
   }
 }

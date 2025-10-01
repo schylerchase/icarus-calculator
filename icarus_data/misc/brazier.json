@@ -1,8 +1,8 @@
 {
   "name": "Brazier",
   "url": "https://icarus.fandom.com/wiki/Brazier",
-  "description": "BrazierMiscRepaired withHammers",
-  "item_type": "ammunition",
+  "description": "Brazier Misc Repaired with Hammers",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

@@ -1,8 +1,8 @@
 {
   "name": "Titanium Knife",
   "url": "https://icarus.fandom.com/wiki/Titanium_Knife",
-  "description": "The Titanium Knife is an upgrade in damage and durability from thePlatinum Knife, the Titanium Knife can be used as either a melee weapon or tool. Unlike theTitanium Throwing Knife, the Titanium Knife cannot be thrown.",
-  "item_type": "craftable",
+  "description": "The Titanium Knife is an upgrade in damage and durability from the Platinum Knife , the Titanium Knife can be used as either a melee weapon or tool. Unlike the Titanium Throwing Knife , the Titanium Knife cannot be thrown.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -16,12 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Carbon Fiber": 4,
-      "Steel Screw": 2,
-      "Epoy": 4,
-      "Titanium Ingot": 8
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

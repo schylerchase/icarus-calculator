@@ -4,7 +4,7 @@
   "description": "Scoria building material, while not as robust as Scoria Brick Building Pieces, it is still an effective choice.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "the Masonry Bench with the following resources:",
   "tier": 0,
   "stats": {
     "weight": "2.5 Kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 3,
-      "Scoria": 5,
-      "Leather": 2,
-      "Iron Nail": 4
-    },
-    "crafted_at": "Unknown"
+    "ingredients": {},
+    "crafted_at": "the Masonry Bench with the following resources:"
   }
 }

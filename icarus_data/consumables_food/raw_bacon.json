@@ -1,8 +1,8 @@
 {
   "name": "Raw Bacon",
   "url": "https://icarus.fandom.com/wiki/Raw_Bacon",
-  "description": "Raw meat can be obtained by skinningWild Boarwith aKnife. While eating raw food will replenishHealththere is a possibility of negativeStatus Effectswhen doing so. It is better toCookbefore eating.",
-  "item_type": "ammunition",
+  "description": "Raw meat can be obtained by skinning Wild Boar with a Knife . While eating raw food will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook before eating.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

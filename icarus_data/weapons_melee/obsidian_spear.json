@@ -1,10 +1,10 @@
 {
   "name": "Obsidian Spear",
   "url": "https://icarus.fandom.com/wiki/Obsidian_Spear",
-  "description": "Element damage does not scale with Spear talents. Unlike theObsidian Javelin, the Obsidian Spear cannot be thrown.",
-  "item_type": "ammunition",
+  "description": "Element damage does not scale with Spear talents. Unlike the Obsidian Javelin , the Obsidian Spear cannot be thrown.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
     "damage": "+20% Critical Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Anvil Bench"
+    "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

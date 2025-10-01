@@ -1,8 +1,8 @@
 {
   "name": "Infected Bark",
   "url": "https://icarus.fandom.com/wiki/Infected_Bark",
-  "description": "A piece ofWoodwarped beyond recognition that can be taken to anOrganic Residue CleanserorBiofuel Bio-Cleanerto be turned into fiveEpoxyper bark.",
-  "item_type": "ammunition",
+  "description": "A piece of Wood warped beyond recognition that can be taken to an Organic Residue Cleanser or Biofuel Bio-Cleaner to be turned into five Epoxy per bark.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

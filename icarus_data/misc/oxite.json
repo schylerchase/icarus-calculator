@@ -1,8 +1,8 @@
 {
   "name": "Oxite",
   "url": "https://icarus.fandom.com/wiki/Oxite",
-  "description": "Oxite is an one of the most preciousMineralsfound on the surface of Icarus. Prospectors require a steady supply ofOxygento survive, and Oxite is a solidified mix of water and oxygen.",
-  "item_type": "ammunition",
+  "description": "Oxite is an one of the most precious Minerals found on the surface of Icarus. Prospectors require a steady supply of Oxygen to survive, and Oxite is a solidified mix of water and oxygen.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

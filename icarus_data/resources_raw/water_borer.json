@@ -1,10 +1,10 @@
 {
   "name": "Water Borer",
   "url": "https://icarus.fandom.com/wiki/Water_Borer",
-  "description": "The Water Borer is a device that can be placed onEnzyme Geysersand when powered, can be used to extractWaterwhich can be fed into a water network.",
-  "item_type": "ammunition",
+  "description": "The Water Borer is a device that can be placed on Enzyme Geysers and when powered, can be used to extract Water which can be fed into a water network.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 4,
   "stats": {
     "weight": "20.0 kg",

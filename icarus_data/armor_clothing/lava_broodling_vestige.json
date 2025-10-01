@@ -1,8 +1,8 @@
 {
   "name": "Lava Broodling Vestige",
   "url": "https://icarus.fandom.com/wiki/Lava_Broodling_Vestige",
-  "description": "Lava Broodling Vestiges are used at theTrophy Benchto create aLava Broodling Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Lava Broodling Vestiges are used at the Trophy Bench to create a Lava Broodling Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

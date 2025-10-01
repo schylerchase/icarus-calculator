@@ -1,8 +1,8 @@
 {
   "name": "Sweetcorn Soup",
   "url": "https://icarus.fandom.com/wiki/Sweetcorn_Soup",
-  "description": "Sweetcorn Soup is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "ammunition",
+  "description": "Sweetcorn Soup is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

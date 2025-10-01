@@ -1,10 +1,10 @@
 {
   "name": "Thin Woven Rug",
   "url": "https://icarus.fandom.com/wiki/Thin_Woven_Rug",
-  "description": "Thin Woven Rugs are decorative deployables that can be placed on any ground surface and are used to liven any living space. Aside from being for decorative purposes, it can also be used in tandem with otherFurnitureto increase theCozinessof your living quarters, increasing the duration and effectiveness of theWell Rested Buff.",
+  "description": "Thin Woven Rugs are decorative deployables that can be placed on any ground surface and are used to liven any living space. Aside from being for decorative purposes, it can also be used in tandem with other Furniture to increase the Coziness of your living quarters, increasing the duration and effectiveness of the Well Rested Buff .",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
   "tier": 3,
   "stats": {
     "weight": "1.0 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Cured Leather": 10,
-      "Platinum Weave": 10,
-      "Fiber": 60
-    },
-    "crafted_at": "Advanced Textiles Bench"
+    "ingredients": {},
+    "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
   }
 }

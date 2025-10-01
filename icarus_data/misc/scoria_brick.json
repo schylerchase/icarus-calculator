@@ -1,10 +1,10 @@
 {
   "name": "Scoria Brick",
   "url": "https://icarus.fandom.com/wiki/Scoria_Brick",
-  "description": "Scoria Bricks are a refined resource primarily used to craftScoria Brick Building Piecesat anAdvanced Masonry Bench/Electric Masonry Bench.",
-  "item_type": "ammunition",
+  "description": "Scoria Bricks are a refined resource primarily used to craft Scoria Brick Building Pieces at an Advanced Masonry Bench / Electric Masonry Bench .",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Stone Furnace Concrete Furnace Electric Furnace",
   "tier": 2,
   "stats": {},
   "category": "crafted resources",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Concrete Furnace"
+    "crafted_at": "Stone Furnace Concrete Furnace Electric Furnace"
   }
 }

@@ -1,8 +1,8 @@
 {
   "name": "Plain Jerky",
   "url": "https://icarus.fandom.com/wiki/Plain_Jerky",
-  "description": "Plain Jerky is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "craftable",
+  "description": "Plain Jerky is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -12,10 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Raw Meat": 1,
-      "Salt": 5
-    },
+    "ingredients": {},
     "crafted_at": "Unknown"
   }
 }

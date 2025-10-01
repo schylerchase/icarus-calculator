@@ -1,8 +1,8 @@
 {
   "name": "Kiwi Fruit Farming Packet",
   "url": "https://icarus.fandom.com/wiki/Kiwi_Fruit_Farming_Packet",
-  "description": "The Kiwi Fruit Farming Packet is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Kiwifruit seeds, which then can be planted inDirt MoundsorCrop Plotsto growKiwifruit.",
-  "item_type": "ammunition",
+  "description": "The Kiwi Fruit Farming Packet is unlocked in the Workshop on the Space Station and is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Kiwifruit seeds, which then can be planted in Dirt Mounds or Crop Plots to grow Kiwifruit .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

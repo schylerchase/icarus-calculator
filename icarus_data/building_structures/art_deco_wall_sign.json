@@ -1,10 +1,10 @@
 {
   "name": "Art Deco Wall Sign",
   "url": "https://icarus.fandom.com/wiki/Art_Deco_Wall_Sign",
-  "description": "The Art Deco Wall Sign is an gilded wall sign for labelled cupboards or other items in theArt Decostyle.",
-  "item_type": "ammunition",
+  "description": "The Art Deco Wall Sign is an gilded wall sign for labelled cupboards or other items in the Art Deco style.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
     "weight": "5.0 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Decoration Bench"
+    "crafted_at": "Decoration Bench"
   }
 }

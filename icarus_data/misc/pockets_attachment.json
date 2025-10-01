@@ -1,10 +1,10 @@
 {
   "name": "Pockets Attachment",
   "url": "https://icarus.fandom.com/wiki/Pockets_Attachment",
-  "description": "Pockets Attachment is a mid-to-end game item available once the prospector has unlocked theArmor Attachment Packtech.",
-  "item_type": "ammunition",
+  "description": "Pockets Attachment is a mid-to-end game item available once the prospector has unlocked the Armor Attachment Pack tech.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Alteration Bench",
   "tier": 3,
   "stats": {
     "weight": "1.0 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted at\n Alteration Bench"
+    "crafted_at": "Alteration Bench"
   }
 }

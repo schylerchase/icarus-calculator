@@ -1,8 +1,8 @@
 {
   "name": "MXC Camping Heater",
   "url": "https://icarus.fandom.com/wiki/MXC_Camping_Heater",
-  "description": "The MXC Camping Heater is a portable heat source for use in cold regions such as theArcticthat can be purchased from theWorkshopon the Space Station.",
-  "item_type": "ammunition",
+  "description": "The MXC Camping Heater is a portable heat source for use in cold regions such as the Arctic that can be purchased from the Workshop on the Space Station.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,

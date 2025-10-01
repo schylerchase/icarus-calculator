@@ -1,10 +1,10 @@
 {
   "name": "Carved Wood Sitting Bench",
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_Sitting_Bench",
-  "description": "The Carved Wood Sitting Bench is a decorative wooden bench that provides seating and a small bonus toCoziness.",
-  "item_type": "ammunition",
+  "description": "The Carved Wood Sitting Bench is a decorative wooden bench that provides seating and a small bonus to Coziness .",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
     "weight": "1 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Carpentry Bench"
+    "crafted_at": "Carpentry Bench"
   }
 }

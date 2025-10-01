@@ -1,8 +1,8 @@
 {
   "name": "Frozen Ore",
   "url": "https://icarus.fandom.com/wiki/Frozen_Ore",
-  "description": "Frozen Ore is a resource produced as a by-product of mining a mineral node with aPickaxethat has a chance to produce frozen ore, such as theCold Steel PickaxeorInaris \"Viridian\" Pickaxe.",
-  "item_type": "ammunition",
+  "description": "Frozen Ore is a resource produced as a by-product of mining a mineral node with a Pickaxe that has a chance to produce frozen ore, such as the Cold Steel Pickaxe or Inaris \"Viridian\" Pickaxe .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Concrete Furnace"
+    "crafted_at": "Unknown"
   }
 }

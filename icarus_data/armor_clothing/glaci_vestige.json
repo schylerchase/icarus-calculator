@@ -1,8 +1,8 @@
 {
   "name": "Glaci Vestige",
   "url": "https://icarus.fandom.com/wiki/Glaci_Vestige",
-  "description": "Glaci Vestiges are used at theTrophy Benchto create aGlaci Trophy, which can help prospectors complete theBestiary.",
-  "item_type": "ammunition",
+  "description": "Glaci Vestiges are used at the Trophy Bench to create a Glaci Trophy , which can help prospectors complete the Bestiary .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,

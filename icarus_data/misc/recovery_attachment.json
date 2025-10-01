@@ -4,7 +4,7 @@
   "description": "The Recovery Attachment is an armor alteration that reduces the duration of the effects of parasites, poison, bacterial afflications and physical trauma.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Advanced Alteration Bench",
   "tier": 4,
   "stats": {
     "weight": "1.0 kg"
@@ -14,11 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Composites": 2,
-      "Epoy": 4,
-      "Rope": 4
-    },
+    "ingredients": {},
     "crafted_at": "Advanced Alteration Bench"
   }
 }

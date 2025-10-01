@@ -4,7 +4,7 @@
   "description": "",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.01 kg"
@@ -14,21 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Ammo Casing": 1,
-      "Gunpowder": 2
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
-  },
-  "talent_recipes": [
-    {
-      "talent_name": "Rifle Reduction",
-      "talent_effect": "-25% reduced resource cost",
-      "ingredients": {
-        "Ammo Casing": 4,
-        "Gunpowder": 8
-      },
-      "crafted_at": "Machining Bench"
-    }
-  ]
+  }
 }

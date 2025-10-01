@@ -1,8 +1,8 @@
 {
   "name": "Black Wolf Tooth",
   "url": "https://icarus.fandom.com/wiki/Black_Wolf_Tooth",
-  "description": "Black Wolf Teeth are a resource obtained by skinning anAlpha Wolf. Only after completingLupine: Exterminationcan these be used to craft new weaponry at theAnvil Bench.",
-  "item_type": "ammunition",
+  "description": "Black Wolf Teeth are a resource obtained by skinning an Alpha Wolf . Only after completing Lupine: Extermination can these be used to craft new weaponry at the Anvil Bench .",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Anvil Bench"
+    "crafted_at": "Unknown"
   }
 }

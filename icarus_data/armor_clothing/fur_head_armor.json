@@ -1,10 +1,10 @@
 {
   "name": "Fur Head Armor",
   "url": "https://icarus.fandom.com/wiki/Fur_Head_Armor",
-  "description": "Fur armor is a sidegrade toLeather Armor, offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
-  "item_type": "ammunition",
+  "description": "Fur armor is a sidegrade to Leather Armor , offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
     "weight": "2.0 kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Leather": 4,
-      "Fur": 12,
-      "Rope": 2
-    },
-    "crafted_at": "Crafted At\n Textiles Bench"
+    "ingredients": {},
+    "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

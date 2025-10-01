@@ -1,8 +1,8 @@
 {
   "name": "Oxygel",
   "url": "https://icarus.fandom.com/wiki/Oxygel",
-  "description": "Oxygel is aConsumablethat providesOxygenwhen consumed. It is a one time use emergency ration of Oxygen.",
-  "item_type": "ammunition",
+  "description": "Oxygel is a Consumable that provides Oxygen when consumed. It is a one time use emergency ration of Oxygen.",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
