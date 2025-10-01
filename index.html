@@ -929,10 +929,18 @@
                     
                     let successfulPath = null;
                     
+                    // Find the correct path with timeout
                     for (const basePath of pathVariations) {
                         try {
                             setLoadingText(`Testing path: ${basePath}...`);
-                            const testResponse = await fetch(`${basePath}medicine.json`);
+                            const controller = new AbortController();
+                            const timeoutId = setTimeout(() => controller.abort(), 3000);
+                            
+                            const testResponse = await fetch(`${basePath}medicine.json`, { 
+                                signal: controller.signal 
+                            });
+                            clearTimeout(timeoutId);
+                            
                             if (testResponse.ok) {
                                 successfulPath = basePath;
                                 setLoadingText(`Found data at: ${basePath}`);
@@ -947,13 +955,22 @@
                         throw new Error(`Cannot load JSON files. Please use a local HTTP server.`);
                     }
                     
+                    // Load all files with timeout protection
                     for (const filename of JSON_FILES) {
                         try {
                             setLoadingText(`Loading ${filename}... (${loadedCount + 1}/${JSON_FILES.length})`);
                             
-                            const response = await fetch(`${successfulPath}${filename}`);
+                            const controller = new AbortController();
+                            const timeoutId = setTimeout(() => controller.abort(), 5000);
+                            
+                            const response = await fetch(`${successfulPath}${filename}`, {
+                                signal: controller.signal
+                            });
+                            clearTimeout(timeoutId);
+                            
                             if (!response.ok) {
                                 errors.push(`${filename}: HTTP ${response.status}`);
+                                loadedCount++;
                                 continue;
                             }
                             
@@ -982,16 +999,23 @@
                             
                             loadedCount++;
                         } catch (fileError) {
-                            errors.push(`${filename}: ${fileError.message}`);
+                            if (fileError.name === 'AbortError') {
+                                errors.push(`${filename}: Timeout (5s)`);
+                            } else {
+                                errors.push(`${filename}: ${fileError.message}`);
+                            }
+                            loadedCount++;
                         }
                     }
                     
                     if (Object.keys(allRecipes).length === 0) {
-                        throw new Error(`No recipes could be loaded.`);
+                        throw new Error(`No recipes could be loaded. Errors: ${errors.join(', ')}`);
                     }
                     
                     setRecipes(allRecipes);
                     setLoading(false);
+                    
+                    console.log(`Loaded ${Object.keys(allRecipes).length} recipes from ${loadedCount} files`);
                     
                 } catch (err) {
                     setError({
