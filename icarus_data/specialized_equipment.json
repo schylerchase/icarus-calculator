@@ -5,7 +5,7 @@
     {
       "name": "Advanced Deep Mining Ore Scanner",
       "url": "https://icarus.fandom.com/wiki/Advanced_Deep_Mining_Ore_Scanner",
-      "description": "LocatesDeep Ore Depositswithin the area that can be mined with aBiofuel Deep-Mining Drillor anElectric Deep-Mining Drill. Unlike theDeep Mining Ore Scanner, the Advanced Deep Mining Ore Scanner can be toggled to detect specific deep ore deposits.",
+      "description": "Locates Deep Ore Depositswithin the area that can be mined with a Biofuel Deep-Mining Drillor an Electric Deep-Mining Drill. Unlike the Deep Mining Ore Scanner, the Advanced Deep Mining Ore Scanner can be toggled to detect specific deep ore deposits.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -25,7 +25,7 @@
     {
       "name": "Battery Powered Lantern",
       "url": "https://icarus.fandom.com/wiki/Battery_Powered_Lantern",
-      "description": "The Battery Powered Lantern is a portableHandheld Light Sourcethat provides illumination in the surrounding area. Can be equipped in the \"L\" light slot on the hotbar.",
+      "description": "The Battery Powered Lantern is a portable Handheld Light Sourcethat provides illumination in the surrounding area. Can be equipped in the \"L\" light slot on the hotbar.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -50,7 +50,7 @@
     {
       "name": "Biofuel Deep-Mining Drill",
       "url": "https://icarus.fandom.com/wiki/Biofuel_Deep-Mining_Drill",
-      "description": "The Biofuel Deep-Mining Drill will minedeep mining ore depositswhen supplied with biofuel from aBiofuel Can/MXC Fuel Canister. The Biofuel Deep-Mining Drill has 5 slots and will last 2 hours and 5 minutes on a fullBiofuel Can.",
+      "description": "The Biofuel Deep-Mining Drill will minedeep mining ore depositswhen supplied with biofuel from a Biofuel Can/MXC Fuel Canister. The Biofuel Deep-Mining Drill has 5 slots and will last 2 hours and 5 minutes on a full Biofuel Can.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -71,7 +71,7 @@
     {
       "name": "Biofuel Radar",
       "url": "https://icarus.fandom.com/wiki/Biofuel_Radar",
-      "description": "The Biofuel Radar is used to scan forExotic/Volatile Raw Exoticdeposits. Once activated, aggravatedFauna(varies per region) will attempt to destroy the radar by any means necessary. Radars of all types will show ALL exotic veins on the map in each scan, regardless of whether they have been depleted. Scans performed in anOutpostwill not complete as there are no exotic veins in them. This can be used to spawn aggressive wildlife for resources or experience.",
+      "description": "The Biofuel Radar is used to scan for Exotic/Volatile Raw Exoticdeposits. Once activated, aggravated Fauna(varies per region) will attempt to destroy the radar by any means necessary. Radars of all types will show ALL exotic veins on the map in each scan, regardless of whether they have been depleted. Scans performed in an Outpostwill not complete as there are no exotic veins in them. This can be used to spawn aggressive wildlife for resources or experience.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -143,7 +143,7 @@
     {
       "name": "Deep Mining Ore Scanner",
       "url": "https://icarus.fandom.com/wiki/Deep_Mining_Ore_Scanner",
-      "description": "LocatesDeep Ore Depositswithin the area that can be mined with aBiofuel Deep-Mining Drillor anElectric Deep-Mining Drill. Does not indicate the type of deep ore deposit detected, unlike theAdvanced Deep Mining Ore Scanner.",
+      "description": "Locates Deep Ore Depositswithin the area that can be mined with a Biofuel Deep-Mining Drillor an Electric Deep-Mining Drill. Does not indicate the type of deep ore deposit detected, unlike the Advanced Deep Mining Ore Scanner.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -168,7 +168,7 @@
     {
       "name": "Electric Deep-Mining Drill",
       "url": "https://icarus.fandom.com/wiki/Electric_Deep-Mining_Drill",
-      "description": "The Electric Deep-Mining Drill will mineDeep Mining Ore Depositswhen supplied with 2,000 units ofPower. The Electric Deep-Mining Drill has more inventory slots, twenty in all, 15 more slots than its biofuel counterpart. This allows 1000 or 2000 ore to be accumulated before needing to be emptied, depending on the ore type.",
+      "description": "The Electric Deep-Mining Drill will mine Deep Mining Ore Depositswhen supplied with 2,000 units of Power. The Electric Deep-Mining Drill has more inventory slots, twenty in all, 15 more slots than its biofuel counterpart. This allows 1000 or 2000 ore to be accumulated before needing to be emptied, depending on the ore type.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -189,7 +189,7 @@
     {
       "name": "Electric Radar",
       "url": "https://icarus.fandom.com/wiki/Electric_Radar",
-      "description": "The Electric Radar is used to scan forExotic/Volatile Raw Exoticdeposits. Once activated, aggravatedFauna(varies per region) will attempt to destroy the radar by any means necessary. Radars of all types will show ALL exotic veins on the map in each scan, regardless of whether they have been depleted. Scans performed in anOutpostwill not complete as there are no exotic veins in them. This can be used to spawn aggressive wildlife for resources or experience.",
+      "description": "The Electric Radar is used to scan for Exotic/Volatile Raw Exoticdeposits. Once activated, aggravated Fauna(varies per region) will attempt to destroy the radar by any means necessary. Radars of all types will show ALL exotic veins on the map in each scan, regardless of whether they have been depleted. Scans performed in an Outpostwill not complete as there are no exotic veins in them. This can be used to spawn aggressive wildlife for resources or experience.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -216,7 +216,7 @@
     {
       "name": "IC-001 Radar",
       "url": "https://icarus.fandom.com/wiki/IC-001_Radar",
-      "description": "The IC-001 Radar is used to scan forExotic/Volatile Raw Exoticdeposits. Once activated, aggravatedFauna(varies per region) will attempt to destroy the radar by any means necessary. Radars of all types will show ALL exotic veins on the map in each scan, regardless of whether they have been depleted. Scans performed in anOutpostwill not complete as there are no exotic veins in them. This can be used to spawn aggressive wildlife for resources or experience.",
+      "description": "The IC-001 Radar is used to scan for Exotic/Volatile Raw Exoticdeposits. Once activated, aggravated Fauna(varies per region) will attempt to destroy the radar by any means necessary. Radars of all types will show ALL exotic veins on the map in each scan, regardless of whether they have been depleted. Scans performed in an Outpostwill not complete as there are no exotic veins in them. This can be used to spawn aggressive wildlife for resources or experience.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -237,7 +237,7 @@
     {
       "name": "Lantern",
       "url": "https://icarus.fandom.com/wiki/Lantern",
-      "description": "Similar to torches, the durability of the Lantern will decrease over time. The Lantern can be repaired (refilled) at aCrafting Benchwith 1Animal Fat. The Lantern will last about 45 minutes when lit before needing repairs. The Lantern allows prospectors to see approximately 10 meters, or 5 standard floor pieces, from their position.",
+      "description": "Similar to torches, the durability of the Lantern will decrease over time. The Lantern can be repaired (refilled) at a Crafting Benchwith 1Animal Fat. The Lantern will last about 45 minutes when lit before needing repairs. The Lantern allows prospectors to see approximately 10 meters, or 5 standard floor pieces, from their position.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -290,7 +290,7 @@
     {
       "name": "Miner's Module",
       "url": "https://icarus.fandom.com/wiki/Miner%27s_Module",
-      "description": "This module is theWorkshopequivalent of theSupplemental Respiration Attachment, with the added damage bonus toCaveworms. It can be researched and crafted on theSpace Stationin theWorkshop. Multiple Miner's Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase benefits received from the modules.",
+      "description": "This module is the Workshopequivalent of the Supplemental Respiration Attachment, with the added damage bonus to Caveworms. It can be researched and crafted on the Space Stationin the Workshop. Multiple Miner's Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase benefits received from the modules.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -308,7 +308,7 @@
     {
       "name": "Prototype Trail Beacon",
       "url": "https://icarus.fandom.com/wiki/Prototype_Trail_Beacon",
-      "description": "The Prototype Trail Beacon is a small portable self-powered beacon that is deployed with thePrototype Trail Beacon Toolto form a breadcrumb trail in the uncharted areas of theNull Sector RegiononPrometheus.",
+      "description": "The Prototype Trail Beacon is a small portable self-powered beacon that is deployed with the Prototype Trail Beacon Toolto form a breadcrumb trail in the uncharted areas of the Null Sector Regionon Prometheus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -335,7 +335,7 @@
     {
       "name": "Prototype Trail Beacon Tool",
       "url": "https://icarus.fandom.com/wiki/Prototype_Trail_Beacon_Tool",
-      "description": "The Prototype Trail Beacon Tool is a handheld device used to place a breadcrumb trail ofPrototype Trail Beaconswhen exploring theNull Sector Regionon thePrometheusmap.",
+      "description": "The Prototype Trail Beacon Tool is a handheld device used to place a breadcrumb trail of Prototype Trail Beaconswhen exploring the Null Sector Regionon the Prometheusmap.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -362,7 +362,7 @@
     {
       "name": "Scorpion Pincer Trap",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Pincer_Trap",
-      "description": "Scorpion Pincer Traps are sturdy defenses used around your base or while at objectives for protection of equipment. The recipe blueprint to craft this defensive trap is only unlocked after completing the prospectCarapace: Research. The blueprint unlocks account-wide once the mission is completed.",
+      "description": "Scorpion Pincer Traps are sturdy defenses used around your base or while at objectives for protection of equipment. The recipe blueprint to craft this defensive trap is only unlocked after completing the prospect Carapace: Research. The blueprint unlocks account-wide once the mission is completed.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -387,7 +387,7 @@
     {
       "name": "Snare Trap",
       "url": "https://icarus.fandom.com/wiki/Snare_Trap",
-      "description": "The Snare Trap is a deployable item used to trap and tame certain animals on Icarus. It must be filled with suitableAnimal Baitand placed in an area to attract the desired animal.",
+      "description": "The Snare Trap is a deployable item used to trap and tame certain animals on Icarus. It must be filled with suitable Animal Baitand placed in an area to attract the desired animal.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -413,7 +413,7 @@
     {
       "name": "Wood Rag Torch",
       "url": "https://icarus.fandom.com/wiki/Wood_Rag_Torch",
-      "description": "The first available source ofLight Source. Can be equipped in the \"L\" light slot on the hotbar. When lit, the Wood Rag Torch also provides heat in addition to light. The Wood Rag Torch will last about 33 minutes and 20 seconds when lit before extinguishing. The Wood Rag Torch allows prospectors to see approximately 6 meters, or 3 standard floor pieces, from their position.",
+      "description": "The first available source of Light Source. Can be equipped in the \"L\" light slot on the hotbar. When lit, the Wood Rag Torch also provides heat in addition to light. The Wood Rag Torch will last about 33 minutes and 20 seconds when lit before extinguishing. The Wood Rag Torch allows prospectors to see approximately 6 meters, or 3 standard floor pieces, from their position.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -437,7 +437,7 @@
     {
       "name": "Wood Torch",
       "url": "https://icarus.fandom.com/wiki/Wood_Torch",
-      "description": "The Wood Torch is an upgraded handheldLight Sourcethat will last longer than theWood Rag Torch. Can be equipped in the \"L\" light slot on the hotbar and provides heat when lit.\nThe Wood Torch will last about 50 minutes when lit before extinguishing. The Wood Torch allows prospectors to see approximately 6 meters, or 3 standard floor pieces, from their position.",
+      "description": "The Wood Torch is an upgraded handheld Light Sourcethat will last longer than the Wood Rag Torch. Can be equipped in the \"L\" light slot on the hotbar and provides heat when lit. The Wood Torch will last about 50 minutes when lit before extinguishing. The Wood Torch allows prospectors to see approximately 6 meters, or 3 standard floor pieces, from their position.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",

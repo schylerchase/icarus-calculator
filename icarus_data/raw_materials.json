@@ -5,7 +5,7 @@
     {
       "name": "Aluminium Ore",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Ore",
-      "description": "Aluminium Ore is a mid-gameMineralResource. Prospectors can first utilize aluminium once they reach level 20 and unlockTier 3, when it can be crafted into upgradedWeaponslike theRecurve BowandAluminium Arrow. It is widely used in constructs (for example,Aluminium BeamandAluminium Door), and in the late-game it is a vital component ofItemslikeComposite Chest Armor.",
+      "description": "Aluminium Ore is a mid-game Mineral Resource. Prospectors can first utilize aluminium once they reach level 20 and unlock Tier 3 , when it can be crafted into upgraded Weaponslike the Recurve Bowand Aluminium Arrow. It is widely used in constructs (for example,Aluminium Beamand Aluminium Door), and in the late-game it is a vital component of Itemslike Composite Chest Armor.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -23,7 +23,7 @@
     {
       "name": "Arctic Explorer Saddle",
       "url": "https://icarus.fandom.com/wiki/Arctic_Explorer_Saddle",
-      "description": "The Arctic Explorer Saddle is a saddle forMountsthat has an artic theme. It is available as part of theCreature Comforts DLCand is a cosmetic change to theBasic Riding Saddlethat provides no additional attributes.",
+      "description": "The Arctic Explorer Saddle is a saddle for Mountsthat has an artic theme. It is available as part of the Creature Comforts DLCand is a cosmetic change to the Basic Riding Saddlethat provides no additional attributes.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -68,7 +68,7 @@
     {
       "name": "Bearhide Saddle",
       "url": "https://icarus.fandom.com/wiki/Bearhide_Saddle",
-      "description": "The Bearhide Saddle is a saddle forMountsthat has a bear theme. It is available as part of theCreature Comforts DLCand is a cosmetic change to theBasic Riding Saddlethat provides no additional attributes.",
+      "description": "The Bearhide Saddle is a saddle for Mountsthat has a bear theme. It is available as part of the Creature Comforts DLCand is a cosmetic change to the Basic Riding Saddlethat provides no additional attributes.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -93,7 +93,7 @@
     {
       "name": "Beeswax Wood Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Halfpieces",
-      "description": "Reinforced wood building pieces can be unlocked inTier 2of theTech Tree. These building pieces are more resistant to damage than their earlierWoodversions with the inclusion ofBeeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree. These building pieces are more resistant to damage than their earlier Woodversions with the inclusion of Beeswax",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -118,7 +118,7 @@
     {
       "name": "Beeswax Wood Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Halfpitches",
-      "description": "Reinforced wood building pieces can be unlocked inTier 2of theTech Tree. These building pieces are more resistant to damage than their earlierWoodversions with the inclusion ofBeeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree. These building pieces are more resistant to damage than their earlier Woodversions with the inclusion of Beeswax",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -164,7 +164,7 @@
     {
       "name": "Bone",
       "url": "https://icarus.fandom.com/wiki/Bone",
-      "description": "Bone is aAnimal Resourceobtained fromFauna. It is also sometimes found when harvesting fish.",
+      "description": "Bone is a Animal Resourceobtained from Fauna. It is also sometimes found when harvesting fish.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -182,7 +182,7 @@
     {
       "name": "Bone Javelin",
       "url": "https://icarus.fandom.com/wiki/Bone_Javelin",
-      "description": "The Bone Javelin is a variant of theBone Spearthat can only be thrown and is an upgrade to theWood Javelin. Despite it requiring more materials to craft, the increase in damage can mean the difference between winning and losing a fight against Icarus' fauna.",
+      "description": "The Bone Javelin is a variant of the Bone Spearthat can only be thrown and is an upgrade to the Wood Javelin. Despite it requiring more materials to craft, the increase in damage can mean the difference between winning and losing a fight against Icarus' fauna.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -203,7 +203,7 @@
     {
       "name": "Bone Lure",
       "url": "https://icarus.fandom.com/wiki/Bone_Lure",
-      "description": "The Bone Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone increase is the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Bone Lure degrades with use and will eventually break after ten uses.",
+      "description": "The Bone Lure can be attached to a Fishing Rodor a Basic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone increase is the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like all Lures, the Bone Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -299,7 +299,7 @@
     {
       "name": "Carbon Fiber",
       "url": "https://icarus.fandom.com/wiki/Carbon_Fiber",
-      "description": "While being aTier 3component, Carbon Fiber is only used to makeCarbon Arrows, theCarbon Spear/Javelin, and theCarbon Fibre Round Shieldin the Tier 3 Tech Tree; however, it is a critical component widely used inTier 4crafting.",
+      "description": "While being a Tier 3 component, Carbon Fiber is only used to make Carbon Arrows, the Carbon Spear/Javelin, and the Carbon Fibre Round Shieldin the Tier 3  Tech Tree; however, it is a critical component widely used in Tier 4 crafting.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -527,7 +527,7 @@
     {
       "name": "Coal Ore",
       "url": "https://icarus.fandom.com/wiki/Coal_Ore",
-      "description": "Coal Ore is aMineralfound on Icarus in the open and caves. It's most basic use is as a fuel in aCampfireorStone Furnace, though this is somewhat inefficient as it is more valuable as component for crafting.",
+      "description": "Coal Ore is a Mineralfound on Icarus in the open and caves. It's most basic use is as a fuel in a Campfireor Stone Furnace, though this is somewhat inefficient as it is more valuable as component for crafting.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -545,7 +545,7 @@
     {
       "name": "Coffee Smoked Fatty T-bone",
       "url": "https://icarus.fandom.com/wiki/Coffee_Smoked_Fatty_T-bone",
-      "description": "Coffee Smoked Fatty T-bone is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "description": "Coffee Smoked Fatty T-bone is a Foodwith a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -566,7 +566,7 @@
     {
       "name": "Copper Ore",
       "url": "https://icarus.fandom.com/wiki/Copper_Ore",
-      "description": "Copper Ore is an early-gameMineralResource. It is widely used in the construction ofInterior Wood Building Pieces, and prospectors can make extensive use of copper once they reach level 20 and unlockTier 3, as it is a crucial component inElectronics. In the late game, copper is used in various deployables like theRefrigeratorand theMaterial Processor.",
+      "description": "Copper Ore is an early-game Mineral Resource. It is widely used in the construction of Interior Wood Building Pieces, and prospectors can make extensive use of copper once they reach level 20 and unlock Tier 3 , as it is a crucial component in Electronics. In the late game, copper is used in various deployables like the Refrigeratorand the Material Processor.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -584,7 +584,7 @@
     {
       "name": "Crushed Bone",
       "url": "https://icarus.fandom.com/wiki/Crushed_Bone",
-      "description": "Useful alternate resource for makingEpoxy.",
+      "description": "Useful alternate resource for making Epoxy.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -604,7 +604,7 @@
     {
       "name": "Dried Fatty T-Bone",
       "url": "https://icarus.fandom.com/wiki/Dried_Fatty_T-Bone",
-      "description": "Dried Fatty T-Bone is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "description": "Dried Fatty T-Bone is a Foodwith a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -642,7 +642,7 @@
     {
       "name": "Fiber Farming Packet",
       "url": "https://icarus.fandom.com/wiki/Fiber_Farming_Packet",
-      "description": "The Fiber Farming Packet is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Fiber seeds, which then can be planted inDirt Moundsor Crop plots to growPlant Resources.",
+      "description": "The Fiber Farming Packet is unlocked in the Workshopon the Space Stationand is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Fiber seeds, which then can be planted in Dirt Moundsor Crop plots to grow Plant Resources.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -660,7 +660,7 @@
     {
       "name": "Fiber Lure",
       "url": "https://icarus.fandom.com/wiki/Fiber_Lure",
-      "description": "The Fiber Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone increase is the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Fiber Lure degrades with use and will eventually break after ten uses.",
+      "description": "The Fiber Lure can be attached to a Fishing Rodor a Basic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone increase is the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like all Lures, the Fiber Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -685,7 +685,7 @@
     {
       "name": "Frozen Ore",
       "url": "https://icarus.fandom.com/wiki/Frozen_Ore",
-      "description": "Frozen Ore is a resource produced as a by-product of mining a mineral node with aPickaxethat has a chance to produce frozen ore, such as theCold Steel PickaxeorInaris \"Viridian\" Pickaxe.",
+      "description": "Frozen Ore is a resource produced as a by-product of mining a mineral node with a Pickaxethat has a chance to produce frozen ore, such as the Cold Steel Pickaxeor Inaris \"Viridian\" Pickaxe.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -703,7 +703,7 @@
     {
       "name": "Gold Ore",
       "url": "https://icarus.fandom.com/wiki/Gold_Ore",
-      "description": "Gold Ore is aMineralResource. Prospectors can make extensive use of Gold Ore once they reach level 20 and unlockTier 3, as it is a crucial component inElectronics.",
+      "description": "Gold Ore is a Mineral Resource. Prospectors can make extensive use of Gold Ore once they reach level 20 and unlock Tier 3 , as it is a crucial component in Electronics.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -721,7 +721,7 @@
     {
       "name": "Gold Ore Lure",
       "url": "https://icarus.fandom.com/wiki/Gold_Ore_Lure",
-      "description": "The Gold Ore Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Gold Ore Lure degrades with use and will eventually break after ten uses.",
+      "description": "The Gold Ore Lure can be attached to a Fishing Rodor a Basic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like all Lures, the Gold Ore Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -746,7 +746,7 @@
     {
       "name": "Ice Borer",
       "url": "https://icarus.fandom.com/wiki/Ice_Borer",
-      "description": "The Ice Borer will drill super-cooled ice deposits when supplied with biofuel from aBiofuel Can/MXC Fuel Canister. Super-cooled ice deposits can only be found on frozen lakes and rivers in the Arctic regions of Prometheus (Biomes: Glacial Cascade or Alpine Steppe - a map of Prometheus biomes can be foundhere.). The Ice Borer has 5 slots and will last 2 hours and 5 minutes on a fullBiofuel Can.",
+      "description": "The Ice Borer will drill super-cooled ice deposits when supplied with biofuel from a Biofuel Can/MXC Fuel Canister. Super-cooled ice deposits can only be found on frozen lakes and rivers in the Arctic regions of Prometheus (Biomes: Glacial Cascade or Alpine Steppe - a map of Prometheus biomes can be foundhere.). The Ice Borer has 5 slots and will last 2 hours and 5 minutes on a full Biofuel Can.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -788,7 +788,7 @@
     {
       "name": "Interior Wood Cupboard",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Cupboard",
-      "description": "A Interior Wood Cupboard made of refined wood and copper nails. Similar size to theWood Cupboard.",
+      "description": "A Interior Wood Cupboard made of refined wood and copper nails. Similar size to the Wood Cupboard.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -809,7 +809,7 @@
     {
       "name": "Interior Wood Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Halfpieces",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -830,7 +830,7 @@
     {
       "name": "Interior Wood Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Halfpitches",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -851,7 +851,7 @@
     {
       "name": "Interior Wood Ladder",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Ladder",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -872,7 +872,7 @@
     {
       "name": "Interior Wood Railing",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Railing_Stairs",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -893,7 +893,7 @@
     {
       "name": "Interior Wood Railing Gate",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Railing_Gate",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -914,7 +914,7 @@
     {
       "name": "Iron Ore",
       "url": "https://icarus.fandom.com/wiki/Iron_Ore",
-      "description": "Iron Ore is aMineral, that allows prospectors to createTier 2/Tier 3ToolsandWeaponswith both theAnvil BenchandMachining Bench. In addition, iron is widely used inSteel Ingotfor craftingItemssuch as theSteel Pickaxe, and Late-game Deployables like theFabricator/Electric Furnace.",
+      "description": "Iron Ore is a Mineral, that allows prospectors to create Tier 2 /Tier 3 Toolsand Weaponswith both the Anvil Benchand Machining Bench. In addition, iron is widely used in Steel Ingotfor crafting Itemssuch as the Steel Pickaxe, and Late-game Deployables like the Fabricator/Electric Furnace.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -932,7 +932,7 @@
     {
       "name": "Medium Interior Wood Crate",
       "url": "https://icarus.fandom.com/wiki/Medium_Interior_Wood_Crate",
-      "description": "A Medium Interior Wood Crate made of refined wood and copper nails. Similar size to theMedium Wood Crate.",
+      "description": "A Medium Interior Wood Crate made of refined wood and copper nails. Similar size to the Medium Wood Crate.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -953,7 +953,7 @@
     {
       "name": "Medium Wood Crate",
       "url": "https://icarus.fandom.com/wiki/Medium_Wood_Crate",
-      "description": "Larger than theSmall Wood Crate, the Medium Wood Crate also possesses an increased inventory space with 20 slots. Like most otherDeployables, this must be underShelteror it will be destroyed when exposed toWeatherevents. It is possible to loot the contents if this crate is destroyed, but only for a limited time.",
+      "description": "Larger than the Small Wood Crate, the Medium Wood Crate also possesses an increased inventory space with 20 slots. Like most other Deployables, this must be under Shelteror it will be destroyed when exposed to Weatherevents. It is possible to loot the contents if this crate is destroyed, but only for a limited time.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -995,7 +995,7 @@
     {
       "name": "NOREX Boss Tracker Upgrade",
       "url": "https://icarus.fandom.com/wiki/Norex_Boss_Tracker_Upgrade",
-      "description": "The NOREX Boss Tracker Upgrade is an upgrade for theCONT4CT Devicedeployed in anOpen Worldmap that visually upgrades the screens and provides a Bosses tab that provides information on the currently active world bosses.",
+      "description": "The NOREX Boss Tracker Upgrade is an upgrade for the CONT4CT Devicedeployed in an Open Worldmap that visually upgrades the screens and provides a Bosses tab that provides information on the currently active world bosses.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1024,7 +1024,7 @@
     {
       "name": "Platinum Ore",
       "url": "https://icarus.fandom.com/wiki/Platinum_Ore",
-      "description": "Platinum Ore is a mid-gameMineralResource, and can be utilized by prospectors after they reach level 20 and unlockTier 3in theTech Tree. Platinum is required for a number of upgradedToolsandWeapons, including thePlatinum SpearandPlatinum Sickle.",
+      "description": "Platinum Ore is a mid-game Mineral Resource, and can be utilized by prospectors after they reach level 20 and unlock Tier 3 in the Tech Tree. Platinum is required for a number of upgraded Toolsand Weapons, including the Platinum Spearand Platinum Sickle.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1042,7 +1042,7 @@
     {
       "name": "Silica Ore",
       "url": "https://icarus.fandom.com/wiki/Silica_Ore",
-      "description": "Silica Ore is aMineralfound on the surface of Icarus. Prospectors are likely to first use silica to create theMortar and Pestle. However, it is also the key in making glass and concrete.",
+      "description": "Silica Ore is a Mineralfound on the surface of Icarus. Prospectors are likely to first use silica to create the Mortar and Pestle. However, it is also the key in making glass and concrete.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1060,7 +1060,7 @@
     {
       "name": "Small Interior Wood Crate",
       "url": "https://icarus.fandom.com/wiki/Small_Interior_Wood_Crate",
-      "description": "A Small Interior Wood Crate made of refined wood and copper nails. Similar size to theSmall Wood Crate.",
+      "description": "A Small Interior Wood Crate made of refined wood and copper nails. Similar size to the Small Wood Crate.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1102,7 +1102,7 @@
     {
       "name": "Small Wood Crate",
       "url": "https://icarus.fandom.com/wiki/Small_Wood_Crate",
-      "description": "The Small Wood Crate is the first available storage container that can be made by the prospector. While limited in inventory space, anything here will not be lost upon the death of the prospector or count against inventory weight. Like most otherDeployables, this must be underShelteror it will be destroyed when exposed toWeatherevents. It is possible to loot the contents if this crate is destroyed, but only for a limited time.",
+      "description": "The Small Wood Crate is the first available storage container that can be made by the prospector. While limited in inventory space, anything here will not be lost upon the death of the prospector or count against inventory weight. Like most other Deployables, this must be under Shelteror it will be destroyed when exposed to Weatherevents. It is possible to loot the contents if this crate is destroyed, but only for a limited time.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1123,7 +1123,7 @@
     {
       "name": "Small Wood Sign",
       "url": "https://icarus.fandom.com/wiki/Small_Wood_Sign",
-      "description": "A Small Wood Sign made ofRefined WoodandCopper Nails.",
+      "description": "A Small Wood Sign made of Refined Woodand Copper Nails.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1144,7 +1144,7 @@
     {
       "name": "Stick",
       "url": "https://icarus.fandom.com/wiki/Stick",
-      "description": "Sticks are harvested by picking them up off of the ground, or when harvesting small trees and saplings. Sticks can also be crafted from wood at theCarpentry Bench, or in theCharacter Craftingmenu if you have theWood Breakdowntalent (and its matching Blueprint in Tier 1).",
+      "description": "Sticks are harvested by picking them up off of the ground, or when harvesting small trees and saplings. Sticks can also be crafted from wood at the Carpentry Bench, or in the Character Craftingmenu if you have the Wood Breakdowntalent (and its matching Blueprint in Tier 1 ).",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1162,7 +1162,7 @@
     {
       "name": "Stone",
       "url": "https://icarus.fandom.com/wiki/Stone",
-      "description": "Stone is one of the most abundantMineralsavailable on Icarus. Prospectors will make extensive use of stone from the moment they exit their drop-pods, as it is widely used in the early game for bothToolsandWeapons.",
+      "description": "Stone is one of the most abundant Mineralsavailable on Icarus. Prospectors will make extensive use of stone from the moment they exit their drop-pods, as it is widely used in the early game for both Toolsand Weapons.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1180,7 +1180,7 @@
     {
       "name": "Stone Brick",
       "url": "https://icarus.fandom.com/wiki/Stone_Brick",
-      "description": "Stone Bricks are a refined resource primarily used to craftStone Brick Building Piecesat anAdvanced Masonry Bench/Electric Masonry Bench.",
+      "description": "Stone Bricks are a refined resource primarily used to craft Stone Brick Building Piecesat an Advanced Masonry Bench/Electric Masonry Bench.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1441,7 +1441,7 @@
     {
       "name": "Stone Pile",
       "url": "https://icarus.fandom.com/wiki/Stone_Pile",
-      "description": "The Stone Pile, alongside theWood Pile, are makeshift storage options for large quantities of each raw material. The Stone Pile is immune to ALLWeatherdamage and can be used as a durable barrier toFauna, especially against Fauna like theGrizzly Bear. If placed with just a narrow opening between piles, Bears have an incredibly difficult time getting through which allows the Prospector to melee attack just beyond the bear's attack range.",
+      "description": "The Stone Pile, alongside the Wood Pile, are makeshift storage options for large quantities of each raw material. The Stone Pile is immune to ALLWeatherdamage and can be used as a durable barrier to Fauna, especially against Fauna like the Grizzly Bear. If placed with just a narrow opening between piles, Bears have an incredibly difficult time getting through which allows the Prospector to melee attack just beyond the bear's attack range.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1501,7 +1501,7 @@
     {
       "name": "Stone Water Trough",
       "url": "https://icarus.fandom.com/wiki/Stone_Water_Trough",
-      "description": "The Stone Water Trough is a decorative upgrade to theWater Troughthat allows multiple creatures to drink from it simultaneously and can be connected toWaterusing aWater Pipe Tool, similar to theLarge Water Trough. The Stone Water Trough can only store water and cannot provide water to the rest of the network likeWater BarrelsorMetal Rain Reservoirs.",
+      "description": "The Stone Water Trough is a decorative upgrade to the Water Troughthat allows multiple creatures to drink from it simultaneously and can be connected to Waterusing a Water Pipe Tool, similar to the Large Water Trough. The Stone Water Trough can only store water and cannot provide water to the rest of the network like Water Barrelsor Metal Rain Reservoirs.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1525,7 +1525,7 @@
     {
       "name": "Stonejaw Trophy",
       "url": "https://icarus.fandom.com/wiki/Stonejaw_Trophy",
-      "description": "Stonejaw Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete theBestiary, it can also be used in tandem with otherFurnitureto increase theCozinessof your living quarters, increasing the duration and effectiveness of theWell Rested Buff.",
+      "description": "Stonejaw Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete the Bestiary, it can also be used in tandem with other Furnitureto increase the Cozinessof your living quarters, increasing the duration and effectiveness of the Well Rested Buff.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1549,7 +1549,7 @@
     {
       "name": "Titanium Ore",
       "url": "https://icarus.fandom.com/wiki/Titanium_Ore",
-      "description": "Titanium Ore is a late-game Mineral, and can be utilized by prospectors after they reach level 30 and unlock theFabricatorin theTier 4Tech Tree. Titanium  represents the current pinnacle of material strength forToolsand for severalWeapons.",
+      "description": "Titanium Ore is a late-game Mineral, and can be utilized by prospectors after they reach level 30 and unlock the Fabricatorin the Tier 4 Tech Tree. Titanium represents the current pinnacle of material strength for Toolsand for several Weapons.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1567,7 +1567,7 @@
     {
       "name": "Water Borer",
       "url": "https://icarus.fandom.com/wiki/Water_Borer",
-      "description": "The Water Borer is a device that can be placed onEnzyme Geysersand when powered, can be used to extractWaterwhich can be fed into a water network.",
+      "description": "The Water Borer is a device that can be placed on Enzyme Geysersand when powered, can be used to extract Waterwhich can be fed into a water network.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1588,7 +1588,7 @@
     {
       "name": "Wood",
       "url": "https://icarus.fandom.com/wiki/Wood",
-      "description": "Wood is a basic crafting ingredient obtained from Trees using an axe or harvested by hand in theDesertvia Cacti. Wood can also be used as a Fuel source forCampfire,Fireplace, andStone Furnace.",
+      "description": "Wood is a basic crafting ingredient obtained from Trees using an axe or harvested by hand in the Desertvia Cacti. Wood can also be used as a Fuel source for Campfire,Fireplace, and Stone Furnace.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1627,7 +1627,7 @@
     {
       "name": "Wood Burner",
       "url": "https://icarus.fandom.com/wiki/Wood_Burner",
-      "description": "The Wood Burner is a source of heat and basic cooking similar to aCampfireorFireplace. It provides the Warming Fire effect (heat and +100% Perceived Threat) allowing a Prospector to sleep nearby. Once fuel is added, it can be activated and will consume fuel regardless of any selected recipe.",
+      "description": "The Wood Burner is a source of heat and basic cooking similar to a Campfireor Fireplace. It provides the Warming Fire effect (heat and +100% Perceived Threat) allowing a Prospector to sleep nearby. Once fuel is added, it can be activated and will consume fuel regardless of any selected recipe.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1648,7 +1648,7 @@
     {
       "name": "Wood Composter",
       "url": "https://icarus.fandom.com/wiki/Wood_Composter",
-      "description": "Wood Composter increases the rate at which food spoils, and will turnSpoiled PlantsorGuanointoBasic Fertilizer.",
+      "description": "Wood Composter increases the rate at which food spoils, and will turn Spoiled Plantsor Guanointo Basic Fertilizer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1669,7 +1669,7 @@
     {
       "name": "Wood Crop Plot",
       "url": "https://icarus.fandom.com/wiki/Wood_Crop_Plot",
-      "description": "The Wood Crop Plot is a farming plot for growingSeedsthat can later be harvested forPlant Resourcesonce fully grown. Unless the Prospector has theFresh Is Besttalent when deploying a seed into the crop plot, the grownPlant Resourcewill eventually wither if not harvested.",
+      "description": "The Wood Crop Plot is a farming plot for growing Seedsthat can later be harvested for Plant Resourcesonce fully grown. Unless the Prospector has the Fresh Is Besttalent when deploying a seed into the crop plot, the grown Plant Resourcewill eventually wither if not harvested.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1690,7 +1690,7 @@
     {
       "name": "Wood Cupboard",
       "url": "https://icarus.fandom.com/wiki/Wood_Cupboard",
-      "description": "Taking up the same floor-space but with a much larger inventory, this is a great upgrade from theMedium Wood Crate.",
+      "description": "Taking up the same floor-space but with a much larger inventory, this is a great upgrade from the Medium Wood Crate.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1732,7 +1732,7 @@
     {
       "name": "Wood Gate Fortification",
       "url": "https://icarus.fandom.com/wiki/Wood_Gate_Fortification",
-      "description": "The Wood Gate Fortification serves as an entrance when usingWood Wall Fortifications. Similar toMedium Wood Hedgehogs, the Wood Gate Fortification does not take damage during storms.Wood Spikes Fortificationcannot be mounted to the Wood Gate Fortification.",
+      "description": "The Wood Gate Fortification serves as an entrance when using Wood Wall Fortifications. Similar to Medium Wood Hedgehogs, the Wood Gate Fortification does not take damage during storms.Wood Spikes Fortificationcannot be mounted to the Wood Gate Fortification.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1753,7 +1753,7 @@
     {
       "name": "Wood Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Wood_Halfpieces",
-      "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Wood roofs or walls require a floor or wall structure such asWood Wallfor snapping. Hold 'R' while placing the Wood Halfpieces itself to determine shape as well as placement as roof, or wall.",
+      "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection to Deployablesand Storagecontainers. Wood roofs or walls require a floor or wall structure such as Wood Wallfor snapping. Hold 'R' while placing the Wood Halfpieces itself to determine shape as well as placement as roof, or wall.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1774,7 +1774,7 @@
     {
       "name": "Wood Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Wood_Halfpitches",
-      "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Wood roofs or walls require a floor or wall structure such asWood Wallfor snapping. Hold 'R' while placing the Wood Halfpitches itself to determine shape as well as placement as roof, or wall.",
+      "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection to Deployablesand Storagecontainers. Wood roofs or walls require a floor or wall structure such as Wood Wallfor snapping. Hold 'R' while placing the Wood Halfpitches itself to determine shape as well as placement as roof, or wall.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1795,7 +1795,7 @@
     {
       "name": "Wood Javelin",
       "url": "https://icarus.fandom.com/wiki/Wood_Javelin",
-      "description": "The Wood Javelin is a variant of theWood Spearthat can only be thrown. The Wood Javelin has the slowest projectile travel time and highest projectile fall-off, but that can be overlooked by it's cheap producibility.",
+      "description": "The Wood Javelin is a variant of the Wood Spearthat can only be thrown. The Wood Javelin has the slowest projectile travel time and highest projectile fall-off, but that can be overlooked by it's cheap producibility.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1816,7 +1816,7 @@
     {
       "name": "Wood Ladder",
       "url": "https://icarus.fandom.com/wiki/Wood_Ladder",
-      "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Wood Ladders can be use with Trapdoor holes (hold R while holding a floor building piece and select the Trapdoor variant from the radial wheel). Does not snap to trapdoor holes.",
+      "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offer good protection to Deployablesand Storagecontainers. Wood Ladders can be use with Trapdoor holes (hold R while holding a floor building piece and select the Trapdoor variant from the radial wheel). Does not snap to trapdoor holes.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1840,7 +1840,7 @@
     {
       "name": "Wood Pile",
       "url": "https://icarus.fandom.com/wiki/Wood_Pile",
-      "description": "The Wood Pile, alongside theStone Pile, are makeshift storage options for large quantities of each raw material. Though immune to mostWeatherdamage, beware of lightning strikes. Can be used as a durable barrier toFauna, especially against Fauna like theGrizzly Bear, although the stone variant is preferred.",
+      "description": "The Wood Pile, alongside the Stone Pile, are makeshift storage options for large quantities of each raw material. Though immune to most Weatherdamage, beware of lightning strikes. Can be used as a durable barrier to Fauna, especially against Fauna like the Grizzly Bear, although the stone variant is preferred.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1900,7 +1900,7 @@
     {
       "name": "Wood Railing",
       "url": "https://icarus.fandom.com/wiki/Wood_Railing",
-      "description": "The Wood Railing is part of theWood Building Trim Set, which is learned in theTier 1Tech Tree after unlocking theWood Building Base Set.",
+      "description": "The Wood Railing is part of the Wood Building Trim Set, which is learned in the Tier 1 Tech Tree after unlocking the Wood Building Base Set.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1924,7 +1924,7 @@
     {
       "name": "Wood Railing Gate",
       "url": "https://icarus.fandom.com/wiki/Wood_Railing_Gate",
-      "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offers good protection toDeployablesandStoragecontainers. Wood Railing Gates can be deployed on their own or can be snapped to railings/floors.",
+      "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offers good protection to Deployablesand Storagecontainers. Wood Railing Gates can be deployed on their own or can be snapped to railings/floors.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1974,7 +1974,7 @@
     {
       "name": "Wood Spikes Fortification",
       "url": "https://icarus.fandom.com/wiki/Wood_Spikes_Fortification",
-      "description": "The Wood Spikes Fortification serves as large hedgehog that can attachWood Wall Fortificationsto fend off the predators of Icarus. Similar toMedium Wood Hedgehogs, the Wood Spikes Fortification does not take damage during storms.",
+      "description": "The Wood Spikes Fortification serves as large hedgehog that can attach Wood Wall Fortificationsto fend off the predators of Icarus. Similar to Medium Wood Hedgehogs, the Wood Spikes Fortification does not take damage during storms.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1995,7 +1995,7 @@
     {
       "name": "Wood Walkway Fortification",
       "url": "https://icarus.fandom.com/wiki/Wood_Walkway_Fortification",
-      "description": "The Wood Walkway Fortification is attached toWood Wall Fortificationsand serves as a platform that Prospectors can stand on, providing them a vantage point to see over their walls. Similar toMedium Wood Hedgehogs, the Wood Walkway Fortification does not take damage during storms.",
+      "description": "The Wood Walkway Fortification is attached to Wood Wall Fortificationsand serves as a platform that Prospectors can stand on, providing them a vantage point to see over their walls. Similar to Medium Wood Hedgehogs, the Wood Walkway Fortification does not take damage during storms.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2016,7 +2016,7 @@
     {
       "name": "Wooden Lure",
       "url": "https://icarus.fandom.com/wiki/Wooden_Lure",
-      "description": "The Wooden Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. Like allLures, the Wooden Lure degrades with use and will eventually break after ten uses.",
+      "description": "The Wooden Lure can be attached to a Fishing Rodor a Basic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. Like all Lures, the Wooden Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2041,7 +2041,7 @@
     {
       "name": "Wooden Shovel",
       "url": "https://icarus.fandom.com/wiki/Wooden_Shovel",
-      "description": "The Wooden Shovel is an early-gameToolused to createDirt Mounds(right-click), harvestIce/Dirt/Sand(left-click), or remove ash/snow buildup on structures in theArctic/Volcanicbiomes on Icarus.",
+      "description": "The Wooden Shovel is an early-game Toolused to create Dirt Mounds(right-click), harvest Ice/Dirt/Sand(left-click), or remove ash/snow buildup on structures in the Arctic/Volcanicbiomes on Icarus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",

@@ -5,7 +5,7 @@
     {
       "name": "Advanced Alteration Bench",
       "url": "https://icarus.fandom.com/wiki/Advanced_Alteration_Bench",
-      "description": "The Advanced Alteration Bench is a late game technology that allows prospectors to create Attachment Packs (Tier 3) and Advanced Attachment Packs (Tier 4) to upgrade armor pieces, ranged weapons, and tools. An active power connection providing at least 1,500electricityto craft Attachment Packs is required. A power connection is not required to add and remove Attachment packs from items.",
+      "description": "The Advanced Alteration Bench is a late game technology that allows prospectors to create Attachment Packs (Tier 3 ) and Advanced Attachment Packs (Tier 4 ) to upgrade armor pieces, ranged weapons, and tools. An active power connection providing at least 1,500electricityto craft Attachment Packs is required. A power connection is not required to add and remove Attachment packs from items.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -32,7 +32,7 @@
     {
       "name": "Advanced Masonry Bench",
       "url": "https://icarus.fandom.com/wiki/Advanced_Masonry_Bench",
-      "description": "The Advanced Masonry Bench enables the construction ofScoria Brick Building PiecesandClay Brick Building Piecesand is able to craft items made theMasonry Benchat a faster rate, but only once the prospector researches the blueprint sets for those building pieces.",
+      "description": "The Advanced Masonry Bench enables the construction of Scoria Brick Building Piecesand Clay Brick Building Piecesand is able to craft items made the Masonry Benchat a faster rate, but only once the prospector researches the blueprint sets for those building pieces.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -53,7 +53,7 @@
     {
       "name": "Advanced Textiles Bench",
       "url": "https://icarus.fandom.com/wiki/Advanced_Textiles_Bench",
-      "description": "Allows for the crafting of more advancedArmorsets,Cured LeatherandPlatinum Weave. The Advanced Textiles Bench is also able to craft items made at theTextiles Bench, removing the need for multiple benches.",
+      "description": "Allows for the crafting of more advanced Armorsets,Cured Leatherand Platinum Weave. The Advanced Textiles Bench is also able to craft items made at the Textiles Bench, removing the need for multiple benches.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -101,7 +101,7 @@
     {
       "name": "Aluminium Beam",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Beam",
-      "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with aRepair Hammer.",
+      "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -122,7 +122,7 @@
     {
       "name": "Aluminium Door",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Door",
-      "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with aRepair Hammer.",
+      "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -143,7 +143,7 @@
     {
       "name": "Aluminium Floor",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Floor",
-      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with aRepair Hammer.",
+      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -164,7 +164,7 @@
     {
       "name": "Aluminium Floor Trapdoor",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Floor_Trapdoor",
-      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with aRepair Hammer.",
+      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -185,7 +185,7 @@
     {
       "name": "Aluminium Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Halfpieces",
-      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with aRepair Hammer.",
+      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -206,7 +206,7 @@
     {
       "name": "Aluminium Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Halfpitches",
-      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with aRepair Hammer.",
+      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -227,7 +227,7 @@
     {
       "name": "Aluminium Ladder",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Ladder",
-      "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with aRepair Hammer.",
+      "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -248,7 +248,7 @@
     {
       "name": "Aluminium Railing",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Railing",
-      "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with aRepair Hammer.",
+      "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -269,7 +269,7 @@
     {
       "name": "Aluminium Ramp",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Ramp",
-      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with aRepair Hammer.",
+      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -290,7 +290,7 @@
     {
       "name": "Aluminium Roof",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Roof",
-      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with aRepair Hammer.",
+      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -311,7 +311,7 @@
     {
       "name": "Aluminium Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Roof_Corner",
-      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with aRepair Hammer.",
+      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -332,7 +332,7 @@
     {
       "name": "Aluminium Stairs",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Stairs",
-      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with aRepair Hammer.",
+      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -353,7 +353,7 @@
     {
       "name": "Aluminium Trapdoor",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Trapdoor",
-      "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with aRepair Hammer.",
+      "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -374,7 +374,7 @@
     {
       "name": "Aluminium Wall",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Wall",
-      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with aRepair Hammer.",
+      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -395,7 +395,7 @@
     {
       "name": "Aluminium Wall Angled",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Wall_Angled",
-      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with aRepair Hammer.",
+      "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -416,7 +416,7 @@
     {
       "name": "Aluminium Window",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Window",
-      "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with aRepair Hammer.",
+      "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -437,7 +437,7 @@
     {
       "name": "Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Animal_Bed",
-      "description": "The Animal Bed serves as a place for juvenile animals to sleep while taming and is required to tame juvenile animals. TamedMountsandPetscan also use the Animal Bed when tired.",
+      "description": "The Animal Bed serves as a place for juvenile animals to sleep while taming and is required to tame juvenile animals. Tamed Mountsand Petscan also use the Animal Bed when tired.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -461,7 +461,7 @@
     {
       "name": "Anvil Bench",
       "url": "https://icarus.fandom.com/wiki/Anvil_Bench",
-      "description": "The Anvil Bench is unlocked near the start of theTier 2Tech Tree. It enables the Prospector to craft higher quality tools such as theIron PickaxeandSteel Pickaxe. It is also where these tools can be repaired. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under a severely damaged roof) in storms.",
+      "description": "The Anvil Bench is unlocked near the start of the Tier 2 Tech Tree. It enables the Prospector to craft higher quality tools such as the Iron Pickaxeand Steel Pickaxe. It is also where these tools can be repaired. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under a severely damaged roof) in storms.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -486,7 +486,7 @@
     {
       "name": "Arctic Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Arctic_Chest_Armor",
-      "description": "Arctic Armor is a major upgrade toFur Armor, offering unrivaled cold resistance.",
+      "description": "Arctic Armor is a major upgrade to Fur Armor, offering unrivaled cold resistance.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -554,7 +554,7 @@
     {
       "name": "Art Deco Bed",
       "url": "https://icarus.fandom.com/wiki/Art_Deco_Bed",
-      "description": "The Art Deco Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game.  In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod. The Art Deco Bed has the best sleep quality of any bed.",
+      "description": "The Art Deco Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod. The Art Deco Bed has the best sleep quality of any bed.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -722,7 +722,7 @@
     {
       "name": "Art Deco Wall Sign",
       "url": "https://icarus.fandom.com/wiki/Art_Deco_Wall_Sign",
-      "description": "The Art Deco Wall Sign is an gilded wall sign for labelled cupboards or other items in theArt Decostyle.",
+      "description": "The Art Deco Wall Sign is an gilded wall sign for labelled cupboards or other items in the Art Decostyle.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -768,7 +768,7 @@
     {
       "name": "Basic Fishing Bench",
       "url": "https://icarus.fandom.com/wiki/Basic_Fishing_Bench",
-      "description": "The Basic Fishing Bench is where Prospectors can craft theWooden Fishing Rodand theRefined Wood Fishing Rod, as well as variousLureson the left hand side of the bench. The right side of the bench is used to fillet any fish caught using aFishing Rodor Fishing Trap. Does not require shelter to be used.",
+      "description": "The Basic Fishing Bench is where Prospectors can craft the Wooden Fishing Rodand the Refined Wood Fishing Rod, as well as various Lureson the left hand side of the bench. The right side of the bench is used to fillet any fish caught using a Fishing Rodor Fishing Trap. Does not require shelter to be used.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -819,7 +819,7 @@
     {
       "name": "Bedroll",
       "url": "https://icarus.fandom.com/wiki/Bedroll",
-      "description": "The Bedroll allows prospectors to sleep provided it is sufficiently sheltered, a campfire/heater/dehumidifier/etc is nearby, and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Sleeping will provide the Well RestedStatus Effect. Prospectors can set their respawn location to a bedroll, however if this bedroll is picked up or destroyed, the prospector's spawn location will reset back to their drop pod.",
+      "description": "The Bedroll allows prospectors to sleep provided it is sufficiently sheltered, a campfire/heater/dehumidifier/etc is nearby, and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Sleeping will provide the Well Rested Status Effect. Prospectors can set their respawn location to a bedroll, however if this bedroll is picked up or destroyed, the prospector's spawn location will reset back to their drop pod.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -845,7 +845,7 @@
     {
       "name": "Beeswax Wood Floor",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Floor_Trapdoor",
-      "description": "Reinforced wood building pieces can be unlocked inTier 2of theTech Tree. These building pieces are more resistant to damage than their earlierWoodversions with the inclusion ofBeeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree. These building pieces are more resistant to damage than their earlier Woodversions with the inclusion of Beeswax",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -870,7 +870,7 @@
     {
       "name": "Beeswax Wood Ramp",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Roof",
-      "description": "Reinforced wood building pieces can be unlocked inTier 2of theTech Tree. These building pieces are more resistant to damage than their earlierWoodversions with the inclusion ofBeeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree. These building pieces are more resistant to damage than their earlier Woodversions with the inclusion of Beeswax",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -895,7 +895,7 @@
     {
       "name": "Beeswax Wood Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Roof_Corner",
-      "description": "Reinforced wood building pieces can be unlocked inTier 2of theTech Tree. These building pieces are more resistant to damage than their earlierWoodversions with the inclusion ofBeeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree. These building pieces are more resistant to damage than their earlier Woodversions with the inclusion of Beeswax",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -920,7 +920,7 @@
     {
       "name": "Beeswax Wood Wall",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Wall",
-      "description": "Reinforced wood building pieces can be unlocked inTier 2of theTech Tree. These building pieces are more resistant to damage than their earlierWoodversions with the inclusion ofBeeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree. These building pieces are more resistant to damage than their earlier Woodversions with the inclusion of Beeswax",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -945,7 +945,7 @@
     {
       "name": "Beeswax Wood Wall Angled",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Wall_Angled",
-      "description": "Reinforced wood building pieces can be unlocked inTier 2of theTech Tree. These building pieces are more resistant to damage than their earlierWoodversions with the inclusion ofBeeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree. These building pieces are more resistant to damage than their earlier Woodversions with the inclusion of Beeswax",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -970,7 +970,7 @@
     {
       "name": "Black Tusker Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Black_Tusker_Animal_Bed",
-      "description": "The Black Tusker Animal Bed is a bed forMountsandPetsthat has a tusker theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+      "description": "The Black Tusker Animal Bed is a bed for Mountsand Petsthat has a tusker theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -995,7 +995,7 @@
     {
       "name": "Bone Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Chest_Armor",
-      "description": "Bone Armor provides relatively good protection from Icarus' fauna as aTier 1armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
+      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1019,7 +1019,7 @@
     {
       "name": "Brown Bear Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Brown_Bear_Chest_Armor",
-      "description": "Brown Bear Armor is an upgrade toBone Armor, offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with theCalibrated Grip Attachments andAttack Speed Attachments, further increasing knife attack speed.",
+      "description": "Brown Bear Armor is an upgrade to Bone Armor, offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachments and Attack Speed Attachments, further increasing knife attack speed.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1149,7 +1149,7 @@
     {
       "name": "Brutalist Lounge Chair",
       "url": "https://icarus.fandom.com/wiki/Brutalist_Lounge_Chair",
-      "description": "The Brutalist Lounge Chair is a minimalist chair made with concrete and leather in the Brutalist design aesthetic. It serves as a seat for Prospectors and provides a small bonus toCoziness.",
+      "description": "The Brutalist Lounge Chair is a minimalist chair made with concrete and leather in the Brutalist design aesthetic. It serves as a seat for Prospectors and provides a small bonus to Coziness.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1212,7 +1212,7 @@
     {
       "name": "Brutalist Wall Shelf",
       "url": "https://icarus.fandom.com/wiki/Brutalist_Wall_Shelf",
-      "description": "The Brutalist Wall Shelf is a decorative shelf for holding small items such asLampsor smallTrophies. It provides a small bonus toCoziness.",
+      "description": "The Brutalist Wall Shelf is a decorative shelf for holding small items such as Lampsor small Trophies. It provides a small bonus to Coziness.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1233,7 +1233,7 @@
     {
       "name": "Burlap Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Burlap_Animal_Bed",
-      "description": "The Burlap Animal Bed is a bed forMountsandPetsthat has a basic theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+      "description": "The Burlap Animal Bed is a bed for Mountsand Petsthat has a basic theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1319,7 +1319,7 @@
     {
       "name": "Carved Wood Bed",
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Bed",
-      "description": "The Carved Wood Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game.  In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod.",
+      "description": "The Carved Wood Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1424,7 +1424,7 @@
     {
       "name": "Carved Wood Sitting Bench",
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Sitting_Bench",
-      "description": "The Carved Wood Sitting Bench is a decorative wooden bench that provides seating and a small bonus toCoziness.",
+      "description": "The Carved Wood Sitting Bench is a decorative wooden bench that provides seating and a small bonus to Coziness.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1445,7 +1445,7 @@
     {
       "name": "Carved Wood Table",
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Table",
-      "description": "The Carved Wood Table is a decorative table with seating for six and a bonus toCoziness.",
+      "description": "The Carved Wood Table is a decorative table with seating for six and a bonus to Coziness.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1487,7 +1487,7 @@
     {
       "name": "Charging Station",
       "url": "https://icarus.fandom.com/wiki/Charging_Station",
-      "description": "The Charging Station charges basic battery powered devices like theFlashlightand requires 500Wattsto function.",
+      "description": "The Charging Station charges basic battery powered devices like the Flashlightand requires 500Wattsto function.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1515,7 +1515,7 @@
     {
       "name": "Chemistry Bench",
       "url": "https://icarus.fandom.com/wiki/Chemistry_Bench",
-      "description": "Grants the Prospector the ability to swiftly createMedicine,Fertilizer,Volatile SubstanceandDistilled Miasmic Coating.",
+      "description": "Grants the Prospector the ability to swiftly create Medicine,Fertilizer,Volatile Substanceand Distilled Miasmic Coating.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1877,7 +1877,7 @@
     {
       "name": "Concrete Furnace",
       "url": "https://icarus.fandom.com/wiki/Concrete_Furnace",
-      "description": "Made at theMachining Bench, this Tier 3 furnace allows the smelting of mid-tier ores such asSteel Ingot+Super Cooled IceintoCold Steel IngotsandTitanium OreintoTitanium Ingots.",
+      "description": "Made at the Machining Bench, this Tier 3  furnace allows the smelting of mid-tier ores such as Steel Ingot+Super Cooled Iceinto Cold Steel Ingotsand Titanium Oreinto Titanium Ingots.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2125,7 +2125,7 @@
     {
       "name": "Crafting Bench",
       "url": "https://icarus.fandom.com/wiki/Crafting_Bench",
-      "description": "The Crafting Bench allows the prospector to craftTier 2items. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under severely damaged roof) in storms.",
+      "description": "The Crafting Bench allows the prospector to craft Tier 2 items. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under severely damaged roof) in storms.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2146,7 +2146,7 @@
     {
       "name": "Crumbed Saltwater Fillet",
       "url": "https://icarus.fandom.com/wiki/Crumbed_Saltwater_Fillet",
-      "description": "Crumbed Saltwater Fillet is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "description": "Crumbed Saltwater Fillet is a Foodwith a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2164,7 +2164,7 @@
     {
       "name": "Cured Leather Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Cured_Leather_Chest_Armor",
-      "description": "Cured Leather Armor is an upgrade toLeather Armor, providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
+      "description": "Cured Leather Armor is an upgrade to Leather Armor, providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2188,7 +2188,7 @@
     {
       "name": "Decoration Bench",
       "url": "https://icarus.fandom.com/wiki/Decoration_Bench",
-      "description": "Although prospectors may not use this bench often, it is required to completeHomestead: Construction.",
+      "description": "Although prospectors may not use this bench often, it is required to complete Homestead: Construction.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2214,7 +2214,7 @@
     {
       "name": "Dirt Corner",
       "url": "https://icarus.fandom.com/wiki/Dirt_Corner",
-      "description": "Dirt Corners are aTier 1buildable that are used in tandem withDirt Ramps, allowing for the creation of rounded ramps. Due to the nature of its building material, Dirt Corners must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
+      "description": "Dirt Corners are a Tier 1 buildable that are used in tandem with Dirt Ramps, allowing for the creation of rounded ramps. Due to the nature of its building material, Dirt Corners must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2237,7 +2237,7 @@
     {
       "name": "Dirt Foundation",
       "url": "https://icarus.fandom.com/wiki/Dirt_Foundation",
-      "description": "Dirt Foundations are aTier 1buildable that serves as an alternative toThatch Beams/Wood Beamsthat provides a more natural look to structures. Due to the nature of its building material, Dirt Foundations must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
+      "description": "Dirt Foundations are a Tier 1 buildable that serves as an alternative to Thatch Beams/Wood Beamsthat provides a more natural look to structures. Due to the nature of its building material, Dirt Foundations must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2260,7 +2260,7 @@
     {
       "name": "Dirt Ramp",
       "url": "https://icarus.fandom.com/wiki/Dirt_Ramp",
-      "description": "Dirt Ramps are aTier 1buildable that serves as an alternative toThatch Ramps/Wood Rampsthat provides a more natural look to structures. Due to the nature of its building material, Dirt Ramps must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
+      "description": "Dirt Ramps are a Tier 1 buildable that serves as an alternative to Thatch Ramps/Wood Rampsthat provides a more natural look to structures. Due to the nature of its building material, Dirt Ramps must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2283,7 +2283,7 @@
     {
       "name": "Electric Carpentry Bench",
       "url": "https://icarus.fandom.com/wiki/Electric_Carpentry_Bench",
-      "description": "The Electric Carpentry Bench allows for manufacturing of refined wood deployables at a faster rate than theCarpentry Bench. Prospectors can use the Electric Carpentry Bench to craft furniture, like an improvedWooden Bed, and storage items like anInterior Wood Cupboard. The Electric Carpentry Bench can also create Interior Wood building pieces.",
+      "description": "The Electric Carpentry Bench allows for manufacturing of refined wood deployables at a faster rate than the Carpentry Bench. Prospectors can use the Electric Carpentry Bench to craft furniture, like an improved Wooden Bed, and storage items like an Interior Wood Cupboard. The Electric Carpentry Bench can also create Interior Wood building pieces.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2310,7 +2310,7 @@
     {
       "name": "Electric Furnace",
       "url": "https://icarus.fandom.com/wiki/Electric_Furnace",
-      "description": "The Electric Furnace is the end-game furnace capable of smeltingComposite PasteintoComposites, a material required for mostTier 4blueprints, and can refine all other minerals faster than the lower tier furnaces.",
+      "description": "The Electric Furnace is the end-game furnace capable of smelting Composite Pasteinto Composites, a material required for most Tier 4 blueprints, and can refine all other minerals faster than the lower tier furnaces.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2337,7 +2337,7 @@
     {
       "name": "Electric Masonry Bench",
       "url": "https://icarus.fandom.com/wiki/Electric_Masonry_Bench",
-      "description": "The Electric Masonry Bench enables the construction ofStone Building PiecesandConcrete Building Piecesat a faster rate than theMasonry BenchandCement Mixer, but only once the Prospector researches the blueprints for building pieces. The Electric Masonry Bench can also craft all building pieces made at theMasonry Bench/Advanced Masonry Bench.",
+      "description": "The Electric Masonry Bench enables the construction of Stone Building Piecesand Concrete Building Piecesat a faster rate than the Masonry Benchand Cement Mixer, but only once the Prospector researches the blueprints for building pieces. The Electric Masonry Bench can also craft all building pieces made at the Masonry Bench/Advanced Masonry Bench.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2358,7 +2358,7 @@
     {
       "name": "Electric Textiles Bench",
       "url": "https://icarus.fandom.com/wiki/Electric_Textiles_Bench",
-      "description": "A power connection providing at least 2,500 ofpoweris required to utilize this bench. Allows for the crafting of more advancedArmorsets and items that can be made at theTextiles BenchandAdvanced Textiles Bench.",
+      "description": "A power connection providing at least 2,500 ofpoweris required to utilize this bench. Allows for the crafting of more advanced Armorsets and items that can be made at the Textiles Benchand Advanced Textiles Bench.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2424,7 +2424,7 @@
     {
       "name": "Fabricator",
       "url": "https://icarus.fandom.com/wiki/Fabricator",
-      "description": "The Fabricator is the late-game crafting bench, it enables the crafting ofWeaponsandToolslike theCombat Knifeand aTitanium Pickaxe. It also enables the creation of power sources, such as theBiofuel Generator, and theRefrigerator.",
+      "description": "The Fabricator is the late-game crafting bench, it enables the crafting of Weaponsand Toolslike the Combat Knifeand a Titanium Pickaxe. It also enables the creation of power sources, such as the Biofuel Generator, and the Refrigerator.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2469,7 +2469,7 @@
     {
       "name": "Forge",
       "url": "https://icarus.fandom.com/wiki/Forge",
-      "description": "The Forge is theTier 3variant of theAnvil Benchthat will allow the Prospector to craft higher quality tools such as thePlatinum Pickaxe,Cold Steel Knife, etc and items crafted at theAnvil Bench(Iron Axe,Copper Nails, etc). It is also where these tools can be repaired. Unlike other benches, the Forge can be deployed and used outdoors as it does not require shelter. Can be used indoors or outdoors.",
+      "description": "The Forge is the Tier 3 variant of the Anvil Benchthat will allow the Prospector to craft higher quality tools such as the Platinum Pickaxe,Cold Steel Knife, etc and items crafted at the Anvil Bench(Iron Axe,Copper Nails, etc). It is also where these tools can be repaired. Unlike other benches, the Forge can be deployed and used outdoors as it does not require shelter. Can be used indoors or outdoors.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2495,7 +2495,7 @@
     {
       "name": "Fried Chunky Vegetables",
       "url": "https://icarus.fandom.com/wiki/Fried_Chunky_Vegetables",
-      "description": "Fried Chunky Vegetables is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "description": "Fried Chunky Vegetables is a Foodwith a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2513,7 +2513,7 @@
     {
       "name": "Fur Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Fur_Chest_Armor",
-      "description": "Fur armor is a sidegrade toLeather Armor, offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
+      "description": "Fur armor is a sidegrade to Leather Armor, offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2652,7 +2652,7 @@
     {
       "name": "Glass Roof",
       "url": "https://icarus.fandom.com/wiki/Glass_Roof",
-      "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items.  Can be crafted as Reinforced Glass, increasing resistance to weather up to the level of Stone building peices and increasing HP from 500 to 2500.",
+      "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items. Can be crafted as Reinforced Glass, increasing resistance to weather up to the level of Stone building peices and increasing HP from 500 to 2500.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2702,7 +2702,7 @@
     {
       "name": "Glass Wall",
       "url": "https://icarus.fandom.com/wiki/Glass_Wall",
-      "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items.  Can be crafted as Reinforced Glass, increasing resistance to weather up to the level of Stone building peices and increasing HP from 500 to 2500.",
+      "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items. Can be crafted as Reinforced Glass, increasing resistance to weather up to the level of Stone building peices and increasing HP from 500 to 2500.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2727,7 +2727,7 @@
     {
       "name": "Glass Wall Angled",
       "url": "https://icarus.fandom.com/wiki/Glass_Wall_Angled",
-      "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items.  Can be crafted as Reinforced Glass, increasing resistance to weather up to the level of Stone building peices and increasing HP from 500 to 2500.",
+      "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items. Can be crafted as Reinforced Glass, increasing resistance to weather up to the level of Stone building peices and increasing HP from 500 to 2500.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2777,7 +2777,7 @@
     {
       "name": "Glassworking Bench",
       "url": "https://icarus.fandom.com/wiki/Glassworking_Bench",
-      "description": "The Glassworking Bench is a mid-to-late game technology that allows Prospectors to createGlassresources and construction elements, like theGlass WindowandGlass Roof. In addition, Prospectors can create containers for food and beverages, such as theGlass BottleandGlass Jar.",
+      "description": "The Glassworking Bench is a mid-to-late game technology that allows Prospectors to create Glassresources and construction elements, like the Glass Windowand Glass Roof. In addition, Prospectors can create containers for food and beverages, such as the Glass Bottleand Glass Jar.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2804,7 +2804,7 @@
     {
       "name": "Heated Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Heated_Animal_Bed",
-      "description": "The Heated Animal Bed is a bed forMountsandPetsthat has a luxurious theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+      "description": "The Heated Animal Bed is a bed for Mountsand Petsthat has a luxurious theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2853,7 +2853,7 @@
     {
       "name": "Heavy Obsidian Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Chest_Armor",
-      "description": "Heavy Obsidian Armor is aTier 2armor specialized in heat resistance with a slightly higher physical resistance thanLeather Armorand a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armorand a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2899,7 +2899,7 @@
     {
       "name": "Herbalism Bench",
       "url": "https://icarus.fandom.com/wiki/Herbalism_Bench",
-      "description": "Allows for the crafting ofMedicinal Pastes and Tonicssuch asAntibiotic Tonicto cure ailments and afflictions.",
+      "description": "Allows for the crafting of Medicinal Pastes and Tonicssuch as Antibiotic Tonicto cure ailments and afflictions.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2920,7 +2920,7 @@
     {
       "name": "Hunter Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Hunter_Chest_Armor",
-      "description": "An upgrade toGhillie Armorwith over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
+      "description": "An upgrade to Ghillie Armorwith over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3135,7 +3135,7 @@
     {
       "name": "Interior Wood Beam",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Beam",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3156,7 +3156,7 @@
     {
       "name": "Interior Wood Door",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Door",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3177,7 +3177,7 @@
     {
       "name": "Interior Wood Floor",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Floor",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3198,7 +3198,7 @@
     {
       "name": "Interior Wood Ramp",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Stairs",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3219,7 +3219,7 @@
     {
       "name": "Interior Wood Trapdoor",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Trapdoor",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3240,7 +3240,7 @@
     {
       "name": "Interior Wood Wall",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Wall",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3261,7 +3261,7 @@
     {
       "name": "Interior Wood Wall Angled",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Wall_Angled",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3282,7 +3282,7 @@
     {
       "name": "Jaguar Buffalo Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Jaguar_Buffalo_Animal_Bed",
-      "description": "The Jaguar Buffalo Animal Bed is a bed forMountsandPetsthat has a Jaguar and Buffalo theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+      "description": "The Jaguar Buffalo Animal Bed is a bed for Mountsand Petsthat has a Jaguar and Buffalo theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3334,7 +3334,7 @@
     {
       "name": "Kitchen Storage Block",
       "url": "https://icarus.fandom.com/wiki/Kitchen_Storage_Block",
-      "description": "A Kitchen Storage Block made of refined wood and copper nails, use it to store your kitchen essentials. Must be snapped to aKitchen Benchto be placed. It has 40 inventory slots.",
+      "description": "A Kitchen Storage Block made of refined wood and copper nails, use it to store your kitchen essentials. Must be snapped to a Kitchen Benchto be placed. It has 40 inventory slots.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3355,7 +3355,7 @@
     {
       "name": "LM Beastmaster Chest Armor",
       "url": "https://icarus.fandom.com/wiki/LM_Beastmaster_Chest_Armor",
-      "description": "The LM Beastmaster Chest Armor is part of theLM Beastmaster Armor Set, which can be unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs toMountsand tamed creatures.",
+      "description": "The LM Beastmaster Chest Armor is part of the LM Beastmaster Armor Set, which can be unlocked in the Workshopon the Space Stationand is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs to Mountsand tamed creatures.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3397,7 +3397,7 @@
     {
       "name": "Leather Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Chest_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus'Fauna, but it offers more physical protection and thermal insulation than itsTier 1counterparts, serving as a decent all-around armor forTier 2.",
+      "description": "Leather armor may not offer much protection when fighting against Icarus'Fauna, but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3461,7 +3461,7 @@
     {
       "name": "MXC Furnace",
       "url": "https://icarus.fandom.com/wiki/MXC_Furnace",
-      "description": "The MXC Furnace is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospector's loadout before starting a new prospect. The MXC Furnace functions like a smaller, more lightweightStone Furnace, and allows for processing ofIron Ore,Copper Ore, andSteel Bloominto ingots.",
+      "description": "The MXC Furnace is unlocked in the Workshopon the Space Stationand is equipped in the Prospector's loadout before starting a new prospect. The MXC Furnace functions like a smaller, more lightweight Stone Furnace, and allows for processing of Iron Ore,Copper Ore, and Steel Bloominto ingots.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3482,7 +3482,7 @@
     {
       "name": "Machining Bench",
       "url": "https://icarus.fandom.com/wiki/Machining_Bench",
-      "description": "Mid-level crafting system made at theCrafting Bench, the Machining Bench provides access toTier 3Blueprints. Prospectors can use it to createDeployablesandFirearms.",
+      "description": "Mid-level crafting system made at the Crafting Bench, the Machining Bench provides access to Tier 3 Blueprints. Prospectors can use it to create Deployablesand Firearms.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3503,7 +3503,7 @@
     {
       "name": "Marble Kitchen Bench",
       "url": "https://icarus.fandom.com/wiki/Marble_Kitchen_Bench",
-      "description": "The Marble Kitchen Bench is a late-game crafting bench that expands on cooking foods and contains the recipes that can be found in theCooking Station. Crafts 50% faster than theKitchen Bench. A water connection is not required for the Marble Kitchen Bench to function.",
+      "description": "The Marble Kitchen Bench is a late-game crafting bench that expands on cooking foods and contains the recipes that can be found in the Cooking Station. Crafts 50% faster than the Kitchen Bench. A water connection is not required for the Marble Kitchen Bench to function.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3524,7 +3524,7 @@
     {
       "name": "Marble Kitchen Storage",
       "url": "https://icarus.fandom.com/wiki/Marble_Kitchen_Storage",
-      "description": "The Marble Kitchen Storage is used to store kitchen essentials and must be snapped to aKitchen Benchto be placed. The Marble Kitchen Storage has 40 slots.",
+      "description": "The Marble Kitchen Storage is used to store kitchen essentials and must be snapped to a Kitchen Benchto be placed. The Marble Kitchen Storage has 40 slots.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3545,7 +3545,7 @@
     {
       "name": "Masonry Bench",
       "url": "https://icarus.fandom.com/wiki/Masonry_Bench",
-      "description": "The Masonry Bench enables the construction ofStone Building PiecesandScoria Building Pieces, but only once the prospector researches the blueprint sets for those building pieces.",
+      "description": "The Masonry Bench enables the construction of Stone Building Piecesand Scoria Building Pieces, but only once the prospector researches the blueprint sets for those building pieces.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3566,7 +3566,7 @@
     {
       "name": "Medicine Bench",
       "url": "https://icarus.fandom.com/wiki/Medicine_Bench",
-      "description": "Allows for the crafting ofMedicinal Pastes and Tonicssuch asAntibiotic Pill,Survival KitsandHealth Recovery Elixirto cure and prevent ailments and afflictions. It can also be used to craftVolatile SubstanceandFertilizer.",
+      "description": "Allows for the crafting of Medicinal Pastes and Tonicssuch as Antibiotic Pill,Survival Kitsand Health Recovery Elixirto cure and prevent ailments and afflictions. It can also be used to craft Volatile Substanceand Fertilizer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3608,7 +3608,7 @@
     {
       "name": "Obsidian Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Obsidian_Chest_Armor",
-      "description": "Obsidian Armor is a sidegrade ofComposite Armor, providing slightly more physical resistance and a substantial bonus to heat resistance.",
+      "description": "Obsidian Armor is a sidegrade of Composite Armor, providing slightly more physical resistance and a substantial bonus to heat resistance.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3634,7 +3634,7 @@
     {
       "name": "Plumbed Sink",
       "url": "https://icarus.fandom.com/wiki/Plumbed_Sink",
-      "description": "The Plumbed Sink is bench that can be connected to other Marble Appliances and, when connected to active water connection, provides a short buff when interacted with. The Buff increases crafting speed, movement speed, health regeneration, and reduced water and food consumption. 250 units ofWateris required for the Plumbed Sink to function.",
+      "description": "The Plumbed Sink is bench that can be connected to other Marble Appliances and, when connected to active water connection, provides a short buff when interacted with. The Buff increases crafting speed, movement speed, health regeneration, and reduced water and food consumption. 250 units of Wateris required for the Plumbed Sink to function.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3682,7 +3682,7 @@
     {
       "name": "Portable Biofuel Generator",
       "url": "https://icarus.fandom.com/wiki/Portable_Biofuel_Generator",
-      "description": "The Portable Biofuel Generator generatesElectricitywhen supplied with biofuel from aBiofuel Can.",
+      "description": "The Portable Biofuel Generator generates Electricitywhen supplied with biofuel from a Biofuel Can.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3703,7 +3703,7 @@
     {
       "name": "Portable Biofuel Tank",
       "url": "https://icarus.fandom.com/wiki/Portable_Biofuel_Tank",
-      "description": "Portable Biofuel Tank is used forBiofuelstorage. It is either filled at theBiofuel ComposterorElectric Composter.",
+      "description": "Portable Biofuel Tank is used for Biofuelstorage. It is either filled at the Biofuel Composteror Electric Composter.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3724,7 +3724,7 @@
     {
       "name": "Portable Icebox Backpack",
       "url": "https://icarus.fandom.com/wiki/Portable_Icebox_Backpack",
-      "description": "A handy backpack to prevent your food from spoiling on long journeys. Will run for 1 hour on a full charge. Can be recharged at aCharging Station.",
+      "description": "A handy backpack to prevent your food from spoiling on long journeys. Will run for 1 hour on a full charge. Can be recharged at a Charging Station.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3750,7 +3750,7 @@
     {
       "name": "Portable Water Tank",
       "url": "https://icarus.fandom.com/wiki/Portable_Water_Tank",
-      "description": "Portable Water Tank is a deployable that can be connected to a water network once placed to store 150,000 of water and can output 1,000 water per second to keep the network operational. It is the equivalent to aWater Barrelwith having half of the storage, but it can be picked up into your character's Backpack/Equipment Slot (G).",
+      "description": "Portable Water Tank is a deployable that can be connected to a water network once placed to store 150,000 of water and can output 1,000 water per second to keep the network operational. It is the equivalent to a Water Barrelwith having half of the storage, but it can be picked up into your character's Backpack/Equipment Slot (G).",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3771,7 +3771,7 @@
     {
       "name": "Ranching Station",
       "url": "https://icarus.fandom.com/wiki/Ranching_Station",
-      "description": "The Ranching Station allows the prospector to craft variousTier 2equipment to use and maintain mounts and pets. This includes severalFood Troughs/Water Troughs,Animal Beds,Saddles/Carts,Animal Feed, and otherRanching Deployables. Must be placed outside.",
+      "description": "The Ranching Station allows the prospector to craft various Tier 2 equipment to use and maintain mounts and pets. This includes several Food Troughs/Water Troughs,Animal Beds,Saddles/Carts,Animal Feed, and other Ranching Deployables. Must be placed outside.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3798,7 +3798,7 @@
     {
       "name": "Regent Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Regent_Animal_Bed",
-      "description": "The Regent Animal Bed is a bed forMountsandPetsthat has a luxurious theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+      "description": "The Regent Animal Bed is a bed for Mountsand Petsthat has a luxurious theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3863,7 +3863,7 @@
     {
       "name": "Reinforced Door",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Door",
-      "description": "The Reinforced Door is part of theReinforced Wood Building Trim Set, which is learned in theTier 2Tech Tree after unlocking theCarpentry Bench. Can be repaired with aHammer.",
+      "description": "The Reinforced Door is part of the Reinforced Wood Building Trim Set, which is learned in the Tier 2 Tech Tree after unlocking the Carpentry Bench. Can be repaired with a Hammer.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3889,7 +3889,7 @@
     {
       "name": "Reinforced Glass Beam",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Beam",
-      "description": "Reinforced Glass Beam is a building piece made fromReinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
+      "description": "Reinforced Glass Beam is a building piece made from Reinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3913,7 +3913,7 @@
     {
       "name": "Reinforced Glass Floor",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Floor",
-      "description": "Reinforced Glass Floor is a building piece made fromReinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
+      "description": "Reinforced Glass Floor is a building piece made from Reinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3938,7 +3938,7 @@
     {
       "name": "Reinforced Glass Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Halfpieces",
-      "description": "Reinforced Glass Halfpieces are building pieces made fromReinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
+      "description": "Reinforced Glass Halfpieces are building pieces made from Reinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3963,7 +3963,7 @@
     {
       "name": "Reinforced Glass Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Halfpitches",
-      "description": "Reinforced Glass Halfpitches are building pieces made fromReinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
+      "description": "Reinforced Glass Halfpitches are building pieces made from Reinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3988,7 +3988,7 @@
     {
       "name": "Reinforced Glass Roof",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Roof",
-      "description": "Reinforced Glass Roof is a building piece made fromReinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
+      "description": "Reinforced Glass Roof is a building piece made from Reinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4013,7 +4013,7 @@
     {
       "name": "Reinforced Glass Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Roof_Corner",
-      "description": "Reinforced Glass Roof Corner is a building piece made fromReinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
+      "description": "Reinforced Glass Roof Corner is a building piece made from Reinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4038,7 +4038,7 @@
     {
       "name": "Reinforced Glass Wall",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Wall",
-      "description": "Reinforced Glass Wall is a reinforced and more durable version of aGlass Wall. It is used as aBuilding Piecefor constructing a glass wall section such as for a greenhouse.",
+      "description": "Reinforced Glass Wall is a reinforced and more durable version of a Glass Wall. It is used as a Building Piecefor constructing a glass wall section such as for a greenhouse.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4063,7 +4063,7 @@
     {
       "name": "Reinforced Glass Wall Angled",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Wall_Angled",
-      "description": "Reinforced Glass Wall Angled is a building piece made fromReinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
+      "description": "Reinforced Glass Wall Angled is a building piece made from Reinforced Glassthat provides more durability and resistance to weather than standard glass buildings.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4085,7 +4085,7 @@
     {
       "name": "Reinforced Ladder",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Ladder",
-      "description": "Reinforced Building Pieces at learned in theTier 2Tech Tree after unlocking theMasonry Bench, and other required Stone Bulding Pieces first. Can be repaired with aRepair Hammer.",
+      "description": "Reinforced Building Pieces at learned in the Tier 2 Tech Tree after unlocking the Masonry Bench, and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4106,7 +4106,7 @@
     {
       "name": "Reinforced Railing",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Railing",
-      "description": "Reinforced Building Pieces at learned in theTier 2Tech Tree after unlocking theMasonry Bench, and other required Stone Bulding Pieces first. Can be repaired with aRepair Hammer.",
+      "description": "Reinforced Building Pieces at learned in the Tier 2 Tech Tree after unlocking the Masonry Bench, and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4127,7 +4127,7 @@
     {
       "name": "Reinforced Trapdoor",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Trapdoor",
-      "description": "Reinforced Building Pieces at learned in theTier 2Tech Tree after unlocking theMasonry Bench, and other required Stone Bulding Pieces first. Can be repaired with aRepair Hammer.",
+      "description": "Reinforced Building Pieces at learned in the Tier 2 Tech Tree after unlocking the Masonry Bench, and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4148,7 +4148,7 @@
     {
       "name": "Reinforced Window",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Window",
-      "description": "Reinforced Building Pieces at learned in theTier 2Tech Tree after unlocking theMasonry Bench, and other required Stone Bulding Pieces first. Can be repaired with aRepair Hammer.",
+      "description": "Reinforced Building Pieces at learned in the Tier 2 Tech Tree after unlocking the Masonry Bench, and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4169,7 +4169,7 @@
     {
       "name": "Repair Bench",
       "url": "https://icarus.fandom.com/wiki/Repair_Bench",
-      "description": "The Repair Bench has the ability to repair all items you’re wearing or have placed on the bench with a single click, regardless of where they were crafted. When combined with a power connection (1,500electricity) it can also repairTier 4and Orbital Workshop items. To repair Orbital Workshop Items, aWorkshop Repair Kitis required.",
+      "description": "The Repair Bench has the ability to repair all items you’re wearing or have placed on the bench with a single click, regardless of where they were crafted. When combined with a power connection (1,500electricity) it can also repair Tier 4 and Orbital Workshop items. To repair Orbital Workshop Items, a Workshop Repair Kitis required.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4195,7 +4195,7 @@
     {
       "name": "Roast Vegetables",
       "url": "https://icarus.fandom.com/wiki/Roast_Vegetables",
-      "description": "Roast Vegetables is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "description": "Roast Vegetables is a Foodwith a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4213,7 +4213,7 @@
     {
       "name": "Royal Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Royal_Animal_Bed",
-      "description": "The Royal Animal Bed is a bed forMountsandPetsthat has a luxurious theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+      "description": "The Royal Animal Bed is a bed for Mountsand Petsthat has a luxurious theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4259,7 +4259,7 @@
     {
       "name": "Rustic Bed",
       "url": "https://icarus.fandom.com/wiki/Rustic_Bed",
-      "description": "The Rustic Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game.  In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod.",
+      "description": "The Rustic Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4427,7 +4427,7 @@
     {
       "name": "Salting Station",
       "url": "https://icarus.fandom.com/wiki/Salting_Station",
-      "description": "The Salting Station is an early-game cooking bench that provides a way to for Prospectors to preserve foods usingSalt. Once a food is salted, it will receive the Preserved modifier, increasing spoil time by 100%. Salting a food item will reset its spoil timer, even if the item is nearly spoiled. This technique can be used to further extend the spoilage.",
+      "description": "The Salting Station is an early-game cooking bench that provides a way to for Prospectors to preserve foods using Salt. Once a food is salted, it will receive the Preserved modifier, increasing spoil time by 100%. Salting a food item will reset its spoil timer, even if the item is nearly spoiled. This technique can be used to further extend the spoilage.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4453,7 +4453,7 @@
     {
       "name": "Sandworm Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Sandworm_Chest_Armor",
-      "description": "Sandworm Chest Armor is made from the scales dropped from aSandworm. Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set ofSandworm Armor.",
+      "description": "Sandworm Chest Armor is made from the scales dropped from a Sandworm. Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4904,7 +4904,7 @@
     {
       "name": "Scorpion Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Chest_Armor",
-      "description": "Scorpion Chest Armor is aTier 2crafted armor requiring aTextiles Bench; however, it is difficult to acquire due to the challenge of defeatingHusk: Exterminationand requiringScorpion Carapace. It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Chest Armor is a Tier 2 crafted armor requiring a Textiles Bench; however, it is difficult to acquire due to the challenge of defeating Husk: Exterminationand requiring Scorpion Carapace. It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4929,7 +4929,7 @@
     {
       "name": "Skinning Bench",
       "url": "https://icarus.fandom.com/wiki/Skinning_Bench",
-      "description": "The Skinning Bench is used to process, the small to medium carcasses, of theFaunafound on Icarus. While the yields from the skinning bench differ from skinning wildlife withKnives, most notably is the ability to always obtain rarer cuts of meat from fauna such asRaw Stringy Meat.",
+      "description": "The Skinning Bench is used to process, the small to medium carcasses, of the Faunafound on Icarus. While the yields from the skinning bench differ from skinning wildlife with Knives, most notably is the ability to always obtain rarer cuts of meat from fauna such as Raw Stringy Meat.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4950,7 +4950,7 @@
     {
       "name": "Snow Leopard Skin Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Snow_Leopard_Skin_Animal_Bed",
-      "description": "The Snow Leopard Skin Animal Bed is a bed forMountsandPetsthat has a snow leopard theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+      "description": "The Snow Leopard Skin Animal Bed is a bed for Mountsand Petsthat has a snow leopard theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -4975,7 +4975,7 @@
     {
       "name": "Sprinters Animal Feed",
       "url": "https://icarus.fandom.com/wiki/Sprinters_Animal_Feed",
-      "description": "Sprinters Animal Feed is aAnimal FeedforPetsorMountswith a uniqueStatus Effect. Can be fed to mounts to satisfyHunger. Sprinters Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Sprinters Animal Feed inside anIce BoxorRefrigerator.",
+      "description": "Sprinters Animal Feed is a Animal Feedfor Petsor Mountswith a unique Status Effect. Can be fed to mounts to satisfy Hunger. Sprinters Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Sprinters Animal Feed inside an Ice Boxor Refrigerator.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5212,7 +5212,7 @@
     {
       "name": "Stone Furnace",
       "url": "https://icarus.fandom.com/wiki/Stone_Furnace",
-      "description": "The Stone Furnace is used for smelting metals such asIron Ore,Copper Ore, orSteel Bloom. Will take damage in storms if left un-sheltered.",
+      "description": "The Stone Furnace is used for smelting metals such as Iron Ore,Copper Ore, or Steel Bloom. Will take damage in storms if left un-sheltered.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5359,7 +5359,7 @@
     {
       "name": "Striker Terrenus Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Striker_Terrenus_Animal_Bed",
-      "description": "The Striker Terrenus Animal Bed is a bed forMountsandPetsthat has an... unsettling theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+      "description": "The Striker Terrenus Animal Bed is a bed for Mountsand Petsthat has an... unsettling theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5385,7 +5385,7 @@
     {
       "name": "Textiles Bench",
       "url": "https://icarus.fandom.com/wiki/Textiles_Bench",
-      "description": "Allows for the crafting of variousArmorsets, such as theLeather Armor Set,Fur Armor Set,Ghillie Armor Set,Sandworm Armor Set, and theScorpion Armor Set. Items like theBasic Riding Saddle,Simple Creature DeterrentandRopecan also be made at the Textiles Bench.",
+      "description": "Allows for the crafting of various Armorsets, such as the Leather Armor Set,Fur Armor Set,Ghillie Armor Set,Sandworm Armor Set, and the Scorpion Armor Set. Items like the Basic Riding Saddle,Simple Creature Deterrentand Ropecan also be made at the Textiles Bench.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5411,7 +5411,7 @@
     {
       "name": "Thatch Beam",
       "url": "https://icarus.fandom.com/wiki/Thatch_Beam",
-      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. For different orientations, hold R while holding a Thatch Beam (more item actions can be seen bottom right).",
+      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployablesand Storagecontainers. For different orientations, hold R while holding a Thatch Beam (more item actions can be seen bottom right).",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5435,7 +5435,7 @@
     {
       "name": "Thatch Door",
       "url": "https://icarus.fandom.com/wiki/Thatch_Door",
-      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. Can be attached to door frames (hold R while holding a Wall Building Piece and select the door frame variant from the radial menu).",
+      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployablesand Storagecontainers. Can be attached to door frames (hold R while holding a Wall Building Piece and select the door frame variant from the radial menu).",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5459,7 +5459,7 @@
     {
       "name": "Thatch Floor",
       "url": "https://icarus.fandom.com/wiki/Thatch_Floor_Trapdoor",
-      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. For the trapdoor floor variant, hold R while holding a Thatch Floor and select the Trapdoor variant from the radial wheel (more item actions can be seen bottom right).",
+      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployablesand Storagecontainers. For the trapdoor floor variant, hold R while holding a Thatch Floor and select the Trapdoor variant from the radial wheel (more item actions can be seen bottom right).",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5483,7 +5483,7 @@
     {
       "name": "Thatch Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Thatch_Halfpieces",
-      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. For different variants, hold R while holding a Thatch Halfpiece (more item actions can be seen bottom right).",
+      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployablesand Storagecontainers. For different variants, hold R while holding a Thatch Halfpiece (more item actions can be seen bottom right).",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5507,7 +5507,7 @@
     {
       "name": "Thatch Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Thatch_Halfpitches",
-      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. For different variants, hold R while holding Thatch Halfpitches (more item actions can be seen bottom right).",
+      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployablesand Storagecontainers. For different variants, hold R while holding Thatch Halfpitches (more item actions can be seen bottom right).",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5531,7 +5531,7 @@
     {
       "name": "Thatch Ladder",
       "url": "https://icarus.fandom.com/wiki/Thatch_Ladder",
-      "description": "Thatch building pieces are very light-weight and best used as temporary shelters while away from any 'Main Base' the prospectors may have established. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. Thatch ladders cannot be snapped to trapdoor floors.",
+      "description": "Thatch building pieces are very light-weight and best used as temporary shelters while away from any 'Main Base' the prospectors may have established. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployablesand Storagecontainers. Thatch ladders cannot be snapped to trapdoor floors.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5555,7 +5555,7 @@
     {
       "name": "Thatch Railing",
       "url": "https://icarus.fandom.com/wiki/Thatch_Railing",
-      "description": "The Thatch Railing is part of theThatch Building Trim Set, which is learned in theTier 1Tech Tree after unlocking theThatch Building Base Set.",
+      "description": "The Thatch Railing is part of the Thatch Building Trim Set, which is learned in the Tier 1 Tech Tree after unlocking the Thatch Building Base Set.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5579,7 +5579,7 @@
     {
       "name": "Thatch Roof",
       "url": "https://icarus.fandom.com/wiki/Thatch_Roof",
-      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers.For the Ramp/Stairs variant, hold R while holding a Thatch Roof(more item actions can be seen bottom right).",
+      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployablesand Storagecontainers.For the Ramp/Stairs variant, hold R while holding a Thatch Roof(more item actions can be seen bottom right).",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5603,7 +5603,7 @@
     {
       "name": "Thatch Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Thatch_Roof_Corner",
-      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. For different variants, hold R while holding a Thatch Roof Corner (more item actions can be seen bottom right).",
+      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployablesand Storagecontainers. For different variants, hold R while holding a Thatch Roof Corner (more item actions can be seen bottom right).",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5627,7 +5627,7 @@
     {
       "name": "Thatch Trapdoor",
       "url": "https://icarus.fandom.com/wiki/Thatch_Trapdoor",
-      "description": "Thatch building pieces are very light-weight and are best suited as emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. Attaches to floors with trapdoor holes (hold R while holding a floor building piece and select the Trapdoor variant from the radial wheel).",
+      "description": "Thatch building pieces are very light-weight and are best suited as emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployablesand Storagecontainers. Attaches to floors with trapdoor holes (hold R while holding a floor building piece and select the Trapdoor variant from the radial wheel).",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5651,7 +5651,7 @@
     {
       "name": "Thatch Wall",
       "url": "https://icarus.fandom.com/wiki/Thatch_Wall",
-      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. For window/doorway variants, hold R while holding a Thatch Wall (more item actions can be seen bottom right).",
+      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployablesand Storagecontainers. For window/doorway variants, hold R while holding a Thatch Wall (more item actions can be seen bottom right).",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5675,7 +5675,7 @@
     {
       "name": "Thatch Wall Angled",
       "url": "https://icarus.fandom.com/wiki/Thatch_Wall_Angled",
-      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. For different variants, hold R while holding a Thatch Wall Angled (more item actions can be seen bottom right).",
+      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployablesand Storagecontainers. For different variants, hold R while holding a Thatch Wall Angled (more item actions can be seen bottom right).",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5699,7 +5699,7 @@
     {
       "name": "Thatch Window",
       "url": "https://icarus.fandom.com/wiki/Thatch_Window",
-      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. Attaches to window frames (hold R while holding a wall building piece and select the Window Frame variant from the radial wheel).",
+      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployablesand Storagecontainers. Attaches to window frames (hold R while holding a wall building piece and select the Window Frame variant from the radial wheel).",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5723,7 +5723,7 @@
     {
       "name": "Trophy Bench",
       "url": "https://icarus.fandom.com/wiki/Trophy_Bench",
-      "description": "The Trophy Bench allows prospectors to createTrophiesfrom variousVestiges, for eventual display around a building or outpost.",
+      "description": "The Trophy Bench allows prospectors to create Trophiesfrom various Vestiges, for eventual display around a building or outpost.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5749,7 +5749,7 @@
     {
       "name": "Vegetable Oil",
       "url": "https://icarus.fandom.com/wiki/Vegetable_Oil",
-      "description": "Vegetable Oil is an intermediary resource used to createBiofuel,Cured Leather, aSubmachine Gunand variousFoodrecipes.",
+      "description": "Vegetable Oil is an intermediary resource used to create Biofuel,Cured Leather, a Submachine Gunand various Foodrecipes.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5769,7 +5769,7 @@
     {
       "name": "Vegetable Pie",
       "url": "https://icarus.fandom.com/wiki/Vegetable_Pie",
-      "description": "Vegetable Pie is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "description": "Vegetable Pie is a Foodwith a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5787,7 +5787,7 @@
     {
       "name": "Vegetable Roll",
       "url": "https://icarus.fandom.com/wiki/Vegetable_Roll",
-      "description": "Vegetable Roll is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "description": "Vegetable Roll is a Foodwith a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5826,7 +5826,7 @@
     {
       "name": "Wayfarer Chest Armor",
       "url": "https://icarus.fandom.com/wiki/Wayfarer_Chest_Armor",
-      "description": "Wayfarer Chest Armor is a mid-gameTier 3crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
+      "description": "Wayfarer Chest Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5849,7 +5849,7 @@
     {
       "name": "Wolfskin Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Wolfskin_Animal_Bed",
-      "description": "The Wolfskin Animal Bed is a bed forMountsandPetsthat has a wolf theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+      "description": "The Wolfskin Animal Bed is a bed for Mountsand Petsthat has a wolf theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5874,7 +5874,7 @@
     {
       "name": "Wood Beam",
       "url": "https://icarus.fandom.com/wiki/Wood_Beam",
-      "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Wood beams require another structure for adjacent 'snapping' and seem to apply 'well stabilized' to a larger area than theThatch Beam.",
+      "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection to Deployablesand Storagecontainers. Wood beams require another structure for adjacent 'snapping' and seem to apply 'well stabilized' to a larger area than the Thatch Beam.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5895,7 +5895,7 @@
     {
       "name": "Wood Door",
       "url": "https://icarus.fandom.com/wiki/Wood_Door",
-      "description": "Wood Door is crafted in theCharacter Craftingwith the following resources:",
+      "description": "Wood Door is crafted in the Character Craftingwith the following resources:",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5916,7 +5916,7 @@
     {
       "name": "Wood Floor",
       "url": "https://icarus.fandom.com/wiki/Wood_Floor",
-      "description": "Wood Floor is crafted in theCharacter Craftingwith the following resources:",
+      "description": "Wood Floor is crafted in the Character Craftingwith the following resources:",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5937,7 +5937,7 @@
     {
       "name": "Wood Roof",
       "url": "https://icarus.fandom.com/wiki/Wood_Stairs",
-      "description": "Wood Roof is crafted in theCharacter Craftingwith the following resources:",
+      "description": "Wood Roof is crafted in the Character Craftingwith the following resources:",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5958,7 +5958,7 @@
     {
       "name": "Wood Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Wood_Roof_Corner",
-      "description": "Wood Roof Corner is crafted in theCharacter Craftingwith the following resources:",
+      "description": "Wood Roof Corner is crafted in the Character Craftingwith the following resources:",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -5979,7 +5979,7 @@
     {
       "name": "Wood Table",
       "url": "https://icarus.fandom.com/wiki/Wood_Table",
-      "description": "The Wood Table is a decorative item that can be used for deployables like theMortar and Pestleand provides a bonus toCoziness.",
+      "description": "The Wood Table is a decorative item that can be used for deployables like the Mortar and Pestleand provides a bonus to Coziness.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -6000,7 +6000,7 @@
     {
       "name": "Wood Trapdoor",
       "url": "https://icarus.fandom.com/wiki/Wood_Trapdoor",
-      "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Attaches to floors with trapdoor holes (hold R while holding a floor piece and select the Trapdoor variant from the radial wheel).",
+      "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offer good protection to Deployablesand Storagecontainers. Attaches to floors with trapdoor holes (hold R while holding a floor piece and select the Trapdoor variant from the radial wheel).",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -6024,7 +6024,7 @@
     {
       "name": "Wood Wall",
       "url": "https://icarus.fandom.com/wiki/Wood_Wall",
-      "description": "Wood Wall is crafted in theCharacter Craftingwith the following resources:",
+      "description": "Wood Wall is crafted in the Character Craftingwith the following resources:",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -6045,7 +6045,7 @@
     {
       "name": "Wood Wall Angled",
       "url": "https://icarus.fandom.com/wiki/Wood_Wall_Angled",
-      "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Wood wall angles may be snapped into existing floors or walls such asWood Wall. Holding 'R' while placing the angled wood wall for additional placement styles or directionality.",
+      "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection to Deployablesand Storagecontainers. Wood wall angles may be snapped into existing floors or walls such as Wood Wall. Holding 'R' while placing the angled wood wall for additional placement styles or directionality.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -6066,7 +6066,7 @@
     {
       "name": "Wood Wall Fortification",
       "url": "https://icarus.fandom.com/wiki/Wood_Wall_Fortification",
-      "description": "The Wood Wall Fortification serves as large wall that can attachWood Spikes Fortificationsto fend off the predators of Icarus. Similar toMedium Wood Hedgehogs, the Wood Wall Fortification does not take damage during storms.",
+      "description": "The Wood Wall Fortification serves as large wall that can attach Wood Spikes Fortificationsto fend off the predators of Icarus. Similar to Medium Wood Hedgehogs, the Wood Wall Fortification does not take damage during storms.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -6087,7 +6087,7 @@
     {
       "name": "Wood Window",
       "url": "https://icarus.fandom.com/wiki/Wood_Window",
-      "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Wood Windows may be snapped into walls such asWood Wallthat have been placed in 'window' configuration. Holding 'R' while placing aWood Wall, for example, allows for additional placement styles, such as the window frame.",
+      "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offer good protection to Deployablesand Storagecontainers. Wood Windows may be snapped into walls such as Wood Wallthat have been placed in 'window' configuration. Holding 'R' while placing a Wood Wall, for example, allows for additional placement styles, such as the window frame.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -6111,7 +6111,7 @@
     {
       "name": "Wooden Bed",
       "url": "https://icarus.fandom.com/wiki/Wooden_Bed",
-      "description": "The Wooden Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game.  In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod.",
+      "description": "The Wooden Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -6153,7 +6153,7 @@
     {
       "name": "Zebra Animal Bed",
       "url": "https://icarus.fandom.com/wiki/Zebra_Animal_Bed",
-      "description": "The Zebra Animal Bed is a bed forMountsandPetsthat has a zebra theme. It is available as part of theCreature Comforts DLC. Provides no additional attributes and is a cosmetic change to theAnimal Bed.",
+      "description": "The Zebra Animal Bed is a bed for Mountsand Petsthat has a zebra theme. It is available as part of the Creature Comforts DLC. Provides no additional attributes and is a cosmetic change to the Animal Bed.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",

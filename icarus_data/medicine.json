@@ -5,7 +5,7 @@
     {
       "name": "Anti-Parasitic Paste",
       "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Paste",
-      "description": "Anti-Parasitic Paste is one of the multiple, easily overlooked recipes available in theTier 1tech tree. Reduces the duration of theParasitesdebuff upon consumption.",
+      "description": "Anti-Parasitic Paste is one of the multiple, easily overlooked recipes available in the Tier 1 tech tree. Reduces the duration of the Parasitesdebuff upon consumption.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -27,7 +27,7 @@
     {
       "name": "Anti-Poison Paste",
       "url": "https://icarus.fandom.com/wiki/Anti-Poison_Paste",
-      "description": "Anti-Poison Paste is one of the multiple, easily overlooked recipes available in the tier 1 tech tree. Reduces the duration ofPoisonfrom critters like theVenomous Fishor theCaveworm.",
+      "description": "Anti-Poison Paste is one of the multiple, easily overlooked recipes available in the tier 1 tech tree. Reduces the duration of Poisonfrom critters like the Venomous Fishor the Caveworm.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -49,7 +49,7 @@
     {
       "name": "Antibiotic Paste",
       "url": "https://icarus.fandom.com/wiki/Antibiotic_Paste",
-      "description": "Antibiotic Paste reduces the duration of bacterial infections like food poisoning and theCave Sicknessdebuff from caves by 50% upon consumption.",
+      "description": "Antibiotic Paste reduces the duration of bacterial infections like food poisoning and the Cave Sicknessdebuff from caves by 50% upon consumption.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -71,7 +71,7 @@
     {
       "name": "Antibiotic Pill",
       "url": "https://icarus.fandom.com/wiki/Antibiotic_Pill",
-      "description": "Antibiotic Pills are used to cure, and prevent for a short time, further ailments such asCave Sickness,Infected Wounds, andFood Poisoning.",
+      "description": "Antibiotic Pills are used to cure, and prevent for a short time, further ailments such as Cave Sickness,Infected Wounds, and Food Poisoning.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -93,7 +93,7 @@
     {
       "name": "Antibiotic Tonic",
       "url": "https://icarus.fandom.com/wiki/Antibiotic_Tonic",
-      "description": "Used alone to cure infections such asCave Sickness,Infected Wound, andFood poisoning, or as a mid-stage ingredient to the prophylacticAntibiotic Pill.",
+      "description": "Used alone to cure infections such as Cave Sickness,Infected Wound, and Food poisoning, or as a mid-stage ingredient to the prophylactic Antibiotic Pill.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -115,7 +115,7 @@
     {
       "name": "Basic Bandage",
       "url": "https://icarus.fandom.com/wiki/Basic_Bandage",
-      "description": "Basic Bandage is used to heal Wound and Exotic WoundStatus Effects.",
+      "description": "Basic Bandage is used to heal Wound and Exotic Wound Status Effects.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -133,7 +133,7 @@
     {
       "name": "Blood Thinning Paste",
       "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Paste",
-      "description": "Blood Thinning Paste is one of the multiple, easily overlooked recipes available in theTier 1tech tree. Reduces the duration ofConcussionsandContusionswhen you're unlucky enough to kiss a falling tree.",
+      "description": "Blood Thinning Paste is one of the multiple, easily overlooked recipes available in the Tier 1 tech tree. Reduces the duration of Concussionsand Contusionswhen you're unlucky enough to kiss a falling tree.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -155,7 +155,7 @@
     {
       "name": "Carbon Paste",
       "url": "https://icarus.fandom.com/wiki/Carbon_Paste",
-      "description": "Carbon Paste is a crafted resource meant to be smelted in aConcrete FurnaceorElectric Furnaceto makeCarbon Fiberand is a critical component inTier 4crafting.",
+      "description": "Carbon Paste is a crafted resource meant to be smelted in a Concrete Furnaceor Electric Furnaceto make Carbon Fiberand is a critical component in Tier 4 crafting.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -178,7 +178,7 @@
     {
       "name": "Composite Paste",
       "url": "https://icarus.fandom.com/wiki/Composite_Paste",
-      "description": "Composite Paste is an end-game crafted resource which can be smelted intoCompositesinside of theElectric Furnace.",
+      "description": "Composite Paste is an end-game crafted resource which can be smelted into Compositesinside of the Electric Furnace.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -201,7 +201,7 @@
     {
       "name": "Cooling Bandage",
       "url": "https://icarus.fandom.com/wiki/Cooling_Bandage",
-      "description": "The Cooling Bandage is used to heal Heatstroke, Heat Exhaustion and Exotic OverheatStatus Effects. If the Prospector's core temperature is still extremely high, the cooling bandage will not remove these debuffs.",
+      "description": "The Cooling Bandage is used to heal Heatstroke, Heat Exhaustion and Exotic Overheat Status Effects. If the Prospector's core temperature is still extremely high, the cooling bandage will not remove these debuffs.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -219,7 +219,7 @@
     {
       "name": "Cured Leather",
       "url": "https://icarus.fandom.com/wiki/Cured_Leather",
-      "description": "Cured Leather is a crafted resource used in variousTier 3ArmorsandTools. Below is a list of armors that use Cured Leather:",
+      "description": "Cured Leather is a crafted resource used in various Tier 3 Armorsand Tools. Below is a list of armors that use Cured Leather:",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -240,7 +240,7 @@
     {
       "name": "Cured Leather Lure",
       "url": "https://icarus.fandom.com/wiki/Cured_Leather_Lure",
-      "description": "The Cured Leather Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Cured Leather Lure degrades with use and will eventually break after ten uses.",
+      "description": "The Cured Leather Lure can be attached to a Fishing Rodor a Basic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like all Lures, the Cured Leather Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -330,7 +330,7 @@
     {
       "name": "Heat Bandage",
       "url": "https://icarus.fandom.com/wiki/Heat_Bandage",
-      "description": "Heat Bandage is used to heal Frostbite, Frosty and Exotic ChillStatus Effects. If the Prospector's core temperature is still freezing, the heat bandage will not remove these debuffs.",
+      "description": "Heat Bandage is used to heal Frostbite, Frosty and Exotic Chill Status Effects. If the Prospector's core temperature is still freezing, the heat bandage will not remove these debuffs.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -412,7 +412,7 @@
     {
       "name": "Poison Paste",
       "url": "https://icarus.fandom.com/wiki/Poison_Paste",
-      "description": "Poison Paste is used for making a variety of items, such as medicines likeAnti-Poison Pillor ammo likePoison Arrow.",
+      "description": "Poison Paste is used for making a variety of items, such as medicines like Anti-Poison Pillor ammo like Poison Arrow.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -433,7 +433,7 @@
     {
       "name": "Shengong \"Yeying\" Bandage",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Yeying%22_Bandage",
-      "description": "The Shengong \"Yeying\" Bandage is an overly pricedBasic Bandagepurchased from the Workshop that will remove theBleedingmodifier when consumed.",
+      "description": "The Shengong \"Yeying\" Bandage is an overly priced Basic Bandagepurchased from the Workshop that will remove the Bleedingmodifier when consumed.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",

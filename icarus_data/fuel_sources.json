@@ -5,7 +5,7 @@
     {
       "name": "Advanced Iron Lure",
       "url": "https://icarus.fandom.com/wiki/Advanced_Iron_Lure",
-      "description": "The Advanced Iron Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Advanced Iron Lure degrades with use and will eventually break after ten uses.",
+      "description": "The Advanced Iron Lure can be attached to a Fishing Rodor a Basic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like all Lures, the Advanced Iron Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -30,7 +30,7 @@
     {
       "name": "Aluminium Ingot",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Ingot",
-      "description": "Aluminium Ingot is the refined resource crafted fromAluminium Ore.",
+      "description": "Aluminium Ingot is the refined resource crafted from Aluminium Ore.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -48,7 +48,7 @@
     {
       "name": "Cold Steel Bolt",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Bolt",
-      "description": "The Cold Steel Bolt is ammunition used with aCrossbow. In addition to projectile damage, it has a chance to inflict a Freeze modifier that slows and damages enemies.",
+      "description": "The Cold Steel Bolt is ammunition used with a Crossbow. In addition to projectile damage, it has a chance to inflict a Freeze modifier that slows and damages enemies.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -73,7 +73,7 @@
     {
       "name": "Cold Steel Ingot",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Ingot",
-      "description": "Cold Steel Ingots are a refined resource crafted fromSteel IngotsandSuper Cooled Ice. Prospectors must use aConcrete Furnaceor anElectric Furnaceto refine the resources listed below into a Cold Steel Ingot.",
+      "description": "Cold Steel Ingots are a refined resource crafted from Steel Ingotsand Super Cooled Ice. Prospectors must use a Concrete Furnaceor an Electric Furnaceto refine the resources listed below into a Cold Steel Ingot.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -91,7 +91,7 @@
     {
       "name": "Cold Steel Javelin",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Javelin",
-      "description": "The Cold Steel Javelin is a variant of theCold Steel Spearthat can only be thrown. Deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while dealing periodic frost damage. Excels when used against Fauna that have a weakness to frost. A list of Fauna that are weak to frost can be viewedhere. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds.\nFauna with:",
+      "description": "The Cold Steel Javelin is a variant of the Cold Steel Spearthat can only be thrown. Deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while dealing periodic frost damage. Excels when used against Fauna that have a weakness to frost. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with:",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -112,7 +112,7 @@
     {
       "name": "Copper Attachment",
       "url": "https://icarus.fandom.com/wiki/Copper_Attachment",
-      "description": "Copper Attachment is a mid-to-end game item available once the prospector has unlocked theTool Attachment Packtech.",
+      "description": "Copper Attachment is a mid-to-end game item available once the prospector has unlocked the Tool Attachment Packtech.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -132,7 +132,7 @@
     {
       "name": "Copper Bolt",
       "url": "https://icarus.fandom.com/wiki/Copper_Bolt",
-      "description": "The Copper Bolt is ammunition used with aCrossbow. Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+      "description": "The Copper Bolt is ammunition used with a Crossbow. Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -197,7 +197,7 @@
     {
       "name": "Copper Ingot",
       "url": "https://icarus.fandom.com/wiki/Copper_Ingot",
-      "description": "Copper Ingot is the refined resource crafted fromCopper Ore.",
+      "description": "Copper Ingot is the refined resource crafted from Copper Ore.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -236,7 +236,7 @@
     {
       "name": "Copper Nail",
       "url": "https://icarus.fandom.com/wiki/Copper_Nail",
-      "description": "Copper Nail are used widely in crafting of items such as interiorInterior Wood Building Pieces, and other items made ofRefined Woodat theCarpentry BenchandMachining Bench.",
+      "description": "Copper Nail are used widely in crafting of items such as interior Interior Wood Building Pieces, and other items made of Refined Woodat the Carpentry Benchand Machining Bench.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -274,7 +274,7 @@
     {
       "name": "Deluxe Leather Saddle",
       "url": "https://icarus.fandom.com/wiki/Deluxe_Leather_Saddle",
-      "description": "The Deluxe Leather Saddle is a saddle forMountsmade with cured leather. It is available as part of theCreature Comforts DLCand is a cosmetic change to theBasic Riding Saddlethat provides no additional attributes.",
+      "description": "The Deluxe Leather Saddle is a saddle for Mountsmade with cured leather. It is available as part of the Creature Comforts DLCand is a cosmetic change to the Basic Riding Saddlethat provides no additional attributes.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -298,7 +298,7 @@
     {
       "name": "Iron Bolt",
       "url": "https://icarus.fandom.com/wiki/Iron_Bolt",
-      "description": "The Iron Bolt is ammunition used with aCrossbow. Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+      "description": "The Iron Bolt is ammunition used with a Crossbow. Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -321,7 +321,7 @@
     {
       "name": "Iron Cupboard",
       "url": "https://icarus.fandom.com/wiki/Iron_Cupboard",
-      "description": "The Iron Cupboard comes with 50 inventory slots and can be used to safely store valuable resources. Unlike theWood Cupboard, it does not require shelter and can be placed outside without risk of taking damage during storms.",
+      "description": "The Iron Cupboard comes with 50 inventory slots and can be used to safely store valuable resources. Unlike the Wood Cupboard, it does not require shelter and can be placed outside without risk of taking damage during storms.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -346,7 +346,7 @@
     {
       "name": "Iron Ingot",
       "url": "https://icarus.fandom.com/wiki/Iron_Ingot",
-      "description": "Iron Ingot is the refined resource crafted fromIron Oreand is one of the most used materials in theTier 2Tech Tree and beyond.",
+      "description": "Iron Ingot is the refined resource crafted from Iron Oreand is one of the most used materials in the Tier 2 Tech Tree and beyond.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -364,7 +364,7 @@
     {
       "name": "Iron Javelin",
       "url": "https://icarus.fandom.com/wiki/Iron_Javelin",
-      "description": "The Iron Javelin is a variant of theIron Spearthat can only be thrown and is an upgrade over the Tier 1 Javelins.",
+      "description": "The Iron Javelin is a variant of the Iron Spearthat can only be thrown and is an upgrade over the Tier 1  Javelins.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -385,7 +385,7 @@
     {
       "name": "Iron Lure",
       "url": "https://icarus.fandom.com/wiki/Iron_Lure",
-      "description": "The Iron Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. Like allLures, the Iron Lure degrades with use and will eventually break after ten uses.",
+      "description": "The Iron Lure can be attached to a Fishing Rodor a Basic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. Like all Lures, the Iron Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -410,7 +410,7 @@
     {
       "name": "Iron Nail",
       "url": "https://icarus.fandom.com/wiki/Iron_Nail",
-      "description": "Iron Nail are used widely in crafting of items such asStone Building Pieces, andIron Tools.",
+      "description": "Iron Nail are used widely in crafting of items such as Stone Building Pieces, and Iron Tools.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -428,7 +428,7 @@
     {
       "name": "Iron Shears",
       "url": "https://icarus.fandom.com/wiki/Iron_Shears",
-      "description": "The Iron Shears are use to shearSheepto obtainWool. Can cause 30-40 Melee damage",
+      "description": "The Iron Shears are use to shear Sheepto obtain Wool. Can cause 30-40 Melee damage",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -480,7 +480,7 @@
     {
       "name": "Leather Attachment",
       "url": "https://icarus.fandom.com/wiki/Leather_Attachment",
-      "description": "Leather Attachment is a mid-to-end game item available once the prospector has unlocked theTool Attachment Packtech.",
+      "description": "Leather Attachment is a mid-to-end game item available once the prospector has unlocked the Tool Attachment Packtech.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -521,7 +521,7 @@
     {
       "name": "Medium Iron Crate",
       "url": "https://icarus.fandom.com/wiki/Medium_Iron_Crate",
-      "description": "A Medium Iron Crate, use it to safely store valuable resources. Unlike theMedium Wood Crate, it does not require shelter and can be placed outside (immune to storm damage).",
+      "description": "A Medium Iron Crate, use it to safely store valuable resources. Unlike the Medium Wood Crate, it does not require shelter and can be placed outside (immune to storm damage).",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -542,7 +542,7 @@
     {
       "name": "Platinum Ingot",
       "url": "https://icarus.fandom.com/wiki/Platinum_Ingot",
-      "description": "Platinum Ingot is the refined resource crafted fromPlatinum Ore.",
+      "description": "Platinum Ingot is the refined resource crafted from Platinum Ore.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -560,7 +560,7 @@
     {
       "name": "Refined Gold",
       "url": "https://icarus.fandom.com/wiki/Refined_Gold",
-      "description": "Refined Gold is the refined resource crafted fromGold Ore.",
+      "description": "Refined Gold is the refined resource crafted from Gold Ore.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -578,7 +578,7 @@
     {
       "name": "Refined Wood",
       "url": "https://icarus.fandom.com/wiki/Refined_Wood",
-      "description": "Refined Wood is used for the construction ofInterior Wood Buildings, Refined Wood Deployables, and various Tools.",
+      "description": "Refined Wood is used for the construction of Interior Wood Buildings, Refined Wood Deployables, and various Tools.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -596,7 +596,7 @@
     {
       "name": "Refined Wood Lure",
       "url": "https://icarus.fandom.com/wiki/Refined_Wood_Lure",
-      "description": "The Refined Wood Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Refined Wood Lure degrades with use and will eventually break after ten uses.",
+      "description": "The Refined Wood Lure can be attached to a Fishing Rodor a Basic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like all Lures, the Refined Wood Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -641,7 +641,7 @@
     {
       "name": "Small Iron Crate",
       "url": "https://icarus.fandom.com/wiki/Small_Iron_Crate",
-      "description": "A Small Iron Crate, use it to safely store valuable resources. Unlike theSmall Wood Crate, it does not require shelter and can be placed outside (immune to storm damage).",
+      "description": "A Small Iron Crate, use it to safely store valuable resources. Unlike the Small Wood Crate, it does not require shelter and can be placed outside (immune to storm damage).",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -662,7 +662,7 @@
     {
       "name": "Steel Bloom",
       "url": "https://icarus.fandom.com/wiki/Steel_Bloom",
-      "description": "Steel Bloom is a crafted resource that can be smelted in aStone Furnace,Concrete FurnaceorElectric Furnaceto make aSteel Ingot. It can made made fromIron OreorIron IngotandCoal OreorCharcoal.",
+      "description": "Steel Bloom is a crafted resource that can be smelted in a Stone Furnace,Concrete Furnaceor Electric Furnaceto make a Steel Ingot. It can made made from Iron Oreor Iron Ingotand Coal Oreor Charcoal.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -680,7 +680,7 @@
     {
       "name": "Steel Bolt",
       "url": "https://icarus.fandom.com/wiki/Steel_Bolt",
-      "description": "The Steel Bolt is ammunition used with aCrossbow. Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
+      "description": "The Steel Bolt is ammunition used with a Crossbow. Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -727,7 +727,7 @@
     {
       "name": "Steel Ingot",
       "url": "https://icarus.fandom.com/wiki/Steel_Ingot",
-      "description": "Steel Ingot is the refined resource crafted fromSteel Bloom, prospectors may use aStone Furnace,Concrete Furnace, orElectric Furnace.",
+      "description": "Steel Ingot is the refined resource crafted from Steel Bloom, prospectors may use a Stone Furnace,Concrete Furnace, or Electric Furnace.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -745,7 +745,7 @@
     {
       "name": "Steel Javelin",
       "url": "https://icarus.fandom.com/wiki/Steel_Javelin",
-      "description": "The Steel Javelin is a variant of theSteel Spearthat can only be thrown. A cheap upgrade to theIron Javelinthat increases projectile damage with a lower break chance, but is locked until prospectors reach level 20.",
+      "description": "The Steel Javelin is a variant of the Steel Spearthat can only be thrown. A cheap upgrade to the Iron Javelinthat increases projectile damage with a lower break chance, but is locked until prospectors reach level 20.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -766,7 +766,7 @@
     {
       "name": "Steel Rebar",
       "url": "https://icarus.fandom.com/wiki/Steel_Rebar",
-      "description": "Steel Rebar is a critical component ofConcrete Structures, and is solely used for this purpose.",
+      "description": "Steel Rebar is a critical component of Concrete Structures, and is solely used for this purpose.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -784,7 +784,7 @@
     {
       "name": "Steel Screw",
       "url": "https://icarus.fandom.com/wiki/Steel_Screw",
-      "description": "Steel Screw is used in crafting high end tools, weapons, and structures likeAluminium Buildings.",
+      "description": "Steel Screw is used in crafting high end tools, weapons, and structures like Aluminium Buildings.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -802,7 +802,7 @@
     {
       "name": "Titanium Ingot",
       "url": "https://icarus.fandom.com/wiki/Titanium_Ingot",
-      "description": "Titanium Ingot is the refined resource crafted fromTitanium Ore, is used widely inTier 4crafting recipes.",
+      "description": "Titanium Ingot is the refined resource crafted from Titanium Ore, is used widely in Tier 4 crafting recipes.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",

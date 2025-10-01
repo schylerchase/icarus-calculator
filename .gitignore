@@ -13,6 +13,9 @@ FixCategories.py
 debug_page.html
 generate_manifest.py
 tree.txt
+data_cleaner.py
+bundle.py
+item_urls.json
 
 # VS Code
 .vscode/

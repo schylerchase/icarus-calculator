@@ -5,7 +5,7 @@
     {
       "name": "Advanced Pistol",
       "url": "https://icarus.fandom.com/wiki/Advanced_Pistol",
-      "description": "The Advanced Pistol is the most advancedTier 4handgun with the largest ammo capacity, durability and rate of fire. It firesPistol Ammunitionsuch asArmor Piercing,Explosive,Incendiary,Obsidianor regular9mm Rounds.",
+      "description": "The Advanced Pistol is the most advanced Tier 4 handgun with the largest ammo capacity, durability and rate of fire. It fires Pistol Ammunitionsuch as Armor Piercing,Explosive,Incendiary,Obsidianor regular9mm Rounds.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -33,7 +33,7 @@
     {
       "name": "Anti-materiel Rifle",
       "url": "https://icarus.fandom.com/wiki/Anti-materiel_Rifle",
-      "description": "The Anti-materiel Rifle is a bolt-action, anti-materiel rifle with a long effective range and an included scope for viewing the target. It firesSniper Ammunitionpurchased from theWorkshop.",
+      "description": "The Anti-materiel Rifle is a bolt-action, anti-materiel rifle with a long effective range and an included scope for viewing the target. It fires Sniper Ammunitionpurchased from the Workshop.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -56,7 +56,7 @@
     {
       "name": "Assault Rifle",
       "url": "https://icarus.fandom.com/wiki/Assault_Rifle",
-      "description": "The Assault Rifle is an automatic firearm with reduced critical damage, +15 round ammo capacity and a high rate of fire. It usesAssault Rifle Ammunitionsuch asArmor Piercing,Explosive,Incendiary,Obsidianor regular5.56mm Rounds.",
+      "description": "The Assault Rifle is an automatic firearm with reduced critical damage, +15 round ammo capacity and a high rate of fire. It uses Assault Rifle Ammunitionsuch as Armor Piercing,Explosive,Incendiary,Obsidianor regular5.56mm Rounds.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -85,7 +85,7 @@
     {
       "name": "Automated Defense System: Pistol",
       "url": "https://icarus.fandom.com/wiki/Automated_Defense_System:_Pistol",
-      "description": "Automated Defense System: Pistol is a deployable base defense turret that firesPistol Ammunitionat hostileFauna.",
+      "description": "Automated Defense System: Pistol is a deployable base defense turret that fires Pistol Ammunitionat hostile Fauna.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -106,7 +106,7 @@
     {
       "name": "Black Wolf Knife",
       "url": "https://icarus.fandom.com/wiki/Black_Wolf_Knife",
-      "description": "The Black Wolf Knife is a knife with a 25% chance to inflict hemorrhage on targets and can be used as a tool to skin fauna. For the thrown variant of the Black Wolf Knife, viewBlack Wolf Throwing Knife.",
+      "description": "The Black Wolf Knife is a knife with a 25% chance to inflict hemorrhage on targets and can be used as a tool to skin fauna. For the thrown variant of the Black Wolf Knife, view Black Wolf Throwing Knife.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -133,7 +133,7 @@
     {
       "name": "Black Wolf Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Black_Wolf_Throwing_Knife",
-      "description": "The Black Wolf Throwing Knife is a variant of theBlack Wolf Knifethat can be thrown. Unlike theBlack Wolf Knife, the Black Wolf Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
+      "description": "The Black Wolf Throwing Knife is a variant of the Black Wolf Knifethat can be thrown. Unlike the Black Wolf Knife, the Black Wolf Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -159,7 +159,7 @@
     {
       "name": "Bolt Action Rifle",
       "url": "https://icarus.fandom.com/wiki/Bolt_Action_Rifle",
-      "description": "The Bolt Action Rifle is the first long-rangeFirearmthat prospectors can create. It can utilize the7.62mm Round, theIncendiary Rifle Round, etc. Along with theShotgun, it provides Prospectors with a significant increase in survivability when encountering theFaunaof Icarus. The Bolt Action Rifle can fire 75 rounds before breaking, and the talentGunsmithcan increase this to up to a maximum of 90 rounds, so bring aMachining Benchfor long trips.",
+      "description": "The Bolt Action Rifle is the first long-range Firearmthat prospectors can create. It can utilize the7.62mm Round, the Incendiary Rifle Round, etc. Along with the Shotgun, it provides Prospectors with a significant increase in survivability when encountering the Faunaof Icarus. The Bolt Action Rifle can fire 75 rounds before breaking, and the talent Gunsmithcan increase this to up to a maximum of 90 rounds, so bring a Machining Benchfor long trips.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -186,7 +186,7 @@
     {
       "name": "Bone Knife",
       "url": "https://icarus.fandom.com/wiki/Bone_Knife",
-      "description": "The Bone Knife is an upgrade in damage and durability from theStone Knife, the Bone Knife can be used as either a melee weapon or tool.",
+      "description": "The Bone Knife is an upgrade in damage and durability from the Stone Knife, the Bone Knife can be used as either a melee weapon or tool.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -212,7 +212,7 @@
     {
       "name": "Bone Spear",
       "url": "https://icarus.fandom.com/wiki/Bone_Spear",
-      "description": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. The Bone Spear has twice as much health than theWood Spear, which can be the difference between winning and losing against Icarus' fauna. Unlike theBone Javelin, the Bone Spear cannot be thrown.",
+      "description": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. The Bone Spear has twice as much health than the Wood Spear, which can be the difference between winning and losing against Icarus' fauna. Unlike the Bone Javelin, the Bone Spear cannot be thrown.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -234,7 +234,7 @@
     {
       "name": "Bone Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Bone_Throwing_Knife",
-      "description": "The Bone Throwing Knife is a variant of theBone Knifethat can be thrown. Unlike theBone Knife, the Bone Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
+      "description": "The Bone Throwing Knife is a variant of the Bone Knifethat can be thrown. Unlike the Bone Knife, the Bone Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -259,7 +259,7 @@
     {
       "name": "CHAC \"Boomstick\" Shotgun",
       "url": "https://icarus.fandom.com/wiki/CHAC_%22Boomstick%22_Shotgun",
-      "description": "The CHAC \"Boomstick\" Shotgun is an advanced purchaseableShotgunwith increase projectile and critical damage. It fires anyShotgun Ammunitionand is comparable to otherTier 4Firearms.",
+      "description": "The CHAC \"Boomstick\" Shotgun is an advanced purchaseable Shotgunwith increase projectile and critical damage. It fires any Shotgun Ammunitionand is comparable to other Tier 4 Firearms.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -281,7 +281,7 @@
     {
       "name": "CHAC \"Sentinel\" Pistol",
       "url": "https://icarus.fandom.com/wiki/CHAC_%22Sentinel%22_Pistol",
-      "description": "The CHAC \"Sentinel\" Pistol is an advanced handgun with increased projectile and critical damage that is comparable, or better than otherTier 4Firearms.",
+      "description": "The CHAC \"Sentinel\" Pistol is an advanced handgun with increased projectile and critical damage that is comparable, or better than other Tier 4 Firearms.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -325,7 +325,7 @@
     {
       "name": "Carbon Spear",
       "url": "https://icarus.fandom.com/wiki/Carbon_Spear",
-      "description": "The Carbon Spear is an upgrade to thePlatinum Spearthat deals more damage and is cheaper to craft. Unlike theCarbon Javelin, the Carbon Spear cannot be thrown.",
+      "description": "The Carbon Spear is an upgrade to the Platinum Spearthat deals more damage and is cheaper to craft. Unlike the Carbon Javelin, the Carbon Spear cannot be thrown.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -347,7 +347,7 @@
     {
       "name": "Caveworm Bow",
       "url": "https://icarus.fandom.com/wiki/Caveworm_Bow",
-      "description": "Using arrows and talents interchangeably with other bows, the Caveworm Bow is harder hitting than theLongbowand is equal in strength to theRecurve Bow.",
+      "description": "Using arrows and talents interchangeably with other bows, the Caveworm Bow is harder hitting than the Longbowand is equal in strength to the Recurve Bow.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -369,7 +369,7 @@
     {
       "name": "Caveworm Knife",
       "url": "https://icarus.fandom.com/wiki/Caveworm_Knife",
-      "description": "The Caveworm Knife is made with resources obtained fromCaveworms. Though the Caveworm Knife can be used as a melee weapon or tool to skin fauna, the Caveworm Knife has very little durability, which can prove problematic while on the go as it can only be repaired at anAnvil Bench.",
+      "description": "The Caveworm Knife is made with resources obtained from Caveworms. Though the Caveworm Knife can be used as a melee weapon or tool to skin fauna, the Caveworm Knife has very little durability, which can prove problematic while on the go as it can only be repaired at an Anvil Bench.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -396,7 +396,7 @@
     {
       "name": "Caveworm Spear",
       "url": "https://icarus.fandom.com/wiki/Caveworm_Spear",
-      "description": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike theCaveworm Javelin, the Caveworm Spear cannot be thrown.",
+      "description": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike the Caveworm Javelin, the Caveworm Spear cannot be thrown.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -423,7 +423,7 @@
     {
       "name": "Caveworm Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Caveworm_Throwing_Knife",
-      "description": "The Caveworm Throwing Knife is a variant of theCaveworm Knifethat can be thrown. Unlike theCaveworm Knife, the Caveworm Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
+      "description": "The Caveworm Throwing Knife is a variant of the Caveworm Knifethat can be thrown. Unlike the Caveworm Knife, the Caveworm Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -449,7 +449,7 @@
     {
       "name": "Cold Steel Axe",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Axe",
-      "description": "The Cold Steel Axe is a mid/late-gameAxethat is introduced withChapter - New Frontier. The Cold Steel Axe can be crafted while on the surface of Icarus.",
+      "description": "The Cold Steel Axe is a mid/late-game Axethat is introduced with Chapter - New Frontier. The Cold Steel Axe can be crafted while on the surface of Icarus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -476,7 +476,7 @@
     {
       "name": "Cold Steel Knife",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Knife",
-      "description": "The Cold Steel Knife is a mid/late-gameKnifethat is introduced with the addition ofCold Steel Ingotson thePrometheusmap.",
+      "description": "The Cold Steel Knife is a mid/late-game Knifethat is introduced with the addition of Cold Steel Ingotson the Prometheusmap.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -503,7 +503,7 @@
     {
       "name": "Cold Steel Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Pickaxe",
-      "description": "The Cold Steel Pickaxe is a mid/late-gamePickaxethat was introduced withNew Frontiers.",
+      "description": "The Cold Steel Pickaxe is a mid/late-game Pickaxethat was introduced with New Frontiers.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -530,7 +530,7 @@
     {
       "name": "Cold Steel Sledgehammer",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Sledgehammer",
-      "description": "Cold Steel Sledgehammer is aTier 3Sledgehammermade withCold Steel Ingots. Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Cold Steel Sledgehammer is a Tier 3 Sledgehammermade with Cold Steel Ingots. Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -557,7 +557,7 @@
     {
       "name": "Cold Steel Spear",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Spear",
-      "description": "Element damage does not scale with Spear talents. Unlike theCold Steel Javelin, the Cold Steel Spear cannot be thrown.",
+      "description": "Element damage does not scale with Spear talents. Unlike the Cold Steel Javelin, the Cold Steel Spear cannot be thrown.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -579,7 +579,7 @@
     {
       "name": "Cold Steel Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Throwing_Knife",
-      "description": "The Cold Steel Throwing Knife is a variant of theCold Steel Knifethat can only be thrown and is unlocked upon researching theCold Steel Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
+      "description": "The Cold Steel Throwing Knife is a variant of the Cold Steel Knifethat can only be thrown and is unlocked upon researching the Cold Steel Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -627,7 +627,7 @@
     {
       "name": "Composite Spear",
       "url": "https://icarus.fandom.com/wiki/Composite_Spear",
-      "description": "The Composite Spear is an upgrade to theTitanium Spearthat deals more damage and is cheaper to craft once Composites can be crafted. DespiteCompositesbeing a hefty tech investment, the Composite Spear has the highest damage output and durability outside ofPrometheusexclusive Spears. Unlike theComposite Javelin, the Composite Spear cannot be thrown.",
+      "description": "The Composite Spear is an upgrade to the Titanium Spearthat deals more damage and is cheaper to craft once Composites can be crafted. Despite Compositesbeing a hefty tech investment, the Composite Spear has the highest damage output and durability outside of Prometheusexclusive Spears. Unlike the Composite Javelin, the Composite Spear cannot be thrown.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -649,7 +649,7 @@
     {
       "name": "Compound Bow",
       "url": "https://icarus.fandom.com/wiki/Compound_Bow",
-      "description": "The tail-end of the 20th Century brought about many advancements in technology and archery didn't get left behind. A Compound Bow works like a simple block and tackle, multiplying input energy over distance with it's Cam and Idler Wheel pulleys, instead of traditional bow limbs; which allows the Compound Bow to hit harder than theRecurve Bow.",
+      "description": "The tail-end of the 20th Century brought about many advancements in technology and archery didn't get left behind. A Compound Bow works like a simple block and tackle, multiplying input energy over distance with it's Cam and Idler Wheel pulleys, instead of traditional bow limbs; which allows the Compound Bow to hit harder than the Recurve Bow.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -717,7 +717,7 @@
     {
       "name": "Gunpowder",
       "url": "https://icarus.fandom.com/wiki/Gunpowder",
-      "description": "Gunpowder is a precursor resource used in makingAmmunition, weapons like theFrag Grenade, andVolatile Substance.",
+      "description": "Gunpowder is a precursor resource used in making Ammunition, weapons like the Frag Grenade, and Volatile Substance.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -738,7 +738,7 @@
     {
       "name": "Hunting Rifle",
       "url": "https://icarus.fandom.com/wiki/Hunting_Rifle",
-      "description": "The Hunting Rifle is a side-gate loading lever-action rifle, the apex of firearms on Icarus, and a significant upgrade in the long-range firepower available to the Prospector. Like its predecessor theBolt Action Rifle, it fires the7.62mm Round. It and theTrench Shotgunare effective game-changers in surviving theFaunaof Icarus. The Hunting Rifle can fire 100 rounds before breaking, and the talentGunsmithcan increase this to up to a maximum of 125 rounds, so bring aFabricatorfor long trips.",
+      "description": "The Hunting Rifle is a side-gate loading lever-action rifle, the apex of firearms on Icarus, and a significant upgrade in the long-range firepower available to the Prospector. Like its predecessor the Bolt Action Rifle, it fires the7.62mm Round. It and the Trench Shotgunare effective game-changers in surviving the Faunaof Icarus. The Hunting Rifle can fire 100 rounds before breaking, and the talent Gunsmithcan increase this to up to a maximum of 125 rounds, so bring a Fabricatorfor long trips.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -766,7 +766,7 @@
     {
       "name": "Inaris \"Agua\" Spear",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Agua%22_Spear",
-      "description": "Element damage does not scale with Spear talents. The Inaris \"Agua\" Spear cannot be thrown, and there are currently no WorkshopJavelins.",
+      "description": "Element damage does not scale with Spear talents. The Inaris \"Agua\" Spear cannot be thrown, and there are currently no Workshop Javelins.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -788,7 +788,7 @@
     {
       "name": "Inaris \"Cerulean\" Knife",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Cerulean%22_Knife",
-      "description": "The Inaris \"Cerulean\" Knife is a Workshop Knife geared towards combat, intrinsically dealing frost damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Inaris \"Cerulean\" Knife cannot be thrown, and there currently are no workshopThrowing Knives.",
+      "description": "The Inaris \"Cerulean\" Knife is a Workshop Knife geared towards combat, intrinsically dealing frost damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Inaris \"Cerulean\" Knife cannot be thrown, and there currently are no workshop Throwing Knives.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -810,7 +810,7 @@
     {
       "name": "Inaris \"Claret\" Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Claret%22_Pickaxe",
-      "description": "The Inaris \"Claret\" Pickaxe is a Workshop Pickaxe geared towards combat, intrinsically dealing fire damage to targets. Since the Inaris \"Claret\" Pickaxe has the same mining radius and yield as theLarkwell Martinez Pickaxe, Prospectors are better off using theInaris \"Neves\" Pickaxefor mining.",
+      "description": "The Inaris \"Claret\" Pickaxe is a Workshop Pickaxe geared towards combat, intrinsically dealing fire damage to targets. Since the Inaris \"Claret\" Pickaxe has the same mining radius and yield as the Larkwell Martinez Pickaxe, Prospectors are better off using the Inaris \"Neves\" Pickaxefor mining.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -832,7 +832,7 @@
     {
       "name": "Inaris \"Cobalt\" Spear",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Cobalt%22_Spear",
-      "description": "Element damage does not scale with Spear talents. The Inaris \"Cobalt\" Spear cannot be thrown, and there are currently no WorkshopJavelins.",
+      "description": "Element damage does not scale with Spear talents. The Inaris \"Cobalt\" Spear cannot be thrown, and there are currently no Workshop Javelins.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -854,7 +854,7 @@
     {
       "name": "Inaris \"Crimson\" Knife",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Crimson%22_Knife",
-      "description": "The Inaris \"Crimson\" Knife is a Workshop Knife geared towards combat, intrinsically dealing fire damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. Despite what the flavor text says, the Inaris \"Crimson\" Knife cannot be thrown. There currently are no workshopThrowing Knives.",
+      "description": "The Inaris \"Crimson\" Knife is a Workshop Knife geared towards combat, intrinsically dealing fire damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. Despite what the flavor text says, the Inaris \"Crimson\" Knife cannot be thrown. There currently are no workshop Throwing Knives.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -876,7 +876,7 @@
     {
       "name": "Inaris \"Dawn\" Axe",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Dawn%22_Axe",
-      "description": "The Inaris \"Dawn\" Axe is a Workshop Axe geared towards combat, intrinsically dealing Fire damage to targets. Ideally used with theBerserkertalent, which increases axe melee damage.",
+      "description": "The Inaris \"Dawn\" Axe is a Workshop Axe geared towards combat, intrinsically dealing Fire damage to targets. Ideally used with the Berserkertalent, which increases axe melee damage.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -898,7 +898,7 @@
     {
       "name": "Inaris \"Dias\" Axe",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Dias%22_Axe",
-      "description": "The Inaris \"Dias\" Axe is the Workshop equivalent of anSteel Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees. Unlike otherAxes, the Inaris \"Dias\" Axe is the only Axe that lowers the carry weight of wood by 50% when equipped, making it a valuable tool when transporting wood when paired with theGatherer's Backpack.",
+      "description": "The Inaris \"Dias\" Axe is the Workshop equivalent of an Steel Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees. Unlike other Axes, the Inaris \"Dias\" Axe is the only Axe that lowers the carry weight of wood by 50% when equipped, making it a valuable tool when transporting wood when paired with the Gatherer's Backpack.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -920,7 +920,7 @@
     {
       "name": "Inaris \"Dusk\" Spear",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Dusk%22_Spear",
-      "description": "Element damage does not scale with Spear talents. The Inaris \"Dusk\" Spear cannot be thrown, and there are currently no WorkshopJavelins.",
+      "description": "Element damage does not scale with Spear talents. The Inaris \"Dusk\" Spear cannot be thrown, and there are currently no Workshop Javelins.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -942,7 +942,7 @@
     {
       "name": "Inaris \"Ersa\" Axe",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Ersa%22_Axe",
-      "description": "The Inaris \"Ersa\" Axe is a Workshop Axe geared towards combat, intrinsically dealing Frost damage to targets. Ideally used with theBerserkertalent, which increases axe melee damage.",
+      "description": "The Inaris \"Ersa\" Axe is a Workshop Axe geared towards combat, intrinsically dealing Frost damage to targets. Ideally used with the Berserkertalent, which increases axe melee damage.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -964,7 +964,7 @@
     {
       "name": "Inaris \"Gris\" Spear",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Gris%22_Spear",
-      "description": "The Inaris \"Gris\" Spear is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospector's loadout before starting a new prospect.",
+      "description": "The Inaris \"Gris\" Spear is unlocked in the Workshopon the Space Stationand is equipped in the Prospector's loadout before starting a new prospect.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -986,7 +986,7 @@
     {
       "name": "Inaris \"Heavy\" Crossbow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Heavy%22_Crossbow",
-      "description": "The Inaris \"Heavy\" Crossbow is the opposite of theInaris \"Rapid\" Crossbow, trading reload speed for a significant boost to overall damage. The Inaris \"Heavy\" Crossbow can use CrossbowBoltscrafted on planet as well asBoltscrafted in theWorkshop.",
+      "description": "The Inaris \"Heavy\" Crossbow is the opposite of the Inaris \"Rapid\" Crossbow, trading reload speed for a significant boost to overall damage. The Inaris \"Heavy\" Crossbow can use Crossbow Boltscrafted on planet as well as Boltscrafted in the Workshop.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1008,7 +1008,7 @@
     {
       "name": "Inaris \"Lune\" Crossbow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Lune%22_Crossbow",
-      "description": "The Inaris \"Lune\" Crossbow can use Crossbow Bolts crafted on planet as well as WorkshopBolts. Firing faster and dealing more damage than its predecessors, the Inaris \"Lune\" Crossbow, as a whole, is a must for avid Crossbow users.",
+      "description": "The Inaris \"Lune\" Crossbow can use Crossbow Bolts crafted on planet as well as Workshop Bolts. Firing faster and dealing more damage than its predecessors, the Inaris \"Lune\" Crossbow, as a whole, is a must for avid Crossbow users.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1030,7 +1030,7 @@
     {
       "name": "Inaris \"Neves\" Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Neves%22_Pickaxe",
-      "description": "The Inaris \"Neves\" Pickaxe is the Workshop equivalent of aTitanium Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while greatly increasing yield.\nUnlike other pickaxes, the Inaris \"Neves\" Pickaxe is the only pickaxe that reduces the over-encumbrance penalty by 50% when equipped, which makes mobility while over-encumbered bearable when paired with the talentCarry OnandMass Dampener Modules.",
+      "description": "The Inaris \"Neves\" Pickaxe is the Workshop equivalent of a Titanium Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while greatly increasing yield. Unlike other pickaxes, the Inaris \"Neves\" Pickaxe is the only pickaxe that reduces the over-encumbrance penalty by 50% when equipped, which makes mobility while over-encumbered bearable when paired with the talent Carry Onand Mass Dampener Modules.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1052,7 +1052,7 @@
     {
       "name": "Inaris \"Night\" Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Night%22_Pickaxe",
-      "description": "The Inaris \"Night\" Pickaxe is a Workshop Pickaxe geared towards combat and harvestingNoxious Crust. It deals poison damage to targets, a large amount of damage to armor, has a penalty for mining yield, but also produces Noxious Crust that can be cleaned to produce additionalMinerals.",
+      "description": "The Inaris \"Night\" Pickaxe is a Workshop Pickaxe geared towards combat and harvesting Noxious Crust. It deals poison damage to targets, a large amount of damage to armor, has a penalty for mining yield, but also produces Noxious Crust that can be cleaned to produce additional Minerals.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1074,7 +1074,7 @@
     {
       "name": "Inaris \"Rapid\" Crossbow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Rapid%22_Crossbow",
-      "description": "The Inaris \"Rapid\" Crossbow is unlocked in theWorkshopon theSpace Station. The Inaris \"Rapid\" Crossbow can use crossbow bolts crafted on planet as well as the bolts crafted in theWorkshop.",
+      "description": "The Inaris \"Rapid\" Crossbow is unlocked in the Workshopon the Space Station. The Inaris \"Rapid\" Crossbow can use crossbow bolts crafted on planet as well as the bolts crafted in the Workshop.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1096,7 +1096,7 @@
     {
       "name": "Inaris \"Sali\" Axe",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Sali%22_Axe",
-      "description": "The Inaris \"Sali\" Axe is a Workshop Axe geared towards combat, intrinsically dealing poison damage to targets and generatingInfected Barkwhen harvesting trees.",
+      "description": "The Inaris \"Sali\" Axe is a Workshop Axe geared towards combat, intrinsically dealing poison damage to targets and generating Infected Barkwhen harvesting trees.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1118,7 +1118,7 @@
     {
       "name": "Inaris \"Shade\" Knife",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Shade%22_Knife",
-      "description": "The Inaris \"Shade\" Knife is a Workshop Knife geared towards combat, intrinsically dealing poison damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Inaris \"Shade\" Knife cannot be thrown, and there currently are no workshopThrowing Knives.",
+      "description": "The Inaris \"Shade\" Knife is a Workshop Knife geared towards combat, intrinsically dealing poison damage to targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Inaris \"Shade\" Knife cannot be thrown, and there currently are no workshop Throwing Knives.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1140,7 +1140,7 @@
     {
       "name": "Inaris \"Sole\" Crossbow",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Sole%22_Crossbow",
-      "description": "Using arrows and talents interchangeably with other crossbows, the Inaris \"Sole\" Crossbow is geared more towards elemental damage. When paired withBoltsthat deal elemental damage (Obsidian Bolts,Larkwell Martinez Charged Bolts, etc), the Inaris \"Sole\" Crossbow can pack a punch, making it a decent, if not expensive, upgrade to the previous Workshop Crossbows. Dealt elemental damage is not affected by Crossbow talents.",
+      "description": "Using arrows and talents interchangeably with other crossbows, the Inaris \"Sole\" Crossbow is geared more towards elemental damage. When paired with Boltsthat deal elemental damage (Obsidian Bolts,Larkwell Martinez Charged Bolts, etc), the Inaris \"Sole\" Crossbow can pack a punch, making it a decent, if not expensive, upgrade to the previous Workshop Crossbows. Dealt elemental damage is not affected by Crossbow talents.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1162,7 +1162,7 @@
     {
       "name": "Inaris \"Ventura\" Knife",
       "url": "https://icarus.fandom.com/wiki/Inaris_%22Ventura%22_Knife",
-      "description": "Grants immunity to normal wounds while held, making it a useful tool when fighting severalwolvessimultaneously. Does not preventDeep Wounds. UnlikeThrowing Knives, the Inaris \"Ventura\" Knife cannot be thrown. There currently are no Workshop throwing knives.",
+      "description": "Grants immunity to normal wounds while held, making it a useful tool when fighting severalwolvessimultaneously. Does not prevent Deep Wounds. Unlike Throwing Knives, the Inaris \"Ventura\" Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1206,7 +1206,7 @@
     {
       "name": "Iron Axe",
       "url": "https://icarus.fandom.com/wiki/Iron_Axe",
-      "description": "The Iron Axe is the 2nd axe you will unlock during your time on Icarus. It is located at the bottom of theTier 2tech tree, right after theAnvil Bench.",
+      "description": "The Iron Axe is the 2nd axe you will unlock during your time on Icarus. It is located at the bottom of the Tier 2 tech tree, right after the Anvil Bench.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1228,7 +1228,7 @@
     {
       "name": "Iron Hammer",
       "url": "https://icarus.fandom.com/wiki/Iron_Hammer",
-      "description": "Hammers are used to repairBuilding PiecesandDeployables. Hammers are also used to upgradeBuilding Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
+      "description": "Hammers are used to repair Building Piecesand Deployables. Hammers are also used to upgrade Building Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1253,7 +1253,7 @@
     {
       "name": "Iron Knife",
       "url": "https://icarus.fandom.com/wiki/Iron_Knife",
-      "description": "The Iron Knife is an upgrade in damage and durability from theBone Knife, the Iron Knife can be used as either a melee weapon or tool. It is also the first knife capable of skinning larger fauna such as theGrizzly BearandBuffalo. An attachment slot is available, allowing for the application ofTool Attachment Packsat anAlteration Bench/Advanced Alteration Bench.",
+      "description": "The Iron Knife is an upgrade in damage and durability from the Bone Knife, the Iron Knife can be used as either a melee weapon or tool. It is also the first knife capable of skinning larger fauna such as the Grizzly Bearand Buffalo. An attachment slot is available, allowing for the application of Tool Attachment Packsat an Alteration Bench/Advanced Alteration Bench.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1275,7 +1275,7 @@
     {
       "name": "Iron Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Iron_Pickaxe",
-      "description": "The Iron Pickaxe is the 2nd pickaxe prospectors can unlock during their time on Icarus. The blueprint is located at the bottom of the tier 2 tech tree and is considerably better than the previousStone Pickaxe, granting a 125% boost to mining efficiency. Like all iron tools, the iron pickaxe is repairable at anAnvil Bench.",
+      "description": "The Iron Pickaxe is the 2nd pickaxe prospectors can unlock during their time on Icarus. The blueprint is located at the bottom of the tier 2 tech tree and is considerably better than the previous Stone Pickaxe, granting a 125% boost to mining efficiency. Like all iron tools, the iron pickaxe is repairable at an Anvil Bench.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1297,7 +1297,7 @@
     {
       "name": "Iron Sledgehammer",
       "url": "https://icarus.fandom.com/wiki/Iron_Sledgehammer",
-      "description": "Iron Sledgehammer is aTier 2Sledgehammermade withIron.",
+      "description": "Iron Sledgehammer is a Tier 2 Sledgehammermade with Iron.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1323,7 +1323,7 @@
     {
       "name": "Iron Spear",
       "url": "https://icarus.fandom.com/wiki/Iron_Spear",
-      "description": "The Iron Spear is the firstSpearavailable to prospectors once they reach Tier 2 and serves as an upgrade to its Tier 1 counterparts. Unlike theIron Javelin, the Iron Spear cannot be thrown.",
+      "description": "The Iron Spear is the first Spearavailable to prospectors once they reach Tier 2  and serves as an upgrade to its Tier 1  counterparts. Unlike the Iron Javelin, the Iron Spear cannot be thrown.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1345,7 +1345,7 @@
     {
       "name": "Iron Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Iron_Throwing_Knife",
-      "description": "The Iron Throwing Knife is a variant of theIron Knifethat can be thrown. Unlike theIron Knife, the Iron Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
+      "description": "The Iron Throwing Knife is a variant of the Iron Knifethat can be thrown. Unlike the Iron Knife, the Iron Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1371,7 +1371,7 @@
     {
       "name": "Kinetic Rifle",
       "url": "https://icarus.fandom.com/wiki/Kinetic_Rifle",
-      "description": "The Kinetic Rifle is aLegendary WeaponRiflethat can be purchased at theBio-lab.",
+      "description": "The Kinetic Rifle is a Legendary Weapon Riflethat can be purchased at the Bio-lab.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1394,7 +1394,7 @@
     {
       "name": "Larkwell Martinez Axe",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Axe",
-      "description": "The Larkwell Martinez Axe is the Workshop equivalent of anSteel Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees. Similar to theInaris \"Dias\" Axe, the Larkwell Martinez Axe also reduces the carry weight of wood when equipped.",
+      "description": "The Larkwell Martinez Axe is the Workshop equivalent of an Steel Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees. Similar to the Inaris \"Dias\" Axe, the Larkwell Martinez Axe also reduces the carry weight of wood when equipped.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1416,7 +1416,7 @@
     {
       "name": "Larkwell Martinez Compound Bow",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Compound_Bow",
-      "description": "The Larkwell Martinez Compound Bow is a stronger, more durable variant of theCompound Bowusing arrows and talents interchangeably with other bows.",
+      "description": "The Larkwell Martinez Compound Bow is a stronger, more durable variant of the Compound Bowusing arrows and talents interchangeably with other bows.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1438,7 +1438,7 @@
     {
       "name": "Larkwell Martinez Hammer",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Hammer",
-      "description": "Hammers are used to repairBuilding PiecesandDeployables. Hammers are also used to upgradeBuilding Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
+      "description": "Hammers are used to repair Building Piecesand Deployables. Hammers are also used to upgrade Building Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1459,7 +1459,7 @@
     {
       "name": "Larkwell Martinez Knife",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Knife",
-      "description": "The Larkwell Martinez Knife is the hardest-hitting Workshop knife available. UnlikeThrowing Knives, the Larkwell Martinez Knife cannot be thrown. There currently are no Workshop throwing knives.",
+      "description": "The Larkwell Martinez Knife is the hardest-hitting Workshop knife available. Unlike Throwing Knives, the Larkwell Martinez Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1481,7 +1481,7 @@
     {
       "name": "Larkwell Martinez Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Pickaxe",
-      "description": "The Larkwell Martinez Pickaxe is the Workshop equivalent of aPlatinum Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield. Similar to theInaris \"Neves\" Pickaxe, the Larkwell Martinez Pickaxe reduces the over-encumbrance penalty by 10% when equipped.",
+      "description": "The Larkwell Martinez Pickaxe is the Workshop equivalent of a Platinum Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield. Similar to the Inaris \"Neves\" Pickaxe, the Larkwell Martinez Pickaxe reduces the over-encumbrance penalty by 10% when equipped.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1503,7 +1503,7 @@
     {
       "name": "Larkwell Martinez Spear",
       "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Spear",
-      "description": "The Larkwell Martinez Spear is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospector's loadout before starting a new prospect.",
+      "description": "The Larkwell Martinez Spear is unlocked in the Workshopon the Space Stationand is equipped in the Prospector's loadout before starting a new prospect.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1525,7 +1525,7 @@
     {
       "name": "Longbow",
       "url": "https://icarus.fandom.com/wiki/Longbow",
-      "description": "Using arrows and talents interchangeably with otherBows, the Longbow hits harder than theWood Bow.",
+      "description": "Using arrows and talents interchangeably with other Bows, the Longbow hits harder than the Wood Bow.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1551,7 +1551,7 @@
     {
       "name": "MXC Axe",
       "url": "https://icarus.fandom.com/wiki/MXC_Axe",
-      "description": "The MXC Axe is the Workshop equivalent of aStone Axe, providing a minor boost to felling damage and yield.",
+      "description": "The MXC Axe is the Workshop equivalent of a Stone Axe, providing a minor boost to felling damage and yield.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1573,7 +1573,7 @@
     {
       "name": "MXC Hammer",
       "url": "https://icarus.fandom.com/wiki/MXC_Hammer",
-      "description": "Hammers are used to repairBuilding PiecesandDeployables. Hammers are also used to upgradeBuilding Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
+      "description": "Hammers are used to repair Building Piecesand Deployables. Hammers are also used to upgrade Building Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1594,7 +1594,7 @@
     {
       "name": "MXC Knife",
       "url": "https://icarus.fandom.com/wiki/MXC_Knife",
-      "description": "The MXC Knife is equivalent toTier 2Tech like theIron Knife, giving Prospectors the ability to skin larger animals, such asBuffaloandGrizzly Bears. UnlikeThrowing Knives, the MXC Knife cannot be thrown. There currently are no Workshop throwing knives.",
+      "description": "The MXC Knife is equivalent to Tier 2 Tech like the Iron Knife, giving Prospectors the ability to skin larger animals, such as Buffaloand Grizzly Bears. Unlike Throwing Knives, the MXC Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1616,7 +1616,7 @@
     {
       "name": "MXC Pickaxe",
       "url": "https://icarus.fandom.com/wiki/MXC_Pickaxe",
-      "description": "The MXC Pickaxe is the workshop equivalent of aStone Pickaxe, providing a minor boost to mining yield and efficiency.",
+      "description": "The MXC Pickaxe is the workshop equivalent of a Stone Pickaxe, providing a minor boost to mining yield and efficiency.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1638,7 +1638,7 @@
     {
       "name": "MXC Spear",
       "url": "https://icarus.fandom.com/wiki/MXC_Spear",
-      "description": "The MXC Spear is the firstSpearthat can be unlocked in theWorkshopon theSpace Stationand is equipped in the Prospector's loadout before starting a new prospect.",
+      "description": "The MXC Spear is the first Spearthat can be unlocked in the Workshopon the Space Stationand is equipped in the Prospector's loadout before starting a new prospect.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1660,7 +1660,7 @@
     {
       "name": "Machete",
       "url": "https://icarus.fandom.com/wiki/Machete",
-      "description": "The Machete is aToolthat can be used to skin Fauna and harvest Carrots, Wheat, shrubbery, etc. similar toSickles.",
+      "description": "The Machete is a Toolthat can be used to skin Fauna and harvest Carrots, Wheat, shrubbery, etc. similar to Sickles.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1687,7 +1687,7 @@
     {
       "name": "Miasmic Axe",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Axe",
-      "description": "Miasmic Axe is aTier 4Axemade withDistilled Miasmic Coatingderived fromCrystallized Miasmafound in theSwampsonPrometheus. Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Miasmic Axe is a Tier 4 Axemade with Distilled Miasmic Coatingderived from Crystallized Miasmafound in the Swampson Prometheus. Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1716,7 +1716,7 @@
     {
       "name": "Miasmic Knife",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Knife",
-      "description": "Miasmic Knife is aTier 4Knifemade withDistilled Miasmic Coatingderived fromCrystallized Miasmafound in theSwampsonPrometheus. Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Miasmic Knife is a Tier 4 Knifemade with Distilled Miasmic Coatingderived from Crystallized Miasmafound in the Swampson Prometheus. Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1745,7 +1745,7 @@
     {
       "name": "Miasmic Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Pickaxe",
-      "description": "Miasmic Pickaxe is aTier 4Pickaxemade withDistilled Miasmic Coatingderived fromCrystallized Miasmafound in theSwampsonPrometheus. Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Miasmic Pickaxe is a Tier 4 Pickaxemade with Distilled Miasmic Coatingderived from Crystallized Miasmafound in the Swampson Prometheus. Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1774,7 +1774,7 @@
     {
       "name": "Miasmic Sledgehammer",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Sledgehammer",
-      "description": "Miasmic Sledgehammer is aTier 4Sledgehammermade withDistilled Miasmic Coatingderived fromCrystallized Miasmafound in theSwampsonPrometheus. Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Miasmic Sledgehammer is a Tier 4 Sledgehammermade with Distilled Miasmic Coatingderived from Crystallized Miasmafound in the Swampson Prometheus. Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1802,7 +1802,7 @@
     {
       "name": "Miasmic Spear",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Spear",
-      "description": "Element damage does not scale with Spear talents. Unlike theMiasmic Javelin, the Miasmic Spear cannot be thrown.",
+      "description": "Element damage does not scale with Spear talents. Unlike the Miasmic Javelin, the Miasmic Spear cannot be thrown.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1824,7 +1824,7 @@
     {
       "name": "Miasmic Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Throwing_Knife",
-      "description": "The Miasmic Throwing Knife is a variant of theMiasmic Knifethat can only be thrown and is unlocked upon researching theMiasmic Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
+      "description": "The Miasmic Throwing Knife is a variant of the Miasmic Knifethat can only be thrown and is unlocked upon researching the Miasmic Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1845,7 +1845,7 @@
     {
       "name": "Obsidian Sledgehammer",
       "url": "https://icarus.fandom.com/wiki/Obsidian_Sledgehammer",
-      "description": "Obsidian Sledgehammer is aTier 2Sledgehammermade withShaped Obsidian. Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Obsidian Sledgehammer is a Tier 2 Sledgehammermade with Shaped Obsidian. Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1872,7 +1872,7 @@
     {
       "name": "Obsidian Spear",
       "url": "https://icarus.fandom.com/wiki/Obsidian_Spear",
-      "description": "Element damage does not scale with Spear talents. Unlike theObsidian Javelin, the Obsidian Spear cannot be thrown.",
+      "description": "Element damage does not scale with Spear talents. Unlike the Obsidian Javelin, the Obsidian Spear cannot be thrown.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1894,7 +1894,7 @@
     {
       "name": "Obsidian Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Obsidian_Throwing_Knife",
-      "description": "The Obsidian Throwing Knife is a variant of theObsidian Knifethat can only be thrown and is unlocked upon researching theObsidian Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
+      "description": "The Obsidian Throwing Knife is a variant of the Obsidian Knifethat can only be thrown and is unlocked upon researching the Obsidian Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1915,7 +1915,7 @@
     {
       "name": "One-Shot Pistol",
       "url": "https://icarus.fandom.com/wiki/One-Shot_Pistol",
-      "description": "The One-Shot Pistol is an inexpensive early-gameTier 2handgun that holds one bullet.",
+      "description": "The One-Shot Pistol is an inexpensive early-game Tier 2 handgun that holds one bullet.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1942,7 +1942,7 @@
     {
       "name": "Pistol",
       "url": "https://icarus.fandom.com/wiki/Pistol",
-      "description": "The Pistol is a single-shot 9mm handgun and is a decent upgrade in firepower available to prospectors. It fires 35 rounds ofPistol Ammunitionbefore breaking, so bring aMachining Bench/Repair Benchfor long trips.",
+      "description": "The Pistol is a single-shot 9mm handgun and is a decent upgrade in firepower available to prospectors. It fires 35 rounds of Pistol Ammunitionbefore breaking, so bring a Machining Bench/Repair Benchfor long trips.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1969,7 +1969,7 @@
     {
       "name": "Platinum Axe",
       "url": "https://icarus.fandom.com/wiki/Platinum_Axe",
-      "description": "The Platinum Axe is a mid/late-gameAxethat can be crafted while on the surface of Icarus.",
+      "description": "The Platinum Axe is a mid/late-game Axethat can be crafted while on the surface of Icarus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -1995,7 +1995,7 @@
     {
       "name": "Platinum Crossbow",
       "url": "https://icarus.fandom.com/wiki/Platinum_Crossbow",
-      "description": "The Platinum Crossbow is a mid/late game weapon that can penetrate hardened points with a chance to slow targets but has a slower fire rate thanBows.",
+      "description": "The Platinum Crossbow is a mid/late game weapon that can penetrate hardened points with a chance to slow targets but has a slower fire rate than Bows.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2022,7 +2022,7 @@
     {
       "name": "Platinum Hammer",
       "url": "https://icarus.fandom.com/wiki/Platinum_Hammer",
-      "description": "Hammers are used to repairBuilding PiecesandDeployables. Hammers are also used to upgradeBuilding Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
+      "description": "Hammers are used to repair Building Piecesand Deployables. Hammers are also used to upgrade Building Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2048,7 +2048,7 @@
     {
       "name": "Platinum Knife",
       "url": "https://icarus.fandom.com/wiki/Platinum_Knife",
-      "description": "The Platinum Knife is an upgrade in damage and durability from theSteel Knife, the Platinum Knife can be used as either a melee weapon or tool. Unlike thePlatinum Throwing Knife, the Platinum Knife cannot be thrown.",
+      "description": "The Platinum Knife is an upgrade in damage and durability from the Steel Knife, the Platinum Knife can be used as either a melee weapon or tool. Unlike the Platinum Throwing Knife, the Platinum Knife cannot be thrown.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2074,7 +2074,7 @@
     {
       "name": "Platinum Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Platinum_Pickaxe",
-      "description": "The Platinum Pickaxe is a mid/late-gamePickaxethat can be crafted while on the surface of Icarus.",
+      "description": "The Platinum Pickaxe is a mid/late-game Pickaxethat can be crafted while on the surface of Icarus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2100,7 +2100,7 @@
     {
       "name": "Platinum Spear",
       "url": "https://icarus.fandom.com/wiki/Platinum_Spear",
-      "description": "The Platinum Spear is the firstSpearavailable to prospectors once they reach Tier 3 and serves as an, albeit expensive, upgrade to its Tier 2 counterparts. Unlike thePlatinum Javelin, the Platinum Spear cannot be thrown.",
+      "description": "The Platinum Spear is the first Spearavailable to prospectors once they reach Tier 3  and serves as an, albeit expensive, upgrade to its Tier 2  counterparts. Unlike the Platinum Javelin, the Platinum Spear cannot be thrown.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2122,7 +2122,7 @@
     {
       "name": "Platinum Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Platinum_Throwing_Knife",
-      "description": "The Platinum Throwing Knife is a variant of thePlatinum Knifethat can be thrown. Unlike thePlatinum Knife, the Platinum Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
+      "description": "The Platinum Throwing Knife is a variant of the Platinum Knifethat can be thrown. Unlike the Platinum Knife, the Platinum Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2147,7 +2147,7 @@
     {
       "name": "Recurve Bow",
       "url": "https://icarus.fandom.com/wiki/Recurve_Bow",
-      "description": "The pinnacle of Instinctive Archery, made ofSteelandAluminium, the Recurve Bow hits harder than theLongbow.",
+      "description": "The pinnacle of Instinctive Archery, made of Steeland Aluminium, the Recurve Bow hits harder than the Longbow.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2175,7 +2175,7 @@
     {
       "name": "Rusty Shotgun",
       "url": "https://icarus.fandom.com/wiki/Rusty_Shotgun",
-      "description": "A crude version of theShotgunthat fires slower and holds fewer rounds. It uses any type ofShotgun Ammunition.",
+      "description": "A crude version of the Shotgunthat fires slower and holds fewer rounds. It uses any type of Shotgun Ammunition.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2201,7 +2201,7 @@
     {
       "name": "Sandworm Bow",
       "url": "https://icarus.fandom.com/wiki/Sandworm_Bow",
-      "description": "The Sandworm Bow is made with scales from theSandworm, using arrows and talents interchangeably with other bows.",
+      "description": "The Sandworm Bow is made with scales from the Sandworm, using arrows and talents interchangeably with other bows.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2223,7 +2223,7 @@
     {
       "name": "Sandworm Knife",
       "url": "https://icarus.fandom.com/wiki/Sandworm_Knife",
-      "description": "The Sandworm Knife is made with scales obtained fromSandworms. Considering the Sandworm Knife deals the same amount of damage as aSteel Knife, the Sandworm Knife is overshadowed by higher-tier knives and is not worth the effort.",
+      "description": "The Sandworm Knife is made with scales obtained from Sandworms. Considering the Sandworm Knife deals the same amount of damage as a Steel Knife, the Sandworm Knife is overshadowed by higher-tier knives and is not worth the effort.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2249,7 +2249,7 @@
     {
       "name": "Sandworm Spear",
       "url": "https://icarus.fandom.com/wiki/Sandworm_Spear",
-      "description": "The Sandworm Spear is made with scales fromSandwormsand can be used for melee combat with reach. Considering the Sandworm Spear deals the same amount of damage as aBone Spear, the Sandworm Spear is overshadowed by higher-tier spears and currently not worth the effort.",
+      "description": "The Sandworm Spear is made with scales from Sandwormsand can be used for melee combat with reach. Considering the Sandworm Spear deals the same amount of damage as a Bone Spear, the Sandworm Spear is overshadowed by higher-tier spears and currently not worth the effort.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2275,7 +2275,7 @@
     {
       "name": "Sandworm Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Sandworm_Throwing_Knife",
-      "description": "The Sandworm Throwing Knife is a variant of theSandworm Knifethat can be thrown. Unlike theSandworm Knife, the Sandworm Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
+      "description": "The Sandworm Throwing Knife is a variant of the Sandworm Knifethat can be thrown. Unlike the Sandworm Knife, the Sandworm Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2300,7 +2300,7 @@
     {
       "name": "Semi-Automatic Pistol",
       "url": "https://icarus.fandom.com/wiki/Semi-Automatic_Pistol",
-      "description": "The Semi-Automatic Pistol is aTier 3handgun with more ammo capacity than thePistol. It fires pistolPistol Ammunitionsuch asArmor Piercing,Explosive,Incendiary,Obsidianor regular9mm Rounds.",
+      "description": "The Semi-Automatic Pistol is a Tier 3 handgun with more ammo capacity than the Pistol. It fires pistol Pistol Ammunitionsuch as Armor Piercing,Explosive,Incendiary,Obsidianor regular9mm Rounds.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2327,7 +2327,7 @@
     {
       "name": "Shengong \"Akira\" Hammer",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Akira%22_Hammer",
-      "description": "Hammers are used to repairBuilding PiecesandDeployables. Hammers are also used to upgradeBuilding Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
+      "description": "Hammers are used to repair Building Piecesand Deployables. Hammers are also used to upgrade Building Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2348,7 +2348,7 @@
     {
       "name": "Shengong \"Daokou\" Knife",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Daokou%22_Knife",
-      "description": "The Shengong \"Daokou\" Knife is equivalent toTier 2Tech like theIron Knife, giving Prospectors the ability to skin larger animals, such asBuffaloandGrizzly Bears. UnlikeThrowing Knives, the Shengong \"Daokou\" Knife cannot be thrown. There currently are no Workshop throwing knives.",
+      "description": "The Shengong \"Daokou\" Knife is equivalent to Tier 2 Tech like the Iron Knife, giving Prospectors the ability to skin larger animals, such as Buffaloand Grizzly Bears. Unlike Throwing Knives, the Shengong \"Daokou\" Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2370,7 +2370,7 @@
     {
       "name": "Shengong \"Dida\" Spear",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Dida%22_Spear",
-      "description": "The Shengong \"Dida\" Spear is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospector's loadout before starting a new prospect.",
+      "description": "The Shengong \"Dida\" Spear is unlocked in the Workshopon the Space Stationand is equipped in the Prospector's loadout before starting a new prospect.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2392,7 +2392,7 @@
     {
       "name": "Shengong \"Dong\" Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Dong%22_Pickaxe",
-      "description": "The Shengong \"Dong\" Pickaxe is the Workshop equivalent of aSteel Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield.",
+      "description": "The Shengong \"Dong\" Pickaxe is the Workshop equivalent of a Steel Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2414,7 +2414,7 @@
     {
       "name": "Shengong \"Gong Bu\" Spear",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Gong_Bu%22_Spear",
-      "description": "The Shengong \"Gong Bu\" Spear is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospector's loadout before starting a new prospect.",
+      "description": "The Shengong \"Gong Bu\" Spear is unlocked in the Workshopon the Space Stationand is equipped in the Prospector's loadout before starting a new prospect.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2436,7 +2436,7 @@
     {
       "name": "Shengong \"Heike\" Axe",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Heike%22_Axe",
-      "description": "The Shengong \"Heike\" Axe is the Workshop equivalent of anIron Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees.",
+      "description": "The Shengong \"Heike\" Axe is the Workshop equivalent of an Iron Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2458,7 +2458,7 @@
     {
       "name": "Shengong \"Ji\" Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Ji%22_Bow",
-      "description": "The Shengong \"Ji\" Bow is a stronger, more durable variant of theRecurve Bowusing arrows and talents interchangeably with other bows.",
+      "description": "The Shengong \"Ji\" Bow is a stronger, more durable variant of the Recurve Bowusing arrows and talents interchangeably with other bows.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2480,7 +2480,7 @@
     {
       "name": "Shengong \"Jijing\" Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Jijing%22_Bow",
-      "description": "The Shengong \"Jijing\" Bow is a stronger, more durable variant of theRecurve Bowusing arrows and talents interchangeably with other bows.",
+      "description": "The Shengong \"Jijing\" Bow is a stronger, more durable variant of the Recurve Bowusing arrows and talents interchangeably with other bows.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2502,7 +2502,7 @@
     {
       "name": "Shengong \"Jiju\" Spear",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Jiju%22_Spear",
-      "description": "The Shengong \"Jiju\" Spear is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospector's loadout before starting a new prospect.",
+      "description": "The Shengong \"Jiju\" Spear is unlocked in the Workshopon the Space Stationand is equipped in the Prospector's loadout before starting a new prospect.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2524,7 +2524,7 @@
     {
       "name": "Shengong \"Jushi\" Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Jushi%22_Pickaxe",
-      "description": "The Shengong \"Jushi\" Pickaxe is the Workshop equivalent of aSteel Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield.",
+      "description": "The Shengong \"Jushi\" Pickaxe is the Workshop equivalent of a Steel Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2546,7 +2546,7 @@
     {
       "name": "Shengong \"Kuang\" Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Kuang%22_Pickaxe",
-      "description": "The Shengong \"Kuang\" Pickaxe is the Workshop equivalent of aSteel Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield.",
+      "description": "The Shengong \"Kuang\" Pickaxe is the Workshop equivalent of a Steel Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2568,7 +2568,7 @@
     {
       "name": "Shengong \"Xingxing\" Spear",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Xingxing%22_Spear",
-      "description": "The Shengong \"Xingxing\" Spear is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospector's loadout before starting a new prospect.",
+      "description": "The Shengong \"Xingxing\" Spear is unlocked in the Workshopon the Space Stationand is equipped in the Prospector's loadout before starting a new prospect.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2590,7 +2590,7 @@
     {
       "name": "Shengong \"Zhang Hu\" Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Zhang_Hu%22_Bow",
-      "description": "The Shengong \"Zhang Hu\" Bow is a stronger, more durable variant of theRecurve Bowusing arrows and talents interchangeably with other bows.",
+      "description": "The Shengong \"Zhang Hu\" Bow is a stronger, more durable variant of the Recurve Bowusing arrows and talents interchangeably with other bows.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2612,7 +2612,7 @@
     {
       "name": "Shengong 'Lie' Axe",
       "url": "https://icarus.fandom.com/wiki/Shengong_%27Lie%27_Axe",
-      "description": "The Shengong 'Lie' Axe is the Workshop equivalent of anIron Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees.",
+      "description": "The Shengong 'Lie' Axe is the Workshop equivalent of an Iron Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2634,7 +2634,7 @@
     {
       "name": "Shengong 'Qie' Knife",
       "url": "https://icarus.fandom.com/wiki/Shengong_%27Qie%27_Knife",
-      "description": "This knife and others, such as theShengong 'Sichou' Knife, with the additional attribute that gives increased skinning yield actually has a 230% Yield from Skinning. This is because the additional attribute is multiplicative and not additive, making them better than theTitanium KnifeorInaris \"Ventura\" Knifeat skinning. UnlikeThrowing Knives, the Shengong 'Qie' Knife cannot be thrown. There currently are no Workshop throwing knives.",
+      "description": "This knife and others, such as the Shengong 'Sichou' Knife, with the additional attribute that gives increased skinning yield actually has a 230% Yield from Skinning. This is because the additional attribute is multiplicative and not additive, making them better than the Titanium Knifeor Inaris \"Ventura\" Knifeat skinning. Unlike Throwing Knives, the Shengong 'Qie' Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2656,7 +2656,7 @@
     {
       "name": "Shengong 'Sen' Axe",
       "url": "https://icarus.fandom.com/wiki/Shengong_%27Sen%27_Axe",
-      "description": "The Shengong 'Sen' Axe is the Workshop equivalent of anIron Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees.",
+      "description": "The Shengong 'Sen' Axe is the Workshop equivalent of an Iron Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2678,7 +2678,7 @@
     {
       "name": "Shengong 'Shui' Knife",
       "url": "https://icarus.fandom.com/wiki/Shengong_%27Shui%27_Knife",
-      "description": "The Shengong 'Shui' Knife is equivalent toTier 2Tech like theIron Knife, giving Prospectors the ability to skin larger animals, such asBuffaloandGrizzly Bears. UnlikeThrowing Knives, the Shengong 'Shui' Knife cannot be thrown. There currently are no Workshop throwing knives.",
+      "description": "The Shengong 'Shui' Knife is equivalent to Tier 2 Tech like the Iron Knife, giving Prospectors the ability to skin larger animals, such as Buffaloand Grizzly Bears. Unlike Throwing Knives, the Shengong 'Shui' Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2700,7 +2700,7 @@
     {
       "name": "Shengong 'Sichou' Knife",
       "url": "https://icarus.fandom.com/wiki/Shengong_%27Sichou%27_Knife",
-      "description": "This knife and others, such as theShengong 'Qie' Knife, with the additional attribute that gives increased skinning yield actually has a 230% Yield from Skinning. This is because the additional attribute is multiplicative and not additive, making them better than theTitanium KnifeorInaris \"Ventura\" Knifeat skinning. UnlikeThrowing Knives, the Shengong 'Sichou' Knife cannot be thrown. There currently are no Workshop throwing knives.",
+      "description": "This knife and others, such as the Shengong 'Qie' Knife, with the additional attribute that gives increased skinning yield actually has a 230% Yield from Skinning. This is because the additional attribute is multiplicative and not additive, making them better than the Titanium Knifeor Inaris \"Ventura\" Knifeat skinning. Unlike Throwing Knives, the Shengong 'Sichou' Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2722,7 +2722,7 @@
     {
       "name": "Shengong 'Sui Shi' Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Shengong_%27Sui_Shi%27_Pickaxe",
-      "description": "The Shengong 'Sui Shi' Pickaxe is the Workshop equivalent of aSteel Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield.",
+      "description": "The Shengong 'Sui Shi' Pickaxe is the Workshop equivalent of a Steel Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2744,7 +2744,7 @@
     {
       "name": "Shengong 'Tetsuo' Hammer",
       "url": "https://icarus.fandom.com/wiki/Shengong_%27Tetsuo%27_Hammer",
-      "description": "Hammers are used to repairBuilding PiecesandDeployables. Hammers are also used to upgradeBuilding Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
+      "description": "Hammers are used to repair Building Piecesand Deployables. Hammers are also used to upgrade Building Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2765,7 +2765,7 @@
     {
       "name": "Shengong CY7 Axe",
       "url": "https://icarus.fandom.com/wiki/Shengong_CY7_Axe",
-      "description": "The Shengong CY7 Axe is a Workshop Axe geared towards combat, intrinsically dealing electric damage with the chance to significantly hinder targets. Ideally used with theBerserkertalent, which increases axe melee damage.",
+      "description": "The Shengong CY7 Axe is a Workshop Axe geared towards combat, intrinsically dealing electric damage with the chance to significantly hinder targets. Ideally used with the Berserkertalent, which increases axe melee damage.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2809,7 +2809,7 @@
     {
       "name": "Shengong DL7 Knife",
       "url": "https://icarus.fandom.com/wiki/Shengong_DL7_Knife",
-      "description": "The Shengong DL7 Knife is a Workshop Knife geared towards combat, intrinsically dealing electric damage with a chance to significantly hinder targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Shengong DL7 Knife cannot be thrown, and there currently are no workshopThrowing Knives.",
+      "description": "The Shengong DL7 Knife is a Workshop Knife geared towards combat, intrinsically dealing electric damage with a chance to significantly hinder targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Shengong DL7 Knife cannot be thrown, and there currently are no workshop Throwing Knives.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2831,7 +2831,7 @@
     {
       "name": "Shengong HS2 Bow",
       "url": "https://icarus.fandom.com/wiki/Shengong_HS2_Bow",
-      "description": "The Shengong HS2 Bow is a stronger variant of the Shengong Bows using arrows and talents interchangeably with other bows. Despite the Shengong HS2 Bow dealing 35% less damage than theLarkwell Martinez Compound Bow, the Shengong HS2 Bow is unmatched in reload speed and fire rate; perfect for the Prospector who wants to fill the skies with arrows.",
+      "description": "The Shengong HS2 Bow is a stronger variant of the Shengong Bows using arrows and talents interchangeably with other bows. Despite the Shengong HS2 Bow dealing 35% less damage than the Larkwell Martinez Compound Bow, the Shengong HS2 Bow is unmatched in reload speed and fire rate; perfect for the Prospector who wants to fill the skies with arrows.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2853,7 +2853,7 @@
     {
       "name": "Shengong PF1 Spear",
       "url": "https://icarus.fandom.com/wiki/Shengong_PF1_Spear",
-      "description": "Element damage does not scale with Spear talents. The Shengong PF1 Spear cannot be thrown, and there are currently no WorkshopJavelins.",
+      "description": "Element damage does not scale with Spear talents. The Shengong PF1 Spear cannot be thrown, and there are currently no Workshop Javelins.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2875,7 +2875,7 @@
     {
       "name": "Shengong UT5 Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Shengong_UT5_Pickaxe",
-      "description": "The Shengong UT5 Pickaxe is a Workshop Pickaxe geared towards combat, intrinsically dealing electric damage with the chance to significantly hinder targets. Since the Shengong UT5 Pickaxe has the same mining radius and yield as theLarkwell Martinez Pickaxe, Prospectors are better off using theInaris \"Neves\" Pickaxefor mining.",
+      "description": "The Shengong UT5 Pickaxe is a Workshop Pickaxe geared towards combat, intrinsically dealing electric damage with the chance to significantly hinder targets. Since the Shengong UT5 Pickaxe has the same mining radius and yield as the Larkwell Martinez Pickaxe, Prospectors are better off using the Inaris \"Neves\" Pickaxefor mining.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2897,7 +2897,7 @@
     {
       "name": "Shotgun",
       "url": "https://icarus.fandom.com/wiki/Shotgun",
-      "description": "The Shotgun is one of the firstFirearmsavailable to prospectors. Using12-Gauge Buckshot Shellfor ammunition, the Shotgun is more powerful than theBolt Action Rifleat close range. However, damage decreases rapidly as range increases, and prospectors should not rely on it for long-range encounters with theFaunaof Icarus. The Shotgun can fire 100 rounds before breaking, and the talentGunsmithcan increase this to up to a maximum of 125 rounds, so bring aMachining Benchfor long trips.",
+      "description": "The Shotgun is one of the first Firearmsavailable to prospectors. Using12-Gauge Buckshot Shellfor ammunition, the Shotgun is more powerful than the Bolt Action Rifleat close range. However, damage decreases rapidly as range increases, and prospectors should not rely on it for long-range encounters with the Faunaof Icarus. The Shotgun can fire 100 rounds before breaking, and the talent Gunsmithcan increase this to up to a maximum of 125 rounds, so bring a Machining Benchfor long trips.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2945,7 +2945,7 @@
     {
       "name": "Steel Axe",
       "url": "https://icarus.fandom.com/wiki/Steel_Axe",
-      "description": "The Steel Axe is a mid-gameToolavailable in Icarus. Prospectors can unlock it inTier 2of theTech Tree, after reaching Level 20.",
+      "description": "The Steel Axe is a mid-game Toolavailable in Icarus. Prospectors can unlock it in Tier 2 of the Tech Tree, after reaching Level 20.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2967,7 +2967,7 @@
     {
       "name": "Steel Hammer",
       "url": "https://icarus.fandom.com/wiki/Steel_Hammer",
-      "description": "Hammers are used to repairBuilding PiecesandDeployables. Hammers are also used to upgradeBuilding Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
+      "description": "Hammers are used to repair Building Piecesand Deployables. Hammers are also used to upgrade Building Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2993,7 +2993,7 @@
     {
       "name": "Steel Knife",
       "url": "https://icarus.fandom.com/wiki/Steel_Knife",
-      "description": "The Steel Knife is an upgrade in damage and durability from theIron Knife, the Steel Knife can be used as either a melee weapon or tool. An attachment slot is available, allowing for the application ofTool Attachment Packsat anAlteration Bench/Advanced Alteration Bench.",
+      "description": "The Steel Knife is an upgrade in damage and durability from the Iron Knife, the Steel Knife can be used as either a melee weapon or tool. An attachment slot is available, allowing for the application of Tool Attachment Packsat an Alteration Bench/Advanced Alteration Bench.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3020,7 +3020,7 @@
     {
       "name": "Steel Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Steel_Pickaxe",
-      "description": "The Steel pickaxe is the 3rd pickaxe prospectors can unlock during your time on Icarus and allows for the mining of denserMineralsnot obtainable with theIron PickaxeorStone Pickaxe. Like iron tools, the steel pickaxe is made and is repairable at anAnvil Bench.",
+      "description": "The Steel pickaxe is the 3rd pickaxe prospectors can unlock during your time on Icarus and allows for the mining of denser Mineralsnot obtainable with the Iron Pickaxeor Stone Pickaxe. Like iron tools, the steel pickaxe is made and is repairable at an Anvil Bench.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3042,7 +3042,7 @@
     {
       "name": "Steel Spear",
       "url": "https://icarus.fandom.com/wiki/Steel_Spear",
-      "description": "The Steel Spear is an upgrade to theIron Spearthat deals more damage/critical damage to targets and has twice the durability. Unlike theSteel Javelin, the Steel Spear cannot be thrown.",
+      "description": "The Steel Spear is an upgrade to the Iron Spearthat deals more damage/critical damage to targets and has twice the durability. Unlike the Steel Javelin, the Steel Spear cannot be thrown.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3064,7 +3064,7 @@
     {
       "name": "Steel Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Steel_Throwing_Knife",
-      "description": "The Steel Throwing Knife is a variant of theSteel Knifethat can be thrown. Unlike theSteel Knife, the Steel Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
+      "description": "The Steel Throwing Knife is a variant of the Steel Knifethat can be thrown. Unlike the Steel Knife, the Steel Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3090,7 +3090,7 @@
     {
       "name": "Stone Axe",
       "url": "https://icarus.fandom.com/wiki/Stone_Axe",
-      "description": "The Stone Axe is used primarily for chopping down trees andSmall Trees, reducing them to usableWood. In the process of chopping apart fallen trees, a small number ofSticksmay be added to your inventory automatically.",
+      "description": "The Stone Axe is used primarily for chopping down trees and Small Trees, reducing them to usable Wood. In the process of chopping apart fallen trees, a small number of Sticksmay be added to your inventory automatically.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3116,7 +3116,7 @@
     {
       "name": "Stone Knife",
       "url": "https://icarus.fandom.com/wiki/Stone_Knife",
-      "description": "The first knife that can be unlocked, the Stone Knife is a fast melee weapon and doubles as a tool with any knife being necessary to skin a carcass prior to unlocking theSkinning Bench.",
+      "description": "The first knife that can be unlocked, the Stone Knife is a fast melee weapon and doubles as a tool with any knife being necessary to skin a carcass prior to unlocking the Skinning Bench.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3142,7 +3142,7 @@
     {
       "name": "Stone Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Stone_Throwing_Knife",
-      "description": "The Stone Throwing Knife is a variant of theStone Knifethat can be thrown. Unlike theStone Knife, the Stone Throwing Knife cannot be used to skin fauna. Crafted in batches of 5 and stacks up to fifty.",
+      "description": "The Stone Throwing Knife is a variant of the Stone Knifethat can be thrown. Unlike the Stone Knife, the Stone Throwing Knife cannot be used to skin fauna. Crafted in batches of 5 and stacks up to fifty.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3167,7 +3167,7 @@
     {
       "name": "Submachine Gun",
       "url": "https://icarus.fandom.com/wiki/Submachine_Gun",
-      "description": "The Submachine Gun is a compact firearm with low projectile and critical damage, but a high rate of fire. It usesPistol Ammunitionsuch asArmor Piercing,Explosive,Incendiary,Obsidianor regular9mm Rounds.",
+      "description": "The Submachine Gun is a compact firearm with low projectile and critical damage, but a high rate of fire. It uses Pistol Ammunitionsuch as Armor Piercing,Explosive,Incendiary,Obsidianor regular9mm Rounds.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3196,7 +3196,7 @@
     {
       "name": "Tactical Bow",
       "url": "https://icarus.fandom.com/wiki/Tactical_Bow",
-      "description": "The Tactical Bow is an advanced bow that is part of theGreat Hunts CampaignsDLC onPrometheus. It fires any type ofArrowand can be upgraded in theBio-lab.",
+      "description": "The Tactical Bow is an advanced bow that is part of the Great Hunts Campaigns DLC on Prometheus. It fires any type of Arrowand can be upgraded in the Bio-lab.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3220,7 +3220,7 @@
     {
       "name": "Taxidermy Knife",
       "url": "https://icarus.fandom.com/wiki/Taxidermy_Knife",
-      "description": "The Taxidermy Knife is used for skinningFaunacarcasses, when a prospector wishes to obtain aVestigefor mounting. Skinning any carcass with a taxidermy knife grants fourBestiarypoints for the animal skinned.",
+      "description": "The Taxidermy Knife is used for skinning Faunacarcasses, when a prospector wishes to obtain a Vestigefor mounting. Skinning any carcass with a taxidermy knife grants four Bestiarypoints for the animal skinned.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3247,7 +3247,7 @@
     {
       "name": "Titanium Axe",
       "url": "https://icarus.fandom.com/wiki/Titanium_Axe",
-      "description": "The Titanium Axe is the highest tieredAxethat can be crafted while on the surface of Icarus.",
+      "description": "The Titanium Axe is the highest tiered Axethat can be crafted while on the surface of Icarus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3274,7 +3274,7 @@
     {
       "name": "Titanium Crossbow",
       "url": "https://icarus.fandom.com/wiki/Titanium_Crossbow",
-      "description": "The Titanium Crossbow is an upgrade to the Platinum Crossbow that offers a boost to projectile damage and a slightly larger ammo count; has a chance to slow targets and can fully penetrate hardened points, but has a slower fire rate thanBows.",
+      "description": "The Titanium Crossbow is an upgrade to the Platinum Crossbow that offers a boost to projectile damage and a slightly larger ammo count; has a chance to slow targets and can fully penetrate hardened points, but has a slower fire rate than Bows.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3302,7 +3302,7 @@
     {
       "name": "Titanium Hammer",
       "url": "https://icarus.fandom.com/wiki/Titanium_Hammer",
-      "description": "Hammers are used to repairBuilding PiecesandDeployables. Hammers are also used to upgradeBuilding Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
+      "description": "Hammers are used to repair Building Piecesand Deployables. Hammers are also used to upgrade Building Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3328,7 +3328,7 @@
     {
       "name": "Titanium Knife",
       "url": "https://icarus.fandom.com/wiki/Titanium_Knife",
-      "description": "The Titanium Knife is an upgrade in damage and durability from thePlatinum Knife, the Titanium Knife can be used as either a melee weapon or tool. Unlike theTitanium Throwing Knife, the Titanium Knife cannot be thrown.",
+      "description": "The Titanium Knife is an upgrade in damage and durability from the Platinum Knife, the Titanium Knife can be used as either a melee weapon or tool. Unlike the Titanium Throwing Knife, the Titanium Knife cannot be thrown.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3355,7 +3355,7 @@
     {
       "name": "Titanium Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Titanium_Pickaxe",
-      "description": "The Titanium Pickaxe is the highest-tieredPickaxethat can be crafted while on the surface of Icarus. When combined with aTool Attachment Pack/Advanced Tool Attachment Pack, the Titanium Pickaxe surpasses theInaris \"Neves\" Pickaxein terms of mining.",
+      "description": "The Titanium Pickaxe is the highest-tiered Pickaxethat can be crafted while on the surface of Icarus. When combined with a Tool Attachment Pack/Advanced Tool Attachment Pack, the Titanium Pickaxe surpasses the Inaris \"Neves\" Pickaxein terms of mining.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3382,7 +3382,7 @@
     {
       "name": "Titanium Spear",
       "url": "https://icarus.fandom.com/wiki/Titanium_Spear",
-      "description": "The Titanium Spear is the firstSpearavailable to prospectors once they reach Tier 4 and serves as an, albeit expensive, upgrade to its Tier 3 counterparts. Unlike theTitanium Javelin, the Titanium Spear cannot be thrown.",
+      "description": "The Titanium Spear is the first Spearavailable to prospectors once they reach Tier 4  and serves as an, albeit expensive, upgrade to its Tier 3  counterparts. Unlike the Titanium Javelin, the Titanium Spear cannot be thrown.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3404,7 +3404,7 @@
     {
       "name": "Titanium Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Titanium_Throwing_Knife",
-      "description": "The Titanium Throwing Knife is a variant of theTitanium Knifethat can be thrown. Unlike theTitanium Knife, the Titanium Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
+      "description": "The Titanium Throwing Knife is a variant of the Titanium Knifethat can be thrown. Unlike the Titanium Knife, the Titanium Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3430,7 +3430,7 @@
     {
       "name": "Tomato & Egg Bowl",
       "url": "https://icarus.fandom.com/wiki/Tomato_%26_Egg_Bowl",
-      "description": "Tomato & Egg Bowl is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "description": "Tomato & Egg Bowl is a Foodwith a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3448,7 +3448,7 @@
     {
       "name": "Trench Shotgun",
       "url": "https://icarus.fandom.com/wiki/Trench_Shotgun",
-      "description": "The Trench Shotgun is aTier 4variant of theShotgunthat packs a punch and currently is the highest damage dealing close-range weapon available. It uses any type ofShotgun Ammunition. With the highest ammo capacity and projectile damage amongst all three Shotguns, the Trench Shotgun is a go-to for the Shotgun enthusiast in the group. The Trench Shotgun can fire 100 rounds before breaking, and the talentGunsmithcan increase this to up to a maximum of 125 rounds, so bring aFabricatorfor long trips.",
+      "description": "The Trench Shotgun is a Tier 4 variant of the Shotgunthat packs a punch and currently is the highest damage dealing close-range weapon available. It uses any type of Shotgun Ammunition. With the highest ammo capacity and projectile damage amongst all three Shotguns, the Trench Shotgun is a go-to for the Shotgun enthusiast in the group. The Trench Shotgun can fire 100 rounds before breaking, and the talent Gunsmithcan increase this to up to a maximum of 125 rounds, so bring a Fabricatorfor long trips.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3476,7 +3476,7 @@
     {
       "name": "Wood Bow",
       "url": "https://icarus.fandom.com/wiki/Wood_Bow",
-      "description": "The Wood Bow is the first bow a player can get access to. It can be unlocked via the Tech Tree inTier 1with no prerequisite tech required.",
+      "description": "The Wood Bow is the first bow a player can get access to. It can be unlocked via the Tech Tree in Tier 1 with no prerequisite tech required.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3500,7 +3500,7 @@
     {
       "name": "Wood Hammer",
       "url": "https://icarus.fandom.com/wiki/Wood_Hammer",
-      "description": "Hammers are used to repairBuilding PiecesandDeployables. Hammers are also used to upgradeBuilding Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
+      "description": "Hammers are used to repair Building Piecesand Deployables. Hammers are also used to upgrade Building Pieces. In order to do so, the Prospector must have the building pieces in their inventory prior to upgrading. To select the building material, hold R while the Hammer is equipped and select a material from the radial wheel. Once the material is selected, right clicking on a building piece will upgrade it to the selected material if the building piece is currently in the Prospectors inventory.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3525,7 +3525,7 @@
     {
       "name": "Wood Spear",
       "url": "https://icarus.fandom.com/wiki/Wood_Spear",
-      "description": "The Wood Spear is the firstSpearavailable to prospectors and serves as an alternative to theStone Knife, dealing increased critical damage but with a slower attack speed. Like other spears, the Wood Spear increase the range to which prospectors can attack fauna, providing a unique advantage when up high.",
+      "description": "The Wood Spear is the first Spearavailable to prospectors and serves as an alternative to the Stone Knife, dealing increased critical damage but with a slower attack speed. Like other spears, the Wood Spear increase the range to which prospectors can attack fauna, providing a unique advantage when up high.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",

@@ -52,7 +52,7 @@
     {
       "name": "Miner's Module",
       "url": "https://icarus.fandom.com/wiki/Miner%27s_Module",
-      "description": "This module is theWorkshopequivalent of theSupplemental Respiration Attachment, with the added damage bonus toCaveworms. It can be researched and crafted on theSpace Stationin theWorkshop. Multiple Miner's Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase benefits received from the modules.",
+      "description": "This module is the Workshopequivalent of the Supplemental Respiration Attachment, with the added damage bonus to Caveworms. It can be researched and crafted on the Space Stationin the Workshop. Multiple Miner's Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase benefits received from the modules.",
       "item_type": "ammunition",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -70,7 +70,7 @@
     {
       "name": "Prototype Trail Beacon",
       "url": "https://icarus.fandom.com/wiki/Prototype_Trail_Beacon",
-      "description": "The Prototype Trail Beacon is a small portable self-powered beacon that is deployed with thePrototype Trail Beacon Toolto form a breadcrumb trail in the uncharted areas of theNull Sector RegiononPrometheus.",
+      "description": "The Prototype Trail Beacon is a small portable self-powered beacon that is deployed with the Prototype Trail Beacon Toolto form a breadcrumb trail in the uncharted areas of the Null Sector Regionon Prometheus.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -97,7 +97,7 @@
     {
       "name": "Prototype Trail Beacon Tool",
       "url": "https://icarus.fandom.com/wiki/Prototype_Trail_Beacon_Tool",
-      "description": "The Prototype Trail Beacon Tool is a handheld device used to place a breadcrumb trail ofPrototype Trail Beaconswhen exploring theNull Sector Regionon thePrometheusmap.",
+      "description": "The Prototype Trail Beacon Tool is a handheld device used to place a breadcrumb trail of Prototype Trail Beaconswhen exploring the Null Sector Regionon the Prometheusmap.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -124,7 +124,7 @@
     {
       "name": "Scorpion Pincer Trap",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Pincer_Trap",
-      "description": "Scorpion Pincer Traps are sturdy defenses used around your base or while at objectives for protection of equipment. The recipe blueprint to craft this defensive trap is only unlocked after completing the prospectCarapace: Research. The blueprint unlocks account-wide once the mission is completed.",
+      "description": "Scorpion Pincer Traps are sturdy defenses used around your base or while at objectives for protection of equipment. The recipe blueprint to craft this defensive trap is only unlocked after completing the prospect Carapace: Research. The blueprint unlocks account-wide once the mission is completed.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -149,7 +149,7 @@
     {
       "name": "Snare Trap",
       "url": "https://icarus.fandom.com/wiki/Snare_Trap",
-      "description": "The Snare Trap is a deployable item used to trap and tame certain animals on Icarus. It must be filled with suitableAnimal Baitand placed in an area to attract the desired animal.",
+      "description": "The Snare Trap is a deployable item used to trap and tame certain animals on Icarus. It must be filled with suitable Animal Baitand placed in an area to attract the desired animal.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Unknown",
