@@ -1019,38 +1019,85 @@
                 return matchesSearch && matchesCategory && matchesTier;
             });
 
-            const checkItemAvailability = (item, map, visited = new Set()) => {
+            const checkItemAvailability = (item, map, path = []) => {
                 const recipe = recipes[item];
                 if (!recipe) return false;
                 
                 // Prevent infinite recursion
-                if (visited.has(item)) return true;
-                visited.add(item);
+                if (path.includes(item)) return true;
                 
+                // Check for map-exclusive items first
                 if (recipe.map_exclusive && recipe.map_exclusive !== map) {
                     return false;
                 }
                 
                 const requiredMaterials = Object.keys(recipe.ingredients || {});
                 
+                // If no ingredients, it's likely a raw material or basic item
                 if (requiredMaterials.length === 0) {
                     return MAP_RESOURCES[map]?.includes(item) || 
                            recipe.crafted_at === 'Character' ||
+                           recipe.crafted_at === 'Character Crafting' ||
                            recipe.category === 'Raw Materials' ||
+                           recipe.category === 'Consumables' ||
                            recipe.tier <= 1;
                 }
                 
+                // For items with ingredients, be very permissive with basic materials
                 for (const material of requiredMaterials) {
+                    // Comprehensive list of materials that should always be considered available
                     const alwaysAvailableMaterials = [
-                        'Fiber', 'Wood', 'Stone', 'Stick', 'Sticks', 'Leather', 'Fur', 'Bone',
-                        'Iron Ore', 'Copper Ore', 'Coal', 'Iron Ingot', 'Steel Ingot'
+                        // Basic gathered materials
+                        'Fiber', 'Wood', 'Stone', 'Stick', 'Sticks', 'Leather', 'Fur', 'Bone', 'Clay', 'Wool',
+                        
+                        // Basic ores (available in caves on all maps)
+                        'Iron Ore', 'Copper Ore', 'Coal', 'Gold Ore', 'Aluminum Ore', 'Platinum Ore', 'Titanium Ore',
+                        
+                        // Basic processed materials
+                        'Iron Ingot', 'Steel Ingot', 'Copper Ingot', 'Steel Bloom', 'Oxite', 'Sulfur', 'Tree Sap',
+                        'Aluminum Ingot', 'Platinum Ingot', 'Titanium Ingot', 'Refined Gold',
+                        
+                        // Basic creature materials
+                        'Brown Bear Leather', 'Brown Bear Fur', 'Brown Bear Bone',
+                        'Wolf Leather', 'Wolf Fur', 'Wolf Bone',
+                        'Deer Leather', 'Deer Fur', 'Deer Bone',
+                        
+                        // Basic crafted materials
+                        'Rope', 'Glass', 'Charcoal', 'Carbon Paste', 'Iron Nail', 'Copper Nail', 'Steel Screw',
+                        'Copper Wire', 'Gold Wire', 'Electronics', 'Carbon Fiber', 'Composites', 'Epoxy',
+                        'Organic Resin', 'Concrete Mix', 'Silica',
+                        
+                        // Water and consumables
+                        'Water', 'Ice', 'Salt',
+                        
+                        // Food/farming materials
+                        'Pumpkin', 'Corn', 'Wheat', 'Carrot', 'Potato', 'Tomato', 'Beans', 'Berry', 'Apple',
+                        'Reed Flower', 'Reed', 'Flower', 'Mushroom', 'Fruit', 'Vegetable', 'Grain', 'Seed'
                     ];
                     
-                    if (alwaysAvailableMaterials.includes(material) || MAP_RESOURCES[map]?.includes(material)) {
+                    // Handle common plural/singular variations
+                    const materialVariations = [
+                        material,
+                        material.replace(/s$/, ''),
+                        material + 's',
+                        material.replace('Sticks', 'Stick'),
+                        material.replace('Stick', 'Sticks')
+                    ];
+                    
+                    // Check if any variation of the material is available
+                    const isBasicMaterial = materialVariations.some(variation => 
+                        alwaysAvailableMaterials.includes(variation) || 
+                        MAP_RESOURCES[map]?.includes(variation)
+                    );
+                    
+                    if (isBasicMaterial) {
                         continue;
                     }
                     
-                    if (!checkItemAvailability(material, map, visited)) {
+                    // Recursively check the material
+                    const materialAvailable = checkItemAvailability(material, map, [...path, item]);
+                    
+                    if (!materialAvailable) {
                         return false;
                     }
                 }
