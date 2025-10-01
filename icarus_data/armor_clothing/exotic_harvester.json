@@ -2,9 +2,9 @@
   "name": "Exotic Harvester",
   "url": "https://icarus.fandom.com/wiki/Exotic_Harvester",
   "description": "The Exotic Harvester is used to extractVolatile Raw Exoticsfrom Volatile Raw Exotic deposits. Requires 1,500 kWh to operate.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "3.0 kg",

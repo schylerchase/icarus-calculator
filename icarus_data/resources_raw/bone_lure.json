@@ -4,7 +4,7 @@
   "description": "The Bone Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone increase is the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Bone Lure degrades with use and will eventually break after ten uses.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Basic Fishing Bench",
   "tier": 2,
   "stats": {
     "weight": "0.25 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Bone": 2,
-      "Iron Nail": 2,
-      "Fiber": 2
-    },
-    "crafted_at": "Fishing Bench"
+    "ingredients": {},
+    "crafted_at": "Basic Fishing Bench"
   }
 }

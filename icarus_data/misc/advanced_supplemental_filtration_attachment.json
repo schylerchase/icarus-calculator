@@ -4,7 +4,7 @@
   "description": "The Advanced Supplemental Filtration Attachment is an armor alteration that provides resistance to poison and reduced water consumption.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Advanced Alteration Bench",
   "tier": 4,
   "stats": {
     "weight": "1.0 kg"
@@ -14,12 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Carbon Fiber": 1,
-      "Electronics": 1,
-      "Epoy": 4,
-      "Supplemental Filtration Attachment": 1
-    },
+    "ingredients": {},
     "crafted_at": "Advanced Alteration Bench"
   }
 }

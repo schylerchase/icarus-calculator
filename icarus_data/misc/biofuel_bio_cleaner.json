@@ -2,9 +2,9 @@
   "name": "Biofuel Bio-Cleaner",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Bio-Cleaner",
   "description": "The Biofuel Bio-Cleaner is a deployableTier 3cleaning device that can process organic materials collected from world bosses intoLegendary Biomassand clean infected materials found onPrometheus, similar to theTier 4Organic Residue Cleanser.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
     "weight": "2.5 kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Machining Bench"
+    "crafted_at": "Machining Bench Fabricator"
   }
 }

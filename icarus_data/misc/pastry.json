@@ -4,7 +4,7 @@
   "description": "Pastry is a component in making food, such asCrumbed Saltwater FilletandMeat Pie.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Kitchen Bench Marble Kitchen Bench",
   "tier": 3,
   "stats": {},
   "category": "resources",
@@ -12,10 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Animal Fat": 1,
-      "Flour": 1
-    },
-    "crafted_at": "Crafted at\n Kitchen Bench"
+    "ingredients": {},
+    "crafted_at": "Kitchen Bench Marble Kitchen Bench"
   }
 }

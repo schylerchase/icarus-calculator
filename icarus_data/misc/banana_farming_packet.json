@@ -2,7 +2,7 @@
   "name": "Banana Farming Packet",
   "url": "https://icarus.fandom.com/wiki/Banana_Farming_Packet",
   "description": "The Banana Farming Packet is a packet of seeds for planting and growingBananas. It is unlocked in theWorkshopafter completing the missionApe Escapein theGreat Hunts Campaigns.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

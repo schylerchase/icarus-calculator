@@ -1,0 +1,19 @@
+{
+  "name": "Gorse Flower",
+  "url": "https://icarus.fandom.com/wiki/Gorse_Flower",
+  "description": "Gorse Flower are a common form ofPlantlifefound in theForestandRiverlandslocationson Icarus.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "plant resources",
+  "harvested_from": [
+    "the Forest",
+    "Riverl",
+    "s locations on Icarus"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": null
+}

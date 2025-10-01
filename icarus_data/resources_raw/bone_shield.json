@@ -2,7 +2,7 @@
   "name": "Bone Shield",
   "url": "https://icarus.fandom.com/wiki/Bone_Shield",
   "description": "The Bone Shield is crafted at the Character Crafting menu with the following resources:",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -14,11 +14,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Bone": 25,
-      "Leather": 15
-    },
-    "crafted_at": "Character"
-  }
+  "base_recipe": null
 }

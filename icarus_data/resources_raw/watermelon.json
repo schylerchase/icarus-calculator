@@ -1,0 +1,19 @@
+{
+  "name": "Watermelon",
+  "url": "https://icarus.fandom.com/wiki/Watermelon",
+  "description": "Watermelons are a common form ofPlantlifefound in theForestandRiverlandslocationson Icarus. When consumed by Prospectors, they replenishHungerandThirst.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [
+    "the Forest",
+    "Riverl",
+    "s locations on Icarus"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": null
+}

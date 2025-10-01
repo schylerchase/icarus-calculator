@@ -1,0 +1,17 @@
+{
+  "name": "MXC Venom Arrow",
+  "url": "https://icarus.fandom.com/wiki/MXC_Venom_Arrow",
+  "description": "The MXC Venom Arrow is ammunition used with aBow. Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
+  "item_type": "orbital",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.015 kg"
+  },
+  "category": "arrows",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": 3,
+  "base_recipe": null
+}

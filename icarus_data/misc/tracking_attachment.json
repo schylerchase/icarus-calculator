@@ -4,7 +4,7 @@
   "description": "The Tracking Attachment is an armor alteration that boosts Critical Damage and allows active world bosses to be seen on the map.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Advanced Alteration Bench",
   "tier": 4,
   "stats": {
     "weight": "1.0 kg"
@@ -14,10 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Titanium Ingot": 2,
-      "Electronics": 4
-    },
+    "ingredients": {},
     "crafted_at": "Advanced Alteration Bench"
   }
 }

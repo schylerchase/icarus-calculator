@@ -4,7 +4,7 @@
   "description": "Electronics are used in a variety of high-end buildings and components.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {},
   "category": "resources",
@@ -12,12 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Gold Wire": 5,
-      "Copper Wire": 15,
-      "Organic Resin": 2,
-      "Epoy": 2
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

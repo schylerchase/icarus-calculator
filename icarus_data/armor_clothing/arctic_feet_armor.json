@@ -2,9 +2,9 @@
   "name": "Arctic Feet Armor",
   "url": "https://icarus.fandom.com/wiki/Arctic_Feet_Armor",
   "description": "Arctic Armor is a major upgrade toFur Armor, offering unrivaled cold resistance.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
   "tier": 3,
   "stats": {
     "weight": "1.0 kg",

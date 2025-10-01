@@ -4,7 +4,7 @@
   "description": "Strawberry Jam is a long-lastingFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Strawberry Jam,Berry JamandPickled Carrot, do not spoil and is therefore a valuable food for long-term storage.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "your Kitchen Bench",
   "tier": 3,
   "stats": {},
   "category": "food",
@@ -12,10 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Strawberry": 5,
-      "Glass Jar": 1
-    },
-    "crafted_at": "Kitchen Bench"
+    "ingredients": {},
+    "crafted_at": "your Kitchen Bench"
   }
 }

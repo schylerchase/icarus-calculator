@@ -2,7 +2,7 @@
   "name": "Bedroll",
   "url": "https://icarus.fandom.com/wiki/Bedroll",
   "description": "The Bedroll allows prospectors to sleep provided it is sufficiently sheltered, a campfire/heater/dehumidifier/etc is nearby, and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Sleeping will provide the Well RestedStatus Effect. Prospectors can set their respawn location to a bedroll, however if this bedroll is picked up or destroyed, the prospector's spawn location will reset back to their drop pod.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -14,13 +14,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Fiber": 20,
-      "Stick": 10,
-      "Fur": 20,
-      "Leather": 10
-    },
-    "crafted_at": "Character"
-  }
+  "base_recipe": null
 }

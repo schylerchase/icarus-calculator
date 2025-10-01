@@ -1,0 +1,22 @@
+{
+  "name": "Cold Steel Sickle",
+  "url": "https://icarus.fandom.com/wiki/Cold_Steel_Sickle",
+  "description": "Cold Steel Sickle is aTier 3Sicklemade withCold Steel Ingotsintroduced onPrometheus. Due to the materials required, crafting the item requires the New Frontiers DLC.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Crafted AtForge",
+  "tier": 3,
+  "stats": {
+    "damage": "30 Frost Damage",
+    "weight": "0.5 Kg",
+    "durability": "150,000"
+  },
+  "category": "sickles",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted AtForge"
+  }
+}

@@ -4,7 +4,7 @@
   "description": "The Dehumidifier allows for cave exploration without the risk of catchingCave Sicknesswithin its effective range. Unlike theElectric Dehumidifier, the Dehumidifier does not preventCavewormsfrom spawning.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
     "weight": "20.0 Kg",
@@ -15,13 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Steel Ingot": 15,
-      "Glass": 4,
-      "Epoy": 12,
-      "Electronics": 20,
-      "Copper Wire": 50
-    },
-    "crafted_at": "Machining Bench"
+    "ingredients": {},
+    "crafted_at": "Machining Bench Fabricator"
   }
 }

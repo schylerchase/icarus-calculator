@@ -2,9 +2,9 @@
   "name": "Ranged Attachment Pack",
   "url": "https://icarus.fandom.com/wiki/Ranged_Attachment_Pack",
   "description": "Ranged Attachment Pack is aTier 3Techneeded for theAlteration Benchthat allows Prospectors to alter their ranged weapons withAttachment Packs.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Alteration Bench Advanced Alteration Bench",
   "tier": 3,
   "stats": {
     "weight": "1.0 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted at\n Alteration Bench"
+    "crafted_at": "Alteration Bench Advanced Alteration Bench"
   }
 }

@@ -4,7 +4,7 @@
   "description": "Distilled Miasmic Coating is a refined resource primarily used to craft a variety of Miasmic Tools, Weapons, and Ammunition that can give Prospectors an edge while on the surface of Icarus.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Chemistry Bench",
   "tier": 4,
   "stats": {},
   "category": "crafted resources",
@@ -12,9 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Crystallized Miasma": 1
-    },
-    "crafted_at": "Crafted at\n Chemistry Bench"
+    "ingredients": {},
+    "crafted_at": "Chemistry Bench"
   }
 }

@@ -2,9 +2,11 @@
   "name": "Shengong \"Jushi\" Pickaxe",
   "url": "https://icarus.fandom.com/wiki/Shengong_%22Jushi%22_Pickaxe",
   "description": "The Shengong \"Jushi\" Pickaxe is the Workshop equivalent of aSteel Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield.",
-  "item_type": "unknown",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "item_type": "craftable",
+  "ingredients": {
+    ",000250": 1
+  },
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "38 - 40 Melee Damage",
@@ -14,5 +16,11 @@
   "category": "pickaxes",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      ",000250": 1
+    },
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+  }
 }

@@ -1,0 +1,15 @@
+{
+  "name": "Fur",
+  "url": "https://icarus.fandom.com/wiki/Fur",
+  "description": "Fur is widely used when craftingArmors, and in certainDeployableslike theBedroll. It is a crucial ingredient inFur Armor, which is essential equipment for prospectors venturing into theArcticBiomefor the first time.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": null
+}

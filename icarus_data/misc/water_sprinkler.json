@@ -4,7 +4,7 @@
   "description": "The Water Sprinkler will provide fire suppression when connected to aWater Networkwith aWater Pipe Tool. Can be manually activated by damaging it or by pressing F to water nearbyDirt Mounds/Crop Plotsor to apply theWetmodifier to nearby prospectors and deployables, which can help counter heatwaves inDeserts.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
     "weight": "0.5 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Steel Ingot": 2,
-      "Epoy": 4,
-      "Copper Wire": 4
-    },
-    "crafted_at": "Machining Bench"
+    "ingredients": {},
+    "crafted_at": "Machining Bench Fabricator"
   }
 }

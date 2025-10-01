@@ -2,9 +2,9 @@
   "name": "Wooden Bed",
   "url": "https://icarus.fandom.com/wiki/Wooden_Bed",
   "description": "The Wooden Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game.  In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
     "weight": "10 Kg",

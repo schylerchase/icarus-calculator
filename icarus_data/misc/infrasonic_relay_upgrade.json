@@ -4,7 +4,7 @@
   "description": "The Infrasonic Relay Upgrade grants Prospectors access toOperationslocked behind encoded signals.Operationsare a variation of traditionalMissionsthat are started inOpen Worlds. Upon completing an Operation, Prospectors will be granted Ren () andExotics/Volatile Exoticsfor their efforts (rewards vary per Operation and is affected by Open World difficulty). To accessEncrypted Signals, Prospectors will need to craft anEncrypted Satellite Upgrade.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "50.0 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Gold Wire": 25,
-      "Copper Wire": 50,
-      "Steel Ingot": 25,
-      "Aluminium Ingot": 30
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

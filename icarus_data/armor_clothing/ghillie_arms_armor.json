@@ -2,9 +2,9 @@
   "name": "Ghillie Arms Armor",
   "url": "https://icarus.fandom.com/wiki/Ghillie_Arms_Armor",
   "description": "Ghillie Arms Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
     "weight": "0.25 kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 120,
-      "Stick": 4,
-      "Rope": 1
-    },
-    "crafted_at": "Textiles Bench"
+    "ingredients": {},
+    "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

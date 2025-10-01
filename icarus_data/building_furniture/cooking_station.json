@@ -2,9 +2,14 @@
   "name": "Cooking Station",
   "url": "https://icarus.fandom.com/wiki/Cooking_Station",
   "description": "The Cooking Station is an early-game cooking bench that provides a way to for prospectors to process raw foods into resources, while also giving the prospector access to a variety of new foods with unique status effects.",
-  "item_type": "ammunition",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 8,
+    "Stick": 8,
+    "Stone": 24,
+    "Iron Ingot": 4
+  },
+  "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
     "weight": "2.0 Kg",
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Crafted At\n Crafting Bench"
+    "ingredients": {
+      "Fiber": 8,
+      "Stick": 8,
+      "Stone": 24,
+      "Iron Ingot": 4
+    },
+    "crafted_at": "Crafting Bench"
   }
 }

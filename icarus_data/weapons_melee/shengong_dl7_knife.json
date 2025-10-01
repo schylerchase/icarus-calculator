@@ -2,9 +2,9 @@
   "name": "Shengong DL7 Knife",
   "url": "https://icarus.fandom.com/wiki/Shengong_DL7_Knife",
   "description": "The Shengong DL7 Knife is a Workshop Knife geared towards combat, intrinsically dealing electric damage with a chance to significantly hinder targets. Though the elemental damage does not scale with Knife talents, the debuff applied to targets can prove useful in certain situations. The Shengong DL7 Knife cannot be thrown, and there currently are no workshopThrowing Knives.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "33 - 35 Melee Damage50 - 50 Electric Damage",
@@ -14,5 +14,9 @@
   "category": "knives",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+  }
 }

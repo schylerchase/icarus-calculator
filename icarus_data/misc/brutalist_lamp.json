@@ -2,9 +2,9 @@
   "name": "Brutalist Lamp",
   "url": "https://icarus.fandom.com/wiki/Brutalist_Lamp",
   "description": "The Brutalist Lamp is a table lamp with a concrete base and round shade in the Brutalist design aesthetic. It requires 150 units ofElectricityto operate and provides aLight Sourceand bonus toCoziness.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
     "weight": "5 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Decoration Bench"
+    "crafted_at": "Decoration Bench"
   }
 }

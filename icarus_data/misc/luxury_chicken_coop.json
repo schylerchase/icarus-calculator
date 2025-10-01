@@ -4,7 +4,7 @@
   "description": "The Luxury Chicken Coop is a luxury red deployable building that housesChickensand provides a place for them to layEggs. When chickens are within proximity to the coop, their eggs will appear in the coop's inventory instead of being laid on the ground.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "15 Kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 100,
-      "Leather": 50,
-      "Fiber": 100,
-      "Iron Nail": 25
-    },
-    "crafted_at": "Crafted At\n Ranching Station"
+    "ingredients": {},
+    "crafted_at": "Ranching Station"
   }
 }

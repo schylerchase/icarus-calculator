@@ -4,7 +4,7 @@
   "description": "The Material Processor serves as a much faster and more advancedTier 4version of theMortar and Pestlethat uses electricity to craft items.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "30.0 kg",
@@ -15,13 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Aluminium Ingot": 30,
-      "Electronics": 60,
-      "Steel Screw": 12,
-      "Titanium Plate": 3,
-      "Carbon Fiber": 8
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

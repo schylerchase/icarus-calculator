@@ -4,7 +4,7 @@
   "description": "The Wind Turbine is a power generating device that must be placed outdoors. It provides 1,750 units ofpowerwhen active and must also be placed in an area clear of obstructions for it to function. Use anElectricity Toolto connect it toBenchesto provide power.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "5.0 Kg",
@@ -15,14 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Electronics": 8,
-      "Steel Screw": 20,
-      "Aluminium Ingot": 25,
-      "Copper Wire": 35,
-      "Gold Wire": 25,
-      "Carbon Fiber": 5
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

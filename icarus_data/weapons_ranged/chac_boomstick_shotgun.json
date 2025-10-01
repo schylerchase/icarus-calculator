@@ -2,7 +2,7 @@
   "name": "CHAC \"Boomstick\" Shotgun",
   "url": "https://icarus.fandom.com/wiki/CHAC_%22Boomstick%22_Shotgun",
   "description": "The CHAC \"Boomstick\" Shotgun is an advanced purchaseableShotgunwith increase projectile and critical damage. It fires anyShotgun Ammunitionand is comparable to otherTier 4Firearms.",
-  "item_type": "unknown",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,6 @@
   "category": "firearms",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": null
 }

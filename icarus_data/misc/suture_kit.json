@@ -2,7 +2,7 @@
   "name": "Suture Kit",
   "url": "https://icarus.fandom.com/wiki/Suture_Kit",
   "description": "A Suture Kit is used to treat a Deep Wound, Hemorrhage or Exotic Deep Wound.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Character"
-  }
+  "base_recipe": null
 }

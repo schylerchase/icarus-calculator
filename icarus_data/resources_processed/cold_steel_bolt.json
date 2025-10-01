@@ -4,7 +4,7 @@
   "description": "The Cold Steel Bolt is ammunition used with aCrossbow. In addition to projectile damage, it has a chance to inflict a Freeze modifier that slows and damages enemies.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted AtForge",
   "tier": 3,
   "stats": {
     "weight": "0.015 kg"
@@ -14,12 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Cold Steel Ingot": 0.2,
-      "Refined Wood": 1,
-      "Steel Screw": 1,
-      "Fur": 1
-    },
-    "crafted_at": "Forge"
+    "ingredients": {},
+    "crafted_at": "Crafted AtForge"
   }
 }

@@ -2,7 +2,7 @@
   "name": "Caramel Berry Tart",
   "url": "https://icarus.fandom.com/wiki/Caramel_Berry_Tart",
   "description": "Caramel Berry Tart is late-gameFoodthat when consumed provides a considerable boost to stamina, speed, resistance to cave sickness and a chance to mine additional stone.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -11,14 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Pastry": 1,
-      "Sugar Cubes": 3,
-      "Kiwifruit": 2,
-      "Wild Berry": 5,
-      "Egg": 1
-    },
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

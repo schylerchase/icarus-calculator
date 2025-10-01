@@ -2,9 +2,9 @@
   "name": "Obsidian Arm Armor",
   "url": "https://icarus.fandom.com/wiki/Obsidian_Arm_Armor",
   "description": "Obsidian Armor is a sidegrade ofComposite Armor, providing slightly more physical resistance and a substantial bonus to heat resistance.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Electric Textiles Bench",
   "tier": 4,
   "stats": {
     "weight": "1.0 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Platinum Weave": 5,
-      "Composites": 3,
-      "Steel Screw": 2,
-      "Shaped Obsidian": 5
-    },
+    "ingredients": {},
     "crafted_at": "Electric Textiles Bench"
   }
 }

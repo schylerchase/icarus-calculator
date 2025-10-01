@@ -4,7 +4,7 @@
   "description": "The Animal Bed serves as a place for juvenile animals to sleep while taming and is required to tame juvenile animals. TamedMountsandPetscan also use the Animal Bed when tired.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "1.5 Kg",
@@ -15,10 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 60,
-      "Fur": 20
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

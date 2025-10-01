@@ -2,9 +2,9 @@
   "name": "Hunter Feet Armor",
   "url": "https://icarus.fandom.com/wiki/Hunter_Feet_Armor",
   "description": "An upgrade toGhillie Armorwith over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
   "tier": 3,
   "stats": {
     "weight": "0.38 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Platinum Weave": 1,
-      "Cured Leather": 2,
-      "Rope": 4,
-      "Epoy": 4
-    },
-    "crafted_at": "Advanced Textiles Bench"
+    "ingredients": {},
+    "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
   }
 }

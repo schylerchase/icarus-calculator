@@ -4,7 +4,7 @@
   "description": "ABeekeepingexpansion to the smallBeehiveto increase inventory slots by 6. Requires theSmall Beehive Expansionto be installed first. Added through the Beehive GUI",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "durability": "1000"
@@ -14,11 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Honeycomb": 20,
-      "Titanium Plate": 2,
-      "Steel Screw": 20
-    },
-    "crafted_at": "Machining Bench"
+    "ingredients": {},
+    "crafted_at": "Fabricator"
   }
 }

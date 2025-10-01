@@ -2,9 +2,9 @@
   "name": "Shotgun",
   "url": "https://icarus.fandom.com/wiki/Shotgun",
   "description": "The Shotgun is one of the firstFirearmsavailable to prospectors. Using12-Gauge Buckshot Shellfor ammunition, the Shotgun is more powerful than theBolt Action Rifleat close range. However, damage decreases rapidly as range increases, and prospectors should not rely on it for long-range encounters with theFaunaof Icarus. The Shotgun can fire 100 rounds before breaking, and the talentGunsmithcan increase this to up to a maximum of 125 rounds, so bring aMachining Benchfor long trips.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "damage": "+15% Projectile Damage",
@@ -14,5 +14,9 @@
   "category": "firearms",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
 }

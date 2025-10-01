@@ -4,7 +4,7 @@
   "description": "The Tackle Box is a storage deployable that can be used to store a handful of lures and caught fish. Unlike other storage deployables, the Tackle Box can be picked up with items inside and does not require shelter to be used. With 3 slots forLuresand 2 slots that will halt the spoil timer of any caught fish, the Tackle Box is a handy tool for fishing adventures.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Basic Fishing Bench",
   "tier": 2,
   "stats": {
     "weight": "5.0 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 10,
-      "Tree Sap": 10,
-      "Iron Nail": 5
-    },
+    "ingredients": {},
     "crafted_at": "Basic Fishing Bench"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "name": "Bacterial Vaccine II",
+  "url": "https://icarus.fandom.com/wiki/Bacterial_Vaccine_II",
+  "description": "Bacterial Vaccine II is purchased in theWorkshopon theSpace Station. Vaccines are long lasting preventatives of aliments on Icarus, they provide a uniqueStatus Effect, which makes surviving the environment without worry possible.",
+  "item_type": "orbital",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "medicine",
+  "harvested_from": [],
+  "research_cost": 300,
+  "purchase_cost": 300,
+  "base_recipe": null
+}

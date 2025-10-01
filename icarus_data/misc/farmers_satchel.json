@@ -2,9 +2,9 @@
   "name": "Farmers Satchel",
   "url": "https://icarus.fandom.com/wiki/Farmers_Satchel",
   "description": "Farmers Satchel is a leather satchel that is aTier 2upgrade for theSeed Pouch, has 24 inventory slots and holds bothFertilizerandSeeds.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
     "weight": "0.5 Kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Textiles Bench"
+    "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

@@ -4,7 +4,7 @@
   "description": "Wine is a mid-game beverage brewed fromWild BerryandReed Flowerthat greatly increases stamina and stamina regeneration.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Blueprint points in the Glassworking Bench",
   "tier": 3,
   "stats": {},
   "category": "drinks",
@@ -12,11 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wild Berry": 10,
-      "Reed Flower": 1,
-      "Wine Bottle": 1
-    },
-    "crafted_at": "Kitchen Bench"
+    "ingredients": {},
+    "crafted_at": "Blueprint points in the Glassworking Bench"
   }
 }

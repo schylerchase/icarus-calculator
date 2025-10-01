@@ -2,7 +2,7 @@
   "name": "Pheromone Module",
   "url": "https://icarus.fandom.com/wiki/Pheromone_Module",
   "description": "This module increases the movement speed and maximum stamina of mounts near the user. It can be researched and crafted on theSpace Stationin theWorkshop. Multiple Pheromone Modules may be equipped if the Prospector has available slots on their Envirosuit and will further increase the benefit received from the equipped modules.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

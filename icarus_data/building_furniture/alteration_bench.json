@@ -4,7 +4,7 @@
   "description": "The Alteration Bench is a mid-to-late game technology that allows Prospectors to create Attachment Packs to upgrade armor pieces, ranged weapons, and tools.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "20.0 kg",
@@ -15,13 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Iron Ingot": 24,
-      "Refined Wood": 10,
-      "Epoy": 6,
-      "Rope": 6,
-      "Copper Nail": 40
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

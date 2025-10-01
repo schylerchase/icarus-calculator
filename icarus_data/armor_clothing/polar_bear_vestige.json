@@ -2,7 +2,7 @@
   "name": "Polar Bear Vestige",
   "url": "https://icarus.fandom.com/wiki/Polar_Bear_Vestige",
   "description": "Polar Bear Vestiges are used at theTrophy Benchto create aPolar Bear Trophy, which can help prospectors complete theBestiary. They are also used at theAdvanced Textiles Bench/Electric Textiles Benchto makePolar Bear Rugs. Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of theWell Rested Buff.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

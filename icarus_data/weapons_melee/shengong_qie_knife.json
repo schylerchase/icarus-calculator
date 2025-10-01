@@ -2,9 +2,9 @@
   "name": "Shengong 'Qie' Knife",
   "url": "https://icarus.fandom.com/wiki/Shengong_%27Qie%27_Knife",
   "description": "This knife and others, such as theShengong 'Sichou' Knife, with the additional attribute that gives increased skinning yield actually has a 230% Yield from Skinning. This is because the additional attribute is multiplicative and not additive, making them better than theTitanium KnifeorInaris \"Ventura\" Knifeat skinning. UnlikeThrowing Knives, the Shengong 'Qie' Knife cannot be thrown. There currently are no Workshop throwing knives.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "57 - 60 Melee Damage",
@@ -14,5 +14,9 @@
   "category": "knives",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+  }
 }

@@ -4,7 +4,7 @@
   "description": "The Flashlight is a late-gameLight Source, capable of illuminating an entire cave. Can be equipped in the \"L\" light slot on the hotbar.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "0.25 kg"
@@ -14,12 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Glass": 4,
-      "Aluminium Ingot": 4,
-      "Epoy": 4,
-      "Electronics": 2
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

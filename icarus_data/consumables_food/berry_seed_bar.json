@@ -2,7 +2,7 @@
   "name": "Berry & Seed Bar",
   "url": "https://icarus.fandom.com/wiki/Berry_%26_Seed_Bar",
   "description": "Full of energy for long hikes, long lasting effects and easily crafted.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Character"
-  }
+  "base_recipe": null
 }

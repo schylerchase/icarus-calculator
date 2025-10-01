@@ -2,7 +2,7 @@
   "name": "Dried Gamey Meat",
   "url": "https://icarus.fandom.com/wiki/Dried_Gamey_Meat",
   "description": "Dried Gamey Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -11,10 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Raw Gamey Meat": 1
-    },
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

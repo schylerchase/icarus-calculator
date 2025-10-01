@@ -2,7 +2,7 @@
   "name": "Miasmic Sledgehammer",
   "url": "https://icarus.fandom.com/wiki/Miasmic_Sledgehammer",
   "description": "Miasmic Sledgehammer is aTier 4Sledgehammermade withDistilled Miasmic Coatingderived fromCrystallized Miasmafound in theSwampsonPrometheus. Due to the materials required, crafting the item requires the New Frontiers DLC.",
-  "item_type": "unknown",
+  "item_type": "harvestable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -12,7 +12,10 @@
     "durability": "120,000"
   },
   "category": "tools",
-  "harvested_from": [],
+  "harvested_from": [
+    "the Swamps on Prometheus"
+  ],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": null
 }

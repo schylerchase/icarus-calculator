@@ -2,7 +2,7 @@
   "name": "Miasmic Throwing Knife",
   "url": "https://icarus.fandom.com/wiki/Miasmic_Throwing_Knife",
   "description": "The Miasmic Throwing Knife is a variant of theMiasmic Knifethat can only be thrown and is unlocked upon researching theMiasmic Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
-  "item_type": "unknown",
+  "item_type": "harvestable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -11,7 +11,10 @@
     "weight": "0.5 kg"
   },
   "category": "throwing knives",
-  "harvested_from": [],
+  "harvested_from": [
+    "Icarus wildlife"
+  ],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": null
 }

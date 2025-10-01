@@ -4,7 +4,7 @@
   "description": "The Battery Cavelight is a portableLight Sourcethat can be deployed on a floor or wall to provide illumination in the surrounding area. It is good for marking a path through caves.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "2.0 Kg"
@@ -14,13 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Glass": 5,
-      "Steel Ingot": 5,
-      "Steel Screw": 10,
-      "Electronics": 2,
-      "Copper Wire": 20
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

@@ -4,7 +4,7 @@
   "description": "The Hitching Post is a deployable item that can be deployed and used to hitch up tamedMountsusing aHitching Rope.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "0.5 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 4,
-      "Wood": 6,
-      "Rope": 2
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

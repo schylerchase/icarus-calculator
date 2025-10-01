@@ -2,9 +2,9 @@
   "name": "Biofuel Composter",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Composter",
   "description": "The Biofuel Composter enables the Prospector to produceBiofuel. Can be connected to a water network providing at least 100 units ofwaterto increase processing speed, but is not required to produce Biofuel.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "30.0 Kg",

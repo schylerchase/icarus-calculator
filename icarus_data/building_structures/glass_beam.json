@@ -4,7 +4,7 @@
   "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Glassworking Bench",
   "tier": 0,
   "stats": {
     "weight": "<unknown>",
@@ -15,10 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Iron Ingot": 6,
-      "Epoy": 12
-    },
+    "ingredients": {},
     "crafted_at": "Glassworking Bench"
   }
 }

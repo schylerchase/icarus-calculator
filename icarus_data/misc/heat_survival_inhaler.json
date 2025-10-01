@@ -2,7 +2,7 @@
   "name": "Heat Survival Inhaler",
   "url": "https://icarus.fandom.com/wiki/Heat_Survival_Inhaler",
   "description": "The Heat Survival Inhaler is aMedicinethat boosts resistance to heat, damage from fire and the HyperthermiaStatus Effect.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

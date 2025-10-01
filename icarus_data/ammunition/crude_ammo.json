@@ -2,9 +2,9 @@
   "name": "Crude Ammo",
   "url": "https://icarus.fandom.com/wiki/Crude_Ammo",
   "description": "Crude Ammo is a crude, low-tech ammunition that works with all categories ofPistols.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafting Bench Machining Bench Fabricator",
   "tier": 2,
   "stats": {
     "weight": "0.01 kg"

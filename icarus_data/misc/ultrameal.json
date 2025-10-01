@@ -2,7 +2,7 @@
   "name": "UltraMeal",
   "url": "https://icarus.fandom.com/wiki/UltraMeal",
   "description": "UltraMeal is aFoodwith a uniqueStatus Effect: 'Emergency Rations'. Can be eaten to satisfyHunger. It is a one time use emergency ration to stave off starvation.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Forge"
-  }
+  "base_recipe": null
 }

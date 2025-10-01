@@ -2,7 +2,7 @@
   "name": "Sugar Cane Farming Packet",
   "url": "https://icarus.fandom.com/wiki/Sugar_Cane_Farming_Packet",
   "description": "The Sugar Cane Farming Packet is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector fiveSugar CaneSeeds, which then can be planted inDirt MoundsorCrop Plotsto growPlant Resources.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

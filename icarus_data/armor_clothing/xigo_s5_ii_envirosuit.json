@@ -2,7 +2,7 @@
   "name": "Xigo S5-II Envirosuit",
   "url": "https://icarus.fandom.com/wiki/Xigo_S5-II_Envirosuit",
   "description": "The Xigo S5-II Envirosuit is the first unlockable envirosuit Prospectors can unlock in theWorkshopon theSpace Station.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

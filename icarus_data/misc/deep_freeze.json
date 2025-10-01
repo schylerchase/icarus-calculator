@@ -4,7 +4,7 @@
   "description": "The Deep Freeze is a high-tier item and completely stops the spoil timer for items stored inside. It requires 2,500 units ofPowerto keep temperatures below freezing, so a strong power source and consistent stream of electricity are critical.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "25.0 Kg",
@@ -15,13 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Aluminium Ingot": 20,
-      "Electronics": 15,
-      "Carbon Fiber": 10,
-      "Steel Screw": 15,
-      "Platinum Ingot": 20
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

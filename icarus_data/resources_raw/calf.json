@@ -1,0 +1,15 @@
+{
+  "name": "Calf",
+  "url": "https://icarus.fandom.com/wiki/Calf",
+  "description": "A Calf is an imported domesticatedFaunathat is brought down to the planet and raised to maturity primarily to produceMilk.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "fauna",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": null
+}

@@ -2,9 +2,9 @@
   "name": "Advanced Textiles Bench",
   "url": "https://icarus.fandom.com/wiki/Advanced_Textiles_Bench",
   "description": "Allows for the crafting of more advancedArmorsets,Cured LeatherandPlatinum Weave. The Advanced Textiles Bench is also able to craft items made at theTextiles Bench, removing the need for multiple benches.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "20.0 kg",

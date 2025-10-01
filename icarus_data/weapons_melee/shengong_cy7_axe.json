@@ -2,9 +2,9 @@
   "name": "Shengong CY7 Axe",
   "url": "https://icarus.fandom.com/wiki/Shengong_CY7_Axe",
   "description": "The Shengong CY7 Axe is a Workshop Axe geared towards combat, intrinsically dealing electric damage with the chance to significantly hinder targets. Ideally used with theBerserkertalent, which increases axe melee damage.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "+60 Felling Damage",
@@ -14,5 +14,9 @@
   "category": "axes",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+  }
 }

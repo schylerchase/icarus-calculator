@@ -2,7 +2,7 @@
   "name": "Seed Bread",
   "url": "https://icarus.fandom.com/wiki/Seed_Bread",
   "description": "Seed Bread is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,11 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Bread Dough": 1,
-      "Seeds": 10
-    },
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

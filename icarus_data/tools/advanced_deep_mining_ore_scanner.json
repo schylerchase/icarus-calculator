@@ -2,7 +2,7 @@
   "name": "Advanced Deep Mining Ore Scanner",
   "url": "https://icarus.fandom.com/wiki/Advanced_Deep_Mining_Ore_Scanner",
   "description": "LocatesDeep Ore Depositswithin the area that can be mined with aBiofuel Deep-Mining Drillor anElectric Deep-Mining Drill. Unlike theDeep Mining Ore Scanner, the Advanced Deep Mining Ore Scanner can be toggled to detect specific deep ore deposits.",
-  "item_type": "ammunition",
+  "item_type": "harvestable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,8 +13,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

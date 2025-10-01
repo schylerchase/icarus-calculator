@@ -2,9 +2,9 @@
   "name": "Brutalist 10-Seater Table",
   "url": "https://icarus.fandom.com/wiki/Brutalist_10-Seater_Table",
   "description": "The Brutalist 10-Seater Table seats ten and is mode from concrete, copper nails and glass.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
     "weight": "10 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Decoration Bench"
+    "crafted_at": "Decoration Bench"
   }
 }

@@ -4,7 +4,7 @@
   "description": "The Racing Saddle is a saddle forMountsthat has a racing theme. It is available as part of theCreature Comforts DLCand is a cosmetic change to theBasic Riding Saddlethat provides no additional attributes.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "1.5 Kg"
@@ -14,10 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Cured Leather": 15,
-      "Rope": 2
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

@@ -2,7 +2,7 @@
   "name": "Glass Wall",
   "url": "https://icarus.fandom.com/wiki/Glass_Wall",
   "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items.  Can be crafted as Reinforced Glass, increasing resistance to weather up to the level of Stone building peices and increasing HP from 500 to 2500.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,12 +14,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Iron Ingot": 6,
-      "Glass": 20,
-      "Epoy": 12
-    },
-    "crafted_at": "Glassworking Bench"
-  }
+  "base_recipe": null
 }

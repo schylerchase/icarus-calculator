@@ -1,0 +1,19 @@
+{
+  "name": "Pumpkin",
+  "url": "https://icarus.fandom.com/wiki/Pumpkin",
+  "description": "Pumpkin are a common form ofPlantlifefound in theForestandRiverlandslocationson Icarus. When consumed by prospectors, they replenishHunger.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "food",
+  "harvested_from": [
+    "the Forest",
+    "Riverl",
+    "s locations on Icarus"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": null
+}

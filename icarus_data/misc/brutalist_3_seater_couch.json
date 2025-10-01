@@ -2,9 +2,9 @@
   "name": "Brutalist 3-Seater Couch",
   "url": "https://icarus.fandom.com/wiki/Brutalist_3-Seater_Couch",
   "description": "The Brutalist 3-Seater Couch is a couch made with concrete and leather in the Brutalist design aesthetic. It serves as a seat for Prospectors and provides a small bonus toCoziness.\nThe Brutalist 3-Seater Couch is part of the Industrial Furniture Pack DLC.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
     "weight": "12 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Decoration Bench"
+    "crafted_at": "Decoration Bench"
   }
 }

@@ -2,7 +2,7 @@
   "name": "Antibiotic Tonic",
   "url": "https://icarus.fandom.com/wiki/Antibiotic_Tonic",
   "description": "Used alone to cure infections such asCave Sickness,Infected Wound, andFood poisoning, or as a mid-stage ingredient to the prophylacticAntibiotic Pill.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -11,12 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Yeast": 1,
-      "Epoy": 1,
-      "Charcoal": 3
-    },
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

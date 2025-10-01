@@ -2,8 +2,12 @@
   "name": "Health Recovery Concoction",
   "url": "https://icarus.fandom.com/wiki/Health_Recovery_Concoction",
   "description": "",
-  "item_type": "ammunition",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Oxite": 3,
+    "Salt": 2,
+    "Bone": 3
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Character"
+    "ingredients": {
+      "Oxite": 3,
+      "Salt": 2,
+      "Bone": 3
+    },
+    "crafted_at": "Unknown"
   }
 }

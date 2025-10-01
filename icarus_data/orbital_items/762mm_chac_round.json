@@ -1,0 +1,17 @@
+{
+  "name": "7.62mm CHAC Round",
+  "url": "https://icarus.fandom.com/wiki/7.62mm_CHAC_Round",
+  "description": "7.62mm CHAC Round is a purchaseable type ofRifle Ammunitionfor use in anyRifle.",
+  "item_type": "orbital",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.01 kg"
+  },
+  "category": "rifle ammunition",
+  "harvested_from": [],
+  "research_cost": 250,
+  "purchase_cost": null,
+  "base_recipe": null
+}

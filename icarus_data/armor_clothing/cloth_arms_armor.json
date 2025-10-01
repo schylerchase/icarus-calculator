@@ -2,7 +2,7 @@
   "name": "Cloth Arms Armor",
   "url": "https://icarus.fandom.com/wiki/Cloth_Arms_Armor",
   "description": "Cloth Armor, while not being very protective in a fight, provides relatively good protection from the heat in deserts. It also makes traveling slightly quicker.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -14,10 +14,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Fiber": 80
-    },
-    "crafted_at": "Character"
-  }
+  "base_recipe": null
 }

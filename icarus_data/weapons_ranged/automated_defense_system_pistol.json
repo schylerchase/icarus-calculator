@@ -2,9 +2,9 @@
   "name": "Automated Defense System: Pistol",
   "url": "https://icarus.fandom.com/wiki/Automated_Defense_System:_Pistol",
   "description": "Automated Defense System: Pistol is a deployable base defense turret that firesPistol Ammunitionat hostileFauna.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "20 Kg",
@@ -13,5 +13,9 @@
   "category": "defenses",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Fabricator"
+  }
 }

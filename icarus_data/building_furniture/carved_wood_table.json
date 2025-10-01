@@ -2,9 +2,9 @@
   "name": "Carved Wood Table",
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_Table",
   "description": "The Carved Wood Table is a decorative table with seating for six and a bonus toCoziness.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
     "weight": "1 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Carpentry Bench"
+    "crafted_at": "Carpentry Bench"
   }
 }

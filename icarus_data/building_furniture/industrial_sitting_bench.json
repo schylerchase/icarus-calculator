@@ -2,9 +2,9 @@
   "name": "Industrial Sitting Bench",
   "url": "https://icarus.fandom.com/wiki/Industrial_Sitting_Bench",
   "description": "A minimalist Industrial Sitting Bench",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
     "weight": "10 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Decoration Bench"
+    "crafted_at": "Decoration Bench"
   }
 }

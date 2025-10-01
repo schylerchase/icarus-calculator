@@ -2,7 +2,7 @@
   "name": "Reinforced Window",
   "url": "https://icarus.fandom.com/wiki/Reinforced_Window",
   "description": "Reinforced Building Pieces at learned in theTier 2Tech Tree after unlocking theMasonry Bench, and other required Stone Bulding Pieces first. Can be repaired with aRepair Hammer.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,8 +14,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Crafting Bench"
-  }
+  "base_recipe": null
 }

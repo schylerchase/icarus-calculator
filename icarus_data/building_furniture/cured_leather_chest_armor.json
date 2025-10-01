@@ -4,7 +4,7 @@
   "description": "Cured Leather Armor is an upgrade toLeather Armor, providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
   "tier": 3,
   "stats": {
     "weight": "2.0 kg",
@@ -15,10 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Platinum Weave": 3,
-      "Cured Leather": 13
-    },
-    "crafted_at": "Advanced Textiles Bench"
+    "ingredients": {},
+    "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
   }
 }

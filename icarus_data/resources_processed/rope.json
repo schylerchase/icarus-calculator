@@ -4,7 +4,7 @@
   "description": "Intermediate crafting item used as a component of many recipes.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted atCrafting BenchTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {},
   "category": "resources",
@@ -12,9 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 12
-    },
-    "crafted_at": "Crafting Bench"
+    "ingredients": {},
+    "crafted_at": "Crafted atCrafting BenchTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

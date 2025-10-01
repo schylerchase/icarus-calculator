@@ -4,7 +4,7 @@
   "description": "Poisoned Animal Bait is used to lure random predators when left in an open area, poisoningFaunawho choose to consume it. The blueprint is unlocked account-wide after completing the prospectWet Work: Extermination. Stacks up to 5.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Kitchen Bench Marble Kitchen Bench",
   "tier": 2,
   "stats": {
     "weight": "0.05 Kg",
@@ -15,10 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Animal Bait": 1,
-      "Poison Paste": 2
-    },
-    "crafted_at": "Cooking Bench"
+    "ingredients": {},
+    "crafted_at": "Kitchen Bench Marble Kitchen Bench"
   }
 }

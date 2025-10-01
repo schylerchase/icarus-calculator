@@ -2,7 +2,7 @@
   "name": "Anti-Parasitic Pill",
   "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Pill",
   "description": "Anti-Parasitic Pills are used to cure, and prevent for a short time, further ailments such asFestering WoundsandDysentery.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -11,12 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Anti-Parasitic Tonic": 1,
-      "Organic Resin": 1,
-      "Charcoal": 5
-    },
-    "crafted_at": "Kitchen Bench"
-  }
+  "base_recipe": null
 }

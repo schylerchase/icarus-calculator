@@ -2,7 +2,7 @@
   "name": "Thatch Window",
   "url": "https://icarus.fandom.com/wiki/Thatch_Window",
   "description": "Thatch building pieces are very light-weight and are best used for emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection toDeployablesandStoragecontainers. Attaches to window frames (hold R while holding a wall building piece and select the Window Frame variant from the radial wheel).",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,11 +14,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Fiber": 10,
-      "Stick": 4
-    },
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

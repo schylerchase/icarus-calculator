@@ -2,9 +2,15 @@
   "name": "Potbelly Stove",
   "url": "https://icarus.fandom.com/wiki/Potbelly_Stove",
   "description": "The Potbelly Stove is an early- to mid-gamecooking benchthat provides a more efficient way to cook raw foods than theCampfire. The Potbelly Stove introduces new, multi-ingredient recipes with unique status effects. It is also an exceptional source of heat.",
-  "item_type": "ammunition",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "item_type": "craftable",
+  "ingredients": {
+    "Iron Ingot": 40,
+    "Copper Ingot": 6,
+    "Epoxy": 10,
+    "Campfire/Firepit/FireplacePotbelly StoveBiofuel StoveElectric Stove": 30,
+    "Potbelly StoveBiofuel StoveElectric Stove": 2
+  },
+  "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
     "weight": "4 kg",
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Crafted At\n Crafting Bench"
+    "ingredients": {
+      "Iron Ingot": 40,
+      "Copper Ingot": 6,
+      "Epoxy": 10,
+      "Campfire/Firepit/FireplacePotbelly StoveBiofuel StoveElectric Stove": 30,
+      "Potbelly StoveBiofuel StoveElectric Stove": 2
+    },
+    "crafted_at": "Crafting Bench"
   }
 }

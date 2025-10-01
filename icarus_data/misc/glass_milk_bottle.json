@@ -4,7 +4,7 @@
   "description": "Glass Milk Bottle is a container for liquidMilk. It holds 2 litres of Milk and prevents it from spoiling.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Glassworking Bench",
   "tier": 3,
   "stats": {},
   "category": "crafted resources",
@@ -12,9 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Glass": 7
-    },
-    "crafted_at": "Crafted at\n Glassworking Bench"
+    "ingredients": {},
+    "crafted_at": "Glassworking Bench"
   }
 }

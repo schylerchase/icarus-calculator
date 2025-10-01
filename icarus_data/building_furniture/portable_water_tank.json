@@ -2,9 +2,9 @@
   "name": "Portable Water Tank",
   "url": "https://icarus.fandom.com/wiki/Portable_Water_Tank",
   "description": "Portable Water Tank is a deployable that can be connected to a water network once placed to store 150,000 of water and can output 1,000 water per second to keep the network operational. It is the equivalent to aWater Barrelwith having half of the storage, but it can be picked up into your character's Backpack/Equipment Slot (G).",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "150.0 Kg",

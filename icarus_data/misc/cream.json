@@ -2,7 +2,7 @@
   "name": "Cream",
   "url": "https://icarus.fandom.com/wiki/Cream",
   "description": "Cream is a late-game intermediate resource crafted fromMilkand used in various recipes.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,10 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Animal Fat": 2
-    },
-    "crafted_at": "Mortar and Pestle"
-  }
+  "base_recipe": null
 }

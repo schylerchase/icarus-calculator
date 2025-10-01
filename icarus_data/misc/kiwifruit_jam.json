@@ -4,7 +4,7 @@
   "description": "Kiwifruit Jam is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "your Kitchen Bench",
   "tier": 3,
   "stats": {},
   "category": "food",
@@ -12,10 +12,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Kiwifruit": 5,
-      "Glass Jar": 1
-    },
-    "crafted_at": "Unknown"
+    "ingredients": {},
+    "crafted_at": "your Kitchen Bench"
   }
 }

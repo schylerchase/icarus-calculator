@@ -4,7 +4,7 @@
   "description": "The Water Trough is a basic trough used to keepMountsandPetshydrated. Can be filled using aLiquid Containerfilled withWateror by leaving it exposed to the elements.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "3.0 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 60,
-      "Stick": 8,
-      "Iron Nail": 16
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

@@ -4,7 +4,7 @@
   "description": "The Electric Furnace is the end-game furnace capable of smeltingComposite PasteintoComposites, a material required for mostTier 4blueprints, and can refine all other minerals faster than the lower tier furnaces.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "50.0 kg",
@@ -15,13 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Steel Ingot": 30,
-      "Glass": 4,
-      "Electronics": 60,
-      "Concrete Mi": 80,
-      "Steel Screw": 8
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

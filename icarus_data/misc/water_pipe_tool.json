@@ -4,7 +4,7 @@
   "description": "The Water Pipe Tool connects theBiofuel Water Pump/Electric Water PumptoDeployables/Water Storageto provideWater.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.1 kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Copper Wire": 50,
-      "Gold Wire": 50,
-      "Platinum Sheath": 4
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

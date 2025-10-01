@@ -2,9 +2,9 @@
   "name": "Wood Table",
   "url": "https://icarus.fandom.com/wiki/Wood_Table",
   "description": "The Wood Table is a decorative item that can be used for deployables like theMortar and Pestleand provides a bonus toCoziness.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench Electric Carpentry Bench",
   "tier": 2,
   "stats": {
     "weight": "2 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Mortar and Pestle"
+    "crafted_at": "Carpentry Bench Electric Carpentry Bench"
   }
 }

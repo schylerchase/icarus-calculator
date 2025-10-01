@@ -2,9 +2,9 @@
   "name": "Gold Attachment",
   "url": "https://icarus.fandom.com/wiki/Gold_Attachment",
   "description": "Gold Attachment is a mid-to-end game item available once the prospector has unlocked theTool Attachment Packtech.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Alteration Bench",
   "tier": 3,
   "stats": {
     "weight": "1 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted at\n Alteration Bench"
+    "crafted_at": "Alteration Bench"
   }
 }

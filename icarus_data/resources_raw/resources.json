@@ -1,0 +1,17 @@
+{
+  "name": "Resources",
+  "url": "https://icarus.fandom.com/wiki/Resources",
+  "description": "Prospectors face a host of challenges when they drop onto Icarus. They must maintain an adequate supply ofOxygen,WaterandFood, craftShelterfrom the planet’s storms, and survive encounters with theFauna. Prospectors will need to rely on a wide range of resources: some they will find in the wild, and others they will make themselves. How prospectors master the use of these resources will determine their overall success during their limited time on Icarus.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "",
+  "harvested_from": [
+    "the carcasses of Fauna"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": null
+}

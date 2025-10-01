@@ -2,7 +2,7 @@
   "name": "Inaris \"Netch\" Arrow Bundle",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Netch%22_Arrow_Bundle",
   "description": "Consuming the Inaris \"Netch\" Arrow Bundle will add 25xInaris \"Biana\" Arrows to the Prospectors inventory, must be consumed after dropping into a Prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,8 +13,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

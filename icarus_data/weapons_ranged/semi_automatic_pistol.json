@@ -2,9 +2,9 @@
   "name": "Semi-Automatic Pistol",
   "url": "https://icarus.fandom.com/wiki/Semi-Automatic_Pistol",
   "description": "The Semi-Automatic Pistol is aTier 3handgun with more ammo capacity than thePistol. It fires pistolPistol Ammunitionsuch asArmor Piercing,Explosive,Incendiary,Obsidianor regular9mm Rounds.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
     "weight": "1.5 kg",
@@ -13,5 +13,9 @@
   "category": "firearms",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench Fabricator"
+  }
 }

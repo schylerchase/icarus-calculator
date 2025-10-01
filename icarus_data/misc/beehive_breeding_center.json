@@ -2,9 +2,9 @@
   "name": "Beehive Breeding Center",
   "url": "https://icarus.fandom.com/wiki/Beehive_Breeding_Center",
   "description": "ABeekeepingelement that attaches to aBeehiveand provides the facilities for aQueen Beeto produceWorker Bees",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "durability": "1000"

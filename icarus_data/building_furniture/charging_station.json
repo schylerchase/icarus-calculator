@@ -4,7 +4,7 @@
   "description": "The Charging Station charges basic battery powered devices like theFlashlightand requires 500Wattsto function.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "10.0 Kg",
@@ -15,14 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Electronics": 6,
-      "Concrete Mi": 8,
-      "Steel Screw": 18,
-      "Glass": 6,
-      "Copper Wire": 65,
-      "Aluminium Ingot": 6
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

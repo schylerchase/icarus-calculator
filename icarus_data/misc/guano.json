@@ -2,7 +2,7 @@
   "name": "Guano",
   "url": "https://icarus.fandom.com/wiki/Guano",
   "description": "Guano is a resource found within the nests ofArctic Vespers, these bat-like creatures inhabit the arctic regions of the game. Players can harvest Guano from their nests once destroyed, providing a valuable material for crafting.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

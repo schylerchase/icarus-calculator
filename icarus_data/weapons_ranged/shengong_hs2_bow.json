@@ -2,7 +2,7 @@
   "name": "Shengong HS2 Bow",
   "url": "https://icarus.fandom.com/wiki/Shengong_HS2_Bow",
   "description": "The Shengong HS2 Bow is a stronger variant of the Shengong Bows using arrows and talents interchangeably with other bows. Despite the Shengong HS2 Bow dealing 35% less damage than theLarkwell Martinez Compound Bow, the Shengong HS2 Bow is unmatched in reload speed and fire rate; perfect for the Prospector who wants to fill the skies with arrows.",
-  "item_type": "unknown",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,6 @@
   "category": "bows",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": null
 }

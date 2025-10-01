@@ -4,7 +4,7 @@
   "description": "The Cement Mixer allows the Prospector to craftConcrete Mix, andConcrete Building Pieces.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "2.0 kg",
@@ -15,13 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 50,
-      "Stone": 40,
-      "Iron Ingot": 20,
-      "Rope": 8,
-      "Iron Nail": 8
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

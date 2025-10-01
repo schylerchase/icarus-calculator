@@ -4,7 +4,7 @@
   "description": "Reinforced wood building pieces can be unlocked inTier 2of theTech Tree. These building pieces are more resistant to damage than their earlierWoodversions with the inclusion ofBeeswax",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench",
   "tier": 0,
   "stats": {
     "weight": "0.5 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Fiber": 4,
-      "Wood": 15,
-      "Beeswa": 10
-    },
+    "ingredients": {},
     "crafted_at": "Carpentry Bench"
   }
 }

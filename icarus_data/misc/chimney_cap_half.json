@@ -4,7 +4,7 @@
   "description": "A Chimney Cap Half is a decorative final cap piece to place on aChimney Extensionor directly on aFireplace. It is the smaller variant of theChimney Cap, but with less vertical height.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafting Bench Machining Bench Fabricator",
   "tier": 2,
   "stats": {
     "weight": "2.0 Kg",
@@ -15,10 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Stone": 30,
-      "Wood": 15
-    },
-    "crafted_at": "Machining Bench"
+    "ingredients": {},
+    "crafted_at": "Crafting Bench Machining Bench Fabricator"
   }
 }

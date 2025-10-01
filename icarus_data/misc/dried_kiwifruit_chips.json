@@ -2,7 +2,7 @@
   "name": "Dried Kiwifruit Chips",
   "url": "https://icarus.fandom.com/wiki/Dried_Kiwifruit_Chips",
   "description": "Dried Kiwifruit Chips is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -11,10 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Kiwifruit": 1
-    },
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

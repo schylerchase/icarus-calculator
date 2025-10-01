@@ -4,7 +4,7 @@
   "description": "The Prototype Trail Beacon is a small portable self-powered beacon that is deployed with thePrototype Trail Beacon Toolto form a breadcrumb trail in the uncharted areas of theNull Sector RegiononPrometheus.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
     "weight": "0.5 Kg",
@@ -15,13 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Gold Wire": 10,
-      "Copper Wire": 5,
-      "Steel Ingot": 4,
-      "Steel Screw": 4,
-      "Glass": 2
-    },
-    "crafted_at": "Machining Bench"
+    "ingredients": {},
+    "crafted_at": "Machining Bench Fabricator"
   }
 }

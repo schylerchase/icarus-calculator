@@ -4,7 +4,7 @@
   "description": "When deployed, the Portable Beacon will display a map marker that is visible on the map and compass, which is helpful for marking locations of caves/bases/predator spawns/or anything else a Prospector wishes to mark. When interacting with the Portable Beacon, Prospectors can choose from a list of available icons and colors to customize the icon displayed. Must be placed outdoors.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "10.0 kg",
@@ -15,13 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Gold Wire": 30,
-      "Copper Wire": 25,
-      "Steel Ingot": 10,
-      "Platinum Sheath": 20,
-      "Glass": 10
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

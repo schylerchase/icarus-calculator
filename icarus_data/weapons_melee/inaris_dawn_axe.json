@@ -2,9 +2,9 @@
   "name": "Inaris \"Dawn\" Axe",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Dawn%22_Axe",
   "description": "The Inaris \"Dawn\" Axe is a Workshop Axe geared towards combat, intrinsically dealing Fire damage to targets. Ideally used with theBerserkertalent, which increases axe melee damage.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "+60 Felling Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
   }
 }

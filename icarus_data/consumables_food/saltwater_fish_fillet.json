@@ -2,7 +2,7 @@
   "name": "Saltwater Fish Fillet",
   "url": "https://icarus.fandom.com/wiki/Saltwater_Fish_Fillet",
   "description": "Saltwater Fish Fillet is is the result of filleting a Saltwater Fish at aBasic Fishing Bench. While eating Saltwater Fish Fillet will replenish a small amount ofHunger, there is a possibility of negativeStatus Effectswhen doing so. It is better toCookbefore eating.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

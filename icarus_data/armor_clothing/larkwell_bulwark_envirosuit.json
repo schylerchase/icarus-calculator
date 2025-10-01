@@ -2,7 +2,7 @@
   "name": "Larkwell \"Bulwark\" Envirosuit",
   "url": "https://icarus.fandom.com/wiki/Larkwell_%22Bulwark%22_Envirosuit",
   "description": "The Larkwell \"Bulwark\" Envirosuit offers more resistance to cold/hot environments with the added bonus of exposure resistance, making it a decent upgrade to theShengong 'Bihu' Envirosuitand theShengong 'Dongtian' Envirosuit. RequiresRed Exotics.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,8 +13,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

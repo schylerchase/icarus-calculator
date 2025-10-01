@@ -4,7 +4,7 @@
   "description": "The Kitchen Bench is a mid/late-game crafting bench that expands on cooking foods and it is also the path for creating more advanced medicines.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "20.0 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 30,
-      "Iron Ingot": 8,
-      "Epoy": 20,
-      "Copper Nail": 20
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

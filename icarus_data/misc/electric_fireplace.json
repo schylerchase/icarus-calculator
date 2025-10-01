@@ -2,9 +2,9 @@
   "name": "Electric Fireplace",
   "url": "https://icarus.fandom.com/wiki/Electric_Fireplace",
   "description": "The Electric Fireplace isTier 4version of theFireplacethat is powered byElectricityto provide a source of heat, a source oflight,Cozinessand a means to cookFoodindoors. At least 250 units of electricity are required to power the fireplace.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "30 kg",

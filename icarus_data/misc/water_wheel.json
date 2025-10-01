@@ -4,7 +4,7 @@
   "description": "The Water Wheel is a power-generating device that can be placed in any flowing body of water. Use anElectricity Toolto connect it toBenchesto provide power.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "15.0 Kg",
@@ -15,14 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Organic Resin": 25,
-      "Stone": 50,
-      "Wood": 100,
-      "Steel Ingot": 10,
-      "Electronics": 10,
-      "Copper Nail": 50
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

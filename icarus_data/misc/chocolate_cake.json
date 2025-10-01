@@ -2,7 +2,7 @@
   "name": "Chocolate Cake",
   "url": "https://icarus.fandom.com/wiki/Chocolate_Cake",
   "description": "Chocolate Cake is a deployableFooditem that when placed on a surface will provide 8Chocolate Cake Piecesthat can be picked up and consumed by Prospectors.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -14,15 +14,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Butter": 1,
-      "Flour": 20,
-      "Sugar Cubes": 10,
-      "Egg": 2,
-      "Vegetable Oil": 2,
-      "Cocoa Seed": 10
-    },
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

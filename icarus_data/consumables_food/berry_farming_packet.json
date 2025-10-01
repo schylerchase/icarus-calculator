@@ -2,7 +2,7 @@
   "name": "Berry Farming Packet",
   "url": "https://icarus.fandom.com/wiki/Berry_Farming_Packet",
   "description": "The Berry Farming Packet is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Berry seeds, which then can be planted inDirt Moundsor Crop plots to growPlant Resources.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

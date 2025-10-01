@@ -4,7 +4,7 @@
   "description": "Obsidian Armor is a sidegrade ofComposite Armor, providing slightly more physical resistance and a substantial bonus to heat resistance.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Electric Textiles Bench",
   "tier": 4,
   "stats": {
     "weight": "1.0 kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Platinum Weave": 15,
-      "Composites": 8,
-      "Steel Screw": 6,
-      "Shaped Obsidian": 15
-    },
+    "ingredients": {},
     "crafted_at": "Electric Textiles Bench"
   }
 }

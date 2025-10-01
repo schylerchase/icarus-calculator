@@ -2,9 +2,9 @@
   "name": "Iron Javelin",
   "url": "https://icarus.fandom.com/wiki/Iron_Javelin",
   "description": "The Iron Javelin is a variant of theIron Spearthat can only be thrown and is an upgrade over the Tier 1 Javelins.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
     "damage": "+20% Critical Damage",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Anvil Bench"
+    "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

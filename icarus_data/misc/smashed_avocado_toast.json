@@ -2,7 +2,7 @@
   "name": "Smashed Avocado Toast",
   "url": "https://icarus.fandom.com/wiki/Smashed_Avocado_Toast",
   "description": "Smashed Avocado Toast is a long-lastingFoodwith a uniqueStatus Effect, which can be stacked with other food buffs.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -11,11 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Bread": 1,
-      "Avocado": 1
-    },
-    "crafted_at": "Kitchen Bench"
-  }
+  "base_recipe": null
 }

@@ -4,7 +4,7 @@
   "description": "The smoker is powered byCharcoaland gives you another way to cook longer lasting food. The smoker needs to be placed outside and gives a heat modifier.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
     "weight": "1.75 Kg",
@@ -15,13 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Iron Ingot": 20,
-      "Copper Ingot": 10,
-      "Concrete Mi": 15,
-      "Steel Screw": 20,
-      "Charcoal": 50
-    },
-    "crafted_at": "Machining Bench"
+    "ingredients": {},
+    "crafted_at": "Machining Bench Fabricator"
   }
 }

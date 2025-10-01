@@ -4,7 +4,7 @@
   "description": "Filled at any water source, including aRain Reservoir. The Canteen is water tight, and is a mid-game item requiring aMachining Bench. Canteens can hold 5.0 L of water, 5 times as much as a water skin and can keep the Prospector hydrated for approximately 10x as long due to the leakage of the water skin.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.5 kg"
@@ -14,10 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Cured Leather": 1,
-      "Steel Ingot": 8
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

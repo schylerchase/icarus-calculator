@@ -2,7 +2,7 @@
   "name": "Strawberry Hard Candy",
   "url": "https://icarus.fandom.com/wiki/Strawberry_Hard_Candy",
   "description": "Strawberry Hard Candy is a consumable food that provides a quick boost of movement speed.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

@@ -2,9 +2,9 @@
   "name": "Small Brick Sign",
   "url": "https://icarus.fandom.com/wiki/Small_Brick_Sign",
   "description": "The Small Brick Sign is a deployable sign post available as a wall sign, floor sign or as two angled variants.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Advanced Masonry Bench Electric Masonry Bench",
   "tier": 3,
   "stats": {
     "weight": "1.0 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Advanced Masonry Bench"
+    "crafted_at": "Advanced Masonry Bench Electric Masonry Bench"
   }
 }

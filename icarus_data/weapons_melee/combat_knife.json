@@ -2,7 +2,7 @@
   "name": "Combat Knife",
   "url": "https://icarus.fandom.com/wiki/Combat_Knife",
   "description": "While not particularly good for skinning a carcass, this knife excels in close quarters combat. Cannot be thrown.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -15,13 +15,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Steel Ingot": 12,
-      "Steel Screw": 2,
-      "Carbon Fiber": 2,
-      "Epoy": 4
-    },
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

@@ -4,7 +4,7 @@
   "description": "The Light Automatic Carbine is a semi-automatic rifle the fires pistolAmmunitionsuch asArmor Piercing,Explosive,Incendiary,Obsidianor regularPistol Rounds.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "damage": "+100% Critical Damage",
@@ -16,13 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 15,
-      "Titanium Ingot": 40,
-      "Epoy": 15,
-      "Steel Screw": 25,
-      "Vegetable Oil": 5
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

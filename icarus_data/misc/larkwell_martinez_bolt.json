@@ -2,7 +2,7 @@
   "name": "Larkwell Martinez Bolt",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Bolt",
   "description": "The Larkwell Martinez Bolt is ammunition used with aCrossbow. Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,8 +13,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

@@ -1,0 +1,21 @@
+{
+  "name": "Prototype Thumper",
+  "url": "https://icarus.fandom.com/wiki/Prototype_Thumper",
+  "description": "The more ore available, the bigger the impact on the surrounding environment, so expect more opposition when taking on lucrative deposits in densely populated areas.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Fabricator",
+  "tier": 4,
+  "stats": {
+    "weight": "90.0 Kg",
+    "durability": "5,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Fabricator"
+  }
+}

@@ -2,9 +2,9 @@
   "name": "Iron Knife",
   "url": "https://icarus.fandom.com/wiki/Iron_Knife",
   "description": "The Iron Knife is an upgrade in damage and durability from theBone Knife, the Iron Knife can be used as either a melee weapon or tool. It is also the first knife capable of skinning larger fauna such as theGrizzly BearandBuffalo. An attachment slot is available, allowing for the application ofTool Attachment Packsat anAlteration Bench/Advanced Alteration Bench.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
     "damage": "54 - 60",
@@ -14,5 +14,9 @@
   "category": "knives",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Anvil Bench Forge Foundry"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Gold Ore",
   "url": "https://icarus.fandom.com/wiki/Gold_Ore",
   "description": "Gold Ore is aMineralResource. Prospectors can make extensive use of Gold Ore once they reach level 20 and unlockTier 3, as it is a crucial component inElectronics.",
-  "item_type": "ammunition",
+  "item_type": "harvestable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Concrete Furnace"
-  }
+  "base_recipe": null
 }

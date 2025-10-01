@@ -2,7 +2,7 @@
   "name": "Mass Dampener Module",
   "url": "https://icarus.fandom.com/wiki/Mass_Dampener_Module",
   "description": "This module increases movement speed by 10% when equipped in anEnvirosuitmodule slot. It can be researched and crafted on theSpace Stationin theWorkshop. Multiple Mass Dampeners may be equipped if the Prospector has available slots on their Envirosuit. The speed increase from each Mass Dampener Module will stack and will further increase movement speed.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

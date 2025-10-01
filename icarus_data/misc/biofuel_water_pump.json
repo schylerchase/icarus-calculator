@@ -4,7 +4,7 @@
   "description": "The Biofuel Water Pump outputs 1,000Waterwhen supplied with biofuel; use theWater Pipe Toolto connect it toCrafting Benches/Water Storageto provide water. The Biofuel Water Pump can output water for two hours and thirty minutes with a fullBiofuel Can.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
     "weight": "20.0 Kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Steel Ingot": 16,
-      "Electronics": 4,
-      "Epoy": 12,
-      "Copper Wire": 16
-    },
-    "crafted_at": "Machining Bench"
+    "ingredients": {},
+    "crafted_at": "Machining Bench Fabricator"
   }
 }

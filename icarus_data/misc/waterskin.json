@@ -2,9 +2,13 @@
   "name": "Waterskin",
   "url": "https://icarus.fandom.com/wiki/Waterskin",
   "description": "Filled at any water source, including aRain Reservoir.",
-  "item_type": "ammunition",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 10,
+    "Leather": 12,
+    "Bone": 4
+  },
+  "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {},
   "category": "liquid containers",
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Crafted at\n Crafting Bench"
+    "ingredients": {
+      "Fiber": 10,
+      "Leather": 12,
+      "Bone": 4
+    },
+    "crafted_at": "Crafting Bench"
   }
 }

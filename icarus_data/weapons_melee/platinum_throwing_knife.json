@@ -2,9 +2,9 @@
   "name": "Platinum Throwing Knife",
   "url": "https://icarus.fandom.com/wiki/Platinum_Throwing_Knife",
   "description": "The Platinum Throwing Knife is a variant of thePlatinum Knifethat can be thrown. Unlike thePlatinum Knife, the Platinum Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "damage": "57 - 60",
@@ -13,5 +13,9 @@
   "category": "throwing knives",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Forge Foundry"
+  }
 }

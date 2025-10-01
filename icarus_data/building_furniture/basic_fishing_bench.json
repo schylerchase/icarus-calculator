@@ -4,7 +4,7 @@
   "description": "The Basic Fishing Bench is where Prospectors can craft theWooden Fishing Rodand theRefined Wood Fishing Rod, as well as variousLureson the left hand side of the bench. The right side of the bench is used to fillet any fish caught using aFishing Rodor Fishing Trap. Does not require shelter to be used.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
     "weight": "20.0 Kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 25,
-      "Rope": 10,
-      "Iron Ingot": 5,
-      "Copper Nail": 12
-    },
+    "ingredients": {},
     "crafted_at": "Crafting Bench"
   }
 }

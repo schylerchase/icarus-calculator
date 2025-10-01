@@ -4,7 +4,7 @@
   "description": "One approach to catching fish is by using a Fishing Rod. Though a lure is not required, attaching one can increase the quality, length, and weight of the caught fish. Additionally, certain lures can increase the odds of catching fish of a certain rarity or increase the size of the capture area. For a list of available lures, view thispage.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Basic Fishing Bench",
   "tier": 2,
   "stats": {
     "weight": "1.0 kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 20,
-      "Iron Ingot": 2,
-      "Rope": 5
-    },
-    "crafted_at": "Crafted At\n Basic Fishing Bench"
+    "ingredients": {},
+    "crafted_at": "Basic Fishing Bench"
   }
 }

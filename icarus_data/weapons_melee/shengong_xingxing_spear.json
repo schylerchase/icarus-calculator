@@ -2,7 +2,7 @@
   "name": "Shengong \"Xingxing\" Spear",
   "url": "https://icarus.fandom.com/wiki/Shengong_%22Xingxing%22_Spear",
   "description": "The Shengong \"Xingxing\" Spear is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospector's loadout before starting a new prospect.",
-  "item_type": "unknown",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,6 @@
   "category": "spears",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": null
 }

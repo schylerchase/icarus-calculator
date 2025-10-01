@@ -2,7 +2,7 @@
   "name": "Bone Javelin",
   "url": "https://icarus.fandom.com/wiki/Bone_Javelin",
   "description": "The Bone Javelin is a variant of theBone Spearthat can only be thrown and is an upgrade to theWood Javelin. Despite it requiring more materials to craft, the increase in damage can mean the difference between winning and losing a fight against Icarus' fauna.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -14,8 +14,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Character"
-  }
+  "base_recipe": null
 }

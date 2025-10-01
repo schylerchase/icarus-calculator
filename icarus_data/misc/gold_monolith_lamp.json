@@ -2,9 +2,9 @@
   "name": "Gold Monolith Lamp",
   "url": "https://icarus.fandom.com/wiki/Gold_Monolith_Lamp",
   "description": "The Gold Monolith Lamp is a simple low output lamp that does not require fuel to operate but does require water to craft.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Masonry Bench",
   "tier": 2,
   "stats": {
     "weight": "1.5 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Masonry Bench"
+    "crafted_at": "Masonry Bench"
   }
 }

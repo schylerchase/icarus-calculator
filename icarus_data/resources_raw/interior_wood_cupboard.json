@@ -2,9 +2,9 @@
   "name": "Interior Wood Cupboard",
   "url": "https://icarus.fandom.com/wiki/Interior_Wood_Cupboard",
   "description": "A Interior Wood Cupboard made of refined wood and copper nails. Similar size to theWood Cupboard.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
     "weight": "8.0 kg",

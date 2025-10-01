@@ -4,7 +4,7 @@
   "description": "The Large Food Trough is a slight upgrade to theFood Troughthat allows for multiple creatures to eat from it simultaneously. Large Food Troughs benefit from theExtra Space I/Extra Space IItalent.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
     "weight": "3.0 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 80,
-      "Tree Sap": 12,
-      "Iron Nail": 32
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

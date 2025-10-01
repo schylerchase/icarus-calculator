@@ -2,9 +2,9 @@
   "name": "LM Beastmaster Arm Armor",
   "url": "https://icarus.fandom.com/wiki/LM_Beastmaster_Arm_Armor",
   "description": "The LM Beastmaster Arm Armor is part of theLM Beastmaster Armor Set, which can be unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. The armor set comes with buffs toMountsand tamed creatures.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "weight": "1.0 kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
   }
 }

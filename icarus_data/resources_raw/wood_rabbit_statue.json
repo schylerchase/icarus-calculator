@@ -2,9 +2,9 @@
   "name": "Wood Rabbit Statue",
   "url": "https://icarus.fandom.com/wiki/Wood_Rabbit_Statue",
   "description": "The Wood Rabbit Statue is a decorative wood item.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
     "weight": "1 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Decoration Bench"
+    "crafted_at": "Decoration Bench"
   }
 }

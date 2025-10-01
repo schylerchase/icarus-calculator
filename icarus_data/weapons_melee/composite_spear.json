@@ -2,7 +2,7 @@
   "name": "Composite Spear",
   "url": "https://icarus.fandom.com/wiki/Composite_Spear",
   "description": "The Composite Spear is an upgrade to theTitanium Spearthat deals more damage and is cheaper to craft once Composites can be crafted. DespiteCompositesbeing a hefty tech investment, the Composite Spear has the highest damage output and durability outside ofPrometheusexclusive Spears. Unlike theComposite Javelin, the Composite Spear cannot be thrown.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -15,8 +15,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

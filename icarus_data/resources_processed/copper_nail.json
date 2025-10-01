@@ -2,9 +2,9 @@
   "name": "Copper Nail",
   "url": "https://icarus.fandom.com/wiki/Copper_Nail",
   "description": "Copper Nail are used widely in crafting of items such as interiorInterior Wood Building Pieces, and other items made ofRefined Woodat theCarpentry BenchandMachining Bench.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Anvil Bench",
   "tier": 0,
   "stats": {},
   "category": "crafted resources",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Machining Bench"
+    "crafted_at": "Anvil Bench"
   }
 }

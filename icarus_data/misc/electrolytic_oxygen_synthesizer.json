@@ -4,7 +4,7 @@
   "description": "The Electrolytic Oxygen Synthesizer produces oxygen from water, removing the need forOxite. Requires 1,550Wattsand 500Litersper second to function. The Electrolytic Oxygen Synthesizer can hold up to 10Oxygen Containersand will auto fill tanks in seconds.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "8.0 Kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Titanium Plate": 2,
-      "Glass": 10,
-      "Electronics": 20,
-      "Copper Wire": 70
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

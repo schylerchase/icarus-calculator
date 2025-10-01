@@ -4,7 +4,7 @@
   "description": "The Carbon Javelin is a variant of theCarbon Spearthat can only be thrown and is a cheaper upgrade to thePlatinum Javelinthat deals more damage and has a lower break chance.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "damage": "+25% Critical Damage",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Copper Ingot": 4,
-      "Carbon Fiber": 20,
-      "Epoy": 4
-    },
-    "crafted_at": "Forge"
+    "ingredients": {},
+    "crafted_at": "Forge Foundry"
   }
 }

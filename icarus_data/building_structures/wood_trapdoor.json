@@ -2,7 +2,7 @@
   "name": "Wood Trapdoor",
   "url": "https://icarus.fandom.com/wiki/Wood_Trapdoor",
   "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offer good protection toDeployablesandStoragecontainers. Attaches to floors with trapdoor holes (hold R while holding a floor piece and select the Trapdoor variant from the radial wheel).",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,11 +14,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Fiber": 4,
-      "Wood": 10
-    },
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

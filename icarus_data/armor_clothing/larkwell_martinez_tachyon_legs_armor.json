@@ -2,9 +2,9 @@
   "name": "Larkwell Martinez Tachyon Legs Armor",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Tachyon_Legs_Armor",
   "description": "",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "weight": "1.0 kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
   }
 }

@@ -2,7 +2,7 @@
   "name": "Freshwater Fish Fillet",
   "url": "https://icarus.fandom.com/wiki/Freshwater_Fish_Fillet",
   "description": "Freshwater Fish Fillet is is the result of filleting a Freshwater Fish at aBasic Fishing Bench. While eating Freshwater Fish Fillet will replenish a small amount ofHunger, there is a possibility of negativeStatus Effectswhen doing so. It is better toCookbefore eating.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

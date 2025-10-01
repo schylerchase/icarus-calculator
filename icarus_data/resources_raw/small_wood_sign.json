@@ -2,9 +2,9 @@
   "name": "Small Wood Sign",
   "url": "https://icarus.fandom.com/wiki/Small_Wood_Sign",
   "description": "A Small Wood Sign made ofRefined WoodandCopper Nails.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench Electric Carpentry Bench",
   "tier": 2,
   "stats": {
     "weight": "0.5 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Carpentry Bench"
+    "crafted_at": "Carpentry Bench Electric Carpentry Bench"
   }
 }

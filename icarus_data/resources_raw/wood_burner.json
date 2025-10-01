@@ -2,9 +2,13 @@
   "name": "Wood Burner",
   "url": "https://icarus.fandom.com/wiki/Wood_Burner",
   "description": "The Wood Burner is a source of heat and basic cooking similar to aCampfireorFireplace. It provides the Warming Fire effect (heat and +100% Perceived Threat) allowing a Prospector to sleep nearby. Once fuel is added, it can be activated and will consume fuel regardless of any selected recipe.",
-  "item_type": "ammunition",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "item_type": "craftable",
+  "ingredients": {
+    "Copper Ingot": 10,
+    "Iron Nail": 15,
+    "Steel Ingot": 30
+  },
+  "crafted_at": "Crafting Bench Machining Bench Fabricator",
   "tier": 2,
   "stats": {
     "weight": "10 kg",
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Machining Bench"
+    "ingredients": {
+      "Copper Ingot": 10,
+      "Iron Nail": 15,
+      "Steel Ingot": 30
+    },
+    "crafted_at": "Crafting Bench Machining Bench Fabricator"
   }
 }

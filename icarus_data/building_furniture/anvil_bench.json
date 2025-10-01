@@ -4,7 +4,7 @@
   "description": "The Anvil Bench is unlocked near the start of theTier 2Tech Tree. It enables the Prospector to craft higher quality tools such as theIron PickaxeandSteel Pickaxe. It is also where these tools can be repaired. While it can be placed with no shelter, it would be unusable. Will take damage if left without shelter (or under a severely damaged roof) in storms.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
     "weight": "20.0 kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Iron Ingot": 40,
-      "Wood": 20,
-      "Stone": 10
-    },
-    "crafted_at": "Anvil Bench"
+    "ingredients": {},
+    "crafted_at": "Crafting Bench"
   }
 }

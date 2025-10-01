@@ -2,7 +2,7 @@
   "name": "Crunchy Soy Bean",
   "url": "https://icarus.fandom.com/wiki/Crunchy_Soy_Bean",
   "description": "Crunchy Soy Bean is a consumable food that boosts maximum health and health regeneration.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

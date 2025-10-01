@@ -1,0 +1,24 @@
+{
+  "name": "Platinum Weave",
+  "url": "https://icarus.fandom.com/wiki/Platinum_Weave",
+  "description": "Platinum Weave is aTier 3crafted resource used for various items including armor, animal items, rugs, fishing lures and furniture.",
+  "item_type": "harvestable",
+  "ingredients": {
+    "Art Deco RugArt Deco Sitting BenchArt Deco Lounge ChairArt Deco 2-Seater CouchArt Deco 3-Seater CouchArt Deco Dining ChairArt Deco Bed": 2
+  },
+  "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
+  "tier": 3,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [
+    "Sheep"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Art Deco RugArt Deco Sitting BenchArt Deco Lounge ChairArt Deco 2-Seater CouchArt Deco 3-Seater CouchArt Deco Dining ChairArt Deco Bed": 2
+    },
+    "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
+  }
+}

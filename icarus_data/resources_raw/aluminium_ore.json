@@ -2,7 +2,7 @@
   "name": "Aluminium Ore",
   "url": "https://icarus.fandom.com/wiki/Aluminium_Ore",
   "description": "Aluminium Ore is a mid-gameMineralResource. Prospectors can first utilize aluminium once they reach level 20 and unlockTier 3, when it can be crafted into upgradedWeaponslike theRecurve BowandAluminium Arrow. It is widely used in constructs (for example,Aluminium BeamandAluminium Door), and in the late-game it is a vital component ofItemslikeComposite Chest Armor.",
-  "item_type": "ammunition",
+  "item_type": "harvestable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Concrete Furnace"
-  }
+  "base_recipe": null
 }

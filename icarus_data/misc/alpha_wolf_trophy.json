@@ -4,7 +4,7 @@
   "description": "Alpha Wolf Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete theBestiary, it can also be used in tandem with otherFurnitureto increase theCozinessof your living quarters, increasing the duration and effectiveness of theWell Rested Buff.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Trophy Bench",
   "tier": 2,
   "stats": {
     "weight": "2.0 Kg",
@@ -15,10 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 30,
-      "Alpha Wolf Vestige": 1
-    },
+    "ingredients": {},
     "crafted_at": "Trophy Bench"
   }
 }

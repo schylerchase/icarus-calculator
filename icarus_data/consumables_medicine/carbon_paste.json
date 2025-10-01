@@ -2,7 +2,7 @@
   "name": "Carbon Paste",
   "url": "https://icarus.fandom.com/wiki/Carbon_Paste",
   "description": "Carbon Paste is a crafted resource meant to be smelted in aConcrete FurnaceorElectric Furnaceto makeCarbon Fiberand is a critical component inTier 4crafting.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -11,13 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Silica Ore": 1,
-      "Aluminium Ingot": 1,
-      "Organic Resin": 4,
-      "Epoy": 2
-    },
-    "crafted_at": "Mortar and Pestle"
-  }
+  "base_recipe": null
 }

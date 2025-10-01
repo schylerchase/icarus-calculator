@@ -2,9 +2,9 @@
   "name": "Interior Wood Wall",
   "url": "https://icarus.fandom.com/wiki/Interior_Wood_Wall",
   "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench",
   "tier": 0,
   "stats": {
     "weight": "0.5 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Unknown"
+    "crafted_at": "Carpentry Bench"
   }
 }

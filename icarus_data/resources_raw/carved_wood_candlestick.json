@@ -2,9 +2,9 @@
   "name": "Carved Wood Candlestick",
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_Candlestick",
   "description": "The Carved Wood Candlestick can be crafted using either beeswax or animal fat and will take either as fuel. There are three varieties that can be selected using the 'R' key while deploying.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
     "weight": "1 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Carpentry Bench"
+    "crafted_at": "Carpentry Bench"
   }
 }

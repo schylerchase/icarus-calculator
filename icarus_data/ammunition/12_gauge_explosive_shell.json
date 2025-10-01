@@ -2,9 +2,9 @@
   "name": "12-Gauge Explosive Shell",
   "url": "https://icarus.fandom.com/wiki/12-Gauge_Explosive_Shell",
   "description": "12-Gauge Explosive Shells are used byShotguns. Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Damages area around target. Caution when using this ammunition is advised. 12-Gauge Explosive Shells have 6 pellets per shell.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.012 kg"

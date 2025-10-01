@@ -4,7 +4,7 @@
   "description": "The Black Wolf Knife is a knife with a 25% chance to inflict hemorrhage on targets and can be used as a tool to skin fauna. For the thrown variant of the Black Wolf Knife, viewBlack Wolf Throwing Knife.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "damage": "63 - 70",
@@ -16,12 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Black Wolf Tooth": 6,
-      "Leather": 4,
-      "Iron Ore": 4,
-      "Iron Nail": 2
-    },
-    "crafted_at": "Forge"
+    "ingredients": {},
+    "crafted_at": "Forge Foundry"
   }
 }

@@ -2,7 +2,7 @@
   "name": "Stone Brick Beam",
   "url": "https://icarus.fandom.com/wiki/Stone_Brick_Beam",
   "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,13 +14,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 6,
-      "Stone Brick": 20,
-      "Tree Sap": 4,
-      "Steel Screw": 6
-    },
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

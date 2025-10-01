@@ -2,9 +2,9 @@
   "name": "Leather Backpack",
   "url": "https://icarus.fandom.com/wiki/Leather_Backpack",
   "description": "The Leather Backpack is a must need when mining ores, or taking long trips across Icarus, fit everything you need inside for survival!",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Textiles Bench",
   "tier": 2,
   "stats": {
     "weight": "0.5Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Textiles Bench"
+    "crafted_at": "Textiles Bench"
   }
 }

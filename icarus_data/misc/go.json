@@ -2,7 +2,7 @@
   "name": "Go",
   "url": "https://icarus.fandom.com/wiki/Go",
   "description": "Go is aConsumablewith a uniqueStatus Effect: 'All Go'. Can be consumed to satisfyThirst. It is a one time use emergency beverage to quench thirst.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

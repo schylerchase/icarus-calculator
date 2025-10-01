@@ -4,7 +4,7 @@
   "description": "The Heavy Heater providesClimate Controlinside of a building, making it a great addition to any outpost located in aArctic. A connection providing at least 250 units ofPoweris required to use the Heavy Heater.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "20.0 Kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Aluminium Ingot": 40,
-      "Electronics": 20,
-      "Steel Screw": 8,
-      "Carbon Fiber": 8
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

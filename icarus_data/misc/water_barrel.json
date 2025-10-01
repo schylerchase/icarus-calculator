@@ -4,7 +4,7 @@
   "description": "Water Barrels are a deployable that can be connected to a water network to store 300,000 water and can output 1,000 water per second to keep the network operational.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "10.0 kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Iron Ingot": 4,
-      "Refined Wood": 40,
-      "Epoy": 4
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

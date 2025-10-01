@@ -2,9 +2,9 @@
   "name": "Art Deco Fireplace",
   "url": "https://icarus.fandom.com/wiki/Art_Deco_Fireplace",
   "description": "The Art Deco Fireplace is a gilded sleek stone fireplace that provides a source ofHeat,Light,Cozinessand a place to cook indoors without the hazards of an openCampfire.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
     "weight": "10 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Decoration Bench"
+    "crafted_at": "Decoration Bench"
   }
 }

@@ -2,7 +2,7 @@
   "name": "Spoiled Plants",
   "url": "https://icarus.fandom.com/wiki/Spoiled_Plants",
   "description": "Spoiled Plants are the byproduct of spoiled food like vegetables and fruit, and are used to craftVolatile SubstanceorBasic Fertilizerfor Crop Plots. Cannot be eaten despite having theYou Gonna Eat That?talent.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

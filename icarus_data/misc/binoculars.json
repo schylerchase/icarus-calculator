@@ -4,7 +4,7 @@
   "description": "See your prey from further away.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
     "weight": "0.25 kg"
@@ -14,12 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Rope": 4,
-      "Glass": 6,
-      "Aluminium Ingot": 6,
-      "Epoy": 2
-    },
+    "ingredients": {},
     "crafted_at": "Machining Bench"
   }
 }

@@ -2,9 +2,9 @@
   "name": "Shengong \"Daokou\" Knife",
   "url": "https://icarus.fandom.com/wiki/Shengong_%22Daokou%22_Knife",
   "description": "The Shengong \"Daokou\" Knife is equivalent toTier 2Tech like theIron Knife, giving Prospectors the ability to skin larger animals, such asBuffaloandGrizzly Bears. UnlikeThrowing Knives, the Shengong \"Daokou\" Knife cannot be thrown. There currently are no Workshop throwing knives.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "57 - 60 Melee Damage",
@@ -14,5 +14,9 @@
   "category": "knives",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+  }
 }

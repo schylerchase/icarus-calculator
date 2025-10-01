@@ -2,9 +2,9 @@
   "name": "Cold Steel Javelin",
   "url": "https://icarus.fandom.com/wiki/Cold_Steel_Javelin",
   "description": "The Cold Steel Javelin is a variant of theCold Steel Spearthat can only be thrown. Deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while dealing periodic frost damage. Excels when used against Fauna that have a weakness to frost. A list of Fauna that are weak to frost can be viewedhere. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds.\nFauna with:",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "damage": "+25% Critical Damage",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Forge"
+    "crafted_at": "Forge Foundry"
   }
 }

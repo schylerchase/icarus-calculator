@@ -4,7 +4,7 @@
   "description": "The C0NT4CT Radio is a portable device that when in range, provides the same access to missions as aCONT4CT DeviceinOpen Worldprospects.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "1 Kg"
@@ -14,12 +14,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Platinum Sheath": 20,
-      "Gold Wire": 35,
-      "Copper Wire": 25,
-      "Electronics": 5
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

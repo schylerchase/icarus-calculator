@@ -4,7 +4,7 @@
   "description": "Used by 'attacking' plants such as shrubs,Reed Flower,Wheat, etc.Sicklessignificantly increase the yield of plants when harvesting.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "damage": "54 - 60",
@@ -16,11 +16,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Refined Wood": 4,
-      "Cured Leather": 1,
-      "Platinum Ingot": 10
-    },
-    "crafted_at": "Forge"
+    "ingredients": {},
+    "crafted_at": "Forge Foundry"
   }
 }

@@ -2,9 +2,9 @@
   "name": "Lightning Rod",
   "url": "https://icarus.fandom.com/wiki/Lightning_Rod",
   "description": "The Lightning Rod is used to redirect lightning strikes from hitting buildings.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
     "weight": "2.0 kg",

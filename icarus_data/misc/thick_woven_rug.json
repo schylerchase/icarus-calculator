@@ -4,7 +4,7 @@
   "description": "Thick Woven Rugs are decorative deployables that can be placed on any ground surface and are used to liven any living space. Aside from being for decorative purposes, it can also be used in tandem with otherFurnitureto increase theCozinessof your living quarters, increasing the duration and effectiveness of theWell Rested Buff.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
     "weight": "1.0 Kg",
@@ -15,10 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Leather": 10,
-      "Fiber": 100
-    },
-    "crafted_at": "Textiles Bench"
+    "ingredients": {},
+    "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

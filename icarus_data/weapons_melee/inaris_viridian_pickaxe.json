@@ -2,9 +2,9 @@
   "name": "Inaris \"Viridian\" Pickaxe",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Viridian%22_Pickaxe",
   "description": "The Inaris \"Viridian\" Pickaxe is a Workshop Pickaxe geared towards combat, intrinsically dealing frost damage to targets.",
-  "item_type": "unknown",
+  "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "23 - 25 Melee Damage50 - 50 Frost Damage",
@@ -14,5 +14,9 @@
   "category": "pickaxes",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+  }
 }

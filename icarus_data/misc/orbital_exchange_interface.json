@@ -4,7 +4,7 @@
   "description": "The Orbital Exchange Interface is required to sendExotics/Stabilized Exoticsback to Orbit and to receive payment for them.Volatile Raw Exotics must be cleaned at aOrganic Residue Cleanserbefore they can be sent up.Must be placed outdoors.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafting Bench Machining Bench Fabricator",
   "tier": 2,
   "stats": {
     "weight": "10.0 Kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 10,
-      "Rope": 8,
-      "Iron Ingot": 7,
-      "Copper Ingot": 7
-    },
-    "crafted_at": "Crafting Bench"
+    "ingredients": {},
+    "crafted_at": "Crafting Bench Machining Bench Fabricator"
   }
 }

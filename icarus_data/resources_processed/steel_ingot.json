@@ -2,7 +2,7 @@
   "name": "Steel Ingot",
   "url": "https://icarus.fandom.com/wiki/Steel_Ingot",
   "description": "Steel Ingot is the refined resource crafted fromSteel Bloom, prospectors may use aStone Furnace,Concrete Furnace, orElectric Furnace.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Concrete Furnace"
-  }
+  "base_recipe": null
 }

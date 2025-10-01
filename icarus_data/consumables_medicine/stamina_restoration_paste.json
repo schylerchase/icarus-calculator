@@ -2,7 +2,7 @@
   "name": "Stamina Restoration Paste",
   "url": "https://icarus.fandom.com/wiki/Stamina_Restoration_Paste",
   "description": "In-game description:A natural stimulant that restores lost stamina.In-game flavor text:As countless athletes, party-goers and would-be mystics have noted, the line between natural stimulant and highly addictive narcotic is arbitrary, at best.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,12 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Reed Flower": 20,
-      "Wheat": 20,
-      "Tree Sap": 10
-    },
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

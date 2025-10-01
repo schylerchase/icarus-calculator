@@ -2,8 +2,15 @@
   "name": "Paints",
   "url": "https://icarus.fandom.com/wiki/Paints",
   "description": "Paints are used make several differentPaintingsthat can be hung on variousFrames.",
-  "item_type": "ammunition",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Recipe #1": 1,
+    "Tea": 5,
+    "Charcoal": 5,
+    "Recipe #3": 3,
+    "Coffee Bean": 5,
+    "Tree Sap": 5
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {},
@@ -12,7 +19,14 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Mortar and Pestle"
+    "ingredients": {
+      "Recipe #1": 1,
+      "Tea": 5,
+      "Charcoal": 5,
+      "Recipe #3": 3,
+      "Coffee Bean": 5,
+      "Tree Sap": 5
+    },
+    "crafted_at": "Unknown"
   }
 }

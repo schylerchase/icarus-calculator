@@ -2,9 +2,11 @@
   "name": "Larkwell Martinez Knife",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Knife",
   "description": "The Larkwell Martinez Knife is the hardest-hitting Workshop knife available. UnlikeThrowing Knives, the Larkwell Martinez Knife cannot be thrown. There currently are no Workshop throwing knives.",
-  "item_type": "unknown",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "item_type": "craftable",
+  "ingredients": {
+    ",000": 1
+  },
+  "crafted_at": "Workshop Repair Kitat a poweredRepair Bench",
   "tier": 0,
   "stats": {
     "damage": "66 - 70 Melee Damage",
@@ -14,5 +16,11 @@
   "category": "knives",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      ",000": 1
+    },
+    "crafted_at": "Workshop Repair Kitat a poweredRepair Bench"
+  }
 }

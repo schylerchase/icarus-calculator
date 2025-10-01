@@ -1,0 +1,15 @@
+{
+  "name": "UDA Dirt Resource Supply",
+  "url": "https://icarus.fandom.com/wiki/UDA_Dirt_Resource_Supply",
+  "description": "",
+  "item_type": "orbital",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "resource packs",
+  "harvested_from": [],
+  "research_cost": 50,
+  "purchase_cost": null,
+  "base_recipe": null
+}

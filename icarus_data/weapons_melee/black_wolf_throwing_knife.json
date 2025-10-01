@@ -4,7 +4,7 @@
   "description": "The Black Wolf Throwing Knife is a variant of theBlack Wolf Knifethat can be thrown. Unlike theBlack Wolf Knife, the Black Wolf Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "damage": "63 - 70",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Black Wolf Tooth": 4,
-      "Leather": 4,
-      "Iron Ore": 2,
-      "Iron Nail": 6
-    },
-    "crafted_at": "Forge"
+    "ingredients": {},
+    "crafted_at": "Forge Foundry"
   }
 }

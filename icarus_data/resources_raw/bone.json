@@ -2,7 +2,7 @@
   "name": "Bone",
   "url": "https://icarus.fandom.com/wiki/Bone",
   "description": "Bone is aAnimal Resourceobtained fromFauna. It is also sometimes found when harvesting fish.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Mortar and Pestle"
-  }
+  "base_recipe": null
 }

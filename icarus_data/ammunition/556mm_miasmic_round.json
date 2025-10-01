@@ -2,15 +2,17 @@
   "name": "5.56mm Miasmic Round",
   "url": "https://icarus.fandom.com/wiki/5.56mm_Miasmic_Round",
   "description": "5.56mm Miasmic Round, a Miasmic variant of ammunition used by theAssault Rifle.",
-  "item_type": "ammunition",
+  "item_type": "harvestable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted AtMachining BenchFabricator",
   "tier": 3,
   "stats": {
     "weight": "0.01 Kg"
   },
   "category": "rifle ammunition",
-  "harvested_from": [],
+  "harvested_from": [
+    "Icarus wildlife"
+  ],
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {

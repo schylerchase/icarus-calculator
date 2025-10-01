@@ -2,9 +2,9 @@
   "name": "Copper Ingot",
   "url": "https://icarus.fandom.com/wiki/Copper_Ingot",
   "description": "Copper Ingot is the refined resource crafted fromCopper Ore.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Stone Furnace Concrete Furnace Electric Furnace",
   "tier": 2,
   "stats": {},
   "category": "crafted resources",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Concrete Furnace"
+    "crafted_at": "Stone Furnace Concrete Furnace Electric Furnace"
   }
 }

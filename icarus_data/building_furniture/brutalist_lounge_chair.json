@@ -2,9 +2,9 @@
   "name": "Brutalist Lounge Chair",
   "url": "https://icarus.fandom.com/wiki/Brutalist_Lounge_Chair",
   "description": "The Brutalist Lounge Chair is a minimalist chair made with concrete and leather in the Brutalist design aesthetic. It serves as a seat for Prospectors and provides a small bonus toCoziness.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
     "weight": "7 Kg",
@@ -16,6 +16,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted At\n Decoration Bench"
+    "crafted_at": "Decoration Bench"
   }
 }

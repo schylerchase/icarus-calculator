@@ -2,9 +2,9 @@
   "name": "Brown Bear Feet Armor",
   "url": "https://icarus.fandom.com/wiki/Brown_Bear_Feet_Armor",
   "description": "Brown Bear Armor is an upgrade toBone Armor, offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with theCalibrated Grip Attachments andAttack Speed Attachments, further increasing knife attack speed.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
     "weight": "1.0 kg",

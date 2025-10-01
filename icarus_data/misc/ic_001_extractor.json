@@ -2,7 +2,7 @@
   "name": "IC-001 Extractor",
   "url": "https://icarus.fandom.com/wiki/IC-001_Extractor",
   "description": "This device is used to extractExoticsfrom Exotic Deposits. It requires theIC-001 Prototype Power Sourceto operate and can extract approximately 330 exotics per power source. The speed of the IC-001 Extractor is the same as theElectric Extractor. Due to a bug, the IC-001 Extractor will operate at the same speed as theBiofuel Extractor.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,8 +14,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

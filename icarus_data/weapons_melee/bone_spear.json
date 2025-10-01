@@ -2,7 +2,7 @@
   "name": "Bone Spear",
   "url": "https://icarus.fandom.com/wiki/Bone_Spear",
   "description": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. The Bone Spear has twice as much health than theWood Spear, which can be the difference between winning and losing against Icarus' fauna. Unlike theBone Javelin, the Bone Spear cannot be thrown.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -15,8 +15,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Character"
-  }
+  "base_recipe": null
 }

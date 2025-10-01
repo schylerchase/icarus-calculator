@@ -2,9 +2,9 @@
   "name": "Supplemental Filtration Attachment",
   "url": "https://icarus.fandom.com/wiki/Supplemental_Filtration_Attachment",
   "description": "Supplemental Filtration Attachment is a mid-to-end game item available once the prospector has unlocked theArmor Attachment Packtech.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Alteration Bench",
   "tier": 3,
   "stats": {
     "weight": "1 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted at\n Alteration Bench"
+    "crafted_at": "Alteration Bench"
   }
 }

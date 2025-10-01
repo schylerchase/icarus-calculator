@@ -2,7 +2,7 @@
   "name": "Mammoth Tusk",
   "url": "https://icarus.fandom.com/wiki/Mammoth_Tusk",
   "description": "Mammoth Tusks are a resource obtained from theWoolly Mammoth/Columbian Mammoth. Requires anIron Knifeor better to skin and harvest the downed beast.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Mortar and Pestle"
-  }
+  "base_recipe": null
 }

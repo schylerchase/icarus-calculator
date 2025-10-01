@@ -2,7 +2,7 @@
   "name": "Interior Wood Halfpitches",
   "url": "https://icarus.fandom.com/wiki/Interior_Wood_Halfpitches",
   "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with aRepair Hammer.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,8 +14,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

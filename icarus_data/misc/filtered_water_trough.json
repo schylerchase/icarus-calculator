@@ -4,7 +4,7 @@
   "description": "The Filtered Water Trough is an expensive variant of theLarge Water Troughthat is used to keepMountsandPetshydrated. Currently does not apply a modifier to animals that drink from it, making it an expensive upgrade to it's lower tier counterparts. Must be connected toElectricityandWaterproviding at least 1,000 Watts and 30 liters per second to function.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 4,
   "stats": {
     "weight": "3.0 Kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Concrete Mi": 20,
-      "Titanium Plate": 2,
-      "Electronics": 10,
-      "Carbon Fiber": 5
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

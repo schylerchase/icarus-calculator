@@ -2,7 +2,7 @@
   "name": "Xigo Quick-Fix Bundle",
   "url": "https://icarus.fandom.com/wiki/Xigo_Quick-Fix_Bundle",
   "description": "The Xigo Quick-Fix Bundle provides 5Xigo Quick-Fix Kitsthat act asMedicineto heal various types of wounds and remove afflictions.",
-  "item_type": "ammunition",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -11,8 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

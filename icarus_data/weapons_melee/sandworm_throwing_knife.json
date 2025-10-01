@@ -2,9 +2,9 @@
   "name": "Sandworm Throwing Knife",
   "url": "https://icarus.fandom.com/wiki/Sandworm_Throwing_Knife",
   "description": "The Sandworm Throwing Knife is a variant of theSandworm Knifethat can be thrown. Unlike theSandworm Knife, the Sandworm Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "damage": "67 - 75",
@@ -13,5 +13,9 @@
   "category": "throwing knives",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Forge Foundry"
+  }
 }

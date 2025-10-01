@@ -2,7 +2,7 @@
   "name": "Melon Smoked Giant Steak",
   "url": "https://icarus.fandom.com/wiki/Melon_Smoked_Giant_Steak",
   "description": "Melon Smoked Giant Steak is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
-  "item_type": "craftable",
+  "item_type": "weapon",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -11,11 +11,5 @@
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
-  "base_recipe": {
-    "ingredients": {
-      "Raw Giant Steak": 1,
-      "Watermelon": 1
-    },
-    "crafted_at": "Unknown"
-  }
+  "base_recipe": null
 }

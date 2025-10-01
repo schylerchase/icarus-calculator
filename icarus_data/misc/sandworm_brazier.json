@@ -4,7 +4,7 @@
   "description": "The Sandworm Brazier is a deployable and decorative source ofHeatandLightmade from the remains of aSandworm.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Trophy Bench",
   "tier": 2,
   "stats": {
     "weight": "5.0 Kg",
@@ -15,12 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Wood": 4,
-      "Iron Ingot": 16,
-      "Steel Screw": 8,
-      "Sandworm Vestige": 1
-    },
-    "crafted_at": "Crafted At\n Trophy Bench"
+    "ingredients": {},
+    "crafted_at": "Trophy Bench"
   }
 }

@@ -4,7 +4,7 @@
   "description": "The Ornate Water Trough is a decorative upgrade to theWater Troughthat allows multiple creatures to drink from it simultaneously and can be connected toWaterusing aWater Pipe Tool, similar to theLarge Water Trough. The Ornate Water Trough can only store water and cannot provide water to the rest of the network likeWater BarrelsorMetal Rain Reservoirs.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Ranching Station",
   "tier": 3,
   "stats": {
     "weight": "3.0 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Concrete Mi": 30,
-      "Tree Sap": 30,
-      "Stone": 25
-    },
+    "ingredients": {},
     "crafted_at": "Ranching Station"
   }
 }

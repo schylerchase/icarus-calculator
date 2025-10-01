@@ -2,9 +2,9 @@
   "name": "Basic Fertilizer",
   "url": "https://icarus.fandom.com/wiki/Basic_Fertilizer",
   "description": "Basic Fertilizer is used on crop plots to enhance the growth of plants. When applied, Crop Yield and Crop Growth Speed is increased by 15% for 1200 seconds. To fertilize a crop plot, equip a fertilizer of your choosing from your hotbar and left click the plot you wish to fertilize.",
-  "item_type": "ammunition",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Wood Composter Chemistry Bench",
   "tier": 2,
   "stats": {},
   "category": "resources",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Crafted at\n Wood Composter Chemistry Bench"
+    "crafted_at": "Wood Composter Chemistry Bench"
   }
 }

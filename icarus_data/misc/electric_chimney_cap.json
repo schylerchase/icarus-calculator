@@ -4,7 +4,7 @@
   "description": "A Electric Chimney Cap is the final cap piece to place on anElectric Chimney Extensionor directly on anElectric Fireplace.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "2.0 Kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Aluminium Ingot": 6,
-      "Epoy": 2,
-      "Titanium Ingot": 4
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

@@ -4,7 +4,7 @@
   "description": "The Electricity Tool connectsPower SourcestoDeployables/Power Storageto provideElectricity.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
     "weight": "0.1 kg",
@@ -15,11 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Copper Wire": 50,
-      "Gold Wire": 50,
-      "Carbon Fiber": 4
-    },
+    "ingredients": {},
     "crafted_at": "Fabricator"
   }
 }

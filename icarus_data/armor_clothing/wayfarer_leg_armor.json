@@ -4,7 +4,7 @@
   "description": "Wayfarer Leg Armor is a mid-gameTier 3crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
   "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
   "tier": 3,
   "stats": {
     "weight": "2.0 kg",
@@ -15,9 +15,7 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {
-      "Platinum Weave": 8
-    },
-    "crafted_at": "Advanced Textiles Bench"
+    "ingredients": {},
+    "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
   }
 }

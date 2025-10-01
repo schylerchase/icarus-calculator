@@ -2,9 +2,9 @@
   "name": "Platinum Crossbow",
   "url": "https://icarus.fandom.com/wiki/Platinum_Crossbow",
   "description": "The Platinum Crossbow is a mid/late game weapon that can penetrate hardened points with a chance to slow targets but has a slower fire rate thanBows.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
-  "crafted_at": "Unknown",
+  "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
     "weight": "1.0 kg",
@@ -13,5 +13,9 @@
   "category": "crossbows",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Forge Foundry"
+  }
 }
