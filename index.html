@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🚀 ICARUS COMPLETE - Advanced Crafting Calculator with Talents</title>
+    <title>🚀 ICARUS COMPLETE - Advanced Crafting Calculator</title>
     <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
     <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.4/babel.min.js"></script>
@@ -148,114 +148,6 @@
             backdrop-filter: blur(15px);
             border: 1px solid rgba(255,255,255,0.1);
             min-height: 600px;
-        }
-
-        .talent-panel {
-            background: rgba(255,255,255,0.05);
-            border: 1px solid rgba(255,255,255,0.1);
-            border-radius: 15px;
-            padding: 20px;
-            margin-bottom: 20px;
-        }
-        
-        .talent-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 15px;
-            padding-bottom: 10px;
-            border-bottom: 1px solid rgba(255,255,255,0.1);
-        }
-        
-        .talent-title {
-            font-size: 1.2rem;
-            font-weight: 700;
-            color: #00d4ff;
-        }
-        
-        .talent-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 12px;
-        }
-        
-        .talent-item {
-            background: rgba(255,255,255,0.08);
-            border: 1px solid rgba(255,255,255,0.1);
-            border-radius: 10px;
-            padding: 12px;
-            transition: all 0.3s ease;
-        }
-        
-        .talent-item.active {
-            background: rgba(0, 212, 255, 0.15);
-            border-color: #00d4ff;
-        }
-        
-        .talent-name {
-            font-weight: 600;
-            font-size: 13px;
-            margin-bottom: 4px;
-            color: #ffffff;
-        }
-        
-        .talent-description {
-            font-size: 11px;
-            color: #b0b3b8;
-            margin-bottom: 8px;
-        }
-        
-        .talent-level-control {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            margin-top: 8px;
-        }
-        
-        .talent-level-btn {
-            background: rgba(255,255,255,0.1);
-            border: 1px solid rgba(255,255,255,0.2);
-            color: white;
-            width: 28px;
-            height: 28px;
-            border-radius: 6px;
-            cursor: pointer;
-            font-weight: bold;
-            transition: all 0.2s ease;
-        }
-        
-        .talent-level-btn:hover:not(:disabled) {
-            background: rgba(255,255,255,0.2);
-        }
-        
-        .talent-level-btn:disabled {
-            opacity: 0.3;
-            cursor: not-allowed;
-        }
-        
-        .talent-level-display {
-            flex: 1;
-            text-align: center;
-            padding: 6px;
-            background: rgba(0, 212, 255, 0.1);
-            border: 1px solid rgba(0, 212, 255, 0.3);
-            border-radius: 6px;
-            font-weight: 700;
-            font-size: 12px;
-            color: #00d4ff;
-        }
-        
-        .talent-level-display.inactive {
-            background: rgba(255,255,255,0.05);
-            border-color: rgba(255,255,255,0.1);
-            color: #666;
-        }
-        
-        .talent-effect-info {
-            font-size: 10px;
-            color: #4ecdc4;
-            margin-top: 4px;
-            font-weight: 600;
         }
 
         .tab-nav {
@@ -703,23 +595,6 @@
             margin-bottom: 0;
         }
 
-        .savings-indicator {
-            background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%);
-            color: white;
-            padding: 2px 6px;
-            border-radius: 4px;
-            font-size: 10px;
-            font-weight: 700;
-            margin-left: 6px;
-        }
-        
-        .original-cost {
-            text-decoration: line-through;
-            opacity: 0.6;
-            font-size: 11px;
-            margin-right: 6px;
-        }
-
         @media (max-width: 1024px) {
             .main-content {
                 grid-template-columns: 1fr;
@@ -752,6 +627,7 @@
     <script type="text/babel">
         const { useState, useEffect } = React;
 
+        // List of JSON files to attempt loading from icarus_data directory
         const JSON_FILES = [
             'ammunition.json',
             'armor.json',
@@ -776,168 +652,14 @@
             'weapons.json'
         ];
 
-        // Talent definitions
-        const TALENTS = {
-            pistol_proficiency: {
-                name: "Pistol Proficiency",
-                description: "Reduces pistol ammunition cost",
-                maxLevel: 3,
-                effects: {
-                    1: "-10% ammo cost",
-                    2: "-20% ammo cost",
-                    3: "-25% ammo cost"
-                },
-                appliesToCategories: ["ammunition"],
-                appliesToNames: ["Round", "Bullet", "Cartridge"]
-            },
-            bow_proficiency: {
-                name: "Bow Proficiency",
-                description: "Reduces arrow ammunition cost",
-                maxLevel: 3,
-                effects: {
-                    1: "-10% arrow cost",
-                    2: "-20% arrow cost",
-                    3: "-25% arrow cost"
-                },
-                appliesToCategories: ["ammunition"],
-                appliesToNames: ["Arrow", "Bolt"]
-            },
-            rifle_proficiency: {
-                name: "Rifle Proficiency",
-                description: "Reduces rifle ammunition cost",
-                maxLevel: 3,
-                effects: {
-                    1: "-10% ammo cost",
-                    2: "-20% ammo cost",
-                    3: "-25% ammo cost"
-                },
-                appliesToCategories: ["ammunition"],
-                appliesToNames: ["Rifle", "Sniper"]
-            },
-            shotgun_proficiency: {
-                name: "Shotgun Proficiency",
-                description: "Reduces shotgun ammunition cost",
-                maxLevel: 3,
-                effects: {
-                    1: "-10% shell cost",
-                    2: "-20% shell cost",
-                    3: "-25% shell cost"
-                },
-                appliesToCategories: ["shotgun ammunition"],
-                appliesToNames: ["Shell", "Buckshot"]
-            },
-            efficient_crafting: {
-                name: "Efficient Crafting",
-                description: "Reduces material costs for crafting",
-                maxLevel: 2,
-                effects: {
-                    1: "-5% material cost",
-                    2: "-10% material cost"
-                },
-                appliesToCategories: ["tools", "weapons", "armor"]
-            }
-        };
-
-        const MAP_RESOURCES = {
-            "Olympus": [
-                "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
-                "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
-                "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore",
-                "Exotics", "Exotic Matter", "Frozen Ore",
-                "Iron Ingot", "Steel Ingot", "Steel Bloom", "Aluminum Ingot", "Copper Ingot", 
-                "Platinum Ingot", "Titanium Ingot", "Refined Gold", "Steel Screw", "Copper Wire",
-                "Gold Wire", "Electronics", "Carbon Fiber", "Composites", "Epoxy", "Organic Resin",
-                "Concrete Mix", "Glass", "Rope", "Wool", "Charcoal", "Biofuel Can", "Iron Nail", "Copper Nail",
-                "Brown Bear Fur", "Brown Bear Leather", "Brown Bear Bone",
-                "Wolf Fur", "Wolf Leather", "Wolf Bone",
-                "Deer Fur", "Deer Leather", "Deer Bone",
-                "Mammoth Tusk", "Caveworm Chitin",
-                "Pumpkin", "Corn", "Wheat", "Carrot", "Potato", "Tomato", "Beans", "Berry", "Apple",
-                "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
-            ],
-            "Styx": [
-                "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
-                "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
-                "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore", "Frozen Ore",
-                "Exotics", "Exotic Matter", "Caveworm Chitin",
-                "Iron Ingot", "Steel Ingot", "Steel Bloom", "Aluminum Ingot", "Copper Ingot", 
-                "Platinum Ingot", "Titanium Ingot", "Refined Gold", "Steel Screw", "Copper Wire",
-                "Gold Wire", "Electronics", "Carbon Fiber", "Composites", "Epoxy", "Organic Resin",
-                "Concrete Mix", "Glass", "Rope", "Wool", "Charcoal", "Biofuel Can", "Iron Nail", "Copper Nail",
-                "Brown Bear Fur", "Brown Bear Leather", "Brown Bear Bone",
-                "Wolf Fur", "Wolf Leather", "Wolf Bone",
-                "Deer Fur", "Deer Leather", "Deer Bone",
-                "Pumpkin", "Corn", "Wheat", "Carrot", "Potato", "Tomato", "Beans", "Berry", "Apple",
-                "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
-            ],
-            "Prometheus": [
-                "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
-                "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
-                "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore",
-                "Exotics", "Exotic Matter", "Obsidian", "Shaped Obsidian", "Caveworm Chitin",
-                "Iron Ingot", "Steel Ingot", "Steel Bloom", "Aluminum Ingot", "Copper Ingot", 
-                "Platinum Ingot", "Titanium Ingot", "Refined Gold", "Steel Screw", "Copper Wire",
-                "Gold Wire", "Electronics", "Carbon Fiber", "Composites", "Epoxy", "Organic Resin",
-                "Concrete Mix", "Glass", "Rope", "Wool", "Charcoal", "Biofuel Can", "Iron Nail", "Copper Nail",
-                "Brown Bear Fur", "Brown Bear Leather", "Brown Bear Bone",
-                "Wolf Fur", "Wolf Leather", "Wolf Bone",
-                "Deer Fur", "Deer Leather", "Deer Bone",
-                "Pumpkin", "Corn", "Wheat", "Carrot", "Potato", "Tomato", "Beans", "Berry", "Apple",
-                "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
-            ]
-        };
-
-        function TalentPanel({ talentLevels, onTalentLevelChange }) {
-            return React.createElement('div', { className: 'talent-panel' }, [
-                React.createElement('div', { className: 'talent-header', key: 'header' }, [
-                    React.createElement('h3', { className: 'talent-title', key: 'title' }, "🎓 Active Talents"),
-                    React.createElement('span', { 
-                        key: 'count',
-                        style: { fontSize: '12px', color: '#b0b3b8' }
-                    }, `${Object.values(talentLevels).filter(l => l > 0).length} active`)
-                ]),
-                React.createElement('div', { className: 'talent-grid', key: 'grid' },
-                    Object.entries(TALENTS).map(([talentId, talent]) => {
-                        const currentLevel = talentLevels[talentId] || 0;
-                        const isActive = currentLevel > 0;
-                        
-                        return React.createElement('div', {
-                            key: talentId,
-                            className: `talent-item ${isActive ? 'active' : ''}`
-                        }, [
-                            React.createElement('div', { className: 'talent-name', key: 'name' }, 
-                                talent.name
-                            ),
-                            React.createElement('div', { className: 'talent-description', key: 'desc' }, 
-                                talent.description
-                            ),
-                            React.createElement('div', { className: 'talent-level-control', key: 'control' }, [
-                                React.createElement('button', {
-                                    key: 'minus',
-                                    className: 'talent-level-btn',
-                                    onClick: () => onTalentLevelChange(talentId, Math.max(0, currentLevel - 1)),
-                                    disabled: currentLevel === 0
-                                }, '−'),
-                                React.createElement('div', {
-                                    key: 'display',
-                                    className: `talent-level-display ${!isActive ? 'inactive' : ''}`
-                                }, currentLevel > 0 ? `Level ${currentLevel}/${talent.maxLevel}` : 'Inactive'),
-                                React.createElement('button', {
-                                    key: 'plus',
-                                    className: 'talent-level-btn',
-                                    onClick: () => onTalentLevelChange(talentId, Math.min(talent.maxLevel, currentLevel + 1)),
-                                    disabled: currentLevel >= talent.maxLevel
-                                }, '+')
-                            ]),
-                            isActive && React.createElement('div', { 
-                                className: 'talent-effect-info',
-                                key: 'effect'
-                            }, `✓ ${talent.effects[currentLevel]}`)
-                        ]);
-                    })
-                )
-            ]);
-        }
+        // SIMPLIFIED: Only track what's EXCLUSIVE to Prometheus
+        const PROMETHEUS_EXCLUSIVE = [
+            'Obsidian',
+            'Shaped Obsidian',
+            'Scoria',
+            'Super-cooled Ice',
+            'Supercooled Ice'
+        ];
 
         function ItemCard({ item, recipe, isSelected, isAvailable, onClick, onQuantityChange, currentQuantity }) {
             const getTierColor = (tier) => {
@@ -952,29 +674,30 @@
             };
 
             const getIcon = (category) => {
-                const cat = (category || "").toLowerCase();
-                if (cat.includes("tool")) return "🔧";
-                if (cat.includes("weapon")) return "⚔️";
-                if (cat.includes("armor")) return "🛡️";
-                if (cat.includes("deployable")) return "🏭";
-                if (cat.includes("equipment")) return "⚙️";
-                if (cat.includes("building")) return "🏗️";
-                if (cat.includes("cooking")) return "🍳";
-                if (cat.includes("storage")) return "📦";
-                if (cat.includes("furniture")) return "🪑";
-                if (cat.includes("material")) return "🔩";
-                if (cat.includes("raw")) return "⛏️";
-                if (cat.includes("water")) return "💧";
-                if (cat.includes("electric")) return "⚡";
-                if (cat.includes("fuel")) return "⛽";
-                if (cat.includes("light")) return "💡";
-                if (cat.includes("farm")) return "🌱";
-                if (cat.includes("consumable")) return "🧪";
-                if (cat.includes("medicine")) return "💊";
-                if (cat.includes("ammunition") || cat.includes("shotgun")) return "🏹";
-                if (cat.includes("inventory")) return "🎒";
-                if (cat.includes("decoration")) return "🎨";
-                return "📋";
+                switch(category) {
+                    case "Tools": return "🔧";
+                    case "Weapons": return "⚔️";
+                    case "Armor": return "🛡️";
+                    case "Deployables": return "🏭";
+                    case "Specialized Equipment": return "⚙️";
+                    case "Building": return "🏗️";
+                    case "Cooking": return "🍳";
+                    case "Storage": return "📦";
+                    case "Furniture": return "🪑";
+                    case "Materials": return "🔩";
+                    case "Raw Materials": return "⛏️";
+                    case "Water Sources": return "💧";
+                    case "Electricity Sources": return "⚡";
+                    case "Fuel Sources": return "⛽";
+                    case "Light Sources": return "💡";
+                    case "Farming": return "🌱";
+                    case "Consumables": return "🧪";
+                    case "Medicine": return "💊";
+                    case "Ammunition": return "🏹";
+                    case "Inventory": return "🎒";
+                    case "Decoration": return "🎨";
+                    default: return "📋";
+                }
             };
 
             return React.createElement('div', {
@@ -1108,7 +831,6 @@
         }
 
         function CraftingCalculator() {
-            const [talentLevels, setTalentLevels] = useState({});
             const [recipes, setRecipes] = useState({});
             const [loading, setLoading] = useState(true);
             const [loadingText, setLoadingText] = useState('Fetching recipe database...');
@@ -1127,65 +849,6 @@
                 loadRecipes();
             }, []);
 
-            const handleTalentLevelChange = (talentId, newLevel) => {
-                setTalentLevels(prev => ({
-                    ...prev,
-                    [talentId]: newLevel
-                }));
-                
-                // Recalculate if there are results showing
-                if (results && results.type === 'hierarchical') {
-                    setTimeout(() => calculateRequirements(), 100);
-                }
-            };
-
-            const getTalentMultiplier = (itemName, recipe) => {
-                let multiplier = 1.0;
-                
-                Object.entries(talentLevels).forEach(([talentId, level]) => {
-                    if (level === 0) return;
-                    
-                    const talent = TALENTS[talentId];
-                    if (!talent) return;
-                    
-                    const appliesToCategory = talent.appliesToCategories?.some(cat => 
-                        recipe.category?.toLowerCase().includes(cat.toLowerCase())
-                    );
-                    const appliesToName = talent.appliesToNames?.some(name => 
-                        itemName.toLowerCase().includes(name.toLowerCase())
-                    );
-                    
-                    if (appliesToCategory || appliesToName) {
-                        const effect = talent.effects[level];
-                        const percentMatch = effect.match(/-(\d+)%/);
-                        if (percentMatch) {
-                            const reduction = parseInt(percentMatch[1]) / 100;
-                            multiplier *= (1 - reduction);
-                        }
-                    }
-                });
-                
-                return multiplier;
-            };
-
-            const getRecipeIngredients = (recipe) => {
-                // FIXED: Check both base_recipe.ingredients and ingredients
-                if (recipe.base_recipe && recipe.base_recipe.ingredients) {
-                    return recipe.base_recipe.ingredients;
-                }
-                if (recipe.ingredients && Object.keys(recipe.ingredients).length > 0) {
-                    return recipe.ingredients;
-                }
-                return {};
-            };
-
-            const getRecipeCraftedAt = (recipe) => {
-                if (recipe.base_recipe && recipe.base_recipe.crafted_at) {
-                    return recipe.base_recipe.crafted_at;
-                }
-                return recipe.crafted_at || 'Unknown';
-            };
-
             const loadRecipes = async () => {
                 try {
                     setLoading(true);
@@ -1197,7 +860,6 @@
                     const errors = [];
                     
                     const pathVariations = [
-                        '/icarus-calculator/icarus_data/',
                         './icarus_data/',
                         'icarus_data/',
                         '../icarus_data/',
@@ -1225,7 +887,7 @@
                         
 Please use one of these solutions:
 1. Start a local HTTP server:
-   - Python: 'python -m http.server 8000' then open http://localhost:8000
+   - Python: 'python -m http.server 8000' then open http://localhost:8000/index.html
    - Node.js: 'npx http-server' then open the provided URL
    - VS Code: Install 'Live Server' extension and right-click HTML file
                         
@@ -1244,15 +906,25 @@ Please use one of these solutions:
                             }
                             
                             const data = await response.json();
+                            console.log(`Loaded ${filename}:`, data);
                             
                             if (data.items && Array.isArray(data.items)) {
                                 data.items.forEach(item => {
-                                    // Store the complete item data including base_recipe
+                                    const ingredients = {};
+                                    if (item.ingredients && typeof item.ingredients === 'object') {
+                                        Object.entries(item.ingredients).forEach(([key, value]) => {
+                                            if (key !== 'Max' && typeof value === 'number') {
+                                                ingredients[key] = value;
+                                            }
+                                        });
+                                    }
+                                    
                                     allRecipes[item.name] = {
-                                        ...item,
-                                        crafted_at: getRecipeCraftedAt(item),
+                                        ingredients: ingredients,
+                                        crafted_at: item.crafted_at || 'Unknown',
                                         category: item.category || 'Unknown',
-                                        tier: item.tier || 0
+                                        tier: item.tier || 0,
+                                        map_exclusive: item.map_exclusive || null
                                     };
                                 });
                             }
@@ -1266,28 +938,44 @@ Please use one of these solutions:
                     
                     setLoadingText(`Processing ${Object.keys(allRecipes).length} recipes...`);
                     
+                    const successfulFiles = loadedCount;
+                    const totalFiles = JSON_FILES.length;
+                    
                     if (Object.keys(allRecipes).length === 0) {
-                        throw new Error(`No recipes could be loaded.`);
+                        throw new Error(`No recipes could be loaded. 
+                        
+Files attempted: ${JSON_FILES.length}
+Successfully loaded: ${loadedCount}
+Errors encountered: ${errors.length}
+
+Detailed errors:
+${errors.join('\n')}
+
+This indicates all JSON files are missing or invalid.`);
                     }
                     
                     setRecipes(allRecipes);
                     setLoading(false);
                     
-                    if (loadedCount < JSON_FILES.length) {
+                    if (successfulFiles < totalFiles) {
                         setResults({
                             type: 'success',
-                            message: `Loaded ${Object.keys(allRecipes).length} recipes from ${loadedCount}/${JSON_FILES.length} files. Some files were missing but calculator is functional!`
+                            message: `Loaded ${Object.keys(allRecipes).length} recipes from ${successfulFiles}/${totalFiles} files. Some files were missing but calculator is functional!`
                         });
                         setTimeout(() => setResults(null), 5000);
                     }
                     
-                    console.log(`Successfully loaded ${Object.keys(allRecipes).length} recipes`);
+                    console.log(`Successfully loaded ${Object.keys(allRecipes).length} recipes from ${loadedCount}/${totalFiles} files`);
                     
                 } catch (err) {
                     console.error('Error loading recipes:', err);
                     setError({
                         title: 'Failed to Load Recipe Database',
-                        message: err.message
+                        message: err.message,
+                        details: `Current URL: ${window.location.href}
+                        Protocol: ${window.location.protocol}
+                        
+                        If using file:// protocol, you need to serve files via HTTP.`
                     });
                     setLoading(false);
                 }
@@ -1349,68 +1037,30 @@ Please use one of these solutions:
                 return matchesSearch && matchesCategory && matchesTier;
             });
 
+            // FIXED AVAILABILITY CHECKER - Whitelist approach
             const checkItemAvailability = (item, map, debugPath = []) => {
                 const recipe = recipes[item];
-                if (!recipe) return false;
+                if (!recipe) return true; // No recipe = assume available
                 
+                // Prevent infinite recursion
                 if (debugPath.includes(item)) return false;
                 
-                if (recipe.map_exclusive && recipe.map_exclusive !== map) {
+                // If checking Olympus/Styx and item IS Prometheus-exclusive
+                if ((map === 'Olympus' || map === 'Styx') && PROMETHEUS_EXCLUSIVE.includes(item)) {
                     return false;
                 }
                 
-                const ingredients = getRecipeIngredients(recipe);
-                const requiredMaterials = Object.keys(ingredients);
-                
-                if (requiredMaterials.length === 0) {
-                    const isAvailable = MAP_RESOURCES[map]?.includes(item) || 
-                           recipe.crafted_at === 'Character' ||
-                           recipe.crafted_at === 'Character Crafting' ||
-                           recipe.category === 'Raw Materials' ||
-                           recipe.category === 'Consumables' ||
-                           recipe.tier <= 1;
-                    
-                    return isAvailable;
-                }
+                // Check ingredients recursively
+                const requiredMaterials = Object.keys(recipe.ingredients || {});
                 
                 for (const material of requiredMaterials) {
-                    const alwaysAvailableMaterials = [
-                        'Fiber', 'Wood', 'Stone', 'Stick', 'Sticks', 'Leather', 'Fur', 'Bone', 'Clay', 'Wool',
-                        'Iron Ore', 'Copper Ore', 'Coal', 'Gold Ore', 'Aluminum Ore', 'Platinum Ore', 'Titanium Ore',
-                        'Iron Ingot', 'Steel Ingot', 'Copper Ingot', 'Steel Bloom', 'Oxite', 'Sulfur', 'Tree Sap',
-                        'Brown Bear Leather', 'Brown Bear Fur', 'Brown Bear Bone',
-                        'Wolf Leather', 'Wolf Fur', 'Wolf Bone',
-                        'Deer Leather', 'Deer Fur', 'Deer Bone',
-                        'Rope', 'Glass', 'Charcoal', 'Carbon Paste', 'Iron Nail', 'Copper Nail', 'Steel Screw',
-                        'Water', 'Ice', 'Salt',
-                        'Pumpkin', 'Corn', 'Wheat', 'Carrot', 'Potato', 'Tomato', 'Beans', 'Berry', 'Apple',
-                        'Reed Flower', 'Reed', 'Flower', 'Mushroom', 'Fruit', 'Vegetable', 'Grain', 'Seed'
-                    ];
-                    
-                    const materialVariations = [
-                        material,
-                        material.replace(/s$/, ''),
-                        material + 's',
-                        material.replace('Sticks', 'Stick'),
-                        material.replace('Stick', 'Sticks')
-                    ];
-                    
-                    const isBasicMaterial = materialVariations.some(variation => 
-                        alwaysAvailableMaterials.includes(variation) || 
-                        MAP_RESOURCES[map]?.includes(variation)
-                    );
-                    
-                    if (isBasicMaterial) {
-                        continue;
-                    }
-                    
-                    const materialAvailable = checkItemAvailability(material, map, [...debugPath, item]);
-                    
-                    if (!materialAvailable) {
+                    // Check if this material or any sub-ingredients require Prometheus materials
+                    if (!checkItemAvailability(material, map, [...debugPath, item])) {
                         return false;
                     }
                 }
                 
+                // If we made it here, item is available on this map
                 return true;
             };
 
@@ -1467,10 +1117,7 @@ Please use one of these solutions:
                         
                         if (path.includes(item)) return;
                         
-                        const ingredients = getRecipeIngredients(recipe);
-                        const multiplier = getTalentMultiplier(item, recipe);
-                        
-                        if (Object.keys(ingredients).length === 0) {
+                        if (Object.keys(recipe.ingredients).length === 0) {
                             rawMaterials[item] = (rawMaterials[item] || 0) + quantity;
                             return;
                         }
@@ -1478,29 +1125,22 @@ Please use one of these solutions:
                         if (!craftingTree[item]) {
                             craftingTree[item] = {
                                 totalNeeded: 0,
-                                craftedAt: getRecipeCraftedAt(recipe),
+                                craftedAt: recipe.crafted_at,
                                 tier: recipe.tier,
                                 category: recipe.category,
-                                ingredients: {},
-                                talentMultiplier: multiplier,
-                                talentSavings: multiplier < 1.0 ? (1 - multiplier) * 100 : 0
+                                ingredients: {}
                             };
                         }
                         
                         craftingTree[item].totalNeeded += quantity;
                         
-                        Object.entries(ingredients).forEach(([material, amount]) => {
-                            const adjustedAmount = amount * multiplier;
-                            const totalAmount = adjustedAmount * quantity;
+                        Object.entries(recipe.ingredients).forEach(([material, amount]) => {
+                            const totalAmount = amount * quantity;
                             
                             if (!craftingTree[item].ingredients[material]) {
-                                craftingTree[item].ingredients[material] = {
-                                    base: 0,
-                                    adjusted: 0
-                                };
+                                craftingTree[item].ingredients[material] = 0;
                             }
-                            craftingTree[item].ingredients[material].base += amount * quantity;
-                            craftingTree[item].ingredients[material].adjusted += totalAmount;
+                            craftingTree[item].ingredients[material] += totalAmount;
                             
                             buildCraftingTree(material, totalAmount, [...path, item]);
                         });
@@ -1523,7 +1163,7 @@ Please use one of these solutions:
                 return React.createElement('div', { className: 'app-container' }, [
                     React.createElement('div', { className: 'app-header', key: 'header' }, [
                         React.createElement('h1', { className: 'app-title', key: 'title' }, "🚀 ICARUS COMPLETE"),
-                        React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator with Talent System")
+                        React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator with Complete Game Database")
                     ]),
                     React.createElement('div', { className: 'loading-screen', key: 'loading' }, [
                         React.createElement('div', { className: 'loading-spinner', key: 'spinner' }),
@@ -1542,6 +1182,15 @@ Please use one of these solutions:
                     React.createElement('div', { className: 'error-screen', key: 'error' }, [
                         React.createElement('div', { className: 'error-title', key: 'title' }, `❌ ${error.title}`),
                         React.createElement('div', { className: 'error-message', key: 'message' }, error.message),
+                        error.details && React.createElement('div', { 
+                            key: 'details',
+                            style: { 
+                                fontSize: '0.9rem', 
+                                color: '#b0b3b8', 
+                                marginBottom: '20px',
+                                fontFamily: 'monospace'
+                            } 
+                        }, error.details),
                         React.createElement('button', {
                             key: 'retry',
                             className: 'retry-button',
@@ -1589,7 +1238,7 @@ Please use one of these solutions:
                             ]),
                             React.createElement('div', { className: 'map-selector', key: 'map-selector' }, [
                                 React.createElement('span', { className: 'map-label', key: 'label' }, 'Map:'),
-                                ...Object.keys(MAP_RESOURCES).map(map =>
+                                ['Olympus', 'Styx', 'Prometheus'].map(map =>
                                     React.createElement('button', {
                                         key: map,
                                         className: `map-btn ${currentMap === map ? 'active' : ''}`,
@@ -1616,20 +1265,30 @@ Please use one of these solutions:
 
                     case 'map':
                         return React.createElement('div', { className: 'map-info', key: 'map-info' }, [
-                            React.createElement('h3', { key: 'title' }, `🗺️ ${currentMap} Resources`),
+                            React.createElement('h3', { key: 'title' }, `🗺️ ${currentMap} Map Info`),
                             React.createElement('p', { key: 'description' }, 
-                                currentMap === 'Olympus' ? "The starter map with Forest, Arctic, and Desert biomes. ALL ORES available in caves including Platinum and Titanium!" :
-                                currentMap === 'Prometheus' ? "🌋 Volcanic DLC map with unique Obsidian deposits. Biome-specific ore distribution in caves." :
-                                currentMap === 'Styx' ? "💎 Advanced DLC map with all standard ores available. Same ore distribution as Olympus." : ""
+                                currentMap === 'Olympus' ? "The starter map with Forest, Arctic, and Desert biomes. All standard materials available!" :
+                                currentMap === 'Prometheus' ? "🌋 Volcanic DLC map with EXCLUSIVE Obsidian, Scoria, and Super-cooled Ice!" :
+                                currentMap === 'Styx' ? "💎 Advanced DLC map with all standard materials (same as Olympus)." : ""
                             ),
-                            React.createElement('div', { className: 'resource-grid', key: 'resources' },
-                                MAP_RESOURCES[currentMap]?.map(resource =>
+                            currentMap === 'Prometheus' && React.createElement('div', { className: 'resource-grid', key: 'exclusive' }, [
+                                React.createElement('h4', { 
+                                    key: 'exclusive-title',
+                                    style: { 
+                                        gridColumn: '1 / -1', 
+                                        color: '#ff6b6b', 
+                                        marginTop: '15px',
+                                        marginBottom: '10px' 
+                                    }
+                                }, '🔥 Prometheus Exclusive Materials:'),
+                                ...PROMETHEUS_EXCLUSIVE.map(resource =>
                                     React.createElement('div', {
                                         key: resource,
-                                        className: 'resource-badge'
+                                        className: 'resource-badge',
+                                        style: { borderColor: '#ff6b6b', color: '#ff6b6b' }
                                     }, resource)
                                 )
-                            )
+                            ])
                         ]);
 
                     default:
@@ -1664,7 +1323,6 @@ Please use one of these solutions:
                             const indent = depth * 20;
                             const itemKey = parentKey ? `${parentKey}-${item}` : item;
                             const isChecked = checkedItems[itemKey];
-                            const hasTalentBonus = data.talentSavings > 0;
                             
                             return React.createElement('div', {
                                 key: `${item}-${depth}`,
@@ -1715,11 +1373,7 @@ Please use one of these solutions:
                                                 fontSize: depth === 0 ? '14px' : '13px',
                                                 textDecoration: isChecked ? 'line-through' : 'none'
                                             }
-                                        }, `${isAvailable ? '✅' : '❌'} ${data.totalNeeded}x ${item}`),
-                                        hasTalentBonus && React.createElement('span', {
-                                            key: 'talent-badge',
-                                            className: 'savings-indicator'
-                                        }, `−${Math.round(data.talentSavings)}%`)
+                                        }, `${isAvailable ? '✅' : '❌'} ${data.totalNeeded}x ${item}`)
                                     ]),
                                     React.createElement('span', {
                                         key: 'info',
@@ -1732,16 +1386,12 @@ Please use one of these solutions:
                                 Object.keys(data.ingredients || {}).length > 0 && React.createElement('div', {
                                     key: 'ingredients',
                                     style: { marginLeft: '10px' }
-                                }, Object.entries(data.ingredients).map(([ingredient, amountData]) => {
+                                }, Object.entries(data.ingredients).map(([ingredient, amount]) => {
                                     const ingredientData = results.craftingTree[ingredient];
-                                    const amount = amountData.adjusted || amountData.base || amountData;
-                                    const baseAmount = amountData.base || amountData;
-                                    const hasReduction = amountData.adjusted && amountData.adjusted < amountData.base;
-                                    
                                     if (ingredientData) {
                                         return renderCraftingStep(ingredient, ingredientData, depth + 1, itemKey);
                                     } else {
-                                        const isRawAvailable = MAP_RESOURCES[currentMap]?.includes(ingredient);
+                                        const isRawAvailable = !PROMETHEUS_EXCLUSIVE.includes(ingredient) || currentMap === 'Prometheus';
                                         const rawKey = `${itemKey}-${ingredient}`;
                                         const isRawChecked = checkedItems[rawKey];
                                         
@@ -1781,13 +1431,7 @@ Please use one of these solutions:
                                                 style: {
                                                     textDecoration: isRawChecked ? 'line-through' : 'none'
                                                 }
-                                            }, [
-                                                hasReduction && React.createElement('span', {
-                                                    key: 'base',
-                                                    className: 'original-cost'
-                                                }, `${baseAmount.toFixed(2)}x`),
-                                                `${isRawAvailable ? '✅' : '❌'} ${amount.toFixed(2)}x ${ingredient} (Raw Material)`
-                                            ])
+                                            }, `${isRawAvailable ? '✅' : '❌'} ${amount}x ${ingredient} (Raw Material)`)
                                         ]);
                                     }
                                 }))
@@ -1806,7 +1450,7 @@ Please use one of these solutions:
                         };
 
                         const unavailableRawMaterials = Object.keys(results.rawMaterials).filter(material => 
-                            !MAP_RESOURCES[currentMap]?.includes(material)
+                            !checkItemAvailability(material, currentMap)
                         );
 
                         const completionStats = getCompletionStats();
@@ -1882,7 +1526,7 @@ Please use one of these solutions:
                                     }
                                 }, '⛏️ Total Raw Materials Summary:'),
                                 ...Object.entries(results.rawMaterials).map(([material, amount]) => {
-                                    const isAvailable = MAP_RESOURCES[currentMap]?.includes(material);
+                                    const isAvailable = checkItemAvailability(material, currentMap);
                                     const rawKey = `raw-${material}`;
                                     const isRawChecked = checkedItems[rawKey];
                                     
@@ -1922,7 +1566,7 @@ Please use one of these solutions:
                                             style: {
                                                 textDecoration: isRawChecked ? 'line-through' : 'none'
                                             }
-                                        }, `${amount.toFixed(2)}x`)
+                                        }, `${amount}x`)
                                     ])
                                 })
                             ]),
@@ -1962,22 +1606,15 @@ Please use one of these solutions:
             const availableCount = filteredItems.filter(([item]) => checkItemAvailability(item, currentMap)).length;
             const totalCount = filteredItems.length;
             const totalItems = Object.keys(recipes).length;
-            const activeTalents = Object.values(talentLevels).filter(l => l > 0).length;
 
             return React.createElement('div', { className: 'app-container' }, [
                 React.createElement('div', { className: 'app-header', key: 'header' }, [
                     React.createElement('h1', { className: 'app-title', key: 'title' }, "🚀 ICARUS COMPLETE"),
-                    React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator with Talent System"),
+                    React.createElement('p', { className: 'app-subtitle', key: 'subtitle' }, "Advanced Crafting Calculator • FIXED Availability System"),
                     React.createElement('div', { className: 'stats-header', key: 'stats' }, 
-                        `📊 Database: ${totalItems} Items • ${availableCount}/${totalCount} Available on ${currentMap} • 🎓 ${activeTalents} Active Talents`
+                        `📊 Database: ${totalItems} Items • ${availableCount}/${totalCount} Available on ${currentMap}`
                     )
                 ]),
-
-                React.createElement(TalentPanel, {
-                    key: 'talents',
-                    talentLevels: talentLevels,
-                    onTalentLevelChange: handleTalentLevelChange
-                }),
 
                 React.createElement('div', { className: 'main-content', key: 'main' }, [
                     React.createElement('div', { className: 'content-panel', key: 'content' }, [
@@ -2040,8 +1677,7 @@ Please use one of these solutions:
                         }, [
                             React.createElement('div', { key: 'available' }, `Available on ${currentMap}: ${availableCount}/${totalCount}`),
                             React.createElement('div', { key: 'total' }, `Total Database: ${totalItems} items`),
-                            React.createElement('div', { key: 'cart' }, `Cart Items: ${Object.keys(shoppingCart).length}`),
-                            React.createElement('div', { key: 'talents' }, `Active Talents: ${activeTalents}`)
+                            React.createElement('div', { key: 'cart' }, `Cart Items: ${Object.keys(shoppingCart).length}`)
                         ])
                     ])
                 ])
