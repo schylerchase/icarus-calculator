@@ -2,7 +2,7 @@
   "name": "Larkwell Martinez Pickaxe",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Pickaxe",
   "description": "The Larkwell Martinez Pickaxe is the Workshop equivalent of aPlatinum Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield. Similar to theInaris \"Neves\" Pickaxe, the Larkwell Martinez Pickaxe reduces the over-encumbrance penalty by 10% when equipped.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,9 @@
   "category": "pickaxes",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

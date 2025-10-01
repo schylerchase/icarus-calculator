@@ -2,7 +2,7 @@
   "name": "Obsidian Spear",
   "url": "https://icarus.fandom.com/wiki/Obsidian_Spear",
   "description": "Element damage does not scale with Spear talents. Unlike theObsidian Javelin, the Obsidian Spear cannot be thrown.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -14,5 +14,9 @@
   "category": "spears",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Anvil Bench"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Recurve Bow",
   "url": "https://icarus.fandom.com/wiki/Recurve_Bow",
   "description": "The pinnacle of Instinctive Archery, made ofSteelandAluminium, the Recurve Bow hits harder than theLongbow.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -14,5 +14,15 @@
   "category": "bows",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Steel Ingot": 8,
+      "Rope": 8,
+      "Aluminium Ingot": 18,
+      "Epoy": 8,
+      "Steel Screw": 4
+    },
+    "crafted_at": "Forge"
+  }
 }

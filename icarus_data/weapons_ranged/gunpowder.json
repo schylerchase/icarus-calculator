@@ -2,7 +2,7 @@
   "name": "Gunpowder",
   "url": "https://icarus.fandom.com/wiki/Gunpowder",
   "description": "Gunpowder is a precursor resource used in makingAmmunition, weapons like theFrag Grenade, andVolatile Substance.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -10,5 +10,12 @@
   "category": "crafted resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Sulfur": 1,
+      "Charcoal": 3
+    },
+    "crafted_at": "Mortar and Pestle"
+  }
 }

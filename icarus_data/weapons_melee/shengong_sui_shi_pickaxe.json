@@ -2,7 +2,7 @@
   "name": "Shengong 'Sui Shi' Pickaxe",
   "url": "https://icarus.fandom.com/wiki/Shengong_%27Sui_Shi%27_Pickaxe",
   "description": "The Shengong 'Sui Shi' Pickaxe is the Workshop equivalent of aSteel Pickaxe, allowing Prospectors to mine higher tier metals (Aluminium Ore,Platinum Ore, etc) at earlier stages of a Prospect while increasing yield.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,9 @@
   "category": "pickaxes",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

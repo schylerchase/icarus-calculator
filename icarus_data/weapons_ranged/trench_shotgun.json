@@ -2,7 +2,7 @@
   "name": "Trench Shotgun",
   "url": "https://icarus.fandom.com/wiki/Trench_Shotgun",
   "description": "The Trench Shotgun is aTier 4variant of theShotgunthat packs a punch and currently is the highest damage dealing close-range weapon available. It uses any type ofShotgun Ammunition. With the highest ammo capacity and projectile damage amongst all three Shotguns, the Trench Shotgun is a go-to for the Shotgun enthusiast in the group. The Trench Shotgun can fire 100 rounds before breaking, and the talentGunsmithcan increase this to up to a maximum of 125 rounds, so bring aFabricatorfor long trips.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -14,5 +14,15 @@
   "category": "firearms",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Refined Wood": 20,
+      "Cured Leather": 1,
+      "Titanium Ingot": 20,
+      "Epoy": 5,
+      "Steel Screw": 25
+    },
+    "crafted_at": "Fabricator"
+  }
 }

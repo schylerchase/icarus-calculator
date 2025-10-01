@@ -2,7 +2,7 @@
   "name": "Platinum Axe",
   "url": "https://icarus.fandom.com/wiki/Platinum_Axe",
   "description": "The Platinum Axe is a mid/late-gameAxethat can be crafted while on the surface of Icarus.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -14,5 +14,13 @@
   "category": "axes",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Refined Wood": 2,
+      "Cured Leather": 1,
+      "Platinum Ingot": 12
+    },
+    "crafted_at": "Forge"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Stone Throwing Knife",
   "url": "https://icarus.fandom.com/wiki/Stone_Throwing_Knife",
   "description": "The Stone Throwing Knife is a variant of theStone Knifethat can be thrown. Unlike theStone Knife, the Stone Throwing Knife cannot be used to skin fauna. Crafted in batches of 5 and stacks up to fifty.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -13,5 +13,13 @@
   "category": "throwing knives",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 0.8,
+      "Stick": 0.8,
+      "Stone": 0.8
+    },
+    "crafted_at": "Character Crafting"
+  }
 }

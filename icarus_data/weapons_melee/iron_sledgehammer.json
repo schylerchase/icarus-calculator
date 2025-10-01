@@ -2,7 +2,7 @@
   "name": "Iron Sledgehammer",
   "url": "https://icarus.fandom.com/wiki/Iron_Sledgehammer",
   "description": "Iron Sledgehammer is aTier 2Sledgehammermade withIron.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -14,5 +14,13 @@
   "category": "tools",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 10,
+      "Rope": 8,
+      "Iron Ingot": 15
+    },
+    "crafted_at": "Anvil Bench"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Shengong \"Jijing\" Bow",
   "url": "https://icarus.fandom.com/wiki/Shengong_%22Jijing%22_Bow",
   "description": "The Shengong \"Jijing\" Bow is a stronger, more durable variant of theRecurve Bowusing arrows and talents interchangeably with other bows.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,9 @@
   "category": "bows",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

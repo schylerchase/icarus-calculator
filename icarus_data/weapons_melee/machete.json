@@ -2,7 +2,7 @@
   "name": "Machete",
   "url": "https://icarus.fandom.com/wiki/Machete",
   "description": "The Machete is aToolthat can be used to skin Fauna and harvest Carrots, Wheat, shrubbery, etc. similar toSickles.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -14,5 +14,14 @@
   "category": "knvies",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 12,
+      "Refined Wood": 4,
+      "Epoy": 4,
+      "Steel Screw": 2
+    },
+    "crafted_at": "Unknown"
+  }
 }

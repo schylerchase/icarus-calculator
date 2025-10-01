@@ -2,7 +2,7 @@
   "name": "Titanium Throwing Knife",
   "url": "https://icarus.fandom.com/wiki/Titanium_Throwing_Knife",
   "description": "The Titanium Throwing Knife is a variant of theTitanium Knifethat can be thrown. Unlike theTitanium Knife, the Titanium Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,14 @@
   "category": "throwing knives",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Carbon Fiber": 2,
+      "Steel Screw": 4,
+      "Epoy": 4,
+      "Titanium Ingot": 6
+    },
+    "crafted_at": "Foundry"
+  }
 }

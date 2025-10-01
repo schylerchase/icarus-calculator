@@ -2,7 +2,7 @@
   "name": "Tactical Bow",
   "url": "https://icarus.fandom.com/wiki/Tactical_Bow",
   "description": "The Tactical Bow is an advanced bow that is part of theGreat Hunts CampaignsDLC onPrometheus. It fires any type ofArrowand can be upgraded in theBio-lab.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,11 @@
   "category": "bows",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Legendary Licence": 1
+    },
+    "crafted_at": "Unknown"
+  }
 }

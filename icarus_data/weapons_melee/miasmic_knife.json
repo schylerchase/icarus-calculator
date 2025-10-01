@@ -2,7 +2,7 @@
   "name": "Miasmic Knife",
   "url": "https://icarus.fandom.com/wiki/Miasmic_Knife",
   "description": "Miasmic Knife is aTier 4Knifemade withDistilled Miasmic Coatingderived fromCrystallized Miasmafound in theSwampsonPrometheus. Due to the materials required, crafting the item requires the New Frontiers DLC.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -14,5 +14,16 @@
   "category": "knvies",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Carbon Fiber": 4,
+      "Steel Screw": 2,
+      "Epoy": 4,
+      "Titanium Ingot": 4,
+      "Distilled Miasmic Coating": 4,
+      "Refined Wood": 5
+    },
+    "crafted_at": "Unknown"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Shengong 'Lie' Axe",
   "url": "https://icarus.fandom.com/wiki/Shengong_%27Lie%27_Axe",
   "description": "The Shengong 'Lie' Axe is the Workshop equivalent of anIron Axe, allowing Prospectors to fell trees faster while also increasing the amount received from felling trees.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,9 @@
   "category": "axes",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

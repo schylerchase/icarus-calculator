@@ -2,7 +2,7 @@
   "name": "Shengong UT5 Pickaxe",
   "url": "https://icarus.fandom.com/wiki/Shengong_UT5_Pickaxe",
   "description": "The Shengong UT5 Pickaxe is a Workshop Pickaxe geared towards combat, intrinsically dealing electric damage with the chance to significantly hinder targets. Since the Shengong UT5 Pickaxe has the same mining radius and yield as theLarkwell Martinez Pickaxe, Prospectors are better off using theInaris \"Neves\" Pickaxefor mining.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,9 @@
   "category": "pickaxes",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }
