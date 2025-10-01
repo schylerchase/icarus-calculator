@@ -1,0 +1,2078 @@
+{
+  "category": "Consumables",
+  "count": 102,
+  "items": [
+    {
+      "name": "Advanced Fishing Trap",
+      "url": "https://icarus.fandom.com/wiki/Advanced_Fishing_Trap",
+      "description": "One approach to catching fish is by using a Fishing Trap. Though aLureis not required, attaching one can increase the quality, length, and weight of the caught fish. Additionally, certain lures can increase the odds of catching a rarer type of fish. To attach a lure to the Advanced Fishing Trap, inspect the trap by pressing 'F' and drag the lure into the dedicated lure slot.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.0 Kg",
+        "durability": "1,000"
+      },
+      "category": "fishing equipment",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Copper Nail": 10,
+          "Platinum Weave": 5,
+          "Iron Ingot": 10
+        },
+        "crafted_at": "Basic Fishing Bench"
+      }
+    },
+    {
+      "name": "Anti-Parasitic Paste",
+      "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Paste",
+      "description": "Anti-Parasitic Paste is one of the multiple, easily overlooked recipes available in theTier 1tech tree. Reduces the duration of theParasitesdebuff upon consumption.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "medicine",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Reed Flower": 1,
+          "Sulfur": 1,
+          "Charcoal": 1
+        },
+        "crafted_at": "Character"
+      }
+    },
+    {
+      "name": "Anti-Poison Paste",
+      "url": "https://icarus.fandom.com/wiki/Anti-Poison_Paste",
+      "description": "Anti-Poison Paste is one of the multiple, easily overlooked recipes available in the tier 1 tech tree. Reduces the duration ofPoisonfrom critters like theVenomous Fishor theCaveworm.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "medicine",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Fiber": 1,
+          "Spoiled Meat": 2,
+          "Charcoal": 1
+        },
+        "crafted_at": "Character"
+      }
+    },
+    {
+      "name": "Antibiotic Paste",
+      "url": "https://icarus.fandom.com/wiki/Antibiotic_Paste",
+      "description": "Antibiotic Paste reduces the duration of bacterial infections like food poisoning and theCave Sicknessdebuff from caves by 50% upon consumption.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "medicine",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Yeast": 1,
+          "Silica Ore": 1,
+          "Charcoal": 1
+        },
+        "crafted_at": "Character"
+      }
+    },
+    {
+      "name": "Antibiotic Pill",
+      "url": "https://icarus.fandom.com/wiki/Antibiotic_Pill",
+      "description": "Antibiotic Pills are used to cure, and prevent for a short time, further ailments such asCave Sickness,Infected Wounds, andFood Poisoning.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "medicine",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Antibiotic Tonic": 1,
+          "Epoy": 1,
+          "Charcoal": 5
+        },
+        "crafted_at": "Kitchen Bench"
+      }
+    },
+    {
+      "name": "Antibiotic Tonic",
+      "url": "https://icarus.fandom.com/wiki/Antibiotic_Tonic",
+      "description": "Used alone to cure infections such asCave Sickness,Infected Wound, andFood poisoning, or as a mid-stage ingredient to the prophylacticAntibiotic Pill.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "medicine",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Yeast": 1,
+          "Epoy": 1,
+          "Charcoal": 3
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Basic Bandage",
+      "url": "https://icarus.fandom.com/wiki/Basic_Bandage",
+      "description": "Basic Bandage is used to heal Wound and Exotic WoundStatus Effects.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "medicine",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Character"
+      }
+    },
+    {
+      "name": "Basic Dried Meat",
+      "url": "https://icarus.fandom.com/wiki/Basic_Dried_Meat",
+      "description": "Basic Dried Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Basic Fishing Rod",
+      "url": "https://icarus.fandom.com/wiki/Basic_Fishing_Rod",
+      "description": "One approach to catching fish is by using a Fishing Rod. Though a lure is not required, attaching one can increase the quality, length, and weight of the caught fish. Additionally, certain lures can increase the odds of catching fish of a certain rarity or increase the size of the capture area. For a list of available lures, view thispage.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {
+        "weight": "1.0 kg",
+        "durability": "2,000"
+      },
+      "category": "fishing equipment",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Stick": 25,
+          "Fiber": 10
+        },
+        "crafted_at": "Character"
+      }
+    },
+    {
+      "name": "Basic Fishing Trap",
+      "url": "https://icarus.fandom.com/wiki/Basic_Fishing_Trap",
+      "description": "One approach to catching fish is by using a Fishing Trap. Though aLureis not required, attaching one can increase the quality, length, and weight of the caught fish. Additionally, certain lures can increase the odds of catching a rarer type of fish. To attach a lure to the Basic Fishing Trap, inspect the trap by pressing 'F' and drag the lure into the dedicated lure slot.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.0 Kg",
+        "durability": "500"
+      },
+      "category": "fishing equipment",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Refined Wood": 50,
+          "Iron Nail": 10,
+          "Rope": 5
+        },
+        "crafted_at": "Basic Fishing Bench"
+      }
+    },
+    {
+      "name": "Berry & Seed Bar",
+      "url": "https://icarus.fandom.com/wiki/Berry_%26_Seed_Bar",
+      "description": "Full of energy for long hikes, long lasting effects and easily crafted.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Character"
+      }
+    },
+    {
+      "name": "Berry Farming Packet",
+      "url": "https://icarus.fandom.com/wiki/Berry_Farming_Packet",
+      "description": "The Berry Farming Packet is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Berry seeds, which then can be planted inDirt Moundsor Crop plots to growPlant Resources.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Berry Jam",
+      "url": "https://icarus.fandom.com/wiki/Berry_Jam",
+      "description": "Berry Jam is a long-lastingFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Berry Jam,Strawberry JamandPickled Carrot, does not spoil and is therefore a valuable food for long-term storage.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Wild Berry": 5,
+          "Glass Jar": 1
+        },
+        "crafted_at": "Kitchen Bench"
+      }
+    },
+    {
+      "name": "Berry Smoked Saltwater Fillet",
+      "url": "https://icarus.fandom.com/wiki/Berry_Smoked_Saltwater_Fillet",
+      "description": "Berry Smoked Saltwater Fillet is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Saltwater Fish Fillet": 1,
+          "Wild Berry": 5
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Blood Thinning Paste",
+      "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Paste",
+      "description": "Blood Thinning Paste is one of the multiple, easily overlooked recipes available in theTier 1tech tree. Reduces the duration ofConcussionsandContusionswhen you're unlucky enough to kiss a falling tree.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "medicine",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Lily": 1,
+          "Stick": 10,
+          "Charcoal": 1
+        },
+        "crafted_at": "Character"
+      }
+    },
+    {
+      "name": "Bread",
+      "url": "https://icarus.fandom.com/wiki/Bread",
+      "description": "Bread is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Bread Dough": 1
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Bread Dough",
+      "url": "https://icarus.fandom.com/wiki/Bread_Dough",
+      "description": "Bread Dough is the precursor to the mid/late-gameFoodBread. Bread Dough will eventually decay, but can be preserved in anIce Box,Refrigerator, orDeep Freeze.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "crafted resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Flour": 5,
+          "Yeast": 1
+        },
+        "crafted_at": "Mortar and Pestle"
+      }
+    },
+    {
+      "name": "Caramel Berry Tart",
+      "url": "https://icarus.fandom.com/wiki/Caramel_Berry_Tart",
+      "description": "Caramel Berry Tart is late-gameFoodthat when consumed provides a considerable boost to stamina, speed, resistance to cave sickness and a chance to mine additional stone.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Pastry": 1,
+          "Sugar Cubes": 3,
+          "Kiwifruit": 2,
+          "Wild Berry": 5,
+          "Egg": 1
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Carbon Paste",
+      "url": "https://icarus.fandom.com/wiki/Carbon_Paste",
+      "description": "Carbon Paste is a crafted resource meant to be smelted in aConcrete FurnaceorElectric Furnaceto makeCarbon Fiberand is a critical component inTier 4crafting.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "crafted resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Silica Ore": 1,
+          "Aluminium Ingot": 1,
+          "Organic Resin": 4,
+          "Epoy": 2
+        },
+        "crafted_at": "Mortar and Pestle"
+      }
+    },
+    {
+      "name": "Cocoa Smoked Soft Meat",
+      "url": "https://icarus.fandom.com/wiki/Cocoa_Smoked_Soft_Meat",
+      "description": "Cocoa Smoked Soft Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Raw Soft Meat": 1,
+          "Cocoa Seed": 5
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Composite Paste",
+      "url": "https://icarus.fandom.com/wiki/Composite_Paste",
+      "description": "Composite Paste is an end-game crafted resource which can be smelted intoCompositesinside of theElectric Furnace.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {},
+      "category": "crafted resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Iron Ore": 2,
+          "Silica Ore": 1,
+          "Organic Resin": 1,
+          "Platinum Ore": 1
+        },
+        "crafted_at": "Electric Furnace"
+      }
+    },
+    {
+      "name": "Cooked Bacon",
+      "url": "https://icarus.fandom.com/wiki/Cooked_Bacon",
+      "description": "Cooked Bacon is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Cooked Fatty T-Bone",
+      "url": "https://icarus.fandom.com/wiki/Cooked_Fatty_T-Bone",
+      "description": "Cooked Fatty T-Bone is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Cooked Gamey Meat",
+      "url": "https://icarus.fandom.com/wiki/Cooked_Gamey_Meat",
+      "description": "Cooked Gamey Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Cooked Giant Steak",
+      "url": "https://icarus.fandom.com/wiki/Cooked_Giant_Steak",
+      "description": "Cooked Giant Steak is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Cooked Meat",
+      "url": "https://icarus.fandom.com/wiki/Cooked_Meat",
+      "description": "Cooked Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Cooked Soft Meat",
+      "url": "https://icarus.fandom.com/wiki/Cooked_Soft_Meat",
+      "description": "Cooked Soft Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Cooked Stringy Meat",
+      "url": "https://icarus.fandom.com/wiki/Cooked_Stringy_Meat",
+      "description": "Cooked Stringy Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Cooked White Meat",
+      "url": "https://icarus.fandom.com/wiki/Cooked_White_Meat",
+      "description": "Cooked White Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Cooling Bandage",
+      "url": "https://icarus.fandom.com/wiki/Cooling_Bandage",
+      "description": "The Cooling Bandage is used to heal Heatstroke, Heat Exhaustion and Exotic OverheatStatus Effects. If the Prospector's core temperature is still extremely high, the cooling bandage will not remove these debuffs.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "medicine",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Character"
+      }
+    },
+    {
+      "name": "Cured Leather",
+      "url": "https://icarus.fandom.com/wiki/Cured_Leather",
+      "description": "Cured Leather is a crafted resource used in variousTier 3ArmorsandTools. Below is a list of armors that use Cured Leather:",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "crafted resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Leather": 6,
+          "Tree Sap": 2
+        },
+        "crafted_at": "Crafted at\n Drying Rack Smoker Advanced Textiles Bench"
+      }
+    },
+    {
+      "name": "Cured Leather Lure",
+      "url": "https://icarus.fandom.com/wiki/Cured_Leather_Lure",
+      "description": "The Cured Leather Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Cured Leather Lure degrades with use and will eventually break after ten uses.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "0.25 Kg",
+        "durability": "100"
+      },
+      "category": "lures",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Cured Leather": 2,
+          "Copper Nail": 2,
+          "Organic Resin": 2
+        },
+        "crafted_at": "Fishing Bench"
+      }
+    },
+    {
+      "name": "Dried Gamey Meat",
+      "url": "https://icarus.fandom.com/wiki/Dried_Gamey_Meat",
+      "description": "Dried Gamey Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Raw Gamey Meat": 1
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Dried Soft Meat",
+      "url": "https://icarus.fandom.com/wiki/Dried_Soft_Meat",
+      "description": "Dried Soft Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Raw Soft Meat": 1
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Dried Stringy Meat",
+      "url": "https://icarus.fandom.com/wiki/Dried_Stringy_Meat",
+      "description": "Dried Stringy Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Raw Stringy Meat": 1
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Dried White Meat",
+      "url": "https://icarus.fandom.com/wiki/Dried_White_Meat",
+      "description": "Dried White Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Raw White Meat": 1
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Electronic Food Trough",
+      "url": "https://icarus.fandom.com/wiki/Electronic_Food_Trough",
+      "description": "AllFood Troughshave an allow list for nearby animals that can be accessed by pressing 'X'. To change which animals can eat from a specific food trough, select the animals permitted to eat from the food trough and select \"Allowlist-Only Interaction\". By default, all nearby animals can eat from food troughs.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {
+        "weight": "3.0 Kg",
+        "durability": "2,000"
+      },
+      "category": "food troughs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Titanium Plate": 2,
+          "Electronics": 10,
+          "Carbon Fiber": 15,
+          "Platinum Weave": 30
+        },
+        "crafted_at": "Ranching Station"
+      }
+    },
+    {
+      "name": "Fish Chunk Stew",
+      "url": "https://icarus.fandom.com/wiki/Fish_Chunk_Stew",
+      "description": "Fish Chunk Stew is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Fish Chunks",
+      "url": "https://icarus.fandom.com/wiki/Fish_Chunks",
+      "description": "Fish Chunks are added to the Prospector's inventory after looting the carcass of a fish. Fish caught using a Fishing Trap or Fishing Rod can be converted into Fish Chunks as well. Fish Chunks can be cooked in aCampfire, or used in other dishes such asFreshwater Fillet CurryorCrumbed Saltwater Fillet. Right-click a Freshwater/Saltwater fish to convert it intoFish Chunks.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Fish Pie",
+      "url": "https://icarus.fandom.com/wiki/Fish_Pie",
+      "description": "Fish Pie is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Fish Trophy Mount",
+      "url": "https://icarus.fandom.com/wiki/Fish_Trophy_Mount",
+      "description": "The Fish Trophy Mount can be used to display impressive catches with details of the quality, weight, and length of the fish shown. When holding down R, Prospectors can choose between 3 different variants. Fish stored in the Fish Trophy Mount will not spoil. All Fish obtained using aFishing Rodor Fishing Trap can be placed in the Fish Trophy Mount.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.0 kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Refined Wood": 15,
+          "Copper Ingot": 5,
+          "Iron Nail": 10
+        },
+        "crafted_at": "Carpentry Bench"
+      }
+    },
+    {
+      "name": "Fisher's Module",
+      "url": "https://icarus.fandom.com/wiki/Fisher%27s_Module",
+      "description": "This module increases the user's ability to catchUnique Fishand, somehow, increases the quality of caught fish. It can be researched and crafted on theSpace Stationin theWorkshop. Multiple Fisher's Modules may be equipped if the Prospector has available slots on their Envirosuit, which will further increasing the user's ability to fish and become the Master Angler they wish to be.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "modules",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Flatbread",
+      "url": "https://icarus.fandom.com/wiki/Flatbread",
+      "description": "Flatbread is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Flatbread Dough",
+      "url": "https://icarus.fandom.com/wiki/Flatbread_Dough",
+      "description": "Flatbread Dough is the precursor to the mid/late-gameFoodFlatbread. Flatbread Dough will eventually decay, but can be preserved in anIce Box,Refrigerator, orDeep Freeze.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "crafted resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Flour": 3
+        },
+        "crafted_at": "Mortar and Pestle"
+      }
+    },
+    {
+      "name": "Food Consumption Paste",
+      "url": "https://icarus.fandom.com/wiki/Food_Consumption_Paste",
+      "description": "In-game description:An organic confection that arrests hunger for a limited time.In-game flavor text:Just because it's organic, doesn't mean it's good for you.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Sponge": 1,
+          "Charcoal": 2,
+          "Lily": 4
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Food Trough",
+      "url": "https://icarus.fandom.com/wiki/Food_Trough",
+      "description": "The Food Trough is a basic trough used to feedMounts/Petsand is recommended if prospectors wish to idly tame a juvenile. Food Troughs benefit from theExtra Space I/Extra Space IItalent.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "3.0 Kg",
+        "durability": "500"
+      },
+      "category": "food troughs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Wood": 60,
+          "Stick": 8,
+          "Iron Nail": 16
+        },
+        "crafted_at": "Ranching Station"
+      }
+    },
+    {
+      "name": "Freshwater Fish Fillet",
+      "url": "https://icarus.fandom.com/wiki/Freshwater_Fish_Fillet",
+      "description": "Freshwater Fish Fillet is is the result of filleting a Freshwater Fish at aBasic Fishing Bench. While eating Freshwater Fish Fillet will replenish a small amount ofHunger, there is a possibility of negativeStatus Effectswhen doing so. It is better toCookbefore eating.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Fried Fish Chunks",
+      "url": "https://icarus.fandom.com/wiki/Fried_Fish_Chunks",
+      "description": "Fried Fish Chunks is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Glass Food Trough",
+      "url": "https://icarus.fandom.com/wiki/Glass_Food_Trough",
+      "description": "The Glass Food Trough is a decorative upgrade to theFood Troughand allows multiple creatures to eat from it simultaneously, similar to theLarge Food Trough. Glass Food Troughs benefit from theExtra Space I/Extra Space IItalent.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {
+        "weight": "3.0 Kg",
+        "durability": "1,500"
+      },
+      "category": "food troughs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Steel Ingot": 25,
+          "Glass": 30,
+          "Steel Screw": 15
+        },
+        "crafted_at": "Ranching Station"
+      }
+    },
+    {
+      "name": "Gorse Smoked Gamey Meat",
+      "url": "https://icarus.fandom.com/wiki/Gorse_Smoked_Gamey_Meat",
+      "description": "Gorse Smoked Gamey Meat is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Raw Gamey Meat": 1,
+          "Gorse Flower": 5
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Health Buff Paste",
+      "url": "https://icarus.fandom.com/wiki/Health_Buff_Paste",
+      "description": "In-game description:An organic preparation that temporarily increases health.In-game flavor text:Like so many things on Icarus, the exact ingredients would probably render this concoction illegal on Earth.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Lily": 2,
+          "Wheat": 2,
+          "Tree Sap": 1
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Health Regeneration Paste",
+      "url": "https://icarus.fandom.com/wiki/Health_Regeneration_Paste",
+      "description": "In-game description:A herbal confection that speeds healing.In-game flavor text:The lily's high concentration of bioactive ingredients is thought to inhibit the reuptake of certain cytochromes, briefly flooding your body with oxidating enzymes.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Lily": 2,
+          "Tree Sap": 1
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Health Restoration Paste",
+      "url": "https://icarus.fandom.com/wiki/Health_Restoration_Paste",
+      "description": "In-game description:An organic fusion that restores health.In-game flavor text:The combination of Icarus's unique conditions and genetic adjustments to plant life has seen the addition of 'useful' methyl chains to many previously innocuous plant-based preparations.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Lily": 20,
+          "Wheat": 20,
+          "Tree Sap": 10
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Heat Bandage",
+      "url": "https://icarus.fandom.com/wiki/Heat_Bandage",
+      "description": "Heat Bandage is used to heal Frostbite, Frosty and Exotic ChillStatus Effects. If the Prospector's core temperature is still freezing, the heat bandage will not remove these debuffs.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "medicine",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Character"
+      }
+    },
+    {
+      "name": "Large Food Trough",
+      "url": "https://icarus.fandom.com/wiki/Large_Food_Trough",
+      "description": "The Large Food Trough is a slight upgrade to theFood Troughthat allows for multiple creatures to eat from it simultaneously. Large Food Troughs benefit from theExtra Space I/Extra Space IItalent.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "3.0 Kg",
+        "durability": "1,000"
+      },
+      "category": "food troughs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Wood": 80,
+          "Tree Sap": 12,
+          "Iron Nail": 32
+        },
+        "crafted_at": "Ranching Station"
+      }
+    },
+    {
+      "name": "Meat Pie",
+      "url": "https://icarus.fandom.com/wiki/Meat_Pie",
+      "description": "Meat Pie is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Metal Food Trough",
+      "url": "https://icarus.fandom.com/wiki/Metal_Food_Trough",
+      "description": "The Metal Food Trough is a decorative upgrade to theFood Troughand allows multiple creatures to eat from it simultaneously, similar to theLarge Food Trough. Metal Food Troughs benefit from theExtra Space I/Extra Space IItalent.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {
+        "weight": "3.0 Kg",
+        "durability": "1,500"
+      },
+      "category": "food troughs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Aluminium Ingot": 30,
+          "Iron Ingot": 15,
+          "Steel Screw": 15
+        },
+        "crafted_at": "Ranching Station"
+      }
+    },
+    {
+      "name": "Mixed Berries",
+      "url": "https://icarus.fandom.com/wiki/Mixed_Berries",
+      "description": "Mixed Berries is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Wild Berry": 1,
+          "Strawberry": 1
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Mushroom Soup",
+      "url": "https://icarus.fandom.com/wiki/Mushroom_Soup",
+      "description": "Mushroom Soup is aFoodthat satisfiesHunger. It provides the uniqueStatus Effect,Mushroom Soup, which increases maximumHealthand improvesStaminaregeneration.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Oxygen Buff Paste",
+      "url": "https://icarus.fandom.com/wiki/Oxygen_Buff_Paste",
+      "description": "In-game description:A natural concoction that increases available oxygen.In-game flavor text:Your parents are a long way from here. What you do with your body is your business.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Sponge": 4,
+          "Charcoal": 2
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Oxygen Consumption Paste",
+      "url": "https://icarus.fandom.com/wiki/Oxygen_Consumption_Paste",
+      "description": "In-game description:A natural beta blocker.In-game flavor text:This preparation reduces the heart rate, dropping oxygen consumption temporarily.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "medicine",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Sponge": 1,
+          "Charcoal": 2
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Oxygen Restoration Paste",
+      "url": "https://icarus.fandom.com/wiki/Oxygen_Restoration_Paste",
+      "description": "In-game description:An organic co-factor that rapidly restores oxygen.In-game flavor text:Helper molecule",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Sponge": 1,
+          "Charcoal": 2,
+          "Oite": 2
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Poison Paste",
+      "url": "https://icarus.fandom.com/wiki/Poison_Paste",
+      "description": "Poison Paste is used for making a variety of items, such as medicines likeAnti-Poison Pillor ammo likePoison Arrow.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Spoiled Meat": 2,
+          "Sulfur": 1
+        },
+        "crafted_at": "Mortar and Pestle"
+      }
+    },
+    {
+      "name": "Potato Bread",
+      "url": "https://icarus.fandom.com/wiki/Potato_Bread",
+      "description": "Potato Bread is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Prime Meat Attachment",
+      "url": "https://icarus.fandom.com/wiki/Prime_Meat_Attachment",
+      "description": "Prime Meat Attachment is a mid-to-end game item available once the prospector has unlocked theTool Attachment Packtech.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {
+        "weight": "1 kg"
+      },
+      "category": "attachment packs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Crafted at\n Alteration Bench"
+      }
+    },
+    {
+      "name": "Pumpkin Bread",
+      "url": "https://icarus.fandom.com/wiki/Pumpkin_Bread",
+      "description": "Pumpkin Bread is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Raw Bacon",
+      "url": "https://icarus.fandom.com/wiki/Raw_Bacon",
+      "description": "Raw meat can be obtained by skinningWild Boarwith aKnife. While eating raw food will replenishHealththere is a possibility of negativeStatus Effectswhen doing so. It is better toCookbefore eating.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Raw Chicken",
+      "url": "https://icarus.fandom.com/wiki/Raw_Chicken",
+      "description": "Raw Chicken can be obtained from the carcass of a once cryogenically frozenChickenthat can be purchased from theWorkshop.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Raw Copper Lamp",
+      "url": "https://icarus.fandom.com/wiki/Raw_Copper_Lamp",
+      "description": "The Raw Copper Lamp is a simple low output lamp that does not require fuel to operate but does require water to craft.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.5 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Crafted At\n Masonry Bench"
+      }
+    },
+    {
+      "name": "Raw Fatty T-Bone",
+      "url": "https://icarus.fandom.com/wiki/Raw_Fatty_T-Bone",
+      "description": "Raw Fatty T-Bone can be obtained by Skinning bears with aKnife.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Raw Gamey Meat",
+      "url": "https://icarus.fandom.com/wiki/Raw_Gamey_Meat",
+      "description": "Raw Gamey Meat can be obtained by Skinning animals with aKnife. Eating Raw Gamey Meat will replenishHealththere is a possibility of negativeStatus Effectswhen doing so. It is better toCookfirst before eating.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Raw Giant Steak",
+      "url": "https://icarus.fandom.com/wiki/Raw_Giant_Steak",
+      "description": "Raw Giant Steak can be obtained by Skinning animals with aKnife. Eating Raw Giant Steak will replenishHealththere is a possibility of negativeStatus Effectswhen doing so. It is better toCookfirst before eating.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Raw Gold Lamp",
+      "url": "https://icarus.fandom.com/wiki/Raw_Gold_Lamp",
+      "description": "The Raw Gold Lamp is a simple low output lamp that does not require fuel to operate but does require water to craft.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.5 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Crafted At\n Masonry Bench"
+      }
+    },
+    {
+      "name": "Raw Meat",
+      "url": "https://icarus.fandom.com/wiki/Raw_Meat",
+      "description": "Raw meat can be obtained by skinning animals with aKnife. While eating raw meat will replenishHealththere is a possibility of negativeStatus Effectswhen doing so. It is better toCookbefore eating.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Raw Oxite Lamp",
+      "url": "https://icarus.fandom.com/wiki/Raw_Oxite_Lamp",
+      "description": "The Raw Oxite Lamp is a simple low output lamp that does not require fuel to operate but does require water to craft.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.5 Kg",
+        "durability": "500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Crafted At\n Masonry Bench"
+      }
+    },
+    {
+      "name": "Raw Soft Meat",
+      "url": "https://icarus.fandom.com/wiki/Raw_Soft_Meat",
+      "description": "Raw Soft Meat can be obtained by Skinning animals with aKnife. Eating Raw Soft Meat will replenishHealththere is a possibility of negativeStatus Effectswhen doing so. It is better toCookfirst before eating.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Raw Stringy Meat",
+      "url": "https://icarus.fandom.com/wiki/Raw_Stringy_Meat",
+      "description": "Raw Stringy Meat can be obtained by Skinning animals with aKnife. Eating Raw Stringy Meat will replenishHealththere is a possibility of negativeStatus Effectswhen doing so. It is better toCookfirst before eating.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Raw White Meat",
+      "url": "https://icarus.fandom.com/wiki/Raw_White_Meat",
+      "description": "Eating Raw White Meat will replenishHealththere is a possibility of negativeStatus Effectswhen doing so. It is better toCookfirst before eating.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Refined Wood Fishing Rod",
+      "url": "https://icarus.fandom.com/wiki/Refined_Wood_Fishing_Rod",
+      "description": "One approach to catching fish is by using a Fishing Rod. Though a lure is not required, attaching one can increase the quality, length, and weight of the caught fish. Additionally, certain lures can increase the odds of catching fish of a certain rarity or increase the size of the capture area. For a list of available lures, view thispage.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.0 kg",
+        "durability": "8,000"
+      },
+      "category": "fishing equipment",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Refined Wood": 20,
+          "Iron Ingot": 2,
+          "Rope": 5
+        },
+        "crafted_at": "Crafted At\n Basic Fishing Bench"
+      }
+    },
+    {
+      "name": "Rhubarb Stew",
+      "url": "https://icarus.fandom.com/wiki/Rhubarb_Stew",
+      "description": "Rhubarb Stew is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Rotten Meat Lure",
+      "url": "https://icarus.fandom.com/wiki/Rotten_Meat_Lure",
+      "description": "The Rotten Meat Lure can be attached to aFishing Rodor aBasic Fishing Trap/Advanced Fishing Trapto provide an increase to different attributes detailed in the infobox. The capture zone increase is the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like allLures, the Rotten Meat Lure degrades with use and will eventually break after ten uses.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "0.25 Kg",
+        "durability": "100"
+      },
+      "category": "lures",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Spoiled Meat": 2,
+          "Iron Nail": 2,
+          "Rope": 2
+        },
+        "crafted_at": "Fishing Bench"
+      }
+    },
+    {
+      "name": "Rustic Food Trough",
+      "url": "https://icarus.fandom.com/wiki/Rustic_Food_Trough",
+      "description": "The Rustic Food Trough is a decorative upgrade to theFood Troughand allows multiple creatures to eat from it simultaneously, similar to theLarge Food Trough. Rustic Food Troughs benefit from theExtra Space I/Extra Space IItalent.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "3.0 Kg",
+        "durability": "1,500"
+      },
+      "category": "food troughs",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Wood": 50,
+          "Tree Sap": 20,
+          "Stick": 30
+        },
+        "crafted_at": "Ranching Station"
+      }
+    },
+    {
+      "name": "Saltwater Fish Fillet",
+      "url": "https://icarus.fandom.com/wiki/Saltwater_Fish_Fillet",
+      "description": "Saltwater Fish Fillet is is the result of filleting a Saltwater Fish at aBasic Fishing Bench. While eating Saltwater Fish Fillet will replenish a small amount ofHunger, there is a possibility of negativeStatus Effectswhen doing so. It is better toCookbefore eating.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Seed Bread",
+      "url": "https://icarus.fandom.com/wiki/Seed_Bread",
+      "description": "Seed Bread is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Bread Dough": 1,
+          "Seeds": 10
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Shengong \"Yeying\" Bandage",
+      "url": "https://icarus.fandom.com/wiki/Shengong_%22Yeying%22_Bandage",
+      "description": "The Shengong \"Yeying\" Bandage is an overly pricedBasic Bandagepurchased from the Workshop that will remove theBleedingmodifier when consumed.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "medicine",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Spoiled Meat",
+      "url": "https://icarus.fandom.com/wiki/Spoiled_Meat",
+      "description": "Spoiled Meat is a byproduct ofRaw Meatthat has been allowed to go rancid. Can be used to make a variety of items, primarilyPoison Paste. Requires theYou Gonna Eat That?talent for Spoiled Meat to become consumable.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resourcesfood",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Stamina Buff Paste",
+      "url": "https://icarus.fandom.com/wiki/Stamina_Buff_Paste",
+      "description": "In-game description:A herbal concoction, temporarily increasing stamina.In-game flavor text:While lacking some of the pharmaceutical refinements, this paste produces similar physiological affects to the 'wakers' once offered to long haul space pilots.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Reed Flower": 2,
+          "Wheat": 2,
+          "Tree Sap": 1
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Stamina Consumption Paste",
+      "url": "https://icarus.fandom.com/wiki/Stamina_Consumption_Paste",
+      "description": "In-game description:A biotic compound that slows stamina loss temporarily.In-game flavor text:The time-jarring effects of exotics find their influence in many subtle, poorly understood ways on Icarus.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Reed Flower": 2,
+          "Tree Sap": 2
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Stamina Regeneration Paste",
+      "url": "https://icarus.fandom.com/wiki/Stamina_Regeneration_Paste",
+      "description": "In-game description:An organic stimulant that accelerates stamina recovery.In-game flavor text:A herbal preparation that acts rapidly on the sympathetic nervous system, increasing noradrenergic activity.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Reed Flower": 2
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Stamina Restoration Paste",
+      "url": "https://icarus.fandom.com/wiki/Stamina_Restoration_Paste",
+      "description": "In-game description:A natural stimulant that restores lost stamina.In-game flavor text:As countless athletes, party-goers and would-be mystics have noted, the line between natural stimulant and highly addictive narcotic is arbitrary, at best.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Reed Flower": 20,
+          "Wheat": 20,
+          "Tree Sap": 10
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Stew",
+      "url": "https://icarus.fandom.com/wiki/Stew",
+      "description": "Stew is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Strawberries & Cream",
+      "url": "https://icarus.fandom.com/wiki/Strawberries_%26_Cream",
+      "description": "Strawberries & Cream is a long-lastingFoodwith a uniqueStatus Effect, which can be stacked with other food buffs.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Strawberry": 4,
+          "Cream": 2
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "url": "https://icarus.fandom.com/wiki/Strawberry",
+      "description": "Strawberry is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Strawberry Farming Packet",
+      "url": "https://icarus.fandom.com/wiki/Strawberry_Farming_Packet",
+      "description": "The Strawberry Farming Packet is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Strawberry seeds, which then can be planted inDirt Moundsor Crop plots to growPlant Resources.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Strawberry Hard Candy",
+      "url": "https://icarus.fandom.com/wiki/Strawberry_Hard_Candy",
+      "description": "Strawberry Hard Candy is a consumable food that provides a quick boost of movement speed.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Strawberry Jam",
+      "url": "https://icarus.fandom.com/wiki/Strawberry_Jam",
+      "description": "Strawberry Jam is a long-lastingFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Strawberry Jam,Berry JamandPickled Carrot, do not spoil and is therefore a valuable food for long-term storage.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 3,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Strawberry": 5,
+          "Glass Jar": 1
+        },
+        "crafted_at": "Kitchen Bench"
+      }
+    },
+    {
+      "name": "Sweetcorn Soup",
+      "url": "https://icarus.fandom.com/wiki/Sweetcorn_Soup",
+      "description": "Sweetcorn Soup is aFoodwith a uniqueStatus Effect, which can be stacked with other food buffs. Can be eaten to satisfyHunger.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Tomato Soup",
+      "url": "https://icarus.fandom.com/wiki/Tomato_Soup",
+      "description": "Tomato Soup is a consumableFoodcrafted fromTomatoesandWater. AsTomatoesare only found onPrometheus, this recipe requires the New Frontiers DLC to obtain the ingredients.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Volatile Raw Exotics",
+      "url": "https://icarus.fandom.com/wiki/Volatile_Raw_Exotics",
+      "description": "While theExoticsprospectors found onOlympusandStyxwere originally believed to be the only known variation, the UDA has made a remarkable discovery. This unstable variant is different and appears to have an impact on the local flora not seen before.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "minerals",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Fabricator"
+      }
+    },
+    {
+      "name": "Water Consumption Paste",
+      "url": "https://icarus.fandom.com/wiki/Water_Consumption_Paste",
+      "description": "In-game description:A natural preparation, temporarily reducing the body's need for water.In-game flavor text:The key word here is 'temporarily'.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Sponge": 1,
+          "Charcoal": 2,
+          "Reed Flower": 4
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Wild Berry",
+      "url": "https://icarus.fandom.com/wiki/Wild_Berry",
+      "description": "Wild Berry are a common form ofPlantlifefound in theForestandRiverlandslocationson Icarus. When consumed by prospectors, they replenish bothHungerandThirst.",
+      "item_type": "ammunition",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "food",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Wooden Fishing Rod",
+      "url": "https://icarus.fandom.com/wiki/Wooden_Fishing_Rod",
+      "description": "One approach to catching fish is by using a Fishing Rod. Though a lure is not required, attaching one can increase the quality, length, and weight of the caught fish. Additionally, certain lures can increase the odds of catching fish of a certain rarity or increase the size of the capture area. For a list of available lures, view thispage.",
+      "item_type": "craftable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {
+        "weight": "1.0 kg",
+        "durability": "4,000"
+      },
+      "category": "fishing equipment",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Wood": 15,
+          "Epoy": 2,
+          "Rope": 5
+        },
+        "crafted_at": "Crafted At\n Basic Fishing Bench"
+      }
+    }
+  ]
+}
