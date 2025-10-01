@@ -2,7 +2,7 @@
   "name": "Vapor Condenser",
   "url": "https://icarus.fandom.com/wiki/Vapor_Condenser",
   "description": "The Vapor Condenser is a deployable that can be placed onEnzyme Geysersto extractCondensed EnzymesandExotics(depending on the game mode).",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Fabricator"
+  }
 }

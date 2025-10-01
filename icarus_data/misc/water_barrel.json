@@ -2,7 +2,7 @@
   "name": "Water Barrel",
   "url": "https://icarus.fandom.com/wiki/Water_Barrel",
   "description": "Water Barrels are a deployable that can be connected to a water network to store 300,000 water and can output 1,000 water per second to keep the network operational.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,13 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 4,
+      "Refined Wood": 40,
+      "Epoy": 4
+    },
+    "crafted_at": "Machining Bench"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Iron Cupboard",
   "url": "https://icarus.fandom.com/wiki/Iron_Cupboard",
   "description": "The Iron Cupboard comes with 50 inventory slots and can be used to safely store valuable resources. Unlike theWood Cupboard, it does not require shelter and can be placed outside without risk of taking damage during storms.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,13 @@
   "category": "storage containers",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 40,
+      "Rope": 4,
+      "Epoy": 12
+    },
+    "crafted_at": "Machining Bench"
+  }
 }

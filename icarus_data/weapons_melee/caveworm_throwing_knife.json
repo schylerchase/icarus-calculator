@@ -2,7 +2,7 @@
   "name": "Caveworm Throwing Knife",
   "url": "https://icarus.fandom.com/wiki/Caveworm_Throwing_Knife",
   "description": "The Caveworm Throwing Knife is a variant of theCaveworm Knifethat can be thrown. Unlike theCaveworm Knife, the Caveworm Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,14 @@
   "category": "throwing knives",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 4,
+      "Leather": 4,
+      "Worm Scale": 4,
+      "Poison Sack": 4
+    },
+    "crafted_at": "Anvil Bench"
+  }
 }

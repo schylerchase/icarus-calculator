@@ -2,7 +2,7 @@
   "name": "Yeast Farming Packet",
   "url": "https://icarus.fandom.com/wiki/Yeast_Farming_Packet",
   "description": "The Yeast Farming Packet is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospectors loadout before starting a new prospect. Only after landing on Icarus can the packet be consumed, giving the Prospector five Yeast seeds, which then can be planted inDirt Moundsor Crop plots to growPlant Resources.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

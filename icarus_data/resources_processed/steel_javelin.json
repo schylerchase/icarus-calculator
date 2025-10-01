@@ -2,7 +2,7 @@
   "name": "Steel Javelin",
   "url": "https://icarus.fandom.com/wiki/Steel_Javelin",
   "description": "The Steel Javelin is a variant of theSteel Spearthat can only be thrown. A cheap upgrade to theIron Javelinthat increases projectile damage with a lower break chance, but is locked until prospectors reach level 20.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "javelins",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Anvil Bench"
+  }
 }

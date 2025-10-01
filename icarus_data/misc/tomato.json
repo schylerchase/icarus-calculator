@@ -2,7 +2,7 @@
   "name": "Tomato",
   "url": "https://icarus.fandom.com/wiki/Tomato",
   "description": "Tomato are a fruit found growing on bushes in theGrasslandBiomeon Icarus. They can be harvested by hand or more efficiently with the use of aSickle.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "food",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

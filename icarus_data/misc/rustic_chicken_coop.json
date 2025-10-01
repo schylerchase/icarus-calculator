@@ -2,7 +2,7 @@
   "name": "Rustic Chicken Coop",
   "url": "https://icarus.fandom.com/wiki/Rustic_Chicken_Coop",
   "description": "The Rustic Chicken Coop is a deployable building that housesChickensand provides a place for them to layEggs. When chickens are within proximity to the coop, their eggs will appear in the coop's inventory instead of being laid on the ground.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,14 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 100,
+      "Leather": 50,
+      "Fiber": 100,
+      "Iron Nail": 25
+    },
+    "crafted_at": "Crafted At\n Ranching Station"
+  }
 }

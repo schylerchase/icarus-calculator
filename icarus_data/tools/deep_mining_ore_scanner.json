@@ -2,7 +2,7 @@
   "name": "Deep Mining Ore Scanner",
   "url": "https://icarus.fandom.com/wiki/Deep_Mining_Ore_Scanner",
   "description": "LocatesDeep Ore Depositswithin the area that can be mined with aBiofuel Deep-Mining Drillor anElectric Deep-Mining Drill. Does not indicate the type of deep ore deposit detected, unlike theAdvanced Deep Mining Ore Scanner.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -12,5 +12,14 @@
   "category": "tools",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Steel Ingot": 10,
+      "Electronics": 4,
+      "Steel Screw": 16,
+      "Copper Wire": 30
+    },
+    "crafted_at": "Fabricator"
+  }
 }

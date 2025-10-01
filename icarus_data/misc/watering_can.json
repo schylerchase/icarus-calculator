@@ -2,7 +2,7 @@
   "name": "Watering Can",
   "url": "https://icarus.fandom.com/wiki/Watering_Can",
   "description": "The Watering Can is a mid-gameToolused to water multiple crop plots/dirt mounds simultaneously. Prospectors can unlock it inTier 2portion of theTech Treeafter reaching Level 20. The Watering Can hold 5.0 L and can be used five times before needing to be refilled.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -12,5 +12,13 @@
   "category": "tools",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 5,
+      "Leather": 4,
+      "Iron Nail": 2
+    },
+    "crafted_at": "Anvil Bench"
+  }
 }

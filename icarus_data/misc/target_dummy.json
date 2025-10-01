@@ -2,7 +2,7 @@
   "name": "Target Dummy",
   "url": "https://icarus.fandom.com/wiki/Target_Dummy",
   "description": "Target Dummys are deployable items used to test out weapons and to see their damage output when hitting hard points and weak points.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,13 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Epoy": 10,
+      "Stick": 50,
+      "Silica": 5
+    },
+    "crafted_at": "Crafted At\n Carpentry Bench"
+  }
 }

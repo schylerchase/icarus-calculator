@@ -2,7 +2,7 @@
   "name": "Iron Javelin",
   "url": "https://icarus.fandom.com/wiki/Iron_Javelin",
   "description": "The Iron Javelin is a variant of theIron Spearthat can only be thrown and is an upgrade over the Tier 1 Javelins.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "javelins",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Anvil Bench"
+  }
 }

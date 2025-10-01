@@ -2,7 +2,7 @@
   "name": "Rustic Pot",
   "url": "https://icarus.fandom.com/wiki/Rustic_Pot",
   "description": "The Rustic Pot has two variations that can be selected by holding item and holding R. The item is decorative only and cannot store items",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
 }

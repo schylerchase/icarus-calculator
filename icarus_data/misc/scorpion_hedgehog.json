@@ -2,7 +2,7 @@
   "name": "Scorpion Hedgehog",
   "url": "https://icarus.fandom.com/wiki/Scorpion_Hedgehog",
   "description": "Scorpion Hedgehogs are sturdy defenses used around your base or while at objectives for protection of equipment. The recipe to craft this defensive trap is only learned after completing the prospectCarapace: Research.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,12 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Medium Wood Hedgehog": 1,
+      "Scorpion Tail": 1
+    },
+    "crafted_at": "Crafting Bench"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Titanium Shovel",
   "url": "https://icarus.fandom.com/wiki/Titanium_Shovel",
   "description": "The Titanium Shovel is an upgrade to thePlatinum Shovel, offering increased yield when digging and higher tool durability. Like its predecessor, it can be used to createDirt Mounds(right-click), harvestIce/Dirt/Sand(left-click), or remove ash/snow buildup on structures in theArctic/Volcanicbiomes on Icarus.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 4,
@@ -13,5 +13,12 @@
   "category": "tools",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Titanium Ingot": 4,
+      "Carbon Fiber": 6
+    },
+    "crafted_at": "Unknown"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Wheat",
   "url": "https://icarus.fandom.com/wiki/Wheat",
   "description": "A tall grass which grows in clusters in theForestBiomeon Icarus. They can be harvested most efficiently with the use ofSickles. Can be processed intoflourusing theMortar and Pestle.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Mortar and Pestle"
+  }
 }

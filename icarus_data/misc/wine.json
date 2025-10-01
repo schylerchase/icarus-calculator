@@ -2,7 +2,7 @@
   "name": "Wine",
   "url": "https://icarus.fandom.com/wiki/Wine",
   "description": "Wine is a mid-game beverage brewed fromWild BerryandReed Flowerthat greatly increases stamina and stamina regeneration.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -10,5 +10,13 @@
   "category": "drinks",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wild Berry": 10,
+      "Reed Flower": 1,
+      "Wine Bottle": 1
+    },
+    "crafted_at": "Kitchen Bench"
+  }
 }

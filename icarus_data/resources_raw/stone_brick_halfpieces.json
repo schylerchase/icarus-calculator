@@ -2,7 +2,7 @@
   "name": "Stone Brick Halfpieces",
   "url": "https://icarus.fandom.com/wiki/Stone_Brick_Halfpieces",
   "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -13,5 +13,14 @@
   "category": "building pieces",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Refined Wood": 3,
+      "Stone Brick": 15,
+      "Tree Sap": 3,
+      "Steel Screw": 3
+    },
+    "crafted_at": "Unknown"
+  }
 }

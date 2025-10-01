@@ -2,7 +2,7 @@
   "name": "Wood Cupboard",
   "url": "https://icarus.fandom.com/wiki/Wood_Cupboard",
   "description": "Taking up the same floor-space but with a much larger inventory, this is a great upgrade from theMedium Wood Crate.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "deployables:storage containers",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
 }

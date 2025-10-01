@@ -2,7 +2,7 @@
   "name": "Sandworm Javelin",
   "url": "https://icarus.fandom.com/wiki/Sandworm_Javelin",
   "description": "The Sandworm Javelin is a variant of theSandworm Spearthat can only be thrown. Considering the Sandworm Javelin deals the same amount of damage as aBone Javelin, the Sandworm Javelin is overshadowed by higher-tier javelins and is not worth the effort. Crafted in batches of five and stacks up to twenty.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,13 @@
   "category": "javelins",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 10,
+      "Leather": 4,
+      "Sandworm Scale": 10
+    },
+    "crafted_at": "Forge"
+  }
 }

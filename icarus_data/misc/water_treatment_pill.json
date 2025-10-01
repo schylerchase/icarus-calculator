@@ -2,7 +2,7 @@
   "name": "Water Treatment Pill",
   "url": "https://icarus.fandom.com/wiki/Water_Treatment_Pill",
   "description": "Water Treatment Pills remove the risk of dysentery from Tainted and Rainwater. Use with any canteen of water using the Character Crafting interface",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -10,5 +10,12 @@
   "category": "medicine",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Salt": 2,
+      "Charcoal": 3
+    },
+    "crafted_at": "Kitchen Bench"
+  }
 }

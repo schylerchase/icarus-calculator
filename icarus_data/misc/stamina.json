@@ -2,7 +2,7 @@
   "name": "Stamina",
   "url": "https://icarus.fandom.com/wiki/Stamina",
   "description": "Stamina is a power gauge that fuels many of the actions in Icarus. Using tools, sprinting, jumping, attacking, and crafting all require stamina.Status Effectscan increase or decrease max stamina or stamina regeneration. A prospector who runs out of stamina becomes exhausted and cannot perform stamina-consuming actions until they've regained a significant portion of their stamina.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

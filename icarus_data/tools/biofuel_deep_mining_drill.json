@@ -2,7 +2,7 @@
   "name": "Biofuel Deep-Mining Drill",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Deep-Mining_Drill",
   "description": "The Biofuel Deep-Mining Drill will minedeep mining ore depositswhen supplied with biofuel from aBiofuel Can/MXC Fuel Canister. The Biofuel Deep-Mining Drill has 5 slots and will last 2 hours and 5 minutes on a fullBiofuel Can.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
 }

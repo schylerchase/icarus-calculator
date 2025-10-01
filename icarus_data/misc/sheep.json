@@ -2,7 +2,7 @@
   "name": "Sheep",
   "url": "https://icarus.fandom.com/wiki/Sheep",
   "description": "A sheep preserved in cryogenic stasis that can be deployed and defrosted on a planet.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "fauna",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

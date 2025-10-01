@@ -2,7 +2,7 @@
   "name": "Steel Bolt",
   "url": "https://icarus.fandom.com/wiki/Steel_Bolt",
   "description": "The Steel Bolt is ammunition used with aCrossbow. Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -12,5 +12,12 @@
   "category": "bolts",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 0.2,
+      "Steel Ingot": 0.2
+    },
+    "crafted_at": "Anvil Bench"
+  }
 }

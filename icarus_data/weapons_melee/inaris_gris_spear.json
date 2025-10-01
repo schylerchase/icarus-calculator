@@ -2,7 +2,7 @@
   "name": "Inaris \"Gris\" Spear",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Gris%22_Spear",
   "description": "The Inaris \"Gris\" Spear is unlocked in theWorkshopon theSpace Stationand is equipped in the Prospector's loadout before starting a new prospect.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,9 @@
   "category": "spears",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

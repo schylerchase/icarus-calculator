@@ -2,7 +2,7 @@
   "name": "Crushed Bone",
   "url": "https://icarus.fandom.com/wiki/Crushed_Bone",
   "description": "Useful alternate resource for makingEpoxy.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -10,5 +10,11 @@
   "category": "resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Bone": 2
+    },
+    "crafted_at": "Mortar and Pestle"
+  }
 }

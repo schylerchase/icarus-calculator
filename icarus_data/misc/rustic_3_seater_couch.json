@@ -2,7 +2,7 @@
   "name": "Rustic 3-Seater Couch",
   "url": "https://icarus.fandom.com/wiki/Rustic_3-Seater_Couch",
   "description": "The Rustic 3-Seater Couch is a rustic item that can seat 3 prospectors.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Cold Steel Ingot",
   "url": "https://icarus.fandom.com/wiki/Cold_Steel_Ingot",
   "description": "Cold Steel Ingots are a refined resource crafted fromSteel IngotsandSuper Cooled Ice. Prospectors must use aConcrete Furnaceor anElectric Furnaceto refine the resources listed below into a Cold Steel Ingot.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -10,5 +10,9 @@
   "category": "crafted resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Concrete Furnace"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Inaris \"Sali\" Axe",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Sali%22_Axe",
   "description": "The Inaris \"Sali\" Axe is a Workshop Axe geared towards combat, intrinsically dealing poison damage to targets and generatingInfected Barkwhen harvesting trees.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -14,5 +14,9 @@
   "category": "axes",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "Talents",
   "url": "https://icarus.fandom.com/wiki/Talents#Blueprint:_Arctic_Armor",
   "description": "With 465 combined talents to choose from, Icarus' talent trees give prospectors the ability to construct their own unique play-styles inside of five primary Categories: Survival, Adventure, Habitation, Combat and Solo Talents Trees.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Machining Bench"
+  }
 }

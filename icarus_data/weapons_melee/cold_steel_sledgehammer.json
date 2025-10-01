@@ -2,7 +2,7 @@
   "name": "Cold Steel Sledgehammer",
   "url": "https://icarus.fandom.com/wiki/Cold_Steel_Sledgehammer",
   "description": "Cold Steel Sledgehammer is aTier 3Sledgehammermade withCold Steel Ingots. Due to the materials required, crafting the item requires the New Frontiers DLC.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 3,
@@ -14,5 +14,14 @@
   "category": "tools",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Cold Steel Ingot": 15,
+      "Refined Wood": 20,
+      "Iron Nail": 10,
+      "Fur": 5
+    },
+    "crafted_at": "Forge"
+  }
 }

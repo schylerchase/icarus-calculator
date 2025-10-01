@@ -2,7 +2,7 @@
   "name": "Rustic Candles",
   "url": "https://icarus.fandom.com/wiki/Rustic_Candles",
   "description": "Four types of Rustic Candles can be deployed by holding the candle and selecting R for the rotary menu. Two recipes create the candles using eitherAnimal FatorBeeswax. Holding R when viewing the candle will bring up the fuel container which will either be Animal Fat or Beeswax.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,9 @@
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafted At\n Decoration Bench"
+  }
 }

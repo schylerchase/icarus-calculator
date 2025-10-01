@@ -2,7 +2,7 @@
   "name": "Wood Javelin",
   "url": "https://icarus.fandom.com/wiki/Wood_Javelin",
   "description": "The Wood Javelin is a variant of theWood Spearthat can only be thrown. The Wood Javelin has the slowest projectile travel time and highest projectile fall-off, but that can be overlooked by it's cheap producibility.",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 1,
@@ -13,5 +13,9 @@
   "category": "javelins",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Character"
+  }
 }

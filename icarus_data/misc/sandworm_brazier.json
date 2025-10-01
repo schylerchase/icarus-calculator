@@ -2,7 +2,7 @@
   "name": "Sandworm Brazier",
   "url": "https://icarus.fandom.com/wiki/Sandworm_Brazier",
   "description": "The Sandworm Brazier is a deployable and decorative source ofHeatandLightmade from the remains of aSandworm.",
-  "item_type": "unknown",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 2,
@@ -13,5 +13,14 @@
   "category": "trophies",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 4,
+      "Iron Ingot": 16,
+      "Steel Screw": 8,
+      "Sandworm Vestige": 1
+    },
+    "crafted_at": "Crafted At\n Trophy Bench"
+  }
 }

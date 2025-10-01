@@ -2,7 +2,7 @@
   "name": "Sponge",
   "url": "https://icarus.fandom.com/wiki/Sponge",
   "description": "Sponges are found growing in bodies of water on Icarus and are gathered by hand. Sponges are also be obtained through the use ofWater WheelsandBasic Fishing Traps/Advanced Fishing Traps. Sponges can be identified with this reference image:",
-  "item_type": "unknown",
+  "item_type": "ammunition",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
@@ -10,5 +10,9 @@
   "category": "resources",
   "harvested_from": [],
   "research_cost": null,
-  "purchase_cost": null
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
 }
