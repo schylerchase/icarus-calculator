@@ -1019,9 +1019,13 @@
                 return matchesSearch && matchesCategory && matchesTier;
             });
 
-            const checkItemAvailability = (item, map) => {
+            const checkItemAvailability = (item, map, visited = new Set()) => {
                 const recipe = recipes[item];
                 if (!recipe) return false;
+                
+                // Prevent infinite recursion
+                if (visited.has(item)) return true;
+                visited.add(item);
                 
                 if (recipe.map_exclusive && recipe.map_exclusive !== map) {
                     return false;
@@ -1046,7 +1050,7 @@
                         continue;
                     }
                     
-                    if (!checkItemAvailability(material, map)) {
+                    if (!checkItemAvailability(material, map, visited)) {
                         return false;
                     }
                 }
