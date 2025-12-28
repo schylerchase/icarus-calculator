@@ -210,6 +210,32 @@
             color: white;
         }
 
+        .available-toggle {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 16px;
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 10px;
+            color: white;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .available-toggle:hover {
+            background: rgba(255,255,255,0.15);
+            border-color: #00d4ff;
+        }
+
+        .available-toggle input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            accent-color: #00d4ff;
+            cursor: pointer;
+        }
+
         .map-selector {
             display: flex;
             gap: 10px;
@@ -978,6 +1004,7 @@
             const [searchTerm, setSearchTerm] = useState('');
             const [categoryFilter, setCategoryFilter] = useState('All');
             const [tierFilter, setTierFilter] = useState('All');
+            const [availableOnly, setAvailableOnly] = useState(false);
             const [shoppingCart, setShoppingCart] = useState({});
             const [results, setResults] = useState(null);
             const [itemQuantities, setItemQuantities] = useState({});
@@ -1105,15 +1132,6 @@
                 }));
             };
 
-            const filteredItems = useMemo(() =>
-                Object.entries(recipes).filter(([item, recipe]) => {
-                    const matchesSearch = item.toLowerCase().includes(searchTerm.toLowerCase());
-                    const matchesCategory = categoryFilter === 'All' || recipe.category === categoryFilter;
-                    const matchesTier = tierFilter === 'All' || recipe.tier.toString() === tierFilter;
-                    return matchesSearch && matchesCategory && matchesTier;
-                })
-            , [recipes, searchTerm, categoryFilter, tierFilter]);
-
             // Use ref for mutable cache that clears when map changes
             const availabilityCacheRef = useRef({});
             const lastMapRef = useRef(currentMap);
@@ -1175,6 +1193,16 @@
                 availabilityCacheRef.current[cacheKey] = true;
                 return true;
             }, [recipes, currentMap]);
+
+            const filteredItems = useMemo(() =>
+                Object.entries(recipes).filter(([item, recipe]) => {
+                    const matchesSearch = item.toLowerCase().includes(searchTerm.toLowerCase());
+                    const matchesCategory = categoryFilter === 'All' || recipe.category === categoryFilter;
+                    const matchesTier = tierFilter === 'All' || recipe.tier.toString() === tierFilter;
+                    const matchesAvailability = !availableOnly || checkItemAvailability(item, currentMap);
+                    return matchesSearch && matchesCategory && matchesTier && matchesAvailability;
+                })
+            , [recipes, searchTerm, categoryFilter, tierFilter, availableOnly, currentMap, checkItemAvailability]);
 
             const addToCart = (item) => {
                 const quantity = itemQuantities[item] || 1;
@@ -1554,6 +1582,19 @@
                                 ...tiers.map(tier => 
                                     React.createElement('option', { key: tier, value: tier.toString() }, `Tier ${tier}`)
                                 )
+                            ]),
+                            React.createElement('label', {
+                                key: 'available-toggle',
+                                className: 'available-toggle',
+                                title: 'Only show items craftable on the selected map'
+                            }, [
+                                React.createElement('input', {
+                                    key: 'checkbox',
+                                    type: 'checkbox',
+                                    checked: availableOnly,
+                                    onChange: (e) => setAvailableOnly(e.target.checked)
+                                }),
+                                React.createElement('span', { key: 'label-text' }, 'Available only')
                             ])
                         ]),
                         React.createElement('div', { className: 'map-selector', key: 'map-selector' }, [
