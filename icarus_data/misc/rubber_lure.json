@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Rubber_Lure",
   "description": "The Rubber Lure can be attached to a Fishing Rod or a Basic Fishing Trap / Advanced Fishing Trap to provide an increase to different attributes detailed in the infobox. Like all Lures , the Rubber Lure degrades with use and will eventually break after ten uses.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Epoxy": 4,
+    "Iron Nail": 2,
+    "Platinum Weave": 1
+  },
   "crafted_at": "Basic Fishing Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Epoxy": 4,
+      "Iron Nail": 2,
+      "Platinum Weave": 1
+    },
     "crafted_at": "Basic Fishing Bench"
   }
 }

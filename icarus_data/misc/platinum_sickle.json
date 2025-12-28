@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Platinum_Sickle",
   "description": "Used by 'attacking' plants such as shrubs, Reed Flower , Wheat , etc. Sickles significantly increase the yield of plants when harvesting.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 4,
+    "Cured Leather": 1,
+    "Platinum Ingot": 10
+  },
   "crafted_at": "Workshop",
   "tier": 3,
   "stats": {
@@ -16,7 +20,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 4,
+      "Cured Leather": 1,
+      "Platinum Ingot": 10
+    },
     "crafted_at": "Workshop"
   }
 }

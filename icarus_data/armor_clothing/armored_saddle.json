@@ -1,9 +1,13 @@
 {
   "name": "Armored Saddle",
   "url": "https://icarus.fandom.com/wiki/Armored_Saddle",
-  "description": "The Armored Saddle is a saddle for Mounts that has a medieval aesthetic. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides no additional attributes.",
+  "description": "The Armored Saddle is a saddle for Mounts that has a medieval aesthetic. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides +5 Physical Resistance.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 10,
+    "Fur": 6,
+    "Rope": 2
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 10,
+      "Fur": 6,
+      "Rope": 2
+    },
     "crafted_at": "Ranching Station"
   }
 }

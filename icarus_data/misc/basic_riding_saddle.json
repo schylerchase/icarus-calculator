@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Basic_Riding_Saddle",
   "description": "The Basic Riding Saddle is an item that allows prospectors to ride tamed Mounts . The Basic Riding Saddle can be use on all Mounts (regardless of who tamed them) and comes with two inventory slots and one heavy cargo inventory slot for Equipment . Items stored in the saddle is dropped into a lootable overflow bag when the mount dies.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Leather": 14,
+    "Fur": 6,
+    "Rope": 2
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Leather": 14,
+      "Fur": 6,
+      "Rope": 2
+    },
     "crafted_at": "Ranching Station"
   }
 }

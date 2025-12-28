@@ -1,13 +1,17 @@
 {
   "category": "Building Structures",
-  "count": 163,
+  "count": 164,
   "items": [
     {
       "name": "Aluminium Beam",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Beam",
       "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 2,
+        "Wood": 2,
+        "Steel Screw": 2
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -19,7 +23,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 2,
+          "Wood": 2,
+          "Steel Screw": 2
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -28,7 +36,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Door",
       "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 4,
+        "Wood": 6,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -40,7 +52,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 4,
+          "Wood": 6,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -49,7 +65,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Floor",
       "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 4,
+        "Wood": 6,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -61,7 +81,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 4,
+          "Wood": 6,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -70,7 +94,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Floor_Trapdoor",
       "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 4,
+        "Wood": 6,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -82,7 +110,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 4,
+          "Wood": 6,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -91,7 +123,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Halfpieces",
       "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 4,
+        "Wood": 6,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -103,7 +139,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 4,
+          "Wood": 6,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -112,7 +152,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Halfpitches",
       "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 4,
+        "Wood": 6,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -124,7 +168,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 4,
+          "Wood": 6,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -133,7 +181,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Ladder",
       "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 2,
+        "Wood": 2,
+        "Steel Screw": 6
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -145,7 +197,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 2,
+          "Wood": 2,
+          "Steel Screw": 6
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -154,7 +210,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Railing",
       "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 2,
+        "Wood": 2,
+        "Steel Screw": 6
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -166,7 +226,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 2,
+          "Wood": 2,
+          "Steel Screw": 6
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -175,7 +239,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Ramp",
       "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 4,
+        "Wood": 6,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -187,7 +255,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 4,
+          "Wood": 6,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -196,7 +268,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Roof",
       "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 4,
+        "Wood": 6,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -208,7 +284,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 4,
+          "Wood": 6,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -217,7 +297,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Roof_Corner",
       "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 2,
+        "Wood": 6,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -229,7 +313,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 2,
+          "Wood": 6,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -238,7 +326,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Stairs",
       "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 4,
+        "Wood": 6,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -250,7 +342,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 4,
+          "Wood": 6,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -259,7 +355,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Trapdoor",
       "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 4,
+        "Wood": 6,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -271,7 +371,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 4,
+          "Wood": 6,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -280,7 +384,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Wall",
       "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 4,
+        "Wood": 6,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -292,7 +400,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 4,
+          "Wood": 6,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -301,7 +413,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Wall_Angled",
       "description": "Very light to carry and fireproof, but lacking the weather resistance of stone, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 4,
+        "Wood": 6,
+        "Steel Screw": 2
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -313,7 +429,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 4,
+          "Wood": 6,
+          "Steel Screw": 2
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -322,7 +442,11 @@
       "url": "https://icarus.fandom.com/wiki/Aluminium_Window",
       "description": "Resistant to weather, but lighter than Stone Buildings, Aluminium Buildings are an asset when traveling to new areas far from your dropship or base, bringing with you the equivalent of a Stone Base in your backpack. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 2,
+        "Wood": 3,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -334,7 +458,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 2,
+          "Wood": 3,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -343,7 +471,12 @@
       "url": "https://icarus.fandom.com/wiki/Art_Deco_Floor_Lamp",
       "description": "The Art Deco Floor Lamp is an gilded item of significant worth.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Gold": 6,
+        "Stone": 10,
+        "Glass": 4,
+        "Gold Wire": 4
+      },
       "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
@@ -355,7 +488,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Gold": 6,
+          "Stone": 10,
+          "Glass": 4,
+          "Gold Wire": 4
+        },
         "crafted_at": "Decoration Bench"
       }
     },
@@ -364,7 +502,12 @@
       "url": "https://icarus.fandom.com/wiki/Art_Deco_Wall_Light",
       "description": "The Art Deco Wall Light is an gilded item of significant worth.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Gold": 2,
+        "Glass": 2,
+        "Gold Wire": 4,
+        "Stone": 4
+      },
       "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
@@ -376,7 +519,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Gold": 2,
+          "Glass": 2,
+          "Gold Wire": 4,
+          "Stone": 4
+        },
         "crafted_at": "Decoration Bench"
       }
     },
@@ -385,7 +533,11 @@
       "url": "https://icarus.fandom.com/wiki/Art_Deco_Wall_Shelf",
       "description": "The Art Deco Wall Shelf is an gilded item of significant worth.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Gold": 4,
+        "Stone": 20,
+        "Steel Screw": 6
+      },
       "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
@@ -397,7 +549,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Gold": 4,
+          "Stone": 20,
+          "Steel Screw": 6
+        },
         "crafted_at": "Decoration Bench"
       }
     },
@@ -406,7 +562,10 @@
       "url": "https://icarus.fandom.com/wiki/Art_Deco_Wall_Sign",
       "description": "The Art Deco Wall Sign is an gilded wall sign for labelled cupboards or other items in the Art Deco style.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Gold": 2,
+        "Stone": 16
+      },
       "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
@@ -418,7 +577,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Gold": 2,
+          "Stone": 16
+        },
         "crafted_at": "Decoration Bench"
       }
     },
@@ -427,7 +589,11 @@
       "url": "https://icarus.fandom.com/wiki/Basic_Ceiling_Light",
       "description": "The Basic Ceiling Light provides lighting for a Prospector's base. Requires 150 units of power to function.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 15,
+        "Glass": 6,
+        "Copper Wire": 40
+      },
       "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
@@ -439,7 +605,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 15,
+          "Glass": 6,
+          "Copper Wire": 40
+        },
         "crafted_at": "Fabricator"
       }
     },
@@ -448,7 +618,11 @@
       "url": "https://icarus.fandom.com/wiki/Basic_Wall_Light",
       "description": "The Basic Wall Light provides lighting for a Prospector's base. Requires 150 units of power to function.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 15,
+        "Glass": 6,
+        "Copper Wire": 40
+      },
       "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
@@ -460,16 +634,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 15,
+          "Glass": 6,
+          "Copper Wire": 40
+        },
         "crafted_at": "Fabricator"
       }
     },
     {
       "name": "Beeswax Wood Floor",
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Floor_Trapdoor",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Floor",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 4,
+        "Wood": 15,
+        "Beeswax": 10
+      },
       "crafted_at": "the Carpentry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -481,16 +663,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 4,
+          "Wood": 15,
+          "Beeswax": 10
+        },
         "crafted_at": "the Carpentry Bench with the following resources:"
       }
     },
     {
       "name": "Beeswax Wood Floor",
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Floor",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Floor_Trapdoor",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 4,
+        "Wood": 15,
+        "Beeswax": 10
+      },
       "crafted_at": "the Carpentry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -502,16 +692,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 4,
+          "Wood": 15,
+          "Beeswax": 10
+        },
         "crafted_at": "the Carpentry Bench with the following resources:"
       }
     },
     {
       "name": "Beeswax Wood Ramp",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Ramp",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 4,
+        "Wood": 15,
+        "Beeswax": 10
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -523,37 +721,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Carpentry Bench"
-      }
-    },
-    {
-      "name": "Beeswax Wood Ramp",
-      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Roof_Peak",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
-      "item_type": "craftable",
-      "ingredients": {},
-      "crafted_at": "Carpentry Bench",
-      "tier": 0,
-      "stats": {
-        "weight": "0.5 kg",
-        "durability": "5,000"
-      },
-      "category": "building pieces",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 4,
+          "Wood": 15,
+          "Beeswax": 10
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
     {
       "name": "Beeswax Wood Ramp",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Roof",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 4,
+        "Wood": 15,
+        "Beeswax": 10
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -565,16 +750,53 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 4,
+          "Wood": 15,
+          "Beeswax": 10
+        },
+        "crafted_at": "Carpentry Bench"
+      }
+    },
+    {
+      "name": "Beeswax Wood Ramp",
+      "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Roof_Peak",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 4,
+        "Wood": 15,
+        "Beeswax": 10
+      },
+      "crafted_at": "Carpentry Bench",
+      "tier": 0,
+      "stats": {
+        "weight": "0.5 kg",
+        "durability": "5,000"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Fiber": 4,
+          "Wood": 15,
+          "Beeswax": 10
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
     {
       "name": "Beeswax Wood Ramp",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Wood_Stairs",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 4,
+        "Wood": 15,
+        "Beeswax": 10
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -586,16 +808,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 4,
+          "Wood": 15,
+          "Beeswax": 10
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
     {
       "name": "Beeswax Wood Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Roof_Corner",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 6,
+        "Wood": 10,
+        "Beeswax": 10
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -607,16 +837,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 6,
+          "Wood": 10,
+          "Beeswax": 10
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
     {
       "name": "Beeswax Wood Wall",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Wall",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 4,
+        "Wood": 15,
+        "Beeswax": 10
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -628,16 +866,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 4,
+          "Wood": 15,
+          "Beeswax": 10
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
     {
       "name": "Beeswax Wood Wall Angled",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Wall_Angled",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 2,
+        "Wood": 8,
+        "Beeswax": 10
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -649,7 +895,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 2,
+          "Wood": 8,
+          "Beeswax": 10
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -658,7 +908,9 @@
       "url": "https://icarus.fandom.com/wiki/Brutalist_Wall_Shelf",
       "description": "The Brutalist Wall Shelf is a decorative shelf for holding small items such as Lamps or small Trophies . It provides a small bonus to Coziness .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Concrete Mix": 3
+      },
       "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
@@ -670,7 +922,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Concrete Mix": 3
+        },
         "crafted_at": "Decoration Bench"
       }
     },
@@ -679,7 +933,10 @@
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Wall_Shelf",
       "description": "The Carved Wood Wall Shelf is a decorative item that has two varieties, select R when deploying.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 25,
+        "Copper Nail": 15
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -691,7 +948,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 25,
+          "Copper Nail": 15
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -699,8 +959,11 @@
       "name": "Clay Brick Beam",
       "url": "https://icarus.fandom.com/wiki/Clay_Brick_Beam",
       "description": "Fired Clay Brick building material providing a more traditional brick aesthetic that is only available on Prometheus.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Clay Brick": 25,
+        "Tree Sap": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -712,7 +975,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Clay Brick": 25,
+          "Tree Sap": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -720,8 +986,11 @@
       "name": "Clay Brick Floor",
       "url": "https://icarus.fandom.com/wiki/Clay_Brick_Floor",
       "description": "Fired Clay Brick building material providing a more traditional brick aesthetic that is only available on Prometheus.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Clay Brick": 30,
+        "Tree Sap": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -733,7 +1002,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Clay Brick": 30,
+          "Tree Sap": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -741,8 +1013,11 @@
       "name": "Clay Brick Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Clay_Brick_Halfpieces",
       "description": "Fired Clay Brick building material providing a more traditional brick aesthetic that is only available on Prometheus.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Clay Brick": 10,
+        "Tree Sap": 2
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -754,7 +1029,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Clay Brick": 10,
+          "Tree Sap": 2
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -762,8 +1040,11 @@
       "name": "Clay Brick Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Clay_Brick_Halfpitches",
       "description": "Fired Clay Brick building material providing a more traditional brick aesthetic that is only available on Prometheus.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Clay Brick": 15,
+        "Tree Sap": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -775,7 +1056,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Clay Brick": 15,
+          "Tree Sap": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -783,8 +1067,11 @@
       "name": "Clay Brick Ramp",
       "url": "https://icarus.fandom.com/wiki/Clay_Brick_Ramp",
       "description": "Fired Clay Brick building material providing a more traditional brick aesthetic that is only available on Prometheus.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Clay Brick": 30,
+        "Tree Sap": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -796,7 +1083,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Clay Brick": 30,
+          "Tree Sap": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -804,8 +1094,11 @@
       "name": "Clay Brick Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Clay_Brick_Roof_Corner",
       "description": "Fired Clay Brick building material providing a more traditional brick aesthetic that is only available on Prometheus.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Clay Brick": 15,
+        "Tree Sap": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -817,7 +1110,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Clay Brick": 15,
+          "Tree Sap": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -825,8 +1121,11 @@
       "name": "Clay Brick Wall",
       "url": "https://icarus.fandom.com/wiki/Clay_Brick_Wall",
       "description": "Fired Clay Brick building material providing a more traditional brick aesthetic that is only available on Prometheus.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Clay Brick": 30,
+        "Tree Sap": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -838,7 +1137,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Clay Brick": 30,
+          "Tree Sap": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -846,8 +1148,11 @@
       "name": "Clay Brick Wall Angle",
       "url": "https://icarus.fandom.com/wiki/Clay_Brick_Wall_Angle",
       "description": "Fired Clay Brick building material providing a more traditional brick aesthetic that is only available on Prometheus.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Clay Brick": 20,
+        "Tree Sap": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -859,7 +1164,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Clay Brick": 20,
+          "Tree Sap": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -868,7 +1176,11 @@
       "url": "https://icarus.fandom.com/wiki/Concrete_Beam",
       "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Rebar": 8,
+        "Concrete Mix": 2,
+        "Steel Screw": 2
+      },
       "crafted_at": "Machining Bench",
       "tier": 0,
       "stats": {
@@ -880,7 +1192,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Rebar": 8,
+          "Concrete Mix": 2,
+          "Steel Screw": 2
+        },
         "crafted_at": "Machining Bench"
       }
     },
@@ -888,8 +1204,12 @@
       "name": "Concrete Floor",
       "url": "https://icarus.fandom.com/wiki/Concrete_Floor",
       "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Steel Rebar": 10,
+        "Concrete Mix": 4,
+        "Steel Screw": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -901,7 +1221,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Rebar": 10,
+          "Concrete Mix": 4,
+          "Steel Screw": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -910,7 +1234,11 @@
       "url": "https://icarus.fandom.com/wiki/Concrete_Floor_Trapdoor",
       "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Rebar": 10,
+        "Concrete Mix": 4,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {},
@@ -919,7 +1247,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Rebar": 10,
+          "Concrete Mix": 4,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -928,7 +1260,11 @@
       "url": "https://icarus.fandom.com/wiki/Concrete_Frame",
       "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Rebar": 20,
+        "Concrete Mix": 8,
+        "Steel Screw": 10
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {},
@@ -937,7 +1273,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Rebar": 20,
+          "Concrete Mix": 8,
+          "Steel Screw": 10
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -946,7 +1286,11 @@
       "url": "https://icarus.fandom.com/wiki/Concrete_Halfpieces",
       "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Rebar": 10,
+        "Concrete Mix": 4,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {},
@@ -955,7 +1299,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Rebar": 10,
+          "Concrete Mix": 4,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -964,7 +1312,11 @@
       "url": "https://icarus.fandom.com/wiki/Concrete_Halfpitches",
       "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Rebar": 10,
+        "Concrete Mix": 4,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {},
@@ -973,7 +1325,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Rebar": 10,
+          "Concrete Mix": 4,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -982,7 +1338,11 @@
       "url": "https://icarus.fandom.com/wiki/Concrete_Railing",
       "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ore": 2,
+        "Wood": 2,
+        "Steel Screw": 6
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {},
@@ -991,7 +1351,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ore": 2,
+          "Wood": 2,
+          "Steel Screw": 6
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -1000,7 +1364,11 @@
       "url": "https://icarus.fandom.com/wiki/Concrete_Ramp",
       "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Rebar": 12,
+        "Concrete Mix": 4,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {},
@@ -1009,7 +1377,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Rebar": 12,
+          "Concrete Mix": 4,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -1018,7 +1390,11 @@
       "url": "https://icarus.fandom.com/wiki/Concrete_Roof",
       "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Rebar": 12,
+        "Concrete Mix": 4,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {},
@@ -1027,7 +1403,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Rebar": 12,
+          "Concrete Mix": 4,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -1036,7 +1416,11 @@
       "url": "https://icarus.fandom.com/wiki/Concrete_Roof_Corner",
       "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Rebar": 8,
+        "Concrete Mix": 4,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {},
@@ -1045,7 +1429,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Rebar": 8,
+          "Concrete Mix": 4,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -1054,7 +1442,11 @@
       "url": "https://icarus.fandom.com/wiki/Concrete_Stairs",
       "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Rebar": 12,
+        "Concrete Mix": 4,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {},
@@ -1063,7 +1455,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Rebar": 12,
+          "Concrete Mix": 4,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -1071,8 +1467,12 @@
       "name": "Concrete Wall",
       "url": "https://icarus.fandom.com/wiki/Concrete_Wall",
       "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Steel Rebar": 10,
+        "Concrete Mix": 4,
+        "Steel Screw": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1084,7 +1484,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Rebar": 10,
+          "Concrete Mix": 4,
+          "Steel Screw": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1093,7 +1497,11 @@
       "url": "https://icarus.fandom.com/wiki/Concrete_Wall_Angled",
       "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Rebar": 8,
+        "Concrete Mix": 4,
+        "Steel Screw": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {},
@@ -1102,16 +1510,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Rebar": 8,
+          "Concrete Mix": 4,
+          "Steel Screw": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
     {
       "name": "Dirt Corner",
       "url": "https://icarus.fandom.com/wiki/Dirt_Corner",
-      "description": "Dirt Corners are a Tier 1  buildable that are used in tandem with Dirt Ramps , allowing for the creation of rounded ramps. Due to the nature of its building material, Dirt Corners must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Dirt Corners are a Tier 1 buildable that are used in tandem with Dirt Ramps , allowing for the creation of rounded ramps. Due to the nature of its building material, Dirt Corners must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Dirt": 20
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1123,16 +1537,20 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Dirt": 20
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Dirt Foundation",
       "url": "https://icarus.fandom.com/wiki/Dirt_Foundation",
-      "description": "Dirt Foundations are a Tier 1  buildable that serves as an alternative to Thatch Beams / Wood Beams that provides a more natural look to structures. Due to the nature of its building material, Dirt Foundations must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Dirt Foundations are a Tier 1 buildable that serves as an alternative to Thatch Beams / Wood Beams that provides a more natural look to structures. Due to the nature of its building material, Dirt Foundations must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Dirt": 20
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1144,16 +1562,20 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Dirt": 20
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Dirt Ramp",
       "url": "https://icarus.fandom.com/wiki/Dirt_Ramp",
-      "description": "Dirt Ramps are a Tier 1  buildable that serves as an alternative to Thatch Ramps / Wood Ramps that provides a more natural look to structures. Due to the nature of its building material, Dirt Ramps must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Dirt Ramps are a Tier 1 buildable that serves as an alternative to Thatch Ramps / Wood Ramps that provides a more natural look to structures. Due to the nature of its building material, Dirt Ramps must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Dirt": 10
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1165,7 +1587,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Dirt": 10
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1174,7 +1598,12 @@
       "url": "https://icarus.fandom.com/wiki/Elegant_Curtain_Door",
       "description": "The Elegant Curtain Door is a luxury decorative covering for a doorway.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 2,
+        "Iron Ingot": 6,
+        "Fiber": 45,
+        "Gold Wire": 20
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -1185,7 +1614,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 2,
+          "Iron Ingot": 6,
+          "Fiber": 45,
+          "Gold Wire": 20
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -1194,7 +1628,12 @@
       "url": "https://icarus.fandom.com/wiki/Elegant_Curtain_Window",
       "description": "The Elegant Curtain Window is a luxury decorative window covering.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 2,
+        "Iron Ingot": 6,
+        "Fiber": 35,
+        "Gold Wire": 20
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -1205,7 +1644,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 2,
+          "Iron Ingot": 6,
+          "Fiber": 35,
+          "Gold Wire": 20
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -1213,8 +1657,12 @@
       "name": "Floor Torch",
       "url": "https://icarus.fandom.com/wiki/Floor_Torch",
       "description": "Basic lighting for a prospector's base or elsewhere.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 20,
+        "Stick": 8,
+        "Sulfur": 8
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {},
@@ -1223,7 +1671,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 20,
+          "Stick": 8,
+          "Sulfur": 8
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1232,7 +1684,11 @@
       "url": "https://icarus.fandom.com/wiki/Fur_Curtain_Door",
       "description": "A Fur Curtain Door to keep the weather out.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fur": 25,
+        "Wood": 5,
+        "Fiber": 15
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1243,7 +1699,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fur": 25,
+          "Wood": 5,
+          "Fiber": 15
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -1252,7 +1712,11 @@
       "url": "https://icarus.fandom.com/wiki/Fur_Curtain_Window",
       "description": "A Fur Curtain Window to decorate windows and keep the weather out.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fur": 20,
+        "Wood": 5,
+        "Fiber": 10
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1263,7 +1727,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fur": 20,
+          "Wood": 5,
+          "Fiber": 10
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -1272,7 +1740,10 @@
       "url": "https://icarus.fandom.com/wiki/Glass_Beam",
       "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 6,
+        "Epoxy": 12
+      },
       "crafted_at": "Glassworking Bench",
       "tier": 0,
       "stats": {
@@ -1284,7 +1755,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 6,
+          "Epoxy": 12
+        },
         "crafted_at": "Glassworking Bench"
       }
     },
@@ -1292,8 +1766,12 @@
       "name": "Glass Door",
       "url": "https://icarus.fandom.com/wiki/Glass_Door",
       "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Iron Ingot": 6,
+        "Glass": 20,
+        "Epoxy": 12
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1305,7 +1783,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 6,
+          "Glass": 20,
+          "Epoxy": 12
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1313,8 +1795,12 @@
       "name": "Glass Roof",
       "url": "https://icarus.fandom.com/wiki/Glass_Roof",
       "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items. Can be crafted as Reinforced Glass, increasing resistance to weather up to the level of Stone building peices and increasing HP from 500 to 2500.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Iron Ingot": 6,
+        "Glass": 20,
+        "Epoxy": 12
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1326,7 +1812,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 6,
+          "Glass": 20,
+          "Epoxy": 12
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1334,8 +1824,12 @@
       "name": "Glass Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Glass_Roof_Corner",
       "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items. Can be crafted as Reinforced Glass, increasing resistance to weather up to the level of Stone building peices and increasing HP from 500 to 2500.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Iron Ingot": 3,
+        "Glass": 10,
+        "Epoxy": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1347,7 +1841,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 3,
+          "Glass": 10,
+          "Epoxy": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1355,8 +1853,12 @@
       "name": "Glass Wall",
       "url": "https://icarus.fandom.com/wiki/Glass_Wall",
       "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items. Can be crafted as Reinforced Glass, increasing resistance to weather up to the level of Stone building peices and increasing HP from 500 to 2500.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Iron Ingot": 6,
+        "Glass": 20,
+        "Epoxy": 12
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1368,7 +1870,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 6,
+          "Glass": 20,
+          "Epoxy": 12
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1376,8 +1882,12 @@
       "name": "Glass Wall Angled",
       "url": "https://icarus.fandom.com/wiki/Glass_Wall_Angled",
       "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items. Can be crafted as Reinforced Glass, increasing resistance to weather up to the level of Stone building peices and increasing HP from 500 to 2500.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Iron Ingot": 3,
+        "Glass": 10,
+        "Epoxy": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1389,7 +1899,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 3,
+          "Glass": 10,
+          "Epoxy": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1397,8 +1911,12 @@
       "name": "Glass Window",
       "url": "https://icarus.fandom.com/wiki/Glass_Window",
       "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Wood": 12,
+        "Glass": 18,
+        "Epoxy": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1410,7 +1928,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 12,
+          "Glass": 18,
+          "Epoxy": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1418,8 +1940,12 @@
       "name": "Heavy Glass Window",
       "url": "https://icarus.fandom.com/wiki/Heavy_Glass_Window",
       "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Iron Ingot": 12,
+        "Glass": 18,
+        "Epoxy": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1431,7 +1957,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 12,
+          "Glass": 18,
+          "Epoxy": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1440,7 +1970,11 @@
       "url": "https://icarus.fandom.com/wiki/Heavy_Trapdoor",
       "description": "The Heavy Trapdoor is part of the Concrete Buildings category, however lacking the need for concrete in construction, it is however an equal in longevity and durability.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 12,
+        "Steel Screw": 4,
+        "Epoxy": 4
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -1452,7 +1986,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 12,
+          "Steel Screw": 4,
+          "Epoxy": 4
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -1461,7 +1999,10 @@
       "url": "https://icarus.fandom.com/wiki/Industrial_Wall_Shelf",
       "description": "A minimalist Industrial Wall Shelf",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 10,
+        "Steel Screw": 5
+      },
       "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
@@ -1473,7 +2014,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 10,
+          "Steel Screw": 5
+        },
         "crafted_at": "Decoration Bench"
       }
     },
@@ -1482,7 +2026,10 @@
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Beam",
       "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 6,
+        "Copper Nail": 4
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -1494,7 +2041,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 6,
+          "Copper Nail": 4
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -1503,7 +2053,11 @@
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Door",
       "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Rope": 8,
+        "Refined Wood": 10,
+        "Copper Nail": 6
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -1515,28 +2069,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Carpentry Bench"
-      }
-    },
-    {
-      "name": "Interior Wood Floor",
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Floor",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
-      "item_type": "craftable",
-      "ingredients": {},
-      "crafted_at": "Carpentry Bench",
-      "tier": 0,
-      "stats": {
-        "weight": "0.5 Kg",
-        "durability": "500"
-      },
-      "category": "interior wood building base set",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Rope": 8,
+          "Refined Wood": 10,
+          "Copper Nail": 6
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -1545,7 +2082,10 @@
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Floor_Trapdoor",
       "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 20,
+        "Copper Nail": 4
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -1557,16 +2097,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 20,
+          "Copper Nail": 4
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
     {
-      "name": "Interior Wood Ramp",
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Corner_Stairs",
+      "name": "Interior Wood Floor",
+      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Floor",
       "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 20,
+        "Copper Nail": 4
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -1578,28 +2124,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Carpentry Bench"
-      }
-    },
-    {
-      "name": "Interior Wood Ramp",
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Ramp",
-      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
-      "item_type": "craftable",
-      "ingredients": {},
-      "crafted_at": "Carpentry Bench",
-      "tier": 0,
-      "stats": {
-        "weight": "0.5 Kg",
-        "durability": "500"
-      },
-      "category": "interior wood building base set",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 20,
+          "Copper Nail": 4
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -1608,7 +2136,10 @@
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Stairs",
       "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 20,
+        "Copper Nail": 4
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -1620,7 +2151,64 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 20,
+          "Copper Nail": 4
+        },
+        "crafted_at": "Carpentry Bench"
+      }
+    },
+    {
+      "name": "Interior Wood Ramp",
+      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Corner_Stairs",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 20,
+        "Copper Nail": 4
+      },
+      "crafted_at": "Carpentry Bench",
+      "tier": 0,
+      "stats": {
+        "weight": "0.5 Kg",
+        "durability": "500"
+      },
+      "category": "interior wood building base set",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Refined Wood": 20,
+          "Copper Nail": 4
+        },
+        "crafted_at": "Carpentry Bench"
+      }
+    },
+    {
+      "name": "Interior Wood Ramp",
+      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Ramp",
+      "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 20,
+        "Copper Nail": 4
+      },
+      "crafted_at": "Carpentry Bench",
+      "tier": 0,
+      "stats": {
+        "weight": "0.5 Kg",
+        "durability": "500"
+      },
+      "category": "interior wood building base set",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Refined Wood": 20,
+          "Copper Nail": 4
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -1629,7 +2217,11 @@
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Trapdoor",
       "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Rope": 4,
+        "Refined Wood": 10,
+        "Copper Nail": 2
+      },
       "crafted_at": "the Carpentry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -1641,7 +2233,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Rope": 4,
+          "Refined Wood": 10,
+          "Copper Nail": 2
+        },
         "crafted_at": "the Carpentry Bench with the following resources:"
       }
     },
@@ -1650,7 +2246,10 @@
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Wall",
       "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 20,
+        "Copper Nail": 4
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -1662,7 +2261,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 20,
+          "Copper Nail": 4
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -1671,7 +2273,10 @@
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Wall_Angled",
       "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 10,
+        "Copper Nail": 2
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -1683,7 +2288,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 10,
+          "Copper Nail": 2
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -1692,7 +2300,11 @@
       "url": "https://icarus.fandom.com/wiki/Leather_Curtain_Door",
       "description": "A Leather Curtain Door made of wood and Leather, use it to keep the weather out.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 20,
+        "Wood": 5,
+        "Leather": 15
+      },
       "crafted_at": "Crafted AtCrafting BenchMachining BenchFabricatorTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1703,7 +2315,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 20,
+          "Wood": 5,
+          "Leather": 15
+        },
         "crafted_at": "Crafted AtCrafting BenchMachining BenchFabricatorTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -1712,7 +2328,11 @@
       "url": "https://icarus.fandom.com/wiki/Leather_Curtain_Window",
       "description": "A Leather Curtain Window made of wood and Leather, use it to keep the weather out.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 15,
+        "Wood": 5,
+        "Leather": 10
+      },
       "crafted_at": "Crafting Bench Machining Bench Fabricator",
       "tier": 2,
       "stats": {
@@ -1723,7 +2343,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 15,
+          "Wood": 5,
+          "Leather": 10
+        },
         "crafted_at": "Crafting Bench Machining Bench Fabricator"
       }
     },
@@ -1732,7 +2356,12 @@
       "url": "https://icarus.fandom.com/wiki/Reinforced_Curtain_Door",
       "description": "Reinforced Curtain Door is a sturdy fabric covering for a doorway.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 2,
+        "Iron Ingot": 6,
+        "Iron Nail": 14,
+        "Fiber": 15
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -1743,7 +2372,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 2,
+          "Iron Ingot": 6,
+          "Iron Nail": 14,
+          "Fiber": 15
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -1752,7 +2386,12 @@
       "url": "https://icarus.fandom.com/wiki/Reinforced_Curtain_Window",
       "description": "Reinforced Curtain Window is a sturdy fabric covering for a window.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 2,
+        "Iron Ingot": 6,
+        "Iron Nail": 14,
+        "Fiber": 10
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -1763,16 +2402,26 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 2,
+          "Iron Ingot": 6,
+          "Iron Nail": 14,
+          "Fiber": 10
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Reinforced Door",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Door",
-      "description": "The Reinforced Door is part of the Reinforced Wood Building Trim Set , which is learned in the Tier 2  Tech Tree after unlocking the Carpentry Bench . Can be repaired with a Hammer .",
+      "description": "The Reinforced Door is part of the Reinforced Wood Building Trim Set , which is learned in the Tier 2 Tech Tree after unlocking the Carpentry Bench . Can be repaired with a Hammer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 4,
+        "Iron Ingot": 6,
+        "Iron Nail": 8,
+        "Rope": 4
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -1784,7 +2433,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 4,
+          "Iron Ingot": 6,
+          "Iron Nail": 8,
+          "Rope": 4
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -1792,8 +2446,11 @@
       "name": "Reinforced Glass Beam",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Beam",
       "description": "Reinforced Glass Beam is a building piece made from Reinforced Glass that provides more durability and resistance to weather than standard glass buildings.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Steel Ingot": 4,
+        "Epoxy": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1805,7 +2462,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 4,
+          "Epoxy": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1813,8 +2473,12 @@
       "name": "Reinforced Glass Floor",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Floor",
       "description": "Reinforced Glass Floor is a building piece made from Reinforced Glass that provides more durability and resistance to weather than standard glass buildings.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Steel Ingot": 2,
+        "Glass": 20,
+        "Epoxy": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1826,7 +2490,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 2,
+          "Glass": 20,
+          "Epoxy": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1834,8 +2502,12 @@
       "name": "Reinforced Glass Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Halfpieces",
       "description": "Reinforced Glass Halfpieces are building pieces made from Reinforced Glass that provides more durability and resistance to weather than standard glass buildings.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Steel Ingot": 1,
+        "Glass": 10,
+        "Epoxy": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1847,7 +2519,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 1,
+          "Glass": 10,
+          "Epoxy": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1855,8 +2531,12 @@
       "name": "Reinforced Glass Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Halfpitches",
       "description": "Reinforced Glass Halfpitches are building pieces made from Reinforced Glass that provides more durability and resistance to weather than standard glass buildings.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Steel Ingot": 1,
+        "Glass": 10,
+        "Epoxy": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1868,7 +2548,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 1,
+          "Glass": 10,
+          "Epoxy": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1876,8 +2560,12 @@
       "name": "Reinforced Glass Roof",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Roof",
       "description": "Reinforced Glass Roof is a building piece made from Reinforced Glass that provides more durability and resistance to weather than standard glass buildings.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Steel Ingot": 2,
+        "Glass": 20,
+        "Epoxy": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1889,7 +2577,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 2,
+          "Glass": 20,
+          "Epoxy": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1897,8 +2589,12 @@
       "name": "Reinforced Glass Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Roof_Corner",
       "description": "Reinforced Glass Roof Corner is a building piece made from Reinforced Glass that provides more durability and resistance to weather than standard glass buildings.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Steel Ingot": 1,
+        "Glass": 10,
+        "Epoxy": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1910,7 +2606,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 1,
+          "Glass": 10,
+          "Epoxy": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1918,8 +2618,12 @@
       "name": "Reinforced Glass Wall",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Wall",
       "description": "Reinforced Glass Wall is a reinforced and more durable version of a Glass Wall . It is used as a Building Piece for constructing a glass wall section such as for a greenhouse.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Steel Ingot": 2,
+        "Glass": 20,
+        "Epoxy": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1931,7 +2635,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 2,
+          "Glass": 20,
+          "Epoxy": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1939,8 +2647,12 @@
       "name": "Reinforced Glass Wall Angled",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Wall_Angled",
       "description": "Reinforced Glass Wall Angled is a building piece made from Reinforced Glass that provides more durability and resistance to weather than standard glass buildings.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Steel Ingot": 1,
+        "Glass": 10,
+        "Epoxy": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -1949,16 +2661,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 1,
+          "Glass": 10,
+          "Epoxy": 3
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Reinforced Ladder",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Ladder",
-      "description": "Reinforced Building Pieces at learned in the Tier 2  Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Reinforced Building Pieces at learned in the Tier 2 Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
+      "item_type": "craftable",
+      "ingredients": {
+        "Wood": 10,
+        "Iron Ingot": 8,
+        "Iron Nail": 8
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1970,16 +2690,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 10,
+          "Iron Ingot": 8,
+          "Iron Nail": 8
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Reinforced Railing",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Railing",
-      "description": "Reinforced Building Pieces at learned in the Tier 2  Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Reinforced Building Pieces at learned in the Tier 2 Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
+      "item_type": "craftable",
+      "ingredients": {
+        "Wood": 10,
+        "Iron Ingot": 8,
+        "Iron Nail": 8
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1991,16 +2719,25 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 10,
+          "Iron Ingot": 8,
+          "Iron Nail": 8
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Reinforced Trapdoor",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Trapdoor",
-      "description": "Reinforced Building Pieces at learned in the Tier 2  Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Reinforced Building Pieces at learned in the Tier 2 Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
+      "item_type": "craftable",
+      "ingredients": {
+        "Wood": 4,
+        "Iron Ingot": 2,
+        "Iron Nail": 4,
+        "Rope": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2012,16 +2749,26 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 4,
+          "Iron Ingot": 2,
+          "Iron Nail": 4,
+          "Rope": 4
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Reinforced Window",
       "url": "https://icarus.fandom.com/wiki/Reinforced_Window",
-      "description": "Reinforced Building Pieces at learned in the Tier 2  Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Reinforced Building Pieces at learned in the Tier 2 Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
+      "item_type": "craftable",
+      "ingredients": {
+        "Wood": 4,
+        "Iron Ingot": 2,
+        "Iron Nail": 8,
+        "Rope": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2033,8 +2780,40 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 4,
+          "Iron Ingot": 2,
+          "Iron Nail": 8,
+          "Rope": 4
+        },
         "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Rustic Wall Shelf",
+      "url": "https://icarus.fandom.com/wiki/Rustic_Wall_Shelf",
+      "description": "The Rustic Wall Shelf is a decorative shelf for holding small items such as Lamps or small Trophies . It provides a small bonus to Coziness .",
+      "item_type": "craftable",
+      "ingredients": {
+        "Wood": 15,
+        "Iron Nail": 10
+      },
+      "crafted_at": "Decoration Bench",
+      "tier": 2,
+      "stats": {
+        "weight": "1 Kg",
+        "durability": "100"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Wood": 15,
+          "Iron Nail": 10
+        },
+        "crafted_at": "Decoration Bench"
       }
     },
     {
@@ -2042,7 +2821,12 @@
       "url": "https://icarus.fandom.com/wiki/Scoria_Beam",
       "description": "Scoria building material, while not as robust as Scoria Brick Building Pieces is still an effective choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 2,
+        "Scoria": 3,
+        "Leather": 1,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2054,7 +2838,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 2,
+          "Scoria": 3,
+          "Leather": 1,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2062,8 +2851,11 @@
       "name": "Scoria Brick Beam",
       "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Beam",
       "description": "Scoria Brick Beam is a fired scoria building material that is lightweight.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Scoria Brick": 25,
+        "Tree Sap": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2075,7 +2867,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Scoria Brick": 25,
+          "Tree Sap": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2083,8 +2878,11 @@
       "name": "Scoria Brick Floor",
       "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Floor",
       "description": "Scoria Brick Floor is a fired scoria building material that is lightweight.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Scoria Brick": 40,
+        "Tree Sap": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2096,7 +2894,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Scoria Brick": 40,
+          "Tree Sap": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2104,8 +2905,11 @@
       "name": "Scoria Brick Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Halfpieces",
       "description": "Scoria Brick Halfpieces is a fired scoria building material that is lightweight.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Scoria Brick": 20,
+        "Tree Sap": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2117,7 +2921,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Scoria Brick": 20,
+          "Tree Sap": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2125,8 +2932,11 @@
       "name": "Scoria Brick Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Halfpitches",
       "description": "Scoria Brick Halfpitches is a fired scoria building material that is lightweight.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Scoria Brick": 20,
+        "Tree Sap": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2138,7 +2948,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Scoria Brick": 20,
+          "Tree Sap": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2146,8 +2959,11 @@
       "name": "Scoria Brick Ramp",
       "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Ramp",
       "description": "Scoria Brick Ramp is a fired scoria building material that is lightweight.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Scoria Brick": 30,
+        "Tree Sap": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2159,7 +2975,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Scoria Brick": 30,
+          "Tree Sap": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2167,8 +2986,11 @@
       "name": "Scoria Brick Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Roof_Corner",
       "description": "Scoria Brick Roof Corner is a fired scoria building material that is lightweight.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Scoria Brick": 25,
+        "Tree Sap": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2180,7 +3002,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Scoria Brick": 25,
+          "Tree Sap": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2188,8 +3013,11 @@
       "name": "Scoria Brick Wall",
       "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Wall",
       "description": "Scoria Brick Wall is a fired scoria building material that is lightweight.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Scoria Brick": 40,
+        "Tree Sap": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2201,7 +3029,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Scoria Brick": 40,
+          "Tree Sap": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2209,8 +3040,11 @@
       "name": "Scoria Brick Wall Angle",
       "url": "https://icarus.fandom.com/wiki/Scoria_Brick_Wall_Angle",
       "description": "Scoria Brick Wall Angle is a fired scoria building material that is lightweight.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Scoria Brick": 25,
+        "Tree Sap": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2222,7 +3056,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Scoria Brick": 25,
+          "Tree Sap": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2231,7 +3068,12 @@
       "url": "https://icarus.fandom.com/wiki/Scoria_Floor",
       "description": "Scoria building material, while not as robust as Scoria Brick Building Pieces is still an effective choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 6,
+        "Scoria": 10,
+        "Leather": 4,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2243,7 +3085,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 6,
+          "Scoria": 10,
+          "Leather": 4,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2252,7 +3099,12 @@
       "url": "https://icarus.fandom.com/wiki/Scoria_Frame",
       "description": "Scoria building material, while not as robust as Scoria Brick Building Pieces, it is still an effective choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 12,
+        "Scoria": 20,
+        "Leather": 4,
+        "Iron Nail": 12
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2264,7 +3116,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 12,
+          "Scoria": 20,
+          "Leather": 4,
+          "Iron Nail": 12
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2273,7 +3130,12 @@
       "url": "https://icarus.fandom.com/wiki/Scoria_Halfpieces",
       "description": "Scoria building material, while not as robust as Scoria Brick Building Pieces, it is still an effective choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 6,
+        "Scoria": 10,
+        "Leather": 4,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2285,7 +3147,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 6,
+          "Scoria": 10,
+          "Leather": 4,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2294,7 +3161,12 @@
       "url": "https://icarus.fandom.com/wiki/Scoria_Halfpitches",
       "description": "Scoria building material, while not as robust as Scoria Brick Building Pieces, it is still an effective choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 6,
+        "Scoria": 10,
+        "Leather": 4,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2306,7 +3178,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 6,
+          "Scoria": 10,
+          "Leather": 4,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2315,7 +3192,12 @@
       "url": "https://icarus.fandom.com/wiki/Scoria_Ramp",
       "description": "Scoria building material, while not as robust as Scoria Brick Building Pieces, it is still an effective choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 6,
+        "Scoria": 10,
+        "Leather": 4,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2327,7 +3209,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 6,
+          "Scoria": 10,
+          "Leather": 4,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2336,7 +3223,12 @@
       "url": "https://icarus.fandom.com/wiki/Scoria_Roof_Corner",
       "description": "Scoria building material, while not as robust as Scoria Brick Building Pieces, it is still an effective choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 3,
+        "Scoria": 5,
+        "Leather": 2,
+        "Iron Nail": 4
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2348,7 +3240,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 3,
+          "Scoria": 5,
+          "Leather": 2,
+          "Iron Nail": 4
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2357,7 +3254,12 @@
       "url": "https://icarus.fandom.com/wiki/Scoria_Wall",
       "description": "Scoria building material, while not as robust as Scoria Brick Building Pieces, it is still an effective choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 6,
+        "Scoria": 10,
+        "Leather": 4,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2369,7 +3271,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 6,
+          "Scoria": 10,
+          "Leather": 4,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2378,7 +3285,12 @@
       "url": "https://icarus.fandom.com/wiki/Scoria_Wall_Angled",
       "description": "Scoria building material, while not as robust as Scoria Brick Building Pieces, it is still an effective choice.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 3,
+        "Scoria": 5,
+        "Leather": 2,
+        "Iron Nail": 4
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2390,7 +3302,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 3,
+          "Scoria": 5,
+          "Leather": 2,
+          "Iron Nail": 4
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2399,7 +3316,12 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Beam",
       "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 2,
+        "Stone": 6,
+        "Leather": 1,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2411,7 +3333,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 2,
+          "Stone": 6,
+          "Leather": 1,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2419,8 +3346,13 @@
       "name": "Stone Brick Beam",
       "url": "https://icarus.fandom.com/wiki/Stone_Brick_Beam",
       "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 6,
+        "Stone Brick": 20,
+        "Tree Sap": 4,
+        "Steel Screw": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2432,7 +3364,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 6,
+          "Stone Brick": 20,
+          "Tree Sap": 4,
+          "Steel Screw": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2440,8 +3377,13 @@
       "name": "Stone Brick Floor",
       "url": "https://icarus.fandom.com/wiki/Stone_Brick_Floor",
       "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 6,
+        "Stone Brick": 30,
+        "Tree Sap": 6,
+        "Steel Screw": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2453,7 +3395,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 6,
+          "Stone Brick": 30,
+          "Tree Sap": 6,
+          "Steel Screw": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2461,8 +3408,13 @@
       "name": "Stone Brick Floor",
       "url": "https://icarus.fandom.com/wiki/Stone_Brick_Floor_Trapdoor",
       "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 6,
+        "Stone Brick": 30,
+        "Tree Sap": 6,
+        "Steel Screw": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2474,70 +3426,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Unknown"
-      }
-    },
-    {
-      "name": "Stone Brick Ramp",
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Roof_Peak",
-      "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-      "item_type": "weapon",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 0,
-      "stats": {
-        "weight": "2.5 Kg",
-        "durability": "3,500"
-      },
-      "category": "building pieces",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Unknown"
-      }
-    },
-    {
-      "name": "Stone Brick Ramp",
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Stairs",
-      "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-      "item_type": "weapon",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 0,
-      "stats": {
-        "weight": "2.5 Kg",
-        "durability": "3,500"
-      },
-      "category": "building pieces",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Unknown"
-      }
-    },
-    {
-      "name": "Stone Brick Ramp",
-      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Ramp",
-      "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-      "item_type": "weapon",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 0,
-      "stats": {
-        "weight": "2.5 Kg",
-        "durability": "3,500"
-      },
-      "category": "building pieces",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 6,
+          "Stone Brick": 30,
+          "Tree Sap": 6,
+          "Steel Screw": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2545,8 +3439,13 @@
       "name": "Stone Brick Ramp",
       "url": "https://icarus.fandom.com/wiki/Stone_Brick_Roof",
       "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 6,
+        "Stone Brick": 30,
+        "Tree Sap": 6,
+        "Steel Screw": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2558,7 +3457,105 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 6,
+          "Stone Brick": 30,
+          "Tree Sap": 6,
+          "Steel Screw": 6
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Stone Brick Ramp",
+      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Ramp",
+      "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 6,
+        "Stone Brick": 30,
+        "Tree Sap": 6,
+        "Steel Screw": 6
+      },
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "2.5 Kg",
+        "durability": "3,500"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Refined Wood": 6,
+          "Stone Brick": 30,
+          "Tree Sap": 6,
+          "Steel Screw": 6
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Stone Brick Ramp",
+      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Stairs",
+      "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 6,
+        "Stone Brick": 30,
+        "Tree Sap": 6,
+        "Steel Screw": 6
+      },
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "2.5 Kg",
+        "durability": "3,500"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Refined Wood": 6,
+          "Stone Brick": 30,
+          "Tree Sap": 6,
+          "Steel Screw": 6
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Stone Brick Ramp",
+      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Roof_Peak",
+      "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 6,
+        "Stone Brick": 30,
+        "Tree Sap": 6,
+        "Steel Screw": 6
+      },
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "2.5 Kg",
+        "durability": "3,500"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Refined Wood": 6,
+          "Stone Brick": 30,
+          "Tree Sap": 6,
+          "Steel Screw": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2566,8 +3563,13 @@
       "name": "Stone Brick Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Stone_Brick_Roof_Corner",
       "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 3,
+        "Stone Brick": 15,
+        "Tree Sap": 3,
+        "Steel Screw": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2579,7 +3581,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 3,
+          "Stone Brick": 15,
+          "Tree Sap": 3,
+          "Steel Screw": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2587,8 +3594,13 @@
       "name": "Stone Brick Wall",
       "url": "https://icarus.fandom.com/wiki/Stone_Brick_Wall",
       "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 6,
+        "Stone Brick": 30,
+        "Tree Sap": 6,
+        "Steel Screw": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2600,7 +3612,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 6,
+          "Stone Brick": 30,
+          "Tree Sap": 6,
+          "Steel Screw": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2608,8 +3625,13 @@
       "name": "Stone Brick Wall Angle",
       "url": "https://icarus.fandom.com/wiki/Stone_Brick_Wall_Angle",
       "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 6,
+        "Stone Brick": 15,
+        "Tree Sap": 3,
+        "Steel Screw": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2621,7 +3643,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 6,
+          "Stone Brick": 15,
+          "Tree Sap": 3,
+          "Steel Screw": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2630,19 +3657,29 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Floor",
       "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 6,
+        "Stone": 20,
+        "Leather": 4,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
-        "weight": "<unkown>",
-        "durability": "<unkown>"
+        "weight": "5.0 kg",
+        "durability": "2,500"
       },
       "category": "building pieces",
       "harvested_from": [],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 6,
+          "Stone": 20,
+          "Leather": 4,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2651,7 +3688,12 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Floor_Trapdoor",
       "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 6,
+        "Stone": 20,
+        "Leather": 4,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2663,7 +3705,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 6,
+          "Stone": 20,
+          "Leather": 4,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2672,7 +3719,12 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Ramp",
       "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 6,
+        "Stone": 20,
+        "Leather": 4,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2684,7 +3736,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 6,
+          "Stone": 20,
+          "Leather": 4,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2693,7 +3750,12 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Roof",
       "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 6,
+        "Stone": 20,
+        "Leather": 4,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2705,7 +3767,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 6,
+          "Stone": 20,
+          "Leather": 4,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2714,7 +3781,12 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Roof_Corner",
       "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 3,
+        "Stone": 10,
+        "Leather": 2,
+        "Iron Nail": 4
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2726,7 +3798,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 3,
+          "Stone": 10,
+          "Leather": 2,
+          "Iron Nail": 4
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2735,7 +3812,12 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Stairs",
       "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 6,
+        "Stone": 20,
+        "Leather": 4,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2747,7 +3829,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 6,
+          "Stone": 20,
+          "Leather": 4,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2756,7 +3843,12 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Wall",
       "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 6,
+        "Stone": 20,
+        "Leather": 4,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2768,7 +3860,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 6,
+          "Stone": 20,
+          "Leather": 4,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2777,7 +3874,12 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Wall_Angled",
       "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 3,
+        "Stone": 10,
+        "Leather": 2,
+        "Iron Nail": 4
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2789,7 +3891,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 3,
+          "Stone": 10,
+          "Leather": 2,
+          "Iron Nail": 4
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2797,8 +3904,11 @@
       "name": "Thatch Beam",
       "url": "https://icarus.fandom.com/wiki/Thatch_Beam",
       "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. For different orientations, hold R while holding a Thatch Beam (more item actions can be seen bottom right).",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 12,
+        "Sticks": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2810,7 +3920,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 12,
+          "Sticks": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2818,8 +3931,11 @@
       "name": "Thatch Door",
       "url": "https://icarus.fandom.com/wiki/Thatch_Door",
       "description": "Thatch building pieces are very light-weight and are best used for emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. Can be attached to door frames (hold R while holding a Wall Building Piece and select the door frame variant from the radial menu).",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 10,
+        "Sticks": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2831,28 +3947,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Unknown"
-      }
-    },
-    {
-      "name": "Thatch Floor",
-      "url": "https://icarus.fandom.com/wiki/Thatch_Floor_Trapdoor",
-      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. For the trapdoor floor variant, hold R while holding a Thatch Floor and select the Trapdoor variant from the radial wheel (more item actions can be seen bottom right).",
-      "item_type": "weapon",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 0,
-      "stats": {
-        "weight": "0.1 kg",
-        "durability": "500"
-      },
-      "category": "thatch building base set",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 10,
+          "Sticks": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2860,8 +3958,11 @@
       "name": "Thatch Floor",
       "url": "https://icarus.fandom.com/wiki/Thatch_Floor",
       "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. For the trapdoor floor variant, hold R while holding a Thatch Floor and select the Trapdoor variant from the radial wheel (more item actions can be seen bottom right).",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 20,
+        "Sticks": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2873,7 +3974,37 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 20,
+          "Sticks": 3
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Thatch Floor",
+      "url": "https://icarus.fandom.com/wiki/Thatch_Floor_Trapdoor",
+      "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. For the trapdoor floor variant, hold R while holding a Thatch Floor and select the Trapdoor variant from the radial wheel (more item actions can be seen bottom right).",
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 20,
+        "Sticks": 3
+      },
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "0.1 kg",
+        "durability": "500"
+      },
+      "category": "thatch building base set",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Fiber": 20,
+          "Sticks": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2881,8 +4012,11 @@
       "name": "Thatch Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Thatch_Halfpieces",
       "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. For different variants, hold R while holding a Thatch Halfpiece (more item actions can be seen bottom right).",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 20,
+        "Sticks": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2894,7 +4028,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 20,
+          "Sticks": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2902,8 +4039,11 @@
       "name": "Thatch Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Thatch_Halfpitches",
       "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. For different variants, hold R while holding Thatch Halfpitches (more item actions can be seen bottom right).",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 20,
+        "Sticks": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2915,7 +4055,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 20,
+          "Sticks": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2923,8 +4066,11 @@
       "name": "Thatch Ladder",
       "url": "https://icarus.fandom.com/wiki/Thatch_Ladder",
       "description": "Thatch building pieces are very light-weight and best used as temporary shelters while away from any 'Main Base' the prospectors may have established. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. Thatch ladders cannot be snapped to trapdoor floors.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 6,
+        "Sticks": 10
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2936,16 +4082,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 6,
+          "Sticks": 10
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Thatch Railing",
       "url": "https://icarus.fandom.com/wiki/Thatch_Railing",
-      "description": "The Thatch Railing is part of the Thatch Building Trim Set , which is learned in the Tier 1  Tech Tree after unlocking the Thatch Building Base Set .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "The Thatch Railing is part of the Thatch Building Trim Set , which is learned in the Tier 1 Tech Tree after unlocking the Thatch Building Base Set .",
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 8,
+        "Sticks": 2
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2957,7 +4109,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 8,
+          "Sticks": 2
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2965,8 +4120,11 @@
       "name": "Thatch Roof",
       "url": "https://icarus.fandom.com/wiki/Thatch_Roof",
       "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. For the Ramp/Stairs variant, hold R while holding a Thatch Roof (more item actions can be seen bottom right).",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 20,
+        "Sticks": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2978,7 +4136,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 20,
+          "Sticks": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2986,8 +4147,11 @@
       "name": "Thatch Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Thatch_Roof_Corner",
       "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. For different variants, hold R while holding a Thatch Roof Corner (more item actions can be seen bottom right).",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 10,
+        "Sticks": 2
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2999,7 +4163,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 10,
+          "Sticks": 2
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3007,8 +4174,11 @@
       "name": "Thatch Trapdoor",
       "url": "https://icarus.fandom.com/wiki/Thatch_Trapdoor",
       "description": "Thatch building pieces are very light-weight and are best suited as emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. Attaches to floors with trapdoor holes (hold R while holding a floor building piece and select the Trapdoor variant from the radial wheel).",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 10,
+        "Sticks": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3020,7 +4190,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 10,
+          "Sticks": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3028,8 +4201,11 @@
       "name": "Thatch Wall",
       "url": "https://icarus.fandom.com/wiki/Thatch_Wall",
       "description": "Thatch building pieces are very light-weight and are best used for emergency shelters, or as scaffolding inside caves. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. For window/doorway variants, hold R while holding a Thatch Wall (more item actions can be seen bottom right).",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 20,
+        "Sticks": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3041,7 +4217,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 20,
+          "Sticks": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3049,8 +4228,11 @@
       "name": "Thatch Wall Angled",
       "url": "https://icarus.fandom.com/wiki/Thatch_Wall_Angled",
       "description": "Thatch building pieces are very light-weight and are best used for emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. For different variants, hold R while holding a Thatch Wall Angled (more item actions can be seen bottom right).",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 10,
+        "Sticks": 2
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3062,7 +4244,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 10,
+          "Sticks": 2
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3070,8 +4255,11 @@
       "name": "Thatch Window",
       "url": "https://icarus.fandom.com/wiki/Thatch_Window",
       "description": "Thatch building pieces are very light-weight and are best used for emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. Attaches to window frames (hold R while holding a wall building piece and select the Window Frame variant from the radial wheel).",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 10,
+        "Sticks": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3083,7 +4271,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 10,
+          "Sticks": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3092,28 +4283,41 @@
       "url": "https://icarus.fandom.com/wiki/Wall_Torch",
       "description": "Wall lighting for a prospector's base. Provides limited heat. Will not be damaged by storms if placed outside.",
       "item_type": "craftable",
-      "ingredients": {},
-      "crafted_at": "Crafting Bench",
+      "ingredients": {
+        "Wood": 4,
+        "Leather": 8,
+        "Sulfur": 8,
+        "Iron Ingot": 8
+      },
+      "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator",
       "tier": 2,
       "stats": {
-        "weight": "<unkown>",
-        "durability": "<unkown>"
+        "weight": "0.5 Kg",
+        "durability": "250"
       },
       "category": "deployables",
       "harvested_from": [],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Crafting Bench"
+        "ingredients": {
+          "Wood": 4,
+          "Leather": 8,
+          "Sulfur": 8,
+          "Iron Ingot": 8
+        },
+        "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator"
       }
     },
     {
       "name": "Wood Beam",
       "url": "https://icarus.fandom.com/wiki/Wood_Beam",
       "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection to Deployables and Storage containers. Wood beams require another structure for adjacent 'snapping' and seem to apply 'well stabilized' to a larger area than the Thatch Beam .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 4,
+        "Wood": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3125,7 +4329,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 4,
+          "Wood": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3133,8 +4340,11 @@
       "name": "Wood Door",
       "url": "https://icarus.fandom.com/wiki/Wood_Door",
       "description": "Wood Door is crafted in the Character Crafting with the following resources:",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 8,
+        "Wood": 10
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3146,28 +4356,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Unknown"
-      }
-    },
-    {
-      "name": "Wood Floor",
-      "url": "https://icarus.fandom.com/wiki/Wood_Floor",
-      "description": "Wood Floor is crafted in the Character Crafting with the following resources:",
-      "item_type": "weapon",
-      "ingredients": {},
-      "crafted_at": "Unknown",
-      "tier": 0,
-      "stats": {
-        "weight": "0.5 kg",
-        "durability": "1,000"
-      },
-      "category": "building pieces",
-      "harvested_from": [],
-      "research_cost": null,
-      "purchase_cost": null,
-      "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 8,
+          "Wood": 10
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3175,8 +4367,11 @@
       "name": "Wood Floor",
       "url": "https://icarus.fandom.com/wiki/Wood_Floor_Trapdoor",
       "description": "Wood Floor is crafted in the Character Crafting with the following resources:",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 12,
+        "Wood": 20
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3188,16 +4383,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 12,
+          "Wood": 20
+        },
         "crafted_at": "Unknown"
       }
     },
     {
-      "name": "Wood Roof",
-      "url": "https://icarus.fandom.com/wiki/Wood_Ramp",
-      "description": "Wood Roof is crafted in the Character Crafting with the following resources:",
-      "item_type": "weapon",
-      "ingredients": {},
+      "name": "Wood Floor",
+      "url": "https://icarus.fandom.com/wiki/Wood_Floor",
+      "description": "Wood Floor is crafted in the Character Crafting with the following resources:",
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 12,
+        "Wood": 20
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3209,7 +4410,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 12,
+          "Wood": 20
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3217,8 +4421,11 @@
       "name": "Wood Roof",
       "url": "https://icarus.fandom.com/wiki/Wood_Roof",
       "description": "Wood Roof is crafted in the Character Crafting with the following resources:",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 12,
+        "Wood": 20
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3230,7 +4437,37 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 12,
+          "Wood": 20
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Wood Roof",
+      "url": "https://icarus.fandom.com/wiki/Wood_Ramp",
+      "description": "Wood Roof is crafted in the Character Crafting with the following resources:",
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 12,
+        "Wood": 20
+      },
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "0.5 kg",
+        "durability": "1,000"
+      },
+      "category": "building pieces",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Fiber": 12,
+          "Wood": 20
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3238,8 +4475,11 @@
       "name": "Wood Roof",
       "url": "https://icarus.fandom.com/wiki/Wood_Stairs",
       "description": "Wood Roof is crafted in the Character Crafting with the following resources:",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 12,
+        "Wood": 20
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3251,7 +4491,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 12,
+          "Wood": 20
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3259,8 +4502,11 @@
       "name": "Wood Roof Corner",
       "url": "https://icarus.fandom.com/wiki/Wood_Roof_Corner",
       "description": "Wood Roof Corner is crafted in the Character Crafting with the following resources:",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 6,
+        "Wood": 10
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3272,7 +4518,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 6,
+          "Wood": 10
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3280,8 +4529,11 @@
       "name": "Wood Trapdoor",
       "url": "https://icarus.fandom.com/wiki/Wood_Trapdoor",
       "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offer good protection to Deployables and Storage containers. Attaches to floors with trapdoor holes (hold R while holding a floor piece and select the Trapdoor variant from the radial wheel).",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 4,
+        "Wood": 10
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3293,7 +4545,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 4,
+          "Wood": 10
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3301,8 +4556,11 @@
       "name": "Wood Wall",
       "url": "https://icarus.fandom.com/wiki/Wood_Wall",
       "description": "Wood Wall is crafted in the Character Crafting with the following resources:",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 12,
+        "Wood": 20
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3314,7 +4572,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 12,
+          "Wood": 20
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3322,8 +4583,11 @@
       "name": "Wood Wall Angled",
       "url": "https://icarus.fandom.com/wiki/Wood_Wall_Angled",
       "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection to Deployables and Storage containers. Wood wall angles may be snapped into existing floors or walls such as Wood Wall . Holding 'R' while placing the angled wood wall for additional placement styles or directionality.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 6,
+        "Wood": 10
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3335,7 +4599,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 6,
+          "Wood": 10
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -3344,7 +4611,11 @@
       "url": "https://icarus.fandom.com/wiki/Wood_Wall_Fortification",
       "description": "The Wood Wall Fortification serves as large wall that can attach Wood Spikes Fortifications to fend off the predators of Icarus. Similar to Medium Wood Hedgehogs , the Wood Wall Fortification does not take damage during storms.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 50,
+        "Iron Nail": 18,
+        "Rope": 12
+      },
       "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
@@ -3356,7 +4627,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 50,
+          "Iron Nail": 18,
+          "Rope": 12
+        },
         "crafted_at": "Crafting Bench"
       }
     },
@@ -3364,8 +4639,11 @@
       "name": "Wood Window",
       "url": "https://icarus.fandom.com/wiki/Wood_Window",
       "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offer good protection to Deployables and Storage containers. Wood Windows may be snapped into walls such as Wood Wall that have been placed in 'window' configuration. Holding 'R' while placing a Wood Wall , for example, allows for additional placement styles, such as the window frame.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 8,
+        "Wood": 10
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -3377,7 +4655,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 8,
+          "Wood": 10
+        },
         "crafted_at": "Unknown"
       }
     }

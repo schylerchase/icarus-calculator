@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Industrial_Round_Table",
   "description": "A minimalist Industrial Round Table",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 40,
+    "Steel Screw": 10
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 40,
+      "Steel Screw": 10
+    },
     "crafted_at": "Decoration Bench"
   }
 }

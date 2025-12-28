@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Pastry",
   "description": "Pastry is a component in making food, such as Crumbed Saltwater Fillet and Meat Pie .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Animal Fat": 1,
+    "Flour": 1
+  },
   "crafted_at": "Kitchen Bench Marble Kitchen Bench",
   "tier": 3,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Animal Fat": 1,
+      "Flour": 1
+    },
     "crafted_at": "Kitchen Bench Marble Kitchen Bench"
   }
 }

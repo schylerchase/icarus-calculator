@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Art_Deco_2-Seater_Couch",
   "description": "The Art Deco 2-Seater Couch is an gilded item of significant worth.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Gold": 4,
+    "Platinum Weave": 4
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Gold": 4,
+      "Platinum Weave": 4
+    },
     "crafted_at": "Decoration Bench"
   }
 }

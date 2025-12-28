@@ -1,9 +1,13 @@
 {
   "name": "Titanium Spear",
   "url": "https://icarus.fandom.com/wiki/Titanium_Spear",
-  "description": "The Titanium Spear is the first Spear available to prospectors once they reach Tier 4  and serves as an, albeit expensive, upgrade to its Tier 3  counterparts. Unlike the Titanium Javelin , the Titanium Spear cannot be thrown.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "description": "The Titanium Spear is the first Spear available to prospectors once they reach Tier 4 and serves as an, albeit expensive, upgrade to its Tier 3 counterparts. Unlike the Titanium Javelin , the Titanium Spear cannot be thrown.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Refined Wood": 2,
+    "Cured Leather": 1,
+    "Titanium Ingot": 24
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {
@@ -16,7 +20,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 2,
+      "Cured Leather": 1,
+      "Titanium Ingot": 24
+    },
     "crafted_at": "Unknown"
   }
 }

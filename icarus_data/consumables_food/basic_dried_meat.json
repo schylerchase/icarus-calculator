@@ -2,8 +2,10 @@
   "name": "Basic Dried Meat",
   "url": "https://icarus.fandom.com/wiki/Basic_Dried_Meat",
   "description": "Basic Dried Meat is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Raw Meat": 1
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {},
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Raw Meat": 1
+    },
     "crafted_at": "Unknown"
   }
 }

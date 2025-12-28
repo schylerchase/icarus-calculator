@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Art_Deco_Wall_Light",
   "description": "The Art Deco Wall Light is an gilded item of significant worth.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Gold": 2,
+    "Glass": 2,
+    "Gold Wire": 4,
+    "Stone": 4
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Gold": 2,
+      "Glass": 2,
+      "Gold Wire": 4,
+      "Stone": 4
+    },
     "crafted_at": "Decoration Bench"
   }
 }

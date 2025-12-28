@@ -1,9 +1,15 @@
 {
   "name": "Exotic Harvester",
   "url": "https://icarus.fandom.com/wiki/Exotic_Harvester",
-  "description": "The Exotic Harvester is used to extract Volatile Raw Exotics from Volatile Raw Exotic deposits. Requires 1,500 k Wh to operate.",
+  "description": "The Exotic Harvester is used to extract Volatile Raw Exotics from Volatile Raw Exotic deposits. Requires 1,500 kWh to operate.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Platinum Ingot": 10,
+    "Electronics": 3,
+    "Copper Wire": 50,
+    "Composites": 3,
+    "Platinum Sheath": 30
+  },
   "crafted_at": "Workshop",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Platinum Ingot": 10,
+      "Electronics": 3,
+      "Copper Wire": 50,
+      "Composites": 3,
+      "Platinum Sheath": 30
+    },
     "crafted_at": "Workshop"
   }
 }

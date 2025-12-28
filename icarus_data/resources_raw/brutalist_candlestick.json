@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Brutalist_Candlestick",
   "description": "The Brutalist Candlestick is mode from concrete and either animal fat or beeswax. There are two varieties by selecting R. Fuel is either beeswax or animal fat.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Concrete Mix": 1,
+    "Beeswax": 2
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Concrete Mix": 1,
+      "Beeswax": 2
+    },
     "crafted_at": "Decoration Bench"
   }
 }

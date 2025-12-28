@@ -1,9 +1,12 @@
 {
   "name": "Wood Bow",
   "url": "https://icarus.fandom.com/wiki/Wood_Bow",
-  "description": "The Wood Bow is the first bow a player can get access to. It can be unlocked via the Tech Tree in Tier 1  with no prerequisite tech required.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "description": "The Wood Bow is the first bow a player can get access to. It can be unlocked via the Tech Tree in Tier 1 with no prerequisite tech required.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 30,
+    "Stick": 24
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 30,
+      "Stick": 24
+    },
     "crafted_at": "Unknown"
   }
 }

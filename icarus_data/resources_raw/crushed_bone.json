@@ -2,8 +2,10 @@
   "name": "Crushed Bone",
   "url": "https://icarus.fandom.com/wiki/Crushed_Bone",
   "description": "Useful alternate resource for making Epoxy .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Bone": 2
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {},
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Bone": 2
+    },
     "crafted_at": "Unknown"
   }
 }

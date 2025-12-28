@@ -2,8 +2,10 @@
   "name": "Basic Bandage",
   "url": "https://icarus.fandom.com/wiki/Basic_Bandage",
   "description": "Basic Bandage is used to heal Wound and Exotic Wound Status Effects .",
-  "item_type": "orbital",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 40
+  },
   "crafted_at": "Workshop",
   "tier": 1,
   "stats": {},
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 40
+    },
     "crafted_at": "Workshop"
   }
 }

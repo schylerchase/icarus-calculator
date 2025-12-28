@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Masonry_Bench",
   "description": "The Masonry Bench enables the construction of Stone Building Pieces and Scoria Building Pieces , but only once the prospector researches the blueprint sets for those building pieces.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 80,
+    "Leather": 12,
+    "Iron Nail": 120,
+    "Rope": 12
+  },
   "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 80,
+      "Leather": 12,
+      "Iron Nail": 120,
+      "Rope": 12
+    },
     "crafted_at": "Crafting Bench"
   }
 }

@@ -1,0 +1,28 @@
+{
+  "name": "Tundra",
+  "url": "https://icarus.fandom.com/wiki/Tundra",
+  "description": "The tundra biome is exclusive to the Prometheus map location. A colder climate with clear skies as it transitions to a more arctic area, the tundra biome has frequent dustings of snow that readily melts. The Snow Leopard , Snow Wolf and Blueback roam these biomes where fiber and trees are still available, and the rivers have not frozen.",
+  "item_type": "craftable",
+  "ingredients": {
+    "1Description": 1,
+    "2Gameplay": 2,
+    "3Regions": 3,
+    "4Weather": 4
+  },
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "1Description": 1,
+      "2Gameplay": 2,
+      "3Regions": 3,
+      "4Weather": 4
+    },
+    "crafted_at": "Unknown"
+  }
+}

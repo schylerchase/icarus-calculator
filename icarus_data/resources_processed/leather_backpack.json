@@ -1,10 +1,14 @@
 {
   "name": "Leather Backpack",
   "url": "https://icarus.fandom.com/wiki/Leather_Backpack",
-  "description": "The Leather Backpack is a must need when mining ores, or taking long trips across Icarus, fit everything you need inside for survival!",
+  "description": "The Leather Backpack is an inexpensive craftable backpack that adds weight carrying capacity, reduces the weight of carried ores and provides six inventory slots. It provides a minimal backpack for the early game to haul ores and other goods across Icarus.",
   "item_type": "craftable",
-  "ingredients": {},
-  "crafted_at": "Textiles Bench",
+  "ingredients": {
+    "Rope": 8,
+    "Leather": 20,
+    "Fiber": 10
+  },
+  "crafted_at": "Lagos Unit dispatcher on Ceres Station",
   "tier": 2,
   "stats": {
     "weight": "0.5Kg",
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Textiles Bench"
+    "ingredients": {
+      "Rope": 8,
+      "Leather": 20,
+      "Fiber": 10
+    },
+    "crafted_at": "Lagos Unit dispatcher on Ceres Station"
   }
 }

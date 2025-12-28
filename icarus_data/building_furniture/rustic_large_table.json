@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Rustic_Large_Table",
   "description": "The Rustic Large Table is a simple long wooden table.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 80,
+    "Stick": 60,
+    "Iron Nail": 20
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 80,
+      "Stick": 60,
+      "Iron Nail": 20
+    },
     "crafted_at": "Decoration Bench"
   }
 }

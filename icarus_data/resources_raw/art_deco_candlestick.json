@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Art_Deco_Candlestick",
   "description": "The Art Deco Candlestick is an gilded item of significant worth. It can be built with either beeswax or animal fat and takes either as fuel inputs.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Gold": 6,
+    "Beeswax": 4
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Gold": 6,
+      "Beeswax": 4
+    },
     "crafted_at": "Decoration Bench"
   }
 }

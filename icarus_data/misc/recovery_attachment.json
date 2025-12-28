@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Recovery_Attachment",
   "description": "The Recovery Attachment is an armor alteration that reduces the duration of the effects of parasites, poison, bacterial afflications and physical trauma.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Composites": 2,
+    "Epoxy": 4,
+    "Rope": 4
+  },
   "crafted_at": "Advanced Alteration Bench",
   "tier": 4,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Composites": 2,
+      "Epoxy": 4,
+      "Rope": 4
+    },
     "crafted_at": "Advanced Alteration Bench"
   }
 }

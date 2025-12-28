@@ -1,0 +1,18 @@
+{
+  "name": "Sandworm Vestige",
+  "url": "https://icarus.fandom.com/wiki/Sandworm_Vestige",
+  "description": "A Sandworm Vestige is the remains of a Sandworm and is used for crafting decorative items and Trophies that boost Coziness .",
+  "item_type": "weapon",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "animal resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

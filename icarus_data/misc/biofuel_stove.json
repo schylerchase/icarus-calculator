@@ -4,10 +4,11 @@
   "description": "The Biofuel Stove is a mid- to late-game technology that expands the recipes available compared to the Potbelly Stove . It requires Biofuel to run and must be snapped to a side of the Kitchen Bench .",
   "item_type": "craftable",
   "ingredients": {
-    "Campfire/Firepit/FireplacePotbelly StoveBiofuel StoveElectric Stove": 30,
-    "Potbelly StoveBiofuel StoveElectric Stove": 2,
-    "Biofuel StoveElectric Stove": 5,
-    "Fried Chickenx": 4
+    "Refined Wood": 30,
+    "Epoxy": 20,
+    "Copper Nail": 4,
+    "Steel Ingot": 24,
+    "Steel Screw": 8
   },
   "crafted_at": "Machining Bench",
   "tier": 3,
@@ -21,10 +22,11 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {
-      "Campfire/Firepit/FireplacePotbelly StoveBiofuel StoveElectric Stove": 30,
-      "Potbelly StoveBiofuel StoveElectric Stove": 2,
-      "Biofuel StoveElectric Stove": 5,
-      "Fried Chickenx": 4
+      "Refined Wood": 30,
+      "Epoxy": 20,
+      "Copper Nail": 4,
+      "Steel Ingot": 24,
+      "Steel Screw": 8
     },
     "crafted_at": "Machining Bench"
   }

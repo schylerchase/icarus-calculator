@@ -4,7 +4,7 @@
   "description": "Tree Sap is used in crafting of items such as Epoxy , and Concrete Mix , making this early-game resource very important throughout all aspects of crafting. Tree Sap can also by found while harvesting some plants, like the palms of the Desert .",
   "item_type": "craftable",
   "ingredients": {
-    "Wood": 2
+    "Wood": 1
   },
   "crafted_at": "Unknown",
   "tier": 0,
@@ -15,7 +15,7 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {
-      "Wood": 2
+      "Wood": 1
     },
     "crafted_at": "Unknown"
   }

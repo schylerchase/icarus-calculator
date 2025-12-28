@@ -2,8 +2,11 @@
   "name": "Fried Chicken",
   "url": "https://icarus.fandom.com/wiki/Fried_Chicken",
   "description": "Fried Chicken is a long-lasting Food with a unique Status Effect , which can be stacked with other food buffs.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Vegetable Oil": 1,
+    "Raw Chicken": 1
+  },
   "crafted_at": "Unknown",
   "tier": 3,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Vegetable Oil": 1,
+      "Raw Chicken": 1
+    },
     "crafted_at": "Unknown"
   }
 }

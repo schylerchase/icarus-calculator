@@ -1,0 +1,29 @@
+{
+  "name": "Stone Brick Fireplace",
+  "url": "https://icarus.fandom.com/wiki/Stone_Brick_Fireplace",
+  "description": "The Stone Brick Fireplace is deployable Stone Brick version of the Fireplace that provides a source of heat, a source of light , Coziness and a means to cook Food indoors at an accelerated pace.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Stone Brick": 100,
+    "Refined Wood": 30,
+    "Tree Sap": 20
+  },
+  "crafted_at": "Advanced Masonry Bench Electric Masonry Bench",
+  "tier": 3,
+  "stats": {
+    "weight": "25 kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Stone Brick": 100,
+      "Refined Wood": 30,
+      "Tree Sap": 20
+    },
+    "crafted_at": "Advanced Masonry Bench Electric Masonry Bench"
+  }
+}

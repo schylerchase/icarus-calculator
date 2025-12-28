@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Makeshift_Landmine",
   "description": "Prospectors on mounts and mounts themselves do not trigger Landmines. Prospectors, however, can trigger and detonate Landmines with a Yellow/Red indicator. All Landmines can be picked up and disarmed, regardless of their current state. Press and hold X to pickup and disarm Landmines. Note: once triggered, Makeshift Landmines will detonate if a Prospector/animal (excluding mounts) is nearby. They can be picked up and disarmed, but Prospectors run the risk of detonating the Landmine.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Composites": 2,
+    "Electronics": 1,
+    "Copper Nail": 12,
+    "Gunpowder": 4,
+    "Volatile Substance": 1
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Composites": 2,
+      "Electronics": 1,
+      "Copper Nail": 12,
+      "Gunpowder": 4,
+      "Volatile Substance": 1
+    },
     "crafted_at": "Fabricator"
   }
 }

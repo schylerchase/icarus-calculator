@@ -2,8 +2,13 @@
   "name": "Health Recovery Tonic",
   "url": "https://icarus.fandom.com/wiki/Health_Recovery_Tonic",
   "description": "",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Lily": 3,
+    "Flour": 1,
+    "Yeast": 1,
+    "Tree Sap": 1
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {},
@@ -12,7 +17,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Lily": 3,
+      "Flour": 1,
+      "Yeast": 1,
+      "Tree Sap": 1
+    },
     "crafted_at": "Unknown"
   }
 }

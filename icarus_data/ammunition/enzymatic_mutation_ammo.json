@@ -1,0 +1,30 @@
+{
+  "name": "Enzymatic Mutation Ammo",
+  "url": "https://icarus.fandom.com/wiki/Enzymatic_Mutation_Ammo",
+  "description": "Enzymatic Mutation Ammo is a multi-firearm ammunition crafted and used in the mission Hypothesis as part of the Great Hunts Campaigns Rimetusk campaign.",
+  "item_type": "harvestable",
+  "ingredients": {
+    "Ammo Casing": 5,
+    "Synthetic Enzymes": 5,
+    "Volatile Substance": 1,
+    "Health Recovery Elixir": 2
+  },
+  "crafted_at": "Machining Bench Fabricator",
+  "tier": 3,
+  "stats": {
+    "weight": "0.01 kg"
+  },
+  "category": "ammunition",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Ammo Casing": 5,
+      "Synthetic Enzymes": 5,
+      "Volatile Substance": 1,
+      "Health Recovery Elixir": 2
+    },
+    "crafted_at": "Machining Bench Fabricator"
+  }
+}

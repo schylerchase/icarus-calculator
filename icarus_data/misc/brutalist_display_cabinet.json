@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Brutalist_Display_Cabinet",
   "description": "The Brutalist Display Cabinet is made from concrete and iron, and serves as decorative shelving and a display cabinet. It has 25 inventory slots for Storage and provides a small bonus to Coziness .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Concrete Mix": 15,
+    "Iron Ingot": 8
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Concrete Mix": 15,
+      "Iron Ingot": 8
+    },
     "crafted_at": "Decoration Bench"
   }
 }

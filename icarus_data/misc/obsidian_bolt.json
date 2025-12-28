@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Obsidian_Bolt",
   "description": "The Obsidian Bolt is ammunition used with a Crossbow . Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 5,
+    "Shaped Obsidian": 1
+  },
   "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 5,
+      "Shaped Obsidian": 1
+    },
     "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

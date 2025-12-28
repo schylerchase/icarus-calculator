@@ -1,0 +1,29 @@
+{
+  "name": "Battered Test Tubes",
+  "url": "https://icarus.fandom.com/wiki/Battered_Test_Tubes",
+  "description": "The Battered Test Tubes is a decorative tray of laboratory test tubes. It can be placed on any surface, such as the Battered Lab Desk . It serves as decoration and is not otherwise used for crafting.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Steel Ingot": 2,
+    "Glass": 10,
+    "Epoxy": 16
+  },
+  "crafted_at": "Chemistry Bench",
+  "tier": 2,
+  "stats": {
+    "weight": "1 Kg",
+    "durability": "250"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Steel Ingot": 2,
+      "Glass": 10,
+      "Epoxy": 16
+    },
+    "crafted_at": "Chemistry Bench"
+  }
+}

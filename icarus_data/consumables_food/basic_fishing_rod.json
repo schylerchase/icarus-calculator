@@ -2,8 +2,11 @@
   "name": "Basic Fishing Rod",
   "url": "https://icarus.fandom.com/wiki/Basic_Fishing_Rod",
   "description": "One approach to catching fish is by using a Fishing Rod. Though a lure is not required, attaching one can increase the quality, length, and weight of the caught fish. Additionally, certain lures can increase the odds of catching fish of a certain rarity or increase the size of the capture area. For a list of available lures, view this page .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Stick": 25,
+    "Fiber": 10
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Stick": 25,
+      "Fiber": 10
+    },
     "crafted_at": "Unknown"
   }
 }

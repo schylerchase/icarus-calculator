@@ -1,9 +1,16 @@
 {
   "name": "Miasmic Pickaxe",
   "url": "https://icarus.fandom.com/wiki/Miasmic_Pickaxe",
-  "description": "Miasmic Pickaxe is a Tier 4  Pickaxe made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+  "description": "Miasmic Pickaxe is a Tier 4 Pickaxe made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Carbon Fiber": 4,
+    "Steel Screw": 8,
+    "Epoxy": 4,
+    "Titanium Ingot": 6,
+    "Distilled Miasmic Coating": 6,
+    "Refined Wood": 10
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {
@@ -18,7 +25,14 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Carbon Fiber": 4,
+      "Steel Screw": 8,
+      "Epoxy": 4,
+      "Titanium Ingot": 6,
+      "Distilled Miasmic Coating": 6,
+      "Refined Wood": 10
+    },
     "crafted_at": "Unknown"
   }
 }

@@ -4,7 +4,7 @@
   "description": "It is worth noting that this Oxygen Container takes 65 Oxite to fill at a Oxite Dissolver , and will last significantly longer than an Oxygen Bladder , making it one of the most valuable early game purchases in the Workshop . Will remain filled between Prospects. It holds 6500 oxygen units making it useful for stockpile missions that require oxygen delivery.",
   "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Workshop",
+  "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
     "weight": "0.1 kg"
@@ -15,6 +15,6 @@
   "purchase_cost": 6500,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop"
+    "crafted_at": "Unknown"
   }
 }

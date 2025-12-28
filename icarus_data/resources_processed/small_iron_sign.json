@@ -1,0 +1,29 @@
+{
+  "name": "Small Iron Sign",
+  "url": "https://icarus.fandom.com/wiki/Small_Iron_Sign",
+  "description": "The Small Iron Sign is a deployable sturdy metal sign post.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Iron Ingot": 8,
+    "Epoxy": 2,
+    "Copper Nail": 4
+  },
+  "crafted_at": "Machining Bench Fabricator",
+  "tier": 3,
+  "stats": {
+    "weight": "1.0 Kg",
+    "durability": "250"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 8,
+      "Epoxy": 2,
+      "Copper Nail": 4
+    },
+    "crafted_at": "Machining Bench Fabricator"
+  }
+}

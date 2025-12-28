@@ -1,13 +1,17 @@
 {
   "category": "Consumables Medicine",
-  "count": 25,
+  "count": 26,
   "items": [
     {
       "name": "Anti-Parasitic Paste",
       "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Paste",
-      "description": "Anti-Parasitic Paste is one of the multiple, easily overlooked recipes available in the Tier 1  tech tree. Reduces the duration of the Parasites debuff upon consumption.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Anti-Parasitic Paste is one of the multiple, easily overlooked recipes available in the Tier 1 tech tree. Reduces the duration of the Parasites debuff upon consumption.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Reed Flower": 1,
+        "Sulfur": 1,
+        "Charcoal": 1
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {},
@@ -16,7 +20,37 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Reed Flower": 1,
+          "Sulfur": 1,
+          "Charcoal": 1
+        },
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Anti-Poison Paste",
+      "url": "https://icarus.fandom.com/wiki/Anti-Poison_Paste",
+      "description": "Anti-Poison Paste is one of the multiple, easily overlooked recipes available in the tier 1 tech tree. Reduces the duration of Poison from critters like the Venomous Fish or the Caveworm .",
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 1,
+        "Spoiled Meat": 2,
+        "Charcoal": 1
+      },
+      "crafted_at": "Unknown",
+      "tier": 1,
+      "stats": {},
+      "category": "medicine",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 1,
+      "base_recipe": {
+        "ingredients": {
+          "Fiber": 1,
+          "Spoiled Meat": 2,
+          "Charcoal": 1
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -24,8 +58,12 @@
       "name": "Antibiotic Paste",
       "url": "https://icarus.fandom.com/wiki/Antibiotic_Paste",
       "description": "Antibiotic Paste reduces the duration of bacterial infections like food poisoning and the Cave Sickness debuff from caves by 50% upon consumption.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Yeast": 1,
+        "Silica Ore": 1,
+        "Charcoal": 1
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {},
@@ -34,7 +72,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Yeast": 1,
+          "Silica Ore": 1,
+          "Charcoal": 1
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -42,8 +84,12 @@
       "name": "Antibiotic Pill",
       "url": "https://icarus.fandom.com/wiki/Antibiotic_Pill",
       "description": "Antibiotic Pills are used to cure, and prevent for a short time, further ailments such as Cave Sickness , Infected Wounds , and Food Poisoning .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Antibiotic Tonic": 1,
+        "Epoxy": 1,
+        "Charcoal": 5
+      },
       "crafted_at": "Unknown",
       "tier": 3,
       "stats": {},
@@ -52,7 +98,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Antibiotic Tonic": 1,
+          "Epoxy": 1,
+          "Charcoal": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -60,8 +110,12 @@
       "name": "Antibiotic Tonic",
       "url": "https://icarus.fandom.com/wiki/Antibiotic_Tonic",
       "description": "Used alone to cure infections such as Cave Sickness , Infected Wound , and Food poisoning , or as a mid-stage ingredient to the prophylactic Antibiotic Pill .",
-      "item_type": "orbital",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Yeast": 1,
+        "Epoxy": 1,
+        "Charcoal": 3
+      },
       "crafted_at": "Workshop",
       "tier": 2,
       "stats": {},
@@ -70,7 +124,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Yeast": 1,
+          "Epoxy": 1,
+          "Charcoal": 3
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -78,8 +136,10 @@
       "name": "Basic Bandage",
       "url": "https://icarus.fandom.com/wiki/Basic_Bandage",
       "description": "Basic Bandage is used to heal Wound and Exotic Wound Status Effects .",
-      "item_type": "orbital",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 40
+      },
       "crafted_at": "Workshop",
       "tier": 1,
       "stats": {},
@@ -88,16 +148,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 40
+        },
         "crafted_at": "Workshop"
       }
     },
     {
       "name": "Blood Thinning Paste",
       "url": "https://icarus.fandom.com/wiki/Blood_Thinning_Paste",
-      "description": "Blood Thinning Paste is one of the multiple, easily overlooked recipes available in the Tier 1  tech tree. Reduces the duration of Concussions and Contusions when you're unlucky enough to kiss a falling tree.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Blood Thinning Paste is one of the multiple, easily overlooked recipes available in the Tier 1 tech tree. Reduces the duration of Concussions and Contusions when you're unlucky enough to kiss a falling tree.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Lily": 1,
+        "Stick": 10,
+        "Charcoal": 1
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {},
@@ -106,16 +172,25 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Lily": 1,
+          "Stick": 10,
+          "Charcoal": 1
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Carbon Paste",
       "url": "https://icarus.fandom.com/wiki/Carbon_Paste",
-      "description": "Carbon Paste is a crafted resource meant to be smelted in a Concrete Furnace or Electric Furnace to make Carbon Fiber and is a critical component in Tier 4  crafting.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Carbon Paste is a crafted resource meant to be smelted in a Concrete Furnace or Electric Furnace to make Carbon Fiber and is a critical component in Tier 4 crafting.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Silica Ore": 1,
+        "Aluminium Ingot": 1,
+        "Organic Resin": 4,
+        "Epoxy": 2
+      },
       "crafted_at": "Unknown",
       "tier": 2,
       "stats": {},
@@ -124,7 +199,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Silica Ore": 1,
+          "Aluminium Ingot": 1,
+          "Organic Resin": 4,
+          "Epoxy": 2
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -132,8 +212,13 @@
       "name": "Composite Paste",
       "url": "https://icarus.fandom.com/wiki/Composite_Paste",
       "description": "Composite Paste is an end-game crafted resource which can be smelted into Composites inside of the Electric Furnace .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Iron Ore": 2,
+        "Silica Ore": 1,
+        "Organic Resin": 1,
+        "Platinum Ore": 1
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {},
@@ -142,7 +227,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ore": 2,
+          "Silica Ore": 1,
+          "Organic Resin": 1,
+          "Platinum Ore": 1
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -150,8 +240,12 @@
       "name": "Cooling Bandage",
       "url": "https://icarus.fandom.com/wiki/Cooling_Bandage",
       "description": "The Cooling Bandage is used to heal Heatstroke, Heat Exhaustion and Exotic Overheat Status Effects . If the Prospector's core temperature is still extremely high, the cooling bandage will not remove these debuffs.",
-      "item_type": "orbital",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 40,
+        "Oxite": 4,
+        "Charcoal": 10
+      },
       "crafted_at": "Workshop",
       "tier": 1,
       "stats": {},
@@ -160,16 +254,23 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 40,
+          "Oxite": 4,
+          "Charcoal": 10
+        },
         "crafted_at": "Workshop"
       }
     },
     {
       "name": "Cured Leather",
       "url": "https://icarus.fandom.com/wiki/Cured_Leather",
-      "description": "Cured Leather is a crafted resource used in various Tier 3  Armors and Tools . Below is a list of armors that use Cured Leather:",
+      "description": "Cured Leather is a crafted resource used in various Tier 3 Armors and Tools . Below is a list of armors that use Cured Leather:",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 6,
+        "Tree Sap": 2
+      },
       "crafted_at": "Crafted atDrying RackSmokerAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {},
@@ -178,7 +279,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 6,
+          "Tree Sap": 2
+        },
         "crafted_at": "Crafted atDrying RackSmokerAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -187,7 +291,11 @@
       "url": "https://icarus.fandom.com/wiki/Cured_Leather_Lure",
       "description": "The Cured Leather Lure can be attached to a Fishing Rod or a Basic Fishing Trap / Advanced Fishing Trap to provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like all Lures , the Cured Leather Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Cured Leather": 2,
+        "Copper Nail": 2,
+        "Organic Resin": 2
+      },
       "crafted_at": "Basic Fishing Bench",
       "tier": 2,
       "stats": {
@@ -199,7 +307,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cured Leather": 2,
+          "Copper Nail": 2,
+          "Organic Resin": 2
+        },
         "crafted_at": "Basic Fishing Bench"
       }
     },
@@ -207,8 +319,12 @@
       "name": "Health Buff Paste",
       "url": "https://icarus.fandom.com/wiki/Health_Buff_Paste",
       "description": "In-game description: An organic preparation that temporarily increases health. In-game flavor text: Like so many things on Icarus, the exact ingredients would probably render this concoction illegal on Earth.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Lily": 2,
+        "Wheat": 2,
+        "Tree Sap": 1
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -217,7 +333,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Lily": 2,
+          "Wheat": 2,
+          "Tree Sap": 1
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -225,8 +345,11 @@
       "name": "Health Regeneration Paste",
       "url": "https://icarus.fandom.com/wiki/Health_Regeneration_Paste",
       "description": "In-game description: A herbal confection that speeds healing. In-game flavor text: The lily's high concentration of bioactive ingredients is thought to inhibit the reuptake of certain cytochromes, briefly flooding your body with oxidating enzymes.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Lily": 2,
+        "Tree Sap": 1
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -235,7 +358,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Lily": 2,
+          "Tree Sap": 1
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -243,8 +369,12 @@
       "name": "Health Restoration Paste",
       "url": "https://icarus.fandom.com/wiki/Health_Restoration_Paste",
       "description": "In-game description: An organic fusion that restores health. In-game flavor text: The combination of Icarus's unique conditions and genetic adjustments to plant life has seen the addition of 'useful' methyl chains to many previously innocuous plant-based preparations.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Lily": 20,
+        "Wheat": 20,
+        "Tree Sap": 10
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -253,7 +383,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Lily": 20,
+          "Wheat": 20,
+          "Tree Sap": 10
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -261,8 +395,12 @@
       "name": "Heat Bandage",
       "url": "https://icarus.fandom.com/wiki/Heat_Bandage",
       "description": "Heat Bandage is used to heal Frostbite, Frosty and Exotic Chill Status Effects . If the Prospector's core temperature is still freezing, the heat bandage will not remove these debuffs.",
-      "item_type": "orbital",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 40,
+        "Oxite": 4,
+        "Charcoal": 10
+      },
       "crafted_at": "Workshop",
       "tier": 1,
       "stats": {},
@@ -271,7 +409,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 40,
+          "Oxite": 4,
+          "Charcoal": 10
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -279,8 +421,11 @@
       "name": "Oxygen Buff Paste",
       "url": "https://icarus.fandom.com/wiki/Oxygen_Buff_Paste",
       "description": "In-game description: A natural concoction that increases available oxygen. In-game flavor text: Your parents are a long way from here. What you do with your body is your business.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Sponge": 4,
+        "Charcoal": 2
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -289,7 +434,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Sponge": 4,
+          "Charcoal": 2
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -297,8 +445,11 @@
       "name": "Oxygen Consumption Paste",
       "url": "https://icarus.fandom.com/wiki/Oxygen_Consumption_Paste",
       "description": "In-game description: A natural beta blocker. In-game flavor text: This preparation reduces the heart rate, dropping oxygen consumption temporarily.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Sponge": 1,
+        "Charcoal": 2
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -307,7 +458,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Sponge": 1,
+          "Charcoal": 2
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -315,8 +469,12 @@
       "name": "Oxygen Restoration Paste",
       "url": "https://icarus.fandom.com/wiki/Oxygen_Restoration_Paste",
       "description": "In-game description: An organic co-factor that rapidly restores oxygen. In-game flavor text: Helper molecule",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Sponge": 1,
+        "Charcoal": 2,
+        "Oxite": 2
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -325,7 +483,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Sponge": 1,
+          "Charcoal": 2,
+          "Oxite": 2
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -333,8 +495,11 @@
       "name": "Poison Paste",
       "url": "https://icarus.fandom.com/wiki/Poison_Paste",
       "description": "Poison Paste is used for making a variety of items, such as medicines like Anti-Poison Pill or ammo like Poison Arrow .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Spoiled Meat": 2,
+        "Sulfur": 1
+      },
       "crafted_at": "Unknown",
       "tier": 2,
       "stats": {},
@@ -343,7 +508,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Spoiled Meat": 2,
+          "Sulfur": 1
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -369,8 +537,12 @@
       "name": "Stamina Buff Paste",
       "url": "https://icarus.fandom.com/wiki/Stamina_Buff_Paste",
       "description": "In-game description: A herbal concoction, temporarily increasing stamina. In-game flavor text: While lacking some of the pharmaceutical refinements, this paste produces similar physiological affects to the 'wakers' once offered to long haul space pilots.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Reed Flower": 2,
+        "Wheat": 2,
+        "Tree Sap": 1
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -379,7 +551,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Reed Flower": 2,
+          "Wheat": 2,
+          "Tree Sap": 1
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -387,8 +563,11 @@
       "name": "Stamina Consumption Paste",
       "url": "https://icarus.fandom.com/wiki/Stamina_Consumption_Paste",
       "description": "In-game description: A biotic compound that slows stamina loss temporarily. In-game flavor text: The time-jarring effects of exotics find their influence in many subtle, poorly understood ways on Icarus.",
-      "item_type": "orbital",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Reed Flower": 2,
+        "Tree Sap": 2
+      },
       "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
@@ -397,7 +576,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Reed Flower": 2,
+          "Tree Sap": 2
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -405,8 +587,10 @@
       "name": "Stamina Regeneration Paste",
       "url": "https://icarus.fandom.com/wiki/Stamina_Regeneration_Paste",
       "description": "In-game description: An organic stimulant that accelerates stamina recovery. In-game flavor text: A herbal preparation that acts rapidly on the sympathetic nervous system, increasing noradrenergic activity.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Reed Flower": 2
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -415,7 +599,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Reed Flower": 2
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -423,8 +609,12 @@
       "name": "Stamina Restoration Paste",
       "url": "https://icarus.fandom.com/wiki/Stamina_Restoration_Paste",
       "description": "In-game description: A natural stimulant that restores lost stamina. In-game flavor text: As countless athletes, party-goers and would-be mystics have noted, the line between natural stimulant and highly addictive narcotic is arbitrary, at best.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Reed Flower": 20,
+        "Wheat": 20,
+        "Tree Sap": 10
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -433,7 +623,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Reed Flower": 20,
+          "Wheat": 20,
+          "Tree Sap": 10
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -441,8 +635,12 @@
       "name": "Water Consumption Paste",
       "url": "https://icarus.fandom.com/wiki/Water_Consumption_Paste",
       "description": "In-game description: A natural preparation, temporarily reducing the body's need for water. In-game flavor text: The key word here is 'temporarily'.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Sponge": 1,
+        "Charcoal": 2,
+        "Reed Flower": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -451,7 +649,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Sponge": 1,
+          "Charcoal": 2,
+          "Reed Flower": 4
+        },
         "crafted_at": "Unknown"
       }
     }

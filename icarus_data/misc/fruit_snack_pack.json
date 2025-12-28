@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Fruit_Snack_Pack",
   "description": "Fruit Snack Pack is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Kiwifruit": 2,
+    "Strawberry": 10,
+    "Watermelon": 1,
+    "Mature Coconut": 1,
+    "Seeds": 20
+  },
   "crafted_at": "Kitchen Bench Marble Kitchen Bench",
   "tier": 2,
   "stats": {},
@@ -12,7 +18,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Kiwifruit": 2,
+      "Strawberry": 10,
+      "Watermelon": 1,
+      "Mature Coconut": 1,
+      "Seeds": 20
+    },
     "crafted_at": "Kitchen Bench Marble Kitchen Bench"
   }
 }

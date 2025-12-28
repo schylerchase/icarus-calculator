@@ -2,8 +2,11 @@
   "name": "Honey Glazed Pastry",
   "url": "https://icarus.fandom.com/wiki/Honey_Glazed_Pastry",
   "description": "Honey Glazed Pastry is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Pastry": 1,
+    "Honey": 5
+  },
   "crafted_at": "Unknown",
   "tier": 3,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Pastry": 1,
+      "Honey": 5
+    },
     "crafted_at": "Unknown"
   }
 }

@@ -1,9 +1,14 @@
 {
   "name": "Aquarium",
   "url": "https://icarus.fandom.com/wiki/Aquarium",
-  "description": "The Aquarium allows Prospectors to store and display their favorite catches. Fish stored in the Aquarium will not spoil so long as there is biofuel available and the Aquarium is connected to a water network providing at least 250 units of water. The Aquarium will not function if these requirements are not met. With a full Biofuel Can , the Aquarium will last about three and a half hours. Can only hold 1 fish.",
+  "description": "The Aquarium allows Prospectors to store and display their favorite catches.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Glass": 20,
+    "Refined Wood": 10,
+    "Refined Gold": 8,
+    "Electronics": 5
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Glass": 20,
+      "Refined Wood": 10,
+      "Refined Gold": 8,
+      "Electronics": 5
+    },
     "crafted_at": "Machining Bench"
   }
 }

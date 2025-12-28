@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Chimney_Cap_Half",
   "description": "A Chimney Cap Half is a decorative final cap piece to place on a Chimney Extension or directly on a Fireplace . It is the smaller variant of the Chimney Cap , but with less vertical height.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Stone": 30,
+    "Wood": 15
+  },
   "crafted_at": "Crafting Bench Machining Bench Fabricator",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Stone": 30,
+      "Wood": 15
+    },
     "crafted_at": "Crafting Bench Machining Bench Fabricator"
   }
 }

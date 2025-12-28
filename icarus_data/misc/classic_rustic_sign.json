@@ -2,8 +2,12 @@
   "name": "Classic Rustic Sign",
   "url": "https://icarus.fandom.com/wiki/Classic_Rustic_Sign",
   "description": "A Classic Rustic Sign made of wood.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Wood": 10,
+    "Stick": 5,
+    "Fiber": 15
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 10,
+      "Stick": 5,
+      "Fiber": 15
+    },
     "crafted_at": "Unknown"
   }
 }

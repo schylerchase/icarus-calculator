@@ -2,7 +2,7 @@
   "name": "Biomore Backpack",
   "url": "https://icarus.fandom.com/wiki/Biomore_Backpack",
   "description": "The Biomore Backpack provides six inventory slots, along with 3 active auras where the prospector and nearby allies having increased physical resistance, quicker healing from bacterial, parasitic and poison modifiers, and additional health regeneration. It also has offers buffs for the wearer, reducing the stamina impact from using tools, and providing more health to downed prospectors when revived. An excellent choice for prospectors specializing in rescues.",
-  "item_type": "orbital",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Workshop",
   "tier": 0,

@@ -2,8 +2,13 @@
   "name": "Big Breakfast",
   "url": "https://icarus.fandom.com/wiki/Big_Breakfast",
   "description": "Big Breakfast is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Egg": 1,
+    "Raw Meat": 1,
+    "Tomato": 1,
+    "Potato": 1
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {},
@@ -12,7 +17,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Egg": 1,
+      "Raw Meat": 1,
+      "Tomato": 1,
+      "Potato": 1
+    },
     "crafted_at": "Unknown"
   }
 }

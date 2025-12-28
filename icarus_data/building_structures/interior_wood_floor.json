@@ -1,9 +1,12 @@
 {
   "name": "Interior Wood Floor",
-  "url": "https://icarus.fandom.com/wiki/Interior_Wood_Floor_Trapdoor",
+  "url": "https://icarus.fandom.com/wiki/Interior_Wood_Floor",
   "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 20,
+    "Copper Nail": 4
+  },
   "crafted_at": "Carpentry Bench",
   "tier": 0,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 20,
+      "Copper Nail": 4
+    },
     "crafted_at": "Carpentry Bench"
   }
 }

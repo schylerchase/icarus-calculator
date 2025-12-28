@@ -2,7 +2,7 @@
   "name": "Survival Backpack",
   "url": "https://icarus.fandom.com/wiki/Survival_Backpack",
   "description": "The Survival Backpack is a must need when taking long trips across Icarus, fit everything you need inside for survival! Innovative storage system that mitigates injuries.",
-  "item_type": "orbital",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Workshop",
   "tier": 0,

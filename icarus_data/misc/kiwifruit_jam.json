@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Kiwifruit_Jam",
   "description": "Kiwifruit Jam is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Kiwifruit": 5,
+    "Glass Jar": 1
+  },
   "crafted_at": "your Kitchen Bench",
   "tier": 3,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Kiwifruit": 5,
+      "Glass Jar": 1
+    },
     "crafted_at": "your Kitchen Bench"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "name": "Luriform Serum",
+  "url": "https://icarus.fandom.com/wiki/Luriform_Serum",
+  "description": "Luriform Serum is a craftable tonic used in the mission Prevention in the Great Hunts Campaigns Rimetusk campaign. When consumed, it draws in enzyme-affected creatures so they can be culled.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Synthetic Enzymes": 2,
+    "Charcoal": 5,
+    "Salt": 3
+  },
+  "crafted_at": "the Chemistry Bench with the following resources:",
+  "tier": 4,
+  "stats": {},
+  "category": "consumables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Synthetic Enzymes": 2,
+      "Charcoal": 5,
+      "Salt": 3
+    },
+    "crafted_at": "the Chemistry Bench with the following resources:"
+  }
+}

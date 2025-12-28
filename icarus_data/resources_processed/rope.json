@@ -3,8 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Rope",
   "description": "Intermediate crafting item used as a component of many recipes.",
   "item_type": "craftable",
-  "ingredients": {},
-  "crafted_at": "Crafted atCrafting BenchTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
+  "ingredients": {
+    "Fiber": 12
+  },
+  "crafted_at": "Crafted atCrafting BenchMachining BenchFabricatorTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {},
   "category": "resources",
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Crafted atCrafting BenchTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
+    "ingredients": {
+      "Fiber": 12
+    },
+    "crafted_at": "Crafted atCrafting BenchMachining BenchFabricatorTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

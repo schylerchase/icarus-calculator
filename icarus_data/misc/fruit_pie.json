@@ -2,8 +2,12 @@
   "name": "Fruit Pie",
   "url": "https://icarus.fandom.com/wiki/Fruit_Pie",
   "description": "Fruit Pie is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Pastry": 1,
+    "Wild Berry": 1,
+    "Watermelon": 1
+  },
   "crafted_at": "Unknown",
   "tier": 3,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Pastry": 1,
+      "Wild Berry": 1,
+      "Watermelon": 1
+    },
     "crafted_at": "Unknown"
   }
 }

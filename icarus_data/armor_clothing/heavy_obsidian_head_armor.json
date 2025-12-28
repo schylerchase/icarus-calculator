@@ -1,9 +1,13 @@
 {
   "name": "Heavy Obsidian Head Armor",
   "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Head_Armor",
-  "description": "Heavy Obsidian Armor is a Tier 2  armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+  "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Leather": 4,
+    "Obsidian": 3,
+    "Rope": 4
+  },
   "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Leather": 4,
+      "Obsidian": 3,
+      "Rope": 4
+    },
     "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

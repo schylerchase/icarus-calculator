@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Strengthened_Strings_Attachment",
   "description": "Strengthened Strings Attachment is a mid-to-end game item available once the prospector has unlocked the Ranged Attachment Pack tech.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 2,
+    "Rope": 4,
+    "Refined Wood": 4
+  },
   "crafted_at": "Alteration Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 2,
+      "Rope": 4,
+      "Refined Wood": 4
+    },
     "crafted_at": "Alteration Bench"
   }
 }

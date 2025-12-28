@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Black_Wolf_Knife",
   "description": "The Black Wolf Knife is a knife with a 25% chance to inflict hemorrhage on targets and can be used as a tool to skin fauna. For the thrown variant of the Black Wolf Knife, view Black Wolf Throwing Knife .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Black Wolf Tooth": 6,
+    "Leather": 4,
+    "Iron Ore": 4,
+    "Iron Nail": 2
+  },
   "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
@@ -16,7 +21,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Black Wolf Tooth": 6,
+      "Leather": 4,
+      "Iron Ore": 4,
+      "Iron Nail": 2
+    },
     "crafted_at": "Forge Foundry"
   }
 }

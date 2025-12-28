@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Art_Deco_Bed",
   "description": "The Art Deco Bed allows prospectors to sleep provided it is sufficiently sheltered and it is night time in-game. In a multiplayer game, all prospectors must sleep at the same time to pass the night. Prospectors can set their respawn location to a bed, however if this bed is deconstructed or destroyed, the prospector's spawn location will reset back to the drop-pod. The Art Deco Bed has the best sleep quality of any bed.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Gold": 8,
+    "Stone": 20,
+    "Platinum Weave": 6
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Gold": 8,
+      "Stone": 20,
+      "Platinum Weave": 6
+    },
     "crafted_at": "Decoration Bench"
   }
 }

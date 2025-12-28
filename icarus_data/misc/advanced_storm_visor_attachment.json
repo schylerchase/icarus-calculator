@@ -1,9 +1,14 @@
 {
   "name": "Advanced Storm Visor Attachment",
   "url": "https://icarus.fandom.com/wiki/Advanced_Storm_Visor_Attachment",
-  "description": "The Advanced Storm Visor Attachment is an end-game item available once the prospector has unlocked the Advanced Armor Attachment Packs in the Tier 4  Tech Tree.",
+  "description": "The Advanced Storm Visor Attachment is an end-game item available once the prospector has unlocked the Advanced Armor Attachment Packs in the Tier 4 Tech Tree.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Carbon Fiber": 1,
+    "Electronics": 1,
+    "Leather": 10,
+    "Storm VisorAttachment": 1
+  },
   "crafted_at": "Advanced Alteration Bench",
   "tier": 4,
   "stats": {
@@ -14,7 +19,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Carbon Fiber": 1,
+      "Electronics": 1,
+      "Leather": 10,
+      "Storm VisorAttachment": 1
+    },
     "crafted_at": "Advanced Alteration Bench"
   }
 }

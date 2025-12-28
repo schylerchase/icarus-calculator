@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Water_Sprinkler",
   "description": "The Water Sprinkler will provide fire suppression when connected to a Water Network with a Water Pipe Tool . Can be manually activated by damaging it or by pressing F to water nearby Dirt Mounds / Crop Plots or to apply the Wet modifier to nearby prospectors and deployables, which can help counter heatwaves in Deserts .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 2,
+    "Epoxy": 4,
+    "Copper Wire": 4
+  },
   "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 2,
+      "Epoxy": 4,
+      "Copper Wire": 4
+    },
     "crafted_at": "Machining Bench Fabricator"
   }
 }

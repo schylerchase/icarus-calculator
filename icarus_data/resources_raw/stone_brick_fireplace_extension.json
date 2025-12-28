@@ -1,0 +1,29 @@
+{
+  "name": "Stone Brick Fireplace Extension",
+  "url": "https://icarus.fandom.com/wiki/Stone_Brick_Fireplace_Extension",
+  "description": "A Stone Brick Fireplace Extension is a hollow rectangular tower of Stone Brick masonry that forms a chimney to place on a Stone Brick Fireplace or another existing Stone Brick Fireplace Extension to extend the chimney vertically. It is usually capped with a Stone Brick Fireplace Cap .",
+  "item_type": "craftable",
+  "ingredients": {
+    "Stone Brick": 50,
+    "Refined Wood": 20,
+    "Tree Sap": 10
+  },
+  "crafted_at": "Advanced Masonry Bench Electric Masonry Bench",
+  "tier": 3,
+  "stats": {
+    "weight": "5.0 Kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Stone Brick": 50,
+      "Refined Wood": 20,
+      "Tree Sap": 10
+    },
+    "crafted_at": "Advanced Masonry Bench Electric Masonry Bench"
+  }
+}

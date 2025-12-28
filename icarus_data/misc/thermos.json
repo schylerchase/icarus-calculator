@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Thermos",
   "description": "The Thermos can store water without leaking, similar to the Canteen , but can also store hot drinks which can be used to raise a Prospectors core temperature when traversing the Arctic. Hot drinks also provide a unique buff that does not take up a stomach slot. Can be used to hold Hot Tea , Gorse Tea , Hot Cocoa , and Hot Coffee .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Epoxy": 8,
+    "Glass": 4,
+    "Steel Ingot": 12
+  },
   "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Epoxy": 8,
+      "Glass": 4,
+      "Steel Ingot": 12
+    },
     "crafted_at": "Machining Bench Fabricator"
   }
 }

@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Advanced_Textiles_Bench",
   "description": "Allows for the crafting of more advanced Armor sets, Cured Leather and Platinum Weave . The Advanced Textiles Bench is also able to craft items made at the Textiles Bench , removing the need for multiple benches.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 20,
+    "Wood": 6,
+    "Epoxy": 8,
+    "Rope": 4,
+    "Steel Screw": 40
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 20,
+      "Wood": 6,
+      "Epoxy": 8,
+      "Rope": 4,
+      "Steel Screw": 40
+    },
     "crafted_at": "Machining Bench"
   }
 }

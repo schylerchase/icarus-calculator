@@ -1,9 +1,13 @@
 {
   "name": "Scorpion Head Armor",
   "url": "https://icarus.fandom.com/wiki/Scorpion_Head_Armor",
-  "description": "Scorpion Head Armor is a Tier 2  crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+  "description": "Scorpion Head Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Fiber": 40,
+    "Leather": 15,
+    "Scorpion Carapace": 10
+  },
   "crafted_at": "Textiles Bench Electric Textiles Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 40,
+      "Leather": 15,
+      "Scorpion Carapace": 10
+    },
     "crafted_at": "Textiles Bench Electric Textiles Bench"
   }
 }

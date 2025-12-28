@@ -2,8 +2,12 @@
   "name": "Stone Axe",
   "url": "https://icarus.fandom.com/wiki/Stone_Axe",
   "description": "The Stone Axe is used primarily for chopping down trees and Small Trees , reducing them to usable Wood . In the process of chopping apart fallen trees, a small number of Sticks may be added to your inventory automatically.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 10,
+    "Stick": 4,
+    "Stone": 6
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {
@@ -16,7 +20,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 10,
+      "Stick": 4,
+      "Stone": 6
+    },
     "crafted_at": "Unknown"
   }
 }

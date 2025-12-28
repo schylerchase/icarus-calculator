@@ -1,9 +1,12 @@
 {
   "name": "Rustic Bookshelf",
   "url": "https://icarus.fandom.com/wiki/Rustic_Bookshelf",
-  "description": "The Rustic Bookshelf allows prospectors to store 10 items",
+  "description": "The Rustic Bookshelf is a wooden bookshelf made of plain, rough wood. It has 10 storage slots for storing items.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 25,
+    "Iron Nail": 10
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 25,
+      "Iron Nail": 10
+    },
     "crafted_at": "Decoration Bench"
   }
 }

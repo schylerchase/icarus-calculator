@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Caveworm_Bow",
   "description": "Using arrows and talents interchangeably with other bows, the Caveworm Bow is harder hitting than the Longbow and is equal in strength to the Recurve Bow .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 10,
+    "Leather": 25,
+    "Worm Scale": 15,
+    "Poison Sack": 10
+  },
   "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
@@ -16,7 +21,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 10,
+      "Leather": 25,
+      "Worm Scale": 15,
+      "Poison Sack": 10
+    },
     "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

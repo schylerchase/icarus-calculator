@@ -1,0 +1,18 @@
+{
+  "name": "Desert",
+  "url": "https://icarus.fandom.com/wiki/Desert",
+  "description": "The Desert is a Biome found on both Olympus and Styx , and it is also a Region on Olympus. The Desert presents a whole new set of challenges and dangers for prospectors looking to exploit Icarus and its Resources . Storms involve blasting winds of sand and heat, and while the Fauna consists mostly of prey, it does include predators like the Hyena and Cougar which tend to be near sources of water.",
+  "item_type": "weapon",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

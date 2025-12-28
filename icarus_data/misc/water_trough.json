@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Water_Trough",
   "description": "The Water Trough is a basic trough used to keep Mounts and Pets hydrated. Can be filled using a Liquid Container filled with Water or by leaving it exposed to the elements.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 60,
+    "Stick": 8,
+    "Iron Nail": 16
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 60,
+      "Stick": 8,
+      "Iron Nail": 16
+    },
     "crafted_at": "Ranching Station"
   }
 }

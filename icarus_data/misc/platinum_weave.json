@@ -1,0 +1,24 @@
+{
+  "name": "Platinum Weave",
+  "url": "https://icarus.fandom.com/wiki/Platinum_Weave",
+  "description": "Platinum Weave is a Tier 3 crafted resource used for various items including armor, animal items, rugs, fishing lures and furniture.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 30,
+    "Platinum Sheath": 2
+  },
+  "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
+  "tier": 3,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Fiber": 30,
+      "Platinum Sheath": 2
+    },
+    "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
+  }
+}

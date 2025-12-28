@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Wood_Composter",
   "description": "Wood Composter increases the rate at which food spoils, and will turn Spoiled Plants or Guano into Basic Fertilizer .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 25,
+    "Stone": 10,
+    "Spoiled Plants": 5,
+    "Sulfur": 5
+  },
   "crafted_at": "Crafting Bench Machining Bench Fabricator",
   "tier": 2,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 25,
+      "Stone": 10,
+      "Spoiled Plants": 5,
+      "Sulfur": 5
+    },
     "crafted_at": "Crafting Bench Machining Bench Fabricator"
   }
 }

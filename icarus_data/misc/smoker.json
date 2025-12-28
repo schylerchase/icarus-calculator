@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Smoker",
   "description": "The smoker is powered by Charcoal and gives you another way to cook longer lasting food. The smoker needs to be placed outside and gives a heat modifier.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 20,
+    "Copper Ingot": 10,
+    "Concrete Mix": 15,
+    "Steel Screw": 20,
+    "Charcoal": 50
+  },
   "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 20,
+      "Copper Ingot": 10,
+      "Concrete Mix": 15,
+      "Steel Screw": 20,
+      "Charcoal": 50
+    },
     "crafted_at": "Machining Bench Fabricator"
   }
 }

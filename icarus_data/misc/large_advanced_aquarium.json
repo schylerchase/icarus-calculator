@@ -1,9 +1,15 @@
 {
   "name": "Large Advanced Aquarium",
   "url": "https://icarus.fandom.com/wiki/Large_Advanced_Aquarium",
-  "description": "The Large Advanced Aquarium allows Prospectors to store and display their favorite catches. Fish stored in the Large Advanced Aquarium will not spoil so long as it is connected to a power network providing at least 1,000 units of Power and a water network providing at least 750 units of Water . The Large Advanced Aquarium will not function if these requirements are not met. The Large Advanced Aquarium can store 12 fish.",
+  "description": "The Large Advanced Aquarium allows Prospectors to store and display their favorite catches.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Glass": 50,
+    "Platinum Ingot": 15,
+    "Refined Gold": 12,
+    "Electronics": 6,
+    "Carbon Paste": 20
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Glass": 50,
+      "Platinum Ingot": 15,
+      "Refined Gold": 12,
+      "Electronics": 6,
+      "Carbon Paste": 20
+    },
     "crafted_at": "Fabricator"
   }
 }

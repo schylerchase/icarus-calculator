@@ -3,7 +3,14 @@
   "url": "https://icarus.fandom.com/wiki/Prototype_Thumper",
   "description": "The more ore available, the bigger the impact on the surrounding environment, so expect more opposition when taking on lucrative deposits in densely populated areas.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Titanium Ingot": 8,
+    "Electronics": 6,
+    "Steel Screw": 18,
+    "Composites": 12,
+    "Concrete Mix": 8,
+    "Epoxy": 14
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +22,14 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Titanium Ingot": 8,
+      "Electronics": 6,
+      "Steel Screw": 18,
+      "Composites": 12,
+      "Concrete Mix": 8,
+      "Epoxy": 14
+    },
     "crafted_at": "Fabricator"
   }
 }

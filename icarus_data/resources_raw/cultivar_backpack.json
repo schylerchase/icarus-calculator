@@ -1,0 +1,21 @@
+{
+  "name": "Cultivar Backpack",
+  "url": "https://icarus.fandom.com/wiki/Cultivar_Backpack",
+  "description": "The Cultivar Backpack is a wearable Farming -focused backpack that provides six inventory slots, increased yield of harvested Plant Resources , harvesting of Seeds and exposure resistance.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Workshop",
+  "tier": 0,
+  "stats": {
+    "weight": "0.5 kg",
+    "durability": "5,500"
+  },
+  "category": "backpacks",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Workshop"
+  }
+}

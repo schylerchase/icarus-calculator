@@ -3,7 +3,9 @@
   "url": "https://icarus.fandom.com/wiki/Platinum_Sheath",
   "description": "Platinum Sheath is used in a variety of high-end resources and components and is crafted in batches of 4.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Platinum Ingot": 1
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {},
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Platinum Ingot": 1
+    },
     "crafted_at": "Machining Bench"
   }
 }

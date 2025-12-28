@@ -1,0 +1,27 @@
+{
+  "name": "Dribbo Trophy",
+  "url": "https://icarus.fandom.com/wiki/Dribbo_Trophy",
+  "description": "The Dribbo Trophy is a decorative deployable item that can be placed on a flat surface to liven any living space.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Refined Wood": 30,
+    "Dribbo Vestige": 3
+  },
+  "crafted_at": "Trophy Bench",
+  "tier": 2,
+  "stats": {
+    "weight": "1.0 Kg",
+    "durability": "250"
+  },
+  "category": "trophies",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Refined Wood": 30,
+      "Dribbo Vestige": 3
+    },
+    "crafted_at": "Trophy Bench"
+  }
+}

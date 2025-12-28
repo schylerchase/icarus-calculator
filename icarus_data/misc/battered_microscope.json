@@ -1,0 +1,33 @@
+{
+  "name": "Battered Microscope",
+  "url": "https://icarus.fandom.com/wiki/Battered_Microscope",
+  "description": "The Battered Microscope is a decorative laboratory optical microscope with a dirty white exterior. It can be placed on any surface, such as the Battered Lab Desk . It serves as decoration and is not otherwise used for crafting.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Steel Ingot": 6,
+    "Electronics": 6,
+    "Glass": 10,
+    "Copper Wire": 4,
+    "Epoxy": 8
+  },
+  "crafted_at": "Chemistry Bench",
+  "tier": 2,
+  "stats": {
+    "weight": "3 Kg",
+    "durability": "1,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Steel Ingot": 6,
+      "Electronics": 6,
+      "Glass": 10,
+      "Copper Wire": 4,
+      "Epoxy": 8
+    },
+    "crafted_at": "Chemistry Bench"
+  }
+}

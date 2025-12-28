@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Silencer_Attachment",
   "description": "Silencer Attachment is a mid-to-end game item available once the prospector has unlocked the Ranged Attachment Pack tech.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 2,
+    "Epoxy": 2,
+    "Fur": 8
+  },
   "crafted_at": "Alteration Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 2,
+      "Epoxy": 2,
+      "Fur": 8
+    },
     "crafted_at": "Alteration Bench"
   }
 }

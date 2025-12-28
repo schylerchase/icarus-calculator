@@ -2,8 +2,11 @@
   "name": "Butter",
   "url": "https://icarus.fandom.com/wiki/Butter",
   "description": "Butter is a late-game intermediate resource crafted from Cream and used in various recipes.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Cream": 3,
+    "Salt": 3
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Cream": 3,
+      "Salt": 3
+    },
     "crafted_at": "Unknown"
   }
 }

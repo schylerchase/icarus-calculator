@@ -2,9 +2,17 @@
   "name": "Raw Soft Meat",
   "url": "https://icarus.fandom.com/wiki/Raw_Soft_Meat",
   "description": "Raw Soft Meat can be obtained by Skinning animals with a Knife . Eating Raw Soft Meat will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
-  "item_type": "weapon",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "item_type": "craftable",
+  "ingredients": {
+    "Scorpion": 100,
+    "Arctic Scorpion": 100,
+    "Baby Deer": 10,
+    "Rabbit": 10,
+    "Snow Rabbit": 10,
+    "Pygmy Lop": 10,
+    "Sheep": 10
+  },
+  "crafted_at": "the Butchery Bench using Raw Meat",
   "tier": 0,
   "stats": {},
   "category": "food",
@@ -12,7 +20,15 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
+    "ingredients": {
+      "Scorpion": 100,
+      "Arctic Scorpion": 100,
+      "Baby Deer": 10,
+      "Rabbit": 10,
+      "Snow Rabbit": 10,
+      "Pygmy Lop": 10,
+      "Sheep": 10
+    },
+    "crafted_at": "the Butchery Bench using Raw Meat"
   }
 }

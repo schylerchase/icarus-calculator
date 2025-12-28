@@ -1,0 +1,20 @@
+{
+  "name": "Big Shot",
+  "url": "https://icarus.fandom.com/wiki/Big_Shot",
+  "description": "SUPPLY TROPHIES FOR HIGH PROFILE CLIENT",
+  "item_type": "orbital",
+  "ingredients": {},
+  "crafted_at": "Workshop",
+  "tier": 2,
+  "stats": {
+    "damage": "No effect"
+  },
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Workshop"
+  }
+}

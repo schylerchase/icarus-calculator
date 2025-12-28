@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Cured_Leather_Lure",
   "description": "The Cured Leather Lure can be attached to a Fishing Rod or a Basic Fishing Trap / Advanced Fishing Trap to provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like all Lures , the Cured Leather Lure degrades with use and will eventually break after ten uses.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Cured Leather": 2,
+    "Copper Nail": 2,
+    "Organic Resin": 2
+  },
   "crafted_at": "Basic Fishing Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Cured Leather": 2,
+      "Copper Nail": 2,
+      "Organic Resin": 2
+    },
     "crafted_at": "Basic Fishing Bench"
   }
 }

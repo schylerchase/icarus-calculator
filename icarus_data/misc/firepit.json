@@ -2,8 +2,11 @@
   "name": "Firepit",
   "url": "https://icarus.fandom.com/wiki/Firepit",
   "description": "The Firepit is an upgrade to the Campfire , providing significantly more heat, increased inventory size, and is marginally faster at processing. Due to the increased weight of the Firepit, it should only be deployed in structures that provide adequate support.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Stone": 100,
+    "Wood": 25
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Stone": 100,
+      "Wood": 25
+    },
     "crafted_at": "Unknown"
   }
 }

@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_Bookshelf",
   "description": "The Carved Wood Bookshelf is a decorative item.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 110,
+    "Copper Nail": 30
+  },
   "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 110,
+      "Copper Nail": 30
+    },
     "crafted_at": "Carpentry Bench"
   }
 }

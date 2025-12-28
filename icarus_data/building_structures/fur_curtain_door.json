@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Fur_Curtain_Door",
   "description": "A Fur Curtain Door to keep the weather out.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Fur": 25,
+    "Wood": 5,
+    "Fiber": 15
+  },
   "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fur": 25,
+      "Wood": 5,
+      "Fiber": 15
+    },
     "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Ghillie_Legs_Armor",
   "description": "Ghillie Legs Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Fiber": 160,
+    "Stick": 8,
+    "Rope": 3
+  },
   "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 160,
+      "Stick": 8,
+      "Rope": 3
+    },
     "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

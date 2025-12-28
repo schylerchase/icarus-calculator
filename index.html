@@ -648,6 +648,7 @@
             margin-bottom: 0;
         }
 
+
         @media (max-width: 1024px) {
             .main-content {
                 grid-template-columns: 1fr;
@@ -678,7 +679,7 @@
     </div>
 
     <script type="text/babel">
-        const { useState, useEffect } = React;
+        const { useState, useEffect, useMemo, useCallback, useRef } = React;
 
         const JSON_FILES = [
             'ammunition.json', 'armor.json', 'building.json', 'consumables.json',
@@ -689,9 +690,10 @@
             'weapons.json'
         ];
 
+
         const MAP_RESOURCES = {
             "Olympus": [
-                "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
+                "Stone", "Wood", "Stick", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
                 "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
                 "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore",
                 "Exotics", "Exotic Matter", "Frozen Ore",
@@ -707,7 +709,7 @@
                 "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
             ],
             "Styx": [
-                "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
+                "Stone", "Wood", "Stick", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
                 "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
                 "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore", "Frozen Ore",
                 "Exotics", "Exotic Matter", "Caveworm Chitin",
@@ -722,7 +724,7 @@
                 "Reed Flower", "Reed", "Flower", "Mushroom", "Fruit", "Vegetable", "Grain", "Seed"
             ],
             "Prometheus": [
-                "Stone", "Wood", "Stick", "Sticks", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
+                "Stone", "Wood", "Stick", "Fiber", "Leather", "Fur", "Bone", "Clay", "Ice", "Water",
                 "Coal", "Oxite", "Sulfur", "Silica", "Tree Sap", "Carbon Paste", "Salt",
                 "Iron Ore", "Copper Ore", "Gold Ore", "Aluminum Ore", "Platinum Ore", "Titanium Ore",
                 "Exotics", "Exotic Matter", "Obsidian", "Shaped Obsidian", "Caveworm Chitin",
@@ -892,6 +894,80 @@
             ]);
         }
 
+        function InteractiveMap({ currentMap }) {
+            return React.createElement('div', { key: 'map-container-wrapper' }, [
+                // Info header
+                React.createElement('div', {
+                    key: 'map-info-header',
+                    style: {
+                        background: 'rgba(0, 212, 255, 0.1)',
+                        border: '1px solid rgba(0, 212, 255, 0.3)',
+                        borderRadius: '10px',
+                        padding: '15px',
+                        marginBottom: '20px',
+                        textAlign: 'center'
+                    }
+                }, [
+                    React.createElement('h3', {
+                        key: 'title',
+                        style: { color: '#00d4ff', margin: '0 0 8px 0', fontSize: '1.2rem' }
+                    }, '🗺️ Interactive Map - Powered by Icarus Intel'),
+                    React.createElement('p', {
+                        key: 'description',
+                        style: { color: '#b0b3b8', margin: 0, fontSize: '14px' }
+                    }, 'Use the map controls to select different locations (Olympus, Prometheus, etc.) and filter resources.')
+                ]),
+
+                // Embedded Map Container
+                React.createElement('div', {
+                    className: 'interactive-map-container',
+                    key: 'map',
+                    style: {
+                        position: 'relative',
+                        width: '100%',
+                        height: '800px',
+                        background: 'linear-gradient(135deg, #1a1a2e 0%, #16213e 100%)',
+                        borderRadius: '15px',
+                        overflow: 'hidden',
+                        border: '1px solid rgba(255,255,255,0.1)'
+                    }
+                }, [
+                    React.createElement('iframe', {
+                        key: 'iframe',
+                        src: 'https://www.icarusintel.com/',
+                        style: {
+                            width: '100%',
+                            height: '100%',
+                            border: 'none'
+                        },
+                        title: 'Icarus Interactive Map',
+                        allow: 'fullscreen'
+                    })
+                ]),
+
+                // Attribution footer
+                React.createElement('div', {
+                    key: 'attribution',
+                    style: {
+                        marginTop: '15px',
+                        textAlign: 'center',
+                        fontSize: '12px',
+                        color: '#b0b3b8'
+                    }
+                }, [
+                    React.createElement('span', { key: 'text' }, 'Interactive map provided by '),
+                    React.createElement('a', {
+                        key: 'link',
+                        href: 'https://www.icarusintel.com/',
+                        target: '_blank',
+                        rel: 'noopener noreferrer',
+                        style: { color: '#00d4ff', textDecoration: 'none' }
+                    }, 'Icarus Intel'),
+                    React.createElement('span', { key: 'text2' }, ' - Visit their site for full features')
+                ])
+            ]);
+        }
+
         function CraftingCalculator() {
             const [recipes, setRecipes] = useState({});
             const [loading, setLoading] = useState(true);
@@ -934,7 +1010,7 @@
                         try {
                             setLoadingText(`Testing path: ${basePath}...`);
                             const controller = new AbortController();
-                            const timeoutId = setTimeout(() => controller.abort(), 3000);
+                            const timeoutId = setTimeout(() => controller.abort(), 10000);
                             
                             const testResponse = await fetch(`${basePath}medicine.json`, { 
                                 signal: controller.signal 
@@ -955,18 +1031,12 @@
                         throw new Error(`Cannot load JSON files. Please use a local HTTP server.`);
                     }
                     
-                    // Load all files with timeout protection
+                    // Load all files
                     for (const filename of JSON_FILES) {
                         try {
                             setLoadingText(`Loading ${filename}... (${loadedCount + 1}/${JSON_FILES.length})`);
-                            
-                            const controller = new AbortController();
-                            const timeoutId = setTimeout(() => controller.abort(), 5000);
-                            
-                            const response = await fetch(`${successfulPath}${filename}`, {
-                                signal: controller.signal
-                            });
-                            clearTimeout(timeoutId);
+
+                            const response = await fetch(`${successfulPath}${filename}`);
                             
                             if (!response.ok) {
                                 errors.push(`${filename}: HTTP ${response.status}`);
@@ -999,11 +1069,7 @@
                             
                             loadedCount++;
                         } catch (fileError) {
-                            if (fileError.name === 'AbortError') {
-                                errors.push(`${filename}: Timeout (5s)`);
-                            } else {
-                                errors.push(`${filename}: ${fileError.message}`);
-                            }
+                            errors.push(`${filename}: ${fileError.message}`);
                             loadedCount++;
                         }
                     }
@@ -1011,11 +1077,9 @@
                     if (Object.keys(allRecipes).length === 0) {
                         throw new Error(`No recipes could be loaded. Errors: ${errors.join(', ')}`);
                     }
-                    
+
                     setRecipes(allRecipes);
                     setLoading(false);
-                    
-                    console.log(`Loaded ${Object.keys(allRecipes).length} recipes from ${loadedCount} files`);
                     
                 } catch (err) {
                     setError({
@@ -1026,8 +1090,13 @@
                 }
             };
 
-            const categories = [...new Set(Object.values(recipes).map(r => r.category))].sort();
-            const tiers = [...new Set(Object.values(recipes).map(r => r.tier))].sort();
+            const categories = useMemo(() =>
+                [...new Set(Object.values(recipes).map(r => r.category))].sort()
+            , [recipes]);
+
+            const tiers = useMemo(() =>
+                [...new Set(Object.values(recipes).map(r => r.tier))].sort()
+            , [recipes]);
 
             const handleQuantityChange = (item, quantity) => {
                 setItemQuantities(prev => ({
@@ -1036,56 +1105,76 @@
                 }));
             };
 
-            const filteredItems = Object.entries(recipes).filter(([item, recipe]) => {
-                const matchesSearch = item.toLowerCase().includes(searchTerm.toLowerCase());
-                const matchesCategory = categoryFilter === 'All' || recipe.category === categoryFilter;
-                const matchesTier = tierFilter === 'All' || recipe.tier.toString() === tierFilter;
-                return matchesSearch && matchesCategory && matchesTier;
-            });
+            const filteredItems = useMemo(() =>
+                Object.entries(recipes).filter(([item, recipe]) => {
+                    const matchesSearch = item.toLowerCase().includes(searchTerm.toLowerCase());
+                    const matchesCategory = categoryFilter === 'All' || recipe.category === categoryFilter;
+                    const matchesTier = tierFilter === 'All' || recipe.tier.toString() === tierFilter;
+                    return matchesSearch && matchesCategory && matchesTier;
+                })
+            , [recipes, searchTerm, categoryFilter, tierFilter]);
 
-            const checkItemAvailability = (item, map, path = []) => {
+            // Use ref for mutable cache that clears when map changes
+            const availabilityCacheRef = useRef({});
+            const lastMapRef = useRef(currentMap);
+
+            // Clear cache when map changes
+            if (lastMapRef.current !== currentMap) {
+                availabilityCacheRef.current = {};
+                lastMapRef.current = currentMap;
+            }
+
+            const checkItemAvailability = useCallback((item, map, path = []) => {
+                const cacheKey = `${item}-${map}`;
+                if (availabilityCacheRef.current[cacheKey] !== undefined) {
+                    return availabilityCacheRef.current[cacheKey];
+                }
+
                 const recipe = recipes[item];
-                if (!recipe) return false;
-                
-                // Prevent infinite recursion
-                if (path.includes(item)) return true;
-                
-                // Check for map-exclusive items
-                if (recipe.map_exclusive && recipe.map_exclusive !== map) {
+                if (!recipe) {
+                    availabilityCacheRef.current[cacheKey] = false;
                     return false;
                 }
-                
+
+                // Prevent infinite recursion
+                if (path.includes(item)) return true;
+
+                // Check for map-exclusive items
+                if (recipe.map_exclusive && recipe.map_exclusive !== map) {
+                    availabilityCacheRef.current[cacheKey] = false;
+                    return false;
+                }
+
                 const requiredMaterials = Object.keys(recipe.ingredients || {});
-                
+
                 // If no ingredients, check if it's a basic item or raw material
                 if (requiredMaterials.length === 0) {
-                    // Very permissive for items without ingredients
+                    availabilityCacheRef.current[cacheKey] = true;
                     return true;
                 }
-                
+
                 // For items with ingredients, check for truly unavailable materials
-                // Only Obsidian/Shaped Obsidian are map-exclusive to Prometheus
                 for (const material of requiredMaterials) {
-                    // Check if this material is map-exclusive
                     const matRecipe = recipes[material];
                     if (matRecipe && matRecipe.map_exclusive && matRecipe.map_exclusive !== map) {
+                        availabilityCacheRef.current[cacheKey] = false;
                         return false;
                     }
-                    
-                    // Check for Obsidian on non-Prometheus maps
+
                     if ((material === 'Obsidian' || material === 'Shaped Obsidian') && map !== 'Prometheus') {
+                        availabilityCacheRef.current[cacheKey] = false;
                         return false;
                     }
-                    
-                    // Recursively check the material
+
                     if (matRecipe && !checkItemAvailability(material, map, [...path, item])) {
+                        availabilityCacheRef.current[cacheKey] = false;
                         return false;
                     }
                 }
-                
-                // If we got here, the item is available
+
+                availabilityCacheRef.current[cacheKey] = true;
                 return true;
-            };
+            }, [recipes, currentMap]);
 
             const addToCart = (item) => {
                 const quantity = itemQuantities[item] || 1;
@@ -1439,13 +1528,15 @@
                                 placeholder: 'Search items...',
                                 className: 'search-input',
                                 value: searchTerm,
-                                onChange: (e) => setSearchTerm(e.target.value)
+                                onChange: (e) => setSearchTerm(e.target.value),
+                                'aria-label': 'Search items'
                             }),
                             React.createElement('select', {
                                 key: 'category',
                                 className: 'filter-select',
                                 value: categoryFilter,
-                                onChange: (e) => setCategoryFilter(e.target.value)
+                                onChange: (e) => setCategoryFilter(e.target.value),
+                                'aria-label': 'Filter by category'
                             }, [
                                 React.createElement('option', { key: 'all', value: 'All' }, 'All Categories'),
                                 ...categories.map(cat => 
@@ -1456,7 +1547,8 @@
                                 key: 'tier',
                                 className: 'filter-select',
                                 value: tierFilter,
-                                onChange: (e) => setTierFilter(e.target.value)
+                                onChange: (e) => setTierFilter(e.target.value),
+                                'aria-label': 'Filter by tier'
                             }, [
                                 React.createElement('option', { key: 'all', value: 'All' }, 'All Tiers'),
                                 ...tiers.map(tier => 
@@ -1492,10 +1584,17 @@
                     ]);
                 }
 
+                if (activeTab === 'interactive-map') {
+                    return React.createElement(InteractiveMap, {
+                        key: 'interactive-map',
+                        currentMap
+                    });
+                }
+
                 if (activeTab === 'map') {
                     return React.createElement('div', { className: 'map-info', key: 'map-info' }, [
                         React.createElement('h3', { key: 'title' }, `🗺️ ${currentMap} Resources`),
-                        React.createElement('p', { key: 'description' }, 
+                        React.createElement('p', { key: 'description' },
                             currentMap === 'Olympus' ? "Starter map with all standard resources" :
                             currentMap === 'Prometheus' ? "Volcanic DLC map with unique Obsidian" :
                             "Advanced DLC map with full resource access"
@@ -1534,10 +1633,15 @@
                                 onClick: () => setActiveTab('calculator')
                             }, "🔨 Calculator"),
                             React.createElement('button', {
+                                key: 'interactive-map-tab',
+                                className: `tab-button ${activeTab === 'interactive-map' ? 'active' : ''}`,
+                                onClick: () => setActiveTab('interactive-map')
+                            }, "🗺️ Interactive Map"),
+                            React.createElement('button', {
                                 key: 'map-tab',
                                 className: `tab-button ${activeTab === 'map' ? 'active' : ''}`,
                                 onClick: () => setActiveTab('map')
-                            }, "🗺️ Map Info")
+                            }, "📋 Resources")
                         ]),
                         React.createElement('div', { className: 'tab-content', key: 'tab-content' }, 
                             renderTabContent()

@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_Table",
   "description": "The Carved Wood Table is a decorative table with seating for six and a bonus to Coziness .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 100,
+    "Copper Nail": 20
+  },
   "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 100,
+      "Copper Nail": 20
+    },
     "crafted_at": "Carpentry Bench"
   }
 }

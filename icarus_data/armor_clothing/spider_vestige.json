@@ -1,0 +1,18 @@
+{
+  "name": "Spider Vestige",
+  "url": "https://icarus.fandom.com/wiki/Spider_Vestige",
+  "description": "Spider Vestiges are used at the Trophy Bench to create a Spider Trophy , which can help prospectors complete the Bestiary and can provide a bonus to Coziness .",
+  "item_type": "weapon",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 2,
+  "stats": {},
+  "category": "animal resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

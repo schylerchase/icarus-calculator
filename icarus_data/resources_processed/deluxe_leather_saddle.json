@@ -1,9 +1,13 @@
 {
   "name": "Deluxe Leather Saddle",
   "url": "https://icarus.fandom.com/wiki/Deluxe_Leather_Saddle",
-  "description": "The Deluxe Leather Saddle is a saddle for Mounts made with cured leather. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides no additional attributes.",
+  "description": "The Deluxe Leather Saddle is a saddle for Mounts made with cured leather. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides +3 Mount Cargo inventory slots instead of the standard +2 slots.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Cured Leather": 14,
+    "Fur": 6,
+    "Rope": 2
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Cured Leather": 14,
+      "Fur": 6,
+      "Rope": 2
+    },
     "crafted_at": "Ranching Station"
   }
 }

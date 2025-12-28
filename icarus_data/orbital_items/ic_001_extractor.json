@@ -1,0 +1,21 @@
+{
+  "name": "IC-001 Extractor",
+  "url": "https://icarus.fandom.com/wiki/IC-001_Extractor",
+  "description": "The IC-001 Extractor is a deployable device purchased from the Workshop that is used to extract Exotics from Exotic ore deposits. It requires the IC-001 Prototype Power Source to operate and can extract approximately 330 Exotics per power source.",
+  "item_type": "orbital",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "2.0 kg",
+    "durability": "5,000"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": 1,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

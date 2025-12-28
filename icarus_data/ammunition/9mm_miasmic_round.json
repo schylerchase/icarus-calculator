@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/9mm_Miasmic_Round",
   "description": "9mm Miasmic Round, a Miasmic variant of ammunition used by Pistols .",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "mm Round": 5,
+    "Distilled Miasmic Coating": 1
+  },
   "crafted_at": "Crafted AtMachining BenchFabricator",
   "tier": 3,
   "stats": {
@@ -16,7 +19,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "mm Round": 5,
+      "Distilled Miasmic Coating": 1
+    },
     "crafted_at": "Crafted AtMachining BenchFabricator"
   }
 }

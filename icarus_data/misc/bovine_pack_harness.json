@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Bovine_Pack_Harness",
   "description": "The Bovine Pack Harness is a cargo saddle for Buffalo and Tusker that has 22 inventory slots and +300 Kg weight capacity.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Cured Leather": 8,
+    "Platinum Weave": 4,
+    "Rope": 2
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Cured Leather": 8,
+      "Platinum Weave": 4,
+      "Rope": 2
+    },
     "crafted_at": "Ranching Station"
   }
 }

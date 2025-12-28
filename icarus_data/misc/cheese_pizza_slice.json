@@ -2,8 +2,12 @@
   "name": "Cheese Pizza Slice",
   "url": "https://icarus.fandom.com/wiki/Cheese_Pizza_Slice",
   "description": "Cheese Pizza Slice is a late-game Food with a unique Status Effect , which can be stacked with other food buffs. It provides a boost to health, stamina, stamina regeneration and experience gained and granted to allies.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Flatbread Dough": 2,
+    "Cheese": 5,
+    "Tomato": 3
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Flatbread Dough": 2,
+      "Cheese": 5,
+      "Tomato": 3
+    },
     "crafted_at": "Unknown"
   }
 }

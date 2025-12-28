@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Trench_Shotgun",
   "description": "An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench / Advanced Alteration Bench . Devastating up close when paired with the Barrel Widening Attachment / Narrow Barrel Attachment s and the Larkwell Martinez Mercenary Backpack .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 20,
+    "Cured Leather": 1,
+    "Titanium Ingot": 20,
+    "Epoxy": 5,
+    "Steel Screw": 25
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -16,7 +22,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 20,
+      "Cured Leather": 1,
+      "Titanium Ingot": 20,
+      "Epoxy": 5,
+      "Steel Screw": 25
+    },
     "crafted_at": "Fabricator"
   }
 }

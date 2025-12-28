@@ -2,8 +2,13 @@
   "name": "Stamina Enhancement Tonic",
   "url": "https://icarus.fandom.com/wiki/Stamina_Enhancement_Tonic",
   "description": "",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Reed Flower": 3,
+    "Organic Resin": 1,
+    "Yeast": 2,
+    "Tree Sap": 1
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {},
@@ -12,7 +17,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Reed Flower": 3,
+      "Organic Resin": 1,
+      "Yeast": 2,
+      "Tree Sap": 1
+    },
     "crafted_at": "Unknown"
   }
 }

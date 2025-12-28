@@ -2,8 +2,10 @@
   "name": "Fried Tomato",
   "url": "https://icarus.fandom.com/wiki/Fried_Tomato",
   "description": "Fried Tomato is a consumable food that boosts stamina and health regeneration. As Tomatoes are only found on Prometheus , this recipe requires the New Frontiers DLC to obtain the ingredients.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Tomato": 1
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Tomato": 1
+    },
     "crafted_at": "Unknown"
   }
 }

@@ -2,8 +2,12 @@
   "name": "Inaris \"Lune\" Crossbow",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Lune%22_Crossbow",
   "description": "The Inaris \"Lune\" Crossbow can use Crossbow Bolts crafted on planet as well as Workshop Bolts . Firing faster and dealing more damage than its predecessors, the Inaris \"Lune\" Crossbow, as a whole, is a must for avid Crossbow users.",
-  "item_type": "orbital",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "damage to non-hardened points": 300,
+    "damage to hardened points": 188,
+    "damage to extra hardened points": 75
+  },
   "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
@@ -16,7 +20,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "damage to non-hardened points": 300,
+      "damage to hardened points": 188,
+      "damage to extra hardened points": 75
+    },
     "crafted_at": "Workshop"
   }
 }

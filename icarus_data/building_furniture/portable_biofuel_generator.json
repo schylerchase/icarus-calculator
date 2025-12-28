@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Portable_Biofuel_Generator",
   "description": "The Portable Biofuel Generator generates Electricity when supplied with biofuel from a Biofuel Can .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 10,
+    "Copper Wire": 20,
+    "Electronics": 6,
+    "Steel Screw": 10,
+    "Glass": 2
+  },
   "crafted_at": "Workshop",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 10,
+      "Copper Wire": 20,
+      "Electronics": 6,
+      "Steel Screw": 10,
+      "Glass": 2
+    },
     "crafted_at": "Workshop"
   }
 }

@@ -2,8 +2,12 @@
   "name": "Rhubarb Stew",
   "url": "https://icarus.fandom.com/wiki/Rhubarb_Stew",
   "description": "Rhubarb Stew is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Rhubarb": 1,
+    "Corn": 1,
+    "Wild Berry": 1
+  },
   "crafted_at": "Unknown",
   "tier": 3,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Rhubarb": 1,
+      "Corn": 1,
+      "Wild Berry": 1
+    },
     "crafted_at": "Unknown"
   }
 }

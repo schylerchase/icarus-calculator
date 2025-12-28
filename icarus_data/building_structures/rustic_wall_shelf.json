@@ -1,0 +1,27 @@
+{
+  "name": "Rustic Wall Shelf",
+  "url": "https://icarus.fandom.com/wiki/Rustic_Wall_Shelf",
+  "description": "The Rustic Wall Shelf is a decorative shelf for holding small items such as Lamps or small Trophies . It provides a small bonus to Coziness .",
+  "item_type": "craftable",
+  "ingredients": {
+    "Wood": 15,
+    "Iron Nail": 10
+  },
+  "crafted_at": "Decoration Bench",
+  "tier": 2,
+  "stats": {
+    "weight": "1 Kg",
+    "durability": "100"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 15,
+      "Iron Nail": 10
+    },
+    "crafted_at": "Decoration Bench"
+  }
+}

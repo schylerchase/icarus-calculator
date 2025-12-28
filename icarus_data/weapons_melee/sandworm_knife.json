@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Sandworm_Knife",
   "description": "The Sandworm Knife is made with scales obtained from Sandworms . Considering the Sandworm Knife deals the same amount of damage as a Steel Knife , the Sandworm Knife is overshadowed by higher-tier knives and is not worth the effort.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 2,
+    "Leather": 2,
+    "Sandworm Scale": 5
+  },
   "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
@@ -16,7 +20,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 2,
+      "Leather": 2,
+      "Sandworm Scale": 5
+    },
     "crafted_at": "Forge Foundry"
   }
 }

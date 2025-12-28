@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Large_Beehive_Expansion",
   "description": "A Beekeeping expansion to the small Beehive to increase inventory slots by 6. Requires the Small Beehive Expansion to be installed first. Added through the Beehive GUI",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Honeycomb": 20,
+    "Titanium Plate": 2,
+    "Steel Screw": 20
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Honeycomb": 20,
+      "Titanium Plate": 2,
+      "Steel Screw": 20
+    },
     "crafted_at": "Fabricator"
   }
 }

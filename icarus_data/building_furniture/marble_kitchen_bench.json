@@ -4,9 +4,11 @@
   "description": "The Marble Kitchen Bench is a late-game crafting bench that expands on cooking foods and contains the recipes that can be found in the Cooking Station . Crafts 50% faster than the Kitchen Bench . A water connection is not required for the Marble Kitchen Bench to function.",
   "item_type": "craftable",
   "ingredients": {
-    "Cooking StationKitchen BenchMarble Kitchen Bench": 5,
-    "Kitchen BenchMarble Kitchen Bench": 10,
-    "Marble Kitchen Bench": 2
+    "Composites": 2,
+    "Aluminium Ingot": 20,
+    "Concrete Mix": 10,
+    "Steel Screw": 8,
+    "Stone": 100
   },
   "crafted_at": "Fabricator",
   "tier": 4,
@@ -20,9 +22,11 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {
-      "Cooking StationKitchen BenchMarble Kitchen Bench": 5,
-      "Kitchen BenchMarble Kitchen Bench": 10,
-      "Marble Kitchen Bench": 2
+      "Composites": 2,
+      "Aluminium Ingot": 20,
+      "Concrete Mix": 10,
+      "Steel Screw": 8,
+      "Stone": 100
     },
     "crafted_at": "Fabricator"
   }

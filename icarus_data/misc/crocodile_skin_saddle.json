@@ -1,9 +1,14 @@
 {
   "name": "Crocodile Skin Saddle",
   "url": "https://icarus.fandom.com/wiki/Crocodile_Skin_Saddle",
-  "description": "The Crocodile Skin Saddle is a saddle for mounts that has an crocodile theme. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides no additional attributes.",
+  "description": "The Crocodile Skin Saddle is a saddle for mounts that has an crocodile theme. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides +10% chance to Resist Poison.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Leather": 14,
+    "Fur": 6,
+    "Rope": 2,
+    "Crocodile Vestige": 1
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
@@ -14,7 +19,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Leather": 14,
+      "Fur": 6,
+      "Rope": 2,
+      "Crocodile Vestige": 1
+    },
     "crafted_at": "Ranching Station"
   }
 }

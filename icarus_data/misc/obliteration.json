@@ -1,0 +1,20 @@
+{
+  "name": "Obliteration",
+  "url": "https://icarus.fandom.com/wiki/Obliteration",
+  "description": "FIND ZOOLOGIST MORRIS",
+  "item_type": "orbital",
+  "ingredients": {},
+  "crafted_at": "Workshop",
+  "tier": 3,
+  "stats": {
+    "damage": "No effect"
+  },
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Workshop"
+  }
+}

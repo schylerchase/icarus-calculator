@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Wolf_Bait",
   "description": "Wolf Bait is a Crafted Resource used to attract and capture wild wolves. It is a single-use item that is used with a Snare Trap and allows prospectors to tame Wolves / Snow Wolves . Wolf Bait does not decay and can only be used in Forest , Grassland and Arctic Biomes. Stacks up to ten.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Raw Stringy Meat": 1,
+    "Animal Fat": 2,
+    "Spoiled Meat": 5
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Raw Stringy Meat": 1,
+      "Animal Fat": 2,
+      "Spoiled Meat": 5
+    },
     "crafted_at": "Ranching Station"
   }
 }

@@ -27,7 +27,12 @@
       "url": "https://icarus.fandom.com/wiki/Battery_Powered_Lantern",
       "description": "The Battery Powered Lantern is a portable Handheld Light Source that provides illumination in the surrounding area. Can be equipped in the \"L\" light slot on the hotbar.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Glass": 4,
+        "Aluminium Ingot": 4,
+        "Epoxy": 4,
+        "Electronics": 2
+      },
       "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
@@ -38,7 +43,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Glass": 4,
+          "Aluminium Ingot": 4,
+          "Epoxy": 4,
+          "Electronics": 2
+        },
         "crafted_at": "Fabricator"
       }
     },
@@ -47,7 +57,13 @@
       "url": "https://icarus.fandom.com/wiki/Biofuel_Deep-Mining_Drill",
       "description": "The Biofuel Deep-Mining Drill will mine deep mining ore deposits when supplied with biofuel from a Biofuel Can / MXC Fuel Canister . The Biofuel Deep-Mining Drill has 5 slots and will last 2 hours and 5 minutes on a full Biofuel Can .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Ingot": 12,
+        "Copper Ingot": 10,
+        "Epoxy": 12,
+        "Electronics": 10,
+        "Copper Wire": 50
+      },
       "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
@@ -59,7 +75,13 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 12,
+          "Copper Ingot": 10,
+          "Epoxy": 12,
+          "Electronics": 10,
+          "Copper Wire": 50
+        },
         "crafted_at": "Machining Bench"
       }
     },
@@ -68,7 +90,13 @@
       "url": "https://icarus.fandom.com/wiki/Biofuel_Radar",
       "description": "The Biofuel Radar is used to scan for Exotic / Volatile Raw Exotic deposits. Once activated, aggravated Fauna (varies per region) will attempt to destroy the radar by any means necessary. Radars of all types will show ALL exotic veins on the map in each scan, regardless of whether they have been depleted. Scans performed in an Outpost will not complete as there are no exotic veins in them. This can be used to spawn aggressive wildlife for resources or experience.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 12,
+        "Gold Wire": 50,
+        "Iron Nail": 8,
+        "Glass": 2,
+        "Copper Wire": 50
+      },
       "crafted_at": "Workshop",
       "tier": 3,
       "stats": {
@@ -80,7 +108,13 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 12,
+          "Gold Wire": 50,
+          "Iron Nail": 8,
+          "Glass": 2,
+          "Copper Wire": 50
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -89,7 +123,12 @@
       "url": "https://icarus.fandom.com/wiki/Cave_Scanner",
       "description": "Locates caves with audible beeping. While the cave scanner is equipped and in hand the scanner's lights will blink and it will beep so long as a cave is somewhat nearby. The frequency of blinking/beeping increases as the Prospector approaches a cave. Furthermore, the scanner will beep more rapidly if the Prospector is looking in the direction of a cave.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 10,
+        "Gold Wire": 25,
+        "Iron Nail": 12,
+        "Copper Wire": 25
+      },
       "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
@@ -100,7 +139,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 10,
+          "Gold Wire": 25,
+          "Iron Nail": 12,
+          "Copper Wire": 25
+        },
         "crafted_at": "Machining Bench"
       }
     },
@@ -109,7 +153,12 @@
       "url": "https://icarus.fandom.com/wiki/Deep_Mining_Ore_Scanner",
       "description": "Locates Deep Ore Deposits within the area that can be mined with a Biofuel Deep-Mining Drill or an Electric Deep-Mining Drill . Does not indicate the type of deep ore deposit detected, unlike the Advanced Deep Mining Ore Scanner .",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Ingot": 10,
+        "Electronics": 4,
+        "Steel Screw": 16,
+        "Copper Wire": 30
+      },
       "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
@@ -120,7 +169,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 10,
+          "Electronics": 4,
+          "Steel Screw": 16,
+          "Copper Wire": 30
+        },
         "crafted_at": "Fabricator"
       }
     },
@@ -129,7 +183,13 @@
       "url": "https://icarus.fandom.com/wiki/Electric_Deep-Mining_Drill",
       "description": "The Electric Deep-Mining Drill will mine Deep Mining Ore Deposits when supplied with 2,000 units of Power . The Electric Deep-Mining Drill has more inventory slots, twenty in all, 15 more slots than its biofuel counterpart. This allows 1000 or 2000 ore to be accumulated before needing to be emptied, depending on the ore type.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ingot": 25,
+        "Electronics": 15,
+        "Steel Screw": 12,
+        "Titanium Ingot": 8,
+        "Carbon Fiber": 8
+      },
       "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
@@ -141,7 +201,13 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ingot": 25,
+          "Electronics": 15,
+          "Steel Screw": 12,
+          "Titanium Ingot": 8,
+          "Carbon Fiber": 8
+        },
         "crafted_at": "Fabricator"
       }
     },
@@ -150,7 +216,13 @@
       "url": "https://icarus.fandom.com/wiki/Electric_Radar",
       "description": "The Electric Radar is used to scan for Exotic / Volatile Raw Exotic deposits. Once activated, aggravated Fauna (varies per region) will attempt to destroy the radar by any means necessary. Radars of all types will show ALL exotic veins on the map in each scan, regardless of whether they have been depleted. Scans performed in an Outpost will not complete as there are no exotic veins in them. This can be used to spawn aggressive wildlife for resources or experience.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Ingot": 12,
+        "Electronics": 10,
+        "Steel Screw": 8,
+        "Glass": 2,
+        "Composites": 12
+      },
       "crafted_at": "Workshop",
       "tier": 4,
       "stats": {
@@ -162,7 +234,13 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 12,
+          "Electronics": 10,
+          "Steel Screw": 8,
+          "Glass": 2,
+          "Composites": 12
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -172,7 +250,10 @@
       "description": "The IC-001 Radar is used to scan for Exotic / Volatile Raw Exotic deposits. Once activated, aggravated Fauna (varies per region) will attempt to destroy the radar by any means necessary. Radars of all types will show ALL exotic veins on the map in each scan, regardless of whether they have been depleted. Scans performed in an Outpost will not complete as there are no exotic veins in them. This can be used to spawn aggressive wildlife for resources or experience.",
       "item_type": "craftable",
       "ingredients": {
-        "Exotics": 200
+        "1Description": 1,
+        "2Interpreting Scans": 2,
+        "3Cost": 3,
+        "4Gallery": 4
       },
       "crafted_at": "Workshop",
       "tier": 0,
@@ -186,7 +267,10 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Exotics": 200
+          "1Description": 1,
+          "2Interpreting Scans": 2,
+          "3Cost": 3,
+          "4Gallery": 4
         },
         "crafted_at": "Workshop"
       }
@@ -196,7 +280,12 @@
       "url": "https://icarus.fandom.com/wiki/Lantern",
       "description": "Similar to torches, the durability of the Lantern will decrease over time. The Lantern can be repaired (refilled) at a Crafting Bench with 1 Animal Fat . The Lantern will last about 45 minutes when lit before needing repairs. The Lantern allows prospectors to see approximately 10 meters, or 5 standard floor pieces, from their position.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 8,
+        "Rope": 4,
+        "Epoxy": 12,
+        "Animal Fat": 5
+      },
       "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
@@ -208,7 +297,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 8,
+          "Rope": 4,
+          "Epoxy": 12,
+          "Animal Fat": 5
+        },
         "crafted_at": "Crafting Bench"
       }
     },
@@ -216,8 +310,11 @@
       "name": "Wood Rag Torch",
       "url": "https://icarus.fandom.com/wiki/Wood_Rag_Torch",
       "description": "The first available source of Light Source . Can be equipped in the \"L\" light slot on the hotbar. When lit, the Wood Rag Torch also provides heat in addition to light. The Wood Rag Torch will last about 33 minutes and 20 seconds when lit before extinguishing. The Wood Rag Torch allows prospectors to see approximately 6 meters, or 3 standard floor pieces, from their position.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 40,
+        "Stick": 8
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -229,7 +326,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 40,
+          "Stick": 8
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -237,8 +337,12 @@
       "name": "Wood Torch",
       "url": "https://icarus.fandom.com/wiki/Wood_Torch",
       "description": "The Wood Torch is an upgraded handheld Light Source that will last longer than the Wood Rag Torch . Can be equipped in the \"L\" light slot on the hotbar and provides heat when lit. The Wood Torch will last about 50 minutes when lit before extinguishing. The Wood Torch allows prospectors to see approximately 6 meters, or 3 standard floor pieces, from their position.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 40,
+        "Stick": 8,
+        "Sulfur": 8
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -250,7 +354,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 40,
+          "Stick": 8,
+          "Sulfur": 8
+        },
         "crafted_at": "Unknown"
       }
     }

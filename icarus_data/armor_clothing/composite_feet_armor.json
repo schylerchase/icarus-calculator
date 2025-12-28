@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Composite_Feet_Armor",
   "description": "Composite Feet Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Aluminium Ingot": 4,
+    "Composites": 12,
+    "Steel Screw": 6,
+    "Carbon Fiber": 2
+  },
   "crafted_at": "Electric Textiles Bench",
   "tier": 4,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Aluminium Ingot": 4,
+      "Composites": 12,
+      "Steel Screw": 6,
+      "Carbon Fiber": 2
+    },
     "crafted_at": "Electric Textiles Bench"
   }
 }

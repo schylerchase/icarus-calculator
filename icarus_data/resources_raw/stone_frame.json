@@ -3,19 +3,29 @@
   "url": "https://icarus.fandom.com/wiki/Stone_Frame",
   "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 12,
+    "Stone": 40,
+    "Leather": 4,
+    "Iron Nail": 12
+  },
   "crafted_at": "the Masonry Bench with the following resources:",
   "tier": 0,
   "stats": {
     "weight": "<unkown>",
-    "durability": "<unkown>"
+    "durability": "2500"
   },
   "category": "building pieces",
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 12,
+      "Stone": 40,
+      "Leather": 4,
+      "Iron Nail": 12
+    },
     "crafted_at": "the Masonry Bench with the following resources:"
   }
 }

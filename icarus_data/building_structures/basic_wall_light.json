@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Basic_Wall_Light",
   "description": "The Basic Wall Light provides lighting for a Prospector's base. Requires 150 units of power to function.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 15,
+    "Glass": 6,
+    "Copper Wire": 40
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 15,
+      "Glass": 6,
+      "Copper Wire": 40
+    },
     "crafted_at": "Fabricator"
   }
 }

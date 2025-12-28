@@ -1,10 +1,23 @@
 {
   "name": "Raw Stringy Meat",
   "url": "https://icarus.fandom.com/wiki/Raw_Stringy_Meat",
-  "description": "Raw Stringy Meat can be obtained by Skinning animals with a Knife . Eating Raw Stringy Meat will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
-  "item_type": "weapon",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "description": "Raw Stringy Meat is a prime cut of raw meat that drops from various Fauna . Eating Raw Stringy Meat will replenish Health , but there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Alpha Wolf": 100,
+    "Arctic Scorpion": 30,
+    "Black Jaguar": 30,
+    "Cougar": 30,
+    "Jaguar": 30,
+    "Scorpion": 30,
+    "Snow Leopard": 30,
+    "Ashen Drake": 20,
+    "Hyena": 20,
+    "Komodo": 20,
+    "Snow Wolf": 20,
+    "Wolf": 20
+  },
+  "crafted_at": "the Butchery Bench using Raw Meat",
   "tier": 0,
   "stats": {},
   "category": "food",
@@ -12,7 +25,20 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
+    "ingredients": {
+      "Alpha Wolf": 100,
+      "Arctic Scorpion": 30,
+      "Black Jaguar": 30,
+      "Cougar": 30,
+      "Jaguar": 30,
+      "Scorpion": 30,
+      "Snow Leopard": 30,
+      "Ashen Drake": 20,
+      "Hyena": 20,
+      "Komodo": 20,
+      "Snow Wolf": 20,
+      "Wolf": 20
+    },
+    "crafted_at": "the Butchery Bench using Raw Meat"
   }
 }

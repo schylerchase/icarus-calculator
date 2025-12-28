@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Decorative_Shell",
   "description": "The Decorative Shell is an item unlocked by completing the Fracture mission. There are two varieties of pottery selectable by 'R'.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Clay": 10,
+    "Organic Resin": 5,
+    "Scoria": 20
+  },
   "crafted_at": "Masonry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Clay": 10,
+      "Organic Resin": 5,
+      "Scoria": 20
+    },
     "crafted_at": "Masonry Bench"
   }
 }

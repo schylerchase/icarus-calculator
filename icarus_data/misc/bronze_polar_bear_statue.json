@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Bronze_Polar_Bear_Statue",
   "description": "The Bronze Polar Bear Statue is a decorative bronze item.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Copper Ingot": 5,
+    "Condensed Enzymes": 1
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Copper Ingot": 5,
+      "Condensed Enzymes": 1
+    },
     "crafted_at": "Decoration Bench"
   }
 }

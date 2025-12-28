@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Electric_Chimney_Extension",
   "description": "A Electric Chimney Extension is a wide flat section of metal chimney or stove pipe to place on a Electric Fireplace or another existing Electric Chimney Extension to extend the chimney vertically. It is usually capped with a Electric Chimney Cap .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Aluminium Ingot": 4,
+    "Epoxy": 2,
+    "Titanium Ingot": 1
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Aluminium Ingot": 4,
+      "Epoxy": 2,
+      "Titanium Ingot": 1
+    },
     "crafted_at": "Fabricator"
   }
 }

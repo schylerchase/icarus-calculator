@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Yeast_Lure",
   "description": "The Yeast Lure can be attached to a Fishing Rod or a Basic Fishing Trap / Advanced Fishing Trap to provide an increase to different attributes detailed in the infobox. Like all Lures , the Yeast Lure degrades with use and will eventually break after ten uses.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Yeast": 2,
+    "Iron Nail": 2,
+    "Rope": 2
+  },
   "crafted_at": "Basic Fishing Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Yeast": 2,
+      "Iron Nail": 2,
+      "Rope": 2
+    },
     "crafted_at": "Basic Fishing Bench"
   }
 }

@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Striker_Terrenus_Animal_Bed",
   "description": "The Striker Terrenus Animal Bed is a bed for Mounts and Pets that has an... unsettling theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Cured Leather": 10,
+    "Fur": 35,
+    "Arid Striker Vestige": 1,
+    "Terrenus Vestige": 1
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Cured Leather": 10,
+      "Fur": 35,
+      "Arid Striker Vestige": 1,
+      "Terrenus Vestige": 1
+    },
     "crafted_at": "Ranching Station"
   }
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Rustic Lamp",
+  "url": "https://icarus.fandom.com/wiki/Rustic_Lamp",
+  "description": "The Rustic Lamp is a small wood table lamp that is part of the Rustic Furniture set. It requires 150 units of Electricity to operate and provides a Light Source and bonus to Coziness .",
+  "item_type": "craftable",
+  "ingredients": {
+    "Refined Wood": 20,
+    "Copper Nail": 10,
+    "Electronics": 2,
+    "Glass": 5
+  },
+  "crafted_at": "Decoration Bench",
+  "tier": 3,
+  "stats": {
+    "weight": "1 Kg",
+    "durability": "250"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Refined Wood": 20,
+      "Copper Nail": 10,
+      "Electronics": 2,
+      "Glass": 5
+    },
+    "crafted_at": "Decoration Bench"
+  }
+}

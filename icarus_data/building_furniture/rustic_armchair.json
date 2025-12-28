@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Rustic_Armchair",
   "description": "The Rustic Armchair seats one prospector",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Stick": 15,
+    "Fiber": 20
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Stick": 15,
+      "Fiber": 20
+    },
     "crafted_at": "Decoration Bench"
   }
 }

@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Powered_Creature_Deterrent",
   "description": "While useful for protecting Prospectors from predators, the Powered Creature Deterrent also prevents the spawning of Fauna so be aware that deer, pronghorns, rabbits, chamois, or other animals will not spawn within the indicated radius.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Composites": 15,
+    "Electronics": 25,
+    "Titanium Plate": 5,
+    "Steel Screw": 20
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Composites": 15,
+      "Electronics": 25,
+      "Titanium Plate": 5,
+      "Steel Screw": 20
+    },
     "crafted_at": "Fabricator"
   }
 }

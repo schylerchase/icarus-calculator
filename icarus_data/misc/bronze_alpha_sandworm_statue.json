@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Bronze_Alpha_Sandworm_Statue",
   "description": "The Bronze Alpha Sandworm Statue is a decorative bronze item.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Copper Ingot": 15,
+    "Condensed Enzymes": 1,
+    "Refined Gold": 10
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Copper Ingot": 15,
+      "Condensed Enzymes": 1,
+      "Refined Gold": 10
+    },
     "crafted_at": "Decoration Bench"
   }
 }

@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Electric_Composter",
   "description": "The Electric Composter enables the Prospector to produce Biofuel at an accelerated rate compared to the Biofuel Composter . An active power connection providing at least 1500 units is required to operate the Electric Composter. Similar to the Biofuel Composter , an active Water source increases processing speed and is not required.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Composites": 20,
+    "Steel Ingot": 60,
+    "Electronics": 20,
+    "Concrete Mix": 100,
+    "Steel Screw": 20
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Composites": 20,
+      "Steel Ingot": 60,
+      "Electronics": 20,
+      "Concrete Mix": 100,
+      "Steel Screw": 20
+    },
     "crafted_at": "Fabricator"
   }
 }

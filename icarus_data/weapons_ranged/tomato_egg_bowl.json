@@ -2,8 +2,11 @@
   "name": "Tomato & Egg Bowl",
   "url": "https://icarus.fandom.com/wiki/Tomato_%26_Egg_Bowl",
   "description": "Tomato & Egg Bowl is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Egg": 1,
+    "Tomato": 1
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Egg": 1,
+      "Tomato": 1
+    },
     "crafted_at": "Unknown"
   }
 }

@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Wood_Crop_Plot",
   "description": "The Wood Crop Plot is a farming plot for growing Seeds that can later be harvested for Plant Resources once fully grown. Unless the Prospector has the Fresh Is Best talent when deploying a seed into the crop plot, the grown Plant Resource will eventually wither if not harvested.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 8,
+    "Sulfur": 10,
+    "Dirt": 20
+  },
   "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 8,
+      "Sulfur": 10,
+      "Dirt": 20
+    },
     "crafted_at": "Crafting Bench"
   }
 }

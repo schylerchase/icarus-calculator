@@ -1,9 +1,13 @@
 {
   "name": "Oxite Dissolver",
   "url": "https://icarus.fandom.com/wiki/Oxite_Dissolver",
-  "description": "More efficient than the Oxidizer , this is used in tandem with Oxygen Containers placed into the dissolver. The front slots of the deployable only accept Oxygen Containers and will automatically fill said containers from Oxite placed into the machine when supplied with Sulfur . A stack of sulfur will last sixteen minutes and forty seconds, producing 0.1 Liters of Oxygen every two seconds.",
+  "description": "The Oxite Dissolver is a deployable generator that produces oxygen from Oxite using Sulfur as a fuel source. It is more efficient than the Oxidizer and provides a means to fill up containers instead of having to consume oxygen directly from the device.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 18,
+    "Leather": 24,
+    "Bone": 8
+  },
   "crafted_at": "Crafting Bench Machining Bench Fabricator",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 18,
+      "Leather": 24,
+      "Bone": 8
+    },
     "crafted_at": "Crafting Bench Machining Bench Fabricator"
   }
 }

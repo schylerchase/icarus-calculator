@@ -3,7 +3,9 @@
   "url": "https://icarus.fandom.com/wiki/Bramble_Bush",
   "description": "Bramble Bush is produced by harvesting the cultivated variety of Bramble . Bramble can be grown with Seeds either harvested from wild, extracted with the Seed Extractor or using a Bramble Farming Packet from the Workshop .",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Seeds": 1
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {
@@ -18,7 +20,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Seeds": 1
+    },
     "crafted_at": "Unknown"
   }
 }

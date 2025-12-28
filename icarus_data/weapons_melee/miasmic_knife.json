@@ -1,9 +1,16 @@
 {
   "name": "Miasmic Knife",
   "url": "https://icarus.fandom.com/wiki/Miasmic_Knife",
-  "description": "Miasmic Knife is a Tier 4  Knife made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "description": "Miasmic Knife is a Tier 4 Knife made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Carbon Fiber": 4,
+    "Steel Screw": 2,
+    "Epoxy": 4,
+    "Titanium Ingot": 4,
+    "Distilled Miasmic Coating": 4,
+    "Refined Wood": 5
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {
@@ -16,7 +23,14 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Carbon Fiber": 4,
+      "Steel Screw": 2,
+      "Epoxy": 4,
+      "Titanium Ingot": 4,
+      "Distilled Miasmic Coating": 4,
+      "Refined Wood": 5
+    },
     "crafted_at": "Unknown"
   }
 }

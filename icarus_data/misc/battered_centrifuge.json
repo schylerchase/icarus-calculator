@@ -1,0 +1,33 @@
+{
+  "name": "Battered Centrifuge",
+  "url": "https://icarus.fandom.com/wiki/Battered_Centrifuge",
+  "description": "The Battered Centrifuge is a decorative laboratory centrifuge for placing on any surface, such as the Battered Lab Desk . It serves as decoration and is not otherwise used for crafting.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Steel Ingot": 6,
+    "Electronics": 6,
+    "Glass": 4,
+    "Copper Wire": 6,
+    "Gold Wire": 12
+  },
+  "crafted_at": "Chemistry Bench",
+  "tier": 4,
+  "stats": {
+    "weight": "4 Kg",
+    "durability": "750"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Steel Ingot": 6,
+      "Electronics": 6,
+      "Glass": 4,
+      "Copper Wire": 6,
+      "Gold Wire": 12
+    },
+    "crafted_at": "Chemistry Bench"
+  }
+}

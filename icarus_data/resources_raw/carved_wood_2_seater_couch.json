@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_2-Seater_Couch",
   "description": "The Carved Wood 2-Seater Couch is a decorative item.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 75,
+    "Copper Nail": 20,
+    "Fiber": 75
+  },
   "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 75,
+      "Copper Nail": 20,
+      "Fiber": 75
+    },
     "crafted_at": "Carpentry Bench"
   }
 }

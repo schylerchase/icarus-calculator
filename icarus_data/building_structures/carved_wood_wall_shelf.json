@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_Wall_Shelf",
   "description": "The Carved Wood Wall Shelf is a decorative item that has two varieties, select R when deploying.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 25,
+    "Copper Nail": 15
+  },
   "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 25,
+      "Copper Nail": 15
+    },
     "crafted_at": "Carpentry Bench"
   }
 }

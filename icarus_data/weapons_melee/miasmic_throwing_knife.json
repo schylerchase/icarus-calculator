@@ -3,7 +3,14 @@
   "url": "https://icarus.fandom.com/wiki/Miasmic_Throwing_Knife",
   "description": "The Miasmic Throwing Knife is a variant of the Miasmic Knife that can only be thrown and is unlocked upon researching the Miasmic Knife . Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Carbon Fiber": 2,
+    "Steel Screw": 4,
+    "Epoxy": 4,
+    "Titanium Ingot": 3,
+    "Distilled Miasmic Coating": 3,
+    "Refined Wood": 5
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {
@@ -17,7 +24,14 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Carbon Fiber": 2,
+      "Steel Screw": 4,
+      "Epoxy": 4,
+      "Titanium Ingot": 3,
+      "Distilled Miasmic Coating": 3,
+      "Refined Wood": 5
+    },
     "crafted_at": "Unknown"
   }
 }

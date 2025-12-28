@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Electronic_Food_Trough",
   "description": "All Food Troughs have an allow list for nearby animals that can be accessed by pressing 'X'. To change which animals can eat from a specific food trough, select the animals permitted to eat from the food trough and select \"Allowlist-Only Interaction\". By default, all nearby animals can eat from food troughs.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Titanium Plate": 2,
+    "Electronics": 10,
+    "Carbon Fiber": 15,
+    "Platinum Weave": 30
+  },
   "crafted_at": "Ranching Station",
   "tier": 4,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Titanium Plate": 2,
+      "Electronics": 10,
+      "Carbon Fiber": 15,
+      "Platinum Weave": 30
+    },
     "crafted_at": "Ranching Station"
   }
 }

@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Electric_Textiles_Bench",
   "description": "A power connection providing at least 2,500 of power is required to utilize this bench. Allows for the crafting of more advanced Armor sets and items that can be made at the Textiles Bench and Advanced Textiles Bench .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 30,
+    "Electronics": 8,
+    "Concrete Mix": 15,
+    "Steel Screw": 18
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 30,
+      "Electronics": 8,
+      "Concrete Mix": 15,
+      "Steel Screw": 18
+    },
     "crafted_at": "Fabricator"
   }
 }

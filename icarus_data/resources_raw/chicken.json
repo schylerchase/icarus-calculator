@@ -3,7 +3,14 @@
   "url": "https://icarus.fandom.com/wiki/Chicken",
   "description": "A Chicken is a Transplanted farm animal that provides a source of Eggs and Raw Chicken for Food recipes.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "1Description": 1,
+    "2Obtaining": 2,
+    "3Cost": 3,
+    "4Eggs": 4,
+    "5Feeding": 5,
+    "6Skinning": 6
+  },
   "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
@@ -12,7 +19,14 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "1Description": 1,
+      "2Obtaining": 2,
+      "3Cost": 3,
+      "4Eggs": 4,
+      "5Feeding": 5,
+      "6Skinning": 6
+    },
     "crafted_at": "Workshop"
   }
 }

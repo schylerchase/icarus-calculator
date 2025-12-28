@@ -2,8 +2,12 @@
   "name": "Concrete Mix",
   "url": "https://icarus.fandom.com/wiki/Concrete_Mix",
   "description": "Concrete Mix is used widely in crafting of items such as Concrete Building Pieces , Concrete Furnace , and the Fabricator .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Tree Sap": 1,
+    "Stone": 8,
+    "Silica Ore": 4
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Tree Sap": 1,
+      "Stone": 8,
+      "Silica Ore": 4
+    },
     "crafted_at": "Unknown"
   }
 }

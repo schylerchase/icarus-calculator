@@ -1,6 +1,6 @@
 {
   "category": "Orbital Items",
-  "count": 44,
+  "count": 47,
   "items": [
     {
       "name": "12-Gauge CHAC Shell",
@@ -8,7 +8,7 @@
       "description": "12-Gauge CHAC Shell is an advanced purchaseable buckshot ammunition that does up to 450 damage. It pairs well with the CHAC \"Boomstick\" Shotgun that can also be purchased from the Workshop .",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
         "weight": "0.01 kg"
@@ -19,7 +19,27 @@
       "purchase_cost": 450,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "5.56mm CHAC Round",
+      "url": "https://icarus.fandom.com/wiki/5.56mm_CHAC_Round",
+      "description": "5.56mm CHAC Round is a purchaseable type of Assault Rifle Ammunition for use in the Tier 4 Assault Rifle .",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "0.01 kg"
+      },
+      "category": "rifle ammunition",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 4,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -43,12 +63,32 @@
       }
     },
     {
+      "name": "9mm CHAC Ammo",
+      "url": "https://icarus.fandom.com/wiki/9mm_CHAC_Ammo",
+      "description": "9mm CHAC Ammo is a purchaseable Pistol Ammunition that does 200 damage. The rounds are used by Pistols , the Submachine Gun and the Automated Defense System: Pistol .",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "0.01 kg"
+      },
+      "category": "pistol ammunition",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 200,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
       "name": "Anti-Parasitic Vaccine I",
       "url": "https://icarus.fandom.com/wiki/Anti-Parasitic_Vaccine_I",
       "description": "Anti-Parasitic Vaccine I is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unqiue Status Effect , which makes surviving the enviroment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -57,7 +97,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -66,7 +106,7 @@
       "description": "Anti-Parasitic Vaccine II is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unqiue Status Effect , which makes surviving the enviroment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -75,7 +115,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -84,7 +124,7 @@
       "description": "Anti-Parasitic Vaccine III is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -93,7 +133,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -120,7 +160,7 @@
       "description": "Anti-Poison Vaccine I is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -129,7 +169,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -138,7 +178,7 @@
       "description": "Anti-Poison Vaccine II is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -147,7 +187,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -156,7 +196,7 @@
       "description": "Anti-Poison Vaccine III is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -165,7 +205,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -174,7 +214,7 @@
       "description": "Bacterial Vaccine I is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -183,7 +223,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -192,7 +232,7 @@
       "description": "Bacterial Vaccine II is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -201,7 +241,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -210,7 +250,7 @@
       "description": "Bacterial Vaccine III is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -219,7 +259,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -228,7 +268,7 @@
       "description": "Blood Thinning Vaccine I is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -237,7 +277,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -246,7 +286,7 @@
       "description": "Blood Thinning Vaccine II is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -255,7 +295,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -264,7 +304,7 @@
       "description": "Blood Thinning Vaccine III is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unique Status Effect , which makes surviving the environment without worry possible.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "medicine",
@@ -273,16 +313,16 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "CHAC \"Boomstick\" Shotgun",
       "url": "https://icarus.fandom.com/wiki/CHAC_%22Boomstick%22_Shotgun",
-      "description": "The CHAC \"Boomstick\" Shotgun is an advanced purchaseable Shotgun with increase projectile and critical damage. It fires any Shotgun Ammunition and is comparable to other Tier 4  Firearms .",
+      "description": "The CHAC \"Boomstick\" Shotgun is an advanced purchaseable Shotgun with increase projectile and critical damage. It fires any Shotgun Ammunition and is comparable to other Tier 4 Firearms .",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -295,7 +335,7 @@
       "purchase_cost": 4,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -304,7 +344,7 @@
       "description": "The CHAC \"Sovereign\" Rifle is a purchaseable rifle with a fast reload speed and moderate damage capability.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
         "damage": "+25% Critical Damage",
@@ -317,7 +357,7 @@
       "purchase_cost": 7,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -326,7 +366,7 @@
       "description": "Crafting is the skill that enables many of the other ways prospectors pursue their goals on Icarus. While they can gather Food with their bare hands, and can attempt to Hunt with their fists, everything they attempt on the moon's surface is facilitated by crafting.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "",
@@ -335,7 +375,28 @@
       "purchase_cost": 10,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "IC-001 Extractor",
+      "url": "https://icarus.fandom.com/wiki/IC-001_Extractor",
+      "description": "The IC-001 Extractor is a deployable device purchased from the Workshop that is used to extract Exotics from Exotic ore deposits. It requires the IC-001 Prototype Power Source to operate and can extract approximately 330 Exotics per power source.",
+      "item_type": "orbital",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {
+        "weight": "2.0 kg",
+        "durability": "5,000"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": 1,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -362,7 +423,7 @@
       "description": "Kiwifruit are a fresh fruit that can be eaten raw for a small boost in stamina and resistance to cave sickness or used in additional Food recipes.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "",
@@ -371,7 +432,7 @@
       "purchase_cost": 3,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -380,7 +441,7 @@
       "description": "The MXC Fuel Canister is purchased from the Workshop on the Space Station and is used for Biofuel storage. It comes prefilled with fuel when purchased and can be refilled at the Biofuel Composter , Electric Composter or by interacting with a Portable Biofuel Tank deployed on the ground. It can be taken back to Orbit and will remain filled, allowing the Prospector to use it across multiple prospects. It does not fill when returned to station. It holds 10 liters of Biofuel.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
         "weight": "1.0 Kg",
@@ -392,7 +453,7 @@
       "purchase_cost": 10,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -401,7 +462,7 @@
       "description": "The MXC Hydrazine Canister is purchased from the Workshop on the Space Station and stores 10,000 litres of hydrazine. The fuel is used in several other MXC devices by placing the canister in the device's inventory slot. The fuel canister cannot be refilled.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
         "weight": "2.0 Kg"
@@ -412,7 +473,7 @@
       "purchase_cost": 10,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -421,7 +482,7 @@
       "description": "The MXC Venom Arrow is ammunition used with a Bow . Like bolts and javelins, they may be recovered after being fired into the ground or an animal carcass.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
         "weight": "0.015 kg"
@@ -432,7 +493,7 @@
       "purchase_cost": 3,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -441,7 +502,7 @@
       "description": "Consuming the bundle will add 5x MXC Venom Arrow to the Prospectors inventory, must be consumed after dropping into a prospect. Consumed arrow bundles cannot be taken back to the space station. Arrow bundles that have not been consumed can be taken back to the space station for use in another prospect.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
         "weight": "0.1 kg"
@@ -452,7 +513,7 @@
       "purchase_cost": 3,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -461,7 +522,7 @@
       "description": "It is worth noting that this Oxygen Container takes 65 Oxite to fill at a Oxite Dissolver , and will last significantly longer than an Oxygen Bladder , making it one of the most valuable early game purchases in the Workshop . Will remain filled between Prospects. It holds 6500 oxygen units making it useful for stockpile missions that require oxygen delivery.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
         "weight": "0.1 kg"
@@ -472,7 +533,7 @@
       "purchase_cost": 6500,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -1234,20 +1295,16 @@
       "url": "https://icarus.fandom.com/wiki/UDA_Aluminium_Ore_Resource_Supply",
       "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the Short Range Radio .",
       "item_type": "orbital",
-      "ingredients": {
-        "Ren": 75
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 100,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 100,
       "base_recipe": {
-        "ingredients": {
-          "Ren": 75
-        },
+        "ingredients": {},
         "crafted_at": "Unknown"
       }
     },
@@ -1257,7 +1314,7 @@
       "description": "The Stabilized Exotics needed to research this item are exclusive to the Prometheus map.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
@@ -1266,7 +1323,7 @@
       "purchase_cost": 100,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -1274,20 +1331,16 @@
       "url": "https://icarus.fandom.com/wiki/UDA_Comet_Coal_Resource_Supply",
       "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the CONT4CT Device .",
       "item_type": "orbital",
-      "ingredients": {
-        "Ren": 50
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 100,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 100,
       "base_recipe": {
-        "ingredients": {
-          "Ren": 50
-        },
+        "ingredients": {},
         "crafted_at": "Unknown"
       }
     },
@@ -1296,20 +1349,16 @@
       "url": "https://icarus.fandom.com/wiki/UDA_Copper_Ore_Resource_Supply",
       "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the Short Range Radio .",
       "item_type": "orbital",
-      "ingredients": {
-        "Ren": 50
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 100,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 100,
       "base_recipe": {
-        "ingredients": {
-          "Ren": 50
-        },
+        "ingredients": {},
         "crafted_at": "Unknown"
       }
     },
@@ -1319,7 +1368,7 @@
       "description": "",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
@@ -1328,7 +1377,7 @@
       "purchase_cost": 50,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -1336,20 +1385,16 @@
       "url": "https://icarus.fandom.com/wiki/UDA_Gold_Ore_Resource_Supply",
       "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the Short Range Radio .",
       "item_type": "orbital",
-      "ingredients": {
-        "Ren": 50
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 100,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 100,
       "base_recipe": {
-        "ingredients": {
-          "Ren": 50
-        },
+        "ingredients": {},
         "crafted_at": "Unknown"
       }
     },
@@ -1358,20 +1403,16 @@
       "url": "https://icarus.fandom.com/wiki/UDA_Iron_Ore_Resource_Supply",
       "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the Short Range Radio .",
       "item_type": "orbital",
-      "ingredients": {
-        "Ren": 50
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 100,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 100,
       "base_recipe": {
-        "ingredients": {
-          "Ren": 50
-        },
+        "ingredients": {},
         "crafted_at": "Unknown"
       }
     },
@@ -1381,7 +1422,7 @@
       "description": "The Stabilized Exotics needed to research this item are exclusive to the Prometheus map.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
@@ -1390,7 +1431,7 @@
       "purchase_cost": 100,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -1398,20 +1439,16 @@
       "url": "https://icarus.fandom.com/wiki/UDA_Oxite_Ore_Resource_Supply",
       "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the Short Range Radio .",
       "item_type": "orbital",
-      "ingredients": {
-        "Ren": 50
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 100,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 100,
       "base_recipe": {
-        "ingredients": {
-          "Ren": 50
-        },
+        "ingredients": {},
         "crafted_at": "Unknown"
       }
     },
@@ -1420,20 +1457,16 @@
       "url": "https://icarus.fandom.com/wiki/UDA_Platinum_Ore_Resource_Supply",
       "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the Short Range Radio .",
       "item_type": "orbital",
-      "ingredients": {
-        "Ren": 75
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 100,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 100,
       "base_recipe": {
-        "ingredients": {
-          "Ren": 75
-        },
+        "ingredients": {},
         "crafted_at": "Unknown"
       }
     },
@@ -1443,7 +1476,7 @@
       "description": "The Stabilized Exotics needed to research this item are exclusive to the Prometheus map.",
       "item_type": "orbital",
       "ingredients": {},
-      "crafted_at": "Workshop",
+      "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
@@ -1452,7 +1485,7 @@
       "purchase_cost": 100,
       "base_recipe": {
         "ingredients": {},
-        "crafted_at": "Workshop"
+        "crafted_at": "Unknown"
       }
     },
     {
@@ -1460,20 +1493,16 @@
       "url": "https://icarus.fandom.com/wiki/UDA_Silica_Ore_Resource_Supply",
       "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the Short Range Radio .",
       "item_type": "orbital",
-      "ingredients": {
-        "Ren": 50
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 100,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 100,
       "base_recipe": {
-        "ingredients": {
-          "Ren": 50
-        },
+        "ingredients": {},
         "crafted_at": "Unknown"
       }
     },
@@ -1482,20 +1511,16 @@
       "url": "https://icarus.fandom.com/wiki/UDA_Stone_Resource_Supply",
       "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the Short Range Radio .",
       "item_type": "orbital",
-      "ingredients": {
-        "Ren": 25
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 250,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 250,
       "base_recipe": {
-        "ingredients": {
-          "Ren": 25
-        },
+        "ingredients": {},
         "crafted_at": "Unknown"
       }
     },
@@ -1504,20 +1529,16 @@
       "url": "https://icarus.fandom.com/wiki/UDA_Sulfur_Ore_Resource_Supply",
       "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the Short Range Radio .",
       "item_type": "orbital",
-      "ingredients": {
-        "Ren": 50
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 100,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 100,
       "base_recipe": {
-        "ingredients": {
-          "Ren": 50
-        },
+        "ingredients": {},
         "crafted_at": "Unknown"
       }
     },
@@ -1526,20 +1547,16 @@
       "url": "https://icarus.fandom.com/wiki/UDA_Titanium_Ore_Resource_Supply",
       "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the Short Range Radio .",
       "item_type": "orbital",
-      "ingredients": {
-        "Ren": 125
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 100,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 100,
       "base_recipe": {
-        "ingredients": {
-          "Ren": 125
-        },
+        "ingredients": {},
         "crafted_at": "Unknown"
       }
     },
@@ -1548,20 +1565,16 @@
       "url": "https://icarus.fandom.com/wiki/UDA_Wood_Resource_Supply",
       "description": "Despite the usefulness of these supply packs, they are quite expensive when used often (ideal for creative builds). Don't feel like running out to gather materials, and you're out of Ren? Exotics can be sold for Ren under the Workshop tab while at the station, and Ren can be obtained by completing SMPL3 missions using the Short Range Radio .",
       "item_type": "orbital",
-      "ingredients": {
-        "Ren": 25
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
       "category": "resource packs",
       "harvested_from": [],
-      "research_cost": 250,
-      "purchase_cost": null,
+      "research_cost": null,
+      "purchase_cost": 250,
       "base_recipe": {
-        "ingredients": {
-          "Ren": 25
-        },
+        "ingredients": {},
         "crafted_at": "Unknown"
       }
     },

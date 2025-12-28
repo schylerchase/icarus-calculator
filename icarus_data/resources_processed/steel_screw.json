@@ -4,7 +4,7 @@
   "description": "Steel Screw is used in crafting high end tools, weapons, and structures like Aluminium Buildings .",
   "item_type": "craftable",
   "ingredients": {
-    "Steel Ingot": 100
+    "Steel Ingot": 1
   },
   "crafted_at": "Machining Bench",
   "tier": 3,
@@ -15,7 +15,7 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {
-      "Steel Ingot": 100
+      "Steel Ingot": 1
     },
     "crafted_at": "Machining Bench"
   }

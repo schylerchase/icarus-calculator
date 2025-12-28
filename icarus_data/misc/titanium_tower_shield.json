@@ -2,8 +2,14 @@
   "name": "Titanium Tower Shield",
   "url": "https://icarus.fandom.com/wiki/Titanium_Tower_Shield",
   "description": "The Titanium Tower Shield is crafted at the Foundry with the following resources:",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Titanium Plate": 4,
+    "Cured Leather": 3,
+    "Epoxy": 5,
+    "Steel Screw": 10,
+    "Titanium Ingot": 2
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Titanium Plate": 4,
+      "Cured Leather": 3,
+      "Epoxy": 5,
+      "Steel Screw": 10,
+      "Titanium Ingot": 2
+    },
     "crafted_at": "Unknown"
   }
 }

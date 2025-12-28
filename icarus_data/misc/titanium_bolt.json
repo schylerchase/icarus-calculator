@@ -2,8 +2,12 @@
   "name": "Titanium Bolt",
   "url": "https://icarus.fandom.com/wiki/Titanium_Bolt",
   "description": "The Titanium Bolt is ammunition used with a Crossbow . Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Steel Screw": 4,
+    "Titanium Ingot": 1,
+    "Carbon Fiber": 1
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Screw": 4,
+      "Titanium Ingot": 1,
+      "Carbon Fiber": 1
+    },
     "crafted_at": "Unknown"
   }
 }

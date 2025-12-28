@@ -1,9 +1,13 @@
 {
   "name": "Arctic Survival Saddle",
   "url": "https://icarus.fandom.com/wiki/Arctic_Survival_Saddle",
-  "description": "The Arctic Survival Saddle is a saddle for Mounts that has +2 heavy cargo slots and attributes for arctic survival.",
+  "description": "The Arctic Survival Saddle is a saddle for Mounts that has multiple bonuses that are useful for travel in the arctic and +2 heavy cargo slots.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Platinum Weave": 10,
+    "Wool": 25,
+    "Rope": 5
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Platinum Weave": 10,
+      "Wool": 25,
+      "Rope": 5
+    },
     "crafted_at": "Ranching Station"
   }
 }

@@ -2,8 +2,11 @@
   "name": "Wood Railing Gate",
   "url": "https://icarus.fandom.com/wiki/Wood_Railing_Gate",
   "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offers good protection to Deployables and Storage containers. Wood Railing Gates can be deployed on their own or can be snapped to railings/floors.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 8,
+    "Wood": 8
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 8,
+      "Wood": 8
+    },
     "crafted_at": "Unknown"
   }
 }

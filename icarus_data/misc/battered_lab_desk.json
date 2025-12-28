@@ -1,0 +1,29 @@
+{
+  "name": "Battered Lab Desk",
+  "url": "https://icarus.fandom.com/wiki/Battered_Lab_Desk",
+  "description": "The Battered Lab Desk is a decorative laboratory-themed furniture piece that can be deployed and decorated with other items in the Laboratory Themed Decorations set. It serves a decorative purpose and does not have any use for storage or crafting.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Steel Ingot": 16,
+    "Refined Wood": 25,
+    "Composites": 6
+  },
+  "crafted_at": "Chemistry Bench",
+  "tier": 2,
+  "stats": {
+    "weight": "12 Kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Steel Ingot": 16,
+      "Refined Wood": 25,
+      "Composites": 6
+    },
+    "crafted_at": "Chemistry Bench"
+  }
+}

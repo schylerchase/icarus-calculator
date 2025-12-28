@@ -1,9 +1,12 @@
 {
   "name": "12-Gauge Obsidian Shell",
   "url": "https://icarus.fandom.com/wiki/12-Gauge_Obsidian_Shell",
-  "description": "12-Gauge Obsidian Shells are a variant of 12-Gauge Buckshot Shells that deal fire damage on hit and have a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 12-Gauge Obsidian Shells can decimate Fauna that have a weakness to fire, especially when the 'Burning' modifier occurs. .",
+  "description": "12-Gauge Obsidian Shells are a variant of 12-Gauge Buckshot Shells that deal fire damage on hit and have a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 12-Gauge Obsidian Shells can decimate Fauna that have a weakness to fire, especially when the 'Burning' modifier occurs. A list of fauna that are weak to fire can be viewed here .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "-Gauge Buckshot Shell": 5,
+    "Shaped Obsidian": 1
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "-Gauge Buckshot Shell": 5,
+      "Shaped Obsidian": 1
+    },
     "crafted_at": "Machining Bench"
   }
 }

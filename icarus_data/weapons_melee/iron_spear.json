@@ -1,9 +1,13 @@
 {
   "name": "Iron Spear",
   "url": "https://icarus.fandom.com/wiki/Iron_Spear",
-  "description": "The Iron Spear is the first Spear available to prospectors once they reach Tier 2  and serves as an upgrade to its Tier 1  counterparts. Unlike the Iron Javelin , the Iron Spear cannot be thrown.",
+  "description": "The Iron Spear is the first Spear available to prospectors once they reach Tier 2 and serves as an upgrade to its Tier 1 counterparts. Unlike the Iron Javelin , the Iron Spear cannot be thrown.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 5,
+    "Leather": 6,
+    "Iron Ingot": 24
+  },
   "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
@@ -16,7 +20,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 5,
+      "Leather": 6,
+      "Iron Ingot": 24
+    },
     "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

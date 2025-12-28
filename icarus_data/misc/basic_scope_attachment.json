@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Basic_Scope_Attachment",
   "description": "Basic Scope Attachment is a mid-to-end game item available once the prospector has unlocked the Ranged Attachment Pack tech. Does not add actual scope to weapon.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 2,
+    "Glass": 1
+  },
   "crafted_at": "Alteration Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 2,
+      "Glass": 1
+    },
     "crafted_at": "Alteration Bench"
   }
 }

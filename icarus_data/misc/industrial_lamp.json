@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Industrial_Lamp",
   "description": "A minimalist Industrial Lamp",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 15,
+    "Steel Screw": 5,
+    "Glass": 10
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 15,
+      "Steel Screw": 5,
+      "Glass": 10
+    },
     "crafted_at": "Decoration Bench"
   }
 }

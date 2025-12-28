@@ -2,8 +2,14 @@
   "name": "Fruit Smoothie",
   "url": "https://icarus.fandom.com/wiki/Fruit_Smoothie",
   "description": "Fruit Smoothie is a refreshing Drink that when consumed provides a boost to experience gained and resistance to cave sickness.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Kiwifruit": 5,
+    "Mature Coconut": 2,
+    "Watermelon": 1,
+    "Wild Berry": 5,
+    "Strawberry": 10
+  },
   "crafted_at": "Unknown",
   "tier": 3,
   "stats": {},
@@ -12,7 +18,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Kiwifruit": 5,
+      "Mature Coconut": 2,
+      "Watermelon": 1,
+      "Wild Berry": 5,
+      "Strawberry": 10
+    },
     "crafted_at": "Unknown"
   }
 }

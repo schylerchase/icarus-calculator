@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Chimney_Cap",
   "description": "A Chimney Cap is the final cap piece to place on a Chimney Extension or directly on a Fireplace . A smaller variant, the Chimney Cap Half can also be used for the same purpose.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Stone": 40,
+    "Wood": 20
+  },
   "crafted_at": "Crafting Bench Machining Bench Fabricator",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Stone": 40,
+      "Wood": 20
+    },
     "crafted_at": "Crafting Bench Machining Bench Fabricator"
   }
 }

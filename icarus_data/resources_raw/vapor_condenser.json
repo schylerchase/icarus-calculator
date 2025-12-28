@@ -1,9 +1,15 @@
 {
   "name": "Vapor Condenser",
   "url": "https://icarus.fandom.com/wiki/Vapor_Condenser",
-  "description": "The Vapor Condenser is a deployable that can be placed on Enzyme Geysers to extract Condensed Enzymes and Exotics (depending on the game mode).",
+  "description": "The Vapor Condenser is a deployable that can be placed on Enzyme Geysers to extract Condensed Enzymes , Volatile Raw Exotics and Exotics . The amount of rewards depends on the map (Outpost or not), the area and the difficulty setting.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Composites": 20,
+    "Glass": 12,
+    "Electronics": 10,
+    "Steel Screw": 8,
+    "Copper Wire": 40
+  },
   "crafted_at": "Workshop",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Composites": 20,
+      "Glass": 12,
+      "Electronics": 10,
+      "Steel Screw": 8,
+      "Copper Wire": 40
+    },
     "crafted_at": "Workshop"
   }
 }

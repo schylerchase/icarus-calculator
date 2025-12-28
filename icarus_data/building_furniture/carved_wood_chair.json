@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_Chair",
   "description": "The Carved Wood Chair is a decorative chair of two varieties, select R when deploying.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 15,
+    "Copper Nail": 10,
+    "Fiber": 50
+  },
   "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 15,
+      "Copper Nail": 10,
+      "Fiber": 50
+    },
     "crafted_at": "Carpentry Bench"
   }
 }

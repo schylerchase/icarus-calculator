@@ -1,9 +1,12 @@
 {
   "name": "9mm Incendiary Round",
   "url": "https://icarus.fandom.com/wiki/9mm_Incendiary_Round",
-  "description": "9mm Incendiary Rounds are used by the Pistol . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Hitting a target will set it ablaze, dealing damage for approximately 20 seconds. Deals 8-11 damage a second to normal targets, and 16-22 damage a second to targets that are weak to fire. .",
+  "description": "9mm Incendiary Rounds are ammunition rounds that set fire to the target. The rounds are used by Pistols , the Submachine Gun and the Automated Defense System: Pistol .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "mm Round": 1,
+    "Gunpowder": 5
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "mm Round": 1,
+      "Gunpowder": 5
+    },
     "crafted_at": "Machining Bench"
   }
 }

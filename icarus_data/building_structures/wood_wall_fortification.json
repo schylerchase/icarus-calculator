@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Wood_Wall_Fortification",
   "description": "The Wood Wall Fortification serves as large wall that can attach Wood Spikes Fortifications to fend off the predators of Icarus. Similar to Medium Wood Hedgehogs , the Wood Wall Fortification does not take damage during storms.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 50,
+    "Iron Nail": 18,
+    "Rope": 12
+  },
   "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 50,
+      "Iron Nail": 18,
+      "Rope": 12
+    },
     "crafted_at": "Crafting Bench"
   }
 }

@@ -2,8 +2,10 @@
   "name": "Kinetic Rifle",
   "url": "https://icarus.fandom.com/wiki/Kinetic_Rifle",
   "description": "The Kinetic Rifle is a Legendary Weapon Rifle that can be purchased at the Bio-lab .",
-  "item_type": "orbital",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Legendary Licence": 1
+  },
   "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
@@ -15,7 +17,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Legendary Licence": 1
+    },
     "crafted_at": "Workshop"
   }
 }

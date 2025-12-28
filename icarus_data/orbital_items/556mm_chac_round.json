@@ -1,0 +1,20 @@
+{
+  "name": "5.56mm CHAC Round",
+  "url": "https://icarus.fandom.com/wiki/5.56mm_CHAC_Round",
+  "description": "5.56mm CHAC Round is a purchaseable type of Assault Rifle Ammunition for use in the Tier 4 Assault Rifle .",
+  "item_type": "orbital",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.01 kg"
+  },
+  "category": "rifle ammunition",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": 4,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

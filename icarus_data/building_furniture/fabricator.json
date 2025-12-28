@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Fabricator",
   "description": "The Fabricator is the late-game crafting bench, it enables the crafting of Weapons and Tools like the Combat Knife and a Titanium Pickaxe . It also enables the creation of power sources, such as the Biofuel Generator , and the Refrigerator .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Aluminium Ingot": 40,
+    "Electronics": 30,
+    "Concrete Mix": 30,
+    "Carbon Fiber": 8,
+    "Steel Screw": 30
+  },
   "crafted_at": "Machining Bench",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Aluminium Ingot": 40,
+      "Electronics": 30,
+      "Concrete Mix": 30,
+      "Carbon Fiber": 8,
+      "Steel Screw": 30
+    },
     "crafted_at": "Machining Bench"
   }
 }

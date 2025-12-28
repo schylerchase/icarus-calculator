@@ -2,8 +2,12 @@
   "name": "Anti-Poison Pill",
   "url": "https://icarus.fandom.com/wiki/Anti-Poison_Pill",
   "description": "Anti-Poison Pills are used to cure, and prevent for a short time, further ailments from contact with poisonous substances.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Anti-Poison Tonic": 1,
+    "Poison Paste": 1,
+    "Charcoal": 5
+  },
   "crafted_at": "Unknown",
   "tier": 3,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Anti-Poison Tonic": 1,
+      "Poison Paste": 1,
+      "Charcoal": 5
+    },
     "crafted_at": "Unknown"
   }
 }

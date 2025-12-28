@@ -1,9 +1,15 @@
 {
   "name": "Biofuel Bio-Cleaner",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Bio-Cleaner",
-  "description": "The Biofuel Bio-Cleaner is a deployable Tier 3  cleaning device that can process organic materials collected from world bosses into Legendary Biomass and clean infected materials found on Prometheus , similar to the Tier 4  Organic Residue Cleanser .",
+  "description": "The Biofuel Bio-Cleaner is a deployable Tier 3 cleaning device that can process organic materials collected from world bosses into Legendary Biomass and clean infected materials found on Prometheus , similar to the Tier 4 Organic Residue Cleanser .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 25,
+    "Glass": 10,
+    "Epoxy": 12,
+    "Electronics": 15,
+    "Copper Wire": 40
+  },
   "crafted_at": "Workshop",
   "tier": 3,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 25,
+      "Glass": 10,
+      "Epoxy": 12,
+      "Electronics": 15,
+      "Copper Wire": 40
+    },
     "crafted_at": "Workshop"
   }
 }

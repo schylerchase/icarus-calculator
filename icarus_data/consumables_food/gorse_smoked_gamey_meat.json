@@ -2,8 +2,11 @@
   "name": "Gorse Smoked Gamey Meat",
   "url": "https://icarus.fandom.com/wiki/Gorse_Smoked_Gamey_Meat",
   "description": "Gorse Smoked Gamey Meat is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Raw Gamey Meat": 1,
+    "Gorse Flower": 5
+  },
   "crafted_at": "Unknown",
   "tier": 3,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Raw Gamey Meat": 1,
+      "Gorse Flower": 5
+    },
     "crafted_at": "Unknown"
   }
 }

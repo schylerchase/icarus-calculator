@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Miasmic_Spear",
   "description": "Element damage does not scale with Spear talents. Unlike the Miasmic Javelin , the Miasmic Spear cannot be thrown.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 20,
+    "Cured Leather": 1,
+    "Titanium Ingot": 12,
+    "Distilled Miasmic Coating": 12
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {
@@ -18,7 +23,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 20,
+      "Cured Leather": 1,
+      "Titanium Ingot": 12,
+      "Distilled Miasmic Coating": 12
+    },
     "crafted_at": "Unknown"
   }
 }

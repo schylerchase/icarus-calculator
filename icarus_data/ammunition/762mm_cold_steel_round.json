@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/7.62mm_Cold_Steel_Round",
   "description": "7.62mm Cold Steel Round is a Cold Steel variant of ammunition for Rifles . It inflicts extra Frost damage and a chance to slow the target and weaken their attacks.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    ".62mm Round": 5,
+    "Cold Steel Ingot": 1
+  },
   "crafted_at": "Crafted AtMachining BenchFabricator",
   "tier": 3,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      ".62mm Round": 5,
+      "Cold Steel Ingot": 1
+    },
     "crafted_at": "Crafted AtMachining BenchFabricator"
   }
 }

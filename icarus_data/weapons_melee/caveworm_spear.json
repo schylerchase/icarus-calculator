@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Caveworm_Spear",
   "description": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike the Caveworm Javelin , the Caveworm Spear cannot be thrown.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 16,
+    "Leather": 4,
+    "Worm Scale": 10,
+    "Poison Sack": 10
+  },
   "crafted_at": "Workshop",
   "tier": 2,
   "stats": {
@@ -16,7 +21,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 16,
+      "Leather": 4,
+      "Worm Scale": 10,
+      "Poison Sack": 10
+    },
     "crafted_at": "Workshop"
   }
 }

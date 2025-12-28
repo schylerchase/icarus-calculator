@@ -4,7 +4,7 @@
   "description": "Stone Bricks are a refined resource primarily used to craft Stone Brick Building Pieces at an Advanced Masonry Bench / Electric Masonry Bench .",
   "item_type": "craftable",
   "ingredients": {
-    "Stone": 1
+    "Stone": 3
   },
   "crafted_at": "Advanced Masonry Bench Electric Masonry Bench",
   "tier": 3,
@@ -15,7 +15,7 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {
-      "Stone": 1
+      "Stone": 3
     },
     "crafted_at": "Advanced Masonry Bench Electric Masonry Bench"
   }

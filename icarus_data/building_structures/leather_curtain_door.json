@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Leather_Curtain_Door",
   "description": "A Leather Curtain Door made of wood and Leather, use it to keep the weather out.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Fiber": 20,
+    "Wood": 5,
+    "Leather": 15
+  },
   "crafted_at": "Crafted AtCrafting BenchMachining BenchFabricatorTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 20,
+      "Wood": 5,
+      "Leather": 15
+    },
     "crafted_at": "Crafted AtCrafting BenchMachining BenchFabricatorTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

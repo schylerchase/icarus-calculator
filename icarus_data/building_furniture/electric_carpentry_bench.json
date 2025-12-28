@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Electric_Carpentry_Bench",
   "description": "The Electric Carpentry Bench allows for manufacturing of refined wood deployables at a faster rate than the Carpentry Bench . Prospectors can use the Electric Carpentry Bench to craft furniture, like an improved Wooden Bed , and storage items like an Interior Wood Cupboard . The Electric Carpentry Bench can also create Interior Wood building pieces.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 60,
+    "Composites": 10,
+    "Iron Ingot": 40,
+    "Steel Screw": 10,
+    "Electronics": 20
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 60,
+      "Composites": 10,
+      "Iron Ingot": 40,
+      "Steel Screw": 10,
+      "Electronics": 20
+    },
     "crafted_at": "Fabricator"
   }
 }

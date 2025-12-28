@@ -2,8 +2,12 @@
   "name": "Glass Door",
   "url": "https://icarus.fandom.com/wiki/Glass_Door",
   "description": "Glass building pieces while not being very resistance to damage, nor providing any thermal insulation, bring a nice aesthetic to any base. Green houses for outpost bases or for internal base pieces while on prospects are good uses for these items.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Iron Ingot": 6,
+    "Glass": 20,
+    "Epoxy": 12
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 6,
+      "Glass": 20,
+      "Epoxy": 12
+    },
     "crafted_at": "Unknown"
   }
 }

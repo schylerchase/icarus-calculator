@@ -3,7 +3,9 @@
   "url": "https://icarus.fandom.com/wiki/Brutalist_Stool",
   "description": "The Brutalist Stool seats one and is made from concrete.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Concrete Mix": 4
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +17,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Concrete Mix": 4
+    },
     "crafted_at": "Decoration Bench"
   }
 }

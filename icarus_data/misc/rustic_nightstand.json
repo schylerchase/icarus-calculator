@@ -1,9 +1,13 @@
 {
   "name": "Rustic Nightstand",
   "url": "https://icarus.fandom.com/wiki/Rustic_Nightstand",
-  "description": "The Rustic Nightstand is available in 5 varieties when holding item selet R for the variations. The Rustic Nightstand allows prospectors to store 5 items.",
+  "description": "The Rustic Nightstand is a decorative bedroom furniture piece made from rough wood and featuring five storage slots. It has five build variants available by holding 'R' when deploying the item.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 15,
+    "Stick": 5,
+    "Iron Nail": 5
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 15,
+      "Stick": 5,
+      "Iron Nail": 5
+    },
     "crafted_at": "Decoration Bench"
   }
 }

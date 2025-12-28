@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Basic_Fishing_Trap",
   "description": "One approach to catching fish is by using a Fishing Trap. Though a Lure is not required, attaching one can increase the quality, length, and weight of the caught fish. Additionally, certain lures can increase the odds of catching a rarer type of fish. To attach a lure to the Basic Fishing Trap, inspect the trap by pressing 'F' and drag the lure into the dedicated lure slot.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 50,
+    "Iron Nail": 10,
+    "Rope": 5
+  },
   "crafted_at": "Basic Fishing Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 50,
+      "Iron Nail": 10,
+      "Rope": 5
+    },
     "crafted_at": "Basic Fishing Bench"
   }
 }

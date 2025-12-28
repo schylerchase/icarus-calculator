@@ -2,8 +2,10 @@
   "name": "Cloth Feet Armor",
   "url": "https://icarus.fandom.com/wiki/Cloth_Feet_Armor",
   "description": "Cloth Armor, while not being very protective in a fight, provides relatively good protection from the heat in deserts. It also makes traveling slightly quicker.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 40
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {
@@ -15,7 +17,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 40
+    },
     "crafted_at": "Unknown"
   }
 }

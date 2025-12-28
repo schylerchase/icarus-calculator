@@ -2,8 +2,11 @@
   "name": "Seed Pouch",
   "url": "https://icarus.fandom.com/wiki/Seed_Pouch",
   "description": "A leather pouch for seeds that can fit 12 full stacks of Seeds .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 20,
+    "Leather": 10
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 20,
+      "Leather": 10
+    },
     "crafted_at": "Unknown"
   }
 }

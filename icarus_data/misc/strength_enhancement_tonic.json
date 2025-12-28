@@ -2,8 +2,14 @@
   "name": "Strength Enhancement Tonic",
   "url": "https://icarus.fandom.com/wiki/Strength_Enhancement_Tonic",
   "description": "",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Organic Resin": 2,
+    "Wheat": 2,
+    "Lily": 1,
+    "Crushed Bone": 2,
+    "Tree Sap": 1
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {},
@@ -12,7 +18,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Organic Resin": 2,
+      "Wheat": 2,
+      "Lily": 1,
+      "Crushed Bone": 2,
+      "Tree Sap": 1
+    },
     "crafted_at": "Unknown"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "name": "Brilliance",
+  "url": "https://icarus.fandom.com/wiki/Brilliance",
+  "description": "INVESTIGATE THE MOUND OF UNEARTHED EXOTICS",
+  "item_type": "orbital",
+  "ingredients": {},
+  "crafted_at": "Workshop",
+  "tier": 2,
+  "stats": {
+    "damage": "No effect"
+  },
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Workshop"
+  }
+}

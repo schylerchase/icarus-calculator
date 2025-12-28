@@ -1,9 +1,12 @@
 {
   "name": "9mm Armor Piercing Round",
   "url": "https://icarus.fandom.com/wiki/9mm_Armor_Piercing_Round",
-  "description": "9mm Armor Piercing Rounds are used by the Pistol . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Unlike standard ammunition, the 9mm Armor Piercing Round can pierce hardened points and will deal 100 damage, similar to hitting a non-hardened point.",
+  "description": "9mm Armor Piercing Rounds are ammunition rounds that have greater damange to armored targets. The rounds are used by Pistols , the Submachine Gun and the Automated Defense System: Pistol .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "mm Round": 1,
+    "Platinum Sheath": 1
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "mm Round": 1,
+      "Platinum Sheath": 1
+    },
     "crafted_at": "Machining Bench"
   }
 }

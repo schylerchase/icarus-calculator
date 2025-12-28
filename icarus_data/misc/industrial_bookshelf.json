@@ -1,9 +1,12 @@
 {
   "name": "Industrial Bookshelf",
   "url": "https://icarus.fandom.com/wiki/Industrial_Bookshelf",
-  "description": "The Industrial Bookshelf is made from metal, does not have item slots and is part of the industrialist range of furniture.",
+  "description": "The Industrial Bookshelf is a decorative bookshelf made from metal. It has 10 storage slots and is part of the Industrial Furniture Pack DLC.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 30,
+    "Steel Screw": 10
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 30,
+      "Steel Screw": 10
+    },
     "crafted_at": "Decoration Bench"
   }
 }

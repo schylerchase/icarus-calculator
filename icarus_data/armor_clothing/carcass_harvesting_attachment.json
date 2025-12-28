@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Carcass_Harvesting_Attachment",
   "description": "Carcass Harvesting Attachment is a mid-to-end game item available once the prospector has unlocked the Tool Attachment Pack tech.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 6,
+    "Fur": 4
+  },
   "crafted_at": "Alteration Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 6,
+      "Fur": 4
+    },
     "crafted_at": "Alteration Bench"
   }
 }

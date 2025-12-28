@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Wooden_Armor_Stand",
   "description": "The Wooden Armor Stand is a deployable item to store a set of Armor for display purposes and to easily swap out the armor set.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 50,
+    "Copper Nail": 15,
+    "Vegetable Oil": 1
+  },
   "crafted_at": "Carpentry Bench Electric Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 50,
+      "Copper Nail": 15,
+      "Vegetable Oil": 1
+    },
     "crafted_at": "Carpentry Bench Electric Carpentry Bench"
   }
 }

@@ -4,11 +4,12 @@
   "description": "Paints are used make several different Paintings that can be hung on various Frames .",
   "item_type": "craftable",
   "ingredients": {
-    "Recipe #": 3,
     "Tea": 5,
     "Charcoal": 5,
     "Coffee Bean": 5,
-    "Tree Sap": 5
+    "Tree Sap": 5,
+    "Crushed Bone": 5,
+    "Sulfur": 5
   },
   "crafted_at": "Unknown",
   "tier": 2,
@@ -19,11 +20,12 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {
-      "Recipe #": 3,
       "Tea": 5,
       "Charcoal": 5,
       "Coffee Bean": 5,
-      "Tree Sap": 5
+      "Tree Sap": 5,
+      "Crushed Bone": 5,
+      "Sulfur": 5
     },
     "crafted_at": "Unknown"
   }

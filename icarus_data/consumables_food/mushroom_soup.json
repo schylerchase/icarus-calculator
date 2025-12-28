@@ -2,8 +2,10 @@
   "name": "Mushroom Soup",
   "url": "https://icarus.fandom.com/wiki/Mushroom_Soup",
   "description": "Mushroom Soup is a Food that satisfies Hunger . It provides the unique Status Effect , Mushroom Soup , which increases maximum Health and improves Stamina regeneration.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Mushroom": 3
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {},
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Mushroom": 3
+    },
     "crafted_at": "Unknown"
   }
 }

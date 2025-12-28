@@ -1,13 +1,16 @@
 {
   "name": "Brutalist Bookshelf",
   "url": "https://icarus.fandom.com/wiki/Brutalist_Bookshelf",
-  "description": "The Brutalist Bookshelf is mode from concrete and iron.",
+  "description": "The Brutalist Bookshelf is a decorative concrete and iron bookshelf. It has 10 storage slots and is part of the Industrial Furniture Pack DLC.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Concrete Mix": 14,
+    "Iron Ingot": 6
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
-    "weight": "10 Kg",
+    "weight": "15 Kg",
     "durability": "1000"
   },
   "category": "deployables",
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Concrete Mix": 14,
+      "Iron Ingot": 6
+    },
     "crafted_at": "Decoration Bench"
   }
 }

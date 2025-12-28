@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Beehive_Breeding_Center",
   "description": "A Beekeeping element that attaches to a Beehive and provides the facilities for a Queen Bee to produce Worker Bees",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Platinum Sheath": 16,
+    "Beeswax": 20,
+    "Steel Screw": 10
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Platinum Sheath": 16,
+      "Beeswax": 20,
+      "Steel Screw": 10
+    },
     "crafted_at": "Machining Bench"
   }
 }

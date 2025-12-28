@@ -2,8 +2,12 @@
   "name": "Fish Chunk Stew",
   "url": "https://icarus.fandom.com/wiki/Fish_Chunk_Stew",
   "description": "Fish Chunk Stew is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Corn": 1,
+    "Squash": 1,
+    "Fish Chunks": 1
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Corn": 1,
+      "Squash": 1,
+      "Fish Chunks": 1
+    },
     "crafted_at": "Unknown"
   }
 }

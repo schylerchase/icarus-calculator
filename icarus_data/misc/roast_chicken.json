@@ -1,9 +1,12 @@
 {
   "name": "Roast Chicken",
   "url": "https://icarus.fandom.com/wiki/Roast_Chicken",
-  "description": "Roast Chicken is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "description": "Roast Chicken is a Food made with Raw Chicken and Salt that boosts maximum health, maximum stamina, exposure resistance and a chance to get additional Stone while mining. It has a unique Status Effect , which can be stacked with other food buffs. It can be eaten to satisfy Hunger .",
+  "item_type": "craftable",
+  "ingredients": {
+    "Salt": 5,
+    "Raw Chicken": 1
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Salt": 5,
+      "Raw Chicken": 1
+    },
     "crafted_at": "Unknown"
   }
 }

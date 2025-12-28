@@ -3,7 +3,9 @@
   "url": "https://icarus.fandom.com/wiki/Titanium_Plate",
   "description": "Titanium Plate is used in a variety of high-end resources and components.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Titanium Ingot": 3
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {},
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Titanium Ingot": 3
+    },
     "crafted_at": "Fabricator"
   }
 }

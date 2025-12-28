@@ -1,10 +1,27 @@
 {
   "name": "Raw Gamey Meat",
   "url": "https://icarus.fandom.com/wiki/Raw_Gamey_Meat",
-  "description": "Raw Gamey Meat can be obtained by Skinning animals with a Knife . Eating Raw Gamey Meat will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
-  "item_type": "weapon",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "description": "Raw Gamey Meat is a prime cut of raw meat that drops from various Fauna . Eating Raw Gamey Meat will replenish Health , but there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Arid Striker": 50,
+    "Blueback": 50,
+    "Redback": 50,
+    "Snow Stalker": 50,
+    "Buffalo": 30,
+    "Calf": 30,
+    "Cow": 30,
+    "Shaggy Zebra": 30,
+    "Tusker": 30,
+    "Large Deer": 25,
+    "Plains Equix": 25,
+    "Chamois": 15,
+    "Bear Cub": 10,
+    "Deer": 10,
+    "Terrenus": 10,
+    "Zebra": 10
+  },
+  "crafted_at": "the Butchery Bench using Raw Meat",
   "tier": 0,
   "stats": {},
   "category": "food",
@@ -12,7 +29,24 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
+    "ingredients": {
+      "Arid Striker": 50,
+      "Blueback": 50,
+      "Redback": 50,
+      "Snow Stalker": 50,
+      "Buffalo": 30,
+      "Calf": 30,
+      "Cow": 30,
+      "Shaggy Zebra": 30,
+      "Tusker": 30,
+      "Large Deer": 25,
+      "Plains Equix": 25,
+      "Chamois": 15,
+      "Bear Cub": 10,
+      "Deer": 10,
+      "Terrenus": 10,
+      "Zebra": 10
+    },
+    "crafted_at": "the Butchery Bench using Raw Meat"
   }
 }

@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Miasmic_Arrow",
   "description": "The Miasmic Arrow is ammunition used with a Bow , requiring Distilled Miasmic Coating introduced on the Prometheus map.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Carbon Fiber": 1,
+    "Steel Arrow": 2,
+    "Titanium Ingot": 1,
+    "Distilled Miasmic Coating": 1
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {
@@ -16,7 +21,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Carbon Fiber": 1,
+      "Steel Arrow": 2,
+      "Titanium Ingot": 1,
+      "Distilled Miasmic Coating": 1
+    },
     "crafted_at": "Unknown"
   }
 }

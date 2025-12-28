@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Cold_Steel_Pickaxe",
   "description": "The Cold Steel Pickaxe is a mid/late-game Pickaxe that was introduced with New Frontiers .",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Cold Steel Ingot": 5,
+    "Refined Wood": 10,
+    "Steel Screw": 10,
+    "Fur": 5
+  },
   "crafted_at": "Crafted AtForge",
   "tier": 3,
   "stats": {
@@ -16,7 +21,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Cold Steel Ingot": 5,
+      "Refined Wood": 10,
+      "Steel Screw": 10,
+      "Fur": 5
+    },
     "crafted_at": "Crafted AtForge"
   }
 }

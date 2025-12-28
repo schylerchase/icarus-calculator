@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Advanced_Creature_Deterrent",
   "description": "While useful for protecting Prospectors from predators, the Advanced Creature Deterrent also prevents the spawning of Fauna so be aware that deer, pronghorns, rabbits, chamois, or other animals will not spawn within the indicated radius.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Aluminium Ingot": 20,
+    "Electronics": 20,
+    "Carbon Fiber": 15,
+    "Steel Screw": 30,
+    "Glass": 10
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Aluminium Ingot": 20,
+      "Electronics": 20,
+      "Carbon Fiber": 15,
+      "Steel Screw": 30,
+      "Glass": 10
+    },
     "crafted_at": "Machining Bench"
   }
 }

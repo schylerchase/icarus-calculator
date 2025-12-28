@@ -4,12 +4,12 @@
   "description": "The Electric Stove is a late-game technology that provides a more robust cooking experience and expands the recipes available compared to the Biofuel Stove . It requires 1,000 units of Power to function and must be snapped to a side of a Marble Kitchen Bench or Kitchen Bench .",
   "item_type": "craftable",
   "ingredients": {
-    "Campfire/Firepit/FireplacePotbelly StoveBiofuel StoveElectric Stove": 30,
-    "Potbelly StoveBiofuel StoveElectric Stove": 2,
-    "Biofuel StoveElectric Stove": 5,
-    "Fried Chickenx": 4,
-    "Cheese Pizza Slicex": 8,
-    "Electric Stove": 10
+    "Composites": 10,
+    "Aluminium Ingot": 20,
+    "Glass": 12,
+    "Electronics": 10,
+    "Steel Screw": 8,
+    "Copper Wire": 40
   },
   "crafted_at": "Fabricator",
   "tier": 4,
@@ -23,12 +23,12 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {
-      "Campfire/Firepit/FireplacePotbelly StoveBiofuel StoveElectric Stove": 30,
-      "Potbelly StoveBiofuel StoveElectric Stove": 2,
-      "Biofuel StoveElectric Stove": 5,
-      "Fried Chickenx": 4,
-      "Cheese Pizza Slicex": 8,
-      "Electric Stove": 10
+      "Composites": 10,
+      "Aluminium Ingot": 20,
+      "Glass": 12,
+      "Electronics": 10,
+      "Steel Screw": 8,
+      "Copper Wire": 40
     },
     "crafted_at": "Fabricator"
   }

@@ -4,7 +4,9 @@
   "description": "The first available cooking station, the campfire is an essential early structure that allows prospectors to pass the night and to cook Raw Meat or Fish Chunks , yielding safe to consume versions.",
   "item_type": "craftable",
   "ingredients": {
-    "Campfire/Firepit/FireplacePotbelly StoveBiofuel StoveElectric Stove": 30
+    "Fiber": 8,
+    "Stick": 8,
+    "Stone": 24
   },
   "crafted_at": "Unknown",
   "tier": 1,
@@ -18,7 +20,9 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {
-      "Campfire/Firepit/FireplacePotbelly StoveBiofuel StoveElectric Stove": 30
+      "Fiber": 8,
+      "Stick": 8,
+      "Stone": 24
     },
     "crafted_at": "Unknown"
   }

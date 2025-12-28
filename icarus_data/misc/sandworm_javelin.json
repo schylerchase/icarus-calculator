@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Sandworm_Javelin",
   "description": "The Sandworm Javelin is a variant of the Sandworm Spear that can only be thrown. Considering the Sandworm Javelin deals the same amount of damage as a Bone Javelin , the Sandworm Javelin is overshadowed by higher-tier javelins and is not worth the effort. Crafted in batches of five and stacks up to twenty.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 10,
+    "Leather": 4,
+    "Sandworm Scale": 10
+  },
   "crafted_at": "Workshop",
   "tier": 3,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 10,
+      "Leather": 4,
+      "Sandworm Scale": 10
+    },
     "crafted_at": "Workshop"
   }
 }

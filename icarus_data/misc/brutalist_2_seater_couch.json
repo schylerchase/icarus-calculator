@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Brutalist_2-Seater_Couch",
   "description": "The Brutalist 2-Seater Couch is a couch made with concrete and leather in the Brutalist design aesthetic. It serves as a seat for Prospectors and provides a small bonus to Coziness .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Concrete Mix": 8,
+    "Leather": 10
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Concrete Mix": 8,
+      "Leather": 10
+    },
     "crafted_at": "Decoration Bench"
   }
 }

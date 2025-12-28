@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Biofuel_Deep-Mining_Drill",
   "description": "The Biofuel Deep-Mining Drill will mine deep mining ore deposits when supplied with biofuel from a Biofuel Can / MXC Fuel Canister . The Biofuel Deep-Mining Drill has 5 slots and will last 2 hours and 5 minutes on a full Biofuel Can .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 12,
+    "Copper Ingot": 10,
+    "Epoxy": 12,
+    "Electronics": 10,
+    "Copper Wire": 50
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 12,
+      "Copper Ingot": 10,
+      "Epoxy": 12,
+      "Electronics": 10,
+      "Copper Wire": 50
+    },
     "crafted_at": "Machining Bench"
   }
 }

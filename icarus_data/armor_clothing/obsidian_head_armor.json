@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Obsidian_Head_Armor",
   "description": "Obsidian Armor is a sidegrade of Composite Armor , providing slightly more physical resistance and a substantial bonus to heat resistance.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Platinum Weave": 10,
+    "Composites": 5,
+    "Steel Screw": 5,
+    "Shaped Obsidian": 5
+  },
   "crafted_at": "Electric Textiles Bench",
   "tier": 4,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Platinum Weave": 10,
+      "Composites": 5,
+      "Steel Screw": 5,
+      "Shaped Obsidian": 5
+    },
     "crafted_at": "Electric Textiles Bench"
   }
 }

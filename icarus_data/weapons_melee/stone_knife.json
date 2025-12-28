@@ -2,8 +2,12 @@
   "name": "Stone Knife",
   "url": "https://icarus.fandom.com/wiki/Stone_Knife",
   "description": "The first knife that can be unlocked, the Stone Knife is a fast melee weapon and doubles as a tool with any knife being necessary to skin a carcass prior to unlocking the Skinning Bench .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 2,
+    "Stick": 2,
+    "Stone": 4
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {
@@ -16,7 +20,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 2,
+      "Stick": 2,
+      "Stone": 4
+    },
     "crafted_at": "Unknown"
   }
 }

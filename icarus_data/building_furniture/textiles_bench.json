@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Textiles_Bench",
   "description": "Allows for the crafting of various Armor sets, such as the Leather Armor Set , Fur Armor Set , Ghillie Armor Set , Sandworm Armor Set , and the Scorpion Armor Set . Items like the Basic Riding Saddle , Simple Creature Deterrent and Rope can also be made at the Textiles Bench.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Fiber": 60,
+    "Stick": 20,
+    "Wood": 50,
+    "Stone": 12
+  },
   "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 60,
+      "Stick": 20,
+      "Wood": 50,
+      "Stone": 12
+    },
     "crafted_at": "Crafting Bench"
   }
 }

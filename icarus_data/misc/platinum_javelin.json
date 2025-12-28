@@ -1,9 +1,13 @@
 {
   "name": "Platinum Javelin",
   "url": "https://icarus.fandom.com/wiki/Platinum_Javelin",
-  "description": "The Platinum Javelin is a variant of the Platinum Spear that can only be thrown; a substantial upgrade to the Tier 2  Javelins.",
+  "description": "The Platinum Javelin is a variant of the Platinum Spear that can only be thrown; a substantial upgrade to the Tier 2 Javelins.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 2,
+    "Cured Leather": 1,
+    "Platinum Ingot": 20
+  },
   "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 2,
+      "Cured Leather": 1,
+      "Platinum Ingot": 20
+    },
     "crafted_at": "Forge Foundry"
   }
 }

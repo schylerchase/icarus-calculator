@@ -2,8 +2,12 @@
   "name": "Splint",
   "url": "https://icarus.fandom.com/wiki/Splint",
   "description": "Splint is used to speed up the recovery of broken bones.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Wood": 2,
+    "Stick": 8,
+    "Rope": 6
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 2,
+      "Stick": 8,
+      "Rope": 6
+    },
     "crafted_at": "Unknown"
   }
 }

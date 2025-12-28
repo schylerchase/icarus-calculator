@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Oxite_Cluster_Lamp",
   "description": "The Oxite Cluster Lamp is a simple low output lamp that does not require fuel to operate but does require water to craft.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Oxite": 35,
+    "Stone": 10
+  },
   "crafted_at": "Crafted AtMasonry BenchAdvanced Masonry BenchElectric Masonry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Oxite": 35,
+      "Stone": 10
+    },
     "crafted_at": "Crafted AtMasonry BenchAdvanced Masonry BenchElectric Masonry Bench"
   }
 }

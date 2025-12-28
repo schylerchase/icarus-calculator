@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Bullseye_Target",
   "description": "Bullseye Targets are deployable items used for target practice and to test weapon damage.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 10,
+    "Stick": 25,
+    "Wild Berry": 3,
+    "Iron Ingot}": 2
+  },
   "crafted_at": "Carpentry Bench Electric Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 10,
+      "Stick": 25,
+      "Wild Berry": 3,
+      "Iron Ingot}": 2
+    },
     "crafted_at": "Carpentry Bench Electric Carpentry Bench"
   }
 }

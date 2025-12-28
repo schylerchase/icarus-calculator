@@ -2,8 +2,13 @@
   "name": "Basic Rainwater Purifier",
   "url": "https://icarus.fandom.com/wiki/Basic_Rainwater_Purifier",
   "description": "Basic Rainwater Purifiers can be crafted using Character Crafting with the following resources:",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Stick": 15,
+    "Fiber": 20,
+    "Stone": 15,
+    "Charcoal": 10
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Stick": 15,
+      "Fiber": 20,
+      "Stone": 15,
+      "Charcoal": 10
+    },
     "crafted_at": "Unknown"
   }
 }

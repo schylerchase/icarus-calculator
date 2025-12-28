@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Art_Deco_Fireplace_Cap",
   "description": "The Art Deco Fireplace Cap is a final cap for placing on a Art Deco Fireplace Extension or Art Deco Fireplace . Two build variants are available via the 'R' key.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Gold": 2,
+    "Stone": 60
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Gold": 2,
+      "Stone": 60
+    },
     "crafted_at": "Decoration Bench"
   }
 }

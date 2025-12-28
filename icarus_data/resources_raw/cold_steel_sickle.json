@@ -1,9 +1,14 @@
 {
   "name": "Cold Steel Sickle",
   "url": "https://icarus.fandom.com/wiki/Cold_Steel_Sickle",
-  "description": "Cold Steel Sickle is a Tier 3  Sickle made with Cold Steel Ingots introduced on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+  "description": "Cold Steel Sickle is a Tier 3 Sickle made with Cold Steel Ingots introduced on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Cold Steel Ingot": 5,
+    "Refined Wood": 5,
+    "Steel Screw": 10,
+    "Fur": 5
+  },
   "crafted_at": "Crafted AtForge",
   "tier": 3,
   "stats": {
@@ -16,7 +21,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Cold Steel Ingot": 5,
+      "Refined Wood": 5,
+      "Steel Screw": 10,
+      "Fur": 5
+    },
     "crafted_at": "Crafted AtForge"
   }
 }

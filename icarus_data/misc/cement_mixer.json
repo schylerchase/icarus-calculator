@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Cement_Mixer",
   "description": "The Cement Mixer allows the Prospector to craft Concrete Mix , and Concrete Building Pieces .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 50,
+    "Stone": 40,
+    "Iron Ingot": 20,
+    "Rope": 8,
+    "Iron Nail": 8
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 50,
+      "Stone": 40,
+      "Iron Ingot": 20,
+      "Rope": 8,
+      "Iron Nail": 8
+    },
     "crafted_at": "Machining Bench"
   }
 }

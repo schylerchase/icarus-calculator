@@ -2,8 +2,12 @@
   "name": "Kiwifruit Sorbet",
   "url": "https://icarus.fandom.com/wiki/Kiwifruit_Sorbet",
   "description": "Kiwifruit Sorbet is late-game Food that when consumed provides a boost to stamina, experience gained and resistance to cave sickness.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Honey": 2,
+    "Ice": 10,
+    "Kiwifruit": 5
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Honey": 2,
+      "Ice": 10,
+      "Kiwifruit": 5
+    },
     "crafted_at": "Unknown"
   }
 }

@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Medical_Satchel",
   "description": "The Medical Satchel is a 12 slot satchel dedicated to storing medical supplies such as Bandages , Splints and other Medicine . The satchel takes up one inventory or hotbar slot.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Rope": 12,
+    "Leather": 20,
+    "Iron Nail": 5
+  },
   "crafted_at": "Textiles Bench",
   "tier": 2,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Rope": 12,
+      "Leather": 20,
+      "Iron Nail": 5
+    },
     "crafted_at": "Textiles Bench"
   }
 }

@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Steel_Pickaxe",
   "description": "The Steel pickaxe is the 3rd pickaxe prospectors can unlock during your time on Icarus and allows for the mining of denser Minerals not obtainable with the Iron Pickaxe or Stone Pickaxe . Like iron tools, the steel pickaxe is made and is repairable at an Anvil Bench .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 5,
+    "Epoxy": 4,
+    "Steel Ingot": 6
+  },
   "crafted_at": "Anvil Bench",
   "tier": 2,
   "stats": {
@@ -16,7 +20,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 5,
+      "Epoxy": 4,
+      "Steel Ingot": 6
+    },
     "crafted_at": "Anvil Bench"
   }
 }

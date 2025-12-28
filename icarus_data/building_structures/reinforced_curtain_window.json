@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Reinforced_Curtain_Window",
   "description": "Reinforced Curtain Window is a sturdy fabric covering for a window.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Platinum Weave": 2,
+    "Iron Ingot": 6,
+    "Iron Nail": 14,
+    "Fiber": 10
+  },
   "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +19,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Platinum Weave": 2,
+      "Iron Ingot": 6,
+      "Iron Nail": 14,
+      "Fiber": 10
+    },
     "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
   }
 }

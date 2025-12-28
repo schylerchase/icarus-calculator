@@ -1,9 +1,14 @@
 {
   "name": "Electric Fireplace",
   "url": "https://icarus.fandom.com/wiki/Electric_Fireplace",
-  "description": "The Electric Fireplace is Tier 4  version of the Fireplace that is powered by Electricity to provide a source of heat, a source of light , Coziness and a means to cook Food indoors. At least 250 units of electricity are required to power the fireplace.",
+  "description": "The Electric Fireplace is Tier 4 version of the Fireplace that is powered by Electricity to provide a source of heat, a source of light , Coziness and a means to cook Food indoors. At least 250 units of electricity are required to power the fireplace. It cooks 38% faster than a regular Fireplace .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Aluminium Ingot": 18,
+    "Epoxy": 14,
+    "Concrete Mix": 4,
+    "Titanium Ingot": 8
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Aluminium Ingot": 18,
+      "Epoxy": 14,
+      "Concrete Mix": 4,
+      "Titanium Ingot": 8
+    },
     "crafted_at": "Fabricator"
   }
 }

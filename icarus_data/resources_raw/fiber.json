@@ -1,14 +1,17 @@
 {
   "name": "Fiber",
   "url": "https://icarus.fandom.com/wiki/Fiber",
-  "description": "In-game description: A bundle of soft fiber, highly useful.",
-  "item_type": "weapon",
+  "description": "Fiber is a basic resource collected from plants, trees and bushes and is used for crafting many different recipes or burning as a fuel source. It is an essential ingredient for the early game and often one of the first items to be harvested when landing on Icarus.",
+  "item_type": "harvestable",
   "ingredients": {},
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
-  "category": "itemable",
-  "harvested_from": [],
+  "category": "resources",
+  "harvested_from": [
+    "plants",
+    "bushes in most temperate biomes"
+  ],
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {

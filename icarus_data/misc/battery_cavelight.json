@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Battery_Cavelight",
   "description": "The Battery Cavelight is a portable Light Source that can be deployed on a floor or wall to provide illumination in the surrounding area. It is good for marking a path through caves.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Glass": 5,
+    "Steel Ingot": 5,
+    "Steel Screw": 10,
+    "Electronics": 2,
+    "Copper Wire": 20
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -14,7 +20,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Glass": 5,
+      "Steel Ingot": 5,
+      "Steel Screw": 10,
+      "Electronics": 2,
+      "Copper Wire": 20
+    },
     "crafted_at": "Fabricator"
   }
 }

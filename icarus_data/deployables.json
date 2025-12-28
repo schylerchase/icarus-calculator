@@ -6,8 +6,14 @@
       "name": "Composite Dropship Recall Beacon",
       "url": "https://icarus.fandom.com/wiki/Composite_Dropship_Recall_Beacon",
       "description": "The Composite Dropship Recall Beacon will fire a flare that calls the Prospectors dropship to that location when thrown, which can either be used for immediate extraction or left there for use later on. Multiple Recall Beacons can be used per session, however, these are one-use items, so use them carefully. Items stored in the dropships inventory will not be lost when the dropship is called, allowing Prospectors to transport equipment/resources over large distances.",
-      "item_type": "orbital",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Composites": 3,
+        "Electronics": 2,
+        "Steel Screw": 4,
+        "Iron Ingot": 4,
+        "Gunpowder": 2
+      },
       "crafted_at": "Workshop",
       "tier": 4,
       "stats": {
@@ -18,7 +24,13 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Composites": 3,
+          "Electronics": 2,
+          "Steel Screw": 4,
+          "Iron Ingot": 4,
+          "Gunpowder": 2
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -27,7 +39,13 @@
       "url": "https://icarus.fandom.com/wiki/Makeshift_Landmine",
       "description": "Prospectors on mounts and mounts themselves do not trigger Landmines. Prospectors, however, can trigger and detonate Landmines with a Yellow/Red indicator. All Landmines can be picked up and disarmed, regardless of their current state. Press and hold X to pickup and disarm Landmines. Note: once triggered, Makeshift Landmines will detonate if a Prospector/animal (excluding mounts) is nearby. They can be picked up and disarmed, but Prospectors run the risk of detonating the Landmine.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Composites": 2,
+        "Electronics": 1,
+        "Copper Nail": 12,
+        "Gunpowder": 4,
+        "Volatile Substance": 1
+      },
       "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
@@ -39,7 +57,13 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Composites": 2,
+          "Electronics": 1,
+          "Copper Nail": 12,
+          "Gunpowder": 4,
+          "Volatile Substance": 1
+        },
         "crafted_at": "Fabricator"
       }
     },
@@ -66,7 +90,13 @@
       "url": "https://icarus.fandom.com/wiki/Prototype_Trail_Beacon",
       "description": "The Prototype Trail Beacon is a small portable self-powered beacon that is deployed with the Prototype Trail Beacon Tool to form a breadcrumb trail in the uncharted areas of the Null Sector Region on Prometheus .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Gold Wire": 10,
+        "Copper Wire": 5,
+        "Steel Ingot": 4,
+        "Steel Screw": 4,
+        "Glass": 2
+      },
       "crafted_at": "Machining Bench Fabricator",
       "tier": 3,
       "stats": {
@@ -78,7 +108,13 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Gold Wire": 10,
+          "Copper Wire": 5,
+          "Steel Ingot": 4,
+          "Steel Screw": 4,
+          "Glass": 2
+        },
         "crafted_at": "Machining Bench Fabricator"
       }
     },
@@ -87,7 +123,13 @@
       "url": "https://icarus.fandom.com/wiki/Prototype_Trail_Beacon_Tool",
       "description": "The Prototype Trail Beacon Tool is a handheld device used to place a breadcrumb trail of Prototype Trail Beacons when exploring the Null Sector Region on the Prometheus map.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Gold Wire": 10,
+        "Copper Wire": 15,
+        "Steel Ingot": 2,
+        "Platinum Sheath": 4,
+        "Glass": 2
+      },
       "crafted_at": "Machining Bench Fabricator",
       "tier": 3,
       "stats": {
@@ -99,7 +141,13 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Gold Wire": 10,
+          "Copper Wire": 15,
+          "Steel Ingot": 2,
+          "Platinum Sheath": 4,
+          "Glass": 2
+        },
         "crafted_at": "Machining Bench Fabricator"
       }
     },
@@ -108,7 +156,11 @@
       "url": "https://icarus.fandom.com/wiki/Scorpion_Pincer_Trap",
       "description": "Scorpion Pincer Traps are sturdy defenses used around your base or while at objectives for protection of equipment. The recipe blueprint to craft this defensive trap is only unlocked after completing the prospect Carapace: Research . The blueprint unlocks account-wide once the mission is completed.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Stone": 4,
+        "Stick": 4,
+        "Scorpion Pincer": 1
+      },
       "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
@@ -120,7 +172,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Stone": 4,
+          "Stick": 4,
+          "Scorpion Pincer": 1
+        },
         "crafted_at": "Crafting Bench"
       }
     },
@@ -129,7 +185,12 @@
       "url": "https://icarus.fandom.com/wiki/Snare_Trap",
       "description": "The Snare Trap is a deployable item used to trap and tame certain animals on Icarus. It must be filled with suitable Animal Bait and placed in an area to attract the desired animal.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 4,
+        "Stick": 8,
+        "Rope": 2,
+        "Stone": 4
+      },
       "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
@@ -141,7 +202,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 4,
+          "Stick": 8,
+          "Rope": 2,
+          "Stone": 4
+        },
         "crafted_at": "Ranching Station"
       }
     }

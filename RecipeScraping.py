@@ -225,42 +225,149 @@ def extract_infobox_data(soup):
 
 def parse_crafting_table(soup, page_text):
     """Extract crafting recipe from tables and text"""
-    
+
     ingredients = {}
     crafted_at = "Unknown"
-    
-    # Method 1: Look for crafting tables
+
+    # Method 1: Look for crafting tables with Amount/Resource structure (Fandom Wiki format)
     for table in soup.find_all('table'):
         table_text = table.get_text().lower()
-        
-        # Check if it's a crafting/recipe table
-        if any(word in table_text for word in ['craft', 'recipe', 'materials', 'required', 'ingredients']):
-            for row in table.find_all('tr'):
-                cells = row.find_all(['td', 'th'])
-                
+
+        # Check if it's a crafting/recipe table by looking for common headers
+        headers = table.find_all(['th'])
+        header_text = ' '.join([h.get_text().lower().strip() for h in headers])
+
+        is_recipe_table = (
+            ('amount' in header_text and 'resource' in header_text) or
+            ('material' in header_text and 'quantity' in header_text) or
+            ('quantity' in header_text) or
+            ('amount' in header_text) or
+            any(word in table_text for word in ['craft', 'recipe', 'materials', 'required', 'ingredients'])
+        )
+
+        if is_recipe_table:
+            rows = table.find_all('tr')
+
+            # Detect column order from headers
+            quantity_first = True  # Default: Amount | Resource
+            if headers:
+                first_header = headers[0].get_text().lower().strip() if len(headers) > 0 else ''
+                if 'material' in first_header or 'resource' in first_header or 'item' in first_header:
+                    quantity_first = False  # Material | Quantity order
+
+            for row in rows:
+                cells = row.find_all(['td'])
+
+                # Skip header rows (only th cells) or rows without enough cells
+                if len(cells) < 2:
+                    continue
+
+                # Determine which cell has quantity vs resource based on detected order
+                if quantity_first:
+                    quantity_cell = cells[0]
+                    resource_cell = cells[1]
+                else:
+                    resource_cell = cells[0]
+                    quantity_cell = cells[1]
+
+                quantity_text = quantity_cell.get_text(strip=True)
+                quantity_match = re.search(r'^(\d+)$', quantity_text.strip())
+
+                if quantity_match:
+                    quantity = int(quantity_match.group(1))
+
+                    # Try to find a link with actual text (not just an image)
+                    item_name = ""
+                    for link in resource_cell.find_all('a'):
+                        link_text = link.get_text(strip=True)
+                        if link_text and len(link_text) > 0:
+                            item_name = link_text
+                            break
+
+                    # Fallback to cell text if no valid link found
+                    if not item_name:
+                        item_name = resource_cell.get_text(strip=True)
+
+                    # Clean up item name
+                    item_name = re.sub(r'^\d+\s*[×x]?\s*', '', item_name).strip()
+                    item_name = re.sub(r'\s*[×x]?\s*\d+$', '', item_name).strip()
+
+                    if len(item_name) > 1 and quantity > 0:
+                        # Avoid duplicates - keep the first occurrence
+                        if item_name not in ingredients:
+                            ingredients[item_name] = quantity
+                        else:
+                            ingredients[item_name] += quantity
+
+            # If we found ingredients, stop looking at other tables
+            if ingredients:
+                break
+
+    # Method 1b: Alternative table format - Resource | Amount (columns swapped)
+    if not ingredients:
+        for table in soup.find_all('table'):
+            rows = table.find_all('tr')
+
+            for row in rows:
+                cells = row.find_all(['td'])
+
                 if len(cells) >= 2:
-                    # Try different cell combinations
-                    for i in range(len(cells) - 1):
-                        item_cell = cells[i]
-                        
-                        # Look for quantity in current or next cells
-                        for j in range(i, min(i + 2, len(cells))):
-                            quantity_text = cells[j].get_text(strip=True)
-                            quantity_match = re.search(r'(\d+)', quantity_text)
-                            
-                            if quantity_match:
-                                quantity = int(quantity_match.group(1))
-                                item_name = item_cell.get_text(strip=True)
-                                
-                                # Clean up item name (remove quantities, icons, etc.)
-                                item_name = re.sub(r'\d+', '', item_name).strip()
-                                item_name = re.sub(r'×', '', item_name).strip()
-                                
-                                if len(item_name) > 2 and quantity > 0:
+                    # Try resource first, then amount
+                    resource_cell = cells[0]
+                    quantity_cell = cells[1]
+
+                    link = resource_cell.find('a')
+                    if link:
+                        item_name = link.get_text(strip=True)
+                        quantity_text = quantity_cell.get_text(strip=True)
+                        quantity_match = re.search(r'(\d+)', quantity_text)
+
+                        if quantity_match and item_name:
+                            quantity = int(quantity_match.group(1))
+                            item_name = item_name.strip()
+
+                            if len(item_name) > 1 and quantity > 0:
+                                if item_name not in ingredients:
                                     ingredients[item_name] = quantity
+
+            if ingredients:
+                break
+
+    # Method 2: Look for ingredients in lists (format: "5Wood", "4Leather", etc.)
+    if not ingredients:
+        content = soup.find('div', class_='mw-parser-output')
+        if content:
+            for ul in content.find_all(['ul', 'ol']):
+                for li in ul.find_all('li'):
+                    li_text = li.get_text(strip=True)
+
+                    # Look for pattern: number followed by item name (no space)
+                    match = re.match(r'^(\d+)\s*(.+)$', li_text)
+                    if match:
+                        quantity = int(match.group(1))
+
+                        # Try to get item name from link
+                        links = li.find_all('a')
+                        item_name = ""
+                        for link in links:
+                            link_text = link.get_text(strip=True)
+                            if link_text and len(link_text) > 1:
+                                item_name = link_text
                                 break
-    
-    # Method 2: Look for text patterns for crafting station
+
+                        # Fallback to parsed text
+                        if not item_name:
+                            item_name = match.group(2).strip()
+
+                        if item_name and quantity > 0 and len(item_name) > 1:
+                            if item_name not in ingredients:
+                                ingredients[item_name] = quantity
+
+                # Stop if we found ingredients in this list
+                if ingredients:
+                    break
+
+    # Method 3: Look for text patterns for crafting station
     craft_patterns = [
         r'Crafted (?:at|in|using)[:\s]+([^.\n]+)',
         r'(?:Made|Built|Created) at[:\s]+([^.\n]+)',
@@ -791,12 +898,21 @@ def scrape_all_items(output_dir="icarus_data", max_workers=5):
     print("="*70)
 
 if __name__ == "__main__":
+    import sys
+
     print("\nICARUS FANDOM WIKI SCRAPER")
     print("This will scrape items from icarus.fandom.com")
     print("\nEstimated time: 10-20 minutes")
-    
-    confirm = input("\nContinue? (yes/no): ").strip().lower()
-    
+
+    # Check for --yes flag for non-interactive mode
+    if "--yes" in sys.argv or "-y" in sys.argv:
+        confirm = "yes"
+    else:
+        try:
+            confirm = input("\nContinue? (yes/no): ").strip().lower()
+        except EOFError:
+            confirm = "yes"  # Default to yes if running non-interactively
+
     if confirm == "yes":
         scrape_all_items(max_workers=5)
     else:

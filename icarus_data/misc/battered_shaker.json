@@ -1,0 +1,31 @@
+{
+  "name": "Battered Shaker",
+  "url": "https://icarus.fandom.com/wiki/Battered_Shaker",
+  "description": "The Battered Shaker is a decorative laboratory appliance for mechanical shaking and mixing of ingredients in glass flasks. It can be placed on any surface, such as the Battered Lab Desk . It serves as decoration and is not otherwise used for crafting.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Steel Ingot": 6,
+    "Electronics": 2,
+    "Glass": 16,
+    "Copper Wire": 4
+  },
+  "crafted_at": "Chemistry Bench",
+  "tier": 2,
+  "stats": {
+    "weight": "2.5 Kg",
+    "durability": "750"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Steel Ingot": 6,
+      "Electronics": 2,
+      "Glass": 16,
+      "Copper Wire": 4
+    },
+    "crafted_at": "Chemistry Bench"
+  }
+}

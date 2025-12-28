@@ -1,0 +1,21 @@
+{
+  "name": "Packed Fuel Brick",
+  "url": "https://icarus.fandom.com/wiki/Packed_Fuel_Brick",
+  "description": "Packed Fuel Brick is a crafted form of fuel used for Campfires , Floor Torches or other places requiring combustible fuel.",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Crafting Bench Machining Bench Fabricator",
+  "tier": 0,
+  "stats": {},
+  "category": "crafted resources",
+  "harvested_from": [
+    "planted coconut palm trees",
+    "although it first requires coconut Seeds"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Crafting Bench Machining Bench Fabricator"
+  }
+}

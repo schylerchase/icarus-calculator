@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Brutalist_Coffee_Table",
   "description": "The Brutalist Coffee Table is mode from concrete, iron and glass.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Concrete Mix": 6,
+    "Iron Ingot": 4,
+    "Glass": 4
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Concrete Mix": 6,
+      "Iron Ingot": 4,
+      "Glass": 4
+    },
     "crafted_at": "Decoration Bench"
   }
 }

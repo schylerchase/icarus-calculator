@@ -2,8 +2,11 @@
   "name": "Wood Beam",
   "url": "https://icarus.fandom.com/wiki/Wood_Beam",
   "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection to Deployables and Storage containers. Wood beams require another structure for adjacent 'snapping' and seem to apply 'well stabilized' to a larger area than the Thatch Beam .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 4,
+    "Wood": 6
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 4,
+      "Wood": 6
+    },
     "crafted_at": "Unknown"
   }
 }

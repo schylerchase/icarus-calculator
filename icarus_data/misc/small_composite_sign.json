@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Small_Composite_Sign",
   "description": "The Small Composite Sign is a deployable sign post in a modern style and made from Composites .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Composites": 2,
+    "Epoxy": 2,
+    "Aluminium Ingot": 4
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Composites": 2,
+      "Epoxy": 2,
+      "Aluminium Ingot": 4
+    },
     "crafted_at": "Fabricator"
   }
 }

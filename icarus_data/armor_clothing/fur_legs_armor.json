@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Fur_Legs_Armor",
   "description": "Fur armor is a sidegrade to Leather Armor , offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Leather": 8,
+    "Fur": 18,
+    "Rope": 3
+  },
   "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Leather": 8,
+      "Fur": 18,
+      "Rope": 3
+    },
     "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

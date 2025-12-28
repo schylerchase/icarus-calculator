@@ -2,8 +2,21 @@
   "name": "Prometheus",
   "url": "https://icarus.fandom.com/wiki/Prometheus",
   "description": "Prometheus General information Location System: Proxima Centauri Star: Wolf 1061 Gas giant: Minos Moon: Wolf 1061ca / Icarus Difficulty Available by Purchasing New Frontiers Expansion",
-  "item_type": "orbital",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "1Overview": 1,
+    "1.1Grassland": 1,
+    "1.2Forest": 1,
+    "1.3Tundra": 1,
+    "1.4Arctic": 1,
+    "1.5Swamp": 1,
+    "1.6Volcano": 1,
+    "2FAQ": 2,
+    "3Maps": 3,
+    "3.1Map versions": 3,
+    "4External links": 4,
+    "4.1IcarusIntel": 4
+  },
   "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
@@ -12,7 +25,20 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "1Overview": 1,
+      "1.1Grassland": 1,
+      "1.2Forest": 1,
+      "1.3Tundra": 1,
+      "1.4Arctic": 1,
+      "1.5Swamp": 1,
+      "1.6Volcano": 1,
+      "2FAQ": 2,
+      "3Maps": 3,
+      "3.1Map versions": 3,
+      "4External links": 4,
+      "4.1IcarusIntel": 4
+    },
     "crafted_at": "Workshop"
   }
 }

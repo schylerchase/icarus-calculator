@@ -2,8 +2,12 @@
   "name": "Concrete Floor",
   "url": "https://icarus.fandom.com/wiki/Concrete_Floor",
   "description": "The strongest and most durable structures on Icarus. If a prospector wishes to have a permanent outpost, without worry of structural damage from wind/rain/fire/bears, concrete is the only choice.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Steel Rebar": 10,
+    "Concrete Mix": 4,
+    "Steel Screw": 4
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Rebar": 10,
+      "Concrete Mix": 4,
+      "Steel Screw": 4
+    },
     "crafted_at": "Unknown"
   }
 }

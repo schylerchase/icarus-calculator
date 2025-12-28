@@ -1,0 +1,31 @@
+{
+  "name": "Small Interior Wood Cupboard",
+  "url": "https://icarus.fandom.com/wiki/Small_Interior_Wood_Cupboard",
+  "description": "The Small Interior Wood Cupboard is a deployable wall-mounted storage cabinet made of Refined Wood .",
+  "item_type": "craftable",
+  "ingredients": {
+    "Leather": 5,
+    "Refined Wood": 20,
+    "Copper Nail": 12,
+    "Rope": 5
+  },
+  "crafted_at": "Carpentry Bench Electric Carpentry Bench",
+  "tier": 2,
+  "stats": {
+    "weight": "2.0 kg",
+    "durability": "250"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Leather": 5,
+      "Refined Wood": 20,
+      "Copper Nail": 12,
+      "Rope": 5
+    },
+    "crafted_at": "Carpentry Bench Electric Carpentry Bench"
+  }
+}

@@ -2,8 +2,12 @@
   "name": "Reinforced Glass Wall",
   "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Wall",
   "description": "Reinforced Glass Wall is a reinforced and more durable version of a Glass Wall . It is used as a Building Piece for constructing a glass wall section such as for a greenhouse.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Steel Ingot": 2,
+    "Glass": 20,
+    "Epoxy": 6
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 2,
+      "Glass": 20,
+      "Epoxy": 6
+    },
     "crafted_at": "Unknown"
   }
 }

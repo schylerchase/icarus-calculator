@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_Stool",
   "description": "The Carved Wood Stool is a decorative item.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 20,
+    "Copper Nail": 5
+  },
   "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 20,
+      "Copper Nail": 5
+    },
     "crafted_at": "Carpentry Bench"
   }
 }

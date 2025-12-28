@@ -1,0 +1,18 @@
+{
+  "name": "Volcanic",
+  "url": "https://icarus.fandom.com/wiki/Volcanic",
+  "description": "Volcanic Biomes are biomes in Prometheus Region.",
+  "item_type": "weapon",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

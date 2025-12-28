@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Stone_Caveworm_Statue",
   "description": "The Stone Caveworm Statue is a decorative stone item.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Stone": 500,
+    "Condensed Enzymes": 1
+  },
   "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Stone": 500,
+      "Condensed Enzymes": 1
+    },
     "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

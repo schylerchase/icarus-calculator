@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Industrial_Bed",
   "description": "The Industrial Bed is made from metal and has an increased sleep quality.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 40,
+    "Steel Screw": 10,
+    "Fur": 20
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 40,
+      "Steel Screw": 10,
+      "Fur": 20
+    },
     "crafted_at": "Decoration Bench"
   }
 }

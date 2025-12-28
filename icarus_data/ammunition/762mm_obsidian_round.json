@@ -1,9 +1,12 @@
 {
   "name": "7.62mm Obsidian Round",
   "url": "https://icarus.fandom.com/wiki/7.62mm_Obsidian_Round",
-  "description": "7.62mm Obsidian Rounds are an alternative to 7.62mm Incendiary Rounds that deals fire damage on hit and has a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 7.62mm Obsidian Rounds excel when used against Fauna that have a weakness to fire, dealing more damage than 7.62mm Rounds . .",
+  "description": "7.62mm Obsidian Rounds are an alternative to 7.62mm Incendiary Rounds that deals fire damage on hit and has a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 7.62mm Obsidian Rounds excel when used against Fauna that have a weakness to fire, dealing more damage than 7.62mm Rounds . A list of fauna that are weak to fire can be viewed here .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    ".62mm Round": 5,
+    "Shaped Obsidian": 1
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      ".62mm Round": 5,
+      "Shaped Obsidian": 1
+    },
     "crafted_at": "Machining Bench"
   }
 }

@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Sprinters_Animal_Feed",
   "description": "Sprinters Animal Feed is a Animal Feed for Pets or Mounts with a unique Status Effect . Can be fed to mounts to satisfy Hunger . Sprinters Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Sprinters Animal Feed inside an Ice Box or Refrigerator .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Seeds": 10,
+    "Carrot": 5
+  },
   "crafted_at": "BenchRanching Station",
   "tier": 2,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Seeds": 10,
+      "Carrot": 5
+    },
     "crafted_at": "BenchRanching Station"
   }
 }

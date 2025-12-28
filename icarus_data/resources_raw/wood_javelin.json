@@ -2,8 +2,11 @@
   "name": "Wood Javelin",
   "url": "https://icarus.fandom.com/wiki/Wood_Javelin",
   "description": "The Wood Javelin is a variant of the Wood Spear that can only be thrown. The Wood Javelin has the slowest projectile travel time and highest projectile fall-off, but that can be overlooked by it's cheap producibility.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 10,
+    "Stick": 16
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 10,
+      "Stick": 16
+    },
     "crafted_at": "Unknown"
   }
 }

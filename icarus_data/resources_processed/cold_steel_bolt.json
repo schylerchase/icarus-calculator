@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Cold_Steel_Bolt",
   "description": "The Cold Steel Bolt is ammunition used with a Crossbow . In addition to projectile damage, it has a chance to inflict a Freeze modifier that slows and damages enemies.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Cold Steel Ingot": 1,
+    "Refined Wood": 5,
+    "Steel Screw": 5,
+    "Fur": 5
+  },
   "crafted_at": "Crafted AtForge",
   "tier": 3,
   "stats": {
@@ -14,7 +19,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Cold Steel Ingot": 1,
+      "Refined Wood": 5,
+      "Steel Screw": 5,
+      "Fur": 5
+    },
     "crafted_at": "Crafted AtForge"
   }
 }

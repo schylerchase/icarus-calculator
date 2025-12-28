@@ -2,8 +2,12 @@
   "name": "Cheese",
   "url": "https://icarus.fandom.com/wiki/Cheese",
   "description": "Cheese is a consumable food that boosts stamina and health regeneration.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Salt": 10,
+    "Soy Bean": 3,
+    "Beeswax": 5
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Salt": 10,
+      "Soy Bean": 3,
+      "Beeswax": 5
+    },
     "crafted_at": "Unknown"
   }
 }

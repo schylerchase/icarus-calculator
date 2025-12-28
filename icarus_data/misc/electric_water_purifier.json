@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Electric_Water_Purifier",
   "description": "Electric Water Purifiers can be crafted from the Fabricator with the following resources once the appropriate blueprint point has been spent:",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Titanium Plate": 2,
+    "Electronics": 10,
+    "Aluminium Ingot": 14
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Titanium Plate": 2,
+      "Electronics": 10,
+      "Aluminium Ingot": 14
+    },
     "crafted_at": "Fabricator"
   }
 }

@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Metal_Water_Trough",
   "description": "The Metal Water Trough is a decorative upgrade to the Water Trough that allows multiple creatures to drink from it simultaneously and can be connected to Water using a Water Pipe Tool , similar to the Large Water Trough . The Metal Water Trough can only store water and cannot provide water to the rest of the network like Water Barrels or Metal Rain Reservoirs .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Aluminium Ingot": 30,
+    "Iron Ingot": 15,
+    "Steel Screw": 15
+  },
   "crafted_at": "Ranching Station",
   "tier": 3,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Aluminium Ingot": 30,
+      "Iron Ingot": 15,
+      "Steel Screw": 15
+    },
     "crafted_at": "Ranching Station"
   }
 }

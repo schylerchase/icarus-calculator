@@ -4,10 +4,9 @@
   "description": "Synthetic Enzymes are a crafted variant of Condensed Enzymes that can be used as fuel in a Localized Terraforming Device . Unlike Condensed Enzymes , the synthetic version is less potent as a fuel but does not require constructing, placing or defending a Vapor Condenser on an Enzyme Geyser .",
   "item_type": "craftable",
   "ingredients": {
-    "Recipe": 3,
-    "Organic ResinSpoiled MeatCharcoal": 50,
-    "HoneycombSpoiled PlantsCharcoal": 25,
-    "Vegetable OilSpoiled MeatSpoiled Plants": 10
+    "Organic Resin": 1,
+    "Spoiled Meat": 2,
+    "Charcoal": 2
   },
   "crafted_at": "Workshop",
   "tier": 4,
@@ -18,10 +17,9 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {
-      "Recipe": 3,
-      "Organic ResinSpoiled MeatCharcoal": 50,
-      "HoneycombSpoiled PlantsCharcoal": 25,
-      "Vegetable OilSpoiled MeatSpoiled Plants": 10
+      "Organic Resin": 1,
+      "Spoiled Meat": 2,
+      "Charcoal": 2
     },
     "crafted_at": "Workshop"
   }

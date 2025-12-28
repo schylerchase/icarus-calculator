@@ -2,8 +2,12 @@
   "name": "Bone Javelin",
   "url": "https://icarus.fandom.com/wiki/Bone_Javelin",
   "description": "The Bone Javelin is a variant of the Bone Spear that can only be thrown and is an upgrade to the Wood Javelin . Despite it requiring more materials to craft, the increase in damage can mean the difference between winning and losing a fight against Icarus' fauna.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Wood": 10,
+    "Leather": 4,
+    "Bone": 40
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 10,
+      "Leather": 4,
+      "Bone": 40
+    },
     "crafted_at": "Unknown"
   }
 }

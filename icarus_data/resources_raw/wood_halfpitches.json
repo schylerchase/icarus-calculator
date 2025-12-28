@@ -2,8 +2,11 @@
   "name": "Wood Halfpitches",
   "url": "https://icarus.fandom.com/wiki/Wood_Halfpitches",
   "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection to Deployables and Storage containers. Wood roofs or walls require a floor or wall structure such as Wood Wall for snapping. Hold 'R' while placing the Wood Halfpitches itself to determine shape as well as placement as roof, or wall.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 12,
+    "Wood": 20
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 12,
+      "Wood": 20
+    },
     "crafted_at": "Unknown"
   }
 }

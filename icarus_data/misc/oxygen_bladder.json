@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Oxygen_Bladder",
   "description": "Oxygen Bladder is filled at the Oxite Dissolver , and is equipped in an Envirosuit oxygen slot enabling automatic Oxygen replenishment. It holds 1000 oxygen units.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Fiber": 20,
+    "Leather": 30,
+    "Bone": 8
+  },
   "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 20,
+      "Leather": 30,
+      "Bone": 8
+    },
     "crafted_at": "Crafting Bench"
   }
 }

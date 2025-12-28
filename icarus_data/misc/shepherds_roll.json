@@ -2,8 +2,13 @@
   "name": "Shepherd's Roll",
   "url": "https://icarus.fandom.com/wiki/Shepherd%27s_Roll",
   "description": "A Shepherd's Roll is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Pastry": 1,
+    "Kumara": 1,
+    "Raw Meat": 1,
+    "Carrot": 1
+  },
   "crafted_at": "Unknown",
   "tier": 3,
   "stats": {},
@@ -12,7 +17,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Pastry": 1,
+      "Kumara": 1,
+      "Raw Meat": 1,
+      "Carrot": 1
+    },
     "crafted_at": "Unknown"
   }
 }

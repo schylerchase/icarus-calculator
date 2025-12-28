@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Iron_Pickaxe",
   "description": "The Iron Pickaxe is the 2nd pickaxe prospectors can unlock during their time on Icarus. The blueprint is located at the bottom of the tier 2 tech tree and is considerably better than the previous Stone Pickaxe , granting a 125% boost to mining efficiency. Like all iron tools, the iron pickaxe is repairable at an Anvil Bench .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 5,
+    "Leather": 4,
+    "Iron Ingot": 6
+  },
   "crafted_at": "Workshop",
   "tier": 2,
   "stats": {
@@ -16,7 +20,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 5,
+      "Leather": 4,
+      "Iron Ingot": 6
+    },
     "crafted_at": "Workshop"
   }
 }

@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Industrial_Dining_Chair",
   "description": "A minimalist Industrial Dining Chair",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 15,
+    "Steel Screw": 8
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 15,
+      "Steel Screw": 8
+    },
     "crafted_at": "Decoration Bench"
   }
 }

@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Stone_Roof_Corner",
   "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 3,
+    "Stone": 10,
+    "Leather": 2,
+    "Iron Nail": 4
+  },
   "crafted_at": "the Masonry Bench with the following resources:",
   "tier": 0,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 3,
+      "Stone": 10,
+      "Leather": 2,
+      "Iron Nail": 4
+    },
     "crafted_at": "the Masonry Bench with the following resources:"
   }
 }

@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Electricity_Tool",
   "description": "The Electricity Tool connects Power Sources to Deployables / Power Storage to provide Electricity .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Copper Wire": 50,
+    "Gold Wire": 50,
+    "Carbon Fiber": 4
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Copper Wire": 50,
+      "Gold Wire": 50,
+      "Carbon Fiber": 4
+    },
     "crafted_at": "Fabricator"
   }
 }

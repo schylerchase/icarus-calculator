@@ -2,8 +2,11 @@
   "name": "Hot Coffee with Cream",
   "url": "https://icarus.fandom.com/wiki/Hot_Coffee_with_Cream",
   "description": "Hot Coffee with Cream is a late-game hot beverage similar to Hot Coffee , but with increased maximum stamina, increased stamina regeneration and a shorter buff duration of 5 minutes.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Coffee Bean": 5,
+    "Cream": 3
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Coffee Bean": 5,
+      "Cream": 3
+    },
     "crafted_at": "Unknown"
   }
 }

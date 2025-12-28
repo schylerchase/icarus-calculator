@@ -4,7 +4,7 @@
   "description": "The MXC Hydrazine Canister is purchased from the Workshop on the Space Station and stores 10,000 litres of hydrazine. The fuel is used in several other MXC devices by placing the canister in the device's inventory slot. The fuel canister cannot be refilled.",
   "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Workshop",
+  "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
     "weight": "2.0 Kg"
@@ -15,6 +15,6 @@
   "purchase_cost": 10,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop"
+    "crafted_at": "Unknown"
   }
 }

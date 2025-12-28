@@ -2,8 +2,11 @@
   "name": "Berry & Seed Bar",
   "url": "https://icarus.fandom.com/wiki/Berry_%26_Seed_Bar",
   "description": "Full of energy for long hikes, long lasting effects and easily crafted.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Any Seed": 10,
+    "Wild Berry": 10
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Any Seed": 10,
+      "Wild Berry": 10
+    },
     "crafted_at": "Unknown"
   }
 }

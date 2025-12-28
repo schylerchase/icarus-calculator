@@ -1,9 +1,12 @@
 {
   "name": "Rustic Wardrobe",
   "url": "https://icarus.fandom.com/wiki/Rustic_Wardrobe",
-  "description": "The Rustic Wardrobe is a large wardrobe with 10 item slots",
+  "description": "The Rustic Wardrobe is a decorative wardrobe made of rough wood. It has 10 slots for storing items.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 30,
+    "Iron Nail": 15
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 30,
+      "Iron Nail": 15
+    },
     "crafted_at": "Decoration Bench"
   }
 }

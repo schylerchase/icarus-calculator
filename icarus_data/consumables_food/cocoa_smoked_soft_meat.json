@@ -2,8 +2,11 @@
   "name": "Cocoa Smoked Soft Meat",
   "url": "https://icarus.fandom.com/wiki/Cocoa_Smoked_Soft_Meat",
   "description": "Cocoa Smoked Soft Meat is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Raw Soft Meat": 1,
+    "Cocoa Seed": 5
+  },
   "crafted_at": "Unknown",
   "tier": 3,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Raw Soft Meat": 1,
+      "Cocoa Seed": 5
+    },
     "crafted_at": "Unknown"
   }
 }

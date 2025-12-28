@@ -2,7 +2,7 @@
   "name": "Gatherer's Backpack",
   "url": "https://icarus.fandom.com/wiki/Gatherer%27s_Backpack",
   "description": "The Gatherer's Backpack is a must need when mining ores, or felling trees!",
-  "item_type": "orbital",
+  "item_type": "craftable",
   "ingredients": {},
   "crafted_at": "Workshop",
   "tier": 0,

@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Flamethrower",
   "description": "The Flamethrower is a biofuel-powered weapon that sprays a jet of flame that sets fire to any creatures or flammable materials such as trees, shrubs or Wood Building Pieces .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Aluminium Ingot": 25,
+    "Electronics": 5,
+    "Steel Screw": 20,
+    "Glass": 3
+  },
   "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
@@ -16,7 +21,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Aluminium Ingot": 25,
+      "Electronics": 5,
+      "Steel Screw": 20,
+      "Glass": 3
+    },
     "crafted_at": "Machining Bench Fabricator"
   }
 }

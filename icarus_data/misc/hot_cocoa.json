@@ -2,8 +2,11 @@
   "name": "Hot Cocoa",
   "url": "https://icarus.fandom.com/wiki/Hot_Cocoa",
   "description": "Mid-game warm beverage made by combining a filled Liquid Container such as a Thermos and Cocoa Seeds .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Cocoa Seed": 5,
+    "Thermos": 1
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Cocoa Seed": 5,
+      "Thermos": 1
+    },
     "crafted_at": "Unknown"
   }
 }

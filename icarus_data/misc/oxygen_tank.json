@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Oxygen_Tank",
   "description": "The Oxygen Tank is filled at the Oxite Dissolver and Metal Oxite Dissolver and is equipped in an Envirosuit oxygen slot enabling automatic Oxygen replenishment. It holds 5000 oxygen units, 5 times as much as a Oxygen Bladder ; great for long trips across Icarus.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 20,
+    "Epoxy": 4
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 20,
+      "Epoxy": 4
+    },
     "crafted_at": "Machining Bench"
   }
 }

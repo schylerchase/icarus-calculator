@@ -7,7 +7,12 @@
       "url": "https://icarus.fandom.com/wiki/Black_Wolf_Knife",
       "description": "The Black Wolf Knife is a knife with a 25% chance to inflict hemorrhage on targets and can be used as a tool to skin fauna. For the thrown variant of the Black Wolf Knife, view Black Wolf Throwing Knife .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Black Wolf Tooth": 6,
+        "Leather": 4,
+        "Iron Ore": 4,
+        "Iron Nail": 2
+      },
       "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
@@ -20,7 +25,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Black Wolf Tooth": 6,
+          "Leather": 4,
+          "Iron Ore": 4,
+          "Iron Nail": 2
+        },
         "crafted_at": "Forge Foundry"
       }
     },
@@ -29,7 +39,12 @@
       "url": "https://icarus.fandom.com/wiki/Black_Wolf_Throwing_Knife",
       "description": "The Black Wolf Throwing Knife is a variant of the Black Wolf Knife that can be thrown. Unlike the Black Wolf Knife , the Black Wolf Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Black Wolf Tooth": 4,
+        "Leather": 4,
+        "Iron Ore": 2,
+        "Iron Nail": 6
+      },
       "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
@@ -41,7 +56,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Black Wolf Tooth": 4,
+          "Leather": 4,
+          "Iron Ore": 2,
+          "Iron Nail": 6
+        },
         "crafted_at": "Forge Foundry"
       }
     },
@@ -49,8 +69,12 @@
       "name": "Bone Knife",
       "url": "https://icarus.fandom.com/wiki/Bone_Knife",
       "description": "The Bone Knife is an upgrade in damage and durability from the Stone Knife , the Bone Knife can be used as either a melee weapon or tool.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Wood": 2,
+        "Leather": 2,
+        "Bone": 20
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -63,7 +87,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 2,
+          "Leather": 2,
+          "Bone": 20
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -71,8 +99,12 @@
       "name": "Bone Spear",
       "url": "https://icarus.fandom.com/wiki/Bone_Spear",
       "description": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. The Bone Spear has twice as much health than the Wood Spear , which can be the difference between winning and losing against Icarus' fauna. Unlike the Bone Javelin , the Bone Spear cannot be thrown.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Wood": 16,
+        "Leather": 4,
+        "Bone": 40
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -85,7 +117,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 16,
+          "Leather": 4,
+          "Bone": 40
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -93,8 +129,12 @@
       "name": "Bone Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Bone_Throwing_Knife",
       "description": "The Bone Throwing Knife is a variant of the Bone Knife that can be thrown. Unlike the Bone Knife , the Bone Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Wood": 2,
+        "Leather": 2,
+        "Bone": 15
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -106,7 +146,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 2,
+          "Leather": 2,
+          "Bone": 15
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -115,7 +159,11 @@
       "url": "https://icarus.fandom.com/wiki/Carbon_Spear",
       "description": "The Carbon Spear is an upgrade to the Platinum Spear that deals more damage and is cheaper to craft. Unlike the Carbon Javelin , the Carbon Spear cannot be thrown.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Copper Ingot": 4,
+        "Carbon Fiber": 24,
+        "Epoxy": 8
+      },
       "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
@@ -128,7 +176,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Copper Ingot": 4,
+          "Carbon Fiber": 24,
+          "Epoxy": 8
+        },
         "crafted_at": "Forge Foundry"
       }
     },
@@ -137,7 +189,12 @@
       "url": "https://icarus.fandom.com/wiki/Caveworm_Knife",
       "description": "The Caveworm Knife is made with resources obtained from Caveworms . Though the Caveworm Knife can be used as a melee weapon or tool to skin fauna, the Caveworm Knife has very little durability, which can prove problematic while on the go as it can only be repaired at an Anvil Bench .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 2,
+        "Leather": 2,
+        "Worm Scale": 5,
+        "Poison Sack": 5
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -150,7 +207,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 2,
+          "Leather": 2,
+          "Worm Scale": 5,
+          "Poison Sack": 5
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -159,7 +221,12 @@
       "url": "https://icarus.fandom.com/wiki/Caveworm_Spear",
       "description": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike the Caveworm Javelin , the Caveworm Spear cannot be thrown.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 16,
+        "Leather": 4,
+        "Worm Scale": 10,
+        "Poison Sack": 10
+      },
       "crafted_at": "Workshop",
       "tier": 2,
       "stats": {
@@ -172,7 +239,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 16,
+          "Leather": 4,
+          "Worm Scale": 10,
+          "Poison Sack": 10
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -181,7 +253,12 @@
       "url": "https://icarus.fandom.com/wiki/Caveworm_Throwing_Knife",
       "description": "The Caveworm Throwing Knife is a variant of the Caveworm Knife that can be thrown. Unlike the Caveworm Knife , the Caveworm Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 4,
+        "Leather": 4,
+        "Worm Scale": 4,
+        "Poison Sack": 4
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -193,7 +270,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 4,
+          "Leather": 4,
+          "Worm Scale": 4,
+          "Poison Sack": 4
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -202,7 +284,12 @@
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Axe",
       "description": "The Cold Steel Axe is a mid/late-game Axe that is introduced with Chapter - New Frontier . The Cold Steel Axe can be crafted while on the surface of Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Cold Steel Ingot": 3,
+        "Refined Wood": 5,
+        "Steel Screw": 5,
+        "Fur": 3
+      },
       "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
@@ -215,7 +302,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cold Steel Ingot": 3,
+          "Refined Wood": 5,
+          "Steel Screw": 5,
+          "Fur": 3
+        },
         "crafted_at": "Forge Foundry"
       }
     },
@@ -224,7 +316,12 @@
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Knife",
       "description": "The Cold Steel Knife is a mid/late-game Knife that is introduced with the addition of Cold Steel Ingots on the Prometheus map.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Cold Steel Ingot": 5,
+        "Refined Wood": 5,
+        "Steel Screw": 10,
+        "Fur": 5
+      },
       "crafted_at": "Crafted AtForge",
       "tier": 3,
       "stats": {
@@ -237,7 +334,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cold Steel Ingot": 5,
+          "Refined Wood": 5,
+          "Steel Screw": 10,
+          "Fur": 5
+        },
         "crafted_at": "Crafted AtForge"
       }
     },
@@ -246,7 +348,12 @@
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Pickaxe",
       "description": "The Cold Steel Pickaxe is a mid/late-game Pickaxe that was introduced with New Frontiers .",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Cold Steel Ingot": 5,
+        "Refined Wood": 10,
+        "Steel Screw": 10,
+        "Fur": 5
+      },
       "crafted_at": "Crafted AtForge",
       "tier": 3,
       "stats": {
@@ -259,16 +366,26 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cold Steel Ingot": 5,
+          "Refined Wood": 10,
+          "Steel Screw": 10,
+          "Fur": 5
+        },
         "crafted_at": "Crafted AtForge"
       }
     },
     {
       "name": "Cold Steel Sledgehammer",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Sledgehammer",
-      "description": "Cold Steel Sledgehammer is a Tier 3  Sledgehammer made with Cold Steel Ingots . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Cold Steel Sledgehammer is a Tier 3 Sledgehammer made with Cold Steel Ingots . Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Cold Steel Ingot": 15,
+        "Refined Wood": 20,
+        "Iron Nail": 10,
+        "Fur": 5
+      },
       "crafted_at": "Crafted AtForge",
       "tier": 3,
       "stats": {
@@ -281,7 +398,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cold Steel Ingot": 15,
+          "Refined Wood": 20,
+          "Iron Nail": 10,
+          "Fur": 5
+        },
         "crafted_at": "Crafted AtForge"
       }
     },
@@ -290,7 +412,12 @@
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Spear",
       "description": "Element damage does not scale with Spear talents. Unlike the Cold Steel Javelin , the Cold Steel Spear cannot be thrown.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Cold Steel Ingot": 5,
+        "Refined Wood": 20,
+        "Steel Screw": 10,
+        "Fur": 5
+      },
       "crafted_at": "Crafted AtForge",
       "tier": 3,
       "stats": {
@@ -303,7 +430,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cold Steel Ingot": 5,
+          "Refined Wood": 20,
+          "Steel Screw": 10,
+          "Fur": 5
+        },
         "crafted_at": "Crafted AtForge"
       }
     },
@@ -312,7 +444,12 @@
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Throwing_Knife",
       "description": "The Cold Steel Throwing Knife is a variant of the Cold Steel Knife that can only be thrown and is unlocked upon researching the Cold Steel Knife . Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Cold Steel Ingot": 5,
+        "Refined Wood": 5,
+        "Steel Screw": 10,
+        "Fur": 5
+      },
       "crafted_at": "Crafted AtForge",
       "tier": 3,
       "stats": {
@@ -324,7 +461,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cold Steel Ingot": 5,
+          "Refined Wood": 5,
+          "Steel Screw": 10,
+          "Fur": 5
+        },
         "crafted_at": "Crafted AtForge"
       }
     },
@@ -332,8 +474,13 @@
       "name": "Combat Knife",
       "url": "https://icarus.fandom.com/wiki/Combat_Knife",
       "description": "While not particularly good for skinning a carcass, this knife excels in close quarters combat. Cannot be thrown.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Steel Ingot": 12,
+        "Steel Screw": 2,
+        "Carbon Fiber": 2,
+        "Epoxy": 4
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -346,7 +493,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 12,
+          "Steel Screw": 2,
+          "Carbon Fiber": 2,
+          "Epoxy": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -354,8 +506,12 @@
       "name": "Composite Spear",
       "url": "https://icarus.fandom.com/wiki/Composite_Spear",
       "description": "The Composite Spear is an upgrade to the Titanium Spear that deals more damage and is cheaper to craft once Composites can be crafted. Despite Composites being a hefty tech investment, the Composite Spear has the highest damage output and durability outside of Prometheus exclusive Spears. Unlike the Composite Javelin , the Composite Spear cannot be thrown.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Iron Ingot": 4,
+        "Aluminium Ingot": 4,
+        "Composites": 24
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -368,7 +524,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 4,
+          "Aluminium Ingot": 4,
+          "Composites": 24
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -377,7 +537,11 @@
       "url": "https://icarus.fandom.com/wiki/Frag_Grenade",
       "description": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade timer starts when the grenade leaves your hand and will take a few seconds to detonate. Stacks up to 5.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 1,
+        "Gunpowder": 2,
+        "Volatile Substance": 3
+      },
       "crafted_at": "the Machining Bench with the following resources:",
       "tier": 3,
       "stats": {
@@ -388,7 +552,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 1,
+          "Gunpowder": 2,
+          "Volatile Substance": 3
+        },
         "crafted_at": "the Machining Bench with the following resources:"
       }
     },
@@ -747,9 +915,14 @@
     {
       "name": "Iron Axe",
       "url": "https://icarus.fandom.com/wiki/Iron_Axe",
-      "description": "The Iron Axe is the 2nd axe you will unlock during your time on Icarus. It is located at the bottom of the Tier 2  tech tree, right after the Anvil Bench .",
+      "description": "The Iron Axe is the 2nd axe you will unlock during your time on Icarus. It is located at the bottom of the Tier 2 tech tree, right after the Anvil Bench .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 5,
+        "Leather": 4,
+        "Iron Ingot": 6,
+        "Iron Nail": 2
+      },
       "crafted_at": "Anvil Bench",
       "tier": 2,
       "stats": {
@@ -762,7 +935,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 5,
+          "Leather": 4,
+          "Iron Ingot": 6,
+          "Iron Nail": 2
+        },
         "crafted_at": "Anvil Bench"
       }
     },
@@ -771,7 +949,11 @@
       "url": "https://icarus.fandom.com/wiki/Iron_Hammer",
       "description": "Example: If a Prospector were to upgrade a Wood Wall to a Stone Wall , a Stone Wall must be in the inventory of the Prospector when upgrading.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 4,
+        "Leather": 4,
+        "Iron Ingot": 10
+      },
       "crafted_at": "Anvil Bench",
       "tier": 2,
       "stats": {
@@ -783,7 +965,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 4,
+          "Leather": 4,
+          "Iron Ingot": 10
+        },
         "crafted_at": "Anvil Bench"
       }
     },
@@ -792,7 +978,12 @@
       "url": "https://icarus.fandom.com/wiki/Iron_Knife",
       "description": "The Iron Knife is an upgrade in damage and durability from the Bone Knife , the Iron Knife can be used as either a melee weapon or tool. It is also the first knife capable of skinning larger fauna such as the Grizzly Bear and Buffalo . An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench / Advanced Alteration Bench .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 5,
+        "Leather": 4,
+        "Iron Ingot": 6,
+        "Iron Nail": 2
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -805,7 +996,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 5,
+          "Leather": 4,
+          "Iron Ingot": 6,
+          "Iron Nail": 2
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -814,7 +1010,11 @@
       "url": "https://icarus.fandom.com/wiki/Iron_Pickaxe",
       "description": "The Iron Pickaxe is the 2nd pickaxe prospectors can unlock during their time on Icarus. The blueprint is located at the bottom of the tier 2 tech tree and is considerably better than the previous Stone Pickaxe , granting a 125% boost to mining efficiency. Like all iron tools, the iron pickaxe is repairable at an Anvil Bench .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 5,
+        "Leather": 4,
+        "Iron Ingot": 6
+      },
       "crafted_at": "Workshop",
       "tier": 2,
       "stats": {
@@ -827,16 +1027,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 5,
+          "Leather": 4,
+          "Iron Ingot": 6
+        },
         "crafted_at": "Workshop"
       }
     },
     {
       "name": "Iron Sledgehammer",
       "url": "https://icarus.fandom.com/wiki/Iron_Sledgehammer",
-      "description": "Iron Sledgehammer is a Tier 2  Sledgehammer made with Iron .",
+      "description": "Iron Sledgehammer is a Tier 2 Sledgehammer made with Iron .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 10,
+        "Rope": 8,
+        "Iron Ingot": 15
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -849,16 +1057,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 10,
+          "Rope": 8,
+          "Iron Ingot": 15
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
     {
       "name": "Iron Spear",
       "url": "https://icarus.fandom.com/wiki/Iron_Spear",
-      "description": "The Iron Spear is the first Spear available to prospectors once they reach Tier 2  and serves as an upgrade to its Tier 1  counterparts. Unlike the Iron Javelin , the Iron Spear cannot be thrown.",
+      "description": "The Iron Spear is the first Spear available to prospectors once they reach Tier 2 and serves as an upgrade to its Tier 1 counterparts. Unlike the Iron Javelin , the Iron Spear cannot be thrown.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 5,
+        "Leather": 6,
+        "Iron Ingot": 24
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -871,7 +1087,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 5,
+          "Leather": 6,
+          "Iron Ingot": 24
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -880,7 +1100,12 @@
       "url": "https://icarus.fandom.com/wiki/Iron_Throwing_Knife",
       "description": "The Iron Throwing Knife is a variant of the Iron Knife that can be thrown. Unlike the Iron Knife , the Iron Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 4,
+        "Leather": 4,
+        "Iron Ingot": 5,
+        "Iron Nail": 4
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -892,7 +1117,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 4,
+          "Leather": 4,
+          "Iron Ingot": 5,
+          "Iron Nail": 4
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -1051,7 +1281,7 @@
     {
       "name": "MXC Knife",
       "url": "https://icarus.fandom.com/wiki/MXC_Knife",
-      "description": "The MXC Knife is equivalent to Tier 2  Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the MXC Knife cannot be thrown. There currently are no Workshop throwing knives.",
+      "description": "The MXC Knife is equivalent to Tier 2 Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the MXC Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Workshop",
@@ -1118,8 +1348,13 @@
       "name": "Machete",
       "url": "https://icarus.fandom.com/wiki/Machete",
       "description": "The Machete is a Tool that can be used to skin Fauna and harvest Carrots, Wheat, shrubbery, etc. similar to Sickles .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Iron Ingot": 12,
+        "Refined Wood": 4,
+        "Epoxy": 4,
+        "Steel Screw": 2
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -1132,16 +1367,28 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 12,
+          "Refined Wood": 4,
+          "Epoxy": 4,
+          "Steel Screw": 2
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Miasmic Axe",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Axe",
-      "description": "Miasmic Axe is a Tier 4  Axe made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Miasmic Axe is a Tier 4 Axe made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Carbon Fiber": 4,
+        "Steel Screw": 8,
+        "Epoxy": 4,
+        "Titanium Ingot": 6,
+        "Distilled Miasmic Coating": 6,
+        "Refined Wood": 10
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -1154,16 +1401,30 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Carbon Fiber": 4,
+          "Steel Screw": 8,
+          "Epoxy": 4,
+          "Titanium Ingot": 6,
+          "Distilled Miasmic Coating": 6,
+          "Refined Wood": 10
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Miasmic Knife",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Knife",
-      "description": "Miasmic Knife is a Tier 4  Knife made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Miasmic Knife is a Tier 4 Knife made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Carbon Fiber": 4,
+        "Steel Screw": 2,
+        "Epoxy": 4,
+        "Titanium Ingot": 4,
+        "Distilled Miasmic Coating": 4,
+        "Refined Wood": 5
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -1176,16 +1437,30 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Carbon Fiber": 4,
+          "Steel Screw": 2,
+          "Epoxy": 4,
+          "Titanium Ingot": 4,
+          "Distilled Miasmic Coating": 4,
+          "Refined Wood": 5
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Miasmic Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Pickaxe",
-      "description": "Miasmic Pickaxe is a Tier 4  Pickaxe made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Miasmic Pickaxe is a Tier 4 Pickaxe made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Carbon Fiber": 4,
+        "Steel Screw": 8,
+        "Epoxy": 4,
+        "Titanium Ingot": 6,
+        "Distilled Miasmic Coating": 6,
+        "Refined Wood": 10
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -1200,16 +1475,29 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Carbon Fiber": 4,
+          "Steel Screw": 8,
+          "Epoxy": 4,
+          "Titanium Ingot": 6,
+          "Distilled Miasmic Coating": 6,
+          "Refined Wood": 10
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Miasmic Sledgehammer",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Sledgehammer",
-      "description": "Miasmic Sledgehammer is a Tier 4  Sledgehammer made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Miasmic Sledgehammer is a Tier 4 Sledgehammer made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Titanium Ingot": 8,
+        "Carbon Fiber": 6,
+        "Steel Screw": 10,
+        "Distilled Miasmic Coating": 8,
+        "Refined Wood": 20
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -1224,7 +1512,13 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Titanium Ingot": 8,
+          "Carbon Fiber": 6,
+          "Steel Screw": 10,
+          "Distilled Miasmic Coating": 8,
+          "Refined Wood": 20
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1233,7 +1527,12 @@
       "url": "https://icarus.fandom.com/wiki/Miasmic_Spear",
       "description": "Element damage does not scale with Spear talents. Unlike the Miasmic Javelin , the Miasmic Spear cannot be thrown.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 20,
+        "Cured Leather": 1,
+        "Titanium Ingot": 12,
+        "Distilled Miasmic Coating": 12
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -1248,7 +1547,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 20,
+          "Cured Leather": 1,
+          "Titanium Ingot": 12,
+          "Distilled Miasmic Coating": 12
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1257,7 +1561,14 @@
       "url": "https://icarus.fandom.com/wiki/Miasmic_Throwing_Knife",
       "description": "The Miasmic Throwing Knife is a variant of the Miasmic Knife that can only be thrown and is unlocked upon researching the Miasmic Knife . Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Carbon Fiber": 2,
+        "Steel Screw": 4,
+        "Epoxy": 4,
+        "Titanium Ingot": 3,
+        "Distilled Miasmic Coating": 3,
+        "Refined Wood": 5
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -1271,16 +1582,28 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Carbon Fiber": 2,
+          "Steel Screw": 4,
+          "Epoxy": 4,
+          "Titanium Ingot": 3,
+          "Distilled Miasmic Coating": 3,
+          "Refined Wood": 5
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Obsidian Sledgehammer",
       "url": "https://icarus.fandom.com/wiki/Obsidian_Sledgehammer",
-      "description": "Obsidian Sledgehammer is a Tier 2  Sledgehammer made with Shaped Obsidian . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Obsidian Sledgehammer is a Tier 2 Sledgehammer made with Shaped Obsidian . Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Shaped Obsidian": 15,
+        "Refined Wood": 20,
+        "Iron Nail": 10,
+        "Leather": 5
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -1293,7 +1616,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Shaped Obsidian": 15,
+          "Refined Wood": 20,
+          "Iron Nail": 10,
+          "Leather": 5
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -1302,7 +1630,11 @@
       "url": "https://icarus.fandom.com/wiki/Obsidian_Spear",
       "description": "Element damage does not scale with Spear talents. Unlike the Obsidian Javelin , the Obsidian Spear cannot be thrown.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 20,
+        "Leather": 6,
+        "Shaped Obsidian": 15
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -1315,7 +1647,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 20,
+          "Leather": 6,
+          "Shaped Obsidian": 15
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -1324,7 +1660,12 @@
       "url": "https://icarus.fandom.com/wiki/Obsidian_Throwing_Knife",
       "description": "The Obsidian Throwing Knife is a variant of the Obsidian Knife that can only be thrown and is unlocked upon researching the Obsidian Knife . Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 5,
+        "Leather": 4,
+        "Shaped Obsidian": 5,
+        "Iron Nail": 4
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -1336,7 +1677,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 5,
+          "Leather": 4,
+          "Shaped Obsidian": 5,
+          "Iron Nail": 4
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -1345,7 +1691,11 @@
       "url": "https://icarus.fandom.com/wiki/Platinum_Axe",
       "description": "The Platinum Axe is a mid/late-game Axe that can be crafted while on the surface of Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 2,
+        "Cured Leather": 1,
+        "Platinum Ingot": 12
+      },
       "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
@@ -1358,7 +1708,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 2,
+          "Cured Leather": 1,
+          "Platinum Ingot": 12
+        },
         "crafted_at": "Forge Foundry"
       }
     },
@@ -1367,7 +1721,12 @@
       "url": "https://icarus.fandom.com/wiki/Platinum_Hammer",
       "description": "Example: If a Prospector were to upgrade a Wood Wall to a Stone Wall , a Stone Wall must be in the inventory of the Prospector when upgrading.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 5,
+        "Epoxy": 4,
+        "Platinum Ingot": 6,
+        "Steel Screw": 2
+      },
       "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
@@ -1379,7 +1738,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 5,
+          "Epoxy": 4,
+          "Platinum Ingot": 6,
+          "Steel Screw": 2
+        },
         "crafted_at": "Forge Foundry"
       }
     },
@@ -1388,7 +1752,11 @@
       "url": "https://icarus.fandom.com/wiki/Platinum_Knife",
       "description": "The Platinum Knife is an upgrade in damage and durability from the Steel Knife , the Platinum Knife can be used as either a melee weapon or tool. Unlike the Platinum Throwing Knife , the Platinum Knife cannot be thrown.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 2,
+        "Cured Leather": 1,
+        "Platinum Ingot": 12
+      },
       "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
@@ -1401,7 +1769,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 2,
+          "Cured Leather": 1,
+          "Platinum Ingot": 12
+        },
         "crafted_at": "Forge Foundry"
       }
     },
@@ -1410,7 +1782,11 @@
       "url": "https://icarus.fandom.com/wiki/Platinum_Pickaxe",
       "description": "The Platinum Pickaxe is a mid/late-game Pickaxe that can be crafted while on the surface of Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 2,
+        "Cured Leather": 1,
+        "Platinum Ingot": 12
+      },
       "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
@@ -1423,16 +1799,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 2,
+          "Cured Leather": 1,
+          "Platinum Ingot": 12
+        },
         "crafted_at": "Forge Foundry"
       }
     },
     {
       "name": "Platinum Spear",
       "url": "https://icarus.fandom.com/wiki/Platinum_Spear",
-      "description": "The Platinum Spear is the first Spear available to prospectors once they reach Tier 3  and serves as an, albeit expensive, upgrade to its Tier 2  counterparts. Unlike the Platinum Javelin , the Platinum Spear cannot be thrown.",
+      "description": "The Platinum Spear is the first Spear available to prospectors once they reach Tier 3 and serves as an, albeit expensive, upgrade to its Tier 2 counterparts. Unlike the Platinum Javelin , the Platinum Spear cannot be thrown.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 2,
+        "Cured Leather": 1,
+        "Platinum Ingot": 24
+      },
       "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
@@ -1445,7 +1829,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 2,
+          "Cured Leather": 1,
+          "Platinum Ingot": 24
+        },
         "crafted_at": "Forge Foundry"
       }
     },
@@ -1454,7 +1842,11 @@
       "url": "https://icarus.fandom.com/wiki/Platinum_Throwing_Knife",
       "description": "The Platinum Throwing Knife is a variant of the Platinum Knife that can be thrown. Unlike the Platinum Knife , the Platinum Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 4,
+        "Cured Leather": 1,
+        "Platinum Ingot": 8
+      },
       "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
@@ -1466,7 +1858,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 4,
+          "Cured Leather": 1,
+          "Platinum Ingot": 8
+        },
         "crafted_at": "Forge Foundry"
       }
     },
@@ -1475,7 +1871,11 @@
       "url": "https://icarus.fandom.com/wiki/Sandworm_Knife",
       "description": "The Sandworm Knife is made with scales obtained from Sandworms . Considering the Sandworm Knife deals the same amount of damage as a Steel Knife , the Sandworm Knife is overshadowed by higher-tier knives and is not worth the effort.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 2,
+        "Leather": 2,
+        "Sandworm Scale": 5
+      },
       "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
@@ -1488,7 +1888,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 2,
+          "Leather": 2,
+          "Sandworm Scale": 5
+        },
         "crafted_at": "Forge Foundry"
       }
     },
@@ -1497,7 +1901,11 @@
       "url": "https://icarus.fandom.com/wiki/Sandworm_Spear",
       "description": "The Sandworm Spear is made with scales from Sandworms and can be used for melee combat with reach. Considering the Sandworm Spear deals the same amount of damage as a Bone Spear , the Sandworm Spear is overshadowed by higher-tier spears and currently not worth the effort.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 16,
+        "Leather": 4,
+        "Sandworm Scale": 10
+      },
       "crafted_at": "Workshop",
       "tier": 3,
       "stats": {
@@ -1510,7 +1918,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 16,
+          "Leather": 4,
+          "Sandworm Scale": 10
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -1519,7 +1931,11 @@
       "url": "https://icarus.fandom.com/wiki/Sandworm_Throwing_Knife",
       "description": "The Sandworm Throwing Knife is a variant of the Sandworm Knife that can be thrown. Unlike the Sandworm Knife , the Sandworm Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 4,
+        "Leather": 4,
+        "Sandworm Scale": 4
+      },
       "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
@@ -1531,7 +1947,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 4,
+          "Leather": 4,
+          "Sandworm Scale": 4
+        },
         "crafted_at": "Forge Foundry"
       }
     },
@@ -1559,7 +1979,7 @@
     {
       "name": "Shengong \"Daokou\" Knife",
       "url": "https://icarus.fandom.com/wiki/Shengong_%22Daokou%22_Knife",
-      "description": "The Shengong \"Daokou\" Knife is equivalent to Tier 2  Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the Shengong \"Daokou\" Knife cannot be thrown. There currently are no Workshop throwing knives.",
+      "description": "The Shengong \"Daokou\" Knife is equivalent to Tier 2 Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the Shengong \"Daokou\" Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Workshop",
@@ -1823,7 +2243,7 @@
     {
       "name": "Shengong 'Shui' Knife",
       "url": "https://icarus.fandom.com/wiki/Shengong_%27Shui%27_Knife",
-      "description": "The Shengong 'Shui' Knife is equivalent to Tier 2  Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the Shengong 'Shui' Knife cannot be thrown. There currently are no Workshop throwing knives.",
+      "description": "The Shengong 'Shui' Knife is equivalent to Tier 2 Tech like the Iron Knife , giving Prospectors the ability to skin larger animals, such as Buffalo and Grizzly Bears . Unlike Throwing Knives , the Shengong 'Shui' Knife cannot be thrown. There currently are no Workshop throwing knives.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Workshop",
@@ -2000,7 +2420,10 @@
       "url": "https://icarus.fandom.com/wiki/Smoke_Grenade",
       "description": "A smoke grenade is a canister-type grenade used as a signaling device, target or landing zone marking device, or as a screening device for unit movements. Upon detonation, the Smoke Grenade will cover the area in smoke and will obstruct the vision of creatures within the smoke. However, it will not stop creatures that are already aggressively pursuing Prospectors, creatures spawned by Thumpers, Radars, or other mission items that have been placed or activated. Stacks up to 5.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 1,
+        "Stone": 10
+      },
       "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
@@ -2011,16 +2434,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 1,
+          "Stone": 10
+        },
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "Steel Axe",
       "url": "https://icarus.fandom.com/wiki/Steel_Axe",
-      "description": "The Steel Axe is a mid-game Tool available in Icarus. Prospectors can unlock it in Tier 2  of the Tech Tree , after reaching Level 20.",
+      "description": "The Steel Axe is a mid-game Tool available in Icarus. Prospectors can unlock it in Tier 2 of the Tech Tree , after reaching Level 20.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 5,
+        "Epoxy": 4,
+        "Steel Ingot": 6,
+        "Steel Screw": 2
+      },
       "crafted_at": "Anvil Bench",
       "tier": 3,
       "stats": {
@@ -2033,7 +2464,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 5,
+          "Epoxy": 4,
+          "Steel Ingot": 6,
+          "Steel Screw": 2
+        },
         "crafted_at": "Anvil Bench"
       }
     },
@@ -2042,7 +2478,12 @@
       "url": "https://icarus.fandom.com/wiki/Steel_Hammer",
       "description": "Example: If a Prospector were to upgrade a Wood Wall to a Stone Wall , a Stone Wall must be in the inventory of the Prospector when upgrading.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 5,
+        "Epoxy": 4,
+        "Steel Ingot": 6,
+        "Steel Screw": 2
+      },
       "crafted_at": "Anvil Bench",
       "tier": 2,
       "stats": {
@@ -2054,7 +2495,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 5,
+          "Epoxy": 4,
+          "Steel Ingot": 6,
+          "Steel Screw": 2
+        },
         "crafted_at": "Anvil Bench"
       }
     },
@@ -2063,7 +2509,12 @@
       "url": "https://icarus.fandom.com/wiki/Steel_Knife",
       "description": "The Steel Knife is an upgrade in damage and durability from the Iron Knife , the Steel Knife can be used as either a melee weapon or tool. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench / Advanced Alteration Bench .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 5,
+        "Epoxy": 4,
+        "Steel Ingot": 6,
+        "Iron Nail": 2
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -2076,7 +2527,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 5,
+          "Epoxy": 4,
+          "Steel Ingot": 6,
+          "Iron Nail": 2
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -2085,7 +2541,11 @@
       "url": "https://icarus.fandom.com/wiki/Steel_Pickaxe",
       "description": "The Steel pickaxe is the 3rd pickaxe prospectors can unlock during your time on Icarus and allows for the mining of denser Minerals not obtainable with the Iron Pickaxe or Stone Pickaxe . Like iron tools, the steel pickaxe is made and is repairable at an Anvil Bench .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 5,
+        "Epoxy": 4,
+        "Steel Ingot": 6
+      },
       "crafted_at": "Anvil Bench",
       "tier": 2,
       "stats": {
@@ -2098,7 +2558,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 5,
+          "Epoxy": 4,
+          "Steel Ingot": 6
+        },
         "crafted_at": "Anvil Bench"
       }
     },
@@ -2107,7 +2571,11 @@
       "url": "https://icarus.fandom.com/wiki/Steel_Spear",
       "description": "The Steel Spear is an upgrade to the Iron Spear that deals more damage/critical damage to targets and has twice the durability. Unlike the Steel Javelin , the Steel Spear cannot be thrown.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 5,
+        "Epoxy": 6,
+        "Steel Ingot": 24
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -2120,7 +2588,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 5,
+          "Epoxy": 6,
+          "Steel Ingot": 24
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -2129,7 +2601,12 @@
       "url": "https://icarus.fandom.com/wiki/Steel_Throwing_Knife",
       "description": "The Steel Throwing Knife is a variant of the Steel Knife that can be thrown. Unlike the Steel Knife , the Steel Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 4,
+        "Epoxy": 2,
+        "Steel Ingot": 6,
+        "Iron Nail": 4
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -2141,7 +2618,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 4,
+          "Epoxy": 2,
+          "Steel Ingot": 6,
+          "Iron Nail": 4
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -2149,8 +2631,12 @@
       "name": "Stone Axe",
       "url": "https://icarus.fandom.com/wiki/Stone_Axe",
       "description": "The Stone Axe is used primarily for chopping down trees and Small Trees , reducing them to usable Wood . In the process of chopping apart fallen trees, a small number of Sticks may be added to your inventory automatically.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 10,
+        "Stick": 4,
+        "Stone": 6
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -2163,7 +2649,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 10,
+          "Stick": 4,
+          "Stone": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2171,8 +2661,12 @@
       "name": "Stone Knife",
       "url": "https://icarus.fandom.com/wiki/Stone_Knife",
       "description": "The first knife that can be unlocked, the Stone Knife is a fast melee weapon and doubles as a tool with any knife being necessary to skin a carcass prior to unlocking the Skinning Bench .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 2,
+        "Stick": 2,
+        "Stone": 4
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -2185,7 +2679,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 2,
+          "Stick": 2,
+          "Stone": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2194,8 +2692,12 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Pickaxe",
       "description": "The Stone Pickaxe is the first Pickaxe available to prospectors and is used to break apart mineable Minerals , reducing them to usable resources. Stone, Sulfur, Oxite, Silica, Coal, Salt, Copper, Iron, Gold, and Exotic nodes can be mined with a Stone Pickaxe. To mine Aluminium, Platinum, and Titanium, prospectors must use a Steel Pickaxe or better.",
       "item_type": "harvestable",
-      "ingredients": {},
-      "crafted_at": "Workshop",
+      "ingredients": {
+        "Fiber": 10,
+        "Stick": 4,
+        "Stone": 6
+      },
+      "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
         "damage": "27 - 30 Melee Damage",
@@ -2207,16 +2709,24 @@
       "research_cost": null,
       "purchase_cost": 1,
       "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Workshop"
+        "ingredients": {
+          "Fiber": 10,
+          "Stick": 4,
+          "Stone": 6
+        },
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Stone Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Stone_Throwing_Knife",
       "description": "The Stone Throwing Knife is a variant of the Stone Knife that can be thrown. Unlike the Stone Knife , the Stone Throwing Knife cannot be used to skin fauna. Crafted in batches of 5 and stacks up to fifty.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 4,
+        "Stick": 4,
+        "Stone": 4
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -2228,7 +2738,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 4,
+          "Stick": 4,
+          "Stone": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2237,7 +2751,12 @@
       "url": "https://icarus.fandom.com/wiki/Taxidermy_Knife",
       "description": "The Taxidermy Knife is used for skinning Fauna carcasses, when a prospector wishes to obtain a Vestige for mounting. Skinning any carcass with a taxidermy knife grants four Bestiary points for the animal skinned.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 2,
+        "Leather": 4,
+        "Iron Ingot": 6,
+        "Iron Nail": 2
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -2250,7 +2769,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 2,
+          "Leather": 4,
+          "Iron Ingot": 6,
+          "Iron Nail": 2
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -2258,8 +2782,13 @@
       "name": "Titanium Axe",
       "url": "https://icarus.fandom.com/wiki/Titanium_Axe",
       "description": "The Titanium Axe is the highest tiered Axe that can be crafted while on the surface of Icarus.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Carbon Fiber": 4,
+        "Steel Screw": 8,
+        "Epoxy": 4,
+        "Titanium Ingot": 12
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -2272,7 +2801,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Carbon Fiber": 4,
+          "Steel Screw": 8,
+          "Epoxy": 4,
+          "Titanium Ingot": 12
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2280,8 +2814,13 @@
       "name": "Titanium Hammer",
       "url": "https://icarus.fandom.com/wiki/Titanium_Hammer",
       "description": "Example: If a Prospector were to upgrade a Wood Wall to a Stone Wall , a Stone Wall must be in the inventory of the Prospector when upgrading.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Carbon Fiber": 4,
+        "Steel Screw": 10,
+        "Epoxy": 4,
+        "Titanium Ingot": 10
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -2293,7 +2832,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Carbon Fiber": 4,
+          "Steel Screw": 10,
+          "Epoxy": 4,
+          "Titanium Ingot": 10
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2301,8 +2845,13 @@
       "name": "Titanium Knife",
       "url": "https://icarus.fandom.com/wiki/Titanium_Knife",
       "description": "The Titanium Knife is an upgrade in damage and durability from the Platinum Knife , the Titanium Knife can be used as either a melee weapon or tool. Unlike the Titanium Throwing Knife , the Titanium Knife cannot be thrown.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Carbon Fiber": 4,
+        "Steel Screw": 2,
+        "Epoxy": 4,
+        "Titanium Ingot": 8
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -2315,7 +2864,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Carbon Fiber": 4,
+          "Steel Screw": 2,
+          "Epoxy": 4,
+          "Titanium Ingot": 8
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2323,8 +2877,13 @@
       "name": "Titanium Pickaxe",
       "url": "https://icarus.fandom.com/wiki/Titanium_Pickaxe",
       "description": "The Titanium Pickaxe is the highest-tiered Pickaxe that can be crafted while on the surface of Icarus. When combined with a Tool Attachment Pack / Advanced Tool Attachment Pack , the Titanium Pickaxe surpasses the Inaris \"Neves\" Pickaxe in terms of mining.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Carbon Fiber": 4,
+        "Steel Screw": 8,
+        "Epoxy": 4,
+        "Titanium Ingot": 12
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -2337,16 +2896,25 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Carbon Fiber": 4,
+          "Steel Screw": 8,
+          "Epoxy": 4,
+          "Titanium Ingot": 12
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Titanium Spear",
       "url": "https://icarus.fandom.com/wiki/Titanium_Spear",
-      "description": "The Titanium Spear is the first Spear available to prospectors once they reach Tier 4  and serves as an, albeit expensive, upgrade to its Tier 3  counterparts. Unlike the Titanium Javelin , the Titanium Spear cannot be thrown.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "The Titanium Spear is the first Spear available to prospectors once they reach Tier 4 and serves as an, albeit expensive, upgrade to its Tier 3 counterparts. Unlike the Titanium Javelin , the Titanium Spear cannot be thrown.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 2,
+        "Cured Leather": 1,
+        "Titanium Ingot": 24
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -2359,7 +2927,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 2,
+          "Cured Leather": 1,
+          "Titanium Ingot": 24
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2367,8 +2939,13 @@
       "name": "Titanium Throwing Knife",
       "url": "https://icarus.fandom.com/wiki/Titanium_Throwing_Knife",
       "description": "The Titanium Throwing Knife is a variant of the Titanium Knife that can be thrown. Unlike the Titanium Knife , the Titanium Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Carbon Fiber": 2,
+        "Steel Screw": 4,
+        "Epoxy": 4,
+        "Titanium Ingot": 6
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -2380,7 +2957,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Carbon Fiber": 2,
+          "Steel Screw": 4,
+          "Epoxy": 4,
+          "Titanium Ingot": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2388,8 +2970,12 @@
       "name": "Wood Hammer",
       "url": "https://icarus.fandom.com/wiki/Wood_Hammer",
       "description": "Example: If a Prospector were to upgrade a Wood Wall to a Stone Wall , a Stone Wall must be in the inventory of the Prospector when upgrading.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 10,
+        "Stick": 4,
+        "Stone": 6
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -2401,7 +2987,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 10,
+          "Stick": 4,
+          "Stone": 6
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2409,8 +2999,11 @@
       "name": "Wood Spear",
       "url": "https://icarus.fandom.com/wiki/Wood_Spear",
       "description": "The Wood Spear is the first Spear available to prospectors and serves as an alternative to the Stone Knife , dealing increased critical damage but with a slower attack speed. Like other spears, the Wood Spear increase the range to which prospectors can attack fauna, providing a unique advantage when up high.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 12,
+        "Stick": 18
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -2423,7 +3016,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 12,
+          "Stick": 18
+        },
         "crafted_at": "Unknown"
       }
     }

@@ -1,9 +1,12 @@
 {
   "name": "5.56mm Obsidian Round",
   "url": "https://icarus.fandom.com/wiki/5.56mm_Obsidian_Round",
-  "description": "5.56mm Obsidian Rounds are an alternative to 5.56mm Incendiary Rounds that deal fire damage on hit and has a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 5.56mm Obsidian Rounds excel when used against Fauna that have a weakness to fire, dealing more damage than 5.56mm Rounds . .",
+  "description": "5.56mm Obsidian Rounds are an alternative to 5.56mm Incendiary Rounds that deal fire damage on hit and has a chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, 5.56mm Obsidian Rounds excel when used against Fauna that have a weakness to fire, dealing more damage than 5.56mm Rounds . A list of fauna that are weak to fire can be viewed here .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    ".56mm Round": 5,
+    "Shaped Obsidian": 1
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      ".56mm Round": 5,
+      "Shaped Obsidian": 1
+    },
     "crafted_at": "Machining Bench"
   }
 }

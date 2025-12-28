@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Steel_Knife",
   "description": "The Steel Knife is an upgrade in damage and durability from the Iron Knife , the Steel Knife can be used as either a melee weapon or tool. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench / Advanced Alteration Bench .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 5,
+    "Epoxy": 4,
+    "Steel Ingot": 6,
+    "Iron Nail": 2
+  },
   "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
@@ -16,7 +21,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 5,
+      "Epoxy": 4,
+      "Steel Ingot": 6,
+      "Iron Nail": 2
+    },
     "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

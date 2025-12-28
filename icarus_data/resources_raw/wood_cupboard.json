@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Wood_Cupboard",
   "description": "Taking up the same floor-space but with a much larger inventory, this is a great upgrade from the Medium Wood Crate .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 40,
+    "Leather": 8,
+    "Copper Nail": 4,
+    "Rope": 8
+  },
   "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator",
   "tier": 2,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 40,
+      "Leather": 8,
+      "Copper Nail": 4,
+      "Rope": 8
+    },
     "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator"
   }
 }

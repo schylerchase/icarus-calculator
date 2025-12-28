@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_Nightstand",
   "description": "The Carved Wood Nightstand is a decorative nightstand with 10 inventory slots. It has five build variants available by using the 'R' key when deploying.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 60,
+    "Copper Nail": 25
+  },
   "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 60,
+      "Copper Nail": 25
+    },
     "crafted_at": "Carpentry Bench"
   }
 }

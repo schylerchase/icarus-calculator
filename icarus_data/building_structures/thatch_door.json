@@ -2,8 +2,11 @@
   "name": "Thatch Door",
   "url": "https://icarus.fandom.com/wiki/Thatch_Door",
   "description": "Thatch building pieces are very light-weight and are best used for emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. Can be attached to door frames (hold R while holding a Wall Building Piece and select the door frame variant from the radial menu).",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 10,
+    "Sticks": 4
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 10,
+      "Sticks": 4
+    },
     "crafted_at": "Unknown"
   }
 }

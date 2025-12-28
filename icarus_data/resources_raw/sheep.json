@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Sheep",
   "description": "A sheep preserved in cryogenic stasis that can be deployed and defrosted on a planet.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "1Description": 1,
+    "2Obtaining": 2,
+    "3Cost": 3,
+    "4Sheering": 4,
+    "5Skinning": 5
+  },
   "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
@@ -12,7 +18,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "1Description": 1,
+      "2Obtaining": 2,
+      "3Cost": 3,
+      "4Sheering": 4,
+      "5Skinning": 5
+    },
     "crafted_at": "Workshop"
   }
 }

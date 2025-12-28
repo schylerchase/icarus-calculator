@@ -2,8 +2,12 @@
   "name": "Reinforced Glass Floor",
   "url": "https://icarus.fandom.com/wiki/Reinforced_Glass_Floor",
   "description": "Reinforced Glass Floor is a building piece made from Reinforced Glass that provides more durability and resistance to weather than standard glass buildings.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Steel Ingot": 2,
+    "Glass": 20,
+    "Epoxy": 6
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 2,
+      "Glass": 20,
+      "Epoxy": 6
+    },
     "crafted_at": "Unknown"
   }
 }

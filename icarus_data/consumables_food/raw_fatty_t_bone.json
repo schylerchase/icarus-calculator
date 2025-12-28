@@ -1,10 +1,16 @@
 {
   "name": "Raw Fatty T-Bone",
   "url": "https://icarus.fandom.com/wiki/Raw_Fatty_T-Bone",
-  "description": "Raw Fatty T-Bone can be obtained by Skinning bears with a Knife .",
-  "item_type": "weapon",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "description": "Raw Fatty T-Bone is a prime cut of raw meat that drops from various hostile Fauna . Eating Raw Fatty T-Bone will replenish Health , but there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Polar Bear": 50,
+    "Polar Bear Cub": 50,
+    "Grizzly Bear": 45,
+    "Drac": 45,
+    "Lava Broodling": 25
+  },
+  "crafted_at": "the Butchery Bench using Raw Meat",
   "tier": 0,
   "stats": {},
   "category": "food",
@@ -12,7 +18,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
+    "ingredients": {
+      "Polar Bear": 50,
+      "Polar Bear Cub": 50,
+      "Grizzly Bear": 45,
+      "Drac": 45,
+      "Lava Broodling": 25
+    },
+    "crafted_at": "the Butchery Bench using Raw Meat"
   }
 }

@@ -2,8 +2,14 @@
   "name": "Dirt Mounds",
   "url": "https://icarus.fandom.com/wiki/Dirt_Mounds",
   "description": "A Shovel can be used on grass/dirt/mud to create a dirt mound by right-clicking. Dirt mounds can also be made in bulk by using a Seeding Cart .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Wooden Shovel": 1,
+    "Iron Shovel": 2,
+    "Platinum Shovel": 3,
+    "Titanium Shovel": 4,
+    "The Excavator": 6
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wooden Shovel": 1,
+      "Iron Shovel": 2,
+      "Platinum Shovel": 3,
+      "Titanium Shovel": 4,
+      "The Excavator": 6
+    },
     "crafted_at": "Unknown"
   }
 }

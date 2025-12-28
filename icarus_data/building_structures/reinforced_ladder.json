@@ -1,9 +1,13 @@
 {
   "name": "Reinforced Ladder",
   "url": "https://icarus.fandom.com/wiki/Reinforced_Ladder",
-  "description": "Reinforced Building Pieces at learned in the Tier 2  Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "description": "Reinforced Building Pieces at learned in the Tier 2 Tech Tree after unlocking the Masonry Bench , and other required Stone Bulding Pieces first. Can be repaired with a Repair Hammer .",
+  "item_type": "craftable",
+  "ingredients": {
+    "Wood": 10,
+    "Iron Ingot": 8,
+    "Iron Nail": 8
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 10,
+      "Iron Ingot": 8,
+      "Iron Nail": 8
+    },
     "crafted_at": "Unknown"
   }
 }

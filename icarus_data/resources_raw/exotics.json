@@ -3,7 +3,19 @@
   "url": "https://icarus.fandom.com/wiki/Exotics",
   "description": "Exotics are one the most valuable Mineral harvested on Icarus and are a potential reward for completing certain Missions / Operations . They were the reason terraforming failed on Icarus, and now their unique properties are sought after by the various Factions seeking to exploit Icarus.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "1Description": 1,
+    "2Gamemodes": 2,
+    "2.1Missions": 2,
+    "2.2Open World": 2,
+    "2.3Outposts": 2,
+    "3Obtaining": 3,
+    "3.1Nodes": 3,
+    "3.2Deposits": 3,
+    "3.3Vapor Condensers": 3,
+    "3.4Bosses": 3,
+    "4Tips": 4
+  },
   "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
@@ -17,7 +29,19 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "1Description": 1,
+      "2Gamemodes": 2,
+      "2.1Missions": 2,
+      "2.2Open World": 2,
+      "2.3Outposts": 2,
+      "3Obtaining": 3,
+      "3.1Nodes": 3,
+      "3.2Deposits": 3,
+      "3.3Vapor Condensers": 3,
+      "3.4Bosses": 3,
+      "4Tips": 4
+    },
     "crafted_at": "Workshop"
   }
 }

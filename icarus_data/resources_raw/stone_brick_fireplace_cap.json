@@ -1,0 +1,31 @@
+{
+  "name": "Stone Brick Fireplace Cap",
+  "url": "https://icarus.fandom.com/wiki/Stone_Brick_Fireplace_Cap",
+  "description": "A Stone Brick Fireplace Cap is the final cap piece to place on a Stone Brick Fireplace Extension or directly on a Stone Brick Fireplace . Two variants, a half height and full height, are available by holding the 'R' key when deploying.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Stone Brick": 30,
+    "Refined Wood": 20,
+    "Tree Sap": 10,
+    "Iron Ingot": 10
+  },
+  "crafted_at": "Advanced Masonry Bench Electric Masonry Bench",
+  "tier": 3,
+  "stats": {
+    "weight": "5.0 Kg",
+    "durability": "1,500"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Stone Brick": 30,
+      "Refined Wood": 20,
+      "Tree Sap": 10,
+      "Iron Ingot": 10
+    },
+    "crafted_at": "Advanced Masonry Bench Electric Masonry Bench"
+  }
+}

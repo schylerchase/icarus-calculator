@@ -4,18 +4,10 @@
   "description": "The Stone Furnace is used for smelting metals such as Iron Ore , Copper Ore , or Steel Bloom . Will take damage in storms if left un-sheltered.",
   "item_type": "craftable",
   "ingredients": {
-    "Iron Ore": 2,
-    "Iron Ingot": 1,
-    "Copper Ore": 2,
-    "Copper Ingot": 1,
-    "Steel Bloom": 1,
-    "Steel Ingot": 1,
-    "Clay+ . L ofWater": 1,
-    "Clay Brick": 5,
-    "Obsidian": 2,
-    "Shaped Obsidian": 1,
-    "Scoria": 1,
-    "Scoria Brick": 5
+    "Stick": 4,
+    "Wood": 12,
+    "Stone": 80,
+    "Leather": 12
   },
   "crafted_at": "Crafting Bench",
   "tier": 2,
@@ -29,18 +21,10 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {
-      "Iron Ore": 2,
-      "Iron Ingot": 1,
-      "Copper Ore": 2,
-      "Copper Ingot": 1,
-      "Steel Bloom": 1,
-      "Steel Ingot": 1,
-      "Clay+ . L ofWater": 1,
-      "Clay Brick": 5,
-      "Obsidian": 2,
-      "Shaped Obsidian": 1,
-      "Scoria": 1,
-      "Scoria Brick": 5
+      "Stick": 4,
+      "Wood": 12,
+      "Stone": 80,
+      "Leather": 12
     },
     "crafted_at": "Crafting Bench"
   }

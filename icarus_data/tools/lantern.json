@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Lantern",
   "description": "Similar to torches, the durability of the Lantern will decrease over time. The Lantern can be repaired (refilled) at a Crafting Bench with 1 Animal Fat . The Lantern will last about 45 minutes when lit before needing repairs. The Lantern allows prospectors to see approximately 10 meters, or 5 standard floor pieces, from their position.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 8,
+    "Rope": 4,
+    "Epoxy": 12,
+    "Animal Fat": 5
+  },
   "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 8,
+      "Rope": 4,
+      "Epoxy": 12,
+      "Animal Fat": 5
+    },
     "crafted_at": "Crafting Bench"
   }
 }

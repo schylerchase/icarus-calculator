@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Frag_Grenade",
   "description": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade timer starts when the grenade leaves your hand and will take a few seconds to detonate. Stacks up to 5.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 1,
+    "Gunpowder": 2,
+    "Volatile Substance": 3
+  },
   "crafted_at": "the Machining Bench with the following resources:",
   "tier": 3,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 1,
+      "Gunpowder": 2,
+      "Volatile Substance": 3
+    },
     "crafted_at": "the Machining Bench with the following resources:"
   }
 }

@@ -1,9 +1,13 @@
 {
   "name": "Sandworm Scale Saddle",
   "url": "https://icarus.fandom.com/wiki/Sandworm_Scale_Saddle",
-  "description": "The Sandworm Scale Saddle is a saddle for Mounts that has a sandworm theme. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides no additional attributes.",
+  "description": "The Sandworm Scale Saddle is a saddle for Mounts that has a sandworm theme. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides +10% chance to Resist Poison.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Sandworm Scale": 10,
+    "Fur": 6,
+    "Rope": 2
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Sandworm Scale": 10,
+      "Fur": 6,
+      "Rope": 2
+    },
     "crafted_at": "Ranching Station"
   }
 }

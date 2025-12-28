@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Thick_Woven_Rug",
   "description": "Thick Woven Rugs are decorative deployables that can be placed on any ground surface and are used to liven any living space. Aside from being for decorative purposes, it can also be used in tandem with other Furniture to increase the Coziness of your living quarters, increasing the duration and effectiveness of the Well Rested Buff .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Leather": 10,
+    "Fiber": 100
+  },
   "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Leather": 10,
+      "Fiber": 100
+    },
     "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

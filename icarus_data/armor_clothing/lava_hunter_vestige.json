@@ -1,0 +1,18 @@
+{
+  "name": "Lava Hunter Vestige",
+  "url": "https://icarus.fandom.com/wiki/Lava_Hunter_Vestige",
+  "description": "Lava Hunter Vestiges are the remains of a Lava Hunter and are used at the Trophy Bench to create decorative items that boost Coziness .",
+  "item_type": "weapon",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 4,
+  "stats": {},
+  "category": "animal resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

@@ -3,19 +3,29 @@
   "url": "https://icarus.fandom.com/wiki/Wall_Torch",
   "description": "Wall lighting for a prospector's base. Provides limited heat. Will not be damaged by storms if placed outside.",
   "item_type": "craftable",
-  "ingredients": {},
-  "crafted_at": "Crafting Bench",
+  "ingredients": {
+    "Wood": 4,
+    "Leather": 8,
+    "Sulfur": 8,
+    "Iron Ingot": 8
+  },
+  "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator",
   "tier": 2,
   "stats": {
-    "weight": "<unkown>",
-    "durability": "<unkown>"
+    "weight": "0.5 Kg",
+    "durability": "250"
   },
   "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Crafting Bench"
+    "ingredients": {
+      "Wood": 4,
+      "Leather": 8,
+      "Sulfur": 8,
+      "Iron Ingot": 8
+    },
+    "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator"
   }
 }

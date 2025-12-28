@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Wood_Table",
   "description": "The Wood Table is a decorative item that can be used for deployables like the Mortar and Pestle and provides a bonus to Coziness .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 10,
+    "Copper Nail": 10
+  },
   "crafted_at": "Carpentry Bench Electric Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 10,
+      "Copper Nail": 10
+    },
     "crafted_at": "Carpentry Bench Electric Carpentry Bench"
   }
 }

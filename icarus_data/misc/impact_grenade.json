@@ -1,0 +1,28 @@
+{
+  "name": "Impact Grenade",
+  "url": "https://icarus.fandom.com/wiki/Impact_Grenade",
+  "description": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade detonates on impact with any object, be that the ground, a wall, or a creature. Stacks up to 5.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Iron Ingot": 1,
+    "Gunpowder": 2,
+    "Volatile Substance": 3
+  },
+  "crafted_at": "Unknown",
+  "tier": 3,
+  "stats": {
+    "weight": "0.5 Kg"
+  },
+  "category": "grenades",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 1,
+      "Gunpowder": 2,
+      "Volatile Substance": 3
+    },
+    "crafted_at": "Unknown"
+  }
+}

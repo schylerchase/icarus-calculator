@@ -2,8 +2,11 @@
   "name": "Clay Brick Beam",
   "url": "https://icarus.fandom.com/wiki/Clay_Brick_Beam",
   "description": "Fired Clay Brick building material providing a more traditional brick aesthetic that is only available on Prometheus.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Clay Brick": 25,
+    "Tree Sap": 5
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Clay Brick": 25,
+      "Tree Sap": 5
+    },
     "crafted_at": "Unknown"
   }
 }

@@ -1,9 +1,15 @@
 {
   "name": "Ranching Station",
   "url": "https://icarus.fandom.com/wiki/Ranching_Station",
-  "description": "The Ranching Station allows the prospector to craft various Tier 2  equipment to use and maintain mounts and pets. This includes several Food Troughs / Water Troughs , Animal Beds , Saddles / Carts , Animal Feed , and other Ranching Deployables . Must be placed outside.",
+  "description": "The Ranching Station allows the prospector to craft various Tier 2 equipment to use and maintain mounts and pets. This includes several Food Troughs / Water Troughs , Animal Beds , Saddles / Carts , Animal Feed , and other Ranching Deployables . Must be placed outside.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Rope": 10,
+    "Wood": 30,
+    "Leather": 20,
+    "Fur": 10,
+    "Iron Nail": 15
+  },
   "crafted_at": "Crafting Bench Machining Bench Fabricator",
   "tier": 2,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Rope": 10,
+      "Wood": 30,
+      "Leather": 20,
+      "Fur": 10,
+      "Iron Nail": 15
+    },
     "crafted_at": "Crafting Bench Machining Bench Fabricator"
   }
 }

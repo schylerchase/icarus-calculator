@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Kitchen_Storage_Block",
   "description": "A Kitchen Storage Block made of refined wood and copper nails, use it to store your kitchen essentials. Must be snapped to a Kitchen Bench to be placed. It has 40 inventory slots.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 30,
+    "Iron Ingot": 2,
+    "Epoxy": 20,
+    "Copper Nail": 12
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 30,
+      "Iron Ingot": 2,
+      "Epoxy": 20,
+      "Copper Nail": 12
+    },
     "crafted_at": "Machining Bench"
   }
 }

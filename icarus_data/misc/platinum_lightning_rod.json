@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Platinum_Lightning_Rod",
   "description": "The Platinum Lightning Rod absorbs lightning strikes from Weather Events and optionally captures the energy and directs it to a connected Electricity network.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Platinum Ingot": 12,
+    "Copper Wire": 25,
+    "Electronics": 2
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Platinum Ingot": 12,
+      "Copper Wire": 25,
+      "Electronics": 2
+    },
     "crafted_at": "Fabricator"
   }
 }

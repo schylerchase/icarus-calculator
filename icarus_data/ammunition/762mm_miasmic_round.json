@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/7.62mm_Miasmic_Round",
   "description": "7.62mm Miasmic Round, a Miasmic variant of ammunition used by Rifles .",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    ".62mm Round": 5,
+    "Distilled Miasmic Coating": 1
+  },
   "crafted_at": "Crafted AtMachining BenchFabricator",
   "tier": 3,
   "stats": {
@@ -16,7 +19,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      ".62mm Round": 5,
+      "Distilled Miasmic Coating": 1
+    },
     "crafted_at": "Crafted AtMachining BenchFabricator"
   }
 }

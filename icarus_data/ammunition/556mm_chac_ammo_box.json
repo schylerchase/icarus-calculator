@@ -1,0 +1,18 @@
+{
+  "name": "5.56mm CHAC Ammo Box",
+  "url": "https://icarus.fandom.com/wiki/5.56mm_CHAC_Ammo_Box",
+  "description": "The 5.56mm CHAC Ammo Box provides 25 5.56mm CHAC Rounds of Assault Rifle Ammunition that works with Assault Rifles .",
+  "item_type": "orbital",
+  "ingredients": {},
+  "crafted_at": "Workshop",
+  "tier": 0,
+  "stats": {},
+  "category": "resources",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Workshop"
+  }
+}

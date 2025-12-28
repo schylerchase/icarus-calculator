@@ -3,7 +3,17 @@
   "url": "https://icarus.fandom.com/wiki/Volatile_Raw_Exotics",
   "description": "While the Exotics prospectors found on Olympus and Styx were originally believed to be the only known variation, the UDA has made a remarkable discovery. This unstable variant is different and appears to have an impact on the local flora not seen before.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "1Description": 1,
+    "2Game Modes": 2,
+    "2.1Missions": 2,
+    "2.2Open World": 2,
+    "3Obtaining": 3,
+    "3.1Deposits": 3,
+    "3.2Strange Plants": 3,
+    "4Cleaning": 4,
+    "5Tips": 5
+  },
   "crafted_at": "Workshop",
   "tier": 0,
   "stats": {},
@@ -14,7 +24,17 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "1Description": 1,
+      "2Game Modes": 2,
+      "2.1Missions": 2,
+      "2.2Open World": 2,
+      "3Obtaining": 3,
+      "3.1Deposits": 3,
+      "3.2Strange Plants": 3,
+      "4Cleaning": 4,
+      "5Tips": 5
+    },
     "crafted_at": "Workshop"
   }
 }

@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Trophy_Bench",
   "description": "The Trophy Bench allows prospectors to create Trophies from various Vestiges , for eventual display around a building or outpost.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 60,
+    "Copper Nail": 50,
+    "Iron Ingot": 2,
+    "Rope": 12
+  },
   "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 60,
+      "Copper Nail": 50,
+      "Iron Ingot": 2,
+      "Rope": 12
+    },
     "crafted_at": "Crafting Bench"
   }
 }

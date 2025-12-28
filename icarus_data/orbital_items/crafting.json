@@ -4,7 +4,7 @@
   "description": "Crafting is the skill that enables many of the other ways prospectors pursue their goals on Icarus. While they can gather Food with their bare hands, and can attempt to Hunt with their fists, everything they attempt on the moon's surface is facilitated by crafting.",
   "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Workshop",
+  "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
   "category": "",
@@ -13,6 +13,6 @@
   "purchase_cost": 10,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop"
+    "crafted_at": "Unknown"
   }
 }

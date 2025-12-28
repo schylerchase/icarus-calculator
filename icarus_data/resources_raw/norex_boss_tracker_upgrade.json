@@ -3,7 +3,15 @@
   "url": "https://icarus.fandom.com/wiki/Norex_Boss_Tracker_Upgrade",
   "description": "The NOREX Boss Tracker Upgrade is an upgrade for the CONT4CT Device deployed in an Open World map that visually upgrades the screens and provides a Bosses tab that provides information on the currently active world bosses.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Glass": 30,
+    "Carbon Fiber": 30,
+    "Copper Wire": 50,
+    "Aluminium Ingot": 40,
+    "Titanium Plate": 10,
+    "Electronics": 20,
+    "Epoxy": 25
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +23,15 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Glass": 30,
+      "Carbon Fiber": 30,
+      "Copper Wire": 50,
+      "Aluminium Ingot": 40,
+      "Titanium Plate": 10,
+      "Electronics": 20,
+      "Epoxy": 25
+    },
     "crafted_at": "Fabricator"
   }
 }

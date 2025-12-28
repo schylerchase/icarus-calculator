@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Wild_Boar_Bait",
   "description": "Wild Boar Bait is a single-use Crafted Resource used to attract and capture Wild Boars when used with a Snare Trap . Wild Boar Bait does not decay and can only be used in Forest and Grassland Biomes. Stacks up to ten.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Raw Bacon": 1,
+    "Animal Fat": 2,
+    "Spoiled Plants": 5
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Raw Bacon": 1,
+      "Animal Fat": 2,
+      "Spoiled Plants": 5
+    },
     "crafted_at": "Ranching Station"
   }
 }

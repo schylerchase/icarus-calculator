@@ -2,8 +2,12 @@
   "name": "Anti-Poison Tonic",
   "url": "https://icarus.fandom.com/wiki/Anti-Poison_Tonic",
   "description": "Used alone to cure Poison from critters like the Venomous Fish , or as a mid-stage ingredient to the prophylactic Anti-poison Pill .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 1,
+    "Poison Paste": 1,
+    "Charcoal": 3
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 1,
+      "Poison Paste": 1,
+      "Charcoal": 3
+    },
     "crafted_at": "Unknown"
   }
 }

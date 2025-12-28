@@ -2,8 +2,10 @@
   "name": "Dried White Meat",
   "url": "https://icarus.fandom.com/wiki/Dried_White_Meat",
   "description": "Dried White Meat is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Raw White Meat": 1
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {},
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Raw White Meat": 1
+    },
     "crafted_at": "Unknown"
   }
 }

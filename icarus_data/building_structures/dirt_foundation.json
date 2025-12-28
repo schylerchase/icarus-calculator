@@ -1,9 +1,11 @@
 {
   "name": "Dirt Foundation",
   "url": "https://icarus.fandom.com/wiki/Dirt_Foundation",
-  "description": "Dirt Foundations are a Tier 1  buildable that serves as an alternative to Thatch Beams / Wood Beams that provides a more natural look to structures. Due to the nature of its building material, Dirt Foundations must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "description": "Dirt Foundations are a Tier 1 buildable that serves as an alternative to Thatch Beams / Wood Beams that provides a more natural look to structures. Due to the nature of its building material, Dirt Foundations must be attached to the terrain when placed; failure to do so will result in the collapse of the building piece.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Dirt": 20
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
@@ -15,7 +17,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Dirt": 20
+    },
     "crafted_at": "Unknown"
   }
 }

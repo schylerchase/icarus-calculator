@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Stone_Water_Trough",
   "description": "The Stone Water Trough is a decorative upgrade to the Water Trough that allows multiple creatures to drink from it simultaneously and can be connected to Water using a Water Pipe Tool , similar to the Large Water Trough . The Stone Water Trough can only store water and cannot provide water to the rest of the network like Water Barrels or Metal Rain Reservoirs .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Stone": 50,
+    "Tree Sap": 20
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Stone": 50,
+      "Tree Sap": 20
+    },
     "crafted_at": "Ranching Station"
   }
 }

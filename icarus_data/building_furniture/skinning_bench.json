@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Skinning_Bench",
   "description": "The Skinning Bench is used to process, the small to medium carcasses, of the Fauna found on Icarus. While the yields from the skinning bench differ from skinning wildlife with Knives , most notably is the ability to always obtain rarer cuts of meat from fauna such as Raw Stringy Meat .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Fiber": 60,
+    "Wood": 50,
+    "Stone": 12,
+    "Leather": 20
+  },
   "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 60,
+      "Wood": 50,
+      "Stone": 12,
+      "Leather": 20
+    },
     "crafted_at": "Crafting Bench"
   }
 }

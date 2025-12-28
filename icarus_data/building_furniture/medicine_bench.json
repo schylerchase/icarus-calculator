@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Medicine_Bench",
   "description": "Allows for the crafting of Medicinal Pastes and Tonics such as Antibiotic Pill , Survival Kits and Health Recovery Elixir to cure and prevent ailments and afflictions. It can also be used to craft Volatile Substance and Fertilizer .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 30,
+    "Iron Ingot": 8,
+    "Organic Resin": 5,
+    "Copper Nail": 20,
+    "Glass": 5
+  },
   "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 30,
+      "Iron Ingot": 8,
+      "Organic Resin": 5,
+      "Copper Nail": 20,
+      "Glass": 5
+    },
     "crafted_at": "Machining Bench Fabricator"
   }
 }

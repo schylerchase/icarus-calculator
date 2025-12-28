@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Iron_Crop_Plot",
   "description": "The Iron Crop Plot is a farming plot for growing Seeds that can later be harvested for Plant Resources once fully grown. Unless the Prospector has the Fresh Is Best talent when deploying a seed into the crop plot, the grown Plant Resource will eventually wither if not harvested.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 10,
+    "Copper Wire": 20,
+    "Sulfur": 12,
+    "Steel Screw": 8,
+    "Dirt": 20
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 10,
+      "Copper Wire": 20,
+      "Sulfur": 12,
+      "Steel Screw": 8,
+      "Dirt": 20
+    },
     "crafted_at": "Machining Bench"
   }
 }

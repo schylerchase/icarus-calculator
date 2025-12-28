@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Wood_Piranha_Statue",
   "description": "The Wood Piranha Statue is a decorative wood item.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 25,
+    "Condensed Enzymes": 1
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 25,
+      "Condensed Enzymes": 1
+    },
     "crafted_at": "Decoration Bench"
   }
 }

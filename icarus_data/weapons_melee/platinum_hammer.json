@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Platinum_Hammer",
   "description": "Example: If a Prospector were to upgrade a Wood Wall to a Stone Wall , a Stone Wall must be in the inventory of the Prospector when upgrading.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 5,
+    "Epoxy": 4,
+    "Platinum Ingot": 6,
+    "Steel Screw": 2
+  },
   "crafted_at": "Forge Foundry",
   "tier": 3,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 5,
+      "Epoxy": 4,
+      "Platinum Ingot": 6,
+      "Steel Screw": 2
+    },
     "crafted_at": "Forge Foundry"
   }
 }

@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Industrial_Coffee_Table",
   "description": "A minimalist Industrial Coffee Table",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 20,
+    "Steel Screw": 5,
+    "Glass": 20
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 20,
+      "Steel Screw": 5,
+      "Glass": 20
+    },
     "crafted_at": "Decoration Bench"
   }
 }

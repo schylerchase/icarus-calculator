@@ -2,8 +2,13 @@
   "name": "Stone Brick Wall Angle",
   "url": "https://icarus.fandom.com/wiki/Stone_Brick_Wall_Angle",
   "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Refined Wood": 6,
+    "Stone Brick": 15,
+    "Tree Sap": 3,
+    "Steel Screw": 3
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 6,
+      "Stone Brick": 15,
+      "Tree Sap": 3,
+      "Steel Screw": 3
+    },
     "crafted_at": "Unknown"
   }
 }

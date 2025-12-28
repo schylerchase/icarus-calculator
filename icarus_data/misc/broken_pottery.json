@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Broken_Pottery",
   "description": "The Broken Pottery is an item unlocked by completing the Fracture mission. There are four varieties of pottery selectable by 'R'.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Clay": 15,
+    "Organic Resin": 5,
+    "Scoria": 5
+  },
   "crafted_at": "Masonry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Clay": 15,
+      "Organic Resin": 5,
+      "Scoria": 5
+    },
     "crafted_at": "Masonry Bench"
   }
 }

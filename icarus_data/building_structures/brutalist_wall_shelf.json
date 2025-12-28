@@ -3,7 +3,9 @@
   "url": "https://icarus.fandom.com/wiki/Brutalist_Wall_Shelf",
   "description": "The Brutalist Wall Shelf is a decorative shelf for holding small items such as Lamps or small Trophies . It provides a small bonus to Coziness .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Concrete Mix": 3
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +17,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Concrete Mix": 3
+    },
     "crafted_at": "Decoration Bench"
   }
 }

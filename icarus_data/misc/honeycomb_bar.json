@@ -2,8 +2,11 @@
   "name": "Honeycomb Bar",
   "url": "https://icarus.fandom.com/wiki/Honeycomb_Bar",
   "description": "A sweet and tasty snack for your travels, long lasting effects and easily crafted.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Any Seed": 10,
+    "Honeycomb": 2
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Any Seed": 10,
+      "Honeycomb": 2
+    },
     "crafted_at": "Unknown"
   }
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Butchery Bench",
+  "url": "https://icarus.fandom.com/wiki/Butchery_Bench",
+  "description": "The Butchery Bench is a deployable Tier 3 cooking bench for processing and preparing meats used in various Food recipes. It connects to the Kitchen Bench and Biofuel Stove and shares the same interior wood aesthetic.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Refined Wood": 30,
+    "Iron Ingot": 20,
+    "Copper Nail": 20,
+    "Steel Ingot": 10
+  },
+  "crafted_at": "Machining Bench Fabricator",
+  "tier": 3,
+  "stats": {
+    "weight": "20.0 Kg",
+    "durability": "750"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Refined Wood": 30,
+      "Iron Ingot": 20,
+      "Copper Nail": 20,
+      "Steel Ingot": 10
+    },
+    "crafted_at": "Machining Bench Fabricator"
+  }
+}

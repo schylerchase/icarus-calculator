@@ -2,8 +2,11 @@
   "name": "Coffee Smoked Fatty T-bone",
   "url": "https://icarus.fandom.com/wiki/Coffee_Smoked_Fatty_T-bone",
   "description": "Coffee Smoked Fatty T-bone is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Raw Fatty Tbone": 1,
+    "Coffee Bean": 5
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Raw Fatty Tbone": 1,
+      "Coffee Bean": 5
+    },
     "crafted_at": "Unknown"
   }
 }

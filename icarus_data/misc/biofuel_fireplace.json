@@ -1,9 +1,15 @@
 {
   "name": "Biofuel Fireplace",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Fireplace",
-  "description": "The Biofuel Fireplace is deployable Tier 3  version of the Fireplace that burns Biofuel to provide a source of heat, a source of light , Coziness and a means to cook Food indoors.",
+  "description": "The Biofuel Fireplace is deployable Tier 3 version of the Fireplace that burns Biofuel to provide a source of heat, a source of light , Coziness and a means to cook Food indoors.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 22,
+    "Epoxy": 14,
+    "Concrete Mix": 4,
+    "Steel Ingot": 8,
+    "Steel Screw": 8
+  },
   "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 22,
+      "Epoxy": 14,
+      "Concrete Mix": 4,
+      "Steel Ingot": 8,
+      "Steel Screw": 8
+    },
     "crafted_at": "Machining Bench Fabricator"
   }
 }

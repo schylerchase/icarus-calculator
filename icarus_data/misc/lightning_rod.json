@@ -3,7 +3,9 @@
   "url": "https://icarus.fandom.com/wiki/Lightning_Rod",
   "description": "The Lightning Rod is used to redirect lightning strikes from hitting buildings.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Copper Ingot": 10
+  },
   "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +17,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Copper Ingot": 10
+    },
     "crafted_at": "Crafting Bench"
   }
 }

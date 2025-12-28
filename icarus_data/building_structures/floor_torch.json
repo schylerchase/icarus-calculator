@@ -2,8 +2,12 @@
   "name": "Floor Torch",
   "url": "https://icarus.fandom.com/wiki/Floor_Torch",
   "description": "Basic lighting for a prospector's base or elsewhere.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 20,
+    "Stick": 8,
+    "Sulfur": 8
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 20,
+      "Stick": 8,
+      "Sulfur": 8
+    },
     "crafted_at": "Unknown"
   }
 }

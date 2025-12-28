@@ -1,10 +1,10 @@
 {
   "name": "CHAC \"Boomstick\" Shotgun",
   "url": "https://icarus.fandom.com/wiki/CHAC_%22Boomstick%22_Shotgun",
-  "description": "The CHAC \"Boomstick\" Shotgun is an advanced purchaseable Shotgun with increase projectile and critical damage. It fires any Shotgun Ammunition and is comparable to other Tier 4  Firearms .",
+  "description": "The CHAC \"Boomstick\" Shotgun is an advanced purchaseable Shotgun with increase projectile and critical damage. It fires any Shotgun Ammunition and is comparable to other Tier 4 Firearms .",
   "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Workshop",
+  "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
     "damage": "+25% Critical Damage",
@@ -17,6 +17,6 @@
   "purchase_cost": 4,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop"
+    "crafted_at": "Unknown"
   }
 }

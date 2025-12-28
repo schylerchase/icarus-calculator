@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Flow_Meter",
   "description": "Power/water networks can be connected to a Flow Meter, where it will display how much power/water is being produced, consumed, and stored. Only one network can be shown at a time - press 'F' to toggle between power and water networks. Deployables can be toggled on/off remotely via the Flow Meter.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Aluminium Ingot": 6,
+    "Gold Wire": 10,
+    "Copper Wire": 10,
+    "Electronics": 2,
+    "Glass": 2
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Aluminium Ingot": 6,
+      "Gold Wire": 10,
+      "Copper Wire": 10,
+      "Electronics": 2,
+      "Glass": 2
+    },
     "crafted_at": "Fabricator"
   }
 }

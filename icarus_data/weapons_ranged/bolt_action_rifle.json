@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Bolt_Action_Rifle",
   "description": "The Bolt Action Rifle is the first long-range Firearm that prospectors can create. It can utilize the 7.62mm Round , the Incendiary Rifle Round , etc. Along with the Shotgun , it provides Prospectors with a significant increase in survivability when encountering the Fauna of Icarus. The Bolt Action Rifle can fire 75 rounds before breaking, and the talent Gunsmith can increase this to up to a maximum of 90 rounds, so bring a Machining Bench for long trips.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 12,
+    "Cured Leather": 1,
+    "Steel Ingot": 40,
+    "Epoxy": 4,
+    "Steel Screw": 10
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 12,
+      "Cured Leather": 1,
+      "Steel Ingot": 40,
+      "Epoxy": 4,
+      "Steel Screw": 10
+    },
     "crafted_at": "Machining Bench"
   }
 }

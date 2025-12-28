@@ -1,7 +1,7 @@
 {
   "name": "DoseUp Module",
   "url": "https://icarus.fandom.com/wiki/DoseUp_Module",
-  "description": "This module reduces oxygen, food, and water consumption by 15% when equipped in an Envirosuit module slot. It can be researched and crafted on the Space Station in the Workshop . Multiple Dose Up Modules may be equipped if the Prospector has available slots on their Envirosuit and will further reduce the consumption of oxygen, food, and water.",
+  "description": "This module reduces oxygen, food, and water consumption by 15% when equipped in an Envirosuit module slot. It can be researched and crafted on the Space Station in the Workshop . Multiple DoseUp Modules may be equipped if the Prospector has available slots on their Envirosuit and will further reduce the consumption of oxygen, food, and water.",
   "item_type": "orbital",
   "ingredients": {},
   "crafted_at": "Workshop",

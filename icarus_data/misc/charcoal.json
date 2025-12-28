@@ -2,8 +2,10 @@
   "name": "Charcoal",
   "url": "https://icarus.fandom.com/wiki/Charcoal",
   "description": "Charcoal is a basic resource used for a variety of items, ranging from Gunpowder to end-game medicines like Antibiotic Pill . It is obtained either as a byproduct of burning wood in a Crafting/Cooking Bench or Furnace that requires wood as a fuel, also it can be obtained from felling a fully burnt tree.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Wood": 1
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 1
+    },
     "crafted_at": "Unknown"
   }
 }

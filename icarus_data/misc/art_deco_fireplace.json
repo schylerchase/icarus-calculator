@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Art_Deco_Fireplace",
   "description": "The Art Deco Fireplace is a gilded sleek stone fireplace that provides a source of Heat , Light , Coziness and a place to cook indoors without the hazards of an open Campfire .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Gold": 10,
+    "Stone": 160,
+    "Wood": 20
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Gold": 10,
+      "Stone": 160,
+      "Wood": 20
+    },
     "crafted_at": "Decoration Bench"
   }
 }

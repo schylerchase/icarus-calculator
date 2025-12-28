@@ -1,9 +1,13 @@
 {
   "name": "Titanium Javelin",
   "url": "https://icarus.fandom.com/wiki/Titanium_Javelin",
-  "description": "The Titanium Javelin is a variant of the Titanium Spear that can only be thrown and is a costly upgrade to Tier 3  Javelins.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "description": "The Titanium Javelin is a variant of the Titanium Spear that can only be thrown and is a costly upgrade to Tier 3 Javelins.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Refined Wood": 2,
+    "Cured Leather": 1,
+    "Titanium Ingot": 20
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 2,
+      "Cured Leather": 1,
+      "Titanium Ingot": 20
+    },
     "crafted_at": "Unknown"
   }
 }

@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Animal_Bait",
   "description": "Animal Bait is used to lure random predators when left in an open area. The blueprint is unlocked account-wide after completing the prospect Wet Work: Extermination . Stacks up to 5.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Raw Meat": 1,
+    "Animal Fat": 2
+  },
   "crafted_at": "Kitchen Bench Marble Kitchen Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Raw Meat": 1,
+      "Animal Fat": 2
+    },
     "crafted_at": "Kitchen Bench Marble Kitchen Bench"
   }
 }

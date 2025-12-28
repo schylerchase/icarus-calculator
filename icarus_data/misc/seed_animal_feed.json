@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Seed_Animal_Feed",
   "description": "Seed Animal Feed is a Animal Feed for Pets or Mounts with a unique Status Effect . Can be fed to a mount to satisfy Hunger . Seed Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Seed Animal Feed inside an Ice Box or Refrigerator .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Seeds": 10,
+    "Wheat": 5
+  },
   "crafted_at": "BenchRanching Station",
   "tier": 2,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Seeds": 10,
+      "Wheat": 5
+    },
     "crafted_at": "BenchRanching Station"
   }
 }

@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Infrasonic_Relay_Upgrade",
   "description": "The Infrasonic Relay Upgrade grants Prospectors access to Operations locked behind encoded signals. Operations are a variation of traditional Missions that are started in Open Worlds . Upon completing an Operation, Prospectors will be granted Ren ( ) and Exotics / Volatile Exotics for their efforts (rewards vary per Operation and is affected by Open World difficulty). To access Encrypted Signals , Prospectors will need to craft an Encrypted Satellite Upgrade .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Gold Wire": 25,
+    "Copper Wire": 50,
+    "Steel Ingot": 25,
+    "Aluminium Ingot": 30
+  },
   "crafted_at": "Workshop",
   "tier": 3,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Gold Wire": 25,
+      "Copper Wire": 50,
+      "Steel Ingot": 25,
+      "Aluminium Ingot": 30
+    },
     "crafted_at": "Workshop"
   }
 }

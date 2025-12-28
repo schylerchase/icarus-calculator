@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Small_Interior_Wood_Crate",
   "description": "A Small Interior Wood Crate made of refined wood and copper nails. Similar size to the Small Wood Crate .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Rope": 4,
+    "Refined Wood": 24,
+    "Copper Nail": 5
+  },
   "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Rope": 4,
+      "Refined Wood": 24,
+      "Copper Nail": 5
+    },
     "crafted_at": "Carpentry Bench"
   }
 }

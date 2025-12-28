@@ -1,9 +1,12 @@
 {
   "name": "5.56mm Incendiary Round",
   "url": "https://icarus.fandom.com/wiki/5.56mm_Incendiary_Round",
-  "description": "The 5.56mm Incendiary Rounds are used in the fully-automatic Tier 4  Assault Rifle . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered.",
+  "description": "The 5.56mm Incendiary Rounds are used in the fully-automatic Tier 4 Assault Rifle . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    ".56mm Round": 1,
+    "Gunpowder": 5
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      ".56mm Round": 1,
+      "Gunpowder": 5
+    },
     "crafted_at": "Machining Bench"
   }
 }

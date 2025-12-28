@@ -1,9 +1,12 @@
 {
   "name": "Bone Chest Armor",
   "url": "https://icarus.fandom.com/wiki/Bone_Chest_Armor",
-  "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1  armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Bone": 60,
+    "Leather": 15
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Bone": 60,
+      "Leather": 15
+    },
     "crafted_at": "Unknown"
   }
 }

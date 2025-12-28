@@ -1,0 +1,28 @@
+{
+  "name": "Desert Riding Saddle",
+  "url": "https://icarus.fandom.com/wiki/Desert_Riding_Saddle",
+  "description": "The Desert Riding Saddle is a saddle for Mounts designed for desert riding. It features a +10% Heat Resistance bonus, +2 mount cargo inventory slots and +1 mount heavy cargo inventory slot.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Leather": 25,
+    "Fur": 5,
+    "Rope": 2
+  },
+  "crafted_at": "Ranching Station",
+  "tier": 2,
+  "stats": {
+    "weight": "1.5 Kg"
+  },
+  "category": "saddles",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Leather": 25,
+      "Fur": 5,
+      "Rope": 2
+    },
+    "crafted_at": "Ranching Station"
+  }
+}

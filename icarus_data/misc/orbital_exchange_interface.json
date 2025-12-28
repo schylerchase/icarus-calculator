@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Orbital_Exchange_Interface",
   "description": "The Orbital Exchange Interface is required to send Exotics / Stabilized Exotics back to Orbit and to receive payment for them. Volatile Raw Exotics must be cleaned at a Organic Residue Cleanser before they can be sent up. Must be placed outdoors.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 10,
+    "Rope": 8,
+    "Iron Ingot": 7,
+    "Copper Ingot": 7
+  },
   "crafted_at": "Workshop",
   "tier": 2,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 10,
+      "Rope": 8,
+      "Iron Ingot": 7,
+      "Copper Ingot": 7
+    },
     "crafted_at": "Workshop"
   }
 }

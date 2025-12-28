@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Steel_Javelin",
   "description": "The Steel Javelin is a variant of the Steel Spear that can only be thrown. A cheap upgrade to the Iron Javelin that increases projectile damage with a lower break chance, but is locked until prospectors reach level 20.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 5,
+    "Leather": 5,
+    "Steel Ingot": 20
+  },
   "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 5,
+      "Leather": 5,
+      "Steel Ingot": 20
+    },
     "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

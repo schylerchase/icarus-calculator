@@ -2,8 +2,14 @@
   "name": "Energy Bar",
   "url": "https://icarus.fandom.com/wiki/Energy_Bar",
   "description": "Energy Bar is a long-lasting Food with a unique Status Effect , which can be stacked with other food buffs. It provides buffs good for being on the go.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Seeds": 10,
+    "Sugar Cubes": 2,
+    "Cocoa Seed": 2,
+    "Honey": 1,
+    "Wheat": 2
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +18,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Seeds": 10,
+      "Sugar Cubes": 2,
+      "Cocoa Seed": 2,
+      "Honey": 1,
+      "Wheat": 2
+    },
     "crafted_at": "Unknown"
   }
 }

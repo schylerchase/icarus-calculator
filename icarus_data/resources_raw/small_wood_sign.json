@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Small_Wood_Sign",
   "description": "A Small Wood Sign made of Refined Wood and Copper Nails .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 12,
+    "Rope": 2,
+    "Copper Nail": 2
+  },
   "crafted_at": "Carpentry Bench Electric Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 12,
+      "Rope": 2,
+      "Copper Nail": 2
+    },
     "crafted_at": "Carpentry Bench Electric Carpentry Bench"
   }
 }

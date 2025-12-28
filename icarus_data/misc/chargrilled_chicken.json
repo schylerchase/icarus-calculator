@@ -1,9 +1,12 @@
 {
   "name": "Chargrilled Chicken",
   "url": "https://icarus.fandom.com/wiki/Chargrilled_Chicken",
-  "description": "Chargrilled Chicken is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "description": "Chargrilled Chicken is a Food made from Raw Chicken that provides a boost to maximum stamina, health, exposure resistance and a chance to get additional Stone while mining. It has a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
+  "item_type": "craftable",
+  "ingredients": {
+    "Raw Chicken": 1,
+    "Charcoal": 2
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Raw Chicken": 1,
+      "Charcoal": 2
+    },
     "crafted_at": "Unknown"
   }
 }

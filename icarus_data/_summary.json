@@ -1,26 +1,26 @@
 {
-  "total_items": 1644,
+  "total_items": 1685,
   "failed_items": 0,
   "categories": {
-    "ammunition": 89,
-    "armor_clothing": 151,
-    "building_furniture": 123,
-    "building_structures": 163,
+    "ammunition": 90,
+    "armor_clothing": 155,
+    "building_furniture": 124,
+    "building_structures": 164,
     "consumables_food": 76,
-    "consumables_medicine": 25,
+    "consumables_medicine": 26,
     "deployables": 7,
-    "misc": 614,
-    "orbital_items": 27,
-    "resources_processed": 39,
-    "resources_raw": 170,
+    "misc": 636,
+    "orbital_items": 38,
+    "resources_processed": 41,
+    "resources_raw": 166,
     "tools": 12,
     "weapons_melee": 111,
-    "weapons_ranged": 37
+    "weapons_ranged": 39
   },
-  "scrape_date": "2025-09-30 23:35:42",
+  "scrape_date": "2025-12-27 23:47:47",
   "source": "https://icarus.fandom.com",
   "structure": {
-    "individual_files": "1644 files in category subfolders",
+    "individual_files": "1685 files in category subfolders",
     "category_collections": "14 category JSON files",
     "master_index": "index.json with item metadata and file paths"
   }

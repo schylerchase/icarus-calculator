@@ -2,8 +2,10 @@
   "name": "Cream",
   "url": "https://icarus.fandom.com/wiki/Cream",
   "description": "Cream is a late-game intermediate resource crafted from Milk and used in various recipes.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Animal Fat": 2
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Animal Fat": 2
+    },
     "crafted_at": "Unknown"
   }
 }

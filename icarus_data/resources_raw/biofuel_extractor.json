@@ -1,9 +1,13 @@
 {
   "name": "Biofuel Extractor",
   "url": "https://icarus.fandom.com/wiki/Biofuel_Extractor",
-  "description": "This device is used to extract Exotics from Exotic Deposits. Does not require electricity, but uses biofuel instead. The Biofuel Extractor runs 33% slower than the Electric Extractor , but can be crafted earlier in the Tech Tree .",
+  "description": "The Biofuel Extractor is a deployable device used to extract Exotics from deep vein Exotic Deposits. It requires Biofuel to run. The Biofuel Extractor runs 33% slower than the Electric Extractor , but can be crafted earlier in the Tech Tree .",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 15,
+    "Gold Wire": 25,
+    "Copper Nail": 10
+  },
   "crafted_at": "Workshop",
   "tier": 3,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 15,
+      "Gold Wire": 25,
+      "Copper Nail": 10
+    },
     "crafted_at": "Workshop"
   }
 }

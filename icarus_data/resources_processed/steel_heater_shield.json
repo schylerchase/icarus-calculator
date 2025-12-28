@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Steel_Heater_Shield",
   "description": "Background information on the Steel Heater Shield can be found here .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 10,
+    "Leather": 15
+  },
   "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 10,
+      "Leather": 15
+    },
     "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

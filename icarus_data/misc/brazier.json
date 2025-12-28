@@ -1,18 +1,27 @@
 {
   "name": "Brazier",
   "url": "https://icarus.fandom.com/wiki/Brazier",
-  "description": "Brazier Misc Repaired with Hammers",
-  "item_type": "weapon",
-  "ingredients": {},
-  "crafted_at": "Unknown",
-  "tier": 0,
-  "stats": {},
-  "category": "",
+  "description": "Great source of heat and light for use inside. More durable in weather than torches.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Iron Ingot": 20,
+    "Copper Ingot": 4
+  },
+  "crafted_at": "Crafting Bench Machining Bench Fabricator",
+  "tier": 2,
+  "stats": {
+    "weight": "1.75 Kg",
+    "durability": "750"
+  },
+  "category": "deployables",
   "harvested_from": [],
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
+    "ingredients": {
+      "Iron Ingot": 20,
+      "Copper Ingot": 4
+    },
+    "crafted_at": "Crafting Bench Machining Bench Fabricator"
   }
 }

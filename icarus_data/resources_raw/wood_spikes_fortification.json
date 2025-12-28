@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Wood_Spikes_Fortification",
   "description": "The Wood Spikes Fortification serves as large hedgehog that can attach Wood Wall Fortifications to fend off the predators of Icarus. Similar to Medium Wood Hedgehogs , the Wood Spikes Fortification does not take damage during storms.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 80,
+    "Rope": 6
+  },
   "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 80,
+      "Rope": 6
+    },
     "crafted_at": "Crafting Bench"
   }
 }

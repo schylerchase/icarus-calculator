@@ -1,13 +1,18 @@
 {
   "name": "Windmill",
   "url": "https://icarus.fandom.com/wiki/Windmill",
-  "description": "The Windmill is a faster Tier 3  equivalent of the Mortar and Pestle and an intermediate item before reaching the Material Processor on Tier 4  .",
+  "description": "The Windmill is a faster Tier 3 equivalent of the Mortar and Pestle and an intermediate item before reaching the Material Processor on Tier 4 .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 25,
+    "Stone": 50,
+    "Refined Wood": 50,
+    "Rope": 25
+  },
   "crafted_at": "Machining Bench Fabricator",
   "tier": 3,
   "stats": {
-    "weight": "5.0 Kg",
+    "weight": "20.0 Kg",
     "durability": "2,000"
   },
   "category": "deployables",
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 25,
+      "Stone": 50,
+      "Refined Wood": 50,
+      "Rope": 25
+    },
     "crafted_at": "Machining Bench Fabricator"
   }
 }

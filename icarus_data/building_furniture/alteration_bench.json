@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Alteration_Bench",
   "description": "The Alteration Bench is a mid-to-late game technology that allows Prospectors to create Attachment Packs to upgrade armor pieces, ranged weapons, and tools.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 24,
+    "Refined Wood": 10,
+    "Epoxy": 6,
+    "Rope": 6,
+    "Copper Nail": 40
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 24,
+      "Refined Wood": 10,
+      "Epoxy": 6,
+      "Rope": 6,
+      "Copper Nail": 40
+    },
     "crafted_at": "Machining Bench"
   }
 }

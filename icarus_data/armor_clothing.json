@@ -1,6 +1,6 @@
 {
   "category": "Armor Clothing",
-  "count": 151,
+  "count": 155,
   "items": [
     {
       "name": "Alpha Wolf Vestige",
@@ -43,7 +43,12 @@
       "url": "https://icarus.fandom.com/wiki/Arctic_Arm_Armor",
       "description": "Arctic Armor is a major upgrade to Fur Armor , offering unrivaled cold resistance.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Cured Leather": 3,
+        "Arctic Pelt": 4,
+        "Fur": 8,
+        "Rope": 2
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -55,7 +60,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cured Leather": 3,
+          "Arctic Pelt": 4,
+          "Fur": 8,
+          "Rope": 2
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -64,7 +74,12 @@
       "url": "https://icarus.fandom.com/wiki/Arctic_Feet_Armor",
       "description": "Arctic Armor is a major upgrade to Fur Armor , offering unrivaled cold resistance.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Cured Leather": 3,
+        "Arctic Pelt": 2,
+        "Fur": 8,
+        "Rope": 2
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -76,7 +91,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cured Leather": 3,
+          "Arctic Pelt": 2,
+          "Fur": 8,
+          "Rope": 2
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -85,7 +105,12 @@
       "url": "https://icarus.fandom.com/wiki/Arctic_Head_Armor",
       "description": "Arctic Armor is a major upgrade to Fur Armor , offering unrivaled cold resistance.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Cured Leather": 3,
+        "Fur": 10,
+        "Rope": 4,
+        "Polar Bear Vestige": 1
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -97,7 +122,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cured Leather": 3,
+          "Fur": 10,
+          "Rope": 4,
+          "Polar Bear Vestige": 1
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -106,7 +136,12 @@
       "url": "https://icarus.fandom.com/wiki/Arctic_Leg_Armor",
       "description": "Arctic Armor is a major upgrade to Fur Armor , offering unrivaled cold resistance.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Cured Leather": 4,
+        "Arctic Pelt": 6,
+        "Fur": 16,
+        "Rope": 6
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -118,7 +153,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cured Leather": 4,
+          "Arctic Pelt": 6,
+          "Fur": 16,
+          "Rope": 6
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -179,7 +219,7 @@
     {
       "name": "Armor Attachment Pack",
       "url": "https://icarus.fandom.com/wiki/Armor_Attachment_Pack",
-      "description": "Armor Attachment Pack is a Tier 3  Tech needed for the Alteration Bench that allows Prospectors to alter their armor pieces with Attachment Packs .",
+      "description": "Armor Attachment Pack is a Tier 3 Tech needed for the Alteration Bench that allows Prospectors to alter their armor pieces with Attachment Packs .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Alteration Bench Advanced Alteration Bench",
@@ -199,9 +239,13 @@
     {
       "name": "Armored Saddle",
       "url": "https://icarus.fandom.com/wiki/Armored_Saddle",
-      "description": "The Armored Saddle is a saddle for Mounts that has a medieval aesthetic. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides no additional attributes.",
+      "description": "The Armored Saddle is a saddle for Mounts that has a medieval aesthetic. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides +5 Physical Resistance.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 10,
+        "Fur": 6,
+        "Rope": 2
+      },
       "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
@@ -212,7 +256,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 10,
+          "Fur": 6,
+          "Rope": 2
+        },
         "crafted_at": "Ranching Station"
       }
     },
@@ -291,9 +339,12 @@
     {
       "name": "Bone Arm Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Arm_Armor",
-      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1  armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Bone": 15,
+        "Leather": 8
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -305,16 +356,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Bone": 15,
+          "Leather": 8
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Bone Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Feet_Armor",
-      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1  armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Bone": 15,
+        "Leather": 8
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -326,16 +383,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Bone": 15,
+          "Leather": 8
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Bone Head Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Head_Armor",
-      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1  armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Bone": 20,
+        "Leather": 5
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -347,16 +410,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Bone": 20,
+          "Leather": 5
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Bone Leg Armor",
       "url": "https://icarus.fandom.com/wiki/Bone_Leg_Armor",
-      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1  armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "Bone Armor provides relatively good protection from Icarus' fauna as a Tier 1 armor with a minor boost to temperature resistance. Also provides a considerable damage increase when a full set is worn.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Bone": 40,
+        "Leather": 12
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -368,7 +437,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Bone": 40,
+          "Leather": 12
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -377,7 +449,11 @@
       "url": "https://icarus.fandom.com/wiki/Brown_Bear_Arm_Armor",
       "description": "Brown Bear Armor is an upgrade to Bone Armor , offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachment s and Attack Speed Attachment s, further increasing knife attack speed.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 3,
+        "Fur": 15,
+        "Rope": 2
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -389,7 +465,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 3,
+          "Fur": 15,
+          "Rope": 2
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -398,7 +478,11 @@
       "url": "https://icarus.fandom.com/wiki/Brown_Bear_Feet_Armor",
       "description": "Brown Bear Armor is an upgrade to Bone Armor , offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachment s and Attack Speed Attachment s, further increasing knife attack speed.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 3,
+        "Fur": 15,
+        "Rope": 2
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -410,7 +494,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 3,
+          "Fur": 15,
+          "Rope": 2
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -419,7 +507,12 @@
       "url": "https://icarus.fandom.com/wiki/Brown_Bear_Head_Armor",
       "description": "Brown Bear Armor is an upgrade to Bone Armor , offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachment s and Attack Speed Attachment s, further increasing knife attack speed.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 3,
+        "Fur": 10,
+        "Rope": 4,
+        "Bear Vestige": 1
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -431,7 +524,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 3,
+          "Fur": 10,
+          "Rope": 4,
+          "Bear Vestige": 1
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -440,7 +538,11 @@
       "url": "https://icarus.fandom.com/wiki/Brown_Bear_Leg_Armor",
       "description": "Brown Bear Armor is an upgrade to Bone Armor , offering higher physical resistance with a boost to melee attack speed. Though it may not increase attack damage, it pairs well with the Calibrated Grip Attachment s and Attack Speed Attachment s, further increasing knife attack speed.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 4,
+        "Fur": 16,
+        "Rope": 6
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -452,7 +554,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 4,
+          "Fur": 16,
+          "Rope": 6
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -563,7 +669,10 @@
       "url": "https://icarus.fandom.com/wiki/Carcass_Harvesting_Attachment",
       "description": "Carcass Harvesting Attachment is a mid-to-end game item available once the prospector has unlocked the Tool Attachment Pack tech.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 6,
+        "Fur": 4
+      },
       "crafted_at": "Alteration Bench",
       "tier": 3,
       "stats": {
@@ -574,7 +683,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 6,
+          "Fur": 4
+        },
         "crafted_at": "Alteration Bench"
       }
     },
@@ -636,8 +748,10 @@
       "name": "Cloth Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Cloth_Arms_Armor",
       "description": "Cloth Armor, while not being very protective in a fight, provides relatively good protection from the heat in deserts. It also makes traveling slightly quicker.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 80
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -649,7 +763,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 80
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -657,8 +773,10 @@
       "name": "Cloth Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Cloth_Feet_Armor",
       "description": "Cloth Armor, while not being very protective in a fight, provides relatively good protection from the heat in deserts. It also makes traveling slightly quicker.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 40
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -670,7 +788,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 40
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -678,8 +798,10 @@
       "name": "Cloth Head Armor",
       "url": "https://icarus.fandom.com/wiki/Cloth_Head_Armor",
       "description": "Cloth Armor, while not being very protective in a fight, provides relatively good protection from the heat in deserts. It also makes traveling slightly quicker.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 80
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -691,7 +813,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 80
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -699,8 +823,10 @@
       "name": "Cloth Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Cloth_Legs_Armor",
       "description": "Cloth Armor, while not being very protective in a fight, provides relatively good protection from the heat in deserts. It also makes traveling slightly quicker.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 120
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -712,7 +838,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 120
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -721,7 +849,12 @@
       "url": "https://icarus.fandom.com/wiki/Composite_Arms_Armor",
       "description": "Composite Arms Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ingot": 2,
+        "Composites": 8,
+        "Steel Screw": 6,
+        "Carbon Fiber": 2
+      },
       "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
@@ -733,7 +866,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ingot": 2,
+          "Composites": 8,
+          "Steel Screw": 6,
+          "Carbon Fiber": 2
+        },
         "crafted_at": "Electric Textiles Bench"
       }
     },
@@ -742,7 +880,12 @@
       "url": "https://icarus.fandom.com/wiki/Composite_Feet_Armor",
       "description": "Composite Feet Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ingot": 4,
+        "Composites": 12,
+        "Steel Screw": 6,
+        "Carbon Fiber": 2
+      },
       "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
@@ -754,7 +897,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ingot": 4,
+          "Composites": 12,
+          "Steel Screw": 6,
+          "Carbon Fiber": 2
+        },
         "crafted_at": "Electric Textiles Bench"
       }
     },
@@ -763,7 +911,12 @@
       "url": "https://icarus.fandom.com/wiki/Composite_Head_Armor",
       "description": "Composite Head Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ingot": 4,
+        "Composites": 12,
+        "Steel Screw": 6,
+        "Carbon Fiber": 2
+      },
       "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
@@ -775,7 +928,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ingot": 4,
+          "Composites": 12,
+          "Steel Screw": 6,
+          "Carbon Fiber": 2
+        },
         "crafted_at": "Electric Textiles Bench"
       }
     },
@@ -784,7 +942,12 @@
       "url": "https://icarus.fandom.com/wiki/Composite_Legs_Armor",
       "description": "Composite Legs Armor is the highest tier of crafted armor in Icarus and thus provides superior protection from wildlife, while providing considerable insulation from the elements.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Aluminium Ingot": 6,
+        "Composites": 18,
+        "Steel Screw": 8,
+        "Carbon Fiber": 2
+      },
       "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
@@ -796,7 +959,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Aluminium Ingot": 6,
+          "Composites": 18,
+          "Steel Screw": 8,
+          "Carbon Fiber": 2
+        },
         "crafted_at": "Electric Textiles Bench"
       }
     },
@@ -841,7 +1009,10 @@
       "url": "https://icarus.fandom.com/wiki/Cured_Leather_Arms_Armor",
       "description": "Cured Leather Armor is an upgrade to Leather Armor , providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 1,
+        "Cured Leather": 7
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -853,7 +1024,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 1,
+          "Cured Leather": 7
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -862,7 +1036,10 @@
       "url": "https://icarus.fandom.com/wiki/Cured_Leather_Feet_Armor",
       "description": "Cured Leather Armor is an upgrade to Leather Armor , providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 1,
+        "Cured Leather": 4
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -874,7 +1051,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 1,
+          "Cured Leather": 4
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -883,7 +1063,10 @@
       "url": "https://icarus.fandom.com/wiki/Cured_Leather_Head_Armor",
       "description": "Cured Leather Armor is an upgrade to Leather Armor , providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 1,
+        "Cured Leather": 6
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -895,7 +1078,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 1,
+          "Cured Leather": 6
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -904,7 +1090,10 @@
       "url": "https://icarus.fandom.com/wiki/Cured_Leather_Leg_Armor",
       "description": "Cured Leather Armor is an upgrade to Leather Armor , providing an increase in physical resistance, thermal insulation, and a larger set bonus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 2,
+        "Cured Leather": 10
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -916,7 +1105,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 2,
+          "Cured Leather": 10
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -975,6 +1167,24 @@
       }
     },
     {
+      "name": "Dribbo Vestige",
+      "url": "https://icarus.fandom.com/wiki/Dribbo_Vestige",
+      "description": "Dribbo Vestiges are used at the Trophy Bench to create a Dribbo Trophy for display and decoration.",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "animal resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
       "name": "Elephant Vestige",
       "url": "https://icarus.fandom.com/wiki/Elephant_Vestige",
       "description": "Elephant Vestiges are used at the Trophy Bench to create an Elephant Trophy , which can help prospectors complete the Bestiary .",
@@ -1013,9 +1223,15 @@
     {
       "name": "Exotic Harvester",
       "url": "https://icarus.fandom.com/wiki/Exotic_Harvester",
-      "description": "The Exotic Harvester is used to extract Volatile Raw Exotics from Volatile Raw Exotic deposits. Requires 1,500 k Wh to operate.",
+      "description": "The Exotic Harvester is used to extract Volatile Raw Exotics from Volatile Raw Exotic deposits. Requires 1,500 kWh to operate.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Ingot": 10,
+        "Electronics": 3,
+        "Copper Wire": 50,
+        "Composites": 3,
+        "Platinum Sheath": 30
+      },
       "crafted_at": "Workshop",
       "tier": 4,
       "stats": {
@@ -1027,7 +1243,13 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Ingot": 10,
+          "Electronics": 3,
+          "Copper Wire": 50,
+          "Composites": 3,
+          "Platinum Sheath": 30
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -1054,7 +1276,11 @@
       "url": "https://icarus.fandom.com/wiki/Fur_Arms_Armor",
       "description": "Fur armor is a sidegrade to Leather Armor , offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 4,
+        "Fur": 6,
+        "Rope": 1
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1066,7 +1292,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 4,
+          "Fur": 6,
+          "Rope": 1
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -1075,7 +1305,11 @@
       "url": "https://icarus.fandom.com/wiki/Fur_Feet_Armor",
       "description": "Fur armor is a sidegrade to Leather Armor , offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 6,
+        "Fur": 12,
+        "Rope": 2
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1087,7 +1321,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 6,
+          "Fur": 12,
+          "Rope": 2
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -1096,7 +1334,11 @@
       "url": "https://icarus.fandom.com/wiki/Fur_Head_Armor",
       "description": "Fur armor is a sidegrade to Leather Armor , offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 4,
+        "Fur": 12,
+        "Rope": 2
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1108,7 +1350,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 4,
+          "Fur": 12,
+          "Rope": 2
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -1117,7 +1363,11 @@
       "url": "https://icarus.fandom.com/wiki/Fur_Legs_Armor",
       "description": "Fur armor is a sidegrade to Leather Armor , offering slightly less physical resistance in exchange for a major boost to cold resistance, making it a necessity when venturing into cold regions. It, however, greatly reduces resistance to heat, making it problematic when delving into hotter biomes.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 8,
+        "Fur": 18,
+        "Rope": 3
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1129,7 +1379,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 8,
+          "Fur": 18,
+          "Rope": 3
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -1138,7 +1392,11 @@
       "url": "https://icarus.fandom.com/wiki/Ghillie_Arms_Armor",
       "description": "Ghillie Arms Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 120,
+        "Stick": 4,
+        "Rope": 1
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1150,7 +1408,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 120,
+          "Stick": 4,
+          "Rope": 1
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -1159,7 +1421,11 @@
       "url": "https://icarus.fandom.com/wiki/Ghillie_Feet_Armor",
       "description": "Ghillie Feet Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 80,
+        "Stick": 6,
+        "Rope": 2
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1171,7 +1437,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 80,
+          "Stick": 6,
+          "Rope": 2
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -1180,7 +1450,11 @@
       "url": "https://icarus.fandom.com/wiki/Ghillie_Head_Armor",
       "description": "Ghillie Head Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 120,
+        "Stick": 2,
+        "Rope": 2
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1192,7 +1466,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 120,
+          "Stick": 2,
+          "Rope": 2
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -1201,7 +1479,11 @@
       "url": "https://icarus.fandom.com/wiki/Ghillie_Legs_Armor",
       "description": "Ghillie Legs Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 160,
+        "Stick": 8,
+        "Rope": 3
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1213,7 +1495,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 160,
+          "Stick": 8,
+          "Rope": 3
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -1238,9 +1524,13 @@
     {
       "name": "Heavy Obsidian Arm Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Arm_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2  armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 2,
+        "Obsidian": 2,
+        "Rope": 2
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1252,16 +1542,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 2,
+          "Obsidian": 2,
+          "Rope": 2
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Heavy Obsidian Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Feet_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2  armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 2,
+        "Obsidian": 1,
+        "Rope": 4
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1273,16 +1571,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 2,
+          "Obsidian": 1,
+          "Rope": 4
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Heavy Obsidian Head Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Head_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2  armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 4,
+        "Obsidian": 3,
+        "Rope": 4
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1294,16 +1600,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 4,
+          "Obsidian": 3,
+          "Rope": 4
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Heavy Obsidian Leg Armor",
       "url": "https://icarus.fandom.com/wiki/Heavy_Obsidian_Leg_Armor",
-      "description": "Heavy Obsidian Armor is a Tier 2  armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
+      "description": "Heavy Obsidian Armor is a Tier 2 armor specialized in heat resistance with a slightly higher physical resistance than Leather Armor and a major boost in armor durability, great for taking on what the volcanic regions of Prometheus have to offer.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 2,
+        "Obsidian": 2,
+        "Rope": 2
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1315,7 +1629,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 2,
+          "Obsidian": 2,
+          "Rope": 2
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -1324,7 +1642,11 @@
       "url": "https://icarus.fandom.com/wiki/Hunter_Arms_Armor",
       "description": "An upgrade to Ghillie Armor with over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 2,
+        "Cured Leather": 4,
+        "Epoxy": 4
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -1336,7 +1658,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 2,
+          "Cured Leather": 4,
+          "Epoxy": 4
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -1345,7 +1671,12 @@
       "url": "https://icarus.fandom.com/wiki/Hunter_Feet_Armor",
       "description": "An upgrade to Ghillie Armor with over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 1,
+        "Cured Leather": 2,
+        "Rope": 4,
+        "Epoxy": 4
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -1357,7 +1688,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 1,
+          "Cured Leather": 2,
+          "Rope": 4,
+          "Epoxy": 4
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -1366,7 +1702,12 @@
       "url": "https://icarus.fandom.com/wiki/Hunter_Head_Armor",
       "description": "An upgrade to Ghillie Armor with over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 2,
+        "Cured Leather": 3,
+        "Rope": 4,
+        "Epoxy": 8
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -1378,7 +1719,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 2,
+          "Cured Leather": 3,
+          "Rope": 4,
+          "Epoxy": 8
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -1387,7 +1733,12 @@
       "url": "https://icarus.fandom.com/wiki/Hunter_Legs_Armor",
       "description": "An upgrade to Ghillie Armor with over double the physical/exposure resistance and an increase to crouch movement speed when a full set is worn. The ideal armor for hunting that will give any prospector the advantage over wild game.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 4,
+        "Cured Leather": 4,
+        "Rope": 6,
+        "Epoxy": 8
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -1399,7 +1750,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 4,
+          "Cured Leather": 4,
+          "Rope": 6,
+          "Epoxy": 8
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -1742,11 +2098,32 @@
       }
     },
     {
+      "name": "Lava Hunter Vestige",
+      "url": "https://icarus.fandom.com/wiki/Lava_Hunter_Vestige",
+      "description": "Lava Hunter Vestiges are the remains of a Lava Hunter and are used at the Trophy Bench to create decorative items that boost Coziness .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 4,
+      "stats": {},
+      "category": "animal resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
       "name": "Leather Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Arms_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1  counterparts, serving as a decent all-around armor for Tier 2  .",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 40,
+        "Leather": 8
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1758,16 +2135,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 40,
+          "Leather": 8
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Leather Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Feet_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1  counterparts, serving as a decent all-around armor for Tier 2  .",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 20,
+        "Leather": 12
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1779,16 +2162,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 20,
+          "Leather": 12
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Leather Head Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Head_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1  counterparts, serving as a decent all-around armor for Tier 2  .",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 40,
+        "Leather": 12
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1800,16 +2189,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 40,
+          "Leather": 12
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
       "name": "Leather Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Leather_Legs_Armor",
-      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1  counterparts, serving as a decent all-around armor for Tier 2  .",
+      "description": "Leather armor may not offer much protection when fighting against Icarus' Fauna , but it offers more physical protection and thermal insulation than its Tier 1 counterparts, serving as a decent all-around armor for Tier 2 .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 60,
+        "Leather": 18
+      },
       "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -1821,7 +2216,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 60,
+          "Leather": 18
+        },
         "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -1950,7 +2348,12 @@
       "url": "https://icarus.fandom.com/wiki/Obsidian_Arm_Armor",
       "description": "Obsidian Armor is a sidegrade of Composite Armor , providing slightly more physical resistance and a substantial bonus to heat resistance.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 5,
+        "Composites": 3,
+        "Steel Screw": 2,
+        "Shaped Obsidian": 5
+      },
       "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
@@ -1962,7 +2365,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 5,
+          "Composites": 3,
+          "Steel Screw": 2,
+          "Shaped Obsidian": 5
+        },
         "crafted_at": "Electric Textiles Bench"
       }
     },
@@ -1971,7 +2379,12 @@
       "url": "https://icarus.fandom.com/wiki/Obsidian_Feet_Armor",
       "description": "Obsidian Armor is a sidegrade of Composite Armor , providing slightly more physical resistance and a substantial bonus to heat resistance.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 3,
+        "Composites": 2,
+        "Steel Screw": 3,
+        "Shaped Obsidian": 5
+      },
       "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
@@ -1983,7 +2396,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 3,
+          "Composites": 2,
+          "Steel Screw": 3,
+          "Shaped Obsidian": 5
+        },
         "crafted_at": "Electric Textiles Bench"
       }
     },
@@ -1992,7 +2410,12 @@
       "url": "https://icarus.fandom.com/wiki/Obsidian_Head_Armor",
       "description": "Obsidian Armor is a sidegrade of Composite Armor , providing slightly more physical resistance and a substantial bonus to heat resistance.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 10,
+        "Composites": 5,
+        "Steel Screw": 5,
+        "Shaped Obsidian": 5
+      },
       "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
@@ -2004,7 +2427,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 10,
+          "Composites": 5,
+          "Steel Screw": 5,
+          "Shaped Obsidian": 5
+        },
         "crafted_at": "Electric Textiles Bench"
       }
     },
@@ -2013,7 +2441,12 @@
       "url": "https://icarus.fandom.com/wiki/Obsidian_Leg_Armor",
       "description": "Obsidian Armor is a sidegrade of Composite Armor , providing slightly more physical resistance and a substantial bonus to heat resistance.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 12,
+        "Composites": 2,
+        "Steel Screw": 3,
+        "Shaped Obsidian": 12
+      },
       "crafted_at": "Electric Textiles Bench",
       "tier": 4,
       "stats": {
@@ -2025,7 +2458,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 12,
+          "Composites": 2,
+          "Steel Screw": 3,
+          "Shaped Obsidian": 12
+        },
         "crafted_at": "Electric Textiles Bench"
       }
     },
@@ -2226,7 +2664,11 @@
       "url": "https://icarus.fandom.com/wiki/Sandworm_Arms_Armor",
       "description": "Sandworm Arms Armor is made from the scales dropped from a Sandworm . Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 40,
+        "Leather": 4,
+        "Sandworm Scale": 6
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -2238,7 +2680,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 40,
+          "Leather": 4,
+          "Sandworm Scale": 6
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -2247,7 +2693,11 @@
       "url": "https://icarus.fandom.com/wiki/Sandworm_Feet_Armor",
       "description": "Sandworm Feet Armor is made from the scales dropped from a Sandworm . Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 20,
+        "Leather": 6,
+        "Sandworm Scale": 6
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -2259,7 +2709,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 20,
+          "Leather": 6,
+          "Sandworm Scale": 6
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -2268,7 +2722,11 @@
       "url": "https://icarus.fandom.com/wiki/Sandworm_Head_Armor",
       "description": "Sandworm Head Armor is made from the scales dropped from a Sandworm . Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 40,
+        "Leather": 10,
+        "Sandworm Scale": 10
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -2280,7 +2738,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 40,
+          "Leather": 10,
+          "Sandworm Scale": 10
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -2289,7 +2751,11 @@
       "url": "https://icarus.fandom.com/wiki/Sandworm_Leg_Armor",
       "description": "Sandworm Leg Armor is made from the scales dropped from a Sandworm . Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 60,
+        "Leather": 9,
+        "Sandworm Scale": 10
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -2301,16 +2767,42 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 60,
+          "Leather": 9,
+          "Sandworm Scale": 10
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
+      }
+    },
+    {
+      "name": "Sandworm Vestige",
+      "url": "https://icarus.fandom.com/wiki/Sandworm_Vestige",
+      "description": "A Sandworm Vestige is the remains of a Sandworm and is used for crafting decorative items and Trophies that boost Coziness .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "animal resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
       }
     },
     {
       "name": "Scorpion Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Arms_Armor",
-      "description": "Scorpion Arms Armor is a Tier 2  crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Arms Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 40,
+        "Leather": 8,
+        "Scorpion Carapace": 6
+      },
       "crafted_at": "Textiles Bench Electric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -2322,16 +2814,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 40,
+          "Leather": 8,
+          "Scorpion Carapace": 6
+        },
         "crafted_at": "Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Scorpion Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Feet_Armor",
-      "description": "Scorpion Feet Armor is a Tier 2  crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Feet Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 35,
+        "Leather": 15,
+        "Scorpion Carapace": 4
+      },
       "crafted_at": "Textiles Bench Electric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -2343,16 +2843,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 35,
+          "Leather": 15,
+          "Scorpion Carapace": 4
+        },
         "crafted_at": "Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Scorpion Head Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Head_Armor",
-      "description": "Scorpion Head Armor is a Tier 2  crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Head Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 40,
+        "Leather": 15,
+        "Scorpion Carapace": 10
+      },
       "crafted_at": "Textiles Bench Electric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -2364,16 +2872,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 40,
+          "Leather": 15,
+          "Scorpion Carapace": 10
+        },
         "crafted_at": "Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Scorpion Legs Armor",
       "url": "https://icarus.fandom.com/wiki/Scorpion_Legs_Armor",
-      "description": "Scorpion Legs Armor is a Tier 2  crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
+      "description": "Scorpion Legs Armor is a Tier 2 crafted armor requiring a Textiles Bench ; however, it is difficult to acquire due to the challenge of defeating Husk: Extermination and requiring Scorpion Carapace . It has unique set bonuses for returning damage to the attacker and has one of the highest physical resistances in the game.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 60,
+        "Leather": 12,
+        "Scorpion Carapace": 10
+      },
       "crafted_at": "Textiles Bench Electric Textiles Bench",
       "tier": 2,
       "stats": {
@@ -2385,7 +2901,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 60,
+          "Leather": 12,
+          "Scorpion Carapace": 10
+        },
         "crafted_at": "Textiles Bench Electric Textiles Bench"
       }
     },
@@ -2412,7 +2932,12 @@
       "url": "https://icarus.fandom.com/wiki/Seed_Harvesting_Attachment",
       "description": "Seed Harvesting Attachment is a mid game item for attaching to a Harvesting Cart that allows collection of Seeds while harvesting crops planted in Dirt Mounds or Crop Plots . It has no effect on plants found in the wild.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Ingot": 12,
+        "Epoxy": 4,
+        "Rope": 8,
+        "Refined Wood": 18
+      },
       "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
@@ -2425,7 +2950,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 12,
+          "Epoxy": 4,
+          "Rope": 8,
+          "Refined Wood": 18
+        },
         "crafted_at": "Ranching Station"
       }
     },
@@ -2541,6 +3071,24 @@
       "name": "Snow Wolf Vestige",
       "url": "https://icarus.fandom.com/wiki/Snow_Wolf_Vestige",
       "description": "Snow Wolf Vestiges are used at the Trophy Bench to create a Snow Wolf Trophy , which can help prospectors complete the Bestiary . They are also used at any textiles bench to make Snow Wolf Rugs . Decorative purposes aside, both provide a boost to coziness, which increases the duration and effect of the Well Rested Buff .",
+      "item_type": "weapon",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 2,
+      "stats": {},
+      "category": "animal resources",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Spider Vestige",
+      "url": "https://icarus.fandom.com/wiki/Spider_Vestige",
+      "description": "Spider Vestiges are used at the Trophy Bench to create a Spider Trophy , which can help prospectors complete the Bestiary and can provide a bonus to Coziness .",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -2702,9 +3250,11 @@
     {
       "name": "Wayfarer Arms Armor",
       "url": "https://icarus.fandom.com/wiki/Wayfarer_Arms_Armor",
-      "description": "Wayfarer Arms Armor is a mid-game Tier 3  crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
+      "description": "Wayfarer Arms Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 4
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -2716,16 +3266,20 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 4
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Wayfarer Feet Armor",
       "url": "https://icarus.fandom.com/wiki/Wayfarer_Feet_Armor",
-      "description": "Wayfarer Feet Armor is a mid-game Tier 3  crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
+      "description": "Wayfarer Feet Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 2
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -2737,16 +3291,20 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 2
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Wayfarer Head Armor",
       "url": "https://icarus.fandom.com/wiki/Wayfarer_Head_Armor",
-      "description": "Wayfarer Head Armor is a mid-game Tier 3  crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
+      "description": "Wayfarer Head Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 4
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -2758,16 +3316,20 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 4
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
     {
       "name": "Wayfarer Leg Armor",
       "url": "https://icarus.fandom.com/wiki/Wayfarer_Leg_Armor",
-      "description": "Wayfarer Leg Armor is a mid-game Tier 3  crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
+      "description": "Wayfarer Leg Armor is a mid-game Tier 3 crafted armor which can aid prospectors traveling through the Deserts on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Platinum Weave": 8
+      },
       "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
       "tier": 3,
       "stats": {
@@ -2779,7 +3341,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Platinum Weave": 8
+        },
         "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
       }
     },
@@ -2824,7 +3388,11 @@
       "url": "https://icarus.fandom.com/wiki/Wooden_Armor_Stand",
       "description": "The Wooden Armor Stand is a deployable item to store a set of Armor for display purposes and to easily swap out the armor set.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 50,
+        "Copper Nail": 15,
+        "Vegetable Oil": 1
+      },
       "crafted_at": "Carpentry Bench Electric Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -2836,7 +3404,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 50,
+          "Copper Nail": 15,
+          "Vegetable Oil": 1
+        },
         "crafted_at": "Carpentry Bench Electric Carpentry Bench"
       }
     },

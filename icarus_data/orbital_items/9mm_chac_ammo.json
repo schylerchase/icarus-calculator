@@ -1,0 +1,20 @@
+{
+  "name": "9mm CHAC Ammo",
+  "url": "https://icarus.fandom.com/wiki/9mm_CHAC_Ammo",
+  "description": "9mm CHAC Ammo is a purchaseable Pistol Ammunition that does 200 damage. The rounds are used by Pistols , the Submachine Gun and the Automated Defense System: Pistol .",
+  "item_type": "orbital",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {
+    "weight": "0.01 kg"
+  },
+  "category": "pistol ammunition",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": 200,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

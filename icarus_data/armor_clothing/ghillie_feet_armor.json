@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Ghillie_Feet_Armor",
   "description": "Ghillie Feet Armor provides protection from the elements while also providing concealment from the keen eyes of prey.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Fiber": 80,
+    "Stick": 6,
+    "Rope": 2
+  },
   "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 80,
+      "Stick": 6,
+      "Rope": 2
+    },
     "crafted_at": "Crafted AtTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
   }
 }

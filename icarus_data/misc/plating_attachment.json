@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Plating_Attachment",
   "description": "Plating Attachment is a mid-to-end game item available once the prospector has unlocked the Armor Attachment Pack tech.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Platinum Ingot": 4,
+    "Iron Ingot": 4,
+    "Steel Screw": 8,
+    "Epoxy": 2
+  },
   "crafted_at": "Alteration Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +19,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Platinum Ingot": 4,
+      "Iron Ingot": 4,
+      "Steel Screw": 8,
+      "Epoxy": 2
+    },
     "crafted_at": "Alteration Bench"
   }
 }

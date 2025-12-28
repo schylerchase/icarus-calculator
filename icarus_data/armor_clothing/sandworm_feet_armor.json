@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Sandworm_Feet_Armor",
   "description": "Sandworm Feet Armor is made from the scales dropped from a Sandworm . Provides exceptional heat protection with the added bonus of poison resistance when worn with a full set of Sandworm Armor .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Fiber": 20,
+    "Leather": 6,
+    "Sandworm Scale": 6
+  },
   "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
   "tier": 3,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 20,
+      "Leather": 6,
+      "Sandworm Scale": 6
+    },
     "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
   }
 }

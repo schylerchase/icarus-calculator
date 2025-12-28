@@ -1,9 +1,14 @@
 {
   "name": "Iron Axe",
   "url": "https://icarus.fandom.com/wiki/Iron_Axe",
-  "description": "The Iron Axe is the 2nd axe you will unlock during your time on Icarus. It is located at the bottom of the Tier 2  tech tree, right after the Anvil Bench .",
+  "description": "The Iron Axe is the 2nd axe you will unlock during your time on Icarus. It is located at the bottom of the Tier 2 tech tree, right after the Anvil Bench .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 5,
+    "Leather": 4,
+    "Iron Ingot": 6,
+    "Iron Nail": 2
+  },
   "crafted_at": "Anvil Bench",
   "tier": 2,
   "stats": {
@@ -16,7 +21,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 5,
+      "Leather": 4,
+      "Iron Ingot": 6,
+      "Iron Nail": 2
+    },
     "crafted_at": "Anvil Bench"
   }
 }

@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Reinforced_Curtain_Door",
   "description": "Reinforced Curtain Door is a sturdy fabric covering for a doorway.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Platinum Weave": 2,
+    "Iron Ingot": 6,
+    "Iron Nail": 14,
+    "Fiber": 15
+  },
   "crafted_at": "Advanced Textiles Bench Electric Textiles Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +19,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Platinum Weave": 2,
+      "Iron Ingot": 6,
+      "Iron Nail": 14,
+      "Fiber": 15
+    },
     "crafted_at": "Advanced Textiles Bench Electric Textiles Bench"
   }
 }

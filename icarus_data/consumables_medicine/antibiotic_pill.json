@@ -2,8 +2,12 @@
   "name": "Antibiotic Pill",
   "url": "https://icarus.fandom.com/wiki/Antibiotic_Pill",
   "description": "Antibiotic Pills are used to cure, and prevent for a short time, further ailments such as Cave Sickness , Infected Wounds , and Food Poisoning .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Antibiotic Tonic": 1,
+    "Epoxy": 1,
+    "Charcoal": 5
+  },
   "crafted_at": "Unknown",
   "tier": 3,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Antibiotic Tonic": 1,
+      "Epoxy": 1,
+      "Charcoal": 5
+    },
     "crafted_at": "Unknown"
   }
 }

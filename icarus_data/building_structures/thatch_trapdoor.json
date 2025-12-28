@@ -2,8 +2,11 @@
   "name": "Thatch Trapdoor",
   "url": "https://icarus.fandom.com/wiki/Thatch_Trapdoor",
   "description": "Thatch building pieces are very light-weight and are best suited as emergency shelters. While subject to damage from milder storms than any other material, they are light enough to carry and will still offer protection to Deployables and Storage containers. Attaches to floors with trapdoor holes (hold R while holding a floor building piece and select the Trapdoor variant from the radial wheel).",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Fiber": 10,
+    "Sticks": 4
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Fiber": 10,
+      "Sticks": 4
+    },
     "crafted_at": "Unknown"
   }
 }

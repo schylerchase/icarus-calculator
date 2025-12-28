@@ -1,9 +1,14 @@
 {
   "name": "Platinum Ore",
   "url": "https://icarus.fandom.com/wiki/Platinum_Ore",
-  "description": "Platinum Ore is a mid-game Mineral Resource , and can be utilized by prospectors after they reach level 20 and unlock Tier 3  in the Tech Tree . Platinum is required for a number of upgraded Tools and Weapons , including the Platinum Spear and Platinum Sickle .",
+  "description": "Platinum Ore is a mid-game Mineral Resource , and can be utilized by prospectors after they reach level 20 and unlock Tier 3 in the Tech Tree . Platinum is required for a number of upgraded Tools and Weapons , including the Platinum Spear and Platinum Sickle .",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "1Description": 1,
+    "2Mining": 2,
+    "3Refining": 3,
+    "4Crafting": 4
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +17,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "1Description": 1,
+      "2Mining": 2,
+      "3Refining": 3,
+      "4Crafting": 4
+    },
     "crafted_at": "Unknown"
   }
 }

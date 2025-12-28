@@ -2,8 +2,14 @@
   "name": "Titanium Crossbow",
   "url": "https://icarus.fandom.com/wiki/Titanium_Crossbow",
   "description": "The Titanium Crossbow is an upgrade to the Platinum Crossbow that offers a boost to projectile damage and a slightly larger ammo count; has a chance to slow targets and can fully penetrate hardened points, but has a slower fire rate than Bows .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Refined Wood": 24,
+    "Cured Leather": 8,
+    "Titanium Ingot": 20,
+    "Epoxy": 12,
+    "Steel Screw": 16
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {
@@ -16,7 +22,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 24,
+      "Cured Leather": 8,
+      "Titanium Ingot": 20,
+      "Epoxy": 12,
+      "Steel Screw": 16
+    },
     "crafted_at": "Unknown"
   }
 }

@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Beehive",
   "description": "The Beehive is the foundation for Beekeeping all other units attach to the hive. The base model uses Worker Bees or Queen Bees as fuel to produce Honeycomb . Honeycomb is produced at 1 unit per min.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Honeycomb": 10,
+    "Refined Wood": 30,
+    "Copper Nail": 25
+  },
   "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Honeycomb": 10,
+      "Refined Wood": 30,
+      "Copper Nail": 25
+    },
     "crafted_at": "Crafting Bench"
   }
 }

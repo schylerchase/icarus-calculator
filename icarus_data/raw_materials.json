@@ -1,6 +1,6 @@
 {
   "category": "Raw Materials",
-  "count": 167,
+  "count": 175,
   "items": [
     {
       "name": "Aeroponic Crop Plot",
@@ -26,9 +26,15 @@
     {
       "name": "Aluminium Ore",
       "url": "https://icarus.fandom.com/wiki/Aluminium_Ore",
-      "description": "Aluminium Ore is a mid-game Mineral Resource . Prospectors can first utilize aluminium once they reach level 20 and unlock Tier 3  , when it can be crafted into upgraded Weapons like the Recurve Bow and Aluminium Arrow . It is widely used in constructs (for example, Aluminium Beam and Aluminium Door ), and in the late-game it is a vital component of Items like Composite Chest Armor .",
+      "description": "Aluminium Ore is a mid-game Mineral Resource . Prospectors can first utilize aluminium once they reach level 20 and unlock Tier 3 , when it can be crafted into upgraded Weapons like the Recurve Bow and Aluminium Arrow . It is widely used in constructs (for example, Aluminium Beam and Aluminium Door ), and in the late-game it is a vital component of Items like Composite Chest Armor .",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "1Description": 1,
+        "2Mining": 2,
+        "3Smelting": 3,
+        "4Crafting": 4,
+        "5Gallery": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -37,16 +43,26 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "1Description": 1,
+          "2Mining": 2,
+          "3Smelting": 3,
+          "4Crafting": 4,
+          "5Gallery": 5
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Arctic Explorer Saddle",
       "url": "https://icarus.fandom.com/wiki/Arctic_Explorer_Saddle",
-      "description": "The Arctic Explorer Saddle is a saddle for Mounts that has an artic theme. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides no additional attributes.",
+      "description": "The Arctic Explorer Saddle is a saddle for Mounts that has an artic theme. It is available as part of the Creature Comforts DLC and has the same bonuses as the Arctic Riding Saddle .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 10,
+        "Fur": 6,
+        "Rope": 2
+      },
       "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
@@ -57,7 +73,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 10,
+          "Fur": 6,
+          "Rope": 2
+        },
         "crafted_at": "Ranching Station"
       }
     },
@@ -66,7 +86,10 @@
       "url": "https://icarus.fandom.com/wiki/Arctic_Pelt",
       "description": "Arctic Pelts are a harvested Resource used to craft Arctic Armor , a significant upgrade over Fur Armor for prospectors adventuring in the Arctic Biomes .",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Wool": 20,
+        "Fiber": 30
+      },
       "crafted_at": "Crafted atTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {},
@@ -75,7 +98,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wool": 20,
+          "Fiber": 30
+        },
         "crafted_at": "Crafted atTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
@@ -84,7 +110,10 @@
       "url": "https://icarus.fandom.com/wiki/Art_Deco_Candlestick",
       "description": "The Art Deco Candlestick is an gilded item of significant worth. It can be built with either beeswax or animal fat and takes either as fuel inputs.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Gold": 6,
+        "Beeswax": 4
+      },
       "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
@@ -96,16 +125,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Gold": 6,
+          "Beeswax": 4
+        },
         "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Bearhide Saddle",
       "url": "https://icarus.fandom.com/wiki/Bearhide_Saddle",
-      "description": "The Bearhide Saddle is a saddle for Mounts that has a bear theme. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides no additional attributes.",
+      "description": "The Bearhide Saddle is a saddle for Mounts that has a bear theme. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides +5% Movement Speed.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 14,
+        "Fur": 6,
+        "Rope": 2,
+        "Bear Vestige": 1
+      },
       "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
@@ -116,16 +153,25 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 14,
+          "Fur": 6,
+          "Rope": 2,
+          "Bear Vestige": 1
+        },
         "crafted_at": "Ranching Station"
       }
     },
     {
       "name": "Beeswax Wood Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Halfpieces",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 12,
+        "Wood": 20,
+        "Beeswax": 10
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -137,16 +183,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 12,
+          "Wood": 20,
+          "Beeswax": 10
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
     {
       "name": "Beeswax Wood Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Beeswax_Wood_Halfpitches",
-      "description": "Reinforced wood building pieces can be unlocked in Tier 2  of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
+      "description": "Reinforced wood building pieces can be unlocked in Tier 2 of the Tech Tree . These building pieces are more resistant to damage than their earlier Wood versions with the inclusion of Beeswax",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 12,
+        "Wood": 20,
+        "Beeswax": 10
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 0,
       "stats": {
@@ -158,16 +212,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 12,
+          "Wood": 20,
+          "Beeswax": 10
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
     {
       "name": "Biofuel Extractor",
       "url": "https://icarus.fandom.com/wiki/Biofuel_Extractor",
-      "description": "This device is used to extract Exotics from Exotic Deposits. Does not require electricity, but uses biofuel instead. The Biofuel Extractor runs 33% slower than the Electric Extractor , but can be crafted earlier in the Tech Tree .",
+      "description": "The Biofuel Extractor is a deployable device used to extract Exotics from deep vein Exotic Deposits. It requires Biofuel to run. The Biofuel Extractor runs 33% slower than the Electric Extractor , but can be crafted earlier in the Tech Tree .",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 15,
+        "Gold Wire": 25,
+        "Copper Nail": 10
+      },
       "crafted_at": "Workshop",
       "tier": 3,
       "stats": {
@@ -179,7 +241,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 15,
+          "Gold Wire": 25,
+          "Copper Nail": 10
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -187,7 +253,7 @@
       "name": "Biomore Backpack",
       "url": "https://icarus.fandom.com/wiki/Biomore_Backpack",
       "description": "The Biomore Backpack provides six inventory slots, along with 3 active auras where the prospector and nearby allies having increased physical resistance, quicker healing from bacterial, parasitic and poison modifiers, and additional health regeneration. It also has offers buffs for the wearer, reducing the stamina impact from using tools, and providing more health to downed prospectors when revived. An excellent choice for prospectors specializing in rescues.",
-      "item_type": "orbital",
+      "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Workshop",
       "tier": 0,
@@ -226,8 +292,12 @@
       "name": "Bone Javelin",
       "url": "https://icarus.fandom.com/wiki/Bone_Javelin",
       "description": "The Bone Javelin is a variant of the Bone Spear that can only be thrown and is an upgrade to the Wood Javelin . Despite it requiring more materials to craft, the increase in damage can mean the difference between winning and losing a fight against Icarus' fauna.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Wood": 10,
+        "Leather": 4,
+        "Bone": 40
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -239,7 +309,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 10,
+          "Leather": 4,
+          "Bone": 40
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -248,7 +322,11 @@
       "url": "https://icarus.fandom.com/wiki/Bone_Lure",
       "description": "The Bone Lure can be attached to a Fishing Rod or a Basic Fishing Trap / Advanced Fishing Trap to provide an increase to different attributes detailed in the infobox. The capture zone increase is the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like all Lures , the Bone Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Bone": 2,
+        "Iron Nail": 2,
+        "Fiber": 2
+      },
       "crafted_at": "Basic Fishing Bench",
       "tier": 2,
       "stats": {
@@ -260,7 +338,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Bone": 2,
+          "Iron Nail": 2,
+          "Fiber": 2
+        },
         "crafted_at": "Basic Fishing Bench"
       }
     },
@@ -268,8 +350,11 @@
       "name": "Bone Shield",
       "url": "https://icarus.fandom.com/wiki/Bone_Shield",
       "description": "The Bone Shield is crafted at the Character Crafting menu with the following resources:",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Bone": 25,
+        "Leather": 15
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -281,7 +366,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Bone": 25,
+          "Leather": 15
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -289,8 +377,12 @@
       "name": "Bone Sickle",
       "url": "https://icarus.fandom.com/wiki/Bone_Sickle",
       "description": "Used by 'attacking' plants such as shrubs, Reed Flower , Wheat , etc. Sickles significantly increase the yield of plants when harvesting.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Wood": 2,
+        "Leather": 2,
+        "Bone": 20
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -303,7 +395,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 2,
+          "Leather": 2,
+          "Bone": 20
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -312,7 +408,9 @@
       "url": "https://icarus.fandom.com/wiki/Bramble_Bush",
       "description": "Bramble Bush is produced by harvesting the cultivated variety of Bramble . Bramble can be grown with Seeds either harvested from wild, extracted with the Seed Extractor or using a Bramble Farming Packet from the Workshop .",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Seeds": 1
+      },
       "crafted_at": "Unknown",
       "tier": 2,
       "stats": {
@@ -327,7 +425,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Seeds": 1
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -336,7 +436,10 @@
       "url": "https://icarus.fandom.com/wiki/Brutalist_Candlestick",
       "description": "The Brutalist Candlestick is mode from concrete and either animal fat or beeswax. There are two varieties by selecting R. Fuel is either beeswax or animal fat.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Concrete Mix": 1,
+        "Beeswax": 2
+      },
       "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
@@ -348,7 +451,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Concrete Mix": 1,
+          "Beeswax": 2
+        },
         "crafted_at": "Decoration Bench"
       }
     },
@@ -357,7 +463,12 @@
       "url": "https://icarus.fandom.com/wiki/Calf",
       "description": "A Calf is an imported domesticated Fauna that is brought down to the planet and raised to maturity primarily to produce Milk .",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "1Description": 1,
+        "2Obtaining": 2,
+        "3Rearing": 3,
+        "4Skinning": 4
+      },
       "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
@@ -366,14 +477,19 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "1Description": 1,
+          "2Obtaining": 2,
+          "3Rearing": 3,
+          "4Skinning": 4
+        },
         "crafted_at": "Workshop"
       }
     },
     {
       "name": "Carbon Fiber",
       "url": "https://icarus.fandom.com/wiki/Carbon_Fiber",
-      "description": "While being a Tier 3  component, Carbon Fiber is only used to make Carbon Arrows , the Carbon Spear / Javelin , and the Carbon Fibre Round Shield in the Tier 3  Tech Tree; however, it is a critical component widely used in Tier 4  crafting.",
+      "description": "While being a Tier 3 component, Carbon Fiber is only used to make Carbon Arrows , the Carbon Spear / Javelin , and the Carbon Fibre Round Shield in the Tier 3 Tech Tree; however, it is a critical component widely used in Tier 4 crafting.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Concrete Furnace Electric Furnace",
@@ -415,7 +531,11 @@
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_2-Seater_Couch",
       "description": "The Carved Wood 2-Seater Couch is a decorative item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 75,
+        "Copper Nail": 20,
+        "Fiber": 75
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -427,7 +547,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 75,
+          "Copper Nail": 20,
+          "Fiber": 75
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -436,7 +560,11 @@
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_3-Seater_Couch",
       "description": "The Carved Wood 3-Seater Couch is a decorative item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 100,
+        "Copper Nail": 30,
+        "Fiber": 100
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -448,7 +576,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 100,
+          "Copper Nail": 30,
+          "Fiber": 100
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -457,7 +589,10 @@
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Bookshelf",
       "description": "The Carved Wood Bookshelf is a decorative item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 110,
+        "Copper Nail": 30
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -469,7 +604,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 110,
+          "Copper Nail": 30
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -478,7 +616,10 @@
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Cabinet",
       "description": "The Carved Wood Cabinet is a decorative piece with 10 item slots.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 100,
+        "Copper Nail": 25
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -490,7 +631,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 100,
+          "Copper Nail": 25
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -499,7 +643,11 @@
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Candlestick",
       "description": "The Carved Wood Candlestick can be crafted using either beeswax or animal fat and will take either as fuel. There are three varieties that can be selected using the 'R' key while deploying.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 25,
+        "Animal Fat": 15,
+        "Fiber": 5
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -511,7 +659,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 25,
+          "Animal Fat": 15,
+          "Fiber": 5
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -520,7 +672,12 @@
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Desk_Lamp",
       "description": "The Carved Wood Desk Lamp is a decorative item that requires 150 kwh of electricity",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 20,
+        "Copper Nail": 10,
+        "Electronics": 2,
+        "Glass": 5
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -532,7 +689,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 20,
+          "Copper Nail": 10,
+          "Electronics": 2,
+          "Glass": 5
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -541,7 +703,10 @@
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Dresser",
       "description": "The Carved Wood Dresser is a decorative item with 10 inventory slots.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 50,
+        "Copper Nail": 15
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -553,7 +718,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 50,
+          "Copper Nail": 15
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -562,7 +730,10 @@
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Nightstand",
       "description": "The Carved Wood Nightstand is a decorative nightstand with 10 inventory slots. It has five build variants available by using the 'R' key when deploying.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 60,
+        "Copper Nail": 25
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -574,7 +745,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 60,
+          "Copper Nail": 25
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -583,7 +757,10 @@
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Stool",
       "description": "The Carved Wood Stool is a decorative item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 20,
+        "Copper Nail": 5
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -595,7 +772,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 20,
+          "Copper Nail": 5
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -604,7 +784,10 @@
       "url": "https://icarus.fandom.com/wiki/Carved_Wood_Wardrobe",
       "description": "The Carved Wood Wardrobe is a decorative wardrobe with 10 inventory slots. It has two build variants available by selecting 'R' when deploying.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 150,
+        "Copper Nail": 30
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -616,7 +799,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 150,
+          "Copper Nail": 30
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -625,7 +811,14 @@
       "url": "https://icarus.fandom.com/wiki/Chicken",
       "description": "A Chicken is a Transplanted farm animal that provides a source of Eggs and Raw Chicken for Food recipes.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "1Description": 1,
+        "2Obtaining": 2,
+        "3Cost": 3,
+        "4Eggs": 4,
+        "5Feeding": 5,
+        "6Skinning": 6
+      },
       "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
@@ -634,7 +827,14 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "1Description": 1,
+          "2Obtaining": 2,
+          "3Cost": 3,
+          "4Eggs": 4,
+          "5Feeding": 5,
+          "6Skinning": 6
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -722,8 +922,11 @@
       "name": "Coffee Smoked Fatty T-bone",
       "url": "https://icarus.fandom.com/wiki/Coffee_Smoked_Fatty_T-bone",
       "description": "Coffee Smoked Fatty T-bone is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Raw Fatty Tbone": 1,
+        "Coffee Bean": 5
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -732,16 +935,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Raw Fatty Tbone": 1,
+          "Coffee Bean": 5
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Cold Steel Sickle",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Sickle",
-      "description": "Cold Steel Sickle is a Tier 3  Sickle made with Cold Steel Ingots introduced on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Cold Steel Sickle is a Tier 3 Sickle made with Cold Steel Ingots introduced on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Cold Steel Ingot": 5,
+        "Refined Wood": 5,
+        "Steel Screw": 10,
+        "Fur": 5
+      },
       "crafted_at": "Crafted AtForge",
       "tier": 3,
       "stats": {
@@ -754,16 +965,26 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cold Steel Ingot": 5,
+          "Refined Wood": 5,
+          "Steel Screw": 10,
+          "Fur": 5
+        },
         "crafted_at": "Crafted AtForge"
       }
     },
     {
       "name": "Copper Ore",
       "url": "https://icarus.fandom.com/wiki/Copper_Ore",
-      "description": "Copper Ore is an early-game Mineral Resource . It is widely used in the construction of Interior Wood Building Pieces , and prospectors can make extensive use of copper once they reach level 20 and unlock Tier 3  , as it is a crucial component in Electronics . In the late game, copper is used in various deployables like the Refrigerator and the Material Processor .",
+      "description": "Copper Ore is an early-game Mineral Resource . It is widely used in the construction of Interior Wood Building Pieces , and prospectors can make extensive use of copper once they reach level 20 and unlock Tier 3 , as it is a crucial component in Electronics . In the late game, copper is used in various deployables like the Refrigerator and the Material Processor .",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "1Description": 1,
+        "2Mining": 2,
+        "3Refining": 3,
+        "4Crafting": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -772,7 +993,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "1Description": 1,
+          "2Mining": 2,
+          "3Refining": 3,
+          "4Crafting": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -803,7 +1029,12 @@
       "url": "https://icarus.fandom.com/wiki/Cow",
       "description": "A Cow is the mature version of a Calf that can be purchased and brought down to the planet primarily to produce Milk .",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "1Description": 1,
+        "2Obtaining": 2,
+        "3Milk Production": 3,
+        "4Skinning": 4
+      },
       "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
@@ -812,7 +1043,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "1Description": 1,
+          "2Obtaining": 2,
+          "3Milk Production": 3,
+          "4Skinning": 4
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -820,8 +1056,10 @@
       "name": "Crushed Bone",
       "url": "https://icarus.fandom.com/wiki/Crushed_Bone",
       "description": "Useful alternate resource for making Epoxy .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Bone": 2
+      },
       "crafted_at": "Unknown",
       "tier": 2,
       "stats": {},
@@ -830,7 +1068,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Bone": 2
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -875,11 +1115,34 @@
       }
     },
     {
+      "name": "Cultivar Backpack",
+      "url": "https://icarus.fandom.com/wiki/Cultivar_Backpack",
+      "description": "The Cultivar Backpack is a wearable Farming -focused backpack that provides six inventory slots, increased yield of harvested Plant Resources , harvesting of Seeds and exposure resistance.",
+      "item_type": "harvestable",
+      "ingredients": {},
+      "crafted_at": "Workshop",
+      "tier": 0,
+      "stats": {
+        "weight": "0.5 kg",
+        "durability": "5,500"
+      },
+      "category": "backpacks",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Workshop"
+      }
+    },
+    {
       "name": "Dried Fatty T-Bone",
       "url": "https://icarus.fandom.com/wiki/Dried_Fatty_T-Bone",
       "description": "Dried Fatty T-Bone is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Raw Fatty Tbone": 1
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {},
@@ -888,7 +1151,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Raw Fatty Tbone": 1
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -897,7 +1162,19 @@
       "url": "https://icarus.fandom.com/wiki/Exotics",
       "description": "Exotics are one the most valuable Mineral harvested on Icarus and are a potential reward for completing certain Missions / Operations . They were the reason terraforming failed on Icarus, and now their unique properties are sought after by the various Factions seeking to exploit Icarus.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "1Description": 1,
+        "2Gamemodes": 2,
+        "2.1Missions": 2,
+        "2.2Open World": 2,
+        "2.3Outposts": 2,
+        "3Obtaining": 3,
+        "3.1Nodes": 3,
+        "3.2Deposits": 3,
+        "3.3Vapor Condensers": 3,
+        "3.4Bosses": 3,
+        "4Tips": 4
+      },
       "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
@@ -911,21 +1188,36 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "1Description": 1,
+          "2Gamemodes": 2,
+          "2.1Missions": 2,
+          "2.2Open World": 2,
+          "2.3Outposts": 2,
+          "3Obtaining": 3,
+          "3.1Nodes": 3,
+          "3.2Deposits": 3,
+          "3.3Vapor Condensers": 3,
+          "3.4Bosses": 3,
+          "4Tips": 4
+        },
         "crafted_at": "Workshop"
       }
     },
     {
       "name": "Fiber",
       "url": "https://icarus.fandom.com/wiki/Fiber",
-      "description": "In-game description: A bundle of soft fiber, highly useful.",
-      "item_type": "weapon",
+      "description": "Fiber is a basic resource collected from plants, trees and bushes and is used for crafting many different recipes or burning as a fuel source. It is an essential ingredient for the early game and often one of the first items to be harvested when landing on Icarus.",
+      "item_type": "harvestable",
       "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
-      "category": "itemable",
-      "harvested_from": [],
+      "category": "resources",
+      "harvested_from": [
+        "plants",
+        "bushes in most temperate biomes"
+      ],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
@@ -956,7 +1248,11 @@
       "url": "https://icarus.fandom.com/wiki/Fiber_Lure",
       "description": "The Fiber Lure can be attached to a Fishing Rod or a Basic Fishing Trap / Advanced Fishing Trap to provide an increase to different attributes detailed in the infobox. The capture zone increase is the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like all Lures , the Fiber Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 2,
+        "Iron Ingot": 2,
+        "Rope": 2
+      },
       "crafted_at": "Basic Fishing Bench",
       "tier": 2,
       "stats": {
@@ -968,7 +1264,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 2,
+          "Iron Ingot": 2,
+          "Rope": 2
+        },
         "crafted_at": "Basic Fishing Bench"
       }
     },
@@ -995,7 +1295,9 @@
       "url": "https://icarus.fandom.com/wiki/Fur",
       "description": "Fur is widely used when crafting Armors , and in certain Deployables like the Bedroll . It is a crucial ingredient in Fur Armor , which is essential equipment for prospectors venturing into the Arctic Biome for the first time.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Wool": 2
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -1004,16 +1306,23 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wool": 2
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Gold Ore",
       "url": "https://icarus.fandom.com/wiki/Gold_Ore",
-      "description": "Gold Ore is a Mineral Resource . Prospectors can make extensive use of Gold Ore once they reach level 20 and unlock Tier 3  , as it is a crucial component in Electronics .",
+      "description": "Gold Ore is a Mineral Resource . Prospectors can make extensive use of Gold Ore once they reach level 20 and unlock Tier 3 , as it is a crucial component in Electronics .",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "1Description": 1,
+        "2Mining": 2,
+        "3Refining": 3,
+        "4Crafting": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -1022,7 +1331,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "1Description": 1,
+          "2Mining": 2,
+          "3Refining": 3,
+          "4Crafting": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1031,7 +1345,11 @@
       "url": "https://icarus.fandom.com/wiki/Gold_Ore_Lure",
       "description": "The Gold Ore Lure can be attached to a Fishing Rod or a Basic Fishing Trap / Advanced Fishing Trap to provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like all Lures , the Gold Ore Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Gold Ore": 2,
+        "Copper Nail": 2,
+        "Rope": 2
+      },
       "crafted_at": "Basic Fishing Bench",
       "tier": 2,
       "stats": {
@@ -1043,7 +1361,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Gold Ore": 2,
+          "Copper Nail": 2,
+          "Rope": 2
+        },
         "crafted_at": "Basic Fishing Bench"
       }
     },
@@ -1074,7 +1396,14 @@
       "url": "https://icarus.fandom.com/wiki/Hydroponic_Crop_Plot",
       "description": "The Hydroponic Crop Plot is a farming plot for growing Seeds that can later be harvested for Plant Resources once fully grown. Unless the Prospector has the Fresh Is Best talent when deploying a seed into the crop plot, the grown Plant Resource will eventually wither if not harvested.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Composites": 20,
+        "Steel Ingot": 25,
+        "Steel Screw": 10,
+        "Electronics": 10,
+        "Copper Wire": 20,
+        "Dirt": 20
+      },
       "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
@@ -1086,7 +1415,14 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Composites": 20,
+          "Steel Ingot": 25,
+          "Steel Screw": 10,
+          "Electronics": 10,
+          "Copper Wire": 20,
+          "Dirt": 20
+        },
         "crafted_at": "Fabricator"
       }
     },
@@ -1095,7 +1431,12 @@
       "url": "https://icarus.fandom.com/wiki/Ice_Borer",
       "description": "The Ice Borer will drill super-cooled ice deposits when supplied with biofuel from a Biofuel Can / MXC Fuel Canister . Super-cooled ice deposits can only be found on frozen lakes and rivers in the Arctic regions of Prometheus (Biomes: Glacial Cascade or Alpine Steppe - a map of Prometheus biomes can be found here .). The Ice Borer has 5 slots and will last 2 hours and 5 minutes on a full Biofuel Can .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Ingot": 12,
+        "Copper Ingot": 24,
+        "Epoxy": 12,
+        "Electronics": 10
+      },
       "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
@@ -1107,7 +1448,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 12,
+          "Copper Ingot": 24,
+          "Epoxy": 12,
+          "Electronics": 10
+        },
         "crafted_at": "Machining Bench"
       }
     },
@@ -1116,7 +1462,11 @@
       "url": "https://icarus.fandom.com/wiki/Industrial_Candlestick",
       "description": "The Industrial Candlestick is a decorative item from the Industrial Furniture Pack DLC.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 5,
+        "Steel Screw": 3,
+        "Animal Fat": 5
+      },
       "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
@@ -1128,16 +1478,25 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 5,
+          "Steel Screw": 3,
+          "Animal Fat": 5
+        },
         "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Interior Wood Cupboard",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Cupboard",
-      "description": "A Interior Wood Cupboard made of refined wood and copper nails. Similar size to the Wood Cupboard .",
+      "description": "The Interior Wood Cupboard is a deployable floor-standing storage cabinet made of Refined Wood .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Leather": 8,
+        "Refined Wood": 40,
+        "Copper Nail": 20,
+        "Rope": 8
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -1149,7 +1508,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Leather": 8,
+          "Refined Wood": 40,
+          "Copper Nail": 20,
+          "Rope": 8
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -1157,8 +1521,11 @@
       "name": "Interior Wood Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Halfpieces",
       "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 20,
+        "Copper Nail": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1170,7 +1537,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 20,
+          "Copper Nail": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1178,8 +1548,11 @@
       "name": "Interior Wood Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Halfpitches",
       "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 20,
+        "Copper Nail": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1191,7 +1564,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 20,
+          "Copper Nail": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1199,8 +1575,11 @@
       "name": "Interior Wood Ladder",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Ladder",
       "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 10,
+        "Copper Nail": 6
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1212,16 +1591,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 10,
+          "Copper Nail": 6
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Interior Wood Railing",
-      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Railing_Stairs",
+      "url": "https://icarus.fandom.com/wiki/Interior_Wood_Railing",
       "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 8,
+        "Copper Nail": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1233,7 +1618,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 8,
+          "Copper Nail": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1241,8 +1629,11 @@
       "name": "Interior Wood Railing Gate",
       "url": "https://icarus.fandom.com/wiki/Interior_Wood_Railing_Gate",
       "description": "Interior Wood Building Pieces bring a clean appealing aesthetic to any base, although usually rather weak to weather, and quite flammable. Can be repaired with a Repair Hammer .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 8,
+        "Copper Nail": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -1254,7 +1645,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 8,
+          "Copper Nail": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1263,7 +1657,13 @@
       "url": "https://icarus.fandom.com/wiki/Iron_Crop_Plot",
       "description": "The Iron Crop Plot is a farming plot for growing Seeds that can later be harvested for Plant Resources once fully grown. Unless the Prospector has the Fresh Is Best talent when deploying a seed into the crop plot, the grown Plant Resource will eventually wither if not harvested.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 10,
+        "Copper Wire": 20,
+        "Sulfur": 12,
+        "Steel Screw": 8,
+        "Dirt": 20
+      },
       "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
@@ -1275,14 +1675,20 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 10,
+          "Copper Wire": 20,
+          "Sulfur": 12,
+          "Steel Screw": 8,
+          "Dirt": 20
+        },
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "Iron Ore",
       "url": "https://icarus.fandom.com/wiki/Iron_Ore",
-      "description": "Iron Ore is a Mineral , that allows prospectors to create Tier 2  / Tier 3  Tools and Weapons with both the Anvil Bench and Machining Bench . In addition, iron is widely used in Steel Ingot for crafting Items such as the Steel Pickaxe , and Late-game Deployables like the Fabricator / Electric Furnace .",
+      "description": "Iron Ore is a Mineral , that allows prospectors to create Tier 2 / Tier 3 Tools and Weapons with both the Anvil Bench and Machining Bench . In addition, iron is widely used in Steel Ingot for crafting Items such as the Steel Pickaxe , and Late-game Deployables like the Fabricator / Electric Furnace .",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "high temperatures of a furnace",
@@ -1302,137 +1708,7 @@
       "url": "https://icarus.fandom.com/wiki/Leather",
       "description": "Leather is a crucial component of many recipes in Icarus. Having a good stockpile of leather is something every prospector strive for.",
       "item_type": "harvestable",
-      "ingredients": {
-        "Oxidizer": 20,
-        "Converts oxite and stores up to (units?)  of oxygen": 1000,
-        "Bedroll": 10,
-        "Wood Shield": 5,
-        "Bone Spear": 4,
-        "Bone Knife": 2,
-        "Bone Arrow": 1,
-        "Bone Javelin": 4,
-        "per": 2,
-        "Bone Throwing Knife": 2,
-        "Bone Sickle": 2,
-        "Bone Shield": 15,
-        "Seed Pouch": 10,
-        "Bone Head Armor": 5,
-        "Tier  melee armor for the head slot in prospectors inventory": 1,
-        "Bone Chest Armor": 15,
-        "Tier  melee armor for the chest slot in prospectors inventory": 1,
-        "Bone Arm Armor": 8,
-        "Tier  melee armor for the arm slot in prospectors inventory": 1,
-        "Bone Leg Armor": 12,
-        "Tier  melee armor for the leg slot in prospectors inventory": 1,
-        "Bone Feet Armor": 8,
-        "Tier  melee armor for the feet slot in prospectors inventory": 1,
-        "Long Bow": 32,
-        "Suture Kit": 2,
-        "Crafting Bench": 20,
-        "The main crafting workstation for Tier": 2,
-        "Iron Shears": 10,
-        "Iron Axe": 4,
-        "Iron Pickaxe": 4,
-        "Iron Knife": 4,
-        "Iron Spear": 6,
-        "Iron Sickle": 4,
-        "Flint Arrow": 1,
-        "per batch of": 5,
-        "Crossbow": 12,
-        "Waterskin": 12,
-        "Oxygen Bladder": 30,
-        "Skinning Bench": 20,
-        "Stone Furnace": 12,
-        "Oxite Dissolver": 24,
-        "Wood Cupboard": 8,
-        "Stone Frame": 4,
-        "Stone Beam": 1,
-        "Stone Floor": 4,
-        "Stone Wall": 4,
-        "Stone Halfpieces": 2,
-        "Stone Halfpitches": 2,
-        "Stone Wall Angled": 2,
-        "Stone Roof/Ramp": 4,
-        "Stone Roof Corner": 2,
-        "Wall Torch": 8,
-        "Rain Resevoir": 8,
-        "Leather Head Armor": 12,
-        "Leather Chest Armor": 24,
-        "Leather Arm Armor": 8,
-        "Leather Leg Armor": 18,
-        "Leather Feet Armor": 12,
-        "Fur Head Armor": 4,
-        "Fur Chest Armor": 8,
-        "Fur Arms Armor": 4,
-        "Fur Leg Armor": 8,
-        "Fur Feet Armor": 6,
-        "Wooden Bed": 10,
-        "Masonry Bench": 12,
-        "Interior Wood Cupboard": 8,
-        "Taxidermy Knife": 4,
-        "Ice Box": 24,
-        "Water Bomb": 5,
-        "Rope": 5,
-        "Iron Hammer": 4,
-        "Leather Curtain Window": 15,
-        "Leather Curtain Door": 15,
-        "One Shot Pistol": 15,
-        "Leather Backpack": 20,
-        "Decoration Bench": 20,
-        "Rustic Bed": 10,
-        "Cured Leather": 3,
-        "using treesap": 6,
-        "with seed oil": 3,
-        "with beeswax": 3,
-        "Basic Riding Saddle": 14,
-        "Iron Throwing Knife": 4,
-        "Iron Javelin": 5,
-        "Wolf Lure": 2,
-        "Carved Wood Bed": 15,
-        "Steel Heater Shield": 15,
-        "Obsidian Axe": 4,
-        "Obsidian Pickaxe": 4,
-        "Obsidian Spear": 6,
-        "Obsidian Knife": 4,
-        "Obsidian Sickle": 4,
-        "Obsidian Sledgehammer": 5,
-        "Obsidian Arrow": 5,
-        "Obsidian Throwing Knife": 4,
-        "Obsidian Javelin": 5,
-        "Heavy Obsidian Head Armor": 4,
-        "Heavy Obsidian Chest Armor": 4,
-        "Heavy Obsidian Arm Armor": 2,
-        "Heavy Obsidian Leg Armor": 2,
-        "Heavy Obsidian Feet Armor": 2,
-        "Scoria Frame": 4,
-        "Scoria Beam": 1,
-        "Scoria Floor": 4,
-        "Scoria Wall": 4,
-        "Scoria Halfpieces": 2,
-        "Scoria Halfpitches": 2,
-        "Scoria Wall Angled": 2,
-        "Scoria Roof/Ramp": 4,
-        "Scoria Roof Corner": 2,
-        "Wolf Rug": 10,
-        "Cougar Rug": 10,
-        "Deer Rug": 10,
-        "Hyena Rug": 10,
-        "Snow Wolf Rug": 10,
-        "Thick Woven Rug": 10,
-        "Watering Can": 4,
-        "Brown Bear Head Armor": 3,
-        "Brown Bear Chest Armor": 5,
-        "Brown Bear Arm Armor": 3,
-        "Brown Bear Leg Armor": 4,
-        "Brown Bear Feet Armor": 3,
-        "Ranching Station": 20,
-        "Rustic Chicken Coop": 50,
-        "Medical Satchel": 20,
-        "Laika's Jumpsuit": 25,
-        "Farmer's Satchel": 30,
-        "Arctic Riding Saddle": 5,
-        "Desert Riding Saddle": 25
-      },
+      "ingredients": {},
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -1441,137 +1717,7 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {
-          "Oxidizer": 20,
-          "Converts oxite and stores up to (units?)  of oxygen": 1000,
-          "Bedroll": 10,
-          "Wood Shield": 5,
-          "Bone Spear": 4,
-          "Bone Knife": 2,
-          "Bone Arrow": 1,
-          "Bone Javelin": 4,
-          "per": 2,
-          "Bone Throwing Knife": 2,
-          "Bone Sickle": 2,
-          "Bone Shield": 15,
-          "Seed Pouch": 10,
-          "Bone Head Armor": 5,
-          "Tier  melee armor for the head slot in prospectors inventory": 1,
-          "Bone Chest Armor": 15,
-          "Tier  melee armor for the chest slot in prospectors inventory": 1,
-          "Bone Arm Armor": 8,
-          "Tier  melee armor for the arm slot in prospectors inventory": 1,
-          "Bone Leg Armor": 12,
-          "Tier  melee armor for the leg slot in prospectors inventory": 1,
-          "Bone Feet Armor": 8,
-          "Tier  melee armor for the feet slot in prospectors inventory": 1,
-          "Long Bow": 32,
-          "Suture Kit": 2,
-          "Crafting Bench": 20,
-          "The main crafting workstation for Tier": 2,
-          "Iron Shears": 10,
-          "Iron Axe": 4,
-          "Iron Pickaxe": 4,
-          "Iron Knife": 4,
-          "Iron Spear": 6,
-          "Iron Sickle": 4,
-          "Flint Arrow": 1,
-          "per batch of": 5,
-          "Crossbow": 12,
-          "Waterskin": 12,
-          "Oxygen Bladder": 30,
-          "Skinning Bench": 20,
-          "Stone Furnace": 12,
-          "Oxite Dissolver": 24,
-          "Wood Cupboard": 8,
-          "Stone Frame": 4,
-          "Stone Beam": 1,
-          "Stone Floor": 4,
-          "Stone Wall": 4,
-          "Stone Halfpieces": 2,
-          "Stone Halfpitches": 2,
-          "Stone Wall Angled": 2,
-          "Stone Roof/Ramp": 4,
-          "Stone Roof Corner": 2,
-          "Wall Torch": 8,
-          "Rain Resevoir": 8,
-          "Leather Head Armor": 12,
-          "Leather Chest Armor": 24,
-          "Leather Arm Armor": 8,
-          "Leather Leg Armor": 18,
-          "Leather Feet Armor": 12,
-          "Fur Head Armor": 4,
-          "Fur Chest Armor": 8,
-          "Fur Arms Armor": 4,
-          "Fur Leg Armor": 8,
-          "Fur Feet Armor": 6,
-          "Wooden Bed": 10,
-          "Masonry Bench": 12,
-          "Interior Wood Cupboard": 8,
-          "Taxidermy Knife": 4,
-          "Ice Box": 24,
-          "Water Bomb": 5,
-          "Rope": 5,
-          "Iron Hammer": 4,
-          "Leather Curtain Window": 15,
-          "Leather Curtain Door": 15,
-          "One Shot Pistol": 15,
-          "Leather Backpack": 20,
-          "Decoration Bench": 20,
-          "Rustic Bed": 10,
-          "Cured Leather": 3,
-          "using treesap": 6,
-          "with seed oil": 3,
-          "with beeswax": 3,
-          "Basic Riding Saddle": 14,
-          "Iron Throwing Knife": 4,
-          "Iron Javelin": 5,
-          "Wolf Lure": 2,
-          "Carved Wood Bed": 15,
-          "Steel Heater Shield": 15,
-          "Obsidian Axe": 4,
-          "Obsidian Pickaxe": 4,
-          "Obsidian Spear": 6,
-          "Obsidian Knife": 4,
-          "Obsidian Sickle": 4,
-          "Obsidian Sledgehammer": 5,
-          "Obsidian Arrow": 5,
-          "Obsidian Throwing Knife": 4,
-          "Obsidian Javelin": 5,
-          "Heavy Obsidian Head Armor": 4,
-          "Heavy Obsidian Chest Armor": 4,
-          "Heavy Obsidian Arm Armor": 2,
-          "Heavy Obsidian Leg Armor": 2,
-          "Heavy Obsidian Feet Armor": 2,
-          "Scoria Frame": 4,
-          "Scoria Beam": 1,
-          "Scoria Floor": 4,
-          "Scoria Wall": 4,
-          "Scoria Halfpieces": 2,
-          "Scoria Halfpitches": 2,
-          "Scoria Wall Angled": 2,
-          "Scoria Roof/Ramp": 4,
-          "Scoria Roof Corner": 2,
-          "Wolf Rug": 10,
-          "Cougar Rug": 10,
-          "Deer Rug": 10,
-          "Hyena Rug": 10,
-          "Snow Wolf Rug": 10,
-          "Thick Woven Rug": 10,
-          "Watering Can": 4,
-          "Brown Bear Head Armor": 3,
-          "Brown Bear Chest Armor": 5,
-          "Brown Bear Arm Armor": 3,
-          "Brown Bear Leg Armor": 4,
-          "Brown Bear Feet Armor": 3,
-          "Ranching Station": 20,
-          "Rustic Chicken Coop": 50,
-          "Medical Satchel": 20,
-          "Laika's Jumpsuit": 25,
-          "Farmer's Satchel": 30,
-          "Arctic Riding Saddle": 5,
-          "Desert Riding Saddle": 25
-        },
+        "ingredients": {},
         "crafted_at": "Unknown"
       }
     },
@@ -1581,22 +1727,22 @@
       "description": "Legendary Biomass is an in-game currency used to craft attachments to upgrade Legendary Weapons at the Bio-lab in orbit.",
       "item_type": "harvestable",
       "ingredients": {
-        "Sandworm Scale": 1,
-        "Sandworm Tendon": 1,
-        "Black Wolf Tooth": 1,
-        "Black Wolf Fur": 1,
-        "Scorpion Carapace": 1,
-        "Venom Sac": 1,
-        "Frozen Wool": 1,
-        "Ice Armor Fragment": 1,
-        "Hammerhead Skin": 1,
-        "Hammerhead Slime": 1,
-        "Quarrite Fragment": 1,
-        "Quarrite Core": 1,
-        "Garganutan Hide": 1,
-        "Garganutan Tendon": 1,
-        "Hardened Horn": 1,
-        "Hardened Magma": 1
+        "Sandworm Scale": 25,
+        "Sandworm Tendon": 3,
+        "Black Wolf Tooth": 5,
+        "Black Wolf Fur": 5,
+        "Scorpion Carapace": 25,
+        "Venom Sac": 3,
+        "Frozen Wool": 5,
+        "Ice Armor Fragment": 3,
+        "Hammerhead Skin": 5,
+        "Hammerhead Slime": 3,
+        "Quarrite Fragment": 5,
+        "Quarrite Core": 3,
+        "Garganutan Hide": 5,
+        "Garganutan Tendon": 3,
+        "Hardened Horn": 5,
+        "Hardened Magma": 3
       },
       "crafted_at": "Unknown",
       "tier": 3,
@@ -1609,22 +1755,22 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Sandworm Scale": 1,
-          "Sandworm Tendon": 1,
-          "Black Wolf Tooth": 1,
-          "Black Wolf Fur": 1,
-          "Scorpion Carapace": 1,
-          "Venom Sac": 1,
-          "Frozen Wool": 1,
-          "Ice Armor Fragment": 1,
-          "Hammerhead Skin": 1,
-          "Hammerhead Slime": 1,
-          "Quarrite Fragment": 1,
-          "Quarrite Core": 1,
-          "Garganutan Hide": 1,
-          "Garganutan Tendon": 1,
-          "Hardened Horn": 1,
-          "Hardened Magma": 1
+          "Sandworm Scale": 25,
+          "Sandworm Tendon": 3,
+          "Black Wolf Tooth": 5,
+          "Black Wolf Fur": 5,
+          "Scorpion Carapace": 25,
+          "Venom Sac": 3,
+          "Frozen Wool": 5,
+          "Ice Armor Fragment": 3,
+          "Hammerhead Skin": 5,
+          "Hammerhead Slime": 3,
+          "Quarrite Fragment": 5,
+          "Quarrite Core": 3,
+          "Garganutan Hide": 5,
+          "Garganutan Tendon": 3,
+          "Hardened Horn": 5,
+          "Hardened Magma": 3
         },
         "crafted_at": "Unknown"
       }
@@ -1670,7 +1816,11 @@
       "url": "https://icarus.fandom.com/wiki/Medium_Interior_Wood_Crate",
       "description": "A Medium Interior Wood Crate made of refined wood and copper nails. Similar size to the Medium Wood Crate .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Rope": 8,
+        "Refined Wood": 32,
+        "Copper Nail": 10
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -1682,7 +1832,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Rope": 8,
+          "Refined Wood": 32,
+          "Copper Nail": 10
+        },
         "crafted_at": "Carpentry Bench"
       }
     },
@@ -1690,8 +1844,11 @@
       "name": "Medium Wood Crate",
       "url": "https://icarus.fandom.com/wiki/Medium_Wood_Crate",
       "description": "Larger than the Small Wood Crate , the Medium Wood Crate also possesses an increased inventory space with 20 slots. Like most other Deployables , this must be under Shelter or it will be destroyed when exposed to Weather events. It is possible to loot the contents if this crate is destroyed, but only for a limited time.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 32,
+        "Wood": 32
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -1703,7 +1860,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 32,
+          "Wood": 32
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1712,7 +1872,10 @@
       "url": "https://icarus.fandom.com/wiki/Medium_Wood_Hedgehog",
       "description": "The Medium Wood Hedgehog are sturdy defenses used around your base or while at objectives for protection of equipment.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 60,
+        "Rope": 4
+      },
       "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
@@ -1724,16 +1887,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 60,
+          "Rope": 4
+        },
         "crafted_at": "Crafting Bench"
       }
     },
     {
       "name": "Miasmic Javelin",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Javelin",
-      "description": "The Miasmic Javelin is a variant of the Miasmic Spear that can only be thrown. Deals poison damage on hit and has a 15% chance to apply a unique debuff to targets while dealing periodic poison damage. Excels when used against Fauna that have a weakness to poison. . When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna with:",
+      "description": "The Miasmic Javelin is a variant of the Miasmic Spear that can only be thrown. Deals poison damage on hit and has a 15% chance to apply a unique debuff to targets while dealing periodic poison damage. Excels when used against Fauna that have a weakness to poison. A list of Fauna that are weak to poison can be viewed here . When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna with:",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 20,
+        "Cured Leather": 1,
+        "Titanium Ingot": 10,
+        "Distilled Miasmic Coating": 10
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -1747,16 +1918,28 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 20,
+          "Cured Leather": 1,
+          "Titanium Ingot": 10,
+          "Distilled Miasmic Coating": 10
+        },
         "crafted_at": "Unknown"
       }
     },
     {
       "name": "Miasmic Sickle",
       "url": "https://icarus.fandom.com/wiki/Miasmic_Sickle",
-      "description": "Miasmic Sickle is a Tier 4  Sickle made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
+      "description": "Miasmic Sickle is a Tier 4 Sickle made with Distilled Miasmic Coating derived from Crystallized Miasma found in the Swamps on Prometheus . Due to the materials required, crafting the item requires the New Frontiers DLC.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Carbon Fiber": 4,
+        "Steel Screw": 2,
+        "Epoxy": 4,
+        "Titanium Ingot": 5,
+        "Distilled Miasmic Coating": 5,
+        "Refined Wood": 5
+      },
       "crafted_at": "Unknown",
       "tier": 4,
       "stats": {
@@ -1771,7 +1954,14 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Carbon Fiber": 4,
+          "Steel Screw": 2,
+          "Epoxy": 4,
+          "Titanium Ingot": 5,
+          "Distilled Miasmic Coating": 5,
+          "Refined Wood": 5
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1800,7 +1990,9 @@
       "url": "https://icarus.fandom.com/wiki/Mining_Armature",
       "description": "The Mining Armature is an electro-mechanical gauntlet that serves as a Pickaxe for mining or for use in melee combat where it can inflict considerable damage to armored targets. It can be purchased in the Bio-lab and upgraded with various attachments.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Legendary Licence": 1
+      },
       "crafted_at": "Workshop",
       "tier": 0,
       "stats": {
@@ -1813,7 +2005,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Legendary Licence": 1
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -1842,7 +2036,15 @@
       "url": "https://icarus.fandom.com/wiki/Norex_Boss_Tracker_Upgrade",
       "description": "The NOREX Boss Tracker Upgrade is an upgrade for the CONT4CT Device deployed in an Open World map that visually upgrades the screens and provides a Bosses tab that provides information on the currently active world bosses.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Glass": 30,
+        "Carbon Fiber": 30,
+        "Copper Wire": 50,
+        "Aluminium Ingot": 40,
+        "Titanium Plate": 10,
+        "Electronics": 20,
+        "Epoxy": 25
+      },
       "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
@@ -1854,7 +2056,15 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Glass": 30,
+          "Carbon Fiber": 30,
+          "Copper Wire": 50,
+          "Aluminium Ingot": 40,
+          "Titanium Plate": 10,
+          "Electronics": 20,
+          "Epoxy": 25
+        },
         "crafted_at": "Fabricator"
       }
     },
@@ -1895,11 +2105,37 @@
       }
     },
     {
-      "name": "Platinum Ore",
-      "url": "https://icarus.fandom.com/wiki/Platinum_Ore",
-      "description": "Platinum Ore is a mid-game Mineral Resource , and can be utilized by prospectors after they reach level 20 and unlock Tier 3  in the Tech Tree . Platinum is required for a number of upgraded Tools and Weapons , including the Platinum Spear and Platinum Sickle .",
+      "name": "Packed Fuel Brick",
+      "url": "https://icarus.fandom.com/wiki/Packed_Fuel_Brick",
+      "description": "Packed Fuel Brick is a crafted form of fuel used for Campfires , Floor Torches or other places requiring combustible fuel.",
       "item_type": "harvestable",
       "ingredients": {},
+      "crafted_at": "Crafting Bench Machining Bench Fabricator",
+      "tier": 0,
+      "stats": {},
+      "category": "crafted resources",
+      "harvested_from": [
+        "planted coconut palm trees",
+        "although it first requires coconut Seeds"
+      ],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Crafting Bench Machining Bench Fabricator"
+      }
+    },
+    {
+      "name": "Platinum Ore",
+      "url": "https://icarus.fandom.com/wiki/Platinum_Ore",
+      "description": "Platinum Ore is a mid-game Mineral Resource , and can be utilized by prospectors after they reach level 20 and unlock Tier 3 in the Tech Tree . Platinum is required for a number of upgraded Tools and Weapons , including the Platinum Spear and Platinum Sickle .",
+      "item_type": "harvestable",
+      "ingredients": {
+        "1Description": 1,
+        "2Mining": 2,
+        "3Refining": 3,
+        "4Crafting": 4
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {},
@@ -1908,7 +2144,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "1Description": 1,
+          "2Mining": 2,
+          "3Refining": 3,
+          "4Crafting": 4
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -1980,7 +2221,14 @@
       "url": "https://icarus.fandom.com/wiki/Prototype_Thumper",
       "description": "The more ore available, the bigger the impact on the surrounding environment, so expect more opposition when taking on lucrative deposits in densely populated areas.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Titanium Ingot": 8,
+        "Electronics": 6,
+        "Steel Screw": 18,
+        "Composites": 12,
+        "Concrete Mix": 8,
+        "Epoxy": 14
+      },
       "crafted_at": "Fabricator",
       "tier": 4,
       "stats": {
@@ -1992,7 +2240,14 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Titanium Ingot": 8,
+          "Electronics": 6,
+          "Steel Screw": 18,
+          "Composites": 12,
+          "Concrete Mix": 8,
+          "Epoxy": 14
+        },
         "crafted_at": "Fabricator"
       }
     },
@@ -2041,7 +2296,14 @@
       "url": "https://icarus.fandom.com/wiki/Resources",
       "description": "Prospectors face a host of challenges when they drop onto Icarus. They must maintain an adequate supply of Oxygen , Water and Food , craft Shelter from the planet’s storms, and survive encounters with the Fauna . Prospectors will need to rely on a wide range of resources: some they will find in the wild, and others they will make themselves. How prospectors master the use of these resources will determine their overall success during their limited time on Icarus.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "1Overview": 1,
+        "2Subcategories": 2,
+        "2.1Animal Resources": 2,
+        "2.2Crafted Resources": 2,
+        "2.3Minerals": 2,
+        "2.4Plant Resources": 2
+      },
       "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
@@ -2052,14 +2314,21 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "1Overview": 1,
+          "2Subcategories": 2,
+          "2.1Animal Resources": 2,
+          "2.2Crafted Resources": 2,
+          "2.3Minerals": 2,
+          "2.4Plant Resources": 2
+        },
         "crafted_at": "Workshop"
       }
     },
     {
       "name": "Sandworm",
       "url": "https://icarus.fandom.com/wiki/Sandworm",
-      "description": "A monstrous beast that lives beneath the sand on Olympus and Styx.",
+      "description": "A monstrous beast that lives beneath the sand on Olympus and Styx .",
       "item_type": "harvestable",
       "ingredients": {},
       "crafted_at": "Workshop",
@@ -2140,7 +2409,13 @@
       "url": "https://icarus.fandom.com/wiki/Sheep",
       "description": "A sheep preserved in cryogenic stasis that can be deployed and defrosted on a planet.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "1Description": 1,
+        "2Obtaining": 2,
+        "3Cost": 3,
+        "4Sheering": 4,
+        "5Skinning": 5
+      },
       "crafted_at": "Workshop",
       "tier": 0,
       "stats": {},
@@ -2149,7 +2424,13 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "1Description": 1,
+          "2Obtaining": 2,
+          "3Cost": 3,
+          "4Sheering": 4,
+          "5Skinning": 5
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -2196,7 +2477,11 @@
       "url": "https://icarus.fandom.com/wiki/Small_Interior_Wood_Crate",
       "description": "A Small Interior Wood Crate made of refined wood and copper nails. Similar size to the Small Wood Crate .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Rope": 4,
+        "Refined Wood": 24,
+        "Copper Nail": 5
+      },
       "crafted_at": "Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -2208,8 +2493,43 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Rope": 4,
+          "Refined Wood": 24,
+          "Copper Nail": 5
+        },
         "crafted_at": "Carpentry Bench"
+      }
+    },
+    {
+      "name": "Small Interior Wood Cupboard",
+      "url": "https://icarus.fandom.com/wiki/Small_Interior_Wood_Cupboard",
+      "description": "The Small Interior Wood Cupboard is a deployable wall-mounted storage cabinet made of Refined Wood .",
+      "item_type": "craftable",
+      "ingredients": {
+        "Leather": 5,
+        "Refined Wood": 20,
+        "Copper Nail": 12,
+        "Rope": 5
+      },
+      "crafted_at": "Carpentry Bench Electric Carpentry Bench",
+      "tier": 2,
+      "stats": {
+        "weight": "2.0 kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Leather": 5,
+          "Refined Wood": 20,
+          "Copper Nail": 12,
+          "Rope": 5
+        },
+        "crafted_at": "Carpentry Bench Electric Carpentry Bench"
       }
     },
     {
@@ -2217,7 +2537,10 @@
       "url": "https://icarus.fandom.com/wiki/Small_Stone_Sign",
       "description": "The Small Stone Sign is a deployable sign post available as a wall sign, floor sign or a small angled variant.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Stone": 16,
+        "Iron Nail": 4
+      },
       "crafted_at": "Crafted AtMasonry BenchAdvanced Masonry BenchElectric Masonry Bench",
       "tier": 2,
       "stats": {
@@ -2229,7 +2552,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Stone": 16,
+          "Iron Nail": 4
+        },
         "crafted_at": "Crafted AtMasonry BenchAdvanced Masonry BenchElectric Masonry Bench"
       }
     },
@@ -2255,8 +2581,11 @@
       "name": "Small Wood Crate",
       "url": "https://icarus.fandom.com/wiki/Small_Wood_Crate",
       "description": "The Small Wood Crate is the first available storage container that can be made by the prospector. While limited in inventory space, anything here will not be lost upon the death of the prospector or count against inventory weight. Like most other Deployables , this must be under Shelter or it will be destroyed when exposed to Weather events. It is possible to loot the contents if this crate is destroyed, but only for a limited time.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 16,
+        "Wood": 24
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -2268,8 +2597,42 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 16,
+          "Wood": 24
+        },
         "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Small Wood Cupboard",
+      "url": "https://icarus.fandom.com/wiki/Small_Wood_Cupboard",
+      "description": "The Small Wood Cupboard is a small deployable wooden cabinet for Storage that can be mounted on a wall.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Wood": 25,
+        "Leather": 5,
+        "Copper Nail": 4,
+        "Rope": 5
+      },
+      "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator",
+      "tier": 2,
+      "stats": {
+        "weight": "2.0 kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Wood": 25,
+          "Leather": 5,
+          "Copper Nail": 4,
+          "Rope": 5
+        },
+        "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator"
       }
     },
     {
@@ -2277,7 +2640,11 @@
       "url": "https://icarus.fandom.com/wiki/Small_Wood_Sign",
       "description": "A Small Wood Sign made of Refined Wood and Copper Nails .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 12,
+        "Rope": 2,
+        "Copper Nail": 2
+      },
       "crafted_at": "Carpentry Bench Electric Carpentry Bench",
       "tier": 2,
       "stats": {
@@ -2289,7 +2656,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 12,
+          "Rope": 2,
+          "Copper Nail": 2
+        },
         "crafted_at": "Carpentry Bench Electric Carpentry Bench"
       }
     },
@@ -2307,6 +2678,26 @@
         "the Forest",
         "Riverl",
         "s locations on Icarus"
+      ],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {},
+        "crafted_at": "Unknown"
+      }
+    },
+    {
+      "name": "Spider Silk",
+      "url": "https://icarus.fandom.com/wiki/Spider_Silk",
+      "description": "Spider Silk is a Animal Resource harvested from Spiders .",
+      "item_type": "harvestable",
+      "ingredients": {},
+      "crafted_at": "Unknown",
+      "tier": 0,
+      "stats": {},
+      "category": "animal resources",
+      "harvested_from": [
+        "Spiders"
       ],
       "research_cost": null,
       "purchase_cost": null,
@@ -2356,10 +2747,10 @@
     {
       "name": "Stick",
       "url": "https://icarus.fandom.com/wiki/Stick",
-      "description": "Sticks are harvested by picking them up off of the ground, or when harvesting small trees and saplings. Sticks can also be crafted from wood at the Carpentry Bench , or in the Character Crafting menu if you have the Wood Breakdown talent (and its matching Blueprint in Tier 1 ).",
+      "description": "Sticks are harvested by picking them up off of the ground, or when harvesting small trees and saplings. Sticks can also be crafted from wood at the Carpentry Bench , or in the Character Crafting menu if you have the Wood Breakdown talent (and its matching Blueprint in Tier 1).",
       "item_type": "harvestable",
       "ingredients": {
-        "Wood": 10
+        "Wood": 1
       },
       "crafted_at": "Carpentry Bench Character Crafting",
       "tier": 0,
@@ -2370,7 +2761,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Wood": 10
+          "Wood": 1
         },
         "crafted_at": "Carpentry Bench Character Crafting"
       }
@@ -2399,7 +2790,7 @@
       "description": "Stone Bricks are a refined resource primarily used to craft Stone Brick Building Pieces at an Advanced Masonry Bench / Electric Masonry Bench .",
       "item_type": "craftable",
       "ingredients": {
-        "Stone": 1
+        "Stone": 3
       },
       "crafted_at": "Advanced Masonry Bench Electric Masonry Bench",
       "tier": 3,
@@ -2410,7 +2801,96 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Stone": 1
+          "Stone": 3
+        },
+        "crafted_at": "Advanced Masonry Bench Electric Masonry Bench"
+      }
+    },
+    {
+      "name": "Stone Brick Fireplace",
+      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Fireplace",
+      "description": "The Stone Brick Fireplace is deployable Stone Brick version of the Fireplace that provides a source of heat, a source of light , Coziness and a means to cook Food indoors at an accelerated pace.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Brick": 100,
+        "Refined Wood": 30,
+        "Tree Sap": 20
+      },
+      "crafted_at": "Advanced Masonry Bench Electric Masonry Bench",
+      "tier": 3,
+      "stats": {
+        "weight": "25 kg",
+        "durability": "1,500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Stone Brick": 100,
+          "Refined Wood": 30,
+          "Tree Sap": 20
+        },
+        "crafted_at": "Advanced Masonry Bench Electric Masonry Bench"
+      }
+    },
+    {
+      "name": "Stone Brick Fireplace Cap",
+      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Fireplace_Cap",
+      "description": "A Stone Brick Fireplace Cap is the final cap piece to place on a Stone Brick Fireplace Extension or directly on a Stone Brick Fireplace . Two variants, a half height and full height, are available by holding the 'R' key when deploying.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Brick": 30,
+        "Refined Wood": 20,
+        "Tree Sap": 10,
+        "Iron Ingot": 10
+      },
+      "crafted_at": "Advanced Masonry Bench Electric Masonry Bench",
+      "tier": 3,
+      "stats": {
+        "weight": "5.0 Kg",
+        "durability": "1,500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Stone Brick": 30,
+          "Refined Wood": 20,
+          "Tree Sap": 10,
+          "Iron Ingot": 10
+        },
+        "crafted_at": "Advanced Masonry Bench Electric Masonry Bench"
+      }
+    },
+    {
+      "name": "Stone Brick Fireplace Extension",
+      "url": "https://icarus.fandom.com/wiki/Stone_Brick_Fireplace_Extension",
+      "description": "A Stone Brick Fireplace Extension is a hollow rectangular tower of Stone Brick masonry that forms a chimney to place on a Stone Brick Fireplace or another existing Stone Brick Fireplace Extension to extend the chimney vertically. It is usually capped with a Stone Brick Fireplace Cap .",
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone Brick": 50,
+        "Refined Wood": 20,
+        "Tree Sap": 10
+      },
+      "crafted_at": "Advanced Masonry Bench Electric Masonry Bench",
+      "tier": 3,
+      "stats": {
+        "weight": "5.0 Kg",
+        "durability": "1,500"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Stone Brick": 50,
+          "Refined Wood": 20,
+          "Tree Sap": 10
         },
         "crafted_at": "Advanced Masonry Bench Electric Masonry Bench"
       }
@@ -2419,8 +2899,13 @@
       "name": "Stone Brick Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Stone_Brick_Halfpieces",
       "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 3,
+        "Stone Brick": 15,
+        "Tree Sap": 3,
+        "Steel Screw": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2432,7 +2917,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 3,
+          "Stone Brick": 15,
+          "Tree Sap": 3,
+          "Steel Screw": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2440,8 +2930,13 @@
       "name": "Stone Brick Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Stone_Brick_Halfpitches",
       "description": "Stone Brick pieces offer +10 Insulation from Temperature, +100% Falling Tree Resistance and +65% Wind Resistance.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Refined Wood": 3,
+        "Stone Brick": 15,
+        "Tree Sap": 3,
+        "Steel Screw": 3
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -2453,7 +2948,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 3,
+          "Stone Brick": 15,
+          "Tree Sap": 3,
+          "Steel Screw": 3
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2462,7 +2962,10 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Buffalo_Statue",
       "description": "The Stone Buffalo Statue is a decorative stone item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Stone": 250,
+        "Condensed Enzymes": 1
+      },
       "crafted_at": "Masonry Bench",
       "tier": 2,
       "stats": {
@@ -2474,7 +2977,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Stone": 250,
+          "Condensed Enzymes": 1
+        },
         "crafted_at": "Masonry Bench"
       }
     },
@@ -2482,8 +2988,10 @@
       "name": "Stone Cairn",
       "url": "https://icarus.fandom.com/wiki/Stone_Cairn",
       "description": "Stone Cairns are a deployable item can be used as waystones to mark a path across the landscape or to mark areas of significance. Stone Cairns also have one inventory slot that can be used to store deceased pets, marking their grave and providing them a small memorial. When inspecting the Stone Cairn by pressing F, the name and description can be changed as needed.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Stone": 80
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -2495,7 +3003,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Stone": 80
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -2504,7 +3014,10 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Caveworm_Statue",
       "description": "The Stone Caveworm Statue is a decorative stone item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Stone": 500,
+        "Condensed Enzymes": 1
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -2516,7 +3029,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Stone": 500,
+          "Condensed Enzymes": 1
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -2525,7 +3041,10 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Deer_Statue",
       "description": "The Stone Deer Statue is a decorative stone item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Stone": 250,
+        "Condensed Enzymes": 1
+      },
       "crafted_at": "Masonry Bench",
       "tier": 2,
       "stats": {
@@ -2537,7 +3056,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Stone": 250,
+          "Condensed Enzymes": 1
+        },
         "crafted_at": "Masonry Bench"
       }
     },
@@ -2546,7 +3068,10 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Elephant_Statue",
       "description": "The Stone Elephant Statue is a decorative stone item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Stone": 250,
+        "Condensed Enzymes": 1
+      },
       "crafted_at": "Masonry Bench",
       "tier": 2,
       "stats": {
@@ -2558,7 +3083,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Stone": 250,
+          "Condensed Enzymes": 1
+        },
         "crafted_at": "Masonry Bench"
       }
     },
@@ -2567,19 +3095,29 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Frame",
       "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 12,
+        "Stone": 40,
+        "Leather": 4,
+        "Iron Nail": 12
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
         "weight": "<unkown>",
-        "durability": "<unkown>"
+        "durability": "2500"
       },
       "category": "building pieces",
       "harvested_from": [],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 12,
+          "Stone": 40,
+          "Leather": 4,
+          "Iron Nail": 12
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2588,7 +3126,12 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Halfpieces",
       "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 6,
+        "Stone": 20,
+        "Leather": 4,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2600,7 +3143,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 6,
+          "Stone": 20,
+          "Leather": 4,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2609,7 +3157,12 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Halfpitches",
       "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 6,
+        "Stone": 20,
+        "Leather": 4,
+        "Iron Nail": 6
+      },
       "crafted_at": "the Masonry Bench with the following resources:",
       "tier": 0,
       "stats": {
@@ -2621,7 +3174,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 6,
+          "Stone": 20,
+          "Leather": 4,
+          "Iron Nail": 6
+        },
         "crafted_at": "the Masonry Bench with the following resources:"
       }
     },
@@ -2630,7 +3188,10 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Komodo_Statue",
       "description": "The Stone Komodo Statue is a decorative stone item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Stone": 100,
+        "Condensed Enzymes": 1
+      },
       "crafted_at": "Masonry Bench",
       "tier": 2,
       "stats": {
@@ -2642,7 +3203,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Stone": 100,
+          "Condensed Enzymes": 1
+        },
         "crafted_at": "Masonry Bench"
       }
     },
@@ -2652,7 +3216,7 @@
       "description": "The Stone Pile, alongside the Wood Pile , are makeshift storage options for large quantities of each raw material. The Stone Pile is immune to ALL Weather damage and can be used as a durable barrier to Fauna , especially against Fauna like the Grizzly Bear . If placed with just a narrow opening between piles, Bears have an incredibly difficult time getting through which allows the Prospector to melee attack just beyond the bear's attack range.",
       "item_type": "craftable",
       "ingredients": {
-        "Stone": 1
+        "Stone": 100
       },
       "crafted_at": "Unknown",
       "tier": 1,
@@ -2663,7 +3227,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Stone": 1
+          "Stone": 100
         },
         "crafted_at": "Unknown"
       }
@@ -2673,7 +3237,10 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Piranha_Statue",
       "description": "The Stone Piranha Statue is a decorative stone item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Stone": 100,
+        "Condensed Enzymes": 1
+      },
       "crafted_at": "Masonry Bench",
       "tier": 2,
       "stats": {
@@ -2685,7 +3252,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Stone": 100,
+          "Condensed Enzymes": 1
+        },
         "crafted_at": "Masonry Bench"
       }
     },
@@ -2694,7 +3264,10 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Rabbit_Statue",
       "description": "The Stone Rabbit Statue is a decorative stone item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Stone": 100,
+        "Condensed Enzymes": 1
+      },
       "crafted_at": "Masonry Bench",
       "tier": 2,
       "stats": {
@@ -2706,7 +3279,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Stone": 100,
+          "Condensed Enzymes": 1
+        },
         "crafted_at": "Masonry Bench"
       }
     },
@@ -2715,7 +3291,10 @@
       "url": "https://icarus.fandom.com/wiki/Stone_Water_Trough",
       "description": "The Stone Water Trough is a decorative upgrade to the Water Trough that allows multiple creatures to drink from it simultaneously and can be connected to Water using a Water Pipe Tool , similar to the Large Water Trough . The Stone Water Trough can only store water and cannot provide water to the rest of the network like Water Barrels or Metal Rain Reservoirs .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Stone": 50,
+        "Tree Sap": 20
+      },
       "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
@@ -2727,7 +3306,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Stone": 50,
+          "Tree Sap": 20
+        },
         "crafted_at": "Ranching Station"
       }
     },
@@ -2736,7 +3318,10 @@
       "url": "https://icarus.fandom.com/wiki/Stonejaw_Trophy",
       "description": "Stonejaw Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete the Bestiary , it can also be used in tandem with other Furniture to increase the Coziness of your living quarters, increasing the duration and effectiveness of the Well Rested Buff .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 30,
+        "Stonejaw Vestige": 1
+      },
       "crafted_at": "Trophy Bench",
       "tier": 2,
       "stats": {
@@ -2748,372 +3333,391 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 30,
+          "Stonejaw Vestige": 1
+        },
         "crafted_at": "Trophy Bench"
       }
     },
     {
       "name": "Talents",
-      "url": "https://icarus.fandom.com/wiki/Talents#Blueprint:_Arctic_Armor",
+      "url": "https://icarus.fandom.com/wiki/Talents#Blueprint:_Ghillie_Armor",
       "description": "With 465 combined talents to choose from, Icarus' talent trees give prospectors the ability to construct their own unique play-styles inside of five primary Categories: Survival, Adventure, Habitation, Combat and Solo Talents Trees.",
       "item_type": "harvestable",
       "ingredients": {
-        "Lumber Yield": 5,
-        "(+%)(+%)(+%)": 5,
-        "Skilled Picker": 5,
-        "(+%)(+%)(+%)(+%)": 5,
-        "Rock Star": 10,
-        "Dense Packing I": 5,
-        "Carry On": 3,
-        "(-%)(-%)(-%)(-%)": 5,
-        "All The Good Stuff": 10,
-        "(%)(%)(%)": 5,
-        "Oxygen Thief": 10,
-        "Waste Not": 5,
-        "Exotic Power": 5,
-        "Movin' Wood": 5,
-        "Slinging Stone": 5,
-        "Dense Packing II": 5,
-        "Unburdened": 5,
-        "Iron Miner": 10,
-        "Exotic Sprinter": 5,
-        "Friend Of The Trees": 50,
-        "Reduced damage from falling trees(+% Falling Tree Resistance)": 50,
-        "Peerless Lumberjack": 1,
-        "Chance to instantly chop up a tree(+% chance to Instantly Fell Trees)": 1,
-        "Lucky Strike": 1,
-        "Chance to mine a deposit in one hit(+% chance to instantly Break Mineral or Ore Deposits while Mining)": 1,
-        "Fine Butcher I": 25,
-        "+% meat yield when skinning": 25,
-        "Chase 'Em Down": 10,
-        "(+)(+)(+)": 5,
-        "Swift Stalker": 3,
-        "Bone Collector": 15,
-        "+% bone yield when skinning": 15,
-        "Strong Shoulders": 5,
-        "+% movement speed while Carrying an Animal": 5,
-        "Quick Getaway": 5,
-        "Trigger  seconds of increased Stamina Regeneration when Damaged": 5,
-        "Without A Sound": 5,
-        "(-%)(-%)(-%)": 10,
-        "Trained Hunter": 10,
-        "Careful Skinner": 10,
-        "(+%)(+%)": 8,
-        "Quick Clean Up": 15,
-        "Fine Butcher II": 10,
-        "Bone Collector II": 8,
-        "Chase 'Em Down II": 10,
-        "Brittle Bones": 20,
-        "+% chance to instantly gather bones when destroying skeletons": 20,
-        "Naturally Preserved": 15,
-        "Filling Meals": 10,
-        "(+)(+%)": 10,
-        "Green Thumb": 10,
-        "Well Laid Fire": 25,
-        "(-%)(-%)": 15,
-        "All-Nighter": 15,
-        "Long Lasting Effects": 10,
-        "Neat and Tidy": 50,
-        "Planted crops will gain the 'Fertilized' modifier, increasing the fertilizer duration by %": 50,
-        "Carnivore": 15,
-        "Get Up and Go": 2,
-        "Vegetarian": 15,
-        "The Old One-Two": 2,
-        "Gathering Guru": 2,
-        "Superfoods": 20,
-        "Speed-Gro": 10,
-        "Bumper Crop": 15,
-        "It's Better Than I Thought": 10,
-        "Sturdy Stalks": 20,
-        "Food Pyramid": 1,
-        "Gives an extra food buff slot - Adds  space in stomach": 1,
-        "Robust Explorer": 10,
-        "Swift Survivor": 3,
-        "Storm Chaser": 10,
-        "Steady Breathing": 10,
-        "Carbo Loaded": 10,
-        "Water Retention": 10,
-        "Weathering The Storm": 5,
-        "Plyometrics": 10,
-        "Amphibian": 10,
-        "-% Oxygen Consumpted while Swimming)": 10,
-        "Field Medic": 25,
-        "Pack Lightly": 2,
-        "Calming Presence": 20,
-        "Reduces oxygen consumption for allies within m": 20,
-        "Go With The Flow": 10,
-        "Quick Refresh": 5,
-        "Three Point Landing": 5,
-        "Night Owl": 3,
-        "Cutting It Close": 10,
-        "(+%) Increased movement speed during the last  minutes of a Mission": 10,
-        "Like It With The Lights Off": 15,
-        "(-%) Food, Oxygen, and Water consumption at Night": 15,
-        "Cushioned Fall": 25,
-        "(%)(%)": 5,
-        "Strong Bones": 15,
-        "Forest Master": 5,
-        "+% movement speed and +% health regeneration inForestBiomes": 5,
-        "Arctic Master": 5,
-        "+% movement speed and +% cold resistance inArcticBiomes": 5,
-        "Desert Master": 5,
-        "+% Movement speed and -% water consumption inDesertbiomes": 5,
-        "Makes The Dream Work": 15,
-        "+% Shared Experience Gained": 15,
-        "Well Cared For": 20,
-        "Grazing For The Herd": 2,
-        "Back In The Saddle": 20,
-        "Efficient Feeding": 15,
-        "Energetic Encouragement": 5,
-        "(+%) Tamed Creature Stamina Regeneration(-%) Juvenile Creature Sleep Requirement(+%) Tamed Creature Stamina Regeneration(-%) Juvenile Creature Sleep Requirement": 5,
-        "Rapid Adoption": 10,
-        "(+%) Stealth Damage": 10,
-        "Adaptive Training": 5,
-        "(-%) Juvenile Creature Minimum Temperature Requirement(+%) Juvenile Creature Maximum Temperature Requirement(-%) Juvenile Creature Minimum Temperature Requirement(+%) Juvenile Creature Maximum Temperature Requirement": 5,
-        "Relaxed Rider": 15,
-        "Hardy Diet": 10,
-        "(+%) Tamed Creature Maximum Health(+%) Tamed Creature Health Regeneration(+%) Tamed Creature Maximum Health(+%) Tamed Creature Health Regeneration(+%) Tamed Creature Maximum Health(+%) Tamed Creature Health Regeneration": 10,
-        "Act Natural": 10,
-        "Kill Commmand": 5,
-        "Long Haul": 2,
-        "Beasts Endurance": 5,
-        "Arctic Training": 10,
-        "Faster taming in colder environments(-%) Juvenile Creature Minimum Temperature Requirement": 10,
-        "Desert Training": 10,
-        "Faster taming in hotter environments(+%) Juvenile Creature Maximum Temperature Requirement": 10,
-        "In Your Element": 5,
-        "Like The Wind": 5,
-        "(+%) Tamed Creature Movement": 5,
-        "Angler's Technique": 20,
-        "Natural Angler": 10,
-        "Calmer Waters": 15,
-        "Efficient Fisher": 10,
-        "Hefty Catch": 10,
-        "+% Weight of caught fish": 10,
-        "That's A Big One": 10,
-        "+% Length of caught fish": 10,
-        "Fisher's Haul": 25,
-        "-% Carry weight of fish": 25,
-        "Steady Breathing (Fishing)": 10,
-        "One With The Water": 10,
-        "Pescatarian": 15,
-        "Fish Fu": 25,
-        "+ Physical resistance while fishing": 25,
-        "Saltiest Catch": 5,
-        "+% Increased quality of caught saltwater fish": 5,
-        "Freshest Catch": 5,
-        "+% Increased quality of caught freshwater fish": 5,
-        "Deadliest Catch": 10,
-        "+% Increased quality of fish caught during storms": 10,
-        "The Golden Zone": 5,
-        "Nice Day For Fishing Ain't It?": 5,
-        "Big Game Fisher": 10,
-        "+% chance to catch Rare Fish+% chance to catch Unique Fish-% chance to catch Common Fish+% chance to catch Rare Fish+% chance to catch Unique Fish-% chance to catch Common Fish": 10,
-        "Medium Game Fisher": 10,
-        "+% chance to catch Uncommon Fish-% chance to catch Common Fish+% chance to catch Uncommon Fish-% chance to catch Common Fish": 10,
-        "Ready To Work": 5,
-        "Hammer Time I": 15,
-        "First Responder": 10,
-        "(+%) Increased Movement Speed with a Fire Whacker equipped": 10,
-        "Speedy Whacks": 10,
-        "Boneshatter": 10,
-        "Hardy Whacker": 10,
-        "Hardy Hammer": 25,
-        "Whacker Endurance": 15,
-        "Better Than New": 10,
-        "Repaired Building Pieces have Increased Wind Damage Resistance for  seconds": 10,
-        "With One Swing": 25,
-        "+% Chance to Repair a Building Piece Instantly": 25,
-        "Lingering Extinguishing": 10,
-        "Extinguished Building Pieces have Reduced Burn Chance for  seconds": 10,
-        "Hammer Time II": 10,
-        "Careful Hits": 5,
-        "Picksmith I": 25,
-        "-% Resource Cost of Crafted Pickaxes": 25,
-        "Discount Axes I": 25,
-        "-% Resource Cost of Crafted Axes": 25,
-        "Hardy Axe Heads I": 5,
-        "Miner Damage": 20,
-        "Speedy Mining": 5,
-        "Speed Chopper": 5,
-        "Big Pick": 10,
-        "Miner Endurance I": 5,
-        "Lumberjack Endurance": 5,
-        "Extra Sharp": 5,
-        "Think Of All The Fiber": 25,
-        "Picksmith II": 25,
-        "Discount Axes II": 25,
-        "Berserker": 150,
-        "+% Axe Melee Damage+% Attack Speed with Axes+% Stamina Consumed by Axe Actions+% Wear Rate of Axes": 150,
-        "Controlled Rage": 50,
-        "-% Wear Rate of Axes-% Stamina Consumed by Axe Actions+% Yield from Felling Trees": 50,
-        "Strong Pick": 10,
-        "Careful Hits II": 5,
-        "Miner Endurance II": 5,
-        "Hard Axe": 10,
-        "Hardy Axe Heads II": 5,
-        "Good As New": 25,
-        "% Chance for Pickaxes to Recover Durability Instead of Breaking": 25,
-        "Discount Thatch": 10,
-        "Discount Wood": 10,
-        "Wood Hauling I": 10,
-        "Discount Stone": 10,
-        "Stone Hauling I": 10,
-        "Discount Concrete": 10,
-        "Concrete Hauling I": 10,
-        "Discount Glass": 10,
-        "Extra Space I": 3,
-        "(+)(+)": 50,
-        "Stoking The Flames": 10,
-        "Fortified Wood": 10,
-        "Wood Hauling II": 3,
-        "Stone Hauling II": 5,
-        "Concrete Hauling II": 10,
-        "Discount Rod": 50,
-        "-% Resource Cost of Crafted Lightning Rods": 50,
-        "Deployable Engineering": 25,
-        "+% crafted speed of deployable items": 25,
-        "Weatherproof Cladding": 25,
-        "Crafted Wood buildables gain the Sturdy alteration, increasing Wind Resistance by +%": 25,
-        "Fortified Rod": 100,
-        "Extra Space II": 3,
-        "Enhanced Defences": 25,
-        "Crafted Hedgehogs gain the Spikey alteration, increasing damage by +%": 25,
-        "Fireproofing Sealant": 25,
-        "Crafted Wood buildables gain the Inflammable alteration - -% chance to set Fire": 25,
-        "Bow Agility": 5,
-        "More For Less I": 25,
-        "-% Resource cost of Crafted Bows/Crossbows": 25,
-        "Easy Draw": 5,
-        "Quick Load": 5,
-        "Increased Arrow Damage I": 2,
-        "Bow Quick Draw": 5,
-        "Swift Flight": 3,
-        "Increased Arrow Damage II": 2,
-        "Trained Bowsmith": 15,
-        "Crafted bows gain the Durable alteration, increasing maximum durability by %": 15,
-        "Trained Bowman": 10,
-        "Bullseye": 15,
-        "Crafty Fletcher": 10,
-        "% Chance to craft an additional arrows/bolts": 10,
-        "More For Less II": 25,
-        "Soft Spot I": 5,
-        "Twice The Fun": 5,
-        "Soft Spot II": 10,
-        "Hindering Shot": 5,
-        "Supply and Demand": 2,
-        "Wounding Shot": 5,
-        "Pinning Shot": 5,
-        "% Chance to Immobilize on hit with Bows/Crossbows": 5,
-        "Strong Thrust I": 3,
-        "Efficient Crafter I": 20,
-        "-% Resource Cost of Crafted Spears": 20,
-        "Seasoned Spearman": 5,
-        "Spear Quick Draw": 5,
-        "Quick Thrust": 10,
-        "From Afar I": 5,
-        "Strong Thrust II": 5,
-        "Deadly Thrust I": 5,
-        "From Afar II": 10,
-        "Deadly Thrust II": 15,
-        "Quick Step": 5,
-        "Could Go All Day": 10,
-        "Efficient Crafter II": 20,
-        "Excellent Crafter I": 25,
-        "+% Maximum durability of Crafted Spears": 25,
-        "Long Reach I": 5,
-        "Spear Parry": 15,
-        "Excellent Crafter II": 25,
-        "Deep Wounds": 5,
-        "Long Reach II": 10,
-        "Deft Hands": 10,
-        "Running With Knives": 2,
-        "Swift Stab": 5,
-        "Cuts": 1000,
-        "Reinforced Blades": 25,
-        "+% Maximum durability of Crafted Knives": 25,
-        "Hardy Blade": 10,
-        "Heavy Hand": 5,
-        "Thrown knives are highlighted": 1000,
-        "Discount Blades I": 25,
-        "-% Resource Cost of Crafted Knives": 25,
-        "Range Damage I": 5,
-        "Increased Damage with Throwing Knives": 1000,
-        "Trained Skinner": 5,
-        "Deadly Stab": 10,
-        "Range Damage II": 10,
-        "If It Works": 20,
-        "+ Felling damage with Crafted Knives": 20,
-        "Strong Arm I": 5,
-        "Discount Blades II": 25,
-        "That Was Quick": 5,
-        "Strong Arm II": 15,
-        "Silent Blade": 4,
-        "Killer Throw": 5,
-        "% Chance to kill non-boss targets with a throwing knife": 5,
-        "Stay Right There": 100,
-        "% Chance for Thrown Knife Critical Hits to Immobilize Targets": 100,
-        "Pistol Proficiency": 25,
-        "Unlocks recipe for cheaper bulk Pistol ammo crafting - -% Crafted Pistol Ammo Resource Cost": 25,
-        "Shotgun Slash": 25,
-        "Unlocks recipe for cheaper bulk Shotgun ammo crafting - -% Crafted Shotgun Ammo Resource Cost": 25,
-        "Rifle Reduction": 25,
-        "Unlocks recipe for cheaper bulk Rifle ammo crafting - -% Crafted Rifle Ammo Resource Cost": 25,
-        "Featherweight": 25,
-        "-% Carry weight of firearms": 25,
-        "Pistol Handling": 10,
-        "Shotgun Handling": 10,
-        "Rifle Re-Up": 10,
-        "Gun Runner": 5,
-        "Pistol Powerup": 3,
-        "Shotgun Sovereign": 3,
-        "Rifle Redress": 3,
-        "Freebies": 5,
-        "% Chance to craft additional ammo": 5,
-        "Gunsmith": 10,
-        "Focus Fire": 10,
-        "Sharpshooter": 5,
-        "How Many Shots Did You Count?": 5,
-        "New Life": 30,
-        "% Chance for Firearms to Recover Durability Instead of Breaking": 30,
-        "Marathon Runner": 20,
-        "Fleet Footed": 5,
-        "Healthy Maverick": 50,
-        "Heavy Hitter": 5,
-        "Lightning Recovery": 10,
-        "'Tis But A Scratch": 5,
-        "Steel Ankles": 5,
-        "Bounce Back": 10,
-        "Precision Logging": 5,
-        "Low Maintenance": 10,
-        "Very, Very Quiet": 15,
-        "-% Perceived threat while stealthed": 15,
-        "Sweet, Savoury, Satisfied": 10,
-        "+% Food Effects Duration": 10,
-        "Honed Heads": 5,
-        "+% Damage with Bows/Crossbows+% Damage with Bows/Crossbows+% Reload Speed of Bows/Crossbows": 5,
-        "Slice and Dice": 5,
-        "+% Damage with Knives+% Damage with Knives+% Damage with Thrown Knives": 5,
-        "Miner Rewards": 5,
-        "The Big Three": 15,
-        "+% Yield from felling trees, mining and harvesting": 15,
-        "Pack Horse": 25,
-        "+% Weight capacity": 25,
-        "Bring A Gun To A Gun Fight": 5,
-        "+% Damage with Firearms+% Damage with Firearms+% Reload Speed with Firearms": 5,
-        "Stick Of Destiny": 5,
-        "+% Damage with Spears+% Damage with Spears+% Damage with Thrown Spears": 5,
-        "Efficient Home Maintenance": 5,
-        "+% Stamina Regeneration with a Fire Whacker Equipped-% Repair Tool Action Hold Time": 5,
-        "Savage Hunter I": 25,
-        "More Than A Handful": 5,
-        "Mobile Stockpile": 20,
-        "-% Carry Weight of Wood, Stone and Ores": 20,
-        "Gotta Damage Fast": 25,
-        "+% Damage of Crafted Hedgehogs": 25,
-        "Savage Hunter II": 25,
-        "Lone Wolf": 8,
-        "Basic Move": 15
+        "1Overview": 1,
+        "1.1Talent Ranking System": 1,
+        "1.2Talent Point Restrictions": 1,
+        "1.3Talent Tree Dependencies": 1,
+        "1.4Talent Tree Respeccing": 1,
+        "2Talent Trees": 2,
+        "2.1SURVIVAL": 2,
+        "2.1.1RESOURCES": 2,
+        "2.1.1.1NOVICE RANK": 2,
+        "2.1.1.1.1Lumber Yield": 2,
+        "2.1.1.1.2Skilled Picker": 2,
+        "2.1.1.1.3Rock Star": 2,
+        "2.1.1.1.4Dense Packing I": 2,
+        "2.1.1.1.5Carry On": 2,
+        "2.1.1.2APPRENTICE RANK": 2,
+        "2.1.1.2.1Wood Breakdown": 2,
+        "2.1.1.2.2All The Good Stuff": 2,
+        "2.1.1.2.3Oxygen Thief": 2,
+        "2.1.1.2.4Waste Not": 2,
+        "2.1.1.2.5Exotic Power": 2,
+        "2.1.1.2.6Movin' Wood": 2,
+        "2.1.1.3JOURNEYMAN RANK": 2,
+        "2.1.1.3.1Slinging Stone": 2,
+        "2.1.1.3.2Dense Packing II": 2,
+        "2.1.1.3.3Unburdened": 2,
+        "2.1.1.3.4Iron Miner": 2,
+        "2.1.1.3.5Exotic Sprinter": 2,
+        "2.1.1.4MASTER RANK": 2,
+        "2.1.1.4.1Seasoned Logsman": 2,
+        "2.1.1.4.2Friend Of The Trees": 2,
+        "2.1.1.4.3Peerless Lumberjack": 2,
+        "2.1.1.4.4Lucky Strike": 2,
+        "2.1.2HUNTING": 2,
+        "2.1.2.1NOVICE RANK": 2,
+        "2.1.2.1.1Fine Butcher I": 2,
+        "2.1.2.1.2Chase 'Em Down": 2,
+        "2.1.2.1.3Swift Stalker": 2,
+        "2.1.2.1.4Bone Collector": 2,
+        "2.1.2.1.5Strong Shoulders": 2,
+        "2.1.2.1.6Leather Breakdown": 2,
+        "2.1.2.1.7Quick Getaway": 2,
+        "2.1.2.2APPRENTICE RANK": 2,
+        "2.1.2.2.1Health Bars": 2,
+        "2.1.2.2.2Without A Sound": 2,
+        "2.1.2.2.3Sense Small Animals": 2,
+        "2.1.2.2.4Trained Hunter": 2,
+        "2.1.2.2.5Careful Skinner": 2,
+        "2.1.2.3JOURNEYMAN RANK": 2,
+        "2.1.2.3.1Ghillie Armor": 2,
+        "2.1.2.3.2Sense Medium Animals": 2,
+        "2.1.2.3.3Quick Clean Up": 2,
+        "2.1.2.3.4Fine Butcher II": 2,
+        "2.1.2.3.5Bone Collector II": 2,
+        "2.1.2.3.6Chase 'Em Down II": 2,
+        "2.1.2.4MASTER RANK": 2,
+        "2.1.2.4.1Sense Megafauna": 2,
+        "2.1.2.4.2Brittle Bones": 2,
+        "2.1.2.4.3Big Game Hunter": 2,
+        "2.1.2.4.4Cold Hearted": 2,
+        "2.1.2.4.5Arctic Armor": 2,
+        "2.1.3COOKING/FARMING": 2,
+        "2.1.3.1NOVICE RANK": 2,
+        "2.1.3.1.1Naturally Preserved": 2,
+        "2.1.3.1.2Filling Meals": 2,
+        "2.1.3.1.3Green Thumb": 2,
+        "2.1.3.1.4Well Laid Fire": 2,
+        "2.1.3.1.5All-Nighter": 2,
+        "2.1.3.1.6Long Lasting Effects": 2,
+        "2.1.3.1.7Neat and Tidy": 2,
+        "2.1.3.1.8Carnivore": 2,
+        "2.1.3.1.9Get Up and Go": 2,
+        "2.1.3.1.10Shoot The Breeze": 2,
+        "2.1.3.1.11Vegetarian": 2,
+        "2.1.3.1.12The Old One-Two": 2,
+        "2.1.3.2APPRENTICE RANK": 2,
+        "2.1.3.2.1Gathering Guru": 2,
+        "2.1.3.3JOURNEYMAN RANK": 2,
+        "2.1.3.3.1Superfoods": 2,
+        "2.1.3.3.2Speed-Gro": 2,
+        "2.1.3.3.3You Gonna Eat That?": 2,
+        "2.1.3.3.4Bumper Crop": 2,
+        "2.1.3.3.5It's Better Than I Thought": 2,
+        "2.1.3.3.6Fresh Is Best": 2,
+        "2.1.3.3.7Sturdy Stalks": 2,
+        "2.1.3.4MASTER RANK": 2,
+        "2.1.3.4.1Food Pyramid": 2,
+        "2.1.3.4.2Get Off My Lawn": 2,
+        "2.2ADVENTURE": 2,
+        "2.2.1EXPLORATION": 2,
+        "2.2.1.1NOVICE RANK": 2,
+        "2.2.1.1.1Robust Explorer": 2,
+        "2.2.1.1.2Swift Survivor": 2,
+        "2.2.1.1.3Storm Chaser": 2,
+        "2.2.1.1.4Steady Breathing": 2,
+        "2.2.1.1.5Carbo Loaded": 2,
+        "2.2.1.1.6Water Retention": 2,
+        "2.2.1.1.7Weathering The Storm": 2,
+        "2.2.1.1.8Plyometrics": 2,
+        "2.2.1.1.9Amphibian": 2,
+        "2.2.1.2APPRENTICE RANK": 2,
+        "2.2.1.2.1Field Medic": 2,
+        "2.2.1.2.2Pack Lightly": 2,
+        "2.2.1.2.3Calming Presence": 2,
+        "2.2.1.2.4Go With The Flow": 2,
+        "2.2.1.2.5Quick Refresh": 2,
+        "2.2.1.2.6Three Point Landing": 2,
+        "2.2.1.3JOURNEYMAN RANK": 2,
+        "2.2.1.3.1Night Owl": 2,
+        "2.2.1.3.2And Some For Me": 2,
+        "2.2.1.3.3Cutting It Close": 2,
+        "2.2.1.3.4Like It With The Lights Off": 2,
+        "2.2.1.3.5Cushioned Fall": 2,
+        "2.2.1.3.6Strong Bones": 2,
+        "2.2.1.4MASTER RANK": 2,
+        "2.2.1.4.1Forest Master": 2,
+        "2.2.1.4.2Arctic Master": 2,
+        "2.2.1.4.3Desert Master": 2,
+        "2.2.1.4.4Makes The Dream Work": 2,
+        "2.2.2HUSBANDRY": 2,
+        "2.2.2.1NOVICE RANK": 2,
+        "2.2.2.1.1Well Cared For": 2,
+        "2.2.2.1.2Grazing For The Herd": 2,
+        "2.2.2.1.3Back In The Saddle": 2,
+        "2.2.2.1.4Efficient Feeding": 2,
+        "2.2.2.1.5Energetic Encouragement": 2,
+        "2.2.2.2APPRENTICE RANK": 2,
+        "2.2.2.2.1Rapid Adoption": 2,
+        "2.2.2.2.2Adaptive Training": 2,
+        "2.2.2.2.3Relaxed Rider": 2,
+        "2.2.2.2.4Hardy Diet": 2,
+        "2.2.2.3JOURNEYMAN RANK": 2,
+        "2.2.2.3.1Act Natural": 2,
+        "2.2.2.3.2Kill Commmand": 2,
+        "2.2.2.3.3Long Haul": 2,
+        "2.2.2.3.4Nurturing Presence": 2,
+        "2.2.2.3.5Beasts Endurance": 2,
+        "2.2.2.3.6Arctic Training": 2,
+        "2.2.2.3.7Desert Training": 2,
+        "2.2.2.4MASTER RANK": 2,
+        "2.2.2.4.1In Your Element": 2,
+        "2.2.2.4.2(Still) One With Nature": 2,
+        "2.2.2.4.3Like The Wind": 2,
+        "2.2.3FISHING": 2,
+        "2.2.3.1NOVICE RANK": 2,
+        "2.2.3.1.1Angler's Technique": 2,
+        "2.2.3.1.2Natural Angler": 2,
+        "2.2.3.1.3Calmer Waters": 2,
+        "2.2.3.1.4Efficient Fisher": 2,
+        "2.2.3.1.5Hefty Catch": 2,
+        "2.2.3.1.6That's A Big One": 2,
+        "2.2.3.2APPRENTICE RANK": 2,
+        "2.2.3.2.1Fisher's Haul": 2,
+        "2.2.3.2.2Steady Breathing (Fishing)": 2,
+        "2.2.3.2.3One With The Water": 2,
+        "2.2.3.2.4Pescatarian": 2,
+        "2.2.3.3JOURNEYMAN RANK": 2,
+        "2.2.3.3.1Fish Fu": 2,
+        "2.2.3.3.2Saltiest Catch": 2,
+        "2.2.3.3.3Freshest Catch": 2,
+        "2.2.3.3.4Deadliest Catch": 2,
+        "2.2.3.3.5The Golden Zone": 2,
+        "2.2.3.4MASTER RANK": 2,
+        "2.2.3.4.1Nice Day For Fishing Ain't It?": 2,
+        "2.2.3.4.2Big Game Fisher": 2,
+        "2.2.3.4.3Medium Game Fisher": 2,
+        "2.3HABITATION": 2,
+        "2.3.1REPAIRING": 2,
+        "2.3.1.1NOVICE RANK": 2,
+        "2.3.1.1.1Ready To Work": 2,
+        "2.3.1.1.2Hammer Time I": 2,
+        "2.3.1.1.3First Responder": 2,
+        "2.3.1.1.4Speedy Whacks": 2,
+        "2.3.1.1.5Boneshatter": 2,
+        "2.3.1.1.6Hardy Whacker": 2,
+        "2.3.1.2APPRENTICE RANK": 2,
+        "2.3.1.2.1Hardy Hammer": 2,
+        "2.3.1.2.2Whacker Endurance": 2,
+        "2.3.1.3JOURNEYMAN RANK": 2,
+        "2.3.1.3.1Better Than New": 2,
+        "2.3.1.3.2With One Swing": 2,
+        "2.3.1.3.3Lingering Extinguishing": 2,
+        "2.3.1.3.4Hammer Time II": 2,
+        "2.3.1.4MASTER RANK": 2,
+        "2.3.1.4.1Hard To Reach": 2,
+        "2.3.2TOOLS": 2,
+        "2.3.2.1NOVICE RANK": 2,
+        "2.3.2.1.1Careful Hits": 2,
+        "2.3.2.1.2Picksmith I": 2,
+        "2.3.2.1.3Discount Axes I": 2,
+        "2.3.2.1.4Hardy Axe Heads I": 2,
+        "2.3.2.1.5Miner Damage": 2,
+        "2.3.2.1.6Speedy Mining": 2,
+        "2.3.2.1.7Speed Chopper": 2,
+        "2.3.2.2APPRENTICE RANK": 2,
+        "2.3.2.2.1Big Pick": 2,
+        "2.3.2.2.2Miner Endurance I": 2,
+        "2.3.2.2.3Lumberjack Endurance": 2,
+        "2.3.2.2.4Extra Sharp": 2,
+        "2.3.2.2.5Think Of All The Fiber": 2,
+        "2.3.2.2.6Picksmith II": 2,
+        "2.3.2.2.7Discount Axes II": 2,
+        "2.3.2.2.8Berserker": 2,
+        "2.3.2.3JOURNEYMAN RANK": 2,
+        "2.3.2.3.1Controlled Rage": 2,
+        "2.3.2.3.2Strong Pick": 2,
+        "2.3.2.3.3Careful Hits II": 2,
+        "2.3.2.3.4Miner Endurance II": 2,
+        "2.3.2.3.5Hard Axe": 2,
+        "2.3.2.3.6Hardy Axe Heads II": 2,
+        "2.3.2.4MASTER RANK": 2,
+        "2.3.2.4.1Good As New": 2,
+        "2.3.3BUILDING": 2,
+        "2.3.3.1NOVICE RANK": 2,
+        "2.3.3.1.1Discount Thatch": 2,
+        "2.3.3.1.2Discount Wood": 2,
+        "2.3.3.1.3Wood Hauling I": 2,
+        "2.3.3.1.4Discount Stone": 2,
+        "2.3.3.1.5Stone Hauling I": 2,
+        "2.3.3.1.6Discount Concrete": 2,
+        "2.3.3.1.7Concrete Hauling I": 2,
+        "2.3.3.1.8Discount Glass": 2,
+        "2.3.3.1.9Extra Space I": 2,
+        "2.3.3.1.10Stoking The Flames": 2,
+        "2.3.3.2APPRENTICE RANK": 2,
+        "2.3.3.2.1Fortified Wood": 2,
+        "2.3.3.2.2Wood Hauling II": 2,
+        "2.3.3.2.3Stone Hauling II": 2,
+        "2.3.3.2.4Concrete Hauling II": 2,
+        "2.3.3.2.5Discount Rod": 2,
+        "2.3.3.2.6Deployable Engineering": 2,
+        "2.3.3.3JOURNEYMAN RANK": 2,
+        "2.3.3.3.1Weatherproof Cladding": 2,
+        "2.3.3.3.2Fortified Rod": 2,
+        "2.3.3.3.3Extra Space II": 2,
+        "2.3.3.3.4Enhanced Defences": 2,
+        "2.3.3.4MASTER RANK": 2,
+        "2.3.3.4.1Fireproofing Sealant": 2,
+        "2.4COMBAT": 2,
+        "2.4.1BOWS/CROSSBOWS": 2,
+        "2.4.1.1NOVICE RANK": 2,
+        "2.4.1.1.1Bow Agility": 2,
+        "2.4.1.1.2More For Less I": 2,
+        "2.4.1.1.3Easy Draw": 2,
+        "2.4.1.1.4Quick Load": 2,
+        "2.4.1.1.5Increased Arrow Damage I": 2,
+        "2.4.1.1.6Bow Quick Draw": 2,
+        "2.4.1.1.7Swift Flight": 2,
+        "2.4.1.2APPRENTICE RANK": 2,
+        "2.4.1.2.1Increased Arrow Damage II": 2,
+        "2.4.1.2.2Trained Bowsmith": 2,
+        "2.4.1.2.3Trained Bowman": 2,
+        "2.4.1.2.4Bullseye": 2,
+        "2.4.1.3JOURNEYMAN RANK": 2,
+        "2.4.1.3.1Crafty Fletcher": 2,
+        "2.4.1.3.2More For Less II": 2,
+        "2.4.1.3.3Soft Spot I": 2,
+        "2.4.1.3.4Twice The Fun": 2,
+        "2.4.1.3.5Soft Spot II": 2,
+        "2.4.1.4MASTER RANK": 2,
+        "2.4.1.4.1Hindering Shot": 2,
+        "2.4.1.4.2Supply and Demand": 2,
+        "2.4.1.4.3Wounding Shot": 2,
+        "2.4.1.4.4Homing Instinct": 2,
+        "2.4.1.4.5Pinning Shot": 2,
+        "2.4.2SPEARS": 2,
+        "2.4.2.1NOVICE RANK": 2,
+        "2.4.2.1.1Strong Thrust I": 2,
+        "2.4.2.1.2Efficient Crafter I": 2,
+        "2.4.2.1.3Seasoned Spearman": 2,
+        "2.4.2.1.4Spear Quick Draw": 2,
+        "2.4.2.1.5Quick Thrust": 2,
+        "2.4.2.1.6From Afar I": 2,
+        "2.4.2.2APPRENTICE RANK": 2,
+        "2.4.2.2.1Strong Thrust II": 2,
+        "2.4.2.2.2Deadly Thrust I": 2,
+        "2.4.2.2.3From Afar II": 2,
+        "2.4.2.2.4Deadly Thrust II": 2,
+        "2.4.2.2.5Quick Step": 2,
+        "2.4.2.3JOURNEYMAN RANK": 2,
+        "2.4.2.3.1Could Go All Day": 2,
+        "2.4.2.3.2Efficient Crafter II": 2,
+        "2.4.2.3.3Excellent Crafter I": 2,
+        "2.4.2.3.4There It Is": 2,
+        "2.4.2.3.5Long Reach I": 2,
+        "2.4.2.4MASTER RANK": 2,
+        "2.4.2.4.1Spear Parry": 2,
+        "2.4.2.4.2Excellent Crafter II": 2,
+        "2.4.2.4.3Deep Wounds": 2,
+        "2.4.2.4.4Long Reach II": 2,
+        "2.4.3BLADES": 2,
+        "2.4.3.1NOVICE RANK": 2,
+        "2.4.3.1.1Deft Hands": 2,
+        "2.4.3.1.2Running With Knives": 2,
+        "2.4.3.1.3Swift Stab": 2,
+        "2.4.3.1.41000 Cuts": 2,
+        "2.4.3.1.5Reinforced Blades": 2,
+        "2.4.3.1.6Hardy Blade": 2,
+        "2.4.3.1.7Heavy Hand": 2,
+        "2.4.3.2APPRENTICE RANK": 2,
+        "2.4.3.2.1Where'd That Go?": 2,
+        "2.4.3.2.2Discount Blades I": 2,
+        "2.4.3.2.3Range Damage I": 2,
+        "2.4.3.2.4Trained Skinner": 2,
+        "2.4.3.2.5Deadly Stab": 2,
+        "2.4.3.2.6Range Damage II": 2,
+        "2.4.3.3JOURNEYMAN RANK": 2,
+        "2.4.3.3.1If It Works": 2,
+        "2.4.3.3.2Strong Arm I": 2,
+        "2.4.3.3.3Discount Blades II": 2,
+        "2.4.3.3.4That Was Quick": 2,
+        "2.4.3.3.5Strong Arm II": 2,
+        "2.4.3.3.6Silent Blade": 2,
+        "2.4.3.4MASTER RANK": 2,
+        "2.4.3.4.1Killer Throw": 2,
+        "2.4.3.4.2Stay Right There": 2,
+        "2.4.4FIREARMS": 2,
+        "2.4.4.1NOVICE RANK": 2,
+        "2.4.4.1.1Pistol Proficiency": 2,
+        "2.4.4.1.2Shotgun Slash": 2,
+        "2.4.4.1.3Rifle Reduction": 2,
+        "2.4.4.1.4Featherweight": 2,
+        "2.4.4.1.5Pistol Handling": 2,
+        "2.4.4.1.6Shotgun Handling": 2,
+        "2.4.4.1.7Rifle Re-Up": 2,
+        "2.4.4.1.8Gun Runner": 2,
+        "2.4.4.2APPRENTICE RANK": 2,
+        "2.4.4.2.1Pistol Powerup": 2,
+        "2.4.4.2.2Shotgun Sovereign": 2,
+        "2.4.4.2.3Rifle Redress": 2,
+        "2.4.4.2.4Freebies": 2,
+        "2.4.4.3JOURNEYMAN RANK": 2,
+        "2.4.4.3.1Gunsmith": 2,
+        "2.4.4.3.2Focus Fire": 2,
+        "2.4.4.4MASTER RANK": 2,
+        "2.4.4.4.1Sharpshooter": 2,
+        "2.4.4.4.2How Many Shots Did You Count?": 2,
+        "2.4.4.4.3New Life": 2,
+        "2.5SOLO": 2,
+        "2.5.1NOVICE RANK": 2,
+        "2.5.1.1Marathon Runner": 2,
+        "2.5.1.2Fleet Footed": 2,
+        "2.5.1.3Healthy Maverick": 2,
+        "2.5.1.4Heavy Hitter": 2,
+        "2.5.1.5Lightning Recovery": 2,
+        "2.5.1.6'Tis But A Scratch": 2,
+        "2.5.1.7Steel Ankles": 2,
+        "2.5.1.8Bounce Back": 2,
+        "2.5.2APPRENTICE RANK": 2,
+        "2.5.2.1Precision Logging": 2,
+        "2.5.2.2Low Maintenance": 2,
+        "2.5.2.3Very, Very Quiet": 2,
+        "2.5.2.4Sweet, Savoury, Satisfied": 2,
+        "2.5.2.5Honed Heads": 2,
+        "2.5.2.6Slice and Dice": 2,
+        "2.5.2.7Miner Rewards": 2,
+        "2.5.2.8The Big Three": 2,
+        "2.5.2.9Pack Horse": 2,
+        "2.5.2.10Bring A Gun To A Gun Fight": 2,
+        "2.5.2.11Stick Of Destiny": 2,
+        "2.5.2.12Efficient Home Maintenance": 2,
+        "2.5.3JOURNEYMAN RANK": 2,
+        "2.5.3.1Savage Hunter I": 2,
+        "2.5.3.2More Than A Handful": 2,
+        "2.5.3.3Mobile Stockpile": 2,
+        "2.5.3.4Gotta Damage Fast": 2,
+        "2.5.3.5Health Monitor": 2,
+        "2.5.4MASTER RANK": 2,
+        "2.5.4.1Savage Hunter II": 2,
+        "2.5.4.2Lone Wolf": 2,
+        "2.5.4.3Basic Move": 2,
+        "3Gallery": 3,
+        "4Useful Links": 4
       },
       "crafted_at": "Unknown",
       "tier": 0,
@@ -3124,362 +3728,378 @@
       "purchase_cost": 150,
       "base_recipe": {
         "ingredients": {
-          "Lumber Yield": 5,
-          "(+%)(+%)(+%)": 5,
-          "Skilled Picker": 5,
-          "(+%)(+%)(+%)(+%)": 5,
-          "Rock Star": 10,
-          "Dense Packing I": 5,
-          "Carry On": 3,
-          "(-%)(-%)(-%)(-%)": 5,
-          "All The Good Stuff": 10,
-          "(%)(%)(%)": 5,
-          "Oxygen Thief": 10,
-          "Waste Not": 5,
-          "Exotic Power": 5,
-          "Movin' Wood": 5,
-          "Slinging Stone": 5,
-          "Dense Packing II": 5,
-          "Unburdened": 5,
-          "Iron Miner": 10,
-          "Exotic Sprinter": 5,
-          "Friend Of The Trees": 50,
-          "Reduced damage from falling trees(+% Falling Tree Resistance)": 50,
-          "Peerless Lumberjack": 1,
-          "Chance to instantly chop up a tree(+% chance to Instantly Fell Trees)": 1,
-          "Lucky Strike": 1,
-          "Chance to mine a deposit in one hit(+% chance to instantly Break Mineral or Ore Deposits while Mining)": 1,
-          "Fine Butcher I": 25,
-          "+% meat yield when skinning": 25,
-          "Chase 'Em Down": 10,
-          "(+)(+)(+)": 5,
-          "Swift Stalker": 3,
-          "Bone Collector": 15,
-          "+% bone yield when skinning": 15,
-          "Strong Shoulders": 5,
-          "+% movement speed while Carrying an Animal": 5,
-          "Quick Getaway": 5,
-          "Trigger  seconds of increased Stamina Regeneration when Damaged": 5,
-          "Without A Sound": 5,
-          "(-%)(-%)(-%)": 10,
-          "Trained Hunter": 10,
-          "Careful Skinner": 10,
-          "(+%)(+%)": 8,
-          "Quick Clean Up": 15,
-          "Fine Butcher II": 10,
-          "Bone Collector II": 8,
-          "Chase 'Em Down II": 10,
-          "Brittle Bones": 20,
-          "+% chance to instantly gather bones when destroying skeletons": 20,
-          "Naturally Preserved": 15,
-          "Filling Meals": 10,
-          "(+)(+%)": 10,
-          "Green Thumb": 10,
-          "Well Laid Fire": 25,
-          "(-%)(-%)": 15,
-          "All-Nighter": 15,
-          "Long Lasting Effects": 10,
-          "Neat and Tidy": 50,
-          "Planted crops will gain the 'Fertilized' modifier, increasing the fertilizer duration by %": 50,
-          "Carnivore": 15,
-          "Get Up and Go": 2,
-          "Vegetarian": 15,
-          "The Old One-Two": 2,
-          "Gathering Guru": 2,
-          "Superfoods": 20,
-          "Speed-Gro": 10,
-          "Bumper Crop": 15,
-          "It's Better Than I Thought": 10,
-          "Sturdy Stalks": 20,
-          "Food Pyramid": 1,
-          "Gives an extra food buff slot - Adds  space in stomach": 1,
-          "Robust Explorer": 10,
-          "Swift Survivor": 3,
-          "Storm Chaser": 10,
-          "Steady Breathing": 10,
-          "Carbo Loaded": 10,
-          "Water Retention": 10,
-          "Weathering The Storm": 5,
-          "Plyometrics": 10,
-          "Amphibian": 10,
-          "-% Oxygen Consumpted while Swimming)": 10,
-          "Field Medic": 25,
-          "Pack Lightly": 2,
-          "Calming Presence": 20,
-          "Reduces oxygen consumption for allies within m": 20,
-          "Go With The Flow": 10,
-          "Quick Refresh": 5,
-          "Three Point Landing": 5,
-          "Night Owl": 3,
-          "Cutting It Close": 10,
-          "(+%) Increased movement speed during the last  minutes of a Mission": 10,
-          "Like It With The Lights Off": 15,
-          "(-%) Food, Oxygen, and Water consumption at Night": 15,
-          "Cushioned Fall": 25,
-          "(%)(%)": 5,
-          "Strong Bones": 15,
-          "Forest Master": 5,
-          "+% movement speed and +% health regeneration inForestBiomes": 5,
-          "Arctic Master": 5,
-          "+% movement speed and +% cold resistance inArcticBiomes": 5,
-          "Desert Master": 5,
-          "+% Movement speed and -% water consumption inDesertbiomes": 5,
-          "Makes The Dream Work": 15,
-          "+% Shared Experience Gained": 15,
-          "Well Cared For": 20,
-          "Grazing For The Herd": 2,
-          "Back In The Saddle": 20,
-          "Efficient Feeding": 15,
-          "Energetic Encouragement": 5,
-          "(+%) Tamed Creature Stamina Regeneration(-%) Juvenile Creature Sleep Requirement(+%) Tamed Creature Stamina Regeneration(-%) Juvenile Creature Sleep Requirement": 5,
-          "Rapid Adoption": 10,
-          "(+%) Stealth Damage": 10,
-          "Adaptive Training": 5,
-          "(-%) Juvenile Creature Minimum Temperature Requirement(+%) Juvenile Creature Maximum Temperature Requirement(-%) Juvenile Creature Minimum Temperature Requirement(+%) Juvenile Creature Maximum Temperature Requirement": 5,
-          "Relaxed Rider": 15,
-          "Hardy Diet": 10,
-          "(+%) Tamed Creature Maximum Health(+%) Tamed Creature Health Regeneration(+%) Tamed Creature Maximum Health(+%) Tamed Creature Health Regeneration(+%) Tamed Creature Maximum Health(+%) Tamed Creature Health Regeneration": 10,
-          "Act Natural": 10,
-          "Kill Commmand": 5,
-          "Long Haul": 2,
-          "Beasts Endurance": 5,
-          "Arctic Training": 10,
-          "Faster taming in colder environments(-%) Juvenile Creature Minimum Temperature Requirement": 10,
-          "Desert Training": 10,
-          "Faster taming in hotter environments(+%) Juvenile Creature Maximum Temperature Requirement": 10,
-          "In Your Element": 5,
-          "Like The Wind": 5,
-          "(+%) Tamed Creature Movement": 5,
-          "Angler's Technique": 20,
-          "Natural Angler": 10,
-          "Calmer Waters": 15,
-          "Efficient Fisher": 10,
-          "Hefty Catch": 10,
-          "+% Weight of caught fish": 10,
-          "That's A Big One": 10,
-          "+% Length of caught fish": 10,
-          "Fisher's Haul": 25,
-          "-% Carry weight of fish": 25,
-          "Steady Breathing (Fishing)": 10,
-          "One With The Water": 10,
-          "Pescatarian": 15,
-          "Fish Fu": 25,
-          "+ Physical resistance while fishing": 25,
-          "Saltiest Catch": 5,
-          "+% Increased quality of caught saltwater fish": 5,
-          "Freshest Catch": 5,
-          "+% Increased quality of caught freshwater fish": 5,
-          "Deadliest Catch": 10,
-          "+% Increased quality of fish caught during storms": 10,
-          "The Golden Zone": 5,
-          "Nice Day For Fishing Ain't It?": 5,
-          "Big Game Fisher": 10,
-          "+% chance to catch Rare Fish+% chance to catch Unique Fish-% chance to catch Common Fish+% chance to catch Rare Fish+% chance to catch Unique Fish-% chance to catch Common Fish": 10,
-          "Medium Game Fisher": 10,
-          "+% chance to catch Uncommon Fish-% chance to catch Common Fish+% chance to catch Uncommon Fish-% chance to catch Common Fish": 10,
-          "Ready To Work": 5,
-          "Hammer Time I": 15,
-          "First Responder": 10,
-          "(+%) Increased Movement Speed with a Fire Whacker equipped": 10,
-          "Speedy Whacks": 10,
-          "Boneshatter": 10,
-          "Hardy Whacker": 10,
-          "Hardy Hammer": 25,
-          "Whacker Endurance": 15,
-          "Better Than New": 10,
-          "Repaired Building Pieces have Increased Wind Damage Resistance for  seconds": 10,
-          "With One Swing": 25,
-          "+% Chance to Repair a Building Piece Instantly": 25,
-          "Lingering Extinguishing": 10,
-          "Extinguished Building Pieces have Reduced Burn Chance for  seconds": 10,
-          "Hammer Time II": 10,
-          "Careful Hits": 5,
-          "Picksmith I": 25,
-          "-% Resource Cost of Crafted Pickaxes": 25,
-          "Discount Axes I": 25,
-          "-% Resource Cost of Crafted Axes": 25,
-          "Hardy Axe Heads I": 5,
-          "Miner Damage": 20,
-          "Speedy Mining": 5,
-          "Speed Chopper": 5,
-          "Big Pick": 10,
-          "Miner Endurance I": 5,
-          "Lumberjack Endurance": 5,
-          "Extra Sharp": 5,
-          "Think Of All The Fiber": 25,
-          "Picksmith II": 25,
-          "Discount Axes II": 25,
-          "Berserker": 150,
-          "+% Axe Melee Damage+% Attack Speed with Axes+% Stamina Consumed by Axe Actions+% Wear Rate of Axes": 150,
-          "Controlled Rage": 50,
-          "-% Wear Rate of Axes-% Stamina Consumed by Axe Actions+% Yield from Felling Trees": 50,
-          "Strong Pick": 10,
-          "Careful Hits II": 5,
-          "Miner Endurance II": 5,
-          "Hard Axe": 10,
-          "Hardy Axe Heads II": 5,
-          "Good As New": 25,
-          "% Chance for Pickaxes to Recover Durability Instead of Breaking": 25,
-          "Discount Thatch": 10,
-          "Discount Wood": 10,
-          "Wood Hauling I": 10,
-          "Discount Stone": 10,
-          "Stone Hauling I": 10,
-          "Discount Concrete": 10,
-          "Concrete Hauling I": 10,
-          "Discount Glass": 10,
-          "Extra Space I": 3,
-          "(+)(+)": 50,
-          "Stoking The Flames": 10,
-          "Fortified Wood": 10,
-          "Wood Hauling II": 3,
-          "Stone Hauling II": 5,
-          "Concrete Hauling II": 10,
-          "Discount Rod": 50,
-          "-% Resource Cost of Crafted Lightning Rods": 50,
-          "Deployable Engineering": 25,
-          "+% crafted speed of deployable items": 25,
-          "Weatherproof Cladding": 25,
-          "Crafted Wood buildables gain the Sturdy alteration, increasing Wind Resistance by +%": 25,
-          "Fortified Rod": 100,
-          "Extra Space II": 3,
-          "Enhanced Defences": 25,
-          "Crafted Hedgehogs gain the Spikey alteration, increasing damage by +%": 25,
-          "Fireproofing Sealant": 25,
-          "Crafted Wood buildables gain the Inflammable alteration - -% chance to set Fire": 25,
-          "Bow Agility": 5,
-          "More For Less I": 25,
-          "-% Resource cost of Crafted Bows/Crossbows": 25,
-          "Easy Draw": 5,
-          "Quick Load": 5,
-          "Increased Arrow Damage I": 2,
-          "Bow Quick Draw": 5,
-          "Swift Flight": 3,
-          "Increased Arrow Damage II": 2,
-          "Trained Bowsmith": 15,
-          "Crafted bows gain the Durable alteration, increasing maximum durability by %": 15,
-          "Trained Bowman": 10,
-          "Bullseye": 15,
-          "Crafty Fletcher": 10,
-          "% Chance to craft an additional arrows/bolts": 10,
-          "More For Less II": 25,
-          "Soft Spot I": 5,
-          "Twice The Fun": 5,
-          "Soft Spot II": 10,
-          "Hindering Shot": 5,
-          "Supply and Demand": 2,
-          "Wounding Shot": 5,
-          "Pinning Shot": 5,
-          "% Chance to Immobilize on hit with Bows/Crossbows": 5,
-          "Strong Thrust I": 3,
-          "Efficient Crafter I": 20,
-          "-% Resource Cost of Crafted Spears": 20,
-          "Seasoned Spearman": 5,
-          "Spear Quick Draw": 5,
-          "Quick Thrust": 10,
-          "From Afar I": 5,
-          "Strong Thrust II": 5,
-          "Deadly Thrust I": 5,
-          "From Afar II": 10,
-          "Deadly Thrust II": 15,
-          "Quick Step": 5,
-          "Could Go All Day": 10,
-          "Efficient Crafter II": 20,
-          "Excellent Crafter I": 25,
-          "+% Maximum durability of Crafted Spears": 25,
-          "Long Reach I": 5,
-          "Spear Parry": 15,
-          "Excellent Crafter II": 25,
-          "Deep Wounds": 5,
-          "Long Reach II": 10,
-          "Deft Hands": 10,
-          "Running With Knives": 2,
-          "Swift Stab": 5,
-          "Cuts": 1000,
-          "Reinforced Blades": 25,
-          "+% Maximum durability of Crafted Knives": 25,
-          "Hardy Blade": 10,
-          "Heavy Hand": 5,
-          "Thrown knives are highlighted": 1000,
-          "Discount Blades I": 25,
-          "-% Resource Cost of Crafted Knives": 25,
-          "Range Damage I": 5,
-          "Increased Damage with Throwing Knives": 1000,
-          "Trained Skinner": 5,
-          "Deadly Stab": 10,
-          "Range Damage II": 10,
-          "If It Works": 20,
-          "+ Felling damage with Crafted Knives": 20,
-          "Strong Arm I": 5,
-          "Discount Blades II": 25,
-          "That Was Quick": 5,
-          "Strong Arm II": 15,
-          "Silent Blade": 4,
-          "Killer Throw": 5,
-          "% Chance to kill non-boss targets with a throwing knife": 5,
-          "Stay Right There": 100,
-          "% Chance for Thrown Knife Critical Hits to Immobilize Targets": 100,
-          "Pistol Proficiency": 25,
-          "Unlocks recipe for cheaper bulk Pistol ammo crafting - -% Crafted Pistol Ammo Resource Cost": 25,
-          "Shotgun Slash": 25,
-          "Unlocks recipe for cheaper bulk Shotgun ammo crafting - -% Crafted Shotgun Ammo Resource Cost": 25,
-          "Rifle Reduction": 25,
-          "Unlocks recipe for cheaper bulk Rifle ammo crafting - -% Crafted Rifle Ammo Resource Cost": 25,
-          "Featherweight": 25,
-          "-% Carry weight of firearms": 25,
-          "Pistol Handling": 10,
-          "Shotgun Handling": 10,
-          "Rifle Re-Up": 10,
-          "Gun Runner": 5,
-          "Pistol Powerup": 3,
-          "Shotgun Sovereign": 3,
-          "Rifle Redress": 3,
-          "Freebies": 5,
-          "% Chance to craft additional ammo": 5,
-          "Gunsmith": 10,
-          "Focus Fire": 10,
-          "Sharpshooter": 5,
-          "How Many Shots Did You Count?": 5,
-          "New Life": 30,
-          "% Chance for Firearms to Recover Durability Instead of Breaking": 30,
-          "Marathon Runner": 20,
-          "Fleet Footed": 5,
-          "Healthy Maverick": 50,
-          "Heavy Hitter": 5,
-          "Lightning Recovery": 10,
-          "'Tis But A Scratch": 5,
-          "Steel Ankles": 5,
-          "Bounce Back": 10,
-          "Precision Logging": 5,
-          "Low Maintenance": 10,
-          "Very, Very Quiet": 15,
-          "-% Perceived threat while stealthed": 15,
-          "Sweet, Savoury, Satisfied": 10,
-          "+% Food Effects Duration": 10,
-          "Honed Heads": 5,
-          "+% Damage with Bows/Crossbows+% Damage with Bows/Crossbows+% Reload Speed of Bows/Crossbows": 5,
-          "Slice and Dice": 5,
-          "+% Damage with Knives+% Damage with Knives+% Damage with Thrown Knives": 5,
-          "Miner Rewards": 5,
-          "The Big Three": 15,
-          "+% Yield from felling trees, mining and harvesting": 15,
-          "Pack Horse": 25,
-          "+% Weight capacity": 25,
-          "Bring A Gun To A Gun Fight": 5,
-          "+% Damage with Firearms+% Damage with Firearms+% Reload Speed with Firearms": 5,
-          "Stick Of Destiny": 5,
-          "+% Damage with Spears+% Damage with Spears+% Damage with Thrown Spears": 5,
-          "Efficient Home Maintenance": 5,
-          "+% Stamina Regeneration with a Fire Whacker Equipped-% Repair Tool Action Hold Time": 5,
-          "Savage Hunter I": 25,
-          "More Than A Handful": 5,
-          "Mobile Stockpile": 20,
-          "-% Carry Weight of Wood, Stone and Ores": 20,
-          "Gotta Damage Fast": 25,
-          "+% Damage of Crafted Hedgehogs": 25,
-          "Savage Hunter II": 25,
-          "Lone Wolf": 8,
-          "Basic Move": 15
+          "1Overview": 1,
+          "1.1Talent Ranking System": 1,
+          "1.2Talent Point Restrictions": 1,
+          "1.3Talent Tree Dependencies": 1,
+          "1.4Talent Tree Respeccing": 1,
+          "2Talent Trees": 2,
+          "2.1SURVIVAL": 2,
+          "2.1.1RESOURCES": 2,
+          "2.1.1.1NOVICE RANK": 2,
+          "2.1.1.1.1Lumber Yield": 2,
+          "2.1.1.1.2Skilled Picker": 2,
+          "2.1.1.1.3Rock Star": 2,
+          "2.1.1.1.4Dense Packing I": 2,
+          "2.1.1.1.5Carry On": 2,
+          "2.1.1.2APPRENTICE RANK": 2,
+          "2.1.1.2.1Wood Breakdown": 2,
+          "2.1.1.2.2All The Good Stuff": 2,
+          "2.1.1.2.3Oxygen Thief": 2,
+          "2.1.1.2.4Waste Not": 2,
+          "2.1.1.2.5Exotic Power": 2,
+          "2.1.1.2.6Movin' Wood": 2,
+          "2.1.1.3JOURNEYMAN RANK": 2,
+          "2.1.1.3.1Slinging Stone": 2,
+          "2.1.1.3.2Dense Packing II": 2,
+          "2.1.1.3.3Unburdened": 2,
+          "2.1.1.3.4Iron Miner": 2,
+          "2.1.1.3.5Exotic Sprinter": 2,
+          "2.1.1.4MASTER RANK": 2,
+          "2.1.1.4.1Seasoned Logsman": 2,
+          "2.1.1.4.2Friend Of The Trees": 2,
+          "2.1.1.4.3Peerless Lumberjack": 2,
+          "2.1.1.4.4Lucky Strike": 2,
+          "2.1.2HUNTING": 2,
+          "2.1.2.1NOVICE RANK": 2,
+          "2.1.2.1.1Fine Butcher I": 2,
+          "2.1.2.1.2Chase 'Em Down": 2,
+          "2.1.2.1.3Swift Stalker": 2,
+          "2.1.2.1.4Bone Collector": 2,
+          "2.1.2.1.5Strong Shoulders": 2,
+          "2.1.2.1.6Leather Breakdown": 2,
+          "2.1.2.1.7Quick Getaway": 2,
+          "2.1.2.2APPRENTICE RANK": 2,
+          "2.1.2.2.1Health Bars": 2,
+          "2.1.2.2.2Without A Sound": 2,
+          "2.1.2.2.3Sense Small Animals": 2,
+          "2.1.2.2.4Trained Hunter": 2,
+          "2.1.2.2.5Careful Skinner": 2,
+          "2.1.2.3JOURNEYMAN RANK": 2,
+          "2.1.2.3.1Ghillie Armor": 2,
+          "2.1.2.3.2Sense Medium Animals": 2,
+          "2.1.2.3.3Quick Clean Up": 2,
+          "2.1.2.3.4Fine Butcher II": 2,
+          "2.1.2.3.5Bone Collector II": 2,
+          "2.1.2.3.6Chase 'Em Down II": 2,
+          "2.1.2.4MASTER RANK": 2,
+          "2.1.2.4.1Sense Megafauna": 2,
+          "2.1.2.4.2Brittle Bones": 2,
+          "2.1.2.4.3Big Game Hunter": 2,
+          "2.1.2.4.4Cold Hearted": 2,
+          "2.1.2.4.5Arctic Armor": 2,
+          "2.1.3COOKING/FARMING": 2,
+          "2.1.3.1NOVICE RANK": 2,
+          "2.1.3.1.1Naturally Preserved": 2,
+          "2.1.3.1.2Filling Meals": 2,
+          "2.1.3.1.3Green Thumb": 2,
+          "2.1.3.1.4Well Laid Fire": 2,
+          "2.1.3.1.5All-Nighter": 2,
+          "2.1.3.1.6Long Lasting Effects": 2,
+          "2.1.3.1.7Neat and Tidy": 2,
+          "2.1.3.1.8Carnivore": 2,
+          "2.1.3.1.9Get Up and Go": 2,
+          "2.1.3.1.10Shoot The Breeze": 2,
+          "2.1.3.1.11Vegetarian": 2,
+          "2.1.3.1.12The Old One-Two": 2,
+          "2.1.3.2APPRENTICE RANK": 2,
+          "2.1.3.2.1Gathering Guru": 2,
+          "2.1.3.3JOURNEYMAN RANK": 2,
+          "2.1.3.3.1Superfoods": 2,
+          "2.1.3.3.2Speed-Gro": 2,
+          "2.1.3.3.3You Gonna Eat That?": 2,
+          "2.1.3.3.4Bumper Crop": 2,
+          "2.1.3.3.5It's Better Than I Thought": 2,
+          "2.1.3.3.6Fresh Is Best": 2,
+          "2.1.3.3.7Sturdy Stalks": 2,
+          "2.1.3.4MASTER RANK": 2,
+          "2.1.3.4.1Food Pyramid": 2,
+          "2.1.3.4.2Get Off My Lawn": 2,
+          "2.2ADVENTURE": 2,
+          "2.2.1EXPLORATION": 2,
+          "2.2.1.1NOVICE RANK": 2,
+          "2.2.1.1.1Robust Explorer": 2,
+          "2.2.1.1.2Swift Survivor": 2,
+          "2.2.1.1.3Storm Chaser": 2,
+          "2.2.1.1.4Steady Breathing": 2,
+          "2.2.1.1.5Carbo Loaded": 2,
+          "2.2.1.1.6Water Retention": 2,
+          "2.2.1.1.7Weathering The Storm": 2,
+          "2.2.1.1.8Plyometrics": 2,
+          "2.2.1.1.9Amphibian": 2,
+          "2.2.1.2APPRENTICE RANK": 2,
+          "2.2.1.2.1Field Medic": 2,
+          "2.2.1.2.2Pack Lightly": 2,
+          "2.2.1.2.3Calming Presence": 2,
+          "2.2.1.2.4Go With The Flow": 2,
+          "2.2.1.2.5Quick Refresh": 2,
+          "2.2.1.2.6Three Point Landing": 2,
+          "2.2.1.3JOURNEYMAN RANK": 2,
+          "2.2.1.3.1Night Owl": 2,
+          "2.2.1.3.2And Some For Me": 2,
+          "2.2.1.3.3Cutting It Close": 2,
+          "2.2.1.3.4Like It With The Lights Off": 2,
+          "2.2.1.3.5Cushioned Fall": 2,
+          "2.2.1.3.6Strong Bones": 2,
+          "2.2.1.4MASTER RANK": 2,
+          "2.2.1.4.1Forest Master": 2,
+          "2.2.1.4.2Arctic Master": 2,
+          "2.2.1.4.3Desert Master": 2,
+          "2.2.1.4.4Makes The Dream Work": 2,
+          "2.2.2HUSBANDRY": 2,
+          "2.2.2.1NOVICE RANK": 2,
+          "2.2.2.1.1Well Cared For": 2,
+          "2.2.2.1.2Grazing For The Herd": 2,
+          "2.2.2.1.3Back In The Saddle": 2,
+          "2.2.2.1.4Efficient Feeding": 2,
+          "2.2.2.1.5Energetic Encouragement": 2,
+          "2.2.2.2APPRENTICE RANK": 2,
+          "2.2.2.2.1Rapid Adoption": 2,
+          "2.2.2.2.2Adaptive Training": 2,
+          "2.2.2.2.3Relaxed Rider": 2,
+          "2.2.2.2.4Hardy Diet": 2,
+          "2.2.2.3JOURNEYMAN RANK": 2,
+          "2.2.2.3.1Act Natural": 2,
+          "2.2.2.3.2Kill Commmand": 2,
+          "2.2.2.3.3Long Haul": 2,
+          "2.2.2.3.4Nurturing Presence": 2,
+          "2.2.2.3.5Beasts Endurance": 2,
+          "2.2.2.3.6Arctic Training": 2,
+          "2.2.2.3.7Desert Training": 2,
+          "2.2.2.4MASTER RANK": 2,
+          "2.2.2.4.1In Your Element": 2,
+          "2.2.2.4.2(Still) One With Nature": 2,
+          "2.2.2.4.3Like The Wind": 2,
+          "2.2.3FISHING": 2,
+          "2.2.3.1NOVICE RANK": 2,
+          "2.2.3.1.1Angler's Technique": 2,
+          "2.2.3.1.2Natural Angler": 2,
+          "2.2.3.1.3Calmer Waters": 2,
+          "2.2.3.1.4Efficient Fisher": 2,
+          "2.2.3.1.5Hefty Catch": 2,
+          "2.2.3.1.6That's A Big One": 2,
+          "2.2.3.2APPRENTICE RANK": 2,
+          "2.2.3.2.1Fisher's Haul": 2,
+          "2.2.3.2.2Steady Breathing (Fishing)": 2,
+          "2.2.3.2.3One With The Water": 2,
+          "2.2.3.2.4Pescatarian": 2,
+          "2.2.3.3JOURNEYMAN RANK": 2,
+          "2.2.3.3.1Fish Fu": 2,
+          "2.2.3.3.2Saltiest Catch": 2,
+          "2.2.3.3.3Freshest Catch": 2,
+          "2.2.3.3.4Deadliest Catch": 2,
+          "2.2.3.3.5The Golden Zone": 2,
+          "2.2.3.4MASTER RANK": 2,
+          "2.2.3.4.1Nice Day For Fishing Ain't It?": 2,
+          "2.2.3.4.2Big Game Fisher": 2,
+          "2.2.3.4.3Medium Game Fisher": 2,
+          "2.3HABITATION": 2,
+          "2.3.1REPAIRING": 2,
+          "2.3.1.1NOVICE RANK": 2,
+          "2.3.1.1.1Ready To Work": 2,
+          "2.3.1.1.2Hammer Time I": 2,
+          "2.3.1.1.3First Responder": 2,
+          "2.3.1.1.4Speedy Whacks": 2,
+          "2.3.1.1.5Boneshatter": 2,
+          "2.3.1.1.6Hardy Whacker": 2,
+          "2.3.1.2APPRENTICE RANK": 2,
+          "2.3.1.2.1Hardy Hammer": 2,
+          "2.3.1.2.2Whacker Endurance": 2,
+          "2.3.1.3JOURNEYMAN RANK": 2,
+          "2.3.1.3.1Better Than New": 2,
+          "2.3.1.3.2With One Swing": 2,
+          "2.3.1.3.3Lingering Extinguishing": 2,
+          "2.3.1.3.4Hammer Time II": 2,
+          "2.3.1.4MASTER RANK": 2,
+          "2.3.1.4.1Hard To Reach": 2,
+          "2.3.2TOOLS": 2,
+          "2.3.2.1NOVICE RANK": 2,
+          "2.3.2.1.1Careful Hits": 2,
+          "2.3.2.1.2Picksmith I": 2,
+          "2.3.2.1.3Discount Axes I": 2,
+          "2.3.2.1.4Hardy Axe Heads I": 2,
+          "2.3.2.1.5Miner Damage": 2,
+          "2.3.2.1.6Speedy Mining": 2,
+          "2.3.2.1.7Speed Chopper": 2,
+          "2.3.2.2APPRENTICE RANK": 2,
+          "2.3.2.2.1Big Pick": 2,
+          "2.3.2.2.2Miner Endurance I": 2,
+          "2.3.2.2.3Lumberjack Endurance": 2,
+          "2.3.2.2.4Extra Sharp": 2,
+          "2.3.2.2.5Think Of All The Fiber": 2,
+          "2.3.2.2.6Picksmith II": 2,
+          "2.3.2.2.7Discount Axes II": 2,
+          "2.3.2.2.8Berserker": 2,
+          "2.3.2.3JOURNEYMAN RANK": 2,
+          "2.3.2.3.1Controlled Rage": 2,
+          "2.3.2.3.2Strong Pick": 2,
+          "2.3.2.3.3Careful Hits II": 2,
+          "2.3.2.3.4Miner Endurance II": 2,
+          "2.3.2.3.5Hard Axe": 2,
+          "2.3.2.3.6Hardy Axe Heads II": 2,
+          "2.3.2.4MASTER RANK": 2,
+          "2.3.2.4.1Good As New": 2,
+          "2.3.3BUILDING": 2,
+          "2.3.3.1NOVICE RANK": 2,
+          "2.3.3.1.1Discount Thatch": 2,
+          "2.3.3.1.2Discount Wood": 2,
+          "2.3.3.1.3Wood Hauling I": 2,
+          "2.3.3.1.4Discount Stone": 2,
+          "2.3.3.1.5Stone Hauling I": 2,
+          "2.3.3.1.6Discount Concrete": 2,
+          "2.3.3.1.7Concrete Hauling I": 2,
+          "2.3.3.1.8Discount Glass": 2,
+          "2.3.3.1.9Extra Space I": 2,
+          "2.3.3.1.10Stoking The Flames": 2,
+          "2.3.3.2APPRENTICE RANK": 2,
+          "2.3.3.2.1Fortified Wood": 2,
+          "2.3.3.2.2Wood Hauling II": 2,
+          "2.3.3.2.3Stone Hauling II": 2,
+          "2.3.3.2.4Concrete Hauling II": 2,
+          "2.3.3.2.5Discount Rod": 2,
+          "2.3.3.2.6Deployable Engineering": 2,
+          "2.3.3.3JOURNEYMAN RANK": 2,
+          "2.3.3.3.1Weatherproof Cladding": 2,
+          "2.3.3.3.2Fortified Rod": 2,
+          "2.3.3.3.3Extra Space II": 2,
+          "2.3.3.3.4Enhanced Defences": 2,
+          "2.3.3.4MASTER RANK": 2,
+          "2.3.3.4.1Fireproofing Sealant": 2,
+          "2.4COMBAT": 2,
+          "2.4.1BOWS/CROSSBOWS": 2,
+          "2.4.1.1NOVICE RANK": 2,
+          "2.4.1.1.1Bow Agility": 2,
+          "2.4.1.1.2More For Less I": 2,
+          "2.4.1.1.3Easy Draw": 2,
+          "2.4.1.1.4Quick Load": 2,
+          "2.4.1.1.5Increased Arrow Damage I": 2,
+          "2.4.1.1.6Bow Quick Draw": 2,
+          "2.4.1.1.7Swift Flight": 2,
+          "2.4.1.2APPRENTICE RANK": 2,
+          "2.4.1.2.1Increased Arrow Damage II": 2,
+          "2.4.1.2.2Trained Bowsmith": 2,
+          "2.4.1.2.3Trained Bowman": 2,
+          "2.4.1.2.4Bullseye": 2,
+          "2.4.1.3JOURNEYMAN RANK": 2,
+          "2.4.1.3.1Crafty Fletcher": 2,
+          "2.4.1.3.2More For Less II": 2,
+          "2.4.1.3.3Soft Spot I": 2,
+          "2.4.1.3.4Twice The Fun": 2,
+          "2.4.1.3.5Soft Spot II": 2,
+          "2.4.1.4MASTER RANK": 2,
+          "2.4.1.4.1Hindering Shot": 2,
+          "2.4.1.4.2Supply and Demand": 2,
+          "2.4.1.4.3Wounding Shot": 2,
+          "2.4.1.4.4Homing Instinct": 2,
+          "2.4.1.4.5Pinning Shot": 2,
+          "2.4.2SPEARS": 2,
+          "2.4.2.1NOVICE RANK": 2,
+          "2.4.2.1.1Strong Thrust I": 2,
+          "2.4.2.1.2Efficient Crafter I": 2,
+          "2.4.2.1.3Seasoned Spearman": 2,
+          "2.4.2.1.4Spear Quick Draw": 2,
+          "2.4.2.1.5Quick Thrust": 2,
+          "2.4.2.1.6From Afar I": 2,
+          "2.4.2.2APPRENTICE RANK": 2,
+          "2.4.2.2.1Strong Thrust II": 2,
+          "2.4.2.2.2Deadly Thrust I": 2,
+          "2.4.2.2.3From Afar II": 2,
+          "2.4.2.2.4Deadly Thrust II": 2,
+          "2.4.2.2.5Quick Step": 2,
+          "2.4.2.3JOURNEYMAN RANK": 2,
+          "2.4.2.3.1Could Go All Day": 2,
+          "2.4.2.3.2Efficient Crafter II": 2,
+          "2.4.2.3.3Excellent Crafter I": 2,
+          "2.4.2.3.4There It Is": 2,
+          "2.4.2.3.5Long Reach I": 2,
+          "2.4.2.4MASTER RANK": 2,
+          "2.4.2.4.1Spear Parry": 2,
+          "2.4.2.4.2Excellent Crafter II": 2,
+          "2.4.2.4.3Deep Wounds": 2,
+          "2.4.2.4.4Long Reach II": 2,
+          "2.4.3BLADES": 2,
+          "2.4.3.1NOVICE RANK": 2,
+          "2.4.3.1.1Deft Hands": 2,
+          "2.4.3.1.2Running With Knives": 2,
+          "2.4.3.1.3Swift Stab": 2,
+          "2.4.3.1.41000 Cuts": 2,
+          "2.4.3.1.5Reinforced Blades": 2,
+          "2.4.3.1.6Hardy Blade": 2,
+          "2.4.3.1.7Heavy Hand": 2,
+          "2.4.3.2APPRENTICE RANK": 2,
+          "2.4.3.2.1Where'd That Go?": 2,
+          "2.4.3.2.2Discount Blades I": 2,
+          "2.4.3.2.3Range Damage I": 2,
+          "2.4.3.2.4Trained Skinner": 2,
+          "2.4.3.2.5Deadly Stab": 2,
+          "2.4.3.2.6Range Damage II": 2,
+          "2.4.3.3JOURNEYMAN RANK": 2,
+          "2.4.3.3.1If It Works": 2,
+          "2.4.3.3.2Strong Arm I": 2,
+          "2.4.3.3.3Discount Blades II": 2,
+          "2.4.3.3.4That Was Quick": 2,
+          "2.4.3.3.5Strong Arm II": 2,
+          "2.4.3.3.6Silent Blade": 2,
+          "2.4.3.4MASTER RANK": 2,
+          "2.4.3.4.1Killer Throw": 2,
+          "2.4.3.4.2Stay Right There": 2,
+          "2.4.4FIREARMS": 2,
+          "2.4.4.1NOVICE RANK": 2,
+          "2.4.4.1.1Pistol Proficiency": 2,
+          "2.4.4.1.2Shotgun Slash": 2,
+          "2.4.4.1.3Rifle Reduction": 2,
+          "2.4.4.1.4Featherweight": 2,
+          "2.4.4.1.5Pistol Handling": 2,
+          "2.4.4.1.6Shotgun Handling": 2,
+          "2.4.4.1.7Rifle Re-Up": 2,
+          "2.4.4.1.8Gun Runner": 2,
+          "2.4.4.2APPRENTICE RANK": 2,
+          "2.4.4.2.1Pistol Powerup": 2,
+          "2.4.4.2.2Shotgun Sovereign": 2,
+          "2.4.4.2.3Rifle Redress": 2,
+          "2.4.4.2.4Freebies": 2,
+          "2.4.4.3JOURNEYMAN RANK": 2,
+          "2.4.4.3.1Gunsmith": 2,
+          "2.4.4.3.2Focus Fire": 2,
+          "2.4.4.4MASTER RANK": 2,
+          "2.4.4.4.1Sharpshooter": 2,
+          "2.4.4.4.2How Many Shots Did You Count?": 2,
+          "2.4.4.4.3New Life": 2,
+          "2.5SOLO": 2,
+          "2.5.1NOVICE RANK": 2,
+          "2.5.1.1Marathon Runner": 2,
+          "2.5.1.2Fleet Footed": 2,
+          "2.5.1.3Healthy Maverick": 2,
+          "2.5.1.4Heavy Hitter": 2,
+          "2.5.1.5Lightning Recovery": 2,
+          "2.5.1.6'Tis But A Scratch": 2,
+          "2.5.1.7Steel Ankles": 2,
+          "2.5.1.8Bounce Back": 2,
+          "2.5.2APPRENTICE RANK": 2,
+          "2.5.2.1Precision Logging": 2,
+          "2.5.2.2Low Maintenance": 2,
+          "2.5.2.3Very, Very Quiet": 2,
+          "2.5.2.4Sweet, Savoury, Satisfied": 2,
+          "2.5.2.5Honed Heads": 2,
+          "2.5.2.6Slice and Dice": 2,
+          "2.5.2.7Miner Rewards": 2,
+          "2.5.2.8The Big Three": 2,
+          "2.5.2.9Pack Horse": 2,
+          "2.5.2.10Bring A Gun To A Gun Fight": 2,
+          "2.5.2.11Stick Of Destiny": 2,
+          "2.5.2.12Efficient Home Maintenance": 2,
+          "2.5.3JOURNEYMAN RANK": 2,
+          "2.5.3.1Savage Hunter I": 2,
+          "2.5.3.2More Than A Handful": 2,
+          "2.5.3.3Mobile Stockpile": 2,
+          "2.5.3.4Gotta Damage Fast": 2,
+          "2.5.3.5Health Monitor": 2,
+          "2.5.4MASTER RANK": 2,
+          "2.5.4.1Savage Hunter II": 2,
+          "2.5.4.2Lone Wolf": 2,
+          "2.5.4.3Basic Move": 2,
+          "3Gallery": 3,
+          "4Useful Links": 4
         },
         "crafted_at": "Unknown"
       }
@@ -3511,7 +4131,11 @@
       "url": "https://icarus.fandom.com/wiki/Threshing_Attachment",
       "description": "Threshing Attachment is a mid game item available once the prospector has unlocked the Tool Attachment Pack tech.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Ingot": 3,
+        "Epoxy": 3,
+        "Coal": 2
+      },
       "crafted_at": "Alteration Bench",
       "tier": 3,
       "stats": {
@@ -3522,14 +4146,18 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 3,
+          "Epoxy": 3,
+          "Coal": 2
+        },
         "crafted_at": "Alteration Bench"
       }
     },
     {
       "name": "Titanium Ore",
       "url": "https://icarus.fandom.com/wiki/Titanium_Ore",
-      "description": "Titanium Ore is a late-game Mineral, and can be utilized by prospectors after they reach level 30 and unlock the Fabricator in the Tier 4  Tech Tree . Titanium represents the current pinnacle of material strength for Tools and for several Weapons .",
+      "description": "Titanium Ore is a late-game Mineral, and can be utilized by prospectors after they reach level 30 and unlock the Fabricator in the Tier 4 Tech Tree . Titanium represents the current pinnacle of material strength for Tools and for several Weapons .",
       "item_type": "harvestable",
       "ingredients": {},
       "crafted_at": "Unknown",
@@ -3810,9 +4438,15 @@
     {
       "name": "Vapor Condenser",
       "url": "https://icarus.fandom.com/wiki/Vapor_Condenser",
-      "description": "The Vapor Condenser is a deployable that can be placed on Enzyme Geysers to extract Condensed Enzymes and Exotics (depending on the game mode).",
+      "description": "The Vapor Condenser is a deployable that can be placed on Enzyme Geysers to extract Condensed Enzymes , Volatile Raw Exotics and Exotics . The amount of rewards depends on the map (Outpost or not), the area and the difficulty setting.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Composites": 20,
+        "Glass": 12,
+        "Electronics": 10,
+        "Steel Screw": 8,
+        "Copper Wire": 40
+      },
       "crafted_at": "Workshop",
       "tier": 4,
       "stats": {
@@ -3824,7 +4458,13 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Composites": 20,
+          "Glass": 12,
+          "Electronics": 10,
+          "Steel Screw": 8,
+          "Copper Wire": 40
+        },
         "crafted_at": "Workshop"
       }
     },
@@ -3851,7 +4491,13 @@
       "url": "https://icarus.fandom.com/wiki/Water_Borer",
       "description": "The Water Borer is a device that can be placed on Enzyme Geysers and when powered, can be used to extract Water which can be fed into a water network.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Ingot": 12,
+        "Composites": 4,
+        "Electronics": 6,
+        "Steel Screw": 8,
+        "Copper Wire": 40
+      },
       "crafted_at": "Machining Bench",
       "tier": 4,
       "stats": {
@@ -3863,7 +4509,13 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 12,
+          "Composites": 4,
+          "Electronics": 6,
+          "Steel Screw": 8,
+          "Copper Wire": 40
+        },
         "crafted_at": "Machining Bench"
       }
     },
@@ -3930,7 +4582,10 @@
       "url": "https://icarus.fandom.com/wiki/Wood_Buffalo_Statue",
       "description": "The Wood Buffalo Statue is a decorative wood item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 35,
+        "Condensed Enzymes": 1
+      },
       "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
@@ -3942,7 +4597,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 35,
+          "Condensed Enzymes": 1
+        },
         "crafted_at": "Decoration Bench"
       }
     },
@@ -3980,7 +4638,12 @@
       "url": "https://icarus.fandom.com/wiki/Wood_Composter",
       "description": "Wood Composter increases the rate at which food spoils, and will turn Spoiled Plants or Guano into Basic Fertilizer .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 25,
+        "Stone": 10,
+        "Spoiled Plants": 5,
+        "Sulfur": 5
+      },
       "crafted_at": "Crafting Bench Machining Bench Fabricator",
       "tier": 2,
       "stats": {
@@ -3992,7 +4655,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 25,
+          "Stone": 10,
+          "Spoiled Plants": 5,
+          "Sulfur": 5
+        },
         "crafted_at": "Crafting Bench Machining Bench Fabricator"
       }
     },
@@ -4001,7 +4669,11 @@
       "url": "https://icarus.fandom.com/wiki/Wood_Crop_Plot",
       "description": "The Wood Crop Plot is a farming plot for growing Seeds that can later be harvested for Plant Resources once fully grown. Unless the Prospector has the Fresh Is Best talent when deploying a seed into the crop plot, the grown Plant Resource will eventually wither if not harvested.",
       "item_type": "harvestable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 8,
+        "Sulfur": 10,
+        "Dirt": 20
+      },
       "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
@@ -4013,7 +4685,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 8,
+          "Sulfur": 10,
+          "Dirt": 20
+        },
         "crafted_at": "Crafting Bench"
       }
     },
@@ -4022,7 +4698,12 @@
       "url": "https://icarus.fandom.com/wiki/Wood_Cupboard",
       "description": "Taking up the same floor-space but with a much larger inventory, this is a great upgrade from the Medium Wood Crate .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 40,
+        "Leather": 8,
+        "Copper Nail": 4,
+        "Rope": 8
+      },
       "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator",
       "tier": 2,
       "stats": {
@@ -4034,7 +4715,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 40,
+          "Leather": 8,
+          "Copper Nail": 4,
+          "Rope": 8
+        },
         "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator"
       }
     },
@@ -4043,7 +4729,10 @@
       "url": "https://icarus.fandom.com/wiki/Wood_Deer_Statue",
       "description": "The Wood Deer Statue is a decorative wood item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 10,
+        "Condensed Enzymes": 1
+      },
       "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
@@ -4055,7 +4744,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 10,
+          "Condensed Enzymes": 1
+        },
         "crafted_at": "Decoration Bench"
       }
     },
@@ -4064,7 +4756,11 @@
       "url": "https://icarus.fandom.com/wiki/Wood_Gate_Fortification",
       "description": "The Wood Gate Fortification serves as an entrance when using Wood Wall Fortifications . Similar to Medium Wood Hedgehogs , the Wood Gate Fortification does not take damage during storms. Wood Spikes Fortification cannot be mounted to the Wood Gate Fortification.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 40,
+        "Iron Ingot": 6,
+        "Rope": 4
+      },
       "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
@@ -4076,7 +4772,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 40,
+          "Iron Ingot": 6,
+          "Rope": 4
+        },
         "crafted_at": "Crafting Bench"
       }
     },
@@ -4084,8 +4784,11 @@
       "name": "Wood Halfpieces",
       "url": "https://icarus.fandom.com/wiki/Wood_Halfpieces",
       "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection to Deployables and Storage containers. Wood roofs or walls require a floor or wall structure such as Wood Wall for snapping. Hold 'R' while placing the Wood Halfpieces itself to determine shape as well as placement as roof, or wall.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 12,
+        "Wood": 20
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -4097,7 +4800,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 12,
+          "Wood": 20
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -4105,8 +4811,11 @@
       "name": "Wood Halfpitches",
       "url": "https://icarus.fandom.com/wiki/Wood_Halfpitches",
       "description": "Stronger than Thatch, wood buildings are a good starting point for prospectors wanting to establish a 'Main Base'. While still flammable they are able to fully withstand most light storms and offer good protection to Deployables and Storage containers. Wood roofs or walls require a floor or wall structure such as Wood Wall for snapping. Hold 'R' while placing the Wood Halfpitches itself to determine shape as well as placement as roof, or wall.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 12,
+        "Wood": 20
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -4118,7 +4827,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 12,
+          "Wood": 20
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -4126,8 +4838,11 @@
       "name": "Wood Javelin",
       "url": "https://icarus.fandom.com/wiki/Wood_Javelin",
       "description": "The Wood Javelin is a variant of the Wood Spear that can only be thrown. The Wood Javelin has the slowest projectile travel time and highest projectile fall-off, but that can be overlooked by it's cheap producibility.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 10,
+        "Stick": 16
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -4139,7 +4854,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 10,
+          "Stick": 16
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -4147,8 +4865,11 @@
       "name": "Wood Ladder",
       "url": "https://icarus.fandom.com/wiki/Wood_Ladder",
       "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offer good protection to Deployables and Storage containers. Wood Ladders can be use with Trapdoor holes (hold R while holding a floor building piece and select the Trapdoor variant from the radial wheel). Does not snap to trapdoor holes.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 6,
+        "Wood": 10
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -4160,7 +4881,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 6,
+          "Wood": 10
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -4170,7 +4894,7 @@
       "description": "The Wood Pile, alongside the Stone Pile , are makeshift storage options for large quantities of each raw material. Though immune to most Weather damage, beware of lightning strikes. Can be used as a durable barrier to Fauna , especially against Fauna like the Grizzly Bear , although the stone variant is preferred.",
       "item_type": "craftable",
       "ingredients": {
-        "Wood": 1
+        "Wood": 100
       },
       "crafted_at": "Unknown",
       "tier": 1,
@@ -4181,7 +4905,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Wood": 1
+          "Wood": 100
         },
         "crafted_at": "Unknown"
       }
@@ -4191,7 +4915,10 @@
       "url": "https://icarus.fandom.com/wiki/Wood_Piranha_Statue",
       "description": "The Wood Piranha Statue is a decorative wood item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 25,
+        "Condensed Enzymes": 1
+      },
       "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
@@ -4203,7 +4930,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 25,
+          "Condensed Enzymes": 1
+        },
         "crafted_at": "Decoration Bench"
       }
     },
@@ -4212,7 +4942,10 @@
       "url": "https://icarus.fandom.com/wiki/Wood_Rabbit_Statue",
       "description": "The Wood Rabbit Statue is a decorative wood item.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 25,
+        "Condensed Enzymes": 1
+      },
       "crafted_at": "Decoration Bench",
       "tier": 2,
       "stats": {
@@ -4224,16 +4957,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 25,
+          "Condensed Enzymes": 1
+        },
         "crafted_at": "Decoration Bench"
       }
     },
     {
       "name": "Wood Railing",
       "url": "https://icarus.fandom.com/wiki/Wood_Railing",
-      "description": "The Wood Railing is part of the Wood Building Trim Set , which is learned in the Tier 1  Tech Tree after unlocking the Wood Building Base Set .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "description": "The Wood Railing is part of the Wood Building Trim Set , which is learned in the Tier 1 Tech Tree after unlocking the Wood Building Base Set .",
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 8,
+        "Wood": 8
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -4245,7 +4984,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 8,
+          "Wood": 8
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -4253,8 +4995,11 @@
       "name": "Wood Railing Gate",
       "url": "https://icarus.fandom.com/wiki/Wood_Railing_Gate",
       "description": "Stronger than Thatch, wood buildings are a good starting point for Prospectors wanting to establish a 'Main Base'. While still flammable, they are able to fully withstand most light storms and offers good protection to Deployables and Storage containers. Wood Railing Gates can be deployed on their own or can be snapped to railings/floors.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Fiber": 8,
+        "Wood": 8
+      },
       "crafted_at": "Unknown",
       "tier": 0,
       "stats": {
@@ -4266,7 +5011,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 8,
+          "Wood": 8
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -4275,7 +5023,12 @@
       "url": "https://icarus.fandom.com/wiki/Wood_Shield",
       "description": "The Wood Shield is crafted at the Anvil, Forge, or Foundry with the following resources:",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 15,
+        "Fiber": 20,
+        "Leather": 5,
+        "Iron Ingot": 3
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -4287,7 +5040,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 15,
+          "Fiber": 20,
+          "Leather": 5,
+          "Iron Ingot": 3
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -4296,7 +5054,10 @@
       "url": "https://icarus.fandom.com/wiki/Wood_Spikes_Fortification",
       "description": "The Wood Spikes Fortification serves as large hedgehog that can attach Wood Wall Fortifications to fend off the predators of Icarus. Similar to Medium Wood Hedgehogs , the Wood Spikes Fortification does not take damage during storms.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 80,
+        "Rope": 6
+      },
       "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
@@ -4308,7 +5069,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 80,
+          "Rope": 6
+        },
         "crafted_at": "Crafting Bench"
       }
     },
@@ -4317,7 +5081,10 @@
       "url": "https://icarus.fandom.com/wiki/Wood_Walkway_Fortification",
       "description": "The Wood Walkway Fortification is attached to Wood Wall Fortifications and serves as a platform that Prospectors can stand on, providing them a vantage point to see over their walls. Similar to Medium Wood Hedgehogs , the Wood Walkway Fortification does not take damage during storms.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 20,
+        "Iron Nail": 18
+      },
       "crafted_at": "Crafting Bench",
       "tier": 2,
       "stats": {
@@ -4329,7 +5096,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 20,
+          "Iron Nail": 18
+        },
         "crafted_at": "Crafting Bench"
       }
     },
@@ -4338,7 +5108,11 @@
       "url": "https://icarus.fandom.com/wiki/Wooden_Lure",
       "description": "The Wooden Lure can be attached to a Fishing Rod or a Basic Fishing Trap / Advanced Fishing Trap to provide an increase to different attributes detailed in the infobox. Like all Lures , the Wooden Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 2,
+        "Iron Nail": 2,
+        "Fiber": 2
+      },
       "crafted_at": "Basic Fishing Bench",
       "tier": 2,
       "stats": {
@@ -4350,7 +5124,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 2,
+          "Iron Nail": 2,
+          "Fiber": 2
+        },
         "crafted_at": "Basic Fishing Bench"
       }
     },
@@ -4358,8 +5136,12 @@
       "name": "Wooden Shovel",
       "url": "https://icarus.fandom.com/wiki/Wooden_Shovel",
       "description": "The Wooden Shovel is an early-game Tool used to create Dirt Mounds (right-click), harvest Ice / Dirt / Sand (left-click), or remove ash/snow buildup on structures in the Arctic / Volcanic biomes on Icarus.",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Wood": 15,
+        "Stick": 10,
+        "Fiber": 15
+      },
       "crafted_at": "Unknown",
       "tier": 1,
       "stats": {
@@ -4371,7 +5153,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 15,
+          "Stick": 10,
+          "Fiber": 15
+        },
         "crafted_at": "Unknown"
       }
     },

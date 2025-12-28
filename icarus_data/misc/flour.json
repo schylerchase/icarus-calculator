@@ -2,8 +2,10 @@
   "name": "Flour",
   "url": "https://icarus.fandom.com/wiki/Flour",
   "description": "Flour is prepared from ground Wheat and is the primary precursor for Flatbread Dough , Bread Dough and Pastry .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Wheat": 10
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wheat": 10
+    },
     "crafted_at": "Unknown"
   }
 }

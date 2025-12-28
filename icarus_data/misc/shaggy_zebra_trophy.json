@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Shaggy_Zebra_Trophy",
   "description": "Shaggy Zebra Trophies are decorative deployables that can be placed on any wall surface and are used to liven any living space. Aside from helping prospectors complete the Bestiary , it can also be used in tandem with other Furniture to increase the Coziness of your living quarters, increasing the duration and effectiveness of the Well Rested Buff .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 30,
+    "Shaggy Zebra Vestige": 1
+  },
   "crafted_at": "Trophy Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 30,
+      "Shaggy Zebra Vestige": 1
+    },
     "crafted_at": "Trophy Bench"
   }
 }

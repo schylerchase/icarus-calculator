@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Threshing_Attachment",
   "description": "Threshing Attachment is a mid game item available once the prospector has unlocked the Tool Attachment Pack tech.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 3,
+    "Epoxy": 3,
+    "Coal": 2
+  },
   "crafted_at": "Alteration Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 3,
+      "Epoxy": 3,
+      "Coal": 2
+    },
     "crafted_at": "Alteration Bench"
   }
 }

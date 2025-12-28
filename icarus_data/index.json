@@ -1,16 +1,16 @@
 {
-  "total_items": 1626,
+  "total_items": 1667,
   "categories": {
     "ammunition": {
-      "count": 90,
+      "count": 92,
       "display_name": "Ammunition"
     },
     "armor": {
-      "count": 151,
+      "count": 155,
       "display_name": "Armor"
     },
     "building": {
-      "count": 271,
+      "count": 273,
       "display_name": "Building"
     },
     "consumables": {
@@ -30,11 +30,11 @@
       "display_name": "Farming"
     },
     "furniture": {
-      "count": 123,
+      "count": 124,
       "display_name": "Furniture"
     },
     "materials": {
-      "count": 39,
+      "count": 41,
       "display_name": "Materials"
     },
     "medicine": {
@@ -42,7 +42,7 @@
       "display_name": "Medicine"
     },
     "raw_materials": {
-      "count": 167,
+      "count": 175,
       "display_name": "Raw Materials"
     },
     "specialized_equipment": {
@@ -50,7 +50,7 @@
       "display_name": "Specialized Equipment"
     },
     "storage": {
-      "count": 123,
+      "count": 124,
       "display_name": "Storage"
     },
     "tools": {
@@ -62,15 +62,15 @@
       "display_name": "Weapons"
     },
     "decoration": {
-      "count": 123,
+      "count": 124,
       "display_name": "Decoration"
     },
     "electricity_sources": {
-      "count": 123,
+      "count": 124,
       "display_name": "Electricity Sources"
     },
     "fuel_sources": {
-      "count": 39,
+      "count": 41,
       "display_name": "Fuel Sources"
     },
     "inventory": {
@@ -78,15 +78,15 @@
       "display_name": "Inventory"
     },
     "light_sources": {
-      "count": 123,
+      "count": 124,
       "display_name": "Light Sources"
     },
     "water_sources": {
-      "count": 123,
+      "count": 124,
       "display_name": "Water Sources"
     },
     "orbital_items": {
-      "count": 44,
+      "count": 47,
       "display_name": "Orbital Items"
     }
   },
@@ -110,7 +110,7 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "12-Gauge CHAC Shell Box",
@@ -195,6 +195,20 @@
       "type": "craftable",
       "tier": 3,
       "crafted_at": "Machining Bench"
+    },
+    {
+      "name": "5.56mm CHAC Ammo Box",
+      "category": "ammunition",
+      "type": "orbital",
+      "tier": 0,
+      "crafted_at": "Workshop"
+    },
+    {
+      "name": "5.56mm CHAC Round",
+      "category": "orbital_items",
+      "type": "orbital",
+      "tier": 0,
+      "crafted_at": "Unknown"
     },
     {
       "name": "5.56mm Cold Steel Round",
@@ -321,6 +335,13 @@
       "type": "orbital",
       "tier": 0,
       "crafted_at": "Workshop"
+    },
+    {
+      "name": "9mm CHAC Ammo",
+      "category": "orbital_items",
+      "type": "orbital",
+      "tier": 0,
+      "crafted_at": "Unknown"
     },
     {
       "name": "9mm CHAC Ammo Box",
@@ -850,14 +871,14 @@
     {
       "name": "Anti-Parasitic Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Anti-Parasitic Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -866,33 +887,33 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Anti-Parasitic Vaccine II",
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Anti-Parasitic Vaccine III",
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Anti-Poison Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Anti-Poison Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -908,68 +929,68 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Anti-Poison Vaccine II",
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Anti-Poison Vaccine III",
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Anti-materiel Rifle",
       "category": "weapons",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Workshop"
     },
     {
       "name": "Antibiotic Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Antibiotic Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Antibiotic Pill",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Antibiotic Pill",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Antibiotic Tonic",
       "category": "consumables",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Workshop"
     },
     {
       "name": "Antibiotic Tonic",
       "category": "medicine",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Workshop"
     },
@@ -1552,33 +1573,33 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Bacterial Vaccine II",
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Bacterial Vaccine III",
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Basic Bandage",
       "category": "consumables",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Workshop"
     },
     {
       "name": "Basic Bandage",
       "category": "medicine",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Workshop"
     },
@@ -1592,21 +1613,21 @@
     {
       "name": "Basic Dried Meat",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Basic Dried Meat",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Basic Dried Meat",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -1662,21 +1683,21 @@
     {
       "name": "Basic Fishing Rod",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Basic Fishing Rod",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Basic Fishing Rod",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -1746,49 +1767,49 @@
     {
       "name": "Bedroll",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bedroll",
       "category": "furniture",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bedroll",
       "category": "storage",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bedroll",
       "category": "decoration",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bedroll",
       "category": "electricity_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bedroll",
       "category": "light_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bedroll",
       "category": "water_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -1844,21 +1865,21 @@
     {
       "name": "Berry & Seed Bar",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Berry & Seed Bar",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Berry & Seed Bar",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -1886,42 +1907,42 @@
     {
       "name": "Berry Jam",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Berry Jam",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Berry Jam",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Berry Smoked Saltwater Fillet",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Berry Smoked Saltwater Fillet",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Berry Smoked Saltwater Fillet",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -1977,7 +1998,7 @@
     {
       "name": "Biomore Backpack",
       "category": "raw_materials",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Workshop"
     },
@@ -2061,14 +2082,14 @@
     {
       "name": "Blood Thinning Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Blood Thinning Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -2077,21 +2098,21 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Blood Thinning Vaccine II",
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Blood Thinning Vaccine III",
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Blueback Vestige",
@@ -2117,7 +2138,7 @@
     {
       "name": "Bone Arm Armor",
       "category": "armor",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -2131,84 +2152,84 @@
     {
       "name": "Bone Chest Armor",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Chest Armor",
       "category": "furniture",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Chest Armor",
       "category": "storage",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Chest Armor",
       "category": "decoration",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Chest Armor",
       "category": "electricity_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Chest Armor",
       "category": "light_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Chest Armor",
       "category": "water_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Feet Armor",
       "category": "armor",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Head Armor",
       "category": "armor",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Javelin",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Knife",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Leg Armor",
       "category": "armor",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -2222,28 +2243,28 @@
     {
       "name": "Bone Shield",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Sickle",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Spear",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bone Throwing Knife",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -2257,42 +2278,42 @@
     {
       "name": "Bread",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bread",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bread",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bread Dough",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bread Dough",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Bread Dough",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -2836,9 +2857,58 @@
       "crafted_at": "Ranching Station"
     },
     {
+      "name": "Butchery Bench",
+      "category": "building",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Machining Bench Fabricator"
+    },
+    {
+      "name": "Butchery Bench",
+      "category": "furniture",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Machining Bench Fabricator"
+    },
+    {
+      "name": "Butchery Bench",
+      "category": "storage",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Machining Bench Fabricator"
+    },
+    {
+      "name": "Butchery Bench",
+      "category": "decoration",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Machining Bench Fabricator"
+    },
+    {
+      "name": "Butchery Bench",
+      "category": "electricity_sources",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Machining Bench Fabricator"
+    },
+    {
+      "name": "Butchery Bench",
+      "category": "light_sources",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Machining Bench Fabricator"
+    },
+    {
+      "name": "Butchery Bench",
+      "category": "water_sources",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Machining Bench Fabricator"
+    },
+    {
       "name": "CHAC \"Boomstick\" Shotgun",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -2847,19 +2917,19 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "CHAC \"Sentinel\" Pistol",
       "category": "weapons",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Workshop"
     },
     {
       "name": "CHAC \"Sovereign\" Rifle",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -2868,7 +2938,7 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "CX-400 Arms Armor",
@@ -2957,21 +3027,21 @@
     {
       "name": "Caramel Berry Tart",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Caramel Berry Tart",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Caramel Berry Tart",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -2999,14 +3069,14 @@
     {
       "name": "Carbon Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Carbon Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -3741,133 +3811,133 @@
     {
       "name": "Clay Brick Beam",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Clay Brick Floor",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Clay Brick Halfpieces",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Clay Brick Halfpitches",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Clay Brick Ramp",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Clay Brick Roof Corner",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Clay Brick Wall",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Clay Brick Wall Angle",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cloth Arms Armor",
       "category": "armor",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cloth Chest Armor",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cloth Chest Armor",
       "category": "furniture",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cloth Chest Armor",
       "category": "storage",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cloth Chest Armor",
       "category": "decoration",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cloth Chest Armor",
       "category": "electricity_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cloth Chest Armor",
       "category": "light_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cloth Chest Armor",
       "category": "water_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cloth Feet Armor",
       "category": "armor",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cloth Head Armor",
       "category": "armor",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cloth Legs Armor",
       "category": "armor",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -3888,21 +3958,21 @@
     {
       "name": "Cocoa Smoked Soft Meat",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cocoa Smoked Soft Meat",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cocoa Smoked Soft Meat",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -3923,7 +3993,7 @@
     {
       "name": "Coffee Smoked Fatty T-bone",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -4042,7 +4112,7 @@
     {
       "name": "Combat Knife",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -4112,14 +4182,14 @@
     {
       "name": "Composite Dropship Recall Beacon",
       "category": "deployables",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Workshop"
     },
     {
       "name": "Composite Dropship Recall Beacon",
       "category": "specialized_equipment",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Workshop"
     },
@@ -4147,28 +4217,28 @@
     {
       "name": "Composite Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Composite Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Composite Spear",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Compound Bow",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -4182,7 +4252,7 @@
     {
       "name": "Concrete Floor",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -4301,7 +4371,7 @@
     {
       "name": "Concrete Wall",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -4337,63 +4407,63 @@
       "name": "Cooked Fatty T-Bone",
       "category": "consumables",
       "type": "weapon",
-      "tier": 3,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked Fatty T-Bone",
       "category": "cooking",
       "type": "weapon",
-      "tier": 3,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked Fatty T-Bone",
       "category": "farming",
       "type": "weapon",
-      "tier": 3,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked Gamey Meat",
       "category": "consumables",
       "type": "weapon",
-      "tier": 1,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked Gamey Meat",
       "category": "cooking",
       "type": "weapon",
-      "tier": 1,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked Gamey Meat",
       "category": "farming",
       "type": "weapon",
-      "tier": 1,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked Giant Steak",
       "category": "consumables",
       "type": "weapon",
-      "tier": 3,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked Giant Steak",
       "category": "cooking",
       "type": "weapon",
-      "tier": 3,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked Giant Steak",
       "category": "farming",
       "type": "weapon",
-      "tier": 3,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
@@ -4421,63 +4491,63 @@
       "name": "Cooked Soft Meat",
       "category": "consumables",
       "type": "weapon",
-      "tier": 1,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked Soft Meat",
       "category": "cooking",
       "type": "weapon",
-      "tier": 1,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked Soft Meat",
       "category": "farming",
       "type": "weapon",
-      "tier": 1,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked Stringy Meat",
       "category": "consumables",
       "type": "weapon",
-      "tier": 1,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked Stringy Meat",
       "category": "cooking",
       "type": "weapon",
-      "tier": 1,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked Stringy Meat",
       "category": "farming",
       "type": "weapon",
-      "tier": 1,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked White Meat",
       "category": "consumables",
       "type": "weapon",
-      "tier": 3,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked White Meat",
       "category": "cooking",
       "type": "weapon",
-      "tier": 3,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Cooked White Meat",
       "category": "farming",
       "type": "weapon",
-      "tier": 3,
+      "tier": 0,
       "crafted_at": "Unknown"
     },
     {
@@ -4532,14 +4602,14 @@
     {
       "name": "Cooling Bandage",
       "category": "consumables",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Workshop"
     },
     {
       "name": "Cooling Bandage",
       "category": "medicine",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Workshop"
     },
@@ -4688,7 +4758,7 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Crafting Bench",
@@ -4763,56 +4833,56 @@
     {
       "name": "Crumbed Saltwater Fillet",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Crumbed Saltwater Fillet",
       "category": "furniture",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Crumbed Saltwater Fillet",
       "category": "storage",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Crumbed Saltwater Fillet",
       "category": "decoration",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Crumbed Saltwater Fillet",
       "category": "electricity_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Crumbed Saltwater Fillet",
       "category": "light_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Crumbed Saltwater Fillet",
       "category": "water_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Crushed Bone",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -4825,6 +4895,13 @@
     },
     {
       "name": "Cryogenically Frozen Chicken",
+      "category": "raw_materials",
+      "type": "harvestable",
+      "tier": 0,
+      "crafted_at": "Workshop"
+    },
+    {
+      "name": "Cultivar Backpack",
       "category": "raw_materials",
       "type": "harvestable",
       "tier": 0,
@@ -5036,21 +5113,21 @@
     {
       "name": "Dirt Corner",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dirt Foundation",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dirt Ramp",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -5069,93 +5146,100 @@
       "crafted_at": "Unknown"
     },
     {
+      "name": "Dribbo Vestige",
+      "category": "armor",
+      "type": "weapon",
+      "tier": 2,
+      "crafted_at": "Unknown"
+    },
+    {
       "name": "Dried Fatty T-Bone",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dried Gamey Meat",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dried Gamey Meat",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dried Gamey Meat",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dried Soft Meat",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dried Soft Meat",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dried Soft Meat",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dried Stringy Meat",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dried Stringy Meat",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dried Stringy Meat",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dried White Meat",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dried White Meat",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Dried White Meat",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -5440,6 +5524,13 @@
       "crafted_at": "Unknown"
     },
     {
+      "name": "Enzymatic Mutation Ammo",
+      "category": "ammunition",
+      "type": "harvestable",
+      "tier": 3,
+      "crafted_at": "Machining Bench Fabricator"
+    },
+    {
       "name": "Equix Vestige",
       "category": "armor",
       "type": "weapon",
@@ -5512,7 +5603,7 @@
     {
       "name": "Fiber",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "harvestable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -5547,21 +5638,21 @@
     {
       "name": "Fish Chunk Stew",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Fish Chunk Stew",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Fish Chunk Stew",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -5589,21 +5680,21 @@
     {
       "name": "Fish Pie",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Fish Pie",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Fish Pie",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -5659,42 +5750,42 @@
     {
       "name": "Flatbread",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Flatbread",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Flatbread",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Flatbread Dough",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Flatbread Dough",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Flatbread Dough",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -5708,28 +5799,28 @@
     {
       "name": "Floor Torch",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Food Consumption Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Food Consumption Paste",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Food Consumption Paste",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -5834,49 +5925,49 @@
     {
       "name": "Fried Chunky Vegetables",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Fried Chunky Vegetables",
       "category": "furniture",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Fried Chunky Vegetables",
       "category": "storage",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Fried Chunky Vegetables",
       "category": "decoration",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Fried Chunky Vegetables",
       "category": "electricity_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Fried Chunky Vegetables",
       "category": "light_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Fried Chunky Vegetables",
       "category": "water_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -6100,7 +6191,7 @@
     {
       "name": "Glass Door",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -6128,35 +6219,35 @@
     {
       "name": "Glass Roof",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Glass Roof Corner",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Glass Wall",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Glass Wall Angled",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Glass Window",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -6233,84 +6324,84 @@
     {
       "name": "Gorse Smoked Gamey Meat",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Gorse Smoked Gamey Meat",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Gorse Smoked Gamey Meat",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Gunpowder",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Health Buff Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Health Buff Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Health Regeneration Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Health Regeneration Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Health Restoration Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Health Restoration Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Heat Bandage",
       "category": "consumables",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Workshop"
     },
     {
       "name": "Heat Bandage",
       "category": "medicine",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Workshop"
     },
@@ -6366,7 +6457,7 @@
     {
       "name": "Heavy Glass Window",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -6602,6 +6693,13 @@
       "crafted_at": "Unknown"
     },
     {
+      "name": "IC-001 Extractor",
+      "category": "orbital_items",
+      "type": "orbital",
+      "tier": 0,
+      "crafted_at": "Unknown"
+    },
+    {
       "name": "IC-001 Radar",
       "category": "specialized_equipment",
       "type": "craftable",
@@ -6737,7 +6835,7 @@
     {
       "name": "Inaris \"Heavy\" Crossbow",
       "category": "weapons",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Workshop"
     },
@@ -6751,7 +6849,7 @@
     {
       "name": "Inaris \"Lune\" Crossbow",
       "category": "weapons",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Workshop"
     },
@@ -6786,7 +6884,7 @@
     {
       "name": "Inaris \"Rapid\" Crossbow",
       "category": "weapons",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Workshop"
     },
@@ -6821,7 +6919,7 @@
     {
       "name": "Inaris \"Sole\" Crossbow",
       "category": "weapons",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Workshop"
     },
@@ -7276,35 +7374,35 @@
     {
       "name": "Interior Wood Halfpieces",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Interior Wood Halfpitches",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Interior Wood Ladder",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Interior Wood Railing",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Interior Wood Railing Gate",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -7584,7 +7682,7 @@
     {
       "name": "Kinetic Rifle",
       "category": "weapons",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Workshop"
     },
@@ -7691,7 +7789,7 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Komodo Vestige",
@@ -8016,6 +8114,13 @@
       "crafted_at": "Unknown"
     },
     {
+      "name": "Lava Hunter Vestige",
+      "category": "armor",
+      "type": "weapon",
+      "tier": 4,
+      "crafted_at": "Unknown"
+    },
+    {
       "name": "Leather",
       "category": "raw_materials",
       "type": "harvestable",
@@ -8048,14 +8153,14 @@
       "category": "materials",
       "type": "craftable",
       "tier": 2,
-      "crafted_at": "Textiles Bench"
+      "crafted_at": "Lagos Unit dispatcher on Ceres Station"
     },
     {
       "name": "Leather Backpack",
       "category": "fuel_sources",
       "type": "craftable",
       "tier": 2,
-      "crafted_at": "Textiles Bench"
+      "crafted_at": "Lagos Unit dispatcher on Ceres Station"
     },
     {
       "name": "Leather Chest Armor",
@@ -8188,7 +8293,7 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "MXC Furnace",
@@ -8251,7 +8356,7 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "MXC Knife",
@@ -8293,19 +8398,19 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "MXC Venom Arrow Bundle",
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Machete",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -8536,21 +8641,21 @@
     {
       "name": "Meat Pie",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Meat Pie",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Meat Pie",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -8627,7 +8732,7 @@
     {
       "name": "Medium Wood Crate",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -8669,7 +8774,7 @@
     {
       "name": "Miasmic Axe",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -8683,7 +8788,7 @@
     {
       "name": "Miasmic Knife",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -8788,21 +8893,21 @@
     {
       "name": "Mushroom Soup",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Mushroom Soup",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Mushroom Soup",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -9033,44 +9138,51 @@
     {
       "name": "Oxygen Buff Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Oxygen Buff Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Oxygen Consumption Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Oxygen Consumption Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Oxygen Restoration Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Oxygen Restoration Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
+    },
+    {
+      "name": "Packed Fuel Brick",
+      "category": "raw_materials",
+      "type": "harvestable",
+      "tier": 0,
+      "crafted_at": "Crafting Bench Machining Bench Fabricator"
     },
     {
       "name": "Pistol",
@@ -9215,14 +9327,14 @@
     {
       "name": "Poison Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Poison Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -9495,21 +9607,21 @@
     {
       "name": "Potato Bread",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Potato Bread",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Potato Bread",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -9586,21 +9698,21 @@
     {
       "name": "Pumpkin Bread",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Pumpkin Bread",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Pumpkin Bread",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -9670,23 +9782,23 @@
     {
       "name": "Raw Bacon",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Bacon",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Bacon",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Chicken",
@@ -9733,65 +9845,65 @@
     {
       "name": "Raw Fatty T-Bone",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Fatty T-Bone",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Fatty T-Bone",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Gamey Meat",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Gamey Meat",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Gamey Meat",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Giant Steak",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Giant Steak",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Giant Steak",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Gold Lamp",
@@ -9859,65 +9971,65 @@
     {
       "name": "Raw Soft Meat",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Soft Meat",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Soft Meat",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Stringy Meat",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Stringy Meat",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw Stringy Meat",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw White Meat",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw White Meat",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Raw White Meat",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
-      "crafted_at": "Unknown"
+      "crafted_at": "the Butchery Bench using Raw Meat"
     },
     {
       "name": "Recurve Bow",
@@ -10076,84 +10188,84 @@
     {
       "name": "Reinforced Glass Beam",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Reinforced Glass Floor",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Reinforced Glass Halfpieces",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Reinforced Glass Halfpitches",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Reinforced Glass Roof",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Reinforced Glass Roof Corner",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Reinforced Glass Wall",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Reinforced Glass Wall Angled",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Reinforced Ladder",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Reinforced Railing",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Reinforced Trapdoor",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Reinforced Window",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -10216,70 +10328,70 @@
     {
       "name": "Rhubarb Stew",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Rhubarb Stew",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Rhubarb Stew",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Roast Vegetables",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Roast Vegetables",
       "category": "furniture",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Roast Vegetables",
       "category": "storage",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Roast Vegetables",
       "category": "decoration",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Roast Vegetables",
       "category": "electricity_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Roast Vegetables",
       "category": "light_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Roast Vegetables",
       "category": "water_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -10295,14 +10407,14 @@
       "category": "materials",
       "type": "craftable",
       "tier": 2,
-      "crafted_at": "Crafted atCrafting BenchTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
+      "crafted_at": "Crafted atCrafting BenchMachining BenchFabricatorTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
     },
     {
       "name": "Rope",
       "category": "fuel_sources",
       "type": "craftable",
       "tier": 2,
-      "crafted_at": "Crafted atCrafting BenchTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
+      "crafted_at": "Crafted atCrafting BenchMachining BenchFabricatorTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
     },
     {
       "name": "Rotten Meat Lure",
@@ -10328,7 +10440,7 @@
     {
       "name": "Round Rustic Sign",
       "category": "ammunition",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -10802,6 +10914,13 @@
       "crafted_at": "Decoration Bench"
     },
     {
+      "name": "Rustic Wall Shelf",
+      "category": "building",
+      "type": "craftable",
+      "tier": 2,
+      "crafted_at": "Decoration Bench"
+    },
+    {
       "name": "Rusty Shotgun",
       "category": "weapons",
       "type": "craftable",
@@ -11082,6 +11201,13 @@
       "crafted_at": "Forge Foundry"
     },
     {
+      "name": "Sandworm Vestige",
+      "category": "armor",
+      "type": "weapon",
+      "tier": 0,
+      "crafted_at": "Unknown"
+    },
+    {
       "name": "Scoria Beam",
       "category": "building",
       "type": "craftable",
@@ -11091,56 +11217,56 @@
     {
       "name": "Scoria Brick Beam",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Scoria Brick Floor",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Scoria Brick Halfpieces",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Scoria Brick Halfpitches",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Scoria Brick Ramp",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Scoria Brick Roof Corner",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Scoria Brick Wall",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Scoria Brick Wall Angle",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -11308,21 +11434,21 @@
     {
       "name": "Seed Bread",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Seed Bread",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Seed Bread",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -11506,7 +11632,7 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Shengong 'Qie' Knife",
@@ -11670,6 +11796,13 @@
       "crafted_at": "Carpentry Bench"
     },
     {
+      "name": "Small Interior Wood Cupboard",
+      "category": "raw_materials",
+      "type": "craftable",
+      "tier": 2,
+      "crafted_at": "Carpentry Bench Electric Carpentry Bench"
+    },
+    {
       "name": "Small Iron Crate",
       "category": "materials",
       "type": "craftable",
@@ -11682,6 +11815,34 @@
       "type": "craftable",
       "tier": 2,
       "crafted_at": "Machining Bench"
+    },
+    {
+      "name": "Small Iron Cupboard",
+      "category": "materials",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Machining Bench Fabricator"
+    },
+    {
+      "name": "Small Iron Cupboard",
+      "category": "fuel_sources",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Machining Bench Fabricator"
+    },
+    {
+      "name": "Small Iron Sign",
+      "category": "materials",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Machining Bench Fabricator"
+    },
+    {
+      "name": "Small Iron Sign",
+      "category": "fuel_sources",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Machining Bench Fabricator"
     },
     {
       "name": "Small Stone Sign",
@@ -11700,9 +11861,16 @@
     {
       "name": "Small Wood Crate",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
+    },
+    {
+      "name": "Small Wood Cupboard",
+      "category": "raw_materials",
+      "type": "craftable",
+      "tier": 2,
+      "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator"
     },
     {
       "name": "Small Wood Sign",
@@ -11817,6 +11985,20 @@
       "crafted_at": "Unknown"
     },
     {
+      "name": "Spider Silk",
+      "category": "raw_materials",
+      "type": "harvestable",
+      "tier": 0,
+      "crafted_at": "Unknown"
+    },
+    {
+      "name": "Spider Vestige",
+      "category": "armor",
+      "type": "weapon",
+      "tier": 2,
+      "crafted_at": "Unknown"
+    },
+    {
       "name": "Spoiled Meat",
       "category": "consumables",
       "type": "weapon",
@@ -11903,56 +12085,56 @@
     {
       "name": "Stamina Buff Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Stamina Buff Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Stamina Consumption Paste",
       "category": "consumables",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Workshop"
     },
     {
       "name": "Stamina Consumption Paste",
       "category": "medicine",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Workshop"
     },
     {
       "name": "Stamina Regeneration Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Stamina Regeneration Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Stamina Restoration Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Stamina Restoration Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -11973,14 +12155,14 @@
     {
       "name": "Steel Bloom",
       "category": "materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Steel Bloom",
       "category": "fuel_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -12106,21 +12288,21 @@
     {
       "name": "Stew",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Stew",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Stew",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
@@ -12148,7 +12330,7 @@
     {
       "name": "Stone Axe",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -12169,56 +12351,77 @@
     {
       "name": "Stone Brick Beam",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
+      "name": "Stone Brick Fireplace",
+      "category": "raw_materials",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Advanced Masonry Bench Electric Masonry Bench"
+    },
+    {
+      "name": "Stone Brick Fireplace Cap",
+      "category": "raw_materials",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Advanced Masonry Bench Electric Masonry Bench"
+    },
+    {
+      "name": "Stone Brick Fireplace Extension",
+      "category": "raw_materials",
+      "type": "craftable",
+      "tier": 3,
+      "crafted_at": "Advanced Masonry Bench Electric Masonry Bench"
+    },
+    {
       "name": "Stone Brick Floor",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Stone Brick Halfpieces",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Stone Brick Halfpitches",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Stone Brick Ramp",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Stone Brick Roof Corner",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Stone Brick Wall",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Stone Brick Wall Angle",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -12232,7 +12435,7 @@
     {
       "name": "Stone Cairn",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -12344,7 +12547,7 @@
     {
       "name": "Stone Knife",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -12360,7 +12563,7 @@
       "category": "weapons",
       "type": "harvestable",
       "tier": 1,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "Stone Pickaxe",
@@ -12421,7 +12624,7 @@
     {
       "name": "Stone Throwing Knife",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -12463,21 +12666,21 @@
     {
       "name": "Strawberries & Cream",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Strawberries & Cream",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Strawberries & Cream",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -12526,21 +12729,21 @@
     {
       "name": "Strawberry Hard Candy",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Strawberry Hard Candy",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Strawberry Hard Candy",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -12638,28 +12841,28 @@
     {
       "name": "Sweetcorn Soup",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Sweetcorn Soup",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Sweetcorn Soup",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Tactical Bow",
       "category": "weapons",
-      "type": "orbital",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Workshop"
     },
@@ -12757,91 +12960,91 @@
     {
       "name": "Thatch Beam",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Thatch Door",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Thatch Floor",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Thatch Halfpieces",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Thatch Halfpitches",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Thatch Ladder",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Thatch Railing",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Thatch Roof",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Thatch Roof Corner",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Thatch Trapdoor",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Thatch Wall",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Thatch Wall Angled",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Thatch Window",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -12862,21 +13065,21 @@
     {
       "name": "Titanium Axe",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Titanium Crossbow",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Titanium Hammer",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -12897,7 +13100,7 @@
     {
       "name": "Titanium Knife",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -12911,21 +13114,21 @@
     {
       "name": "Titanium Pickaxe",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Titanium Spear",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
     {
       "name": "Titanium Throwing Knife",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 4,
       "crafted_at": "Unknown"
     },
@@ -12939,28 +13142,28 @@
     {
       "name": "Tomato & Egg Bowl",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Tomato Soup",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Tomato Soup",
       "category": "cooking",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Tomato Soup",
       "category": "farming",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -13046,7 +13249,7 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "UDA Comet Coal Resource Supply",
@@ -13074,7 +13277,7 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "UDA Gold Ore Resource Supply",
@@ -13109,7 +13312,7 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "UDA Oxite Ore Resource Supply",
@@ -13144,7 +13347,7 @@
       "category": "orbital_items",
       "type": "orbital",
       "tier": 0,
-      "crafted_at": "Workshop"
+      "crafted_at": "Unknown"
     },
     {
       "name": "UDA Silica Ore Resource Supply",
@@ -13233,147 +13436,147 @@
     {
       "name": "Vegetable Oil",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Oil",
       "category": "furniture",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Oil",
       "category": "storage",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Oil",
       "category": "decoration",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Oil",
       "category": "electricity_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Oil",
       "category": "light_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Oil",
       "category": "water_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 2,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Pie",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Pie",
       "category": "furniture",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Pie",
       "category": "storage",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Pie",
       "category": "decoration",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Pie",
       "category": "electricity_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Pie",
       "category": "light_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Pie",
       "category": "water_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Roll",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Roll",
       "category": "furniture",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Roll",
       "category": "storage",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Roll",
       "category": "decoration",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Roll",
       "category": "electricity_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Roll",
       "category": "light_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
     {
       "name": "Vegetable Roll",
       "category": "water_sources",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 3,
       "crafted_at": "Unknown"
     },
@@ -13417,7 +13620,7 @@
       "category": "building",
       "type": "craftable",
       "tier": 2,
-      "crafted_at": "Crafting Bench"
+      "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator"
     },
     {
       "name": "Water Borer",
@@ -13429,14 +13632,14 @@
     {
       "name": "Water Consumption Paste",
       "category": "consumables",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Water Consumption Paste",
       "category": "medicine",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -13625,14 +13828,14 @@
     {
       "name": "Wood Beam",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Bow",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -13681,14 +13884,14 @@
     {
       "name": "Wood Door",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Floor",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -13702,35 +13905,35 @@
     {
       "name": "Wood Halfpieces",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Halfpitches",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Hammer",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Javelin",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Ladder",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -13758,49 +13961,49 @@
     {
       "name": "Wood Rag Torch",
       "category": "specialized_equipment",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Rag Torch",
       "category": "tools",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Rag Torch",
       "category": "inventory",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Railing",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Railing Gate",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Roof",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Roof Corner",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -13814,7 +14017,7 @@
     {
       "name": "Wood Spear",
       "category": "weapons",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
@@ -13877,28 +14080,28 @@
     {
       "name": "Wood Torch",
       "category": "specialized_equipment",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Torch",
       "category": "tools",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Torch",
       "category": "inventory",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Trapdoor",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -13912,14 +14115,14 @@
     {
       "name": "Wood Wall",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
     {
       "name": "Wood Wall Angled",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -13933,7 +14136,7 @@
     {
       "name": "Wood Window",
       "category": "building",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 0,
       "crafted_at": "Unknown"
     },
@@ -14073,7 +14276,7 @@
     {
       "name": "Wooden Shovel",
       "category": "raw_materials",
-      "type": "weapon",
+      "type": "craftable",
       "tier": 1,
       "crafted_at": "Unknown"
     },

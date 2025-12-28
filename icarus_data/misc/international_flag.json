@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/International_Flag",
   "description": "The International Flag is a deployable flag pole for decorating a base and supplying a small boost to Coziness .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Rope": 5,
+    "Steel Ingot": 5
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Rope": 5,
+      "Steel Ingot": 5
+    },
     "crafted_at": "Decoration Bench"
   }
 }

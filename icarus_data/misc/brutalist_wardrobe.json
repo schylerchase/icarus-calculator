@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Brutalist_Wardrobe",
   "description": "The Brutalist Wardrobe is a concrete bedside furniture piece made in the Brutalist design aesthetic. It has 25 inventory slots for Storage and provides a small bonus to Coziness . The deployable has two varieties selectable by the 'R' key.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Concrete Mix": 14,
+    "Iron Ingot": 6
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Concrete Mix": 14,
+      "Iron Ingot": 6
+    },
     "crafted_at": "Decoration Bench"
   }
 }

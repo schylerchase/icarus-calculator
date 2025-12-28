@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Wood_Gate_Fortification",
   "description": "The Wood Gate Fortification serves as an entrance when using Wood Wall Fortifications . Similar to Medium Wood Hedgehogs , the Wood Gate Fortification does not take damage during storms. Wood Spikes Fortification cannot be mounted to the Wood Gate Fortification.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 40,
+    "Iron Ingot": 6,
+    "Rope": 4
+  },
   "crafted_at": "Crafting Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 40,
+      "Iron Ingot": 6,
+      "Rope": 4
+    },
     "crafted_at": "Crafting Bench"
   }
 }

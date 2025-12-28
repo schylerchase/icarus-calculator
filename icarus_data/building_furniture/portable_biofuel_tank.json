@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Portable_Biofuel_Tank",
   "description": "Portable Biofuel Tank is used for Biofuel storage. It is either filled at the Biofuel Composter or Electric Composter .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Composites": 20,
+    "Epoxy": 30
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Composites": 20,
+      "Epoxy": 30
+    },
     "crafted_at": "Fabricator"
   }
 }

@@ -2,8 +2,12 @@
   "name": "Antibiotic Paste",
   "url": "https://icarus.fandom.com/wiki/Antibiotic_Paste",
   "description": "Antibiotic Paste reduces the duration of bacterial infections like food poisoning and the Cave Sickness debuff from caves by 50% upon consumption.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Yeast": 1,
+    "Silica Ore": 1,
+    "Charcoal": 1
+  },
   "crafted_at": "Unknown",
   "tier": 1,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Yeast": 1,
+      "Silica Ore": 1,
+      "Charcoal": 1
+    },
     "crafted_at": "Unknown"
   }
 }

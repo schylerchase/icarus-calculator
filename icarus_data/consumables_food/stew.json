@@ -2,8 +2,13 @@
   "name": "Stew",
   "url": "https://icarus.fandom.com/wiki/Stew",
   "description": "Stew is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Water": 100,
+    "Mushroom": 1,
+    "Carrot": 1,
+    "Raw Meat": 1
+  },
   "crafted_at": "Unknown",
   "tier": 2,
   "stats": {},
@@ -12,7 +17,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Water": 100,
+      "Mushroom": 1,
+      "Carrot": 1,
+      "Raw Meat": 1
+    },
     "crafted_at": "Unknown"
   }
 }

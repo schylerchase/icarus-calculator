@@ -1,13 +1,17 @@
 {
   "category": "Materials",
-  "count": 39,
+  "count": 41,
   "items": [
     {
       "name": "Advanced Iron Lure",
       "url": "https://icarus.fandom.com/wiki/Advanced_Iron_Lure",
       "description": "The Advanced Iron Lure can be attached to a Fishing Rod or a Basic Fishing Trap / Advanced Fishing Trap to provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like all Lures , the Advanced Iron Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 2,
+        "Copper Nail": 2,
+        "Organic Resin": 2
+      },
       "crafted_at": "Basic Fishing Bench",
       "tier": 2,
       "stats": {
@@ -19,7 +23,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 2,
+          "Copper Nail": 2,
+          "Organic Resin": 2
+        },
         "crafted_at": "Basic Fishing Bench"
       }
     },
@@ -46,7 +54,12 @@
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Bolt",
       "description": "The Cold Steel Bolt is ammunition used with a Crossbow . In addition to projectile damage, it has a chance to inflict a Freeze modifier that slows and damages enemies.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Cold Steel Ingot": 1,
+        "Refined Wood": 5,
+        "Steel Screw": 5,
+        "Fur": 5
+      },
       "crafted_at": "Crafted AtForge",
       "tier": 3,
       "stats": {
@@ -57,7 +70,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cold Steel Ingot": 1,
+          "Refined Wood": 5,
+          "Steel Screw": 5,
+          "Fur": 5
+        },
         "crafted_at": "Crafted AtForge"
       }
     },
@@ -66,7 +84,14 @@
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Ingot",
       "description": "Cold Steel Ingots are a refined resource crafted from Steel Ingots and Super Cooled Ice . Prospectors must use a Concrete Furnace or an Electric Furnace to refine the resources listed below into a Cold Steel Ingot.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "1Description": 1,
+        "2Usage": 2,
+        "2.1Tools": 2,
+        "2.2Weapons": 2,
+        "2.3Ammo": 2,
+        "3Refining": 3
+      },
       "crafted_at": "Concrete Furnace Electric Furnace",
       "tier": 3,
       "stats": {},
@@ -75,16 +100,28 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "1Description": 1,
+          "2Usage": 2,
+          "2.1Tools": 2,
+          "2.2Weapons": 2,
+          "2.3Ammo": 2,
+          "3Refining": 3
+        },
         "crafted_at": "Concrete Furnace Electric Furnace"
       }
     },
     {
       "name": "Cold Steel Javelin",
       "url": "https://icarus.fandom.com/wiki/Cold_Steel_Javelin",
-      "description": "The Cold Steel Javelin is a variant of the Cold Steel Spear that can only be thrown. Deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while dealing periodic frost damage. Excels when used against Fauna that have a weakness to frost. . When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with:",
+      "description": "The Cold Steel Javelin is a variant of the Cold Steel Spear that can only be thrown. Deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while dealing periodic frost damage. Excels when used against Fauna that have a weakness to frost. A list of Fauna that are weak to frost can be viewed here . When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with:",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Cold Steel Ingot": 5,
+        "Refined Wood": 20,
+        "Steel Screw": 10,
+        "Fur": 5
+      },
       "crafted_at": "Forge Foundry",
       "tier": 3,
       "stats": {
@@ -96,7 +133,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cold Steel Ingot": 5,
+          "Refined Wood": 20,
+          "Steel Screw": 10,
+          "Fur": 5
+        },
         "crafted_at": "Forge Foundry"
       }
     },
@@ -105,7 +147,10 @@
       "url": "https://icarus.fandom.com/wiki/Copper_Attachment",
       "description": "Copper Attachment is a mid-to-end game item available once the prospector has unlocked the Tool Attachment Pack tech.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 4,
+        "Steel Screw": 8
+      },
       "crafted_at": "Alteration Bench",
       "tier": 3,
       "stats": {
@@ -116,7 +161,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 4,
+          "Steel Screw": 8
+        },
         "crafted_at": "Alteration Bench"
       }
     },
@@ -125,7 +173,10 @@
       "url": "https://icarus.fandom.com/wiki/Copper_Bolt",
       "description": "The Copper Bolt is ammunition used with a Crossbow . Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 1,
+        "Copper Ingot": 1
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -136,7 +187,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 1,
+          "Copper Ingot": 1
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -145,7 +199,10 @@
       "url": "https://icarus.fandom.com/wiki/Copper_Cluster_Lamp",
       "description": "The Copper Cluster Lamp is a simple low output lamp that does not require fuel to operate but does require water to craft.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Copper Ingot": 35,
+        "Stone": 10
+      },
       "crafted_at": "Masonry Bench",
       "tier": 2,
       "stats": {
@@ -157,7 +214,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Copper Ingot": 35,
+          "Stone": 10
+        },
         "crafted_at": "Masonry Bench"
       }
     },
@@ -166,7 +226,10 @@
       "url": "https://icarus.fandom.com/wiki/Copper_Geode_Lamp",
       "description": "The Copper Geode Lamp is a simple low output lamp that does not require fuel to operate but does require water to craft.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Copper Ingot": 10,
+        "Stone": 10
+      },
       "crafted_at": "Crafted AtMasonry BenchAdvanced Masonry BenchElectric Masonry Bench",
       "tier": 2,
       "stats": {
@@ -178,7 +241,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Copper Ingot": 10,
+          "Stone": 10
+        },
         "crafted_at": "Crafted AtMasonry BenchAdvanced Masonry BenchElectric Masonry Bench"
       }
     },
@@ -205,7 +271,10 @@
       "url": "https://icarus.fandom.com/wiki/Copper_Monolith_Lamp",
       "description": "The Copper Monolith Lamp is a simple low output lamp that does not require fuel to operate but does require water to craft.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Copper Ingot": 40,
+        "Stone": 10
+      },
       "crafted_at": "Masonry Bench",
       "tier": 2,
       "stats": {
@@ -217,7 +286,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Copper Ingot": 40,
+          "Stone": 10
+        },
         "crafted_at": "Masonry Bench"
       }
     },
@@ -226,7 +298,9 @@
       "url": "https://icarus.fandom.com/wiki/Copper_Nail",
       "description": "Copper Nail are used widely in crafting of items such as interior Interior Wood Building Pieces , and other items made of Refined Wood at the Carpentry Bench and Machining Bench .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Copper Ingot": 1
+      },
       "crafted_at": "Anvil Bench",
       "tier": 0,
       "stats": {},
@@ -235,7 +309,9 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Copper Ingot": 1
+        },
         "crafted_at": "Anvil Bench"
       }
     },
@@ -244,7 +320,9 @@
       "url": "https://icarus.fandom.com/wiki/Copper_Wire",
       "description": "Copper Wire is used in a variety of high-end buildings and components and is crafted in batches of 5.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Copper Ingot": 1
+      },
       "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {},
@@ -253,16 +331,22 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Copper Ingot": 1
+        },
         "crafted_at": "Machining Bench"
       }
     },
     {
       "name": "Deluxe Leather Saddle",
       "url": "https://icarus.fandom.com/wiki/Deluxe_Leather_Saddle",
-      "description": "The Deluxe Leather Saddle is a saddle for Mounts made with cured leather. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides no additional attributes.",
+      "description": "The Deluxe Leather Saddle is a saddle for Mounts made with cured leather. It is available as part of the Creature Comforts DLC and is a cosmetic change to the Basic Riding Saddle that provides +3 Mount Cargo inventory slots instead of the standard +2 slots.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Cured Leather": 14,
+        "Fur": 6,
+        "Rope": 2
+      },
       "crafted_at": "Ranching Station",
       "tier": 2,
       "stats": {
@@ -273,7 +357,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Cured Leather": 14,
+          "Fur": 6,
+          "Rope": 2
+        },
         "crafted_at": "Ranching Station"
       }
     },
@@ -282,7 +370,10 @@
       "url": "https://icarus.fandom.com/wiki/Iron_Bolt",
       "description": "The Iron Bolt is ammunition used with a Crossbow . Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 1,
+        "Iron Ingot": 2
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -293,7 +384,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 1,
+          "Iron Ingot": 2
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -302,26 +396,34 @@
       "url": "https://icarus.fandom.com/wiki/Iron_Cupboard",
       "description": "The Iron Cupboard comes with 50 inventory slots and can be used to safely store valuable resources. Unlike the Wood Cupboard , it does not require shelter and can be placed outside without risk of taking damage during storms.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 40,
+        "Rope": 4,
+        "Epoxy": 12
+      },
       "crafted_at": "Machining Bench Fabricator",
       "tier": 3,
       "stats": {
         "weight": "12.0 Kg",
         "durability": "1,500"
       },
-      "category": "storage containers",
+      "category": "deployables:storage containers",
       "harvested_from": [],
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 40,
+          "Rope": 4,
+          "Epoxy": 12
+        },
         "crafted_at": "Machining Bench Fabricator"
       }
     },
     {
       "name": "Iron Ingot",
       "url": "https://icarus.fandom.com/wiki/Iron_Ingot",
-      "description": "Iron Ingot is the refined resource crafted from Iron Ore and is one of the most used materials in the Tier 2  Tech Tree and beyond.",
+      "description": "Iron Ingot is the refined resource crafted from Iron Ore and is one of the most used materials in the Tier 2 Tech Tree and beyond.",
       "item_type": "craftable",
       "ingredients": {},
       "crafted_at": "Stone Furnace Concrete Furnace Electric Furnace",
@@ -339,9 +441,13 @@
     {
       "name": "Iron Javelin",
       "url": "https://icarus.fandom.com/wiki/Iron_Javelin",
-      "description": "The Iron Javelin is a variant of the Iron Spear that can only be thrown and is an upgrade over the Tier 1  Javelins.",
+      "description": "The Iron Javelin is a variant of the Iron Spear that can only be thrown and is an upgrade over the Tier 1 Javelins.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 5,
+        "Leather": 5,
+        "Iron Ingot": 20
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -353,7 +459,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 5,
+          "Leather": 5,
+          "Iron Ingot": 20
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -362,7 +472,11 @@
       "url": "https://icarus.fandom.com/wiki/Iron_Lure",
       "description": "The Iron Lure can be attached to a Fishing Rod or a Basic Fishing Trap / Advanced Fishing Trap to provide an increase to different attributes detailed in the infobox. Like all Lures , the Iron Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 2,
+        "Iron Nail": 2,
+        "Rope": 2
+      },
       "crafted_at": "Basic Fishing Bench",
       "tier": 2,
       "stats": {
@@ -374,7 +488,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 2,
+          "Iron Nail": 2,
+          "Rope": 2
+        },
         "crafted_at": "Basic Fishing Bench"
       }
     },
@@ -383,7 +501,9 @@
       "url": "https://icarus.fandom.com/wiki/Iron_Nail",
       "description": "Iron Nail are used widely in crafting of items such as Stone Building Pieces , and Iron Tools .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 1
+      },
       "crafted_at": "Anvil Bench",
       "tier": 0,
       "stats": {},
@@ -392,16 +512,23 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 1
+        },
         "crafted_at": "Anvil Bench"
       }
     },
     {
       "name": "Iron Shears",
       "url": "https://icarus.fandom.com/wiki/Iron_Shears",
-      "description": "The Iron Shears are use to shear Sheep to obtain Wool . Can cause 30-40 Melee damage",
+      "description": "The Iron Shears are use to shear Sheep to obtain Wool . Can cause 30-40 Melee damage.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Fiber": 10,
+        "Leather": 10,
+        "Iron Ingot": 6,
+        "Iron Nail": 2
+      },
       "crafted_at": "Anvil Bench",
       "tier": 2,
       "stats": {
@@ -413,7 +540,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Fiber": 10,
+          "Leather": 10,
+          "Iron Ingot": 6,
+          "Iron Nail": 2
+        },
         "crafted_at": "Anvil Bench"
       }
     },
@@ -422,7 +554,11 @@
       "url": "https://icarus.fandom.com/wiki/Iron_Sickle",
       "description": "Used by 'attacking' plants such as shrubs, Reed Flower , Wheat , etc. Sickles significantly increase the yield of plants when harvesting.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 4,
+        "Leather": 4,
+        "Iron Ingot": 10
+      },
       "crafted_at": "the Anvil Bench with the following resources:",
       "tier": 2,
       "stats": {
@@ -435,7 +571,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 4,
+          "Leather": 4,
+          "Iron Ingot": 10
+        },
         "crafted_at": "the Anvil Bench with the following resources:"
       }
     },
@@ -444,7 +584,10 @@
       "url": "https://icarus.fandom.com/wiki/Leather_Attachment",
       "description": "Leather Attachment is a mid-to-end game item available once the prospector has unlocked the Tool Attachment Pack tech.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 4,
+        "Fur": 8
+      },
       "crafted_at": "Alteration Bench",
       "tier": 3,
       "stats": {
@@ -455,17 +598,24 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 4,
+          "Fur": 8
+        },
         "crafted_at": "Alteration Bench"
       }
     },
     {
       "name": "Leather Backpack",
       "url": "https://icarus.fandom.com/wiki/Leather_Backpack",
-      "description": "The Leather Backpack is a must need when mining ores, or taking long trips across Icarus, fit everything you need inside for survival!",
+      "description": "The Leather Backpack is an inexpensive craftable backpack that adds weight carrying capacity, reduces the weight of carried ores and provides six inventory slots. It provides a minimal backpack for the early game to haul ores and other goods across Icarus.",
       "item_type": "craftable",
-      "ingredients": {},
-      "crafted_at": "Textiles Bench",
+      "ingredients": {
+        "Rope": 8,
+        "Leather": 20,
+        "Fiber": 10
+      },
+      "crafted_at": "Lagos Unit dispatcher on Ceres Station",
       "tier": 2,
       "stats": {
         "weight": "0.5Kg",
@@ -476,8 +626,12 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Textiles Bench"
+        "ingredients": {
+          "Rope": 8,
+          "Leather": 20,
+          "Fiber": 10
+        },
+        "crafted_at": "Lagos Unit dispatcher on Ceres Station"
       }
     },
     {
@@ -485,7 +639,10 @@
       "url": "https://icarus.fandom.com/wiki/Medium_Iron_Crate",
       "description": "A Medium Iron Crate, use it to safely store valuable resources. Unlike the Medium Wood Crate , it does not require shelter and can be placed outside (immune to storm damage).",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 32,
+        "Epoxy": 8
+      },
       "crafted_at": "Machining Bench",
       "tier": 3,
       "stats": {
@@ -497,7 +654,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 32,
+          "Epoxy": 8
+        },
         "crafted_at": "Machining Bench"
       }
     },
@@ -560,7 +720,11 @@
       "url": "https://icarus.fandom.com/wiki/Refined_Wood_Lure",
       "description": "The Refined Wood Lure can be attached to a Fishing Rod or a Basic Fishing Trap / Advanced Fishing Trap to provide an increase to different attributes detailed in the infobox. The capture zone size increase widens the size of the capture area during the fishing minigame, increasing the success chance of catching a fish. Like all Lures , the Refined Wood Lure degrades with use and will eventually break after ten uses.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Refined Wood": 2,
+        "Copper Nail": 2,
+        "Organic Resin": 2
+      },
       "crafted_at": "Basic Fishing Bench",
       "tier": 2,
       "stats": {
@@ -572,7 +736,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Refined Wood": 2,
+          "Copper Nail": 2,
+          "Organic Resin": 2
+        },
         "crafted_at": "Basic Fishing Bench"
       }
     },
@@ -581,8 +749,10 @@
       "url": "https://icarus.fandom.com/wiki/Rope",
       "description": "Intermediate crafting item used as a component of many recipes.",
       "item_type": "craftable",
-      "ingredients": {},
-      "crafted_at": "Crafted atCrafting BenchTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
+      "ingredients": {
+        "Fiber": 12
+      },
+      "crafted_at": "Crafted atCrafting BenchMachining BenchFabricatorTextiles BenchAdvanced Textiles BenchElectric Textiles Bench",
       "tier": 2,
       "stats": {},
       "category": "resources",
@@ -590,8 +760,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
-        "crafted_at": "Crafted atCrafting BenchTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
+        "ingredients": {
+          "Fiber": 12
+        },
+        "crafted_at": "Crafted atCrafting BenchMachining BenchFabricatorTextiles BenchAdvanced Textiles BenchElectric Textiles Bench"
       }
     },
     {
@@ -599,7 +771,10 @@
       "url": "https://icarus.fandom.com/wiki/Small_Iron_Crate",
       "description": "A Small Iron Crate, use it to safely store valuable resources. Unlike the Small Wood Crate , it does not require shelter and can be placed outside (immune to storm damage).",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Iron Ingot": 24,
+        "Epoxy": 4
+      },
       "crafted_at": "Machining Bench",
       "tier": 2,
       "stats": {
@@ -611,16 +786,80 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ingot": 24,
+          "Epoxy": 4
+        },
         "crafted_at": "Machining Bench"
+      }
+    },
+    {
+      "name": "Small Iron Cupboard",
+      "url": "https://icarus.fandom.com/wiki/Small_Iron_Cupboard",
+      "description": "The Small Iron Cupboard is a deployable wall-mounted cabinet made of iron.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Iron Ingot": 25,
+        "Rope": 4,
+        "Epoxy": 8
+      },
+      "crafted_at": "Machining Bench Fabricator",
+      "tier": 3,
+      "stats": {
+        "weight": "3.0 Kg",
+        "durability": "750"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Iron Ingot": 25,
+          "Rope": 4,
+          "Epoxy": 8
+        },
+        "crafted_at": "Machining Bench Fabricator"
+      }
+    },
+    {
+      "name": "Small Iron Sign",
+      "url": "https://icarus.fandom.com/wiki/Small_Iron_Sign",
+      "description": "The Small Iron Sign is a deployable sturdy metal sign post.",
+      "item_type": "craftable",
+      "ingredients": {
+        "Iron Ingot": 8,
+        "Epoxy": 2,
+        "Copper Nail": 4
+      },
+      "crafted_at": "Machining Bench Fabricator",
+      "tier": 3,
+      "stats": {
+        "weight": "1.0 Kg",
+        "durability": "250"
+      },
+      "category": "deployables",
+      "harvested_from": [],
+      "research_cost": null,
+      "purchase_cost": null,
+      "base_recipe": {
+        "ingredients": {
+          "Iron Ingot": 8,
+          "Epoxy": 2,
+          "Copper Nail": 4
+        },
+        "crafted_at": "Machining Bench Fabricator"
       }
     },
     {
       "name": "Steel Bloom",
       "url": "https://icarus.fandom.com/wiki/Steel_Bloom",
       "description": "Steel Bloom is a crafted resource that can be smelted in a Stone Furnace , Concrete Furnace or Electric Furnace to make a Steel Ingot . It can made made from Iron Ore or Iron Ingot and Coal Ore or Charcoal .",
-      "item_type": "weapon",
-      "ingredients": {},
+      "item_type": "craftable",
+      "ingredients": {
+        "Iron Ore": 6,
+        "Coal Ore": 1
+      },
       "crafted_at": "Unknown",
       "tier": 2,
       "stats": {},
@@ -629,7 +868,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Iron Ore": 6,
+          "Coal Ore": 1
+        },
         "crafted_at": "Unknown"
       }
     },
@@ -638,7 +880,10 @@
       "url": "https://icarus.fandom.com/wiki/Steel_Bolt",
       "description": "The Steel Bolt is ammunition used with a Crossbow . Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass. Crafted in batches of 5.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 1,
+        "Steel Ingot": 1
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -649,7 +894,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 1,
+          "Steel Ingot": 1
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -658,7 +906,10 @@
       "url": "https://icarus.fandom.com/wiki/Steel_Heater_Shield",
       "description": "Background information on the Steel Heater Shield can be found here .",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Steel Ingot": 10,
+        "Leather": 15
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -670,7 +921,10 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Steel Ingot": 10,
+          "Leather": 15
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -697,7 +951,11 @@
       "url": "https://icarus.fandom.com/wiki/Steel_Javelin",
       "description": "The Steel Javelin is a variant of the Steel Spear that can only be thrown. A cheap upgrade to the Iron Javelin that increases projectile damage with a lower break chance, but is locked until prospectors reach level 20.",
       "item_type": "craftable",
-      "ingredients": {},
+      "ingredients": {
+        "Wood": 5,
+        "Leather": 5,
+        "Steel Ingot": 20
+      },
       "crafted_at": "Anvil Bench Forge Foundry",
       "tier": 2,
       "stats": {
@@ -709,7 +967,11 @@
       "research_cost": null,
       "purchase_cost": null,
       "base_recipe": {
-        "ingredients": {},
+        "ingredients": {
+          "Wood": 5,
+          "Leather": 5,
+          "Steel Ingot": 20
+        },
         "crafted_at": "Anvil Bench Forge Foundry"
       }
     },
@@ -737,7 +999,7 @@
       "description": "Steel Screw is used in crafting high end tools, weapons, and structures like Aluminium Buildings .",
       "item_type": "craftable",
       "ingredients": {
-        "Steel Ingot": 100
+        "Steel Ingot": 1
       },
       "crafted_at": "Machining Bench",
       "tier": 3,
@@ -748,7 +1010,7 @@
       "purchase_cost": null,
       "base_recipe": {
         "ingredients": {
-          "Steel Ingot": 100
+          "Steel Ingot": 1
         },
         "crafted_at": "Machining Bench"
       }
@@ -756,7 +1018,7 @@
     {
       "name": "Titanium Ingot",
       "url": "https://icarus.fandom.com/wiki/Titanium_Ingot",
-      "description": "Titanium Ingot is the refined resource crafted from Titanium Ore , is used widely in Tier 4  crafting recipes.",
+      "description": "Titanium Ingot is the refined resource crafted from Titanium Ore , is used widely in Tier 4 crafting recipes.",
       "item_type": "weapon",
       "ingredients": {},
       "crafted_at": "Unknown",

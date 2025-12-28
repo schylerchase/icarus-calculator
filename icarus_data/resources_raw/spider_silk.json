@@ -1,0 +1,20 @@
+{
+  "name": "Spider Silk",
+  "url": "https://icarus.fandom.com/wiki/Spider_Silk",
+  "description": "Spider Silk is a Animal Resource harvested from Spiders .",
+  "item_type": "harvestable",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "animal resources",
+  "harvested_from": [
+    "Spiders"
+  ],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

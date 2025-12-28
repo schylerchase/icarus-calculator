@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Regent_Animal_Bed",
   "description": "The Regent Animal Bed is a bed for Mounts and Pets that has a luxurious theme. It is available as part of the Creature Comforts DLC . Provides no additional attributes and is a cosmetic change to the Animal Bed .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Platinum Weave": 30,
+    "Fur": 40,
+    "Black Jaguar Vestige": 1
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Platinum Weave": 30,
+      "Fur": 40,
+      "Black Jaguar Vestige": 1
+    },
     "crafted_at": "Ranching Station"
   }
 }

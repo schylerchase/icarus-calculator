@@ -2,8 +2,13 @@
   "name": "Titanium Axe",
   "url": "https://icarus.fandom.com/wiki/Titanium_Axe",
   "description": "The Titanium Axe is the highest tiered Axe that can be crafted while on the surface of Icarus.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Carbon Fiber": 4,
+    "Steel Screw": 8,
+    "Epoxy": 4,
+    "Titanium Ingot": 12
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {
@@ -16,7 +21,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Carbon Fiber": 4,
+      "Steel Screw": 8,
+      "Epoxy": 4,
+      "Titanium Ingot": 12
+    },
     "crafted_at": "Unknown"
   }
 }

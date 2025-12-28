@@ -2,8 +2,11 @@
   "name": "Berry Smoked Saltwater Fillet",
   "url": "https://icarus.fandom.com/wiki/Berry_Smoked_Saltwater_Fillet",
   "description": "Berry Smoked Saltwater Fillet is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Saltwater Fish Fillet": 1,
+    "Wild Berry": 5
+  },
   "crafted_at": "Unknown",
   "tier": 3,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Saltwater Fish Fillet": 1,
+      "Wild Berry": 5
+    },
     "crafted_at": "Unknown"
   }
 }

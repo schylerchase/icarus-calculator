@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Refined_Wood_Fishing_Rod",
   "description": "One approach to catching fish is by using a Fishing Rod. Though a lure is not required, attaching one can increase the quality, length, and weight of the caught fish. Additionally, certain lures can increase the odds of catching fish of a certain rarity or increase the size of the capture area. For a list of available lures, view this page .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 20,
+    "Iron Ingot": 2,
+    "Rope": 5
+  },
   "crafted_at": "Basic Fishing Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 20,
+      "Iron Ingot": 2,
+      "Rope": 5
+    },
     "crafted_at": "Basic Fishing Bench"
   }
 }

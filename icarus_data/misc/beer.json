@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Beer",
   "description": "Beer is a mid-game beverage made from Yeast and Wheat that greatly increases stamina and stamina regeneration.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wheat": 20,
+    "Yeast": 1,
+    "Beer Bottle": 1
+  },
   "crafted_at": "Blueprint points in the Glassworking Bench",
   "tier": 3,
   "stats": {},
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wheat": 20,
+      "Yeast": 1,
+      "Beer Bottle": 1
+    },
     "crafted_at": "Blueprint points in the Glassworking Bench"
   }
 }

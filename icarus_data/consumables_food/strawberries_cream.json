@@ -2,8 +2,11 @@
   "name": "Strawberries & Cream",
   "url": "https://icarus.fandom.com/wiki/Strawberries_%26_Cream",
   "description": "Strawberries & Cream is a long-lasting Food with a unique Status Effect , which can be stacked with other food buffs.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Strawberry": 4,
+    "Cream": 2
+  },
   "crafted_at": "Unknown",
   "tier": 3,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Strawberry": 4,
+      "Cream": 2
+    },
     "crafted_at": "Unknown"
   }
 }

@@ -2,8 +2,10 @@
   "name": "Stamina Regeneration Paste",
   "url": "https://icarus.fandom.com/wiki/Stamina_Regeneration_Paste",
   "description": "In-game description: An organic stimulant that accelerates stamina recovery. In-game flavor text: A herbal preparation that acts rapidly on the sympathetic nervous system, increasing noradrenergic activity.",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Reed Flower": 2
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Reed Flower": 2
+    },
     "crafted_at": "Unknown"
   }
 }

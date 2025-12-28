@@ -1,9 +1,14 @@
 {
   "name": "Interior Wood Cupboard",
   "url": "https://icarus.fandom.com/wiki/Interior_Wood_Cupboard",
-  "description": "A Interior Wood Cupboard made of refined wood and copper nails. Similar size to the Wood Cupboard .",
+  "description": "The Interior Wood Cupboard is a deployable floor-standing storage cabinet made of Refined Wood .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Leather": 8,
+    "Refined Wood": 40,
+    "Copper Nail": 20,
+    "Rope": 8
+  },
   "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Leather": 8,
+      "Refined Wood": 40,
+      "Copper Nail": 20,
+      "Rope": 8
+    },
     "crafted_at": "Carpentry Bench"
   }
 }

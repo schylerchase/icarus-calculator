@@ -1,9 +1,18 @@
 {
   "name": "Biofuel",
   "url": "https://icarus.fandom.com/wiki/Biofuel",
-  "description": "Biofuel is a mid-game, Tier 3  fuel that can be crafted or purchased and used to fuel a variety of Deployable equipment and sometimes quest items seen in Missions .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "description": "Biofuel is a mid-game, Tier 3 fuel that can be crafted or purchased and used to fuel a variety of Deployable equipment and sometimes quest items seen in Missions .",
+  "item_type": "craftable",
+  "ingredients": {
+    "Stick": 500,
+    "Wood": 100,
+    "Raw Meat": 200,
+    "Cooked Meat": 100,
+    "Spoiled Meat": 200,
+    "Spoiled Plants": 200,
+    "Guano": 40,
+    "Vegetable Oil": 34
+  },
   "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
@@ -12,7 +21,16 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Stick": 500,
+      "Wood": 100,
+      "Raw Meat": 200,
+      "Cooked Meat": 100,
+      "Spoiled Meat": 200,
+      "Spoiled Plants": 200,
+      "Guano": 40,
+      "Vegetable Oil": 34
+    },
     "crafted_at": "Unknown"
   }
 }

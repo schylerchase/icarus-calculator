@@ -1,0 +1,31 @@
+{
+  "name": "Small Wood Cupboard",
+  "url": "https://icarus.fandom.com/wiki/Small_Wood_Cupboard",
+  "description": "The Small Wood Cupboard is a small deployable wooden cabinet for Storage that can be mounted on a wall.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Wood": 25,
+    "Leather": 5,
+    "Copper Nail": 4,
+    "Rope": 5
+  },
+  "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator",
+  "tier": 2,
+  "stats": {
+    "weight": "2.0 kg",
+    "durability": "250"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Wood": 25,
+      "Leather": 5,
+      "Copper Nail": 4,
+      "Rope": 5
+    },
+    "crafted_at": "Crafted AtCrafting BenchCarpentry BenchElectric Carpentry BenchMachining BenchFabricator"
+  }
+}

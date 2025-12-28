@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Water_Purifier",
   "description": "Water Purifiers can be crafted from the Machining Bench with the following resources once the appropriate blueprint point has been spent:",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 40,
+    "Iron Ingot": 10,
+    "Stone": 30,
+    "Epoxy": 5
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 40,
+      "Iron Ingot": 10,
+      "Stone": 30,
+      "Epoxy": 5
+    },
     "crafted_at": "Machining Bench"
   }
 }

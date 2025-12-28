@@ -4,7 +4,7 @@
   "description": "Kiwifruit are a fresh fruit that can be eaten raw for a small boost in stamina and resistance to cave sickness or used in additional Food recipes.",
   "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Workshop",
+  "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
   "category": "",
@@ -13,6 +13,6 @@
   "purchase_cost": 3,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop"
+    "crafted_at": "Unknown"
   }
 }

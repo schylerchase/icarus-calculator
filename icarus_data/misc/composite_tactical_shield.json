@@ -2,8 +2,14 @@
   "name": "Composite Tactical Shield",
   "url": "https://icarus.fandom.com/wiki/Composite_Tactical_Shield",
   "description": "The Composite Tactical Shield is crafted at the Foundry with the following resources:",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Composites": 14,
+    "Platinum Weave": 4,
+    "Steel Screw": 20,
+    "Epoxy": 4,
+    "Titanium Plate": 2
+  },
   "crafted_at": "Unknown",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Composites": 14,
+      "Platinum Weave": 4,
+      "Steel Screw": 20,
+      "Epoxy": 4,
+      "Titanium Plate": 2
+    },
     "crafted_at": "Unknown"
   }
 }

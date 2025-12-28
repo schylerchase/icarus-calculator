@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Advanced_Masonry_Bench",
   "description": "The Advanced Masonry Bench enables the construction of Scoria Brick Building Pieces and Clay Brick Building Pieces and is able to craft items made the Masonry Bench at a faster rate, but only once the prospector researches the blueprint sets for those building pieces.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 25,
+    "Epoxy": 15,
+    "Iron Nail": 80,
+    "Stone": 150
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 25,
+      "Epoxy": 15,
+      "Iron Nail": 80,
+      "Stone": 150
+    },
     "crafted_at": "Machining Bench"
   }
 }

@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Arctic_Vesper_Trophy",
   "description": "An Arctic Vesper Trophy is a decorative deployable that can be placed on any wall surface and is used to liven any living space.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 30,
+    "Arctic Vesper Vestige": 1
+  },
   "crafted_at": "Trophy Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 30,
+      "Arctic Vesper Vestige": 1
+    },
     "crafted_at": "Trophy Bench"
   }
 }

@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Trajectory_Module_Attachment",
   "description": "Trajectory Module Attachment is a mid-to-end game item available once the prospector has unlocked the Ranged Attachment Pack tech.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 2,
+    "Refined Wood": 6
+  },
   "crafted_at": "Alteration Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 2,
+      "Refined Wood": 6
+    },
     "crafted_at": "Alteration Bench"
   }
 }

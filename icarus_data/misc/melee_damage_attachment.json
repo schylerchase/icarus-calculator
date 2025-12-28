@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Melee_Damage_Attachment",
   "description": "Melee Damage Attachment is a mid-to-end game item available once the prospector has unlocked the Tool Attachment Pack tech.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 4,
+    "Leather": 6,
+    "Refined Wood": 6
+  },
   "crafted_at": "Alteration Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 4,
+      "Leather": 6,
+      "Refined Wood": 6
+    },
     "crafted_at": "Alteration Bench"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "name": "Small Iron Cupboard",
+  "url": "https://icarus.fandom.com/wiki/Small_Iron_Cupboard",
+  "description": "The Small Iron Cupboard is a deployable wall-mounted cabinet made of iron.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Iron Ingot": 25,
+    "Rope": 4,
+    "Epoxy": 8
+  },
+  "crafted_at": "Machining Bench Fabricator",
+  "tier": 3,
+  "stats": {
+    "weight": "3.0 Kg",
+    "durability": "750"
+  },
+  "category": "deployables",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Iron Ingot": 25,
+      "Rope": 4,
+      "Epoxy": 8
+    },
+    "crafted_at": "Machining Bench Fabricator"
+  }
+}

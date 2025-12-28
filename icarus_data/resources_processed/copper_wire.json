@@ -3,7 +3,9 @@
   "url": "https://icarus.fandom.com/wiki/Copper_Wire",
   "description": "Copper Wire is used in a variety of high-end buildings and components and is crafted in batches of 5.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Copper Ingot": 1
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {},
@@ -12,7 +14,9 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Copper Ingot": 1
+    },
     "crafted_at": "Machining Bench"
   }
 }

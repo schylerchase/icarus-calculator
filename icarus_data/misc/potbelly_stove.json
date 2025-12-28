@@ -6,9 +6,7 @@
   "ingredients": {
     "Iron Ingot": 40,
     "Copper Ingot": 6,
-    "Epoxy": 10,
-    "Campfire/Firepit/FireplacePotbelly StoveBiofuel StoveElectric Stove": 30,
-    "Potbelly StoveBiofuel StoveElectric Stove": 2
+    "Epoxy": 10
   },
   "crafted_at": "Crafting Bench",
   "tier": 2,
@@ -24,9 +22,7 @@
     "ingredients": {
       "Iron Ingot": 40,
       "Copper Ingot": 6,
-      "Epoxy": 10,
-      "Campfire/Firepit/FireplacePotbelly StoveBiofuel StoveElectric Stove": 30,
-      "Potbelly StoveBiofuel StoveElectric Stove": 2
+      "Epoxy": 10
     },
     "crafted_at": "Crafting Bench"
   }

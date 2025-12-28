@@ -4,7 +4,7 @@
   "description": "The Stone Pile, alongside the Wood Pile , are makeshift storage options for large quantities of each raw material. The Stone Pile is immune to ALL Weather damage and can be used as a durable barrier to Fauna , especially against Fauna like the Grizzly Bear . If placed with just a narrow opening between piles, Bears have an incredibly difficult time getting through which allows the Prospector to melee attack just beyond the bear's attack range.",
   "item_type": "craftable",
   "ingredients": {
-    "Stone": 1
+    "Stone": 100
   },
   "crafted_at": "Unknown",
   "tier": 1,
@@ -15,7 +15,7 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {
-      "Stone": 1
+      "Stone": 100
     },
     "crafted_at": "Unknown"
   }

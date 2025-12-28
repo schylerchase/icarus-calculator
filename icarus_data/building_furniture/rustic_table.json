@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Rustic_Table",
   "description": "The Rustic Table is a simple wooden table.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 20,
+    "Stick": 20,
+    "Iron Nail": 10
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +19,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 20,
+      "Stick": 20,
+      "Iron Nail": 10
+    },
     "crafted_at": "Decoration Bench"
   }
 }

@@ -1,10 +1,22 @@
 {
   "name": "Raw White Meat",
   "url": "https://icarus.fandom.com/wiki/Raw_White_Meat",
-  "description": "Eating Raw White Meat will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
-  "item_type": "weapon",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "description": "Raw White Meat is a prime cut of raw meat that drops from various Fauna . Eating Raw White Meat will replenish Health , but there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Chicken": 100,
+    "Ubis": 50,
+    "Crocodile": 30,
+    "Needler": 30,
+    "Stryder": 25,
+    "Dreadwing": 25,
+    "Wild Boar": 10,
+    "Kea": 10,
+    "Moa": 10,
+    "Arctic Moa": 10,
+    "Dribbo": 10
+  },
+  "crafted_at": "the Butchery Bench using Raw Meat",
   "tier": 0,
   "stats": {},
   "category": "food",
@@ -12,7 +24,19 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
+    "ingredients": {
+      "Chicken": 100,
+      "Ubis": 50,
+      "Crocodile": 30,
+      "Needler": 30,
+      "Stryder": 25,
+      "Dreadwing": 25,
+      "Wild Boar": 10,
+      "Kea": 10,
+      "Moa": 10,
+      "Arctic Moa": 10,
+      "Dribbo": 10
+    },
+    "crafted_at": "the Butchery Bench using Raw Meat"
   }
 }

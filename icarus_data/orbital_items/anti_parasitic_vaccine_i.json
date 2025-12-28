@@ -4,7 +4,7 @@
   "description": "Anti-Parasitic Vaccine I is purchased in the Workshop on the Space Station . Vaccines are long lasting preventatives of aliments on Icarus, they provide a unqiue Status Effect , which makes surviving the enviroment without worry possible.",
   "item_type": "orbital",
   "ingredients": {},
-  "crafted_at": "Workshop",
+  "crafted_at": "Unknown",
   "tier": 0,
   "stats": {},
   "category": "medicine",
@@ -13,6 +13,6 @@
   "purchase_cost": null,
   "base_recipe": {
     "ingredients": {},
-    "crafted_at": "Workshop"
+    "crafted_at": "Unknown"
   }
 }

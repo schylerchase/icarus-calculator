@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Water_Borer",
   "description": "The Water Borer is a device that can be placed on Enzyme Geysers and when powered, can be used to extract Water which can be fed into a water network.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 12,
+    "Composites": 4,
+    "Electronics": 6,
+    "Steel Screw": 8,
+    "Copper Wire": 40
+  },
   "crafted_at": "Machining Bench",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 12,
+      "Composites": 4,
+      "Electronics": 6,
+      "Steel Screw": 8,
+      "Copper Wire": 40
+    },
     "crafted_at": "Machining Bench"
   }
 }

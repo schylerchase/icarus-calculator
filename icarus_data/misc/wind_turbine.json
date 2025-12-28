@@ -3,11 +3,18 @@
   "url": "https://icarus.fandom.com/wiki/Wind_Turbine",
   "description": "The Wind Turbine is a power generating device that must be placed outdoors. It provides 1,750 units of power when active and must also be placed in an area clear of obstructions for it to function. Use an Electricity Tool to connect it to Benches to provide power.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Electronics": 8,
+    "Steel Screw": 20,
+    "Aluminium Ingot": 25,
+    "Copper Wire": 35,
+    "Gold Wire": 25,
+    "Carbon Fiber": 5
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
-    "weight": "5.0 Kg",
+    "weight": "10.0 Kg",
     "durability": "2,500"
   },
   "category": "electricity source",
@@ -15,7 +22,14 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Electronics": 8,
+      "Steel Screw": 20,
+      "Aluminium Ingot": 25,
+      "Copper Wire": 35,
+      "Gold Wire": 25,
+      "Carbon Fiber": 5
+    },
     "crafted_at": "Fabricator"
   }
 }

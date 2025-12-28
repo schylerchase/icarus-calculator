@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Rustic_Icarus_Statue",
   "description": "The Rustic Icarus Statue is a decorative statue",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 5,
+    "Copper Ingot": 5
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 5,
+      "Copper Ingot": 5
+    },
     "crafted_at": "Decoration Bench"
   }
 }

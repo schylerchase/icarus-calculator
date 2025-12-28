@@ -3,7 +3,13 @@
   "url": "https://icarus.fandom.com/wiki/Biofuel_Generator",
   "description": "The Biofuel Generator generates Electricity when supplied with biofuel from a Biofuel Can . Use an Electricity Tool to connect it to Benches to provide power.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 20,
+    "Copper Wire": 40,
+    "Electronics": 12,
+    "Steel Screw": 20,
+    "Glass": 2
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 20,
+      "Copper Wire": 40,
+      "Electronics": 12,
+      "Steel Screw": 20,
+      "Glass": 2
+    },
     "crafted_at": "Fabricator"
   }
 }

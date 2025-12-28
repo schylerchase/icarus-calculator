@@ -1,0 +1,18 @@
+{
+  "name": "Arctic",
+  "url": "https://icarus.fandom.com/wiki/Arctic",
+  "description": "That said, the Arctic biome is not without its rewards. Ice is abundant and can help prospectors slow the decay of their Food when utilized in an Ice Box . Polar Bears and Woolly Mammoth potentially drop Raw Giant Steak , which can be a boon for prospectors still levelling up. Finally, a number of rare Resources can be found in the Arctic, like Mammoth Tusks .",
+  "item_type": "weapon",
+  "ingredients": {},
+  "crafted_at": "Unknown",
+  "tier": 0,
+  "stats": {},
+  "category": "",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {},
+    "crafted_at": "Unknown"
+  }
+}

@@ -1,9 +1,12 @@
 {
   "name": "Crude Ammo",
   "url": "https://icarus.fandom.com/wiki/Crude_Ammo",
-  "description": "Crude Ammo is a crude, low-tech ammunition that works with all categories of Pistols .",
+  "description": "Crude Ammo is a crude, low-tech ammunition that works with the One-Shot Pistol and the Automated Defense System: Pistol .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Gunpowder": 1,
+    "Iron Ingot": 2
+  },
   "crafted_at": "Crafting Bench Machining Bench Fabricator",
   "tier": 2,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Gunpowder": 1,
+      "Iron Ingot": 2
+    },
     "crafted_at": "Crafting Bench Machining Bench Fabricator"
   }
 }

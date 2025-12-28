@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Seed_Harvesting_Attachment",
   "description": "Seed Harvesting Attachment is a mid game item for attaching to a Harvesting Cart that allows collection of Seeds while harvesting crops planted in Dirt Mounds or Crop Plots . It has no effect on plants found in the wild.",
   "item_type": "harvestable",
-  "ingredients": {},
+  "ingredients": {
+    "Steel Ingot": 12,
+    "Epoxy": 4,
+    "Rope": 8,
+    "Refined Wood": 18
+  },
   "crafted_at": "Ranching Station",
   "tier": 2,
   "stats": {
@@ -16,7 +21,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Steel Ingot": 12,
+      "Epoxy": 4,
+      "Rope": 8,
+      "Refined Wood": 18
+    },
     "crafted_at": "Ranching Station"
   }
 }

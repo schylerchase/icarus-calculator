@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Art_Deco_Dining_Chair",
   "description": "The Art Deco Dining Chair is an gilded item of significant worth.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Gold": 6,
+    "Platinum Weave": 2
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Gold": 6,
+      "Platinum Weave": 2
+    },
     "crafted_at": "Decoration Bench"
   }
 }

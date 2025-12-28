@@ -1,9 +1,12 @@
 {
   "name": "Industrial Display Cabinet",
   "url": "https://icarus.fandom.com/wiki/Industrial_Display_Cabinet",
-  "description": "A minimalist Industrial Display Cabinet with 25 item slots",
+  "description": "The Industrial Display Cabinet is a modern display cabinet made from iron. It has 25 storage slots and is part of the Industrial Furniture Pack DLC.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 25,
+    "Steel Screw": 10
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 25,
+      "Steel Screw": 10
+    },
     "crafted_at": "Decoration Bench"
   }
 }

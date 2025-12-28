@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Small_Beehive_Expansion",
   "description": "The Small Beehive Expansion increases the Small Beehive generic inventory slots by 6 and reduces the energy transmutation cost by 10%.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Honeycomb": 15,
+    "Refined Wood": 20,
+    "Aluminium Ingot": 13,
+    "Steel Screw": 10
+  },
   "crafted_at": "Machining Bench",
   "tier": 2,
   "stats": {
@@ -14,7 +19,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Honeycomb": 15,
+      "Refined Wood": 20,
+      "Aluminium Ingot": 13,
+      "Steel Screw": 10
+    },
     "crafted_at": "Machining Bench"
   }
 }

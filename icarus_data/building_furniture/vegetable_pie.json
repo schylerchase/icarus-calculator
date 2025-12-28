@@ -2,8 +2,13 @@
   "name": "Vegetable Pie",
   "url": "https://icarus.fandom.com/wiki/Vegetable_Pie",
   "description": "Vegetable Pie is a Food with a unique Status Effect , which can be stacked with other food buffs. Can be eaten to satisfy Hunger .",
-  "item_type": "weapon",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "Pastry": 1,
+    "Squash": 1,
+    "Soy Bean": 1,
+    "Corn": 1
+  },
   "crafted_at": "Unknown",
   "tier": 3,
   "stats": {},
@@ -12,7 +17,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Pastry": 1,
+      "Squash": 1,
+      "Soy Bean": 1,
+      "Corn": 1
+    },
     "crafted_at": "Unknown"
   }
 }

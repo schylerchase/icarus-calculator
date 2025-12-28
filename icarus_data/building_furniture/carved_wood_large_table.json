@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Carved_Wood_Large_Table",
   "description": "The Carved Wood Large Table is a long wood table with room for 10 seats. The item has two build variants that can be selected with the 'R' key when deploying.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Wood": 150,
+    "Copper Nail": 35
+  },
   "crafted_at": "Carpentry Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Wood": 150,
+      "Copper Nail": 35
+    },
     "crafted_at": "Carpentry Bench"
   }
 }

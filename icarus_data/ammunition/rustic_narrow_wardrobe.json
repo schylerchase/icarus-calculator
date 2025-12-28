@@ -1,9 +1,12 @@
 {
   "name": "Rustic Narrow Wardrobe",
   "url": "https://icarus.fandom.com/wiki/Rustic_Narrow_Wardrobe",
-  "description": "The Rustic Narrow Wardrobe smaller wardrobe but still has 10 slot capacity and two variations selectable by holding R.",
+  "description": "The Rustic Narrow Wardrobe is a decorative wardrobe with a narrow profile and a 10 slot storage capacity. It has two build variants selectable by holding 'R' when deploying the item.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 30,
+    "Iron Nail": 15
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 30,
+      "Iron Nail": 15
+    },
     "crafted_at": "Decoration Bench"
   }
 }

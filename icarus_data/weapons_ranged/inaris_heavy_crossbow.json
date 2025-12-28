@@ -2,8 +2,12 @@
   "name": "Inaris \"Heavy\" Crossbow",
   "url": "https://icarus.fandom.com/wiki/Inaris_%22Heavy%22_Crossbow",
   "description": "The Inaris \"Heavy\" Crossbow is the opposite of the Inaris \"Rapid\" Crossbow , trading reload speed for a significant boost to overall damage. The Inaris \"Heavy\" Crossbow can use Crossbow Bolts crafted on planet as well as Bolts crafted in the Workshop .",
-  "item_type": "orbital",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "damage to non-hardened points": 300,
+    "damage to hardened points": 188,
+    "damage to extra hardened points": 75
+  },
   "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
@@ -16,7 +20,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "damage to non-hardened points": 300,
+      "damage to hardened points": 188,
+      "damage to extra hardened points": 75
+    },
     "crafted_at": "Workshop"
   }
 }

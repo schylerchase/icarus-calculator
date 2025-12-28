@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Brutalist_Dining_Chair",
   "description": "The Brutalist Dining Chair seats one and is mode from concrete and leather.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Concrete Mix": 4,
+    "Leather": 5
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
@@ -15,7 +18,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Concrete Mix": 4,
+      "Leather": 5
+    },
     "crafted_at": "Decoration Bench"
   }
 }

@@ -1,13 +1,18 @@
 {
   "name": "Art Deco Safe",
   "url": "https://icarus.fandom.com/wiki/Art_Deco_Safe",
-  "description": "The Art Deco Safe is an gilded item of significant worth.",
+  "description": "The Art Deco Safe is a heavy gilded storage box in the Art Deco style. It has 25 storage slots and is part of the Art Deco Furniture Pack DLC.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Refined Gold": 6,
+    "Steel Ingot": 14,
+    "Gold Wire": 4,
+    "Stone": 20
+  },
   "crafted_at": "Decoration Bench",
   "tier": 2,
   "stats": {
-    "weight": "10 Kg",
+    "weight": "5 Kg",
     "durability": "1,500"
   },
   "category": "deployables",
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Refined Gold": 6,
+      "Steel Ingot": 14,
+      "Gold Wire": 4,
+      "Stone": 20
+    },
     "crafted_at": "Decoration Bench"
   }
 }

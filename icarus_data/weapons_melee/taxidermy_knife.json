@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Taxidermy_Knife",
   "description": "The Taxidermy Knife is used for skinning Fauna carcasses, when a prospector wishes to obtain a Vestige for mounting. Skinning any carcass with a taxidermy knife grants four Bestiary points for the animal skinned.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 2,
+    "Leather": 4,
+    "Iron Ingot": 6,
+    "Iron Nail": 2
+  },
   "crafted_at": "Anvil Bench Forge Foundry",
   "tier": 2,
   "stats": {
@@ -16,7 +21,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 2,
+      "Leather": 4,
+      "Iron Ingot": 6,
+      "Iron Nail": 2
+    },
     "crafted_at": "Anvil Bench Forge Foundry"
   }
 }

@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Tracking_Attachment",
   "description": "The Tracking Attachment is an armor alteration that boosts Critical Damage and allows active world bosses to be seen on the map.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Titanium Ingot": 2,
+    "Electronics": 4
+  },
   "crafted_at": "Advanced Alteration Bench",
   "tier": 4,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Titanium Ingot": 2,
+      "Electronics": 4
+    },
     "crafted_at": "Advanced Alteration Bench"
   }
 }

@@ -2,8 +2,13 @@
   "name": "Larkwell Martinez Piercing Bolt",
   "url": "https://icarus.fandom.com/wiki/Larkwell_Martinez_Piercing_Bolt",
   "description": "The Larkwell Martinez Piercing Bolt is ammunition used with a Crossbow . Like arrows and javelins, they may be recovered after being fired into the ground or an animal carcass.",
-  "item_type": "orbital",
-  "ingredients": {},
+  "item_type": "craftable",
+  "ingredients": {
+    "1Description": 1,
+    "2Hardened Point Damage": 2,
+    "3Over Penetration Damage": 3,
+    "4Obtaining": 4
+  },
   "crafted_at": "Workshop",
   "tier": 0,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "1Description": 1,
+      "2Hardened Point Damage": 2,
+      "3Over Penetration Damage": 3,
+      "4Obtaining": 4
+    },
     "crafted_at": "Workshop"
   }
 }

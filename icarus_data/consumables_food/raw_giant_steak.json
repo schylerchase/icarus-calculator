@@ -1,10 +1,14 @@
 {
   "name": "Raw Giant Steak",
   "url": "https://icarus.fandom.com/wiki/Raw_Giant_Steak",
-  "description": "Raw Giant Steak can be obtained by Skinning animals with a Knife . Eating Raw Giant Steak will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
-  "item_type": "weapon",
-  "ingredients": {},
-  "crafted_at": "Unknown",
+  "description": "Raw Giant Steak is a prime cut of raw meat that drops from various large Fauna . Eating Raw Giant Steak will replenish Health , but there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Columbian Mammoth": 45,
+    "Woolly Mammoth": 45,
+    "Elephant": 40
+  },
+  "crafted_at": "the Butchery Bench using Raw Meat",
   "tier": 0,
   "stats": {},
   "category": "food",
@@ -12,7 +16,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
-    "crafted_at": "Unknown"
+    "ingredients": {
+      "Columbian Mammoth": 45,
+      "Woolly Mammoth": 45,
+      "Elephant": 40
+    },
+    "crafted_at": "the Butchery Bench using Raw Meat"
   }
 }

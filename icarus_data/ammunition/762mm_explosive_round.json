@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/7.62mm_Explosive_Round",
   "description": "7.62mm Explosive Rounds are used by the Bolt Action Rifle and the Hunting Rifle . Unlike arrows, javelins, and bolts this ammunition is destroyed on impact and cannot be recovered. Damages area around target. Caution when using this ammunition is advised.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    ".62mm Round": 1,
+    "Volatile Substance": 1
+  },
   "crafted_at": "Machining Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +17,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      ".62mm Round": 1,
+      "Volatile Substance": 1
+    },
     "crafted_at": "Machining Bench"
   }
 }

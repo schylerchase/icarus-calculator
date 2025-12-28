@@ -1,9 +1,15 @@
 {
   "name": "Advanced Battery Rack",
   "url": "https://icarus.fandom.com/wiki/Advanced_Battery_Rack",
-  "description": "The Advanced Battery Rack is a power-storing device that must be placed indoors. It can store up to 6,000k Ws of power and can charge/output power at a max rate of 10,000 Watts per second.",
+  "description": "The Advanced Battery Rack is a power-storing device that must be placed indoors. It can store up to 6,000kWs of power and can charge/output power at a max rate of 10,000 Watts per second.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Electronics": 8,
+    "Titanium Plate": 8,
+    "Copper Wire": 18,
+    "Gold Wire": 18,
+    "Composites": 4
+  },
   "crafted_at": "Fabricator",
   "tier": 4,
   "stats": {
@@ -15,7 +21,13 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Electronics": 8,
+      "Titanium Plate": 8,
+      "Copper Wire": 18,
+      "Gold Wire": 18,
+      "Composites": 4
+    },
     "crafted_at": "Fabricator"
   }
 }

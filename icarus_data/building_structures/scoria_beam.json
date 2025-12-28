@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Scoria_Beam",
   "description": "Scoria building material, while not as robust as Scoria Brick Building Pieces is still an effective choice.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 2,
+    "Scoria": 3,
+    "Leather": 1,
+    "Iron Nail": 6
+  },
   "crafted_at": "the Masonry Bench with the following resources:",
   "tier": 0,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 2,
+      "Scoria": 3,
+      "Leather": 1,
+      "Iron Nail": 6
+    },
     "crafted_at": "the Masonry Bench with the following resources:"
   }
 }

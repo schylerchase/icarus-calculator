@@ -3,7 +3,12 @@
   "url": "https://icarus.fandom.com/wiki/Stone_Beam",
   "description": "Stronger than Wood, and resistant to weather, Stone Buildings are a game changer when it comes to surviving on Icarus.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Wood": 2,
+    "Stone": 6,
+    "Leather": 1,
+    "Iron Nail": 6
+  },
   "crafted_at": "the Masonry Bench with the following resources:",
   "tier": 0,
   "stats": {
@@ -15,7 +20,12 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Wood": 2,
+      "Stone": 6,
+      "Leather": 1,
+      "Iron Nail": 6
+    },
     "crafted_at": "the Masonry Bench with the following resources:"
   }
 }

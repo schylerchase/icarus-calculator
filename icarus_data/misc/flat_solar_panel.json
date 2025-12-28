@@ -1,0 +1,33 @@
+{
+  "name": "Flat Solar Panel",
+  "url": "https://icarus.fandom.com/wiki/Flat_Solar_Panel",
+  "description": "The Flat Solar Panel is a low profile variant of the Solar Panel for placing on angled or flat roofs.",
+  "item_type": "craftable",
+  "ingredients": {
+    "Electronics": 30,
+    "Steel Screw": 10,
+    "Glass": 60,
+    "Composites": 18,
+    "Carbon Fiber": 8
+  },
+  "crafted_at": "Fabricator",
+  "tier": 4,
+  "stats": {
+    "weight": "10.0 Kg",
+    "durability": "2,500"
+  },
+  "category": "electricity source",
+  "harvested_from": [],
+  "research_cost": null,
+  "purchase_cost": null,
+  "base_recipe": {
+    "ingredients": {
+      "Electronics": 30,
+      "Steel Screw": 10,
+      "Glass": 60,
+      "Composites": 18,
+      "Carbon Fiber": 8
+    },
+    "crafted_at": "Fabricator"
+  }
+}

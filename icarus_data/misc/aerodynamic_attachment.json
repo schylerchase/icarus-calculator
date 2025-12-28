@@ -3,7 +3,11 @@
   "url": "https://icarus.fandom.com/wiki/Aerodynamic_Attachment",
   "description": "Aerodynamic Attachment is a mid-to-end game item available once the prospector has unlocked the Armor Attachment Pack tech.",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Iron Ingot": 4,
+    "Copper Nail": 8,
+    "Leather": 4
+  },
   "crafted_at": "Alteration Bench",
   "tier": 3,
   "stats": {
@@ -14,7 +18,11 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Iron Ingot": 4,
+      "Copper Nail": 8,
+      "Leather": 4
+    },
     "crafted_at": "Alteration Bench"
   }
 }

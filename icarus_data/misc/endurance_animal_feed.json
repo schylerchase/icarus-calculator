@@ -3,7 +3,10 @@
   "url": "https://icarus.fandom.com/wiki/Endurance_Animal_Feed",
   "description": "Endurance Animal Feed is an Animal Feed for Pets or Mounts with a unique Status Effect . Can be fed to mounts to satisfy Hunger . Endurance Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Endurance Animal Feed inside an Ice Box or Refrigerator .",
   "item_type": "craftable",
-  "ingredients": {},
+  "ingredients": {
+    "Seeds": 10,
+    "Corn": 5
+  },
   "crafted_at": "BenchRanching Station",
   "tier": 2,
   "stats": {},
@@ -12,7 +15,10 @@
   "research_cost": null,
   "purchase_cost": null,
   "base_recipe": {
-    "ingredients": {},
+    "ingredients": {
+      "Seeds": 10,
+      "Corn": 5
+    },
     "crafted_at": "BenchRanching Station"
   }
 }
