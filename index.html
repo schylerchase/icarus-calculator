@@ -937,23 +937,35 @@
                     React.createElement('h3', {
                         key: 'title',
                         style: { color: '#00d4ff', margin: '0 0 8px 0', fontSize: '1.2rem' }
-                    }, '🗺️ Interactive Map - Powered by Icarus Intel'),
-                    React.createElement('p', {
-                        key: 'description',
-                        style: { color: '#b0b3b8', margin: 0, fontSize: '14px' }
-                    }, 'Use the map controls to select different locations (Olympus, Prometheus, etc.) and filter resources.')
+                    }, [
+                    '🗺️ Interactive Map ',
+                    React.createElement('span', {
+                        key: 'attribution',
+                        style: { fontSize: '14px', fontWeight: 'normal', color: '#b0b3b8' }
+                    }, [
+                        '- powered by ',
+                        React.createElement('a', {
+                            key: 'link',
+                            href: 'https://www.icarusintel.com/',
+                            target: '_blank',
+                            rel: 'noopener noreferrer',
+                            style: { color: '#00d4ff', textDecoration: 'none' }
+                        }, 'Icarus Intel')
+                    ])
+                ])
                 ]),
 
-                // Embedded Map Container
+                // Embedded Map Container - full height
                 React.createElement('div', {
                     className: 'interactive-map-container',
                     key: 'map',
                     style: {
                         position: 'relative',
                         width: '100%',
-                        height: '800px',
-                        background: 'linear-gradient(135deg, #1a1a2e 0%, #16213e 100%)',
-                        borderRadius: '15px',
+                        height: 'calc(100vh - 180px)',
+                        minHeight: '600px',
+                        background: '#1a1a2e',
+                        borderRadius: '10px',
                         overflow: 'hidden',
                         border: '1px solid rgba(255,255,255,0.1)'
                     }
@@ -969,27 +981,6 @@
                         title: 'Icarus Interactive Map',
                         allow: 'fullscreen'
                     })
-                ]),
-
-                // Attribution footer
-                React.createElement('div', {
-                    key: 'attribution',
-                    style: {
-                        marginTop: '15px',
-                        textAlign: 'center',
-                        fontSize: '12px',
-                        color: '#b0b3b8'
-                    }
-                }, [
-                    React.createElement('span', { key: 'text' }, 'Interactive map provided by '),
-                    React.createElement('a', {
-                        key: 'link',
-                        href: 'https://www.icarusintel.com/',
-                        target: '_blank',
-                        rel: 'noopener noreferrer',
-                        style: { color: '#00d4ff', textDecoration: 'none' }
-                    }, 'Icarus Intel'),
-                    React.createElement('span', { key: 'text2' }, ' - Visit their site for full features')
                 ])
             ]);
         }
